@@ -1,0 +1,460 @@
+{
+  "subject": "Exercise Therapy I",
+  "chapterId": "ex1_ch2",
+  "chapterName": "Range of Motion (ROM) Exercise",
+  "definition": [
+    "Range of Motion (ROM): The full movement potential of a joint, quantified in angular degrees of a circle, extending from its starting position through a pain-free anatomical arc of motion.",
+    "Passive ROM (PROM): Movement within the unrestricted range of motion for a segment that is produced entirely by an external force (therapist, mechanical device, or gravity) with no voluntary muscle contraction from the patient.",
+    "Active-Assisted ROM (AAROM): A state of range of motion where assistance is provided by an external force (manual or mechanical) because the prime mover muscles require help to complete the motion.",
+    "Active ROM (AROM): Movement within the unrestricted range of motion for a segment that is produced entirely by voluntary active contraction of the muscles crossing the joint.",
+    "Stretching: A therapeutic maneuver designed to increase the pathologically shortened or restricted mobility of soft tissues, thereby increasing joint range of motion.",
+    "Anatomical End-Feel: The distinct mechanical sensation perceived by the physical therapist's hands when applying gentle overpressure at the terminal limit of a joint's range of motion.",
+    "Capsular Pattern: A predictable, proportional pattern of restriction of active and passive range of motion unique to each individual joint, indicating an underlying lesion of the joint capsule.",
+    "Hypermobility: A physiological or pathological state where a joint's range of motion exceeds standard normal parameters, often predisposing the joint to instability or subluxations."
+  ],
+  "principle": [
+    "Indications and Progression Principles: Passive ROM is indicated during acute tissue inflammation where active movement would disrupt healing, transitioning to Active-Assisted ROM as voluntary motor control improves, and eventually to Active ROM to build muscular endurance and neuromuscular patterns.",
+    "Limitation of Passive ROM: Passive ROM does NOT prevent muscle atrophy, build muscular strength or power, or increase active cardiopulmonary training reserves. It is primarily used to maintain joint mobility, prevent contractures, and stimulate fluid circulation.",
+    "Newtonian Mechanics in Muscle Support: When supporting a limb during ROM, the therapist's hand placement must stabilize the proximal skeletal segment while supporting and guiding the distal segment. Handholds must minimize long lever arm strain to prevent patient pain or tissue guarding.",
+    "Kinematics of Joint Nutrition: Articular cartilage is avascular and relies entirely on mechanical joint motion and weight-bearing to pump synovial fluid. Movement creates pressure gradients that force fluid into the cartilage, delivering oxygen and nutrients while removing metabolic waste.",
+    "Determining End-Feels: Normal end-feels are classified as Soft (soft tissue approximation, e.g., elbow flexion), Firm (capsular or ligamentous stretch, e.g., shoulder rotation), and Hard (bone-to-bone contact, e.g., elbow extension). Pathological end-feels include Empty, Spasm, and Springy Block.",
+    "Continuous Passive Motion (CPM): A therapeutic modality utilizing a motorized mechanical device to move a joint continuously through a preset, pain-free ROM without patient effort, shown to accelerate cartilage healing and reduce post-surgical adhesion formation."
+  ],
+  "equipment": [
+    "Universal Goniometer: A plastic or metal protractor device featuring a stationary arm, a moving arm, and a central fulcrum pivot point, used to quantitatively measure joint angles in clinical practice.",
+    "Continuous Passive Motion (CPM) Machine: An electric, programmable device used post-operatively (e.g., after total knee arthroplasty) to move a joint through a slow, continuous range of motion.",
+    "Overhead Pulley System: A wall-mounted rope-and-pulley setup used by patients to perform self-assisted ROM exercises for the shoulder joint.",
+    "Inclinometer: A gravity-based device used to measure spinal range of motion by detecting changes in mechanical inclination along anatomical curves."
+  ],
+  "parameters": {
+    "normalKneeFlexionRange": "0 - 135 degrees",
+    "normalElbowFlexionRange": "0 - 150 degrees",
+    "normalShoulderAbductionRange": "0 - 180 degrees",
+    "normalHipFlexionRange": "0 - 120 degrees",
+    "goniometerStructuralComponents": "Body (classic protractor), Stationary Arm, and Movement Arm",
+    "typesOfEndFeel": "Normal (Soft, Firm, Hard) and Abnormal (Empty, Spasm, Springy, Bone-to-Bone)"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Synovial Fluid Nutrition of Articular Cartilage",
+      "frequency": "Continuous",
+      "mechanism": [
+        "Mechanical passive movement compresses and decompresses articular cartilege.",
+        "Triggers the movement of synovial fluid into the avascular cartilege layers.",
+        "Delivers essential nutrients and oxygen to chondrocytes while promoting waste clearance."
+      ]
+    },
+    {
+      "effect": "Neuromuscular Proprioceptive Stimulation",
+      "frequency": "Dynamic",
+      "mechanism": [
+        "Active or passive ROM stretches joint capsule receptors, muscle spindles, and Golgi tendon organs.",
+        "Sends sensory signals through afferent nerve lines to the central nervous system.",
+        "Facilitates kinesthetic awareness, supports balance feedback, and assists in retraining coordinated motor patterns."
+      ]
+    }
+  ],
+  "indications": [
+    "Passive ROM: Acute, inflamed local tissue situations where active muscle contractions would threaten surgical repairs or cause extreme pain.",
+    "Active-Assisted ROM: Indicated when a patient is unable to complete full joint range of motion independently due to severe muscle weakness (Grade 2/5 on MMT).",
+    "Active ROM: Used when a patient can contract muscles independently without assistance, aiming to prevent atrophy, increase circulation, and retrain motor control."
+  ],
+  "contraindications": {
+    "general": [
+      "Known unstable cardiac conditions where active exercise must be strictly restricted to maintain physiological stability.",
+      "Immediately after critical orthopedic surgeries where movement is contraindicated to protect healing tendons or ligaments."
+    ],
+    "local": [
+      "Avoid any ranges of motion that evoke severe pain, audible joint clicking, or clear signs of joint subluxation.",
+      "Do not perform ROM over an active, untreated joint infection (septic arthritis)."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Explain the planned ROM exercise sequence carefully to the patient, advising them to report any discomfort immediately.",
+      "Position the patient in a relaxed, well-supported posture with the target joint easily accessible."
+    ],
+    "apparatusPreparation": [
+      "Select a goniometer of appropriate size matching the target joint.",
+      "Verify that the CPM machine handles are securely tightened and programmed to the patient's safe, pain-free boundaries."
+    ],
+    "skinPreparation": [
+      "Expose the joint area cleanly by draping, ensuring skin markers and bony landmarks are clearly visible for goniometric placement."
+    ],
+    "electrodePlacement": [
+      "For surface EMG feedback during active-assisted ROM, place tracking electrodes over prime mover muscle bellies."
+    ],
+    "treatmentProcedure": [
+      "Firmly grasp the limb proximally to stabilize the bone segment while supporting the distal segment during movement.",
+      "Perform the motion smoothly, slowly, and rhythmically through the complete pain-free range of motion.",
+      "To obtain a goniometric reading, align the stationary arm with the proximal bone segment, place the fulcrum over the joint's axis of rotation, and align the movement arm with the moving distal segment."
+    ]
+  },
+  "precautions": [
+    "Avoid applying excessive force or forcing past an analytical hard or painful end-feel.",
+    "Monitor cardiopulmonary signs closely if transferring weak patients to active self-assisted programs."
+  ],
+  "clinicalPearls": [
+    "An 'Empty' end-feel is a major clinical warning sign. It occurs when a therapist cannot reach the physical end of range because the patient demands they stop due to excruciating pain. No mechanical resistance is felt by the therapist, suggesting acute inflammation, fracture, or active tumor.",
+    "Passive ROM does not prevent muscle atrophy. A common clinical mistake is prescribing passive exercise to a patient with spinal cord injury expecting it to preserve muscle size; only active contractions can slow or reverse muscle wasting.",
+    "When aligning a goniometer, remember that the joint axis is not static; it shifts slightly during movement. Adjust the fulcrum continuously to ensure accurate angular measurements."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Subacute Shoulder Impingement AAROM Phase",
+      "position": "Supine on a padded plinth, holding a wooden dowel stick with both hands",
+      "electrodePlacement": "",
+      "frequency": "Perform 3 sets of 10 repetitions, 3 times daily",
+      "purpose": "Use the healthy contralateral arm to assist the injured shoulder through safe, guided shoulder flexion, avoiding painful mechanical impingement"
+    }
+  ],
+  "vivaQuestions": [
+    "Question: Define the capsular pattern of a joint and explain its clinical significance. | Answer: A capsular pattern is a predictable, proportional limitation of passive joint range of motion characteristic of each individual joint, indicating an underlying inflammatory lesion of the joint capsule. For example, in the glenohumeral joint, the capsular pattern of restriction is external rotation restricted most, followed by abduction, and then internal rotation. | Examiner Key Points: Definition, proportional limitation pattern, joint capsule involvement, shoulder example. | Clinical Importance: Helps clinicians differentiate diffuse capsular lesions (like adhesive capsulitis) from local non-capsular problems like tendinitis.",
+    "Question: Explain why passive range of motion (PROM) cannot prevent muscle atrophy and discuss its primary clinical purposes. | Answer: PROM cannot prevent muscle atrophy because muscle atrophy is slowed or prevented only by active physical muscular contraction (sarcomere tension and metabolic demand). The primary clinical purposes of PROM are to maintain joint mobility, prevent soft tissue contractures, maintain tissue elasticity, stimulate synovial fluid flow to nourish cartilage, and improve venous return. | Examiner Key Points: Inability of PROM to preserve muscle size, correct list of clinical purposes. | Clinical Importance: Guides standard post-op and stroke patient exercise designs to avoid ineffective or unrealistic goals.",
+    "Question: What is a goniometer? Detail the clinical steps for aligning and measuring joint range of motion. | Answer: A goniometer is a manual protractor tool used to measure joint angles. To perform a measurement: 1) Position and stabilize the patient to isolate the joint, 2) Place the goniometer fulcrum directly over the anatomical axis of joint rotation, 3) Align the stationary arm parallel to the longitudinal axis of the fixed proximal segment, 4) Align the movement arm with the longitudinal axis of the moving distal segment, and 5) Move the joint to its end-range and read the degree scale. | Examiner Key Points: Goniometer definitions, three structural parts, alignment landmarks. | Clinical Importance: Provides objective, reproducible data to track client clinical progress over time.",
+    "Question: Differentiate between normal and abnormal end-feels, providing two examples of each. | Answer: Normal end-feels are natural anatomical blocks: 1) Soft (muscle approximation, e.g., elbow flexion) and 2) Firm (capsular or ligamentous stretch, e.g., shoulder external rotation). Abnormal end-feels indicate pathology: 1) Empty (stopped by patient pain before reaching physical resistance, e.g., acute cell bursitis) and 2) Springy block (recoil sensation from loose bodies, e.g., torn meniscus block). | Examiner Key Points: Definition of end-feel, correct classification, tactile descriptions. | Clinical Importance: Critical diagnostic technique used to localize soft tissue pathology without imaging.",
+    "Question: What is Continuous Passive Motion (CPM) and discuss its proposed physiological benefits? | Answer: Continuous Passive Motion is a therapy where a motorized device moves a joint through a slow, continuous range of motion without patient muscular effort. Its physiological benefits include: 1) Preventing joint stiffness and adhesions, 2) Enhancing articular cartilage healing by circulating synovial fluid, 3) Reducing post-surgical pain and swelling, and 4) Accelerating wound healing. | Examiner Key Points: Motorized passive movement, cartilage nutrition, adhesion prevention. | Clinical Importance: Widely utilized immediately after total knee replacements to optimize recovery time.",
+    "Question: Describe the parameters of Active-Assisted Range of Motion (AAROM) and when it is clinically indicated. | Answer: AAROM is an exercise where prime mover muscles are voluntarily contracted but require external assistance (from a therapist, pulley, wand, or contralateral limb) to complete the motion. It is indicated when a patient's muscle strength is too weak (MMT Grade 2/5 or lower) to complete full range of motion against gravity, or in early healing phases to protect repairing structures. | Examiner Key Points: Active muscle contraction plus external aid, MMT 2/5 indication. | Clinical Importance: Bridging tool that transitions patients safely from passive mobility to active strength.",
+    "Question: How does joint mobilization/movement influence the nutrition of articular cartilage? | Answer: Articular cartilage is avascular, meaning it has no direct blood supply. It receives nutrients through synovia diffusion. Movement causes cyclic compression and decompression of the cartilage matrix, acting as a pump that forces stagnant fluid out and draws fresh, nutrient-rich synovial fluid in. Immobility leads to nutrient deprivation, cartilage degeneration, and joint stiffening. | Examiner Key Points: Avascular nature of cartilage, diffusion mechanism, cyclic mechanical pumping action. | Clinical Importance: Hard justification for early mobility protocols in post-operative and bedridden patients.",
+    "Question: Explain the difference between muscle range of motion and joint range of motion. | Answer: Joint range of motion relates to the movement of articular surfaces relative to one another (measured in degrees using a goniometer). Muscle range of motion (or flexibility) relates to the functional excursion of the muscles that cross the joint, representing its ability to lengthen and allow complete joint excursion. For multi-joint muscles, the distinction is vital because muscle tightness can limit joint ROM. | Examiner Key Points: Articular movement vs muscle excursion, single vs multi-joint muscle impacts. | Clinical Importance: Directs the clinician to either perform joint capsule mobilizations or target muscle stretching.",
+    "Question: What is an \"empty\" end-feel and what does it suggest to the examining physical therapist? | Answer: An empty end-feel occurs when progress through range of motion is halted not by physical joint or muscle tissue resistance, but by the patient demanding the therapist stop because of excruciating pain. This is always abnormal and suggests severe underlying conditions such as acute joint infections (septic arthritis), acute bursitis, osteomyelitis, neoplastic lesions, or fresh fractures. | Examiner Key Points: Pain-limited termination, absence of physical resistance, serious underlying pathology. | Clinical Importance: Acting as a red flag that requires immediate referral and caution to prevent catastrophic injury.",
+    "Question: Discuss the standard dosage and positioning principles for performing passive range of motion on a stroke patient. | Answer: For a stroke patient, PROM should be performed with the patient in a relaxed, supported position (usually supine). The therapist must support joint limbs to prevent shoulder subluxation or pain. The dosage is typically 1 to 2 sessions daily, performing 5 to 10 repetitions per joint at a slow, rhythmic speed, holding the end-range briefly to maintain tissue length and reduce spastic tone. | Examiner Key Points: Supine positioning, joint support, slow rhythmic speed, repetitions parameters. | Clinical Importance: Prevents painful, disabling spastic contractures in hemiplegic limbs."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following joint exercises is performed entirely without voluntary muscular contraction by the patient, relying solely on an external force?",
+      "options": [
+        "Active Range of Motion (AROM)",
+        "Active-Assisted Range of Motion (AAROM)",
+        "Passive Range of Motion (PROM)",
+        "Resisted Range of Motion (RROM)"
+      ],
+      "answer": "Passive Range of Motion (PROM)",
+      "explanation": "Passive range of motion is executed entirely by an external force (therapist, machine, or gravity) without any active muscle contraction from the patient."
+    },
+    {
+      "question": "A physical therapist attempts to move a patient's shoulder and is forced to stop due to severe pain before any tissue resistance is felt. How is this end-feel classified?",
+      "options": [
+        "Soft end-feel",
+        "Firm end-feel",
+        "Empty end-feel",
+        "Springy block end-feel"
+      ],
+      "answer": "Empty end-feel",
+      "explanation": "An empty end-feel is noted when a therapist is forced to stop movement because of the patient's severe pain before physical tissue resistance is encountered. This is always pathological."
+    },
+    {
+      "question": "Which of the following properties represents a major physical limitation of Passive Range of Motion (PROM)?",
+      "options": [
+        "It prevents joint capsule contractures",
+        "It maintains existing tissue elasticity",
+        "It cannot prevent muscle atrophy or build strength",
+        "It stimulates synovial fluid circulation"
+      ],
+      "answer": "It cannot prevent muscle atrophy or build strength",
+      "explanation": "PROM does not feature active muscular work and therefore cannot build strength, prevent muscle atrophy, or improve active cardiorespiratory endurance."
+    },
+    {
+      "question": "For a patient with a Manual Muscle Test (MMT) grade of 2/5 (poor muscle strength) who cannot complete full joint motion against gravity, which exercise is most indicated?",
+      "options": [
+        "Passive Range of Motion (PROM)",
+        "Active-Assisted Range of Motion (AAROM)",
+        "Resisted Range of Motion (RROM)",
+        "Isometric holding exercises"
+      ],
+      "answer": "Active-Assisted Range of Motion (AAROM)",
+      "explanation": "AAROM is indicated when prime mover muscles are too weak (typically Grade 2/5) to complete the full range against gravity, requiring external aid to finish the movement."
+    },
+    {
+      "question": "Articular cartilage, being completely avascular, receives its oxygen and nutrients primarily through:",
+      "options": [
+        "Direct perfusion from bone marrow vessels",
+        "Diffusion from the periosteum",
+        "Mechanical compression and decompression pumping synovial fluid",
+        "Systemic arterial blood supply"
+      ],
+      "answer": "Mechanical compression and decompression pumping synovial fluid",
+      "explanation": "Because articular cartilage has no blood supply, it relies on cyclic mechanical loading and joint movement to pump and circulate synovial fluid, facilitating nutrition diffusion."
+    },
+    {
+      "question": "What is the normal pelvic and hip goniometric value for hip flexion with the knee flexed in a healthy adult?",
+      "options": [
+        "0 - 90 degrees",
+        "0 - 120 degrees",
+        "0 - 150 degrees",
+        "0 - 180 degrees"
+      ],
+      "answer": "0 - 120 degrees",
+      "explanation": "According to standardized clinical guidelines, normal hip flexion is approximately 0 to 120 degrees."
+    },
+    {
+      "question": "Which part of the universal goniometer is aligned parallel to the longitudinal axis of the moving physical skeletal segment?",
+      "options": [
+        "The central fulcrum axis",
+        "The stationary arm",
+        "The movement arm",
+        "The gravity dynamic inclinometer"
+      ],
+      "answer": "The movement arm",
+      "explanation": "The movement arm of a goniometer is aligned and moved parallel to the longitudinal axis of the moving distal bone segment."
+    },
+    {
+      "question": "What is the normal anatomical end-feel for knee flexion when the calf hamstring muscles approximate each other?",
+      "options": [
+        "Soft end-feel",
+        "Firm end-feel",
+        "Hard end-feel",
+        "Empty end-feel"
+      ],
+      "answer": "Soft end-feel",
+      "explanation": "Knee flexion has a normal Soft end-feel because it is limited by the physical approximation of soft tissue bulk (calf meeting posterior thigh)."
+    },
+    {
+      "question": "Which of the following conditions represents a clear indication for initiating Passive ROM instead of Active-Assisted ROM?",
+      "options": [
+        "A muscle strain showing 4/5 strength",
+        "Acute joint inflammation where active contraction would disrupt healing",
+        "Chronic muscular joint contractures",
+        "Poor patient coordination of multi-joint activities"
+      ],
+      "answer": "Acute joint inflammation where active contraction would disrupt healing",
+      "explanation": "PROM is indicated in the acute inflammatory phase where active muscular contraction could stress repairing tissues and exacerbate inflammation."
+    },
+    {
+      "question": "A predictable, proportional pattern of joint movement limitation that suggests joint capsule inflammation is termed a:",
+      "options": [
+        "Non-capsular pattern",
+        "Kinematic pattern",
+        "Capsular pattern",
+        "Spasmodic pattern"
+      ],
+      "answer": "Capsular pattern",
+      "explanation": "A capsular pattern is a highly reproducible pattern of restriction of active and passive motion unique to each joint, indicating capsule-wide inflammation."
+    },
+    {
+      "question": "Which abnormal end-feel is noted when a joint's terminal movement is restricted by a rubbery, bouncy block, indicating a torn meniscus block?",
+      "options": [
+        "Spasmodic end-feel",
+        "Empty end-feel",
+        "Springy block end-feel",
+        "Hard bone-to-bone end-feel"
+      ],
+      "answer": "Springy block end-feel",
+      "explanation": "A springy block end-feel is a rubbery, bouncing limitation caused by mechanical blocking of joint structures, such as a torn knee cartilage meniscus."
+    },
+    {
+      "question": "What is the normal end-feel for elbow extension when the olecranon process contacts the olecranon fossa?",
+      "options": [
+        "Soft end-feel",
+        "Firm end-feel",
+        "Hard end-feel",
+        "Capsular end-feel"
+      ],
+      "answer": "Hard end-feel",
+      "explanation": "Normal elbow extension is bounded by bone contacting bone (olecranon process sitting in olecranon fossa), creating a distinctive Hard end-feel."
+    },
+    {
+      "question": "Continuous Passive Motion (CPM) devices are most commonly applied during which phase of physical rehabilitation?",
+      "options": [
+        "Functional outpatient strengthening sessions",
+        "Acute post-operative recovery phase in hospitals",
+        "Chronic pain management clinics",
+        "Pre-operative muscle testing"
+      ],
+      "answer": "Acute post-operative recovery phase in hospitals",
+      "explanation": "CPM machines are widely utilized in the acute post-op phase (such as after knee replacements) to speed up cartilage recovery and prevent joint stiffness."
+    },
+    {
+      "question": "Which of the following is a key goal of Active Range of Motion (AROM) that is NOT achieved by Passive ROM?",
+      "options": [
+        "Maintaining joint flexibility",
+        "Maintaining soft tissue elasticity",
+        "Providing sensory feedback of joint movement",
+        "Stimulating bone density and preserving muscle tone"
+      ],
+      "answer": "Stimulating bone density and preserving muscle tone",
+      "explanation": "Active muscle contraction under gravitational load during AROM releases chemical signals that stimulate local bone remodeling and preserve resting muscle tone."
+    },
+    {
+      "question": "A capsular pattern in the shoulder (glenohumeral joint) is characterized by which of the following restriction patterns?",
+      "options": [
+        "Internal rotation restricted most, followed by abduction and flexion",
+        "External rotation restricted most, followed by abduction and internal rotation",
+        "Abduction restricted most, followed by external rotation and extension",
+        "Flexion and extension restricted equally with spared rotation"
+      ],
+      "answer": "External rotation restricted most, followed by abduction and internal rotation",
+      "explanation": "The classic capsular pattern of the glenohumeral joint is external rotation limited most, abduction next, and internal rotation least."
+    },
+    {
+      "question": "The displacement of a joint's angular measurement away from the standard anatomical starting point is defined as:",
+      "options": [
+        "Passive translation",
+        "Functional extension",
+        "Range of Motion",
+        "Mechanical excursion"
+      ],
+      "answer": "Range of Motion",
+      "explanation": "Range of Motion is the linear or angular measurement describing displacement from the start position to joint terminal ends."
+    },
+    {
+      "question": "Which part of the goniometer is aligned with the anatomical axis of rotation of the joint being evaluated?",
+      "options": [
+        "Stationary arm",
+        "Fulcrum pivot",
+        "Moving arm",
+        "Inclinometer vial"
+      ],
+      "answer": "Fulcrum pivot",
+      "explanation": "The fulcrum pivot (screw center) of the goniometer is aligned precisely over the approximated anatomical axis of joint rotation."
+    },
+    {
+      "question": "What is the normal passive ROM end-feel for shoulder external rotation, reflecting capsule and ligament tension?",
+      "options": [
+        "Soft end-feel",
+        "Firm end-feel",
+        "Hard end-feel",
+        "Empty end-feel"
+      ],
+      "answer": "Firm end-feel",
+      "explanation": "Shoulder external rotation has a firm end-feel because the movement terminal relies on the natural elasticity of ligamentous and capsular fibers."
+    },
+    {
+      "question": "Under what condition is Active-Assisted ROM (AAROM) contraindicated?",
+      "options": [
+        "In a patient with muscle strength grade of 3/5",
+        "In patients with severe, unhealed, unstable bone fractures",
+        "Immediately after a long flight in cast",
+        "During subacute outpatient ligament rehabilitation"
+      ],
+      "answer": "In patients with severe, unhealed, unstable bone fractures",
+      "explanation": "Any active muscle contraction and joint alignment shifting is strictly contraindicated over unstable, unhealed skeletal fractures."
+    },
+    {
+      "question": "Which therapeutic ROM device allows a patient to use their healthy arm to safely restore movement in their injured opposite shoulder?",
+      "options": [
+        "Continuous Passive Motion device",
+        "Overhead Pulley System",
+        "Elastic tension spring",
+        "Goniometric inclinometer"
+      ],
+      "answer": "Overhead Pulley System",
+      "explanation": "Overhead pulleys use standard ropes to let patients use their healthy limb to self-assist the active-assisted range of the injured limb."
+    },
+    {
+      "question": "The degree measurement of 0 - 180 degrees for shoulder abduction represents which movement arc?",
+      "options": [
+        "Full internal rotation to external rotation",
+        "Skeletal flexion to extension",
+        "Anatomical neutral to full overhead abduction",
+        "Adduction across the chest line"
+      ],
+      "answer": "Anatomical neutral to full overhead abduction",
+      "explanation": "Normal shoulder abduction extends from anatomical resting (0 degrees) through standard overhead reach (180 degrees)."
+    },
+    {
+      "question": "Normal joint ROM can be physiological restricted by which of the following active soft tissue factors?",
+      "options": [
+        "Slight ligament laxity",
+        "Muscle bulk or fat tissue approximation",
+        "Type II collagen fibers",
+        "Hypercalcemia"
+      ],
+      "answer": "Muscle bulk or fat tissue approximation",
+      "explanation": "Large muscle mass (skeletal hypertrophy) can mechanically approximate opposing tissue surfaces early, limiting end-range motion safely."
+    },
+    {
+      "question": "Which goniometric alignment error will consistently produce inaccurate angular measurements?",
+      "options": [
+        "Draping the clinical area for patient comfort",
+        "Aligning the fulcrum over the joint's moving center of rotation",
+        "Aligning the stationary arm with an incorrect, non-orthogonal body segment",
+        "Allowing the patient to rest between movements"
+      ],
+      "answer": "Aligning the stationary arm with an incorrect, non-orthogonal body segment",
+      "explanation": "Failing to align the goniometer arms parallel to the longitudinal axes of the targeted bone segments disrupts the angle's geometry."
+    },
+    {
+      "question": "Inclinometers are most commonly preferred over universal goniometers for measuring:",
+      "options": [
+        "Knee flexion",
+        "Spinal mobility (cervical and lumbar)",
+        "Ankle dorsiflexion",
+        "Wrist radial deviation"
+      ],
+      "answer": "Spinal mobility (cervical and lumbar)",
+      "explanation": "The spine consists of multiple small joint articulations that are difficult to measure with a standard 2D goniometer, making inclinometers superior for tracking spinal curves."
+    },
+    {
+      "question": "What is the typical clinical frequency and volume recommended for passive ROM on a bedridden elder, in the absence of acute inflammation?",
+      "options": [
+        "1 set of 1 repetition, once weekly",
+        "5 to 10 repetitions per joint, 1 to 2 times daily",
+        "100 repetitions to fatigue, 5 times daily",
+        "30 repetitions per minute continuously via CPM"
+      ],
+      "answer": "5 to 10 repetitions per joint, 1 to 2 times daily",
+      "explanation": "Clinical guidelines suggest 5 to 10 slow, rhythmic repetitions per segment, 1 to 2 times daily, to maintain range and prevent soft tissue adhesion."
+    },
+    {
+      "question": "Which sensation characterizes a pathological 'Spasm' end-feel?",
+      "options": [
+        "Gentle, elastic sliding stop",
+        "Sudden, involuntary muscle check or block accompanied by severe pain",
+        "Abrupt bone-to-bone mechanical noise",
+        "Patient requesting to stop with zero tissue resistance felt"
+      ],
+      "answer": "Sudden, involuntary muscle check or block accompanied by severe pain",
+      "explanation": "A spasm end-feel is an abnormal, sudden involuntary muscle guard or check triggered by the stretch reflex in response to pain or joint instability."
+    },
+    {
+      "question": "AAROM exercises are designed to transition the patient from ________ to ________.",
+      "options": [
+        "Resisted work; static balance",
+        "Passive ROM; Active free ROM",
+        "Heavy lifting; functional sprints",
+        "Splinting; permanent immobilization"
+      ],
+      "answer": "Passive ROM; Active free ROM",
+      "explanation": "Active-assisted range of motion is a logical clinical bridge that guides patients from passive therapy to active free movement as strength increases."
+    },
+    {
+      "question": "What happens to the stationary arm of a goniometer during joint movement?",
+      "options": [
+        "It rotates with the distal bone segment",
+        "It travels around the joint perimeter in a circle",
+        "It remains aligned parallel to the fixed proximal segment's axis",
+        "It is detached to take the reading separately"
+      ],
+      "answer": "It remains aligned parallel to the fixed proximal segment's axis",
+      "explanation": "The stationary arm must remain fixed and aligned with the proximal, non-moving skeletal segment's longitudinal axis throughout the test."
+    },
+    {
+      "question": "Which of the following joint movements has a firm capsular end-feel under normal anatomical settings?",
+      "options": [
+        "Elbow extension",
+        "Hip internal rotation",
+        "Elbow flexion",
+        "Knee flexion"
+      ],
+      "answer": "Hip internal rotation",
+      "explanation": "Hip rotation stretches the dense joint capsule and surrounding ligaments (such as the iliofemoral ligament), producing a normal, firm end-feel."
+    },
+    {
+      "question": "When performing active ROM, what parameter represents 'functional excursion' of a muscle?",
+      "options": [
+        "The absolute resting length of the muscle belly",
+        "The distance a muscle can shorten after maximum elongation",
+        "The thickness of the muscle cross-section during hypertrophy",
+        "The speed at which the muscle can contract dynamically"
+      ],
+      "answer": "The distance a muscle can shorten after maximum elongation",
+      "explanation": "Functional excursion represents the maximum distance a muscle can contract (shorten) after being stretched to its limits."
+    }
+  ],
+  "reference": [
+    "Kisner & Colby - Therapeutic Exercise: Foundations and Techniques, 7th Edition",
+    "Norkin & White - Measurement of Joint Motion: A Guide to Goniometry, 5th Edition",
+    "Dena Gardiner - The Principles of Exercise Therapy, 4th Edition"
+  ]
+}

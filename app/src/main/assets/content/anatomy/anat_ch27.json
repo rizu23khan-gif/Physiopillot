@@ -1,0 +1,86 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch27",
+  "chapterName": "Gluteal Region & Medial Thigh",
+  "definition": [
+    "Chapter Overview: This chapter studies the gluteal region, which bridges the torso and the lower limb, alongside the adductor (medial) compartment of the thigh. It centers on muscular layers, neurovascular pathways, pelvic stabilization mechanics, and adductor group attachments.",
+    "Gluteus Maximus: The largest and most superficial muscle in the gluteal region, acting as a primary extensor and lateral rotator of the hip. Crucial for climbing stairs and rising from sitting.",
+    "Gluteus Medius and Minimus: Abductors and medial rotators of the hip, situated deep to the gluteus maximus. They act as pelvis stabilizers when the contralateral foot is lifted off the ground.",
+    "Medial Compartment (Adductors): Muscle group encompassing Adductor Longus, Adductor Brevis, Adductor Magnus (hybrid muscle), Gracilis, and Pectineus. They adduct the thigh at the hip joint and are supplied primarily by the obturator nerve."
+  ],
+  "principle": [
+    "Pelvic Stabilization: When standing on one leg, the gluteus medius and minimus of the supporting limb contract to prevent the unsupported side of pelvis from dropping.",
+    "Dual Innervation of Adductor Magnus: Often called a hybrid or composite muscle. Its adductor part is supplied by the obturator nerve, and its hamstring or ischial part is supplied by the tibial component of the sciatic nerve."
+  ],
+  "equipment": [
+    "Gluteal dissection anatomical models",
+    "Trendelenburg test alignment lines / grids",
+    "Obturator nerve distribution block diagrams",
+    "Surface anatomy skin-marking pencils"
+  ],
+  "parameters": {
+    "GlutealIntramuscularSafeZone": "Upper lateral quadrant of the gluteal region, safe from injuring the sciatic nerve.",
+    "ContralateralPelvicTiltThreshold": "In a negative Trendelenburg test, the pelvis of the unsupported side rises slightly. In abnormal, it sags significantly."
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+Key elements of a clinical pelvic drop assessment include the patient standing on one leg for 30 seconds while the therapist observes the horizontal level of the anterior/posterior superior iliac spines.",
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Trendelenburg Sign: Damage to the superior gluteal nerve (L4-S1) paralyzes the gluteus medius and minimus. When the patient stands on the affected side, the contralateral pelvis sags because those abductors cannot hold it up. This leads to a waddling (Trendelenburg) gait.",
+    "Piriformis Syndrome: The sciatic nerve typically exits the pelvis below the piriformis muscle. Hypertrophy or spasm of the piriformis can compress the sciatic nerve, mimicking a herniated lumbar disc.",
+    "Groin Pull: Strain or tearing of the medial adductor muscle group (frequently adductor longus), common in soccer players and athletes performing explosive side-to-side movements."
+  ],
+  "vivaQuestions": [
+    "Question: Explain Trendelenburg sign, which muscle is weak, which nerve is damaged, and how is it observed. | Answer: It is observed when the patient stands on the affected (weak) side, causing the healthy opposite side of the pelvis to sag down. It occurs due to weakness of the gluteus medius/minimus caused by superior gluteal nerve damage. | Examiner Key Points: Supporting side abductors weak, opposite side drops, superior gluteal nerve (L4-S1) pathology.",
+    "Question: Why is Adductor Magnus called a hybrid muscle? What is its nerve supply? | Answer: It is called a hybrid muscle because it has two parts with different attachments, actions, and innervations. The adductor part is supplied by the obturator nerve (L2-L4); the hamstring/ischial part is supplied by the tibial sciatic nerve (L4-S3). | Examiner Key Points: Obturator nerve, Tibial sciatic nerve, adductor/hamstring parts.",
+    "Question: Describe the safe quadrant for an intramuscular injection in the buttock and why it is chosen. | Answer: The upper outer (superolateral) quadrant is chosen. This area lies superior to the piriformis and sciatic nerve, avoiding injury to the sciatic nerve. | Examiner Key Points: Upper outer quadrant, avoids sciatic nerve."
+  ],
+  "mcqs": [
+    {
+      "question": "If a patient's pelvis sags on the right side when standing on their left leg, which nerve is most likely compromised?",
+      "options": [
+        "Right superior gluteal nerve",
+        "Left superior gluteal nerve",
+        "Right inferior gluteal nerve",
+        "Left inferior gluteal nerve"
+      ],
+      "answer": "Left superior gluteal nerve"
+    },
+    {
+      "question": "Which of the following muscles is a composite muscle supplied by both the obturator and tibial nerves?",
+      "options": [
+        "Adductor longus",
+        "Pectineus",
+        "Adductor magnus",
+        "Gracilis"
+      ],
+      "answer": "Adductor magnus"
+    },
+    {
+      "question": "Which muscle serves as a key landmark in the gluteal region, with the sciatic nerve usually emerging inferior to it?",
+      "options": [
+        "Gluteus minimus",
+        "Piriformis",
+        "Obturator externus",
+        "Quadratus femoris"
+      ],
+      "answer": "Piriformis"
+    }
+  ],
+  "reference": [
+    "B.D. Chaurasia's Human Anatomy, Volume II - Lower Limb, Chapter 4: Gluteal Region.",
+    "Magee's Orthopedic Physical Assessment, Chapter on Hip - Trendelenburg Testing."
+  ]
+}

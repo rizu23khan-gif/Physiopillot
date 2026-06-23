@@ -1,0 +1,48 @@
+{
+  "subject": "Electrotherapy II",
+  "chapterId": "el2_ch9",
+  "chapterName": "Electromyography (EMG)",
+  "definition": [
+    "Electromyography is a diagnostic technique for evaluating and recording the electrical activity produced by skeletal muscles."
+  ],
+  "principle": [],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "In healthy resting muscle, there should be electrical silence once the needle electrode is inserted and completely stabilized."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "What is a Motor Unit Action Potential (MUAP)?"
+  ],
+  "mcqs": [
+    {
+      "question": "At rest, a normal healthy muscle should exhibit:",
+      "options": [
+        "Continuous fibrillations",
+        "Fasciculation potentials",
+        "Electrical silence",
+        "High frequency discharges"
+      ],
+      "answer": "Electrical silence",
+      "explanation": "In a relaxed state without active motor neuron firing, a healthy muscle displays a baseline of complete electrical silence."
+    }
+  ],
+  "reference": [
+    "Clinical Electrophysiology - Electrotherapy and Electrophysiologic Testing"
+  ]
+}

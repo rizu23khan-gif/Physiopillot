@@ -1,0 +1,474 @@
+{
+  "subject": "Physiology",
+  "chapterId": "phys_ch4",
+  "chapterName": "Nervous System & Reflex Arcs",
+  "definition": [
+    "Reflex Arc: The physiological anatomical pathway mediating reflex actions. It classically consists of five serial components: 1) Sensory receptor, 2) Afferent pathway, 3) Integrating center (synapse in CNS), 4) Efferent pathway, and 5) Effector organ.",
+    "Monosynaptic Reflex: A simple reflex path containing a single synapse in the spinal cord between the afferent sensory neuron and the efferent motor neuron (e.g., knee jerk stretch reflex).",
+    "Muscle Spindle: A highly specialized stretch-sensitive mechanoreceptor embedded within skeletal muscles that detects changes in muscle length and rate of change of length.",
+    "Golgi Tendon Organ (GTO): An encapsulated mechanoreceptor located in muscle-tendon junctions that is sensitive to tension generated during muscle contraction.",
+    "Reciprocal Inhibition: A physiological reflex mechanism where the activation of motor neurons innervating an agonist muscle is accompanied by the simultaneous inhibition of motor neurons innervating the antagonist muscle.",
+    "Two-Point Discrimination: The capacity to perceive two distinct mechanical stimuli applied to the skin simultaneously as separate, which is determined by sensory receptor density.",
+    "Synapse: The junction across which electrical impulses are transmitted from a neuron to another cell, utilizing chemical neurotransmitters.",
+    "Dermatome: A specific circumscribed area of cutaneous skin innervated by sensory fibers originating from a single spinal dorsal root nerve segment."
+  ],
+  "principle": [
+    "Muscle Spindle and Stretch Reflex Mechanics: Stretching a muscle deforms spindle intrafusal fibers, activating Ia primary sensory afferent nerves. These enter the spinal cord and directly synapse on homonymous alpha motor neurons, eliciting rapid muscle contraction to resist stretch and protect fibers from tearing.",
+    "Inverse Stretch Reflex (Golgi Tendon Reflex): Strong muscle contractions tension the tendon, activating Ib sensory afferents. Ib fibers synapse on inhibitory interneurons in the spinal spinal grey horn, inhibiting alpha motor neurons to relax the contracting muscle, preventing tendon damage.",
+    "Reciprocal Innervation and antagonist control: Interneuron circuitry coordinate flexor-extensor actions during movement. Sensory inputs that activate agonist motor neurons simultaneously stimulate inhibitory interneurons that relax antagonist muscles to allow smooth joint rotation.",
+    "Flexor Withdrawal with Crossed Extensor Reflex: A nociceptive reflex pattern. Pain inputs trigger ipsilateral limb flexion (withdrawal) to escape danger, while simultaneously activating contralateral extensor circuits to stabilize stance and keep the body balanced.",
+    "Autonomic Nervous System Synaptic Signalling: The parasympathetic system utilizes acetylcholine at both pre- and post-ganglionic synapses (nicotinic and muscarinic receptors). The sympathetic system utilizes ACh pre-ganglionically and norepinephrine post-ganglionically (adrenergic receptors) to modulate physiological states.",
+    "Spatial and Temporal Synaptic Summation: Spatial summation occurs when multiple presynaptic terminals fire simultaneously over different membrane areas. Temporal summation occurs when a single fast presynaptic terminal fires repeatedly in rapid succession."
+  ],
+  "equipment": [
+    "Reflex Hammer: Manual physical instrument used to deliver sharp taps to tendons to evoke deep tendon stretch reflexes (e.g. patellar, Achilles, biceps).",
+    "Tuning Fork (128 Hz): Metallic probe used to test clinical vibratory sensation (pallesthesia) over bony prominences.",
+    "Esthesiometer / Two-Point Discriminator: Specialized dual-pinned divider utilized to measure the minimal distance threshold for perceiving two distinct tactile stimuli.",
+    "Hot and Cold Thermal Test-Tubes: Simple tubes filled with water at controlled hot (40-45C) and cold (10-15C) temperatures to test lateral thermal sensation.",
+    "Sterile Neurological Safety Pins: Single-use sharp and dull tip probes utilized to test cutaneous pinprick sensation and map dermatomes."
+  ],
+  "parameters": {
+    "nerveConductionVelocityIaAfferents": "80 - 120 m/s",
+    "nerveConductionVelocityAlphaMotor": "80 - 120 m/s",
+    "nerveConductionVelocityIbAfferents": "70 - 110 m/s",
+    "synapticDelayCentralNervousSystem": "0.3 - 0.5 ms",
+    "twoPointDiscriminationFingertip": "2 - 3 mm",
+    "twoPointDiscriminationUpperBack": "40 - 70 mm",
+    "velocityOfSlowUnmyelinatedPainCFibers": "0.5 - 2.0 m/s",
+    "velocityOfFastMyelinatedPainAdFibers": "6.0 - 30.0 m/s"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Monosynaptic Patellar Stretch Activation",
+      "frequency": "Dynamic",
+      "mechanism": [
+        "A tap on the patellar tendon stretches the quadriceps muscle.",
+        "Mechanical stretch activates primary Ia sensory fibers of the muscle spindle.",
+        "Ia sensory afferents directly excite alpha motor neurons in L2-L4 spinal segments, eliciting rapid quadriceps contraction and knee extension."
+      ]
+    },
+    {
+      "effect": "Inverse Stretch Safety Relaxation",
+      "frequency": "Dynamic",
+      "mechanism": [
+        "Excessive muscle contraction generates high tension at the tendon junction.",
+        "Golgi tendon organs compress, firing Ib sensory afferent fibers.",
+        "Ib sensory fibers excite spinal inhibitory interneurons, saving the muscle by stopping alpha motor neuron output and inducing muscle relaxation."
+      ]
+    },
+    {
+      "effect": "Ipsilateral Flexion with Contralateral Stabilization",
+      "frequency": "Dynamic",
+      "mechanism": [
+        "Nociceptors (pain receptors) sense a sharp or burning stimulus on the foot.",
+        "Sensory inputs branch into the spinal cord to excite ipsilateral flexor motor neurons and inhibit extensors (foot pulls away).",
+        "Sensory signals cross the midline to inhibit contralateral flexors and excite contralateral extensors, stabilizing the opposite leg to support body weight."
+      ]
+    }
+  ],
+  "indications": [
+    "Neurological Level Localization: Utilizing deep tendon reflex evaluations to isolate spinal cord injuries (e.g. L3/L4 for knee jerk, S1 for ankle jerk).",
+    "Sensory Pathway Mapping: Using pinpricks, warm tubes, and vibration to track sensory loss across peripheral dermatomes.",
+    "Autonomic Function Verification: Assessing the integrity of the autonomic nervous system via pupillary light reflexes."
+  ],
+  "contraindications": {
+    "general": [
+      "Known acute spinal column instability or cervical fracture during general sensory/reflex examinations.",
+      "The acute 'spinal shock' phase of a spinal cord injury, where all spinal reflexes below the lesion are transiently lost."
+    ],
+    "local": [
+      "Avoid eliciting deep tendon reflexes directly over a fresh bone fracture or soft-tissue injury in that limb."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Instruct the patient to remain fully relaxed and focus away from the limb being tested.",
+      "If testing lower extremity tendon reflexes, have the patient sit on the edge of the examination table with their legs swinging freely."
+    ],
+    "apparatusPreparation": [
+      "Ensure the reflex hammer is clean and sanitize sensory tools prior to clinical testing.",
+      "Warm hot-tubes to a safe tactile temperature (40C) to avoid accidental burns."
+    ],
+    "skinPreparation": [
+      "Examine skin surfaces, ensuring no cuts or open sores are present prior to tactile testing.",
+      "Clean skin areas with isopropyl alcohol before using sterile safety pins."
+    ],
+    "electrodePlacement": [
+      "If recording reflex waveforms during clinical H-reflex assessments, position the pick-up electrode directly over the soleus muscle belly.",
+      "Position the stimulating electrode over the tibial nerve within the popliteal fossa."
+    ],
+    "treatmentProcedure": [
+      "Hold the reflex hammer handle loosely and swing it in an arc, tapping the tendon briskly with the rubber head.",
+      "Assess the reflex briskness, using the Jendrassik maneuver (isometric finger lock) to reinforce diminished reflexes if needed.",
+      "Test two-point discrimination by starting with the divider pins far apart, then gradually narrowing the distance until the patient perceives both contacts as a single point."
+    ]
+  },
+  "precautions": [
+    "Never slam the reflex hammer with excessive force, as this can cause muscle or tendon injury.",
+    "Discard all used pinprick safety pins immediately in a biochemical sharps container.",
+    "Ensure the two divider tips touch the skin simultaneously during two-point testing to prevent cueing artifacts."
+  ],
+  "clinicalPearls": [
+    "A positive Babinski sign (extension of the great toe with fanning of the other toes) is normal in infants up to 1-2 years old due to incomplete myelination of the pyramidal tract, but represents an Upper Motor Neuron (UMN) lesion in adults.",
+    "Hyperreflexia and clonus indicate UMN damage because the inhibitory control of the cerebral cortex on spinal reflex arcs is lost.",
+    "The Jendrassik Maneuver reinforces lower limb reflexes by having the patient lock their fingers and pull apart isometrically. This increases excitability inside the spinal cord's motor neuron pool, unmasking weak reflexes."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Suspected L4 Radiculopathy (Herniated Lumbar Disc)",
+      "position": "Seated on examination table with lower legs hanging freely",
+      "electrodePlacement": "Electromyography recording needles placed in vastus medialis to record motor unit parameters during patellar tap if performing electrodiagnostic reflex tests",
+      "frequency": "Deliver 3 to 5 successive patellar tendon taps",
+      "purpose": "To compare the symmetry and briskness of the patellar stretch reflex (knee jerk) to localize L4 spinal root compression"
+    }
+  ],
+  "vivaQuestions": [
+    "Question: Detail the five core components of a classic spinal reflex arc. | Answer: A reflex arc consists of: 1) Sensory Receptor (senses the stimulus, e.g. skin nociceptor), 2) Afferent pathway (sensory nerve conducts impulses to the CNS), 3) Integrating center (synapses in the spinal grey matter), 4) Efferent pathway (motor nerve conducts impulses from the CNS to the effector), and 5) Effector organ (muscle or gland that carries out the response). | Examiner Key Points: Receptor, Afferent, Synaptic Integrating Center, Efferent, Effector. | Clinical Importance: Injury to any of these five direct elements breaks the reflex arc, leading to hyporeflexia.",
+    "Question: Describe the structure and sensory innervation of the Muscle Spindle. | Answer: The muscle spindle consists of 3-12 specialized encapsulated intrafusal muscle fibers (classified as nuclear bag and nuclear chain fibers). It is innervated by Ia primary sensory afferents (which wrap around the central non-contractile sensory region to sense length change speed) and Type II secondary sensory afferents (which wrap bag/chain fibers to sense static length). Gamma motor neurons innervate the contractile polar ends. | Examiner Key Points: Intrafusal fibers (bag/chain), Ia rapid dynamic sensory vs Type II static sensory, Gamma motor innervation. | Clinical Importance: Regulates muscle tone and posture.",
+    "Question: What is reciprocal inhibition and why is it essential for movement? | Answer: Reciprocal inhibition is a physiological reflex where sensory inputs that excite motor neurons of an agonist muscle concurrently activate inhibitory interneurons in the spinal cord cord. These interneurons inhibit the motor neurons of the antagonist muscle, relaxing it. This is essential for preventing structural resistance and allowing smooth, coordinated joint movements. | Examiner Key Points: Agonist excitation, inhibitory spinal interneurons, antagonist relaxation, smooth coordination. | Clinical Importance: Loss of reciprocal inhibition after strokes leads to spasticity and rigid, counterproductive cocontractions.",
+    "Question: Explain the Golgi Tendon reflex (Inverse Stretch Reflex) and its mechanism. | Answer: The Golgi Tendon reflex is a protective polysynaptic reflex. High muscle tension compresses Golgi tendon organs at muscle-tendon junctions, firing Ib sensory afferents. Ib fibers enter the spinal gray matter and excite inhibitory interneurons. These interneurons release glycine, inhibiting alpha motor neurons of the agonist muscle to induce relaxation and protect the tendon from avulsion. | Examiner Key Points: Tendon tension sensor, Ib sensory afferents, spinal inhibitory interneurons, agonist muscle relaxation. | Clinical Importance: Clinically assessed to determine spastic muscle relaxation and targeted physical therapy stretch limits.",
+    "Question: Detail the events and pathways of the Flexor Withdrawal and Crossed Extensor reflexes. | Answer: A painful stimulus activates cutaneous nociceptors, which send inputs through pain fibers to the spinal cord. These fibers synapse on multi-segmental interneurons: 1) Ipsilaterally, they excite flexor motor neurons and inhibit extensors, causing withdrawal of the injured limb. 2) Contralaterally, they inhibit flexor motor neurons and excite extensors. This crossed extensor reflex stabilizes and supports body weight on the opposite leg. | Examiner Key Points: Pain afferents, polysynaptic pathways, ipsilateral flexion, contralateral extension. | Clinical Importance: Protects body against tissue damage and maintains balance during withdrawal.",
+    "Question: Explain the anatomical and physiological roles of Alpha and Gamma motor neurons. | Answer: Alpha motor neurons innervate extrafusal muscle fibers, driving skeletal muscle contraction and joint movement. Gamma motor neurons innervate the contractile polar ends of intrafusal muscle fibers (muscle spindles), contracting them to keep the spindle sensitive to stretch even when the main muscle is already contracted. | Examiner Key Points: Alpha (extrafusal/muscle contraction), Gamma (intrafusal/spindle sensitivity), Alpha-Gamma Coactivation. | Clinical Importance: Coactivation prevents spindle silencing during voluntary muscle shortening, maintaining postural reflexes.",
+    "Question: What is Two-Point Discrimination and how does it correlate with receptive field density? | Answer: Two-Point Discrimination is the ability to perceive two distinct mechanical stimuli applied to the skin simultaneously as separate. It depends on receptive field density and cortical representation size. Areas like fingertips have high density (small receptive fields) and low thresholds (~2mm). Areas like the back have sparse density (large receptive fields) and high thresholds (~40-70mm). | Examiner Key Points: Tactile resolving threshold, receptive field size, receptor density, cortical representation. | Clinical Importance: Tested to evaluate sensory pathway recovery after peripheral nerve repair surgery.",
+    "Question: Explain the Jendrassik maneuver and its underlying neurophysiological mechanism. | Answer: The Jendrassik maneuver is a physical reinforcement technique where the patient hooks their fingers together and pulls apart isometrically. This distracts the patient, reducing cognitive inhibition, and increases excitability in the spinal motor neuron pool (partly by increasing gamma motor neuron drive). This unmasks hidden deep tendon reflexes. | Examiner Key Points: Clenched fingers, increased motor pool excitability, gamma motor activation, unmasking weak reflexes. | Clinical Importance: Essential diagnostic tool to determine if absent reflexes are due to organic lesions or high resting tension.",
+    "Question: What are the physiological differences between the dorsal column-medial lemniscal pathway and the anterolateral tract? | Answer: The dorsal column-medial lemniscal (DCML) pathway carries fine touch, pressure, vibration, and proprioception via large, myelinated, fast-conducting fibers. It decussates in the medulla. The anterolateral (spinothalamic) tract carries pain, temperature, and crude touch via small, slow fibers, decussating within 1-2 spinal segments of entry. | Examiner Key Points: DCML (fine touch/vibration/proprioception, slow/uncrossed in cord, medullary decussation) vs Anterolateral (pain/temp, speedy cord decussation). | Clinical Importance: Explains Brown-Séquard syndrome (hemisection of spinal cord), which features contralateral pain loss and ipsilateral touch loss.",
+    "Question: Explain Spinal Shock and what happens to reflexes during this physiological phase. | Answer: Spinal Shock is the immediate, temporary state of flaccid paralysis and complete loss of all spinal reflex activity below the level of a severe spinal cord injury. This occurs due to the sudden loss of supportive, descending facilitatory inputs from supraspinal centers. Over weeks, spinal neurons regain excitability, and reflexes recover, eventually progressing to hyperreflexia and spasticity. | Examiner Key Points: Flaccid paralysis, areflexia, loss of descending facilitatory inputs, chronic spasticity progression. | Clinical Importance: Clinicians monitor the return of the bulbocavernosus reflex to mark the end of the spinal shock phase."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following sensory nerve fibers acts as the primary speed-sensitive afferent from the muscle spindle central sensory zone?",
+      "options": [
+        "Type Ia afferent fibers",
+        "Type Ib afferent fibers",
+        "Type II afferent fibers",
+        "Type C unmyelinated fibers"
+      ],
+      "answer": "Type Ia afferent fibers",
+      "explanation": "Type Ia sensory fibers are large, heavily myelinated, rapidly conducting nerves that wrap around the central portions of intrafusal fibers to detect rapid changes in muscle length."
+    },
+    {
+      "question": "What primary receptor senses active muscle tension at the tendon junction to trigger protective muscle relaxation?",
+      "options": [
+        "Muscle Spindle",
+        "Golgi Tendon Organ (GTO)",
+        "Pacinian Corpuscle",
+        "Meissner's Touch Corpuscle"
+      ],
+      "answer": "Golgi Tendon Organ (GTO)",
+      "explanation": "The Golgi Tendon Organ is sensitive to muscle tension generated during contraction. It fires Ib afferents to inhibit alpha motor neurons, inducing protective relaxation."
+    },
+    {
+      "question": "The stretch reflex (e.g. knee jerk patellar test) is characterized by which of the following neural properties?",
+      "options": [
+        "Polysynaptic with multiple spinal interneurons",
+        "Monosynaptic, featuring direct contact between Ia sensory and alpha motor neurons",
+        "Dependent on cerebral cortex mapping before firing",
+        "Mediated entirely by autonomic sympathetic ganglia"
+      ],
+      "answer": "Monosynaptic, featuring direct contact between Ia sensory and alpha motor neurons",
+      "explanation": "The classic stretch reflex is the only monosynaptic somatic reflex in the human body, featuring a single direct synapse between Ia sensory afferents and alpha motor neurons."
+    },
+    {
+      "question": "Which motor neuron species is responsible for innervating the contractile polar regions of the muscle spindle intrafusal fibers?",
+      "options": [
+        "Alpha motor neurons",
+        "Gamma motor neurons",
+        "Beta motor neurons",
+        "Ib sensory collateral chains"
+      ],
+      "answer": "Gamma motor neurons",
+      "explanation": "Gamma motor neurons innervate the contractile polar ends of muscle spindle intrafusal fibers, adjusting spindle tension to maintain stretch sensitivity during muscle contraction."
+    },
+    {
+      "question": "A patient with a herniated lumbar disc compressing the right S1 spinal nerve root will exhibit a diminished reflex in which location?",
+      "options": [
+        "Knee jerk (Patellar tendon)",
+        "Ankle jerk (Achilles tendon)",
+        "Biceps jerk (Biceps tendon)",
+        "Triceps jerk (Triceps tendon)"
+      ],
+      "answer": "Ankle jerk (Achilles tendon)",
+      "explanation": "The ankle jerk (Achilles reflex) is primarily mediated by the S1-S2 spinal nerve segments. The knee jerk is L2-L4, biceps is C5-C6, and triceps is C7-C8."
+    },
+    {
+      "question": "The physiological mechanism where stretching a muscle causes simultaneous reflex relaxation of its mechanical antagonist muscle is known as:",
+      "options": [
+        "Autogenic inhibition",
+        "Reciprocal Inhibition",
+        "Inverse stretch activation",
+        "Contralateral extension"
+      ],
+      "answer": "Reciprocal Inhibition",
+      "explanation": "Reciprocal inhibition is a spinal reflex circuit where Ia afferents synapse on inhibitory interneurons, inhibiting and relaxing antagonist muscles during agonist contraction."
+    },
+    {
+      "question": "Which sensory pathway carries fine touch, vibration, and conscious proprioceptive signals to the CNS?",
+      "options": [
+        "Anterolateral Spinothalamic Tract",
+        "Dorsal Column-Medial Lemniscal (DCML) Pathway",
+        "Cerebellospinal tract",
+        "Lateral reticulo-endothelial pathway"
+      ],
+      "answer": "Dorsal Column-Medial Lemniscal (DCML) Pathway",
+      "explanation": "The DCML pathway is responsible for transporting fine touch, vibration, two-point discrimination, and conscious proprioception to the brain, crossing in the medulla."
+    },
+    {
+      "question": "An adult patient presenting with spastic hypertonia, high-amplitude hyperreflexia, clonus, and a positive Babinski sign is diagnosed with injury to:",
+      "options": [
+        "Lower Motor Neurons (LMN)",
+        "Upper Motor Neurons (UMN)",
+        "Spindle Ia afferent lines",
+        "Golgi tendon organs"
+      ],
+      "answer": "Upper Motor Neurons (UMN)",
+      "explanation": "Hyperreflexia, spasticity, clonus, and the Babinski sign are classic findings of UMN lesions, resulting from the loss of descending inhibitory supraspinal inputs."
+    },
+    {
+      "question": "Which of the following locations in the human body has the smallest (and most sensitive) Two-Point Discrimination threshold?",
+      "options": [
+        "The midpoint of the upper back skin",
+        "The palms of the hands",
+        "The outer lateral thighs",
+        "The tips of the fingers"
+      ],
+      "answer": "The tips of the fingers",
+      "explanation": "Fingertips contain a exceptionally high density of small-receptive-field Meissner's and Merkel's corpuscles, resulting in a very low two-point discrimination threshold (~2 mm)."
+    },
+    {
+      "question": "The immediate loss of all spinal reflexes below the level of a severe, acute spinal cord trauma is clinically termed as:",
+      "options": [
+        "Hyperreflexia",
+        "Spinal Shock",
+        "Brown-Séquard syndrome",
+        "Athetosis"
+      ],
+      "answer": "Spinal Shock",
+      "explanation": "Spinal Shock is the transient state of areflexia and flaccid paralysis that follows acute spinal cord injury, caused by the sudden loss of descending facilitatory inputs."
+    },
+    {
+      "question": "Which physiological synapse relies exclusively on electrical gap junctions instead of chemical neurotransmitters?",
+      "options": [
+        "Skeletal neuromuscular junction",
+        "Electrical Synapse",
+        "Sympathetic preganglionic synapse",
+        "CNS glutamatergic junction"
+      ],
+      "answer": "Electrical Synapse",
+      "explanation": "Electrical synapses pass ions directly through gap junctions, resulting in rapid, bi-directional conduction without synaptic delay."
+    },
+    {
+      "question": "Which spinal center decussates early within 1-2 segments of entry to transport pain and thermal sensations?",
+      "options": [
+        "Gracile fasciculus",
+        "Anterolateral Spinothalamic Tract",
+        "Cuneate fasciculus",
+        "Posterior spinocerebellar tract"
+      ],
+      "answer": "Anterolateral Spinothalamic Tract",
+      "explanation": "The spinothalamic tract carries pain and temperature signals. Its fibers synapse in the dorsal horn, decussate immediately in the spinal cord, and ascend contralaterally."
+    },
+    {
+      "question": "The crossed extensor reflex is clinically paired with which ipsilateral reflex?",
+      "options": [
+        "The stretch reflex",
+        "The flexor withdrawal reflex",
+        "Inverse stretch protection",
+        "Bulbocavernosus reflex"
+      ],
+      "answer": "The flexor withdrawal reflex",
+      "explanation": "The crossed-extensor reflex is an extension of the flexor withdrawal reflex: pain in one limb triggers withdrawal, while the opposite limb extends to maintain posture and balance."
+    },
+    {
+      "question": "Which of the following is the principal inhibitory neurotransmitter utilized by spinal cord interneurons to block motor alpha actions?",
+      "options": [
+        "Glutamate",
+        "Gaba (Gamma-Aminobutyric Acid) and Glycine",
+        "Acetylcholine",
+        "Norepinephrine"
+      ],
+      "answer": "Gaba (Gamma-Aminobutyric Acid) and Glycine",
+      "explanation": "Glycine and GABA are the major inhibitory neurotransmitters in the spinal cord and brain, mediating postsynaptic inhibition of motor pathways."
+    },
+    {
+      "question": "What is the physiological role of the Jendrassik maneuver?",
+      "options": [
+        "To induce sleep in anxious patients",
+        "To reinforce and help elicit weak deep tendon reflexes",
+        "To reduce sympathetic nervous heart rate",
+        "To test cerebellar coordination"
+      ],
+      "answer": "To reinforce and help elicit weak deep tendon reflexes",
+      "explanation": "The Jendrassik maneuver increases motor pool excitability in the spinal cord, helping to unmask or reinforce weak deep tendon reflexes."
+    },
+    {
+      "question": "Which sensory receptor is encapsulated and acts as a rapidly-adapting sensor for high-frequency vibration inside human dermis?",
+      "options": [
+        "Pacinian corpuscle",
+        "Meissner's corpuscle",
+        "Merkel's disc",
+        "Ruffini ending"
+      ],
+      "answer": "Pacinian corpuscle",
+      "explanation": "Pacinian corpuscles are highly encapsulated, rapidly-adapting mechanoreceptors that detect deep pressure and high-frequency vibration (~200-300 Hz)."
+    },
+    {
+      "question": "Synaptic delay is primarily caused by which of the following events?",
+      "options": [
+        "Signal propagation down the axon length",
+        "Inward active sodium channel flow",
+        "The time required for calcium influx, transmitter release, and postsynaptic binding",
+        "Myelin sheath electrical jumps"
+      ],
+      "answer": "The time required for calcium influx, transmitter release, and postsynaptic binding",
+      "explanation": "Synaptic delay (~0.3 - 0.5 ms) is the time required for calcium influx, neurotransmitter exocytosis, diffusion across the cleft, and postsynaptic receptor binding."
+    },
+    {
+      "question": "What happens in a patient presenting with complete hemi-section of the thoracic spinal cord (Brown-Séquard Syndrome)?",
+      "options": [
+        "Bilateral loss of pain and fine touch below lesion",
+        "Ipsilateral loss of fine touch and vibration, with contralateral loss of pain and temperature below the lesion",
+        "Contralateral loss of vibration and ipsilateral loss of pain",
+        "Complete areflexia in all four limbs"
+      ],
+      "answer": "Ipsilateral loss of fine touch and vibration, with contralateral loss of pain and temperature below the lesion",
+      "explanation": "Brown-Séquard syndrome involves hemisection of the cord. Since pain fibers decussate immediately while DCML fibers decussate in the medulla, pain loss is contralateral, while tactile/vibration loss is ipsilateral."
+    },
+    {
+      "question": "Which of the following receptors is unencapsulated and acts as a primary sensor for pain and temperature?",
+      "options": [
+        "Pacinian corpuscle",
+        "Free nerve endings",
+        "Ruffini corpuscle",
+        "Muscle spindle"
+      ],
+      "answer": "Free nerve endings",
+      "explanation": "Free nerve endings are unencapsulated, branching terminals of sensory neurons that function as nociceptors and thermoreceptors."
+    },
+    {
+      "question": "Which of the following values represents the slow conduction velocity of unmyelinated nociceptive C-fibers?",
+      "options": [
+        "100 m/s",
+        "50 m/s",
+        "12 m/s",
+        "1 m/s"
+      ],
+      "answer": "1 m/s",
+      "explanation": "C-fibers are small, unmyelinated fibers that conduct slowly (~0.5 - 2 m/s), carrying dull, aching, or burning slow pain."
+    },
+    {
+      "question": "What is the primary role of Gamma motor neurons during reciprocal motor tasks?",
+      "options": [
+        "Directly contracting the agonist muscle belly",
+        "Preserving muscle spindle sensory sensitivity during muscle shortening",
+        "Inhibiting the antagonist spinal segments",
+        "Secreting pain transmitters"
+      ],
+      "answer": "Preserving muscle spindle sensory sensitivity during muscle shortening",
+      "explanation": "Gamma motor neurons contract the ends of the spindle, preventing it from going slack during muscle shortening and ensuring it remains sensitive to stretch."
+    },
+    {
+      "question": "The capability of the nervous system to dynamically adjust its synaptic strength and reorganize pathways in response to learning or injury is termed:",
+      "options": [
+        "Spinal Shock",
+        "Neuroplasticity",
+        "Recruitment",
+        "Summation"
+      ],
+      "answer": "Neuroplasticity",
+      "explanation": "Neuroplasticity is the fundamental ability of the brain and spinal cord to structurally and functionally adapt in response to experience, learning, or injury."
+    },
+    {
+      "question": "Which spinal dermatome corresponds to the level of the skin surrounding the bilateral nipples?",
+      "options": [
+        "C6 segment",
+        "T4 segment",
+        "T10 segment",
+        "L1 segment"
+      ],
+      "answer": "T4 segment",
+      "explanation": "The T4 dermatome is aligned horizontally with the nipples, while T10 wraps around the umbilicus (navel)."
+    },
+    {
+      "question": "Which neurotransmitter is exclusively released by parasympathetic postganglionic terminals?",
+      "options": [
+        "Norepinephrine",
+        "Acetylcholine (ACh)",
+        "Serotonin",
+        "Epinephrine"
+      ],
+      "answer": "Acetylcholine (ACh)",
+      "explanation": "The parasympathetic nervous system is entirely cholinergic, releasing Acetylcholine at both preganglionic (nicotinic) and postganglionic (muscarinic) synapses."
+    },
+    {
+      "question": "Which anatomical structure in the brain is the principal relay center for processing sensory tracts before they reach the cerebral cortex?",
+      "options": [
+        "Cerebellum",
+        "Thalamus",
+        "Basal Ganglia",
+        "Pons"
+      ],
+      "answer": "Thalamus",
+      "explanation": "The thalamus functions as the primary gates and relay station for all sensory modalities (except olfaction) on their path to the cerebral cortex."
+    },
+    {
+      "question": "What is the dynamic electrical response of a dendrite following chemical transmitter binding that brings page potentials closer to threshold?",
+      "options": [
+        "Excitatory Postsynaptic Potential (EPSP)",
+        "Inhibitory Postsynaptic Potential (IPSP)",
+        "All-or-None Action Potential",
+        "Absolute refractory dip"
+      ],
+      "answer": "Excitatory Postsynaptic Potential (EPSP)",
+      "explanation": "An EPSP is a graded, depolarizing local potential in the postsynaptic dendritic membrane, typically produced by ligand-gated sodium or calcium channel influx."
+    },
+    {
+      "question": "Rapid, high-frequency stimulation of a single presynaptic knob resulting in cumulative postsynaptic depolarization is an example of:",
+      "options": [
+        "Spatial Summation",
+        "Temporal Summation",
+        "Facilitated divergence",
+        "Autogenic decay"
+      ],
+      "answer": "Temporal Summation",
+      "explanation": "Temporal summation occurs when a single presynaptic neuron fires repeatedly in rapid succession, summing consecutive EPSPs to reach threshold."
+    },
+    {
+      "question": "The patellar tendon reflex tests the integrity of which specific spinal cord segments?",
+      "options": [
+        "C5 - C6",
+        "L2 - L4",
+        "S1 - S2",
+        "T10 - T12"
+      ],
+      "answer": "L2 - L4",
+      "explanation": "The patellar reflex (knee jerk) is mediated by the femoral nerve, testing spinal segments L2, L3, and L4."
+    },
+    {
+      "question": "Which of the following clinical tests is used specifically to evaluate coordinates of proprioceptive dorsal columns with eyes closed?",
+      "options": [
+        "Babinski test",
+        "Romberg's Test",
+        "Two-Point esthesiometer",
+        "Jendrassik test"
+      ],
+      "answer": "Romberg's Test",
+      "explanation": "Romberg's test evaluates dorsal column proprioception. If a patient is stable with eyes open but sways or falls with eyes closed (positive Romberg), it indicates a loss of sensory proprioception."
+    },
+    {
+      "question": "Which sensory fiber Ib afferent connects directly to which sensory receptor?",
+      "options": [
+        "Muscle Spindle nuclear bag",
+        "Golgi Tendon Organ",
+        "Meissner's corpuscles",
+        "Free pain nerve endings"
+      ],
+      "answer": "Golgi Tendon Organ",
+      "explanation": "Golgi Tendon Organs are innervated by fast-conducting Type Ib sensory afferent fibers, whereas muscle spindles are innervated by Ia and II fibers."
+    }
+  ],
+  "reference": [
+    "Guyton and Hall Textbook of Medical Physiology, 14th Edition",
+    "Sembulingam - Essentials of Medical Physiology, 8th Edition",
+    "Kandel - Principles of Neural Science, 6th Edition"
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "subject": "Physiology",
+  "chapterId": "phys_ch3",
+  "chapterName": "Cardiovascular & Respiratory Systems",
+  "definition": [
+    "Cardiac Cycle: The complete mechanical and electrical sequence of events occurring in the heart from the beginning of one heart beat to the beginning of the next.",
+    "Cardiac Output: The volume of blood pumped by each ventricle of the heart per minute, calculated as the product of Stroke Volume (SV) and Heart Rate (HR). Check standard resting value is ~5 Liters/min.",
+    "Stroke Volume: The volume of blood ejected by one ventricle of the heart during a single contraction cycle, averaging ~70-80 mL in healthy adults.",
+    "Vital Capacity (VC): The maximum volume of air that can be expired forcefully from the lungs after a maximum, deep inspiratory effort.",
+    "Forced Expiratory Volume in 1 Second (FEV1): The volume of air expired during the first second of a maximum forced expiratory effort, critical for diagnosing airway obstructions.",
+    "Surfactant: A surface-tension reducing lipoprotein mixture secreted by Type II alveolar epithelial cells, engineered to prevent alveolar collapse during expiration.",
+    "Systemic Arterial Blood Pressure: The lateral pressure exerted by circulating columns of blood against the elastic walls of the systemic arterial vessels.",
+    "Compliance of Lungs: The measure of ease with which the lungs and thoracic chest wall expand, defined mathematically as change in lung volume per unit change in transpulmonary pressure."
+  ],
+  "principle": [
+    "Frank-Starling Law of the Heart: Under normal physiological limits, the energy of contraction of myocardial fibers is directly proportional to the initial length of the muscle fibers at end-diastole. Increased venous return stretches the ventricles, augmenting stroke volume.",
+    "Oxygen-Hemoglobin Dissociation Curve Kinetics: A sigmoid plot reflecting the cooperative binding of oxygen to hemoglobin. Dynamic shifts model tissue adaptations (e.g., Bohr effect where acidosis and hypercapnia shift the curve to the right, facilitating oxygen offloading in active muscles).",
+    "Mechanics of Pulmonary Ventilation: Inspiration is an active process driven by contraction of the Diaphragm and External Intercostals, lowering alveolar pressure below atmospheric. Expiration is passive at rest, driven by elastic lung recoil.",
+    "Chemical Control of Respiration: Breathing is regulated primarily by central chemoreceptors in the medulla (highly sensitive to arterial CO2 and pH via hydrogen ion concentration in cerebrospinal fluid) and peripheral chemoreceptors in the carotid and aortic bodies (sensitive to arterial hypoxia, acidosis, and hypercapnia).",
+    "Baroreceptor Reflex Feedback: A negative feedback loop mediating arterial blood pressure. Stretch receptors in the carotid sinus and aortic arch modulate cardiac output and total peripheral resistance via brainstem vasomotor centers.",
+    "Ventilation-Perfusion Ratio (V/Q Matching): The ideal balance (~0.8) between the volume of air entering alveoli (ventilation) and the volume of blood reaching those alveoli (perfusion), vital for optimal respiratory gas exchange."
+  ],
+  "equipment": [
+    "Sphygmomanometer: Manual or digital diagnostic cuff utilized to measure systemic arterial systolic and diastolic blood pressure.",
+    "Spirometer: Core diagnostic apparatus used to assess dry lung volumes, air flow rates, and vital capacities during respiratory profiling.",
+    "Electrocardiograph (ECG): Electrophysiological instrument that senses and records skin potential vectors representing cardiac muscle activations.",
+    "Pulse Oximeter: Non-invasive clip sensor measuring arterial blood oxygen saturation (SpO2) using differential light wavelength absorption.",
+    "Stethoscope: Traditional acoustic monitoring tool utilized to auscultate cardiac valve closures and pulmonary breath sounds."
+  ],
+  "parameters": {
+    "averageRestingCardiacOutput": "5.0 - 5.5 L/min",
+    "averageRestingStrokeVolume": "70 - 80 mL/beat",
+    "restingTidalVolume": "500 mL",
+    "normalVitalCapacity": "4.5 - 4.8 Liters",
+    "normalFEV1ToFVCPercentage": "75 - 80%",
+    "idealArterialBloodGasPaO2": "80 - 100 mmHg",
+    "idealArterialBloodGasPaCO2": "35 - 45 mmHg",
+    "arterialBloodPHRange": "7.35 - 7.45",
+    "normalSystolicBP": "100 - 120 mmHg",
+    "normalDiastolicBP": "60 - 80 mmHg"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Frank-Starling Contractile Adaptations",
+      "frequency": "Beat-to-Beat",
+      "mechanism": [
+        "Augmentation of venous return expands end-diastolic filling and stretches myocardial cells.",
+        "Optimized overlap of actin and myosin thick-thin filaments, increasing calcium sensitivity.",
+        "Automatic generation of a more powerful systolic stroke volume without requiring nervous input."
+      ]
+    },
+    {
+      "effect": "Oxyhemoglobin Oxygen Release (Bohr Shift)",
+      "frequency": "Dynamic",
+      "mechanism": [
+        "Metabolically active tissues produce excess carbon dioxide and hydrogen ions (acidosis).",
+        "Binding of CO2 and protons to amino acid residues on hemoglobin stabilizes its low-affinity (taut) state.",
+        "Facilitation of oxygen release to oxygen-depleted peripheral capillary beds."
+      ]
+    },
+    {
+      "effect": "Baroreceptive Autonomic Compensation",
+      "frequency": "Continuous",
+      "mechanism": [
+        "Decreased arterial pressure reduces the mechanical stretch of carotid sinus receptors.",
+        "Aferent firing rate to the medulla decreases, stimulating vasomotor centers.",
+        "Parasympathetic tone decreases and sympathetic tone increases, raising heart rate, myocardial contractility, and systemic vascular resistance."
+      ]
+    }
+  ],
+  "indications": [
+    "Hypertension Screening: Identifying and grading systemic cardiovascular pressure elevations.",
+    "Obstructive vs Restrictive Lung Classification: Differentiating asthma/COPD from pulmonary fibrosis using spirometry graphs.",
+    "Cardiorespiratory Fitness Assessment: Checking endurance, cardiac reserves, and pulse recovery speeds."
+  ],
+  "contraindications": {
+    "general": [
+      "Forced spirometry is contraindicated in patients with recent myocardial infarction, unstable angina, or cerebral aneurysms.",
+      "Uncontrolled acute congestive heart failure during physical stress testing."
+    ],
+    "local": [
+      "Avoid inflating blood pressure cuffs over limbs with active arteriovenous dialysis fistulas or ipsilateral lymphedema."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Ensure the patient has rested in a quiet, seated position for at least 5 minutes prior to blood pressure testing.",
+      "Instruct the patient to avoid caffeine, nicotine, and strenuous physical activities for 30 minutes before cardiorespiratory diagnostic assessments."
+    ],
+    "apparatusPreparation": [
+      "Calibrate the spirometer manually using a 3-liter calibration syringe.",
+      "Select a blood pressure cuff of suitable size, ensuring the bladder width spans at least 40% of upper arm circumference."
+    ],
+    "skinPreparation": [
+      "To obtain a clean ECG signal, cleanse the thoracic skin sites with alcohol to remove sweat, sebum, and hair."
+    ],
+    "electrodePlacement": [
+      "Position the standard limb leads and pre-cordial chest leads (V1-V6) precisely over anatomical reference landmarks.",
+      "Anchor the pulse oximeter probe securely onto a warm finger with good capillary perfusion."
+    ],
+    "treatmentProcedure": [
+      "Inflate the manual blood pressure cuff smoothly to 20-30 mmHg past the loss of radial pulse.",
+      "Deflate the cuff slowly at 2 mmHg per heartbeat, noting Korotkoff sounds representing systolic and diastolic pressure points.",
+      "In spirometry, have the patient inhale to maximum capacity, then seal their lips around the mouthpiece and exhale as hard and fast as possible for at least 6 seconds."
+    ]
+  },
+  "precautions": [
+    "Stop forced spirometry testing immediately if the patient reports severe dizziness, chest discomfort, or syncope.",
+    "Monitor systemic blood pressure carefully during cardiopulmonary rehabilitation exercises in cardiac-risk cohorts.",
+    "Verify proper skin connection of all ECG leads to avoid artifacts that mimic arrhythmias."
+  ],
+  "clinicalPearls": [
+    "Asthma and COPD are obstructive lung diseases, showing a significantly reduced FEV1/FVC ratio (<70%); pulmonary fibrosis is restrictive, showing normal or elevated FEV1/FVC ratios because both parameters decline proportionately.",
+    "Hypoxia in systemic tissues causes localized vasodilation to augment regional blood supply, whereas hypoxia in pulmonary capillaries causes marked vasoconstriction (Hypoxic Pulmonary Vasoconstriction) to redirect blood flow to well-ventilated alveoli.",
+    "A left shift in the Oxygen-Hemoglobin dissociation curve is triggered by decreases in temperature, CO2, 2,3-BPG, and acidity (elevated pH), indicating higher hemoglobin affinity for oxygen and reduced peripheral oxygen unloading."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Suspected Obstructive Airways Disease (Asthma / Chronic Bronchitis)",
+      "position": "Seated upright with a nose-clip in place",
+      "electrodePlacement": "ECG leads connected for concurrent cardiac monitoring if the patient is elderly or has active cardiovascular history",
+      "frequency": "Minimum of three acceptable and repeatable forced exhalation trials",
+      "purpose": "To determine baseline forced vital capacity, FEV1, and FEV1/FVC ratio to confirm airway obstruction"
+    }
+  ],
+  "vivaQuestions": [
+    "Question: State the Frank-Starling Law of the heart and explain its cellular basis and clinical importance. | Answer: The Frank-Starling Law states that the force of ventricular contraction is directly proportional to the end-diastolic volume (and length of myocardial fibers) before contraction. Its cellular basis is that stretching sarcomeres toward an optimal length increases actin-myosin overlap and cross-bridge calcium sensitivity. It ensures cardiac output matches venous return dynamically. | Examiner Key Points: Ventricular stretch, end-diastolic volume, actin-myosin overlap. | Clinical Importance: Compensatory mechanism in early heart failure, but fails in chronic decompensated cardiomyopathy.",
+    "Question: Explain the Bohr effect vs the Haldane effect and where they occur. | Answer: The Bohr effect refers to how an increase in carbon dioxide and acidity (lower pH) decreases hemoglobin oxygen affinity, shifting the oxyhemoglobin curve to the right to release oxygen in systemic tissues. The Haldane effect refers to how oxygen binding to hemoglobin in the lungs drives the release of carbon dioxide from hemoglobin back into the alveoli. | Examiner Key Points: Bohr effect (tissues, CO2 lowers O2 affinity) vs Haldane effect (lungs, O2 displaces CO2). | Clinical Importance: Crucial for optimizing tissue oxygenation and respiratory carbon dioxide elimination.",
+    "Question: What is peripheral hypoxic vasoconstriction and how does it differ from systemic hypoxic responses? | Answer: Hypoxic pulmonary vasoconstriction (HPV) is a physiological mechanism where small pulmonary arteries constrict in response to low alveolar oxygen (hypoxia). This diverts blood to better-ventilated lung zones to keep V/Q ratios normal. This is the opposite of systemic vascular beds, which vasodilate in response to hypoxia. | Examiner Key Points: Alveolar hypoxia, localized pulmonary constriction, V/Q matching, systemic contrast. | Clinical Importance: Severe generalized hypoxia (e.g. high altitude) causes chronic pulmonary hypertension and right heart hypertrophy.",
+    "Question: Differentiate between Obstructive and Restrictive lung diseases based on spirometric parameters. | Answer: Obstructive lung diseases (e.g. Asthma, COPD) are characterized by physical limitation of airflow, where FEV1 is severely reduced and the FEV1/FVC ratio is < 70%. Restrictive lung diseases (e.g. Pulmonary Fibrosis, Scoliosis) feature limited lung expansion, where both FEV1 and FVC are reduced, keeping the FEV1/FVC ratio normal or elevated (> 80%). | Examiner Key Points: FEV1/FVC ratio threshold (<70% obstructive), total lung volume restriction. | Clinical Importance: Guides the diagnosis, classification, and targeted physical therapy of lung diseases.",
+    "Question: Describe the neural control of respiration, detailing the key brainstem respiratory centers. | Answer: Respiration is controlled by the medullary respiratory center (containing the Dorsal Respiratory Group for inspiration and Ventral Respiratory Group for forced expiration) and the pontine centers (containing the Pneumotaxic center which limits inspiration duration and the Apneustic center which prolongs it). | Examiner Key Points: Medulla (DRG/VRG), Pons (Pneumotaxic/Apneustic), rhythmic generation. | Clinical Importance: Brainstem lesions or drug overdoses (opioids) can depress these centers, leading to fatal respiratory arrest.",
+    "Question: How do central and peripheral chemoreceptors differ in sensing and regulating arterial blood gases? | Answer: Central chemoreceptors in the medulla are sensitive only to changes in pH/H+ inside cerebrospinal fluid, which are caused by blood CO2 crossing the blood-brain barrier. They are slow but powerful. Peripheral chemoreceptors in the carotid and aortic bodies detect decreases in arterial PO2 (specifically below 60 mmHg), increases in PCO2, and falls in arterial pH. They respond rapidly. | Examiner Key Points: Central (CSF H+/CO2), Peripheral (arterial PO2 < 60mmHg, H+/CO2), arterial blood sensing. | Clinical Importance: Drives breathing in hypoxic patients, especially in COPD patients with chronic hypercapnia.",
+    "Question: What is the normal sequence of mechanical events in the cardiac cycle and their durations at a heart rate of 75 bpm? | Answer: At 75 bpm, a single cycle lasts 0.8 seconds. This consists of: 1) Atrial systole (0.1s), 2) Isometric ventricular contraction (0.05s), 3) Rapid and reduced ventricular ejection (0.25s), 4) Protodiastole and Isometric ventricular relaxation (0.08s), 5) Rapid and reduced ventricular filling, and diastasis (0.32s). Atrial diastole lasts 0.7s, while ventricular diastole lasts 0.5s. | Examiner Key Points: Total 0.8s, systole vs diastole durations, isometric phases. | Clinical Importance: Increases in heart rate (tachycardia) disproportionately shorten diastole, reducing coronary perfusion time.",
+    "Question: Define cardiac output and explain the factors that regulate stroke volume. | Answer: Cardiac output (CO = HR x SV) is regulated by heart rate and stroke volume. Stroke volume is determined by three variables: 1) Preload (end-diastolic volume/stretch), 2) Contractility (intrinsic myofibrillar force driven by sympathetic activity/calcium), and 3) Afterload (resistive pressure against which ventricles pump). | Examiner Key Points: CO equation, Preload (preload factor), Contractility (inotropic force), Afterload (systemic vascular resistance). | Clinical Importance: Guides patient drug choices for managing heart failure and cardiogenic shock.",
+    "Question: Describe the composition and physiological function of pulmonary surfactant. | Answer: Surfactant is a complex mixture of lipids (predominantly dipalmitoylphosphatidylcholine - DPPC) and specific surfactant proteins, secreted by Type II alveolar cells. It lowers alveolar surface tension, preventing small alveoli from collapsing into larger ones (Laplace's Law) and reducing the work of breathing. | Examiner Key Points: Type II pneumocytes, dipalmitoylphosphatidylcholine, surface tension reduction, Laplace's Law. | Clinical Importance: Lack of surfactant causes Infant Respiratory Distress Syndrome (IRDS) in premature infants.",
+    "Question: What are the physiological stages of shock, and how does the body compensate for acute hemorrhage? | Answer: Hemorrhage triggers shock, classified into compensatory, progressive, and irreversible stages. Acute blood loss decreases arterial pressure, triggering the baroreceptor reflex. This increases sympathetic output, causing tachycardia and selective vasoconstriction (renal and cutaneous perfusion drops to protect cerebral and coronary flows) while activating the Renin-Angiotensin-Aldosterone system. | Examiner Key Points: Baroreceptor reflex, sympathetic discharge, selective vasoconstriction, RAAS activation. | Clinical Importance: Recognizable by clinical presentation (cold, clammy skin, tachycardia, dry membranes, oliguria)."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following lung parameters displays a marked decrease in patients with severe obstructive airway diseases?",
+      "options": [
+        "Total Lung Capacity (TLC)",
+        "FEV1/FVC ratio",
+        "Functional Residual Capacity (FRC)",
+        "Residual Volume (RV)"
+      ],
+      "answer": "FEV1/FVC ratio",
+      "explanation": "Obstructive airway diseases (e.g. Asthma, COPD) involve restricted airflow during expiration, which leads to a disproportionate drop in FEV1 and a low FEV1/FVC ratio (<70%)."
+    },
+    {
+      "question": "Pulmonary surfactant is synthesized and secreted by which specific cell species in the human lungs?",
+      "options": [
+        "Type I alveolar pneumocytes",
+        "Type II alveolar pneumocytes",
+        "Alveolar macrophages",
+        "Goblet mucous cells"
+      ],
+      "answer": "Type II alveolar pneumocytes",
+      "explanation": "Type II alveolar epithelial cells synthesize, store, and secrete lipid-rich pulmonary surfactant to lower alveolar surface tension."
+    },
+    {
+      "question": "The first heart sound (S1, 'lub') is produced primarily by the simultaneous closure of which valves during the cardiac cycle?",
+      "options": [
+        "Aortic and Pulmonary semilunar valves",
+        "Mitral and Tricuspid atrioventricular valves",
+        "Aortic and Mitral valves",
+        "Tricuspid and Pulmonary valves"
+      ],
+      "answer": "Mitral and Tricuspid atrioventricular valves",
+      "explanation": "S1 is generated by the vibration of blood and chambers during closure of the atrioventricular (Mitral and Tricuspid) valves at the start of ventricular systole."
+    },
+    {
+      "question": "Which physiological factor shifts the Oxygen-Hemoglobin dissociation curve to the left, increasing oxygen affinity?",
+      "options": [
+        "Increased temperature",
+        "Decreased arterial pH (acidosis)",
+        "Decreased 2,3-Bisphosphoglycerate (2,3-BPG)",
+        "Increased arterial pCO2"
+      ],
+      "answer": "Decreased 2,3-Bisphosphoglycerate (2,3-BPG)",
+      "explanation": "A decrease in temperature, CO2, 2,3-BPG, and hydrogen ions shifts the curve to the left, which reflects an increased oxygen affinity that hampers offloading in tissues."
+    },
+    {
+      "question": "What is the normal cardiac stroke volume of a resting healthy adult with an average heart rate of 75 bpm?",
+      "options": [
+        "40 mL",
+        "70 mL",
+        "120 mL",
+        "150 mL"
+      ],
+      "answer": "70 mL",
+      "explanation": "Under resting conditions, the stroke volume ejected by one ventricle in a single beat is approximately 70 to 80 mL."
+    },
+    {
+      "question": "The central respiratory chemoreceptors inside the medulla are directly stimulated by which ion species in the cerebrospinal fluid (CSF)?",
+      "options": [
+        "Potassium (K+)",
+        "Hydrogen ions (H+)",
+        "Sodium (Na+)",
+        "Bicarbonate (HCO3-)"
+      ],
+      "answer": "Hydrogen ions (H+)",
+      "explanation": "Arterial carbon dioxide crosses the blood-brain barrier into cerebrospinal fluid, hydrolyzing to form carbonic acid. This releases free hydrogen ions (protons) that directly stimulate central chemoreceptors."
+    },
+    {
+      "question": "What is the key respiratory compensatory finding in acute metabolic acidosis (e.g. diabetic ketoacidosis)?",
+      "options": [
+        "Hypoventilation causing carbon dioxide retention",
+        "Hyperventilation (Kussmaul breathing) driving down carbon dioxide levels",
+        "Inhibition of the pontine apneustic centers",
+        "Complete arrest of medullary respiratory rhythmicity"
+      ],
+      "answer": "Hyperventilation (Kussmaul breathing) driving down carbon dioxide levels",
+      "explanation": "High arterial acidity stimulates peripheral chemoreceptors to trigger deep, rapid hyperventilation (Kussmaul breathing), exhaling CO2 to help normalize systemic pH."
+    },
+    {
+      "question": "Which of the following describes the electrical events recorded as the QRS complex on a standard 12-lead electrocardiogram (ECG)?",
+      "options": [
+        "SA node pacemaker discharge",
+        "Atrial depolarization",
+        "Ventricular depolarization",
+        "Ventricular repolarization"
+      ],
+      "answer": "Ventricular depolarization",
+      "explanation": "The QRS complex represents the rapid depolarization of ventricular myocardium, preceding physical contraction."
+    },
+    {
+      "question": "According to the Frank-Starling Law, an increase in venous return directly increases which cardiorespiratory index?",
+      "options": [
+        "Left ventricular end-systolic volume",
+        "Total peripheral resistance",
+        "Left ventricular end-diastolic volume (Preload)",
+        "Systemic arterial diastolic pressure"
+      ],
+      "answer": "Left ventricular end-diastolic volume (Preload)",
+      "explanation": "Venous return increases pre-systolic cardiac filling (preload/EDV), stretching myofibrils and driving a stronger mechanical systolic stroke output."
+    },
+    {
+      "question": "Which of the following represents the normal physiological ventilatory compliance of human lungs combined with the chest wall?",
+      "options": [
+        "0.1 L/cm H2O",
+        "0.2 L/cm H2O",
+        "0.5 L/cm H2O",
+        "1.0 L/cm H2O"
+      ],
+      "answer": "0.1 L/cm H2O",
+      "explanation": "Normally, the combined compliance of healthy lungs and chest wall is about 0.1 to 0.2 Liters per centimeter of water pressure change."
+    },
+    {
+      "question": "What physiological reflex involves pulmonary stretch receptors in smooth muscle initiating vagal afferents to stop inspiration and protect lungs from over-inflation?",
+      "options": [
+        "Baroreceptor reflex",
+        "Hering-Breuer deflation reflex",
+        "Hering-Breuer inflation reflex",
+        "Chemoreceptive lung feedback"
+      ],
+      "answer": "Hering-Breuer inflation reflex",
+      "explanation": "The Hering-Breuer inflation reflex is an autonomic safety mechanism: large inspirations stretch bronchial muscle, sending vagal inhibitory inputs to stop the respiratory ramp and prevent overdistention."
+    },
+    {
+      "question": "What is the major metabolic fuel source used by healthy myocardium under normal resting aerobic conditions?",
+      "options": [
+        "Glucose",
+        "Free fatty acids",
+        "Lactic acid",
+        "Glutamine and amino acids"
+      ],
+      "answer": "Free fatty acids",
+      "explanation": "To sustain its continuous energy needs, healthy resting myocardium generates over 60-70% of its ATP by metabolic beta-oxidation of free fatty acids."
+    },
+    {
+      "question": "Which of the following cardiac cycle phases features all four valves (mitral, tricuspid, aortic, pulmonary) closed simultaneously while muscle pressure rises?",
+      "options": [
+        "Atrial systole",
+        "Isometric ventricular contraction",
+        "Rapid ventricular ejection",
+        "Diastasis"
+      ],
+      "answer": "Isometric ventricular contraction",
+      "explanation": "Isometric (isovolumetric) ventricular contraction is the early phase of systole where ventricles contract with closed AV and semilunar valves, raising pressure rapidly without volume changes."
+    },
+    {
+      "question": "What is the anatomical pacemaker of the healthy mammalian heart?",
+      "options": [
+        "Sinoatrial (SA) node",
+        "Atrioventricular (AV) node",
+        "Bundle of His",
+        "Purkinje network"
+      ],
+      "answer": "Sinoatrial (SA) node",
+      "explanation": "The Sinoatrial (SA) node, located in the right atrium, has the highest intrinsic rate of spontaneous depolarization (~70-80/min), making it the dominant cardiac pacemaker."
+    },
+    {
+      "question": "Which of the following represents the total volume of air inspired or expired during a normal, quiet breath at rest?",
+      "options": [
+        "Inspiratory Reserve Volume (IRV)",
+        "Tidal Volume (VT)",
+        "Functional Residual Capacity (FRC)",
+        "Vital Capacity (VC)"
+      ],
+      "answer": "Tidal Volume (VT)",
+      "explanation": "Tidal volume is the volume of air moved in or out of the lungs during a single quiet, resting breath, averaging around 500 mL."
+    },
+    {
+      "question": "A patient presenting with acute carbon monoxide poisoning exhibits tissue hypoxia primarily because CO:",
+      "options": [
+        "Destroys lung surfactant, causing alveolar collapse",
+        "Reversibly blocks medullary central chemoreceptors",
+        "Binds to hemoproteins with 200x higher affinity than oxygen, blocking O2 transport",
+        "Directly depresses cardiac electrical conduction systems"
+      ],
+      "answer": "Binds to hemoproteins with 200x higher affinity than oxygen, blocking O2 transport",
+      "explanation": "Carbon monoxide binds to hemoglobin with over 200 times greater affinity than oxygen, blocking oxygen delivery and shifting the oxygen-hemoglobin curve left to impair release."
+    },
+    {
+      "question": "What is the primary vascular mechanism that offsets blood pressure falls during acute systemic arterial blood loss?",
+      "options": [
+        "Arterial baroreceptor reflex triggering sympathetic vasoconstriction",
+        "Parasympathetic heart blockades",
+        "Renal water dumping parameters",
+        "Systemic nitric oxide secretion"
+      ],
+      "answer": "Arterial baroreceptor reflex triggering sympathetic vasoconstriction",
+      "explanation": "Blood pressure drops reduce baroreceptor stretch, triggering vasomotor sympathetic output to increase heart rate, cardiac contractility, and venous/arteromedial constriction."
+    },
+    {
+      "question": "An anatomical shunt or low ventilation-perfusion ratio (V/Q = 0) is clinically termed as:",
+      "options": [
+        "Physiological anatomical dead space",
+        "Pulmonary shunting",
+        "Alveolar hyperventilation",
+        "Eupnea"
+      ],
+      "answer": "Pulmonary shunting",
+      "explanation": "A ventilation-perfusion ratio of zero (pulmonary shunting) occurs when blood perfuses completely unventilated alveoli, letting deoxygenated blood bypass gas exchange."
+    },
+    {
+      "question": "What does the T-wave represent on a standard electrocardiogram (ECG)?",
+      "options": [
+        "Atrial repolarization",
+        "Ventricular depolarization",
+        "Ventricular repolarization",
+        "AV node conduction delay"
+      ],
+      "answer": "Ventricular repolarization",
+      "explanation": "The T-wave represent the repolarization of ventricular muscle as cells restore resting electrical charges."
+    },
+    {
+      "question": "Which of the following describes the functional residual capacity (FRC) of the lungs?",
+      "options": [
+        "The volume of air in lungs after normal quiet inspiration",
+        "The volume of air remaining in lungs after a normal quiet tidal expiration",
+        "The minimum volume of air remaining in lungs after absolute forced expiration",
+        "The total vital capacity plus dead space"
+      ],
+      "answer": "The volume of air remaining in lungs after a normal quiet tidal expiration",
+      "explanation": "Structural FRC is the volume of air remaining in the lungs after a normal quiet expiration, representing the sum of Expiratory Reserve Volume (ERV) and Residual Volume (RV)."
+    },
+    {
+      "question": "The second heart sound (S2, 'dub') is produced primarily by the closure of which valves during the cardiac cycle?",
+      "options": [
+        "Mitral and Tricuspid AV valves",
+        "Aortic and Pulmonary semilunar valves",
+        "Mitral and Aortic valves",
+        "Tricuspid and Pulmonary valves"
+      ],
+      "answer": "Aortic and Pulmonary semilunar valves",
+      "explanation": "The second heart sound (S2) is generated by blood turbulence and tissue vibrations during closure of the semilunar (Aortic and Pulmonary) valves at the start of ventricular diastole."
+    },
+    {
+      "question": "What is the principal chemical driving force for pulmonary ventilation in healthy resting humans?",
+      "options": [
+        "Arterial pO2 levels dropping below 100 mmHg",
+        "Changes in arterial pCO2 levels acting on respiratory centers",
+        "Systemic lactate concentrations",
+        "Changes in blood volume stretch"
+      ],
+      "answer": "Changes in arterial pCO2 levels acting on respiratory centers",
+      "explanation": "Arterial partial pressure of CO2 is the chief chemical regulator of resting ventilation. Very small CO2 increases stimulate breathing, whereas PO2 must drop below 60 mmHg to trigger a heavy peripheral drive."
+    },
+    {
+      "question": "Which pulmonary volume CANNOT be measured directly by classic simple dry spirometry testing?",
+      "options": [
+        "Inspiratory Capacity (IC)",
+        "Expiratory Reserve Volume (ERV)",
+        "Residual Volume (RV)",
+        "Vital Capacity (VC)"
+      ],
+      "answer": "Residual Volume (RV)",
+      "explanation": "Residual volume is the air remaining in the lungs after draft maximum inhalation/exhalation forces. Because it cannot be expired, it cannot be measured by simple spirometry (likewise with FRC and TLC)."
+    },
+    {
+      "question": "Which of the following describes the physiological effect of the vagus nerve on physiological heart rate?",
+      "options": [
+        "Positive chronotropic effect (increase)",
+        "Negative chronotropic effect (decrease)",
+        "Positive inotropic effect (increase contractility)",
+        "Complete cardiac arrest in systole"
+      ],
+      "answer": "Negative chronotropic effect (decrease)",
+      "explanation": "The vagus nerve provides parasympathetic input to the SA and AV nodes, releasing acetylcholine to open potassium channels and slow the resting heart rate (negative chronotropy)."
+    },
+    {
+      "question": "The volume of air that remains in conducting airways where gas exchange is impossible is physiologically termed as:",
+      "options": [
+        "Alveolar dead space",
+        "Anatomical dead space",
+        "Shunted volume",
+        "Residual volume"
+      ],
+      "answer": "Anatomical dead space",
+      "explanation": "Anatomical dead space (typically ~150 mL in healthy adults) comprises the volume of the nose, pharynx, trachea, and bronchi where gas exchange is physically impossible."
+    },
+    {
+      "question": "A patient with severe metabolic acidosis will compensate by hyperventilating, which results in:",
+      "options": [
+        "Respiratory acidosis",
+        "Decrease in arterial bicarbonate concentrations",
+        "Blow-off of carbon dioxide to elevate blood pH",
+        "Suppression of carotid chemoreceptors"
+      ],
+      "answer": "Blow-off of carbon dioxide to elevate blood pH",
+      "explanation": "Hyperventilating blows off gaseous CO2, which shifts carbonic acid equilibria to reduce carbonic acid levels and raise systemic blood pH."
+    },
+    {
+      "question": "Which arterial wall baroreceptor region is innervated principally by the Glossopharyngeal Nerve (CN IX)?",
+      "options": [
+        "Aortic Arch",
+        "Carotid Sinus",
+        "Subclavian arterial curve",
+        "Pulmonary arterial stem"
+      ],
+      "answer": "Carotid Sinus",
+      "explanation": "Baroreceptors in the carotid sinus send their sensory inputs to the medullary cardiovascular centers via the carotid sinus nerve, a branch of the Glossopharyngeal (CN IX) nerve, whereas the Vaginal (CN X) nerve mediates inputs from the aortic arch."
+    },
+    {
+      "question": "What is the primary hemodynamic factor that determines total peripheral resistance (TPR) in local arterioles?",
+      "options": [
+        "Length of the arteriole segment",
+        "Viscosity of blood cells",
+        "Arteriolar radius (to the 4th power)",
+        "Mean arterial temperature"
+      ],
+      "answer": "Arteriolar radius (to the 4th power)",
+      "explanation": "According to Poiseuille's law, resistance is inversely proportional to vessel radius raised to the fourth power. Small changes in arteriolar radius dynamically control TPR."
+    },
+    {
+      "question": "Which phase of the electrocardiogram represents the conduction delay across the AV node?",
+      "options": [
+        "QRS duration",
+        "PR interval",
+        "QT interval",
+        "ST segment"
+      ],
+      "answer": "PR interval",
+      "explanation": "The PR interval (0.12 - 0.20s) represents the time required for electrical impulses to travel from the SA node through the atria, across the AV node, and into the ventricles."
+    },
+    {
+      "question": "What physiological condition describes an abnormal increase in pulmonary interstitial fluid that compromises oxygenation?",
+      "options": [
+        "Pneumothorax",
+        "Pulmonary Edema",
+        "Emphysema",
+        "Atelectasis"
+      ],
+      "answer": "Pulmonary Edema",
+      "explanation": "Pulmonary edema is the fluid accumulation within the alveolar walls and interstitial spaces, which increases the diffusion distance and leads to systemic hypoxemia."
+    }
+  ],
+  "reference": [
+    "Guyton and Hall Textbook of Medical Physiology, 14th Edition",
+    "Sembulingam - Essentials of Medical Physiology, 8th Edition",
+    "West's Respiratory Physiology: The Essentials, 11th Edition"
+  ]
+}

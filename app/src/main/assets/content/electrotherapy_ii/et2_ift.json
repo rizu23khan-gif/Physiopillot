@@ -1,0 +1,353 @@
+{
+  "subject": "Electrotherapy II",
+  "chapterId": "et2_ift",
+  "chapterName": "Interferential Therapy (IFT)",
+
+  "definition": [
+    "Interferential current is the resultant current produced when two or more alternating currents are applied simultaneously at the point of intersection in a given medium.",
+    "Interferential therapy uses two medium frequency currents to produce a low frequency effect within tissues."
+  ],
+
+  "principle": [
+    "Interferential therapy depends upon the principle of interference of two medium frequency currents crossing within the patient's tissues.",
+    "One current is usually maintained at 4000 Hz.",
+    "The second current is varied according to treatment requirements.",
+    "At the point where the currents cross, a new current is produced.",
+    "The amplitude of the resultant current is modulated.",
+    "Beat frequency is produced by the difference between the two carrier frequencies.",
+    "Example: 4000 Hz and 3900 Hz produce a beat frequency of 100 Hz.",
+    "Beat frequencies from 1–250 Hz can be produced by varying the carrier frequency difference."
+  ],
+
+  "equipment": [
+    "Flexible electrodes",
+    "Vacuum electrodes",
+    "Pad electrodes",
+    "Plate electrodes",
+    "Leads",
+    "Straps",
+    "Lint pads",
+    "Gel",
+    "Mackintosh",
+    "Cotton",
+    "Powder",
+    "Saline water",
+    "Soap",
+    "Vaseline",
+    "Towels"
+  ],
+
+  "parameters": {
+    "carrierFrequency": "4000 Hz",
+    "beatFrequency": "Difference between carrier frequencies",
+    "beatFrequencyRange": "1–250 Hz",
+    "modulationDepth": "0–100%",
+    "sweepFrequency": "Frequency directly fed to the beat frequency by the machine",
+    "spectrum": "Range of frequencies automatically traversed during treatment to prevent accommodation",
+    "balance": "Used to equalize current flow in both channels",
+    "impedance": "Resistance, capacitance and inductance collectively offered by tissues",
+    "phase": "Relationship between currents traveling in same or opposite phase"
+  },
+
+  "physiologicalEffects": [
+    {
+      "effect": "Pain Relief",
+      "frequency": "80–100 Hz rhythmic",
+      "mechanism": [
+        "Pain gate effect",
+        "Inhibition of nociceptive transmission",
+        "Increased local blood circulation",
+        "Removal of local chemicals",
+        "Release of endogenous opiates",
+        "Physiological blocking of nerve transmission"
+      ]
+    },
+    {
+      "effect": "Motor Stimulation",
+      "frequency": "1–100 Hz",
+      "mechanism": [
+        "Muscle contraction",
+        "Partial tetany at 5–20 Hz",
+        "Tetanic contraction at 30–100 Hz",
+        "Can stimulate deeply placed muscles"
+      ]
+    },
+    {
+      "effect": "Absorption of Exudates",
+      "frequency": "1–10 Hz rhythmic",
+      "mechanism": [
+        "Rhythmic pumping action",
+        "Improved circulation",
+        "Facilitates absorption of exudates",
+        "Reduces swelling"
+      ]
+    }
+  ],
+
+  "indications": [
+    "Low back pain",
+    "Periarthritis shoulder",
+    "Osteoarthritis knee",
+    "Absorption of exudates",
+    "Stress incontinence"
+  ],
+
+  "contraindications": {
+    "general": [
+      "Hyperpyrexia/Fever",
+      "Hypertension",
+      "Anemia",
+      "Severe renal failure",
+      "Severe cardiac failure",
+      "Deep X-ray therapy",
+      "Cobalt therapy",
+      "Epileptic patients",
+      "Non-cooperative patients",
+      "Mentally retarded patients",
+      "Very poor general condition"
+    ],
+    "local": [
+      "Open wounds",
+      "Very recent fractures",
+      "Skin grafts",
+      "Severe edema",
+      "Hairy surface",
+      "Acute inflammation",
+      "Metal in the part",
+      "Malignant growth",
+      "Hypersensitive skin",
+      "Loss of sensation"
+    ]
+  },
+
+  "technique": {
+    "patientPreparation": [
+      "Receive the patient",
+      "Take complete history",
+      "Review investigations",
+      "Check general contraindications",
+      "Check local contraindications"
+    ],
+
+    "apparatusPreparation": [
+      "Ensure all knobs are at zero",
+      "Check plug pins",
+      "Check wire insulation",
+      "Check stimulator function",
+      "Check fuse",
+      "Check patient hand switch"
+    ],
+
+    "skinPreparation": [
+      "Clean the skin",
+      "Wash treatment area",
+      "Cover lesions with petroleum jelly if present"
+    ],
+
+    "electrodePlacement": [
+      "Four electrodes are commonly used",
+      "Electrodes are placed in two pairs",
+      "Electrodes are positioned diagonally to each other",
+      "Crossing point should lie over or around the affected part"
+    ],
+
+    "treatmentProcedure": [
+      "Select suitable frequency",
+      "Select spectrum if required",
+      "Increase intensity gradually",
+      "Monitor both channels",
+      "Equalize current using balance control if required",
+      "Reduce intensity before ending treatment",
+      "Switch off machine",
+      "Disconnect electrodes"
+    ]
+  },
+
+  "precautions": [
+    "Skin should be clean before treatment",
+    "Increase intensity gradually",
+    "Keep communicating with the patient",
+    "Advise patient to report discomfort immediately",
+    "Ensure proper electrode contact",
+    "Equalize current if channel imbalance occurs",
+    "Reduce intensity before switching off",
+    "Do not allow patient to pull leads",
+    "Do not allow patient to touch surrounding objects during treatment"
+  ],
+
+  "clinicalPearls": [
+    "One channel is usually fixed at 4000 Hz.",
+    "Beat frequency equals the difference between carrier frequencies.",
+    "IFT produces low frequency effects using medium frequency currents.",
+    "Skin resistance is lower at 4000 Hz than with low frequency currents.",
+    "Four-electrode quadripolar application is the common method.",
+    "80–100 Hz rhythmic frequency is commonly used for pain relief.",
+    "1–10 Hz rhythmic frequency is used for absorption of exudates.",
+    "Spectrum mode helps prevent accommodation.",
+    "Balance control equalizes unequal channel currents."
+  ],
+
+  "clinicalProtocols": [
+    {
+      "condition": "Low Back Pain",
+      "position": "Prone lying",
+      "electrodePlacement": "Four electrodes in two diagonal pairs",
+      "frequency": "80–100 Hz rhythmic",
+      "purpose": "Pain relief"
+    },
+    {
+      "condition": "Periarthritis Shoulder",
+      "frequency": "80–100 Hz rhythmic",
+      "purpose": "Pain relief"
+    },
+    {
+      "condition": "Osteoarthritis Knee",
+      "electrodePlacement": "Four electrodes in two diagonal pairs around knee",
+      "frequency": "80–100 Hz rhythmic",
+      "purpose": "Pain relief"
+    },
+    {
+      "condition": "Absorption of Exudates",
+      "position": "Supine lying",
+      "frequency": "1–10 Hz rhythmic",
+      "purpose": "Pumping action and reduction of swelling"
+    },
+    {
+      "condition": "Stress Incontinence",
+      "position": "Supine lying with hip and knee flexed",
+      "electrodePlacement": "Lower abdomen and inner thighs",
+      "frequency": "1–100 Hz rhythmic",
+      "purpose": "Pelvic floor muscle stimulation"
+    }
+  ],
+
+  "vivaQuestions": [
+    "Define interferential current.",
+    "Define interferential therapy.",
+    "Who introduced interferential currents?",
+    "What is the principle of IFT?",
+    "What is beat frequency?",
+    "Calculate beat frequency produced by 4000 Hz and 3900 Hz currents.",
+    "What is modulation depth?",
+    "What is sweep frequency?",
+    "What is spectrum?",
+    "What is balance control?",
+    "What is impedance?",
+    "What are the physiological effects of IFT?",
+    "What frequency is used for pain relief?",
+    "What frequency is used for absorption of exudates?",
+    "What frequency range is used for motor stimulation?",
+    "What are the indications of IFT?",
+    "What are the contraindications of IFT?",
+    "Describe electrode placement in IFT.",
+    "How is IFT used in low back pain?",
+    "How is IFT used in stress incontinence?"
+  ],
+
+  "mcqs": [
+    {
+      "question": "Interferential therapy is based on:",
+      "options": [
+        "Induction",
+        "Interference of medium frequency currents",
+        "Ionization",
+        "Galvanization"
+      ],
+      "answer": "Interference of medium frequency currents"
+    },
+    {
+      "question": "The commonly used carrier frequency in IFT is:",
+      "options": [
+        "50 Hz",
+        "100 Hz",
+        "1000 Hz",
+        "4000 Hz"
+      ],
+      "answer": "4000 Hz"
+    },
+    {
+      "question": "Beat frequency is:",
+      "options": [
+        "Sum of frequencies",
+        "Difference between frequencies",
+        "Average frequency",
+        "Product of frequencies"
+      ],
+      "answer": "Difference between frequencies"
+    },
+    {
+      "question": "4000 Hz and 3900 Hz produce a beat frequency of:",
+      "options": [
+        "50 Hz",
+        "100 Hz",
+        "150 Hz",
+        "200 Hz"
+      ],
+      "answer": "100 Hz"
+    },
+    {
+      "question": "Frequency commonly used for pain relief is:",
+      "options": [
+        "1–10 Hz",
+        "15 Hz",
+        "80–100 Hz",
+        "250 Hz"
+      ],
+      "answer": "80–100 Hz"
+    },
+    {
+      "question": "Frequency used for absorption of exudates is:",
+      "options": [
+        "1–10 Hz",
+        "30–100 Hz",
+        "80–100 Hz",
+        "250 Hz"
+      ],
+      "answer": "1–10 Hz"
+    },
+    {
+      "question": "Modulation depth ranges between:",
+      "options": [
+        "0–25%",
+        "0–50%",
+        "0–75%",
+        "0–100%"
+      ],
+      "answer": "0–100%"
+    },
+    {
+      "question": "Spectrum is used to:",
+      "options": [
+        "Increase resistance",
+        "Prevent accommodation",
+        "Decrease circulation",
+        "Reduce contact"
+      ],
+      "answer": "Prevent accommodation"
+    },
+    {
+      "question": "The common electrode arrangement in IFT is:",
+      "options": [
+        "Single electrode",
+        "Two electrodes only",
+        "Four electrodes in two pairs",
+        "Six electrodes"
+      ],
+      "answer": "Four electrodes in two pairs"
+    },
+    {
+      "question": "Motor stimulation is obtained using:",
+      "options": [
+        "1–100 Hz",
+        "200–500 Hz",
+        "1000 Hz",
+        "4000 Hz"
+      ],
+      "answer": "1–100 Hz"
+    }
+  ],
+
+  "reference": [
+    "Jagmohan Singh - Textbook of Electrotherapy - Medium Frequency Currents - Interferential Therapy"
+  ]
+}

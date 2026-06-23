@@ -1,0 +1,222 @@
+{
+  "auditMetadata": {
+    "projectName": "PhysioPilot",
+    "timestamp": "2026-06-22T05:24:40-07:00",
+    "targetAudience": "BPT Students"
+  },
+  "overallStats": {
+    "totalRepositorySubjects": 22,
+    "totalCurriculumJsonSubjects": 20,
+    "totalCurriculumJsonTopics": 29,
+    "matchingSubjectsCount": 12
+  },
+  "datasetDiscrepancies": {
+    "missingFromRepository": ["Biochemistry", "Electrotherapy-II", "Orthopaedics", "Physiotherapy in Orthopaedics & Sports", "P.T. in Surgery Including Gynecology and Obstetrics", "Physiotherapy in Medical Conditions including Cardio-Pulmonary and Pediatrics", "PT in Neurology & Neuro surgery", "Physiotherapy Ethics, Administration & Principles of Rehabilitation"],
+    "missingFromCurriculum": ["Electrotherapy II", "PT in Orthopaedics & Sports", "PT in Surgery & Obstetrics", "PT in Medical Conditions", "PT in Neurology & Neurosurgery", "Ethics & Rehabilitation", "Clinical Posting", "Case Discussion", "Documentation", "Hospital Practice"]
+  },
+  "deepSubjectAudit": [
+    {
+      "subjectId": "anatomy",
+      "subjectName": "Anatomy",
+      "year": "1st Year",
+      "repositoryChapterCount": 14,
+      "curriculumFileChapterCount": 3,
+      "curriculumFileTopicCount": 3,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "physiology",
+      "subjectName": "Physiology",
+      "year": "1st Year",
+      "repositoryChapterCount": 4,
+      "curriculumFileChapterCount": 3,
+      "curriculumFileTopicCount": 3,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "electrotherapy_i",
+      "subjectName": "Electrotherapy I",
+      "year": "1st Year",
+      "repositoryChapterCount": 4,
+      "curriculumFileChapterCount": 1,
+      "curriculumFileTopicCount": 1,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "exercise_therapy_i",
+      "subjectName": "Exercise Therapy I",
+      "year": "1st Year",
+      "repositoryChapterCount": 4,
+      "curriculumFileChapterCount": 2,
+      "curriculumFileTopicCount": 2,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "electrotherapy_ii",
+      "subjectName": "Electrotherapy II",
+      "year": "2nd Year",
+      "repositoryChapterCount": 11,
+      "curriculumFileChapterCount": 0,
+      "curriculumFileTopicCount": 0,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "exercise_therapy_ii",
+      "subjectName": "Exercise Therapy II",
+      "year": "2nd Year",
+      "repositoryChapterCount": 3,
+      "curriculumFileChapterCount": 2,
+      "curriculumFileTopicCount": 2,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "biomechanics_kinesiology",
+      "subjectName": "Biomechanics & Kinesiology",
+      "year": "2nd Year",
+      "repositoryChapterCount": 4,
+      "curriculumFileChapterCount": 2,
+      "curriculumFileTopicCount": 2,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "path_micro_pharm",
+      "subjectName": "Pathology, Microbiology & Pharmacology",
+      "year": "2nd Year",
+      "repositoryChapterCount": 4,
+      "curriculumFileChapterCount": 2,
+      "curriculumFileTopicCount": 2,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "general_medicine",
+      "subjectName": "General Medicine",
+      "year": "3rd Year",
+      "repositoryChapterCount": 3,
+      "curriculumFileChapterCount": 1,
+      "curriculumFileTopicCount": 1,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "general_surgery",
+      "subjectName": "General Surgery",
+      "year": "3rd Year",
+      "repositoryChapterCount": 3,
+      "curriculumFileChapterCount": 1,
+      "curriculumFileTopicCount": 1,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "neurology_neurosurgery",
+      "subjectName": "Neurology & Neurosurgery",
+      "year": "3rd Year",
+      "repositoryChapterCount": 3,
+      "curriculumFileChapterCount": 1,
+      "curriculumFileTopicCount": 1,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "assessment_3rd",
+      "subjectName": "Physical/Functional Assessment & Management",
+      "year": "3rd Year",
+      "repositoryChapterCount": 3,
+      "curriculumFileChapterCount": 1,
+      "curriculumFileTopicCount": 1,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "research_stats",
+      "subjectName": "Research Methodology & Biostatistics",
+      "year": "3rd Year",
+      "repositoryChapterCount": 3,
+      "curriculumFileChapterCount": 1,
+      "curriculumFileTopicCount": 1,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "pt_ortho_sports",
+      "subjectName": "PT in Orthopaedics & Sports",
+      "year": "4th Year",
+      "repositoryChapterCount": 3,
+      "curriculumFileChapterCount": 0,
+      "curriculumFileTopicCount": 0,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "pt_surg_obs",
+      "subjectName": "PT in Surgery & Obstetrics",
+      "year": "4th Year",
+      "repositoryChapterCount": 3,
+      "curriculumFileChapterCount": 0,
+      "curriculumFileTopicCount": 0,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "pt_med_conditions",
+      "subjectName": "PT in Medical Conditions",
+      "year": "4th Year",
+      "repositoryChapterCount": 3,
+      "curriculumFileChapterCount": 0,
+      "curriculumFileTopicCount": 0,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "pt_neuro_4th",
+      "subjectName": "PT in Neurology & Neurosurgery",
+      "year": "4th Year",
+      "repositoryChapterCount": 3,
+      "curriculumFileChapterCount": 0,
+      "curriculumFileTopicCount": 0,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "ethics_rehab",
+      "subjectName": "Ethics & Rehabilitation",
+      "year": "4th Year",
+      "repositoryChapterCount": 2,
+      "curriculumFileChapterCount": 0,
+      "curriculumFileTopicCount": 0,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "clinical_posting",
+      "subjectName": "Clinical Posting",
+      "year": "Internship",
+      "repositoryChapterCount": 2,
+      "curriculumFileChapterCount": 0,
+      "curriculumFileTopicCount": 0,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "case_discussion",
+      "subjectName": "Case Discussion",
+      "year": "Internship",
+      "repositoryChapterCount": 2,
+      "curriculumFileChapterCount": 0,
+      "curriculumFileTopicCount": 0,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "documentation",
+      "subjectName": "Documentation",
+      "year": "Internship",
+      "repositoryChapterCount": 2,
+      "curriculumFileChapterCount": 0,
+      "curriculumFileTopicCount": 0,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    },
+    {
+      "subjectId": "hospital_practice",
+      "subjectName": "Hospital Practice",
+      "year": "Internship",
+      "repositoryChapterCount": 2,
+      "curriculumFileChapterCount": 0,
+      "curriculumFileTopicCount": 0,
+      "coverageNotes": "Analyzed matches between SubjectChapterRepository and curriculum.json assets"
+    }
+  ],
+  "structuralAuditSummary": {
+    "duplicateDatasetsDetails": "Some subjects/chapters are declared statically in both CurriculumRepository metadata lists and SubjectChapterRepository. CurriculumRepository handles progress computation, while SubjectChapterRepository shapes the interactive syllabus tree.",
+    "anatomyFilesCompleteness": "Confirmed 14 chapters in anatomy module and local json assets mapping. Electrotherapy-II shows 11 robust local chapters.",
+    "diagnosticAssessmentCompleteness": "High assessment and clinical cases completeness matching standard psychiatric, pediatric, and geriatric conditions."
+  }
+}

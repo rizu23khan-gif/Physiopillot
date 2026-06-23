@@ -1,0 +1,69 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch19",
+  "chapterName": "Lungs (Pulmones)",
+  "definition": [
+    "Chapter Overview: This chapter examines the structure of the lungs, including lobes, fissures, the root of the lung, and the tracheobronchial tree.",
+    "Lungs (Pulmones): The primary organs of respiration, located on either side of the mediastinum in the thoracic cavity.",
+    "Root of the Lung: A bundle of structures comprising bronchi, pulmonary vessels, and nerves that connect the lung to the heart and trachea."
+  ],
+  "principle": [
+    "Lobes and Fissures: The right lung has 3 lobes (superior, middle, inferior) divided by horizontal and oblique fissures. The left lung has 2 lobes (superior, inferior) divided by an oblique fissure, and features the lingula.",
+    "Bronchopulmonary Segments: The functional, anatomical, and surgical subdivisions of the lung lobes. Each is supplied by a segment bronchus and a tertiary pulmonary artery branch.",
+    "Bronchial Tree: Trachea bifurcates into right and left primary bronchi, which divide into lobar (secondary) and segmental (tertiary) bronchi, continuing down to terminal and respiratory bronchioles."
+  ],
+  "equipment": [
+    "Anatomy models of right and left lungs",
+    "Model of bronchopulmonary segments",
+    "Stethoscope for lung sound checks"
+  ],
+  "parameters": {
+    "RightLungSegments": "10 segments",
+    "LeftLungSegments": "8 to 10 segments",
+    "RightMainBronchusOrientation": "More vertical, shorter, and wider than the left"
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Inhaled Foreign Bodies: Inhaled foreign material tends to lodge in the right main bronchus because it is wider, shorter, and more vertically oriented than the left.",
+    "Aspiration Pneumonia: Clinically critical to know that patients aspirate fluid to different bronchopulmonary segments depending on their position (e.g., apical segment of inferior lobe when lying supine)."
+  ],
+  "vivaQuestions": [
+    "Question: Compare the anatomical features of the right and left lungs (lobes, fissures, unique features). | Answer: Right lung has 3 lobes (superior, middle, inferior) and 2 fissures (horizontal, oblique); it is larger and heavier. Left lung has 2 lobes (superior, inferior), 1 fissure (oblique), the cardiac notch, and the lingula. | Examiner Key Points: Number of lobes, fissures, cardiac notch/lingula presence. | Clinical Importance: Crucial for lobectomy and segmentectomies.",
+    "Question: Why do foreign bodies preferentially enter the right main bronchus? | Answer: Because the right main bronchus is wider, shorter, and more vertical (making an angle of about 25 degrees with the trachea) than the left main bronchus (which is narrower, longer, and more horizontal). | Examiner Key Points: Wider, shorter, more vertical, ~25 degrees vs ~45 degrees. | Clinical Importance: Clinically explains why right-sided aspiration pneumonia is more common."
+  ],
+  "mcqs": [
+    {
+      "question": "Which structure is uniquely present on the anterior border of the superior lobe of the left lung?",
+      "options": [
+        "Horizontal fissure",
+        "Eparterial bronchus",
+        "Cardiac notch and lingula",
+        "Groove for azygos vein"
+      ],
+      "answer": "Cardiac notch and lingula"
+    },
+    {
+      "question": "How many bronchopulmonary segments are typically found in the right lung?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "answer": "10"
+    }
+  ]
+}

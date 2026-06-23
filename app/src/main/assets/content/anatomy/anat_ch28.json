@@ -1,0 +1,85 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch28",
+  "chapterName": "Posterior Thigh & Popliteal Fossa",
+  "definition": [
+    "Chapter Overview: This chapter reviews the back of the thigh (flexor compartment) and the diamond-shaped popliteal fossa behind the knee. It highlights the hamstring muscle complex, the functional path of the sciatic nerve, and the vascular structures of the popliteal fossa.",
+    "Hamstring Group: A collection of three muscles of the posterior thigh: Biceps Femoris (long and short head), Semitendinosus, and Semimembranosus. They arise primarily from the ischial tuberosity and cross both the hip and knee joints.",
+    "Popliteal Fossa: A diamond-shaped space located posterior to the knee joint. It is bounded superolaterally by the biceps femoris, superomedially by semimembranosus and semitendinosus, and inferiorly by the lateral and medial heads of gastrocnemius.",
+    "Sciatic Nerve Path: The largest nerve in the body. It descends under the cover of gluteus maximus, runs down the posterior thigh, and typically bifurcates at the upper angle of the popliteal fossa into the tibial and common peroneal (fibular) nerves."
+  ],
+  "principle": [
+    "Hamstring Mechanics: The hamstrings extension at the hip and flexion at the knee are fundamental to the deceleration phase of terminal swing during human locomotion.",
+    "Popliteal Neurovascular Stack: Deep within the popliteal fossa, the structures lie stacked from deep to superficial: Popliteal Artery (deepest, closest to bone), Popliteal Vein (intermediate), and Tibial Nerve (most superficial, under the popliteal fascia)."
+  ],
+  "equipment": [
+    "Popliteal fossa sagittal section models",
+    "Blood pressure cuffs / doppler ultrasound reference",
+    "Goniometer for hamstring flexibility assessment",
+    "Anatomy posters of common nerve branch pathways"
+  ],
+  "parameters": {
+    "SciaticNerveInclineSlope": "Runs vertically downward in the midline of the thigh, projecting onto the line connecting the PSIS to the ischial tuberosity and greater trochanter.",
+    "NormalPoplitealPulseRange": "Requires deep palpation against the posterior surface of the femur or tibia with the knee flexed to 45-90 degrees."
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Popliteal Aneurysm: An abnormal dilation of the popliteal artery, which can cause local swelling, popliteal vein compression (edema), or tibial nerve compression (pain/numbness). Palpable deep pulsations can be detected.",
+    "Baker's Cyst (Popliteal Cyst): Swelling of the semimembranosus bursa or herniation of the synovial cavity of the knee joint into the popliteal fossa. Commonly seen in degenerative knee arthritis, causing posterior knee tightness.",
+    "Hamstring Strain: Highly common in athletics during sprinting or kicking. It usually occurs during eccentric contraction, where the muscle is rapidly stretched while contracting to control structural deceleration."
+  ],
+  "vivaQuestions": [
+    "Question: Name the muscles that form the boundaries of the Popliteal Fossa. | Answer: Superolaterally by the Biceps Femoris; superomedially by the Semitendinosus and Semimembranosus; inferolaterally by the lateral head of Gastrocnemius and Plantaris; and inferomedially by the medial head of Gastrocnemius. | Examiner Key Points: Biceps femoris, Semimembranosus, Gastrocnemius heads.",
+    "Question: What are the three sciatic-innervated true hamstring muscles, and what criteria must they meet? | Answer: True hamstrings are Semitendinosus, Semimembranosus, and the long head of Biceps Femoris. They must share: origin from ischial tuberosity, insertion into leg bones, sciatic tibial nerve supply, and action of hip extension and knee flexion. (Note: Short head of biceps is not a true hamstring as it originates from the femur and is supplied by common peroneal component). | Examiner Key Points: True hamstrings share ischial origin, tibial nerve innervation, bi-articular actions.",
+    "Question: Outline the arrangement of the contents of the popliteal fossa from deep to superficial. | Answer: Deepest is the Popliteal Artery, intermediate is the Popliteal Vein, and most superficial is the Tibial Nerve. | Examiner Key Points: Artery, Vein, Tibial Nerve (deep to superficial stacks)."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following structures is the deepest major component within the popliteal fossa, lying directly against the popliteal surface of the femur?",
+      "options": [
+        "Tibial nerve",
+        "Popliteal vein",
+        "Popliteal artery",
+        "Common peroneal nerve"
+      ],
+      "answer": "Popliteal artery"
+    },
+    {
+      "question": "Which of the following muscles is supplied by the common peroneal component of the sciatic nerve rather than the tibial component?",
+      "options": [
+        "Semitendinosus",
+        "Semimembranosus",
+        "Biceps femoris short head",
+        "Biceps femoris long head"
+      ],
+      "answer": "Biceps femoris short head"
+    },
+    {
+      "question": "A Baker's cyst is most typically an effusion or expansion arising from the synovial bursa below which muscle?",
+      "options": [
+        "Sartorius",
+        "Semimembranosus",
+        "Popliteus",
+        "Plantaris"
+      ],
+      "answer": "Semimembranosus"
+    }
+  ],
+  "reference": [
+    "B.D. Chaurasia's Human Anatomy, Volume II, Chapter 5: Posterior Compartment of Thigh & Popliteal Fossa.",
+    "Daniel's & Worthingham's Muscle Testing, Hamstrings Evaluation."
+  ]
+}

@@ -1,0 +1,625 @@
+[
+  {
+    "test_id": "st_lachman",
+    "test_name": "Lachman Test",
+    "body_region": "Knee",
+    "purpose": "Assess the clinical integrity of the Anterior Cruciate Ligament (ACL).",
+    "patient_position": "Patient lies supine on the examination table with the knee passively flexed to approximately 20 to 30 degrees.",
+    "therapist_position": "Standing on the side of the affected limb. One hand stabilizes the distal femur just superior to the patella, while the other hand grasps the proximal tibia just distal to the tibial tuberosity.",
+    "procedure": [
+      "Position the patient supine with their tested knee flexed between 20 and 30 degrees.",
+      "Grasp and stabilize the patient's distal femur with your proximal hand just above the patella.",
+      "Grasp the patient's proximal tibia with your distal hand, placing your thumb over the anterior tibial plateau/joint line.",
+      "Apply a quick, firm anteriorly-directed translation pull to the tibia while keeping the stabilized femur stationary.",
+      "Observe and feel the degree of anterior translation of the tibia and evaluate the quality of the end-feel."
+    ],
+    "positive_sign": "Increased anterior translation of the tibia relative to the femur compared to the contralateral limb, or the absence of a distinct, firm, abrupt capsular end-feel (yielding an empty, soft, or mushy end-feel).",
+    "clinical_interpretation": "Highly suggestive of a partial or complete tear of the anterior cruciate ligament (ACL). The Lachman test is widely accepted as the most sensitive and specific clinical test for diagnosing ACL deficiency.",
+    "contraindications": [
+      "Acute knee fractures (femoral shell or tibial plateau)",
+      "Severe knee joint dislocations with gross multi-ligamentous disruption",
+      "Severe local skin wounds or active soft tissue infections over manual contact points"
+    ]
+  },
+  {
+    "test_id": "st_anterior_drawer_knee",
+    "test_name": "Anterior Drawer Test (Knee)",
+    "body_region": "Knee",
+    "purpose": "Assess the structural integrity of the Anterior Cruciate Ligament (ACL), specifically the anteromedial band.",
+    "patient_position": "Patient lies supine with the tested hip flexed to 45 degrees and the knee flexed to 90 degrees, with the foot resting flat on the examination table.",
+    "therapist_position": "Sitting on the patient's forefoot to stabilize it on the table. Both hands are placed behind the proximal tibia, with the fingers wrapping around the posterior calf muscles and the thumbs resting on the medial and lateral anterior joint lines.",
+    "procedure": [
+      "Position the patient supine, flex the hip to 45 degrees and the knee to 90 degrees, ensuring the foot is flat and aligned.",
+      "Anchor the patient's foot by sitting gently on the forefoot, ensuring their comfort.",
+      "Place both hands around the proximal tibia, placing thumbs over the joint line to palpate any movement.",
+      "Palpate the hamstring tendons posteriorly to verify they are completely relaxed before testing.",
+      "Apply a steady, anterior-directed pulling traction to the proximal tibia relative to the stabilized femur.",
+      "Assess the amount of anterior translation and the quality of the physical end-feel."
+    ],
+    "positive_sign": "Increased anterior displacement of the tibia relative to the femur compared to the unaffected side, or a soft, mushy, or absent end-feel.",
+    "clinical_interpretation": "Suggests a tear of the anterior cruciate ligament (ACL), primarily involving its anteromedial band. Hamstring muscle guarding can produce a false negative, which is why relaxation is key.",
+    "contraindications": [
+      "Recent unhealed tibial, fibular, or femoral fractures",
+      "Presence of severe hamstring muscle spasm or guarding",
+      "Acute joint dislocations or hemarthrosis"
+    ]
+  },
+  {
+    "test_id": "st_posterior_drawer",
+    "test_name": "Posterior Drawer Test",
+    "body_region": "Knee",
+    "purpose": "Assess the clinical integrity and structural continuity of the Posterior Cruciate Ligament (PCL).",
+    "patient_position": "Patient lies supine with the tested hip flexed to 45 degrees and the knee flexed to 90 degrees, with the foot resting flat on the examination table.",
+    "therapist_position": "Sitting on the patient's forefoot to stabilize it on the table. Both hands are placed around the proximal tibia, with thumbs resting on the anterior joint line and fingers wrapped around the calf.",
+    "procedure": [
+      "Position the patient supine with the tested hip at 45 degrees and the knee at 90 degrees.",
+      "Inspect the knee profile in profile first to check for any passive posterior 'sagging' of the tibia (Godfrey's sign).",
+      "Sit gently on the patient's forefoot to secure the position.",
+      "Place both hands around the proximal tibia, with thumbs on the anterior joint line.",
+      "Apply a direct, steady posterior-directed pushing force to the proximal tibia relative to the femur.",
+      "Evaluate the degree of posterior tibial displacement and the stiffness of the end-feel."
+    ],
+    "positive_sign": "Excessive posterior translation of the tibia relative to the femur compared to the opposite leg, accompanied by a soft, mushy, or non-existent end-feel. The therapist may observe the tibia of the tested knee 'sagging' posteriorly in the starting position.",
+    "clinical_interpretation": "Highly indicative of a partial or complete rupture of the Posterior Cruciate Ligament (PCL). This test is considered highly specific and is the primary diagnostic movement for PCL injuries.",
+    "contraindications": [
+      "Acute distal femoral or proximal tibial fractures",
+      "Severe swelling, extreme pain, or active hemarthrosis in the joint capsule",
+      "Complete tibial subluxation where rear translation is already maximized"
+    ]
+  },
+  {
+    "test_id": "st_mcmurray",
+    "test_name": "McMurray Test",
+    "body_region": "Knee",
+    "purpose": "Identify meniscus tears (medial or lateral) within the knee joint.",
+    "patient_position": "Patient lies supine on the table, completely relaxed.",
+    "therapist_position": "Standing next to the tested leg. One hand grasps the patient's heel, while the other hand is placed over the knee joint, with the thumb and fingers palpating the medial and lateral joint lines.",
+    "procedure": [
+      "Position the patient supine with their tested knee and hip fully flexed to their comfortable limits.",
+      "Grasp the patient's heel with one hand and palpate the knee joint lines with the other hand.",
+      "To test the Medial Meniscus: Externally rotate the patient's tibia, apply a valgus (inward) stress to the knee joint, and slowly extend the knee.",
+      "To test the Lateral Meniscus: Internally rotate the patient's tibia, apply a varus (outward) stress to the knee joint, and slowly extend the knee.",
+      "Repeat the extension sweep several times, palpating and listening for any joint click, snap, or catch."
+    ],
+    "positive_sign": "Elicitation of a palpable or audible click, snap, or catch along the medial or lateral joint lines, often accompanied by localized joint-line pain during the extension maneuver.",
+    "clinical_interpretation": "Indicates a mechanical tear of the medial meniscus (when external rotation and valgus stress are applied) or the lateral meniscus (when internal rotation and varus stress are applied). This test should be correlated with localized joint line palpation.",
+    "contraindications": [
+      "Fully locked knee where passive flexion or extension is restricted",
+      "Acute collateral or cruciate ligament injury where varus/valgus stress causes severe pain",
+      "Unstabilized bony or joint fractures"
+    ]
+  },
+  {
+    "test_id": "st_apley_compression",
+    "test_name": "Apley's Compression Test",
+    "body_region": "Knee",
+    "purpose": "Aids in differentiating between meniscus pathology and collateral ligament lesions of the knee.",
+    "patient_position": "Patient lies prone with the tested knee flexed to 90 degrees.",
+    "therapist_position": "Standing on the side of the tested leg. The therapist stabilizes the patient's posterior thigh (usually by placing their own knee on the patient's lower thigh) and grasps the patient's foot and ankle with both hands.",
+    "procedure": [
+      "Place the patient in a prone position and flex the tested knee to 90 degrees.",
+      "Stabilize the patient's thigh against the examination table by pressing your knee onto their distal posterior thigh.",
+      "Grasp the patient's heel and ankle with both hands.",
+      "Apply a downward axial compressive force through the heel and tibia, and rotate the tibia internally and externally.",
+      "Next, apply an upward tractive/distraction force to the ankle and rotate the tibia internally and externally.",
+      "Ask the patient to note which combination of forces produces or relieves their pain."
+    ],
+    "positive_sign": "Elicitation of localized knee pain or a cracking sensation during the compression phase with rotation, which is absent, reduced, or relieved during the distraction phase.",
+    "clinical_interpretation": "Directs diagnosis toward a meniscus injury. Conversely, if pain is increased during the distraction phase, the lesion is more likely ligamentous or capsular in origin.",
+    "contraindications": [
+      "Acute patellofemoral pain syndromes where prone pressure is intolerable",
+      "Recent femoral or tibial shaft fractures",
+      "Severely arthritic knees where active compression is excessively painful"
+    ]
+  },
+  {
+    "test_id": "st_neer",
+    "test_name": "Neer Impingement Test",
+    "body_region": "Shoulder",
+    "purpose": "Identify subacromial impingement syndrome involving the rotator cuff (specifically the supraspinatus) or the long head of the biceps.",
+    "patient_position": "Patient sits or stands upright with the arm fully relaxed at their side.",
+    "therapist_position": "Standing next to the patient's affected side. One hand stabilizes the scapula to prevent compensatory rotation, while the other hand grasps the patient's arm at the forearm or wrist.",
+    "procedure": [
+      "Instruct the patient to sit upright and relax their shoulder muscles entirely.",
+      "Place one hand on the patient's scapula, applying downward pressure to prevent compensatory shoulder hiking.",
+      "Fully internally rotate the patient's arm so that the thumb is pointing downward.",
+      "Maintain the internal rotation while passively and rapidly flexing the shoulder forward into full overhead elevation.",
+      "Assess for pain production of the subacromial region throughout the range."
+    ],
+    "positive_sign": "Elicitation of sharp pain in the anterolateral subacromial region of the shoulder near the end-range of forward flexion.",
+    "clinical_interpretation": "Indicates subacromial impingement, representing mechanical compression of the supraspinatus tendon, subacromial bursa, or long head of biceps tendon against the anteroinferior surface of the acromion.",
+    "contraindications": [
+      "Known glenohumeral dislocation or joint hypermobility",
+      "Unhealed humeral or clavicular fractures",
+      "Severe shoulder joint infections"
+    ]
+  },
+  {
+    "test_id": "st_hawkins_kennedy",
+    "test_name": "Hawkins-Kennedy Impingement Test",
+    "body_region": "Shoulder",
+    "purpose": "Identify subacromial impingement syndrome involving the supraspinatus tendon, long head of biceps, or subacromial bursa.",
+    "patient_position": "Patient sits or stands upright with the arm relaxed.",
+    "therapist_position": "Standing in front of or beside the patient. One hand supports the patient's elbow, while the other hand grasps the patient's wrist.",
+    "procedure": [
+      "Instruct the patient to sit comfortably with their arm relaxed.",
+      "Passively flex the patient's shoulder to 90 degrees and flex the elbow to 90 degrees, in the sagittal or scapular plane.",
+      "Support the patient's elbow to ensure they are relaxed and do not hold their own arm up.",
+      "Grasp the patient's wrist and apply a passive, downward force into quick internal rotation of the humerus.",
+      "Observe the patient's face for pain and confirm location of any discomfort."
+    ],
+    "positive_sign": "Elicitation of sharp, localized pain in the anterolateral aspect of the shoulder, specifically under the acromion, during the passive internal rotation movement.",
+    "clinical_interpretation": "Suggests subacromial impingement, reflecting mechanical compression of the supraspinatus tendon, subacromial bursa, or coracoacromial ligament. Considered a highly sensitive test.",
+    "contraindications": [
+      "Known acute shoulder dislocation or glenohumeral instability",
+      "Humeral shaft, surgical neck, or clavicular fractures",
+      "Severe osteomyelitis or active localized infection"
+    ]
+  },
+  {
+    "test_id": "st_straight_leg_raise",
+    "test_name": "Straight Leg Raise (SLR) Test",
+    "body_region": "Lumbar Spine / Hip",
+    "purpose": "Detect neural tension or dural irritation of the lower lumbar nerve roots (L4, L5, S1), most commonly due to disc herniations.",
+    "patient_position": "Patient lies supine on the table, completely flat with head and trunk aligned, and legs extended and relaxed.",
+    "therapist_position": "Standing on the patient's symptomatic side. One hand supports the patient's heel from underneath, while the other hand is placed on the anterior knee to keep the joint in full extension.",
+    "procedure": [
+      "Position the patient supine and fully relaxed, ensuring both legs are extended.",
+      "Place one hand under the patient's ankle/heel and the other hand over the anterior knee to keep the leg fully extended.",
+      "With the knee fully extended and hip in neutral rotation, slowly elevate the leg.",
+      "Note the angle of hip flexion at which the patient's typical radiating pain is reproduced.",
+      "To confirm neural origin: Lower the leg slightly until symptoms resolve, then passively dorsiflex the ankle (Bragard's test) or have the patient flex their neck."
+    ],
+    "positive_sign": "Reproduction of the patient's typical sharp, electric, or burning radicular pain radiating down the posterior thigh, calf, and potentially into the foot, typically evoked between 30 and 70 degrees of hip flexion, and aggravated by ankle dorsiflexion.",
+    "clinical_interpretation": "Highly suggestive of lumbar disc herniation, dural tension, or nerve root compression affecting the L4, L5, or S1 nerve roots (sciatic pathway). Radicular pain below 30 degrees suggests acute disc extrusion, whereas pain above 70 degrees is more likely hamstring tightness.",
+    "contraindications": [
+      "Acute spinal fracture or instability",
+      "Severe spinal cord compression or cauda equina syndrome",
+      "Severe acute hamstring strain or pelvic tumors"
+    ]
+  },
+  {
+    "test_id": "st_slump",
+    "test_name": "Slump Test",
+    "body_region": "Lumbar / Thoracic Spine",
+    "purpose": "Assess the progressive mobility of the neuromeningeal tract and identify dural irritation or neural tension.",
+    "patient_position": "Patient sits upright at the very edge of the examination plinth, hands clasped behind their back, with the popliteal fossa touching the edge.",
+    "therapist_position": "Standing beside the patient to guide progress, apply local spinal overpressures, and monitor pain triggers.",
+    "procedure": [
+      "Instruct the patient to slump their thoracic and lumbar spine, rounding their back while keeping the head in neutral.",
+      "Instruct the patient to flex their neck, bringing the chin down to the chest. Apply a light overpressure to the cervical spine.",
+      "With the neck flexed, ask the patient to actively extend the knee on the symptomatic side.",
+      "Instruct the patient to actively dorsiflex their ankle while maintaining knee extension.",
+      "To differentiate, release the neck overpressure and instruct the patient to look up while maintaining the leg position. Note any change in pain."
+    ],
+    "positive_sign": "Reproduction of radicular leg symptoms during knee extension and ankle dorsiflexion, which are significantly relieved or completely abolished when the patient extends their neck.",
+    "clinical_interpretation": "Indicates neural tension or neural compression, implying dural irritation from conditions like lumbar disc herniation, foraminal stenosis, or epidural scarring.",
+    "contraindications": [
+      "Cauda equina syndrome or progressive neurological deficits",
+      "Severe acute lumbar spinal instability or recent fractures",
+      "Active, untreated spinal infections"
+    ]
+  },
+  {
+    "test_id": "st_cozen",
+    "test_name": "Cozen's Test",
+    "body_region": "Elbow",
+    "purpose": "Diagnose lateral epicondylitis (tennis elbow) involving the common extensor origin.",
+    "patient_position": "Patient sits upright with the elbow flexed to 90 degrees, the forearm fully pronated, and the wrist slightly extended into a fist.",
+    "therapist_position": "Standing beside the patient. One hand stabilizes the patient's elbow, placing the thumb directly over the lateral epicondyle. The other hand is placed on the dorsum of the patient's fist to apply resistance.",
+    "procedure": [
+      "Ensure the patient sits comfortably with elbow flexed to 90 degrees and forearm fully pronated.",
+      "Instruct the patient to make a fist and slightly extend and radially deviate the wrist.",
+      "Stabilize the patient's elbow with one hand, placing your thumb over the lateral epicondyle.",
+      "Place your other hand over the dorsum of the fist and instruct the patient to resist as you apply a force into wrist flexion and ulnar deviation.",
+      "Note the reproduction of pain near the lateral epicondyle."
+    ],
+    "positive_sign": "Sudden, sharp, localized pain directly over the lateral epicondyle of the humerus.",
+    "clinical_interpretation": "Highly suggestive of lateral epicondylitis or common extensor tendinopathy, primarily involving the tendon of the Extensor Carpi Radialis Brevis (ECRB) muscle.",
+    "contraindications": [
+      "Unhealed radial head or lateral epicondylar fractures",
+      "Severe local skin infections or open wounds over the lateral elbow",
+      "Acute lateral collateral ligament tears"
+    ]
+  },
+  {
+    "test_id": "st_phalen",
+    "test_name": "Phalen's Test",
+    "body_region": "Wrist / Hand",
+    "purpose": "Detect compression of the median nerve within the carpal tunnel (Carpal Tunnel Syndrome).",
+    "patient_position": "Patient sits or stands comfortably.",
+    "therapist_position": "Observing the patient and monitoring the duration of the test.",
+    "procedure": [
+      "Instruct the patient to flex both wrists completely.",
+      "Have the patient bring the dorsal surfaces of both hands together, with the fingers pointing directly downward.",
+      "Instruct the patient to hold this position with elbows held horizontally, applying gentle pressure between the hands, for 60 seconds.",
+      "Ask the patient to report any numbness, tingling, or pain during the hold."
+    ],
+    "positive_sign": "Reproduction of radiating numbness, tingling, paresthesia, or burning pain along the sensory distribution of the median nerve (thumb, index finger, middle finger, and lateral half of the ring finger) within 60 seconds of holding the posture.",
+    "clinical_interpretation": "Suggests Carpal Tunnel Syndrome (CTS), resulting from median nerve compression under the transverse carpal ligament, which is narrowed during maximum wrist flexion.",
+    "contraindications": [
+      "Recent wrist fractures or dislocations",
+      "Severe carpal bone instability",
+      "Open wounds, severe cellulitis, or skin infections at the wrist"
+    ]
+  },
+  {
+    "test_id": "st_tinel_sign",
+    "test_name": "Tinel's Sign at the Wrist",
+    "body_region": "Wrist / Hand",
+    "purpose": "Assess for median nerve compression, irritability, or axon regeneration at the wrist.",
+    "patient_position": "Patient sits with the forearm fully supinated and the wrist resting comfortably on a table or supported by the therapist.",
+    "therapist_position": "Sitting opposite the patient, stabilizing the patient's wrist in slight extension.",
+    "procedure": [
+      "Place the patient's forearm in supination, with the wrist supported in slight, relaxed extension.",
+      "Identify the course of the median nerve as it enters the carpal tunnel (between the flexor carpi radialis and palmaris longus tendons).",
+      "Using your index finger or a neurological reflex hammer, tap lightly but firmly directly over the median nerve path at the wrist crease.",
+      "Tap repeatedly for several seconds and monitor the patient's reports of distal sensation."
+    ],
+    "positive_sign": "Reproduction of tingling, paresthesia, or a brief 'electric-shock' sensation radiating along the median nerve sensory distribution (thumb, index, middle, and lateral half of ring fingers) distal to the tapping point.",
+    "clinical_interpretation": "Indicative of median nerve compression, focal neuropathy, or nerve hypersensitivity (Carpal Tunnel Syndrome). When used along a repairing nerve, it marks the progress of regenerating sensory axons.",
+    "contraindications": [
+      "Recent carpal bone fractures or acute wrist trauma",
+      "Severe joint infections or open surgical wounds at the wrist crease",
+      "Extreme localized reflex sympathetic dystrophy/CRPS"
+    ]
+  },
+  {
+    "test_id": "st_babinski_sign",
+    "test_name": "Babinski Sign",
+    "body_region": "Neurological / Foot",
+    "purpose": "Detect Upper Motor Neuron (UMN) lesions affecting the pyramidal/corticospinal tract.",
+    "patient_position": "Patient lies supine on the examination table with the lower extremities extended and completely relaxed, barefoot.",
+    "therapist_position": "Standing at the foot of the bed on the side being tested. One hand stabilizes the ankle.",
+    "procedure": [
+      "Ensure the patient's foot is dry, clean, warm, and fully relaxed.",
+      "Use a blunt instrument (such as the tip of a key or the end of a reflex hammer).",
+      "Firmly stroke the lateral margin of the sole of the foot, beginning near the heel.",
+      "Sweep upward toward the base of the little toe, and then curve medially across the metatarsal heads to the base of the great toe.",
+      "Observe the response of the great toe and the outer toes immediately."
+    ],
+    "positive_sign": "Dorsiflexion (extension) of the great toe, often accompanied by fanning out (abduction) of the other four small toes.",
+    "clinical_interpretation": "Confirms an Upper Motor Neuron (UMN) lesion, indicating damage to the corticospinal (pyramidal) tract. This may occur in stroke, brain injury, spinal cord compression, or multiple sclerosis. It is a normal reflex in infants under 1 to 2 years of age due to incomplete myelination.",
+    "contraindications": [
+      "Severe local trauma or open wounds on the sole of the foot",
+      "Acute ankle or tarsal fractures",
+      "Amputation of the great toe"
+    ]
+  },
+  {
+    "test_id": "st_romberg",
+    "test_name": "Romberg Test",
+    "body_region": "Neurological / Balance",
+    "purpose": "Differentiate between proprioceptive (sensory) ataxia and cerebellar (motor) ataxia as a cause of postural instability.",
+    "patient_position": "Patient stands barefoot with both feet as close together as possible, heels and toes touching, with arms resting relaxed at their sides.",
+    "therapist_position": "Standing close to the patient, with arms ready to catch or support them in case they lose balance, ensuring patient safety.",
+    "procedure": [
+      "Instruct the patient to stand barefoot with feet together (heels and toes touching) and arms at their sides.",
+      "Check the patient's balance with their eyes open for 30 seconds, observing for any sway.",
+      "Instruct the patient to maintain standing with their eyes closed for an additional 30 seconds.",
+      "Compare the stability and degree of body sway between the eyes-open and eyes-closed conditions."
+    ],
+    "positive_sign": "The patient remains relatively stable while standing with eyes open, but experiences significant swaying, loss of balance, or takes a compensatory step immediately after closing their eyes.",
+    "clinical_interpretation": "Indicates sensory ataxia, suggesting a lesion in the sensory afferent pathway or dorsal columns of the spinal cord (such as B12 deficiency, peripheral neuropathy, or tabes dorsalis). If the patient sways significantly both with eyes open and closed, it suggests cerebellar ataxia instead.",
+    "contraindications": [
+      "Severe acute vestibular disorder with incapacitating vertigo",
+      "High, uncompensated fall risk where the patient is unable to stand independently even with eyes open",
+      "Recent ankle or knee ligament tears that prevent weight-bearing"
+    ]
+  },
+  {
+    "test_id": "st_empty_can",
+    "test_name": "Empty Can Test (Jobe Test)",
+    "body_region": "Shoulder",
+    "purpose": "Assess the structural integrity and isolate the function of the supraspinatus tendon for tears or impingement.\nIndication: Suspected rotator cuff pathology, specifically tendinopathy, impingement, or a partial-to-complete tear of the supraspinatus tendon.",
+    "patient_position": "Patient sits or stands upright with arms elevated to 90 degrees in the scapular plane (abducted 30-45 degrees anteriorly) and fully internally rotated so the thumbs point down.",
+    "therapist_position": "Standing in front of the patient, placing hands on the dorsal surface of the patient's forearm distal to the elbow to apply downward resistance.",
+    "procedure": [
+      "Position the patient with shoulders abducted to 90 degrees in the scapular plane.",
+      "Fully internally rotate the arms so the patient's thumbs point straight down towards the floor ('emptying a can').",
+      "Apply a steady downwards-directed manual pressure onto the forearms.",
+      "Instruct the patient to resist this pressure while comparing strength and pain response bilaterally."
+    ],
+    "positive_sign": "Inability to resist the downward manual pressure (weakness) and/or sudden reproduction of sharp pain in the anterolateral subacromial region.",
+    "clinical_interpretation": "A painless muscle weakness suggests a complete rupture of the supraspinatus tendon, whereas pain with or without weakness is characteristic of subacromial impingement or supraspinatus tenditis.\n\nClinical Pearl: Compare with the 'Full Can Test' (arm thumb-up at 90 degrees of abduction) to differentiate between tendon strain/tendinosis and structural tendon tear. A negative Full Can with positive Empty Can suggests supraspinatus tendinosis rather than complete rupture.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 5: Shoulder.",
+    "contraindications": [
+      "Recent subluxation or acute dislocation of the glenohumeral joint",
+      "Unhealed humeral, scapular, or clavicular fractures",
+      "Acute severe shoulder joint infection"
+    ]
+  },
+  {
+    "test_id": "st_speeds",
+    "test_name": "Speed's Test",
+    "body_region": "Shoulder",
+    "purpose": "Detect pathology, tendinitis, or SLAP lesions of the long head of the biceps tendon in the bicipital groove.\nIndication: Suspected biceps tendinopathy, tenosynovitis, or superior labral tear (SLAP).",
+    "patient_position": "Patient is seated or standing with the tested arm positioned in approximately 90 degrees of shoulder forward flexion, with the forearm fully supinated and the elbow extended.",
+    "therapist_position": "Standing next to or in front of the patient. One hand palpates the bicipital groove of the humerus, and the other hand is placed over the anterior aspect of the distal forearm to apply resistance.",
+    "procedure": [
+      "Position the patient's affected arm into 90 degrees of forward shoulder flexion, full forearm supination, and elbow extension.",
+      "Place one hand over the patient's bicipital groove to palpate the biceps tendon during testing.",
+      "Instruct the patient to actively resist as you apply a downward eccentric force against their supinated forearm.",
+      "Alternatively, have the patient actively flex their arm from 0 to 60 degrees against your manual downward resistance."
+    ],
+    "positive_sign": "Reproduction of localized pain or tenderness directly over the bicipital groove of the anterior shoulder.",
+    "clinical_interpretation": "Highly suggestive of biceps tendinitis or tendinosis. If deep-seated glenohumeral pain or a clicking sensation is triggered rather than local groove pain, suspect superior labral pathology (SLAP lesion) or biceps anchor dural tear.\n\nClinical Pearl: To differentiate, perform the test with the forearm in pronation. Pain is typically significantly less or absent in pronation because the biceps is less active in that position, verifying biceps-specific pathology.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 5: Shoulder.",
+    "contraindications": [
+      "Known fracture of the humeral tuberosities or surgical neck",
+      "Presence of acute shoulder synovitis or local cellulitis"
+    ]
+  },
+  {
+    "test_id": "st_yergasons",
+    "test_name": "Yergason's Test",
+    "body_region": "Shoulder",
+    "purpose": "Assess the stability of the biceps tendon in the bicipital groove and diagnose bicipital tendinopathy or laxity/tear of the transverse humeral ligament.\nIndication: Suspected biceps tendinitis or transverse humeral ligament incompetence.",
+    "patient_position": "Patient sits upright with the affected arm at the side, the elbow flexed to 90 degrees, and the forearm pronated.",
+    "therapist_position": "Standing on the patient's affected side. One hand stabilizes the patient's elbow, while the other hand grasps the patient's hand/distal forearm to resist supination and external rotation.",
+    "procedure": [
+      "Instruct the patient to sit comfortably with elbow flexed to 90 degrees, forearm pronated, and arm tucked against their thorax.",
+      "Stabilize the elbow joint with one hand, while palpating the bicipital groove with your thumb.",
+      "Grasp the patient's wrist/hand and instruct them to actively supinate their forearm and externally rotate their shoulder against your resistance.",
+      "Apply manual resistance to both supination and external rotation concurrently."
+    ],
+    "positive_sign": "Reproduction of sharp pain or snapping sensation directly in the bicipital groove. A snapping sensation suggests the biceps tendon is subluxating out of the bicipital groove due to a tear of the transverse humeral ligament.",
+    "clinical_interpretation": "A positive test points directly to biceps tendinopathy or transverse humeral ligament instability/compromise.\n\nClinical Pearl: Palpate the bicipital groove throughout the test to detect actual subluxation of the tendon. If the tendon pops out under your fingers, then the transverse humeral ligament is compromised.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 5: Shoulder.",
+    "contraindications": [
+      "Acute anterior shoulder dislocation",
+      "Recent rotator cuff repair or biceps tenodesis/tenotomy",
+      "Unstabilized proximal humerus fractures"
+    ]
+  },
+  {
+    "test_id": "st_apprehension_relocation",
+    "test_name": "Apprehension-Relocation Test",
+    "body_region": "Shoulder",
+    "purpose": "Assess for anterior glenohumeral joint instability and confirm posterior/anterior labral tears or shoulder subluxation.\nIndication: History of shoulder subluxation/dislocation, suspected chronic instability, or Bankart/labral pathology.",
+    "patient_position": "Patient lies supine on the edge of the examination table, with the shoulder abducted to 90 degrees, the elbow flexed to 90 degrees, and the arm supported.",
+    "therapist_position": "Standing next to the patient's affected side. One hand supports the patient's elbow, while the other hand grasps the forearm to guide external rotation. To perform relocation, the distal hand can apply posterior pressure on the anterior humeral head.",
+    "procedure": [
+      "Position the patient supine with the shoulder abducted to 90 degrees and the elbow flexed to 90 degrees.",
+      "Slowly and carefully externally rotate the patient's shoulder (with your distal hand) to its limit or until the patient demonstrates apprehension (Apprehension phase).",
+      "If apprehension or discomfort is triggered, apply a steady posteriorly-directed force on the anterior aspect of the humeral head (Relocation phase).",
+      "Observe if the patient's physical apprehension resolves and if external rotation range increases while maintaining relocation force.",
+      "Release the relocation force slowly and monitor for return of apprehension/symptoms (Release test)."
+    ],
+    "positive_sign": "Apprehension Phase: The patient demonstrates acute anticipation, facial grimacing, or verbal apprehension of impending dislocation. Relocation Phase: The posterior translation force relieves the patient's apprehension and pain, allowing increased shoulder external rotation.",
+    "clinical_interpretation": "Confirmative of anterior shoulder instability, anterior capsule laxity, or a Bankart/labral lesion.\n\nClinical Pearl: Distinguish between apprehension (instability) and simple pain (impingement). If the relocation maneuver relieves pain but there is no apprehension, the patient may have posterior/anterior subacromial impingement rather than true gross instability.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 5: Shoulder.",
+    "contraindications": [
+      "Acute, unreduced anterior glenohumeral dislocation",
+      "Suspected humeral head or scapular glenoid neck fractures"
+    ]
+  },
+  {
+    "test_id": "st_thomas",
+    "test_name": "Thomas Test",
+    "body_region": "Hip",
+    "purpose": "Assess the flexibility of the hip flexors, specifically isolating the iliopsoas, rectus femoris, and tensor fasciae latae (TFL).\nIndication: Suspected hip flexion contracture, short hip flexor syndrome, or structural imbalances of the pelvic/lumbar region.",
+    "patient_position": "Patient lies supine on the examination table with both knees bent, their knees brought fully to their chest to flatten the lumbar spine.",
+    "therapist_position": "Standing beside the patient, assisting them in stabilizing the non-tested leg while observing the alignment of the tested leg.",
+    "procedure": [
+      "Position the patient supine at the absolute end of the examination table so that the thighs hang off the edge.",
+      "Have the patient bring both knees to their chest, flat-backing the lumbar spine completely to eliminate pelvic tilt.",
+      "Instruct the patient to hold the non-tested hip in full flexion against their chest to maintain pelvic stability.",
+      "Slowly lower the tested leg toward a fully extended position, allowing it to hang freely off the table.",
+      "Observe if the tested thigh contacts the table, the knee flexes to at least 80 degrees, and if any lateral abduction occurs."
+    ],
+    "positive_sign": "The tested thigh remains elevated above the horizontal plane of the table (iliopsoas tightness), or the tested knee is unable to flex to 80 degrees (rectus femoris tightness), or the thigh abducts laterally (TFL/IT band tightness).",
+    "clinical_interpretation": "A positive test confirms excessive tightness of the hip flexors or tensor fascia lata/iliotibial band.\n\nClinical Pearl: If raising the hip flexed leg causes the tested leg to extend further, it confirms iliopsoas tightness. If manual flexion of the tested knee causes the hip to flex and lift off the table, it is a positive 'J-sign' confirming rectus femoris shortness (Kendall Test).\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 11: Hip.",
+    "contraindications": [
+      "Acute hip joint dislocation or severe coxofemoral arthritis",
+      "Severe lumbar spinal instability or acute disc herniation aggravated by full lumbar flexion"
+    ]
+  },
+  {
+    "test_id": "st_trendelenburg",
+    "test_name": "Trendelenburg Test",
+    "body_region": "Hip",
+    "purpose": "Assess the strength and efficiency of the hip abductor muscles (Gluteus Medius and Minimus) or identify integrity of the superior gluteal nerve.\nIndication: Gait limp/trendelenburg lurch, suspected gluteus medius weakness, superior gluteal nerve palsy, or congenital hip dislocation.",
+    "patient_position": "Patient stands barefoot on a level floor, facing away from the examiner.",
+    "therapist_position": "Standing or sitting directly behind the patient. The therapist may place their fingers on the patient's posterior superior iliac spines (PSISs) or iliac crests to observe pelvic level.",
+    "procedure": [
+      "Instruct the patient to stand barefoot on both feet, keeping their hands crossed over their chest.",
+      "Instruct the patient to stand on one leg (the tested leg), lifting the opposite foot and flexing that knee to approximately 90 degrees.",
+      "Observe the alignment of the pelvis (iliac crests/PSIS) for 30 seconds.",
+      "Instruct the patient to repeat on the other leg to compare bilaterally."
+    ],
+    "positive_sign": "The pelvis on the non-weight-bearing (elevated) side sags or drops below the level of the weight-bearing (stance) side. Alternatively, the patient compensates by trunk leaning over the stance side.",
+    "clinical_interpretation": "Points directly to gluteus medius weakness on the weight-bearing stance leg, superior gluteal nerve pathology, or structural hip instability.\n\nClinical Pearl: A positive test is a crucial finding in coxarthrosis, poliomyelitis, and neurological conditions. Ensure the patient does not lean their trunk excessively to the stance side, which creates a false-negative by shifting the center of gravity over the hip joint.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 11: Hip.",
+    "contraindications": [
+      "Inability to independently bear weight on the stance limb due to severe pain or fracture",
+      "Severe vestibular or balance disorders with high acute fall risk"
+    ]
+  },
+  {
+    "test_id": "st_obers",
+    "test_name": "Ober's Test",
+    "body_region": "Hip",
+    "purpose": "Assess for tightness or contracture of the Tensor Fasciae Latae (TFL) and the Iliotibial (IT) band.\nIndication: Suspected Iliotibial (IT) Band Syndrome, trochanteric bursitis, or lateral patellofemoral tracking imbalances.",
+    "patient_position": "Patient lies in a side-lying position on the unaffected side. The lower leg is flexed at the hip and knee at 90 degrees to stabilize the pelvis and flatten the lumbar spine.",
+    "therapist_position": "Standing behind the patient. One hand stabilizes the pelvis to prevent any posterior tilting or rotation, while the other hand supports the tested (upper) leg from underneath the knee or ankle.",
+    "procedure": [
+      "Position the patient in side-lying on their unaffected side, with bottom leg flexed to stabilize the pelvis.",
+      "Stabilize the patient's pelvis with your proximal hand on the iliac crest.",
+      "Flex the patient's upper knee to 90 degrees (or keep it straight in Modified Ober's), abduct the hip, and extend the hip slightly so that the IT band passes over the greater trochanter.",
+      "With the hip stabilized in slight extension, slowly lower the upper leg toward the table into adduction.",
+      "Observe if the leg adducts below the horizontal plane of the table or remains hung/suspended."
+    ],
+    "positive_sign": "The tested leg fails to adduct past the horizontal plane of the table, remaining in an abducted/suspended position, often reproducing lateral knee or thigh tension.",
+    "clinical_interpretation": "Suggests Iliotibial (IT) Band Syndrome or structural tightness of the TFL/IT band/hip capsule.\n\nClinical Pearl: The Modified Ober's test is performed with the knee extended. This reduces tension on the rectus femoris and femoral nerve, placing the primary tension strictly on the IT band and hip capsule.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 11: Hip.",
+    "contraindications": [
+      "Acute trochanteric fracture",
+      "Post-operative total hip arthroplasty (THA) with lateral approach precautions"
+    ]
+  },
+  {
+    "test_id": "st_elys",
+    "test_name": "Ely's Test",
+    "body_region": "Hip",
+    "purpose": "Identify tightness or contracture of the Rectus Femoris muscle.\nIndication: Suspected short rectus femoris syndrome, patellofemoral tracking dysfunction, or anterior thigh tightness.",
+    "patient_position": "Patient lies prone on the examination table with feet hanging off the edge and legs in anatomical neutral.",
+    "therapist_position": "Standing beside the patient on the tested side. One hand stabilizes the pelvis over the ipsilateral ilium/buttock, and the other hand is placed on the anterior surface of the ankle/foot.",
+    "procedure": [
+      "Ensure the patient lies completely flat and relaxed in a prone position.",
+      "Place one hand firmly over the patient's lumbar/pelvic region to monitor for any anterior pelvic tilting.",
+      "With the other hand, passively flex the patient's tested knee fully, attempting to approximate the heel to the buttocks.",
+      "Compare the knee flexion angle and observe for pelvic movement bilaterally."
+    ],
+    "positive_sign": "The hip of the tested side spontaneously flexes and lifts off the examination table during passive knee flexion, often accompanied by anterior pelvic tilt or lumbar hyperextension.",
+    "clinical_interpretation": "Indicates structural shortening of the rectus femoris muscle on the tested side.\n\nClinical Pearl: To differentiate between rectus femoris tightness and femoral nerve irritation, look for the onset of symptoms. Rapid flexion presenting as sharp neurological radiating anterior thigh pain suggests femoral nerve dural tension rather than structural muscle tightness.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 11: Hip.",
+    "contraindications": [
+      "Acute quadriceps tear or hematoma",
+      "Acute knee joint effusion or patellar instability"
+    ]
+  },
+  {
+    "test_id": "st_spurlings",
+    "test_name": "Spurling's Test",
+    "body_region": "Cervical Spine",
+    "purpose": "Identify cervical radiculopathy by narrowing the neural foramina and compressing cervical nerve roots.\nIndication: Unilateral neck pain radiating into the shoulder, shoulder blade, or arm, suspected cervical nerve root compression.",
+    "patient_position": "Patient sits upright in a supportive chair with their head in anatomical neutral.",
+    "therapist_position": "Standing behind the seated patient, with both hands resting lightly on the crown of the patient's head.",
+    "procedure": [
+      "Instruct the patient to sit upright with hands resting in their lap.",
+      "Have the patient actively laterally flex (side bend) their neck to the symptomatic side.",
+      "Carefully apply a vertical, downward compressive force through the crown of the head.",
+      "To perform the full Spurling's maneuver (if side-bending is painless): Laterally flex, rotate, and slightly extend the neck toward the painful side, then apply downward axial pressure."
+    ],
+    "positive_sign": "Reproduction of typical radicular pain or paresthesia (electrical, sharp, or tingling) radiating down the ipsilateral upper extremity, corresponding to the specific dermatomal pattern of the compressed nerve root.",
+    "clinical_interpretation": "Diagnostically points to cervical radiculopathy, cervical foraminal stenosis, or nerve root compression.\n\nClinical Pearl: Never apply axial compression if the patient has a known cervical fracture, severe instability, or if side-bending alone reproduces intense radicular pain. Localized neck pain without radiating limb symptoms represents a joint/musculoskeletal irritation, not a positive Spurling's.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 4: Cervical Spine.",
+    "contraindications": [
+      "Cervical spinal cord compression (myelopathy)",
+      "Severe cervical instability (e.g., in Rheumatoid Arthritis, Down Syndrome)",
+      "Cervical spinal fractures, subluxation, or suspected malignancy"
+    ]
+  },
+  {
+    "test_id": "st_cervical_distraction",
+    "test_name": "Cervical Distraction Test",
+    "body_region": "Cervical Spine",
+    "purpose": "Confirm cervical nerve root compression / foraminal stenosis by relieving mechanical pressure on the nerves.\nIndication: Radicular upper extremity pain suspected to be of cervical spine origin.",
+    "patient_position": "Patient lies supine on the examination table, completely relaxed.",
+    "therapist_position": "Standing at the head of the table. The therapist places one hand under the patient's occiput and the other hand over the patient's forehead or chin (taking care to avoid TMJ pressure).",
+    "procedure": [
+      "Position the patient supine and fully relaxed on the examination table.",
+      "Place your hands under the patient's occiput, securing a comfortable traction handhold.",
+      "Apply a slow, steady, and gentle pull (approximately 10 to 15 kg of traction force) directed superiorly.",
+      "Hold the distraction force for up to 10 seconds and ask the patient to report changes in upper extremity pain."
+    ],
+    "positive_sign": "A significant reduction, relief, or complete resolution of the patient's radiating upper extremity pain or paresthesias during the distraction maneuver.",
+    "clinical_interpretation": "Confirmed cervical nerve root compression, disc herniation, or foraminal stenosis.\n\nClinical Pearl: Part of the Wainner's Clinical Prediction Rule for Cervical Radiculopathy (along with Spurling's, ULTT1, and cervical rotation <60 degrees). This test is the therapeutic opposite of Spurling's.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 4: Cervical Spine.",
+    "contraindications": [
+      "Severe cervical spinal instability (atlanto-axial or atlanto-occipital hypermobility)",
+      "Unhealed cervical spine fractures",
+      "Suspected odontoid process pathology"
+    ]
+  },
+  {
+    "test_id": "st_valgus_stress_knee",
+    "test_name": "Valgus Stress Test (Knee)",
+    "body_region": "Knee",
+    "purpose": "Assess the structural integrity and determine laxity of the Medial Collateral Ligament (MCL) of the knee.\nIndication: Post-traumatic medial knee pain, suspected MCL sprain or tear.",
+    "patient_position": "Patient lies supine on the table, with the lower extremity completely relaxed.",
+    "therapist_position": "Standing on the side of the tested leg. One hand stabilizes the lateral aspect of the joint line, while the other hand grasps the patient's ankle.",
+    "procedure": [
+      "Position the patient supine on the examination table.",
+      "To test in full extension: Grasp the ankle and apply a medial (valgus) force to the lateral knee, noting any joint separation.",
+      "To test the MCL specifically: Flex the patient's knee slightly to 20 to 30 degrees (which unlocks the posterior capsule).",
+      "Grasp the ankle with one hand and support the lateral knee with the other hand.",
+      "Apply a steady medial (valgus) force to the knee while pulling the ankle outward, opening up the medial joint crease.",
+      "Assess the amount of medial joint opening and the quality of the end-feel."
+    ],
+    "positive_sign": "Excessive medial joint line separation, knee laxity, or a soft/absent end-feel, with or without pain, compared to the contralateral knee.",
+    "clinical_interpretation": "Indicative of a Medial Collateral Ligament (MCL) sprain or tear. Testing in full extension assesses the cruciate ligaments as well; laxity at 30 degrees knee flexion specifically isolates the superficial and deep MCL.\n\nClinical Pearl: Joint opening in 0 degrees of extension suggests a severe injury involving the posterior joint capsule, and likely ACL/PCL injuries, rather than a isolated MCL tear.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 12: Knee.",
+    "contraindications": [
+      "Recent femoral or tibial fractures near the knee joint crease",
+      "Acute complex multi-ligamentous knee joint dislocation"
+    ]
+  },
+  {
+    "test_id": "st_varus_stress_knee",
+    "test_name": "Varus Stress Test (Knee)",
+    "body_region": "Knee",
+    "purpose": "Assess the structural integrity and determine laxity of the Lateral Collateral Ligament (LCL) of the knee.\nIndication: Suspected Lateral Collateral Ligament (LCL) sprain, arcuate ligament complex injury, or posterolateral corner instability.",
+    "patient_position": "Patient lies supine on the table, completely relaxed.",
+    "therapist_position": "Standing on the medial side of the tested leg. One hand supports the medial joint crease, while the other hand stabilizes the ankle.",
+    "procedure": [
+      "Position the patient supine on the examination table.",
+      "To test the LCL specifically: Flex the patient's knee to 20 to 30 degrees to relax the posterior joint capsule.",
+      "Place one hand on the medial surface of the patient's knee, and the other hand grasping the ankle.",
+      "Apply a steady lateral (varus) force to the knee, pushing outward while pulling the ankle inward, opening up the lateral joint crease.",
+      "Assess the extent of lateral joint opening and the firmness of the physical end-feel."
+    ],
+    "positive_sign": "Excessive lateral joint crease opening, joint laxity, or a soft, mushy, or absent end-feel, compared to the opposite leg.",
+    "clinical_interpretation": "Highly indicative of a Lateral Collateral Ligament (LCL) sprain or tear.\n\nClinical Pearl: The LCL is cord-like and runs from the lateral epicondyle to the fibular head. Unlike the MCL, the LCL does not attach to its respective meniscus (lateral meniscus), meaning LCL tears rarely involve meniscus tears.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 12: Knee.",
+    "contraindications": [
+      "Known fractures of the distal femur, proximal tibia, or fibular head",
+      "Severe open wounds or infections over the knee joint line"
+    ]
+  },
+  {
+    "test_id": "st_thessaly",
+    "test_name": "Thessaly Test",
+    "body_region": "Knee",
+    "purpose": "Identify meniscus tear (medial or lateral) using weight-bearing dynamic rotation forces.\nIndication: Clinical suspicion of tear, popping, clicking, or locking of the knee.",
+    "patient_position": "Patient stands barefoot on one leg, initially on the flat floor.",
+    "therapist_position": "Standing in front of the patient, holding the patient's outstretched hands to provide balance and support.",
+    "procedure": [
+      "The patient stands barefoot on their tested leg, while the contralateral leg is flexed in the air.",
+      "Instruct the patient to bend their standing knee slightly to approximately 5 degrees and rotate their body internally and externally 3 times in each direction.",
+      "Next, have the patient bend the standing knee further to 20 degrees of flexion.",
+      "While maintaining 20 degrees of knee flexion, instruct the patient to rotate internally and externally 3 times.",
+      "Observe and ask the patient to note any joint line pain, clicking, catching, or giving way."
+    ],
+    "positive_sign": "Elicitation of medial or lateral joint crease pain, or a palpable or audible click, catch, or snapping sensation during rotation.",
+    "clinical_interpretation": "Suggests a tear of the medial meniscus (when internal rotation/medial pain occurs) or lateral meniscus (when external rotation/lateral pain occurs).\n\nClinical Pearl: Make sure to support the patient's balance. If the patient has gross instability (ACL tear) or is unable to bear weight without intense pain, avoid performing this test.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 12: Knee.",
+    "contraindications": [
+      "Gross joint instability or inability to carry full weight on the tested limb",
+      "Acute locked knee with bony blocks",
+      "Recent knee surgery or post-op weight-bearing restrictions"
+    ]
+  },
+  {
+    "test_id": "st_thompson",
+    "test_name": "Thompson Test",
+    "body_region": "Ankle / Foot",
+    "purpose": "Detect complete rupture of the Achilles tendon (Tendo Achilles).\nIndication: Sudden sharp posterior calf/heel pain ('feeling kicked'), suspected Achilles tendon rupture.",
+    "patient_position": "Patient lies prone on the examination table, with both feet hanging clear off the edge of the table.",
+    "therapist_position": "Standing at the foot of the table, next to the patient's calf.",
+    "procedure": [
+      "Instruct the patient to lie prone, keeping their lower extremity relaxed and feet suspended off the table edge.",
+      "Observe the alignment of the ankles; a ruptured Achilles tendon may place the foot in a more dorsiflexed position than the unaffected side.",
+      "Place one hand around the belly of the calf muscle (gastrocnemius-soleus complex).",
+      "Squeeze the calf muscle firmly, compressing the muscle belly inward.",
+      "Observe the movement of the ankle joint (specifically looking for plantaflexion)."
+    ],
+    "positive_sign": "The absence of spontaneous mechanical ankle plantarflexion when the calf muscle is squeezed.",
+    "clinical_interpretation": "Pathognomonic of a complete Achilles tendon rupture.\n\nClinical Pearl: A critical test in sports medicine. Active plantarflexion may still be possible due to accessory muscles (tibialis posterior, flexor digitorum, peroneus), but a positive Thompson test proves a complete rupture of the main Achilles tendon.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 13: Ankle & Foot.",
+    "contraindications": [
+      "Severe local deep vein thrombosis (DVT) in the calf",
+      "Recent fractures of the tibia or fibula",
+      "Severe crush injuries to the posterior leg compartment"
+    ]
+  },
+  {
+    "test_id": "st_anterior_drawer_ankle",
+    "test_name": "Anterior Drawer Test (Ankle)",
+    "body_region": "Ankle / Foot",
+    "purpose": "Assess the integrity of the Anterior Talofibular Ligament (ATFL), the most frequently injured ankle ligament.\nIndication: Post-operative, chronic or acute lateral ankle sprains, inversion injuries.",
+    "patient_position": "Patient lies supine on the table, with the foot relaxed and hanging clear over the edge, ankle in approximately 10 to 15 degrees of plantarflexion.",
+    "therapist_position": "Standing or sitting at the foot of the table. One hand stabilizes the distal tibia and fibula, while the other hand grasps the calcaneus (heel) from underneath.",
+    "procedure": [
+      "Position the patient supine, ensuring the limb is relaxed and the ankle hangs in about 10 degrees of plantarflexion.",
+      "Securely grasp and stabilize the anterior aspect of the distal tibia/fibula with your proximal hand.",
+      "Cup the patient's heel (calcaneus) from below with your distal hand.",
+      "Apply a steady, anteriorly-directed drawing force to the calcaneus and talus, pulling the foot forward.",
+      "Feel the degree of translation and look for any 'dimpling' (suction sign) over the lateral anterolateral ankle region."
+    ],
+    "positive_sign": "Excessive anterior displacement of the talus/calcaneus relative to the tibia compared to the opposite foot, often accompanied by a soft end-feel and a visible 'dimple' over the lateral joint line.",
+    "clinical_interpretation": "Suggests partial or complete rupture of the Anterior Talofibular Ligament (ATFL).\n\nClinical Pearl: The ATFL is tested in slight plantarflexion. If laxity is present in neutral or dorsiflexion, both the ATFL and Calcaneofibular Ligament (CFL) are likely ruptured.\n\nReference: Magee, D. J. Orthopedic Physical Assessment, Chapter 13: Ankle & Foot.",
+    "contraindications": [
+      "Acute distal tibia/fibula or talar fracture",
+      "Suspected complete ankle dislocation or unstable syndesmotic ligament injury"
+    ]
+  }
+]

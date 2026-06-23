@@ -1,0 +1,651 @@
+[
+  {
+    "template_id": "tpl_oa_knee",
+    "template_name": "Osteoarthritis Knee Assessment",
+    "steps": [
+      {
+        "step_id": "oa_001",
+        "step_number": 1,
+        "category": "subjective",
+        "title": "History & Chief Complaint",
+        "description": "Gather patient timeline, localized knee pain symptoms, and impact on daily functioning.",
+        "expected_findings": [
+          "Gradual or insidious onset of deep, dull aching pain in the knee joint during weight bearing",
+          "Morning stiffness lasting less than 30 minutes, resolving with activity",
+          "Pain temporarily relieved by rest and aggravated by prolonged walking or stair climbing",
+          "Difficulty with functional tasks like squatting, kneeling, rising from a low chair"
+        ],
+        "related_tests": [],
+        "related_outcomes": [
+          "om_010"
+        ]
+      },
+      {
+        "step_id": "oa_002",
+        "step_number": 2,
+        "category": "observation",
+        "title": "Inspection in Standing and Walking",
+        "description": "Assess visual lower limb alignment, deformities, muscular asymmetry, and gait patterns.",
+        "expected_findings": [
+          "Genu varum (bow-legs) alignment from asymmetric medial cartilage loss",
+          "Atrophy/wasting of the Quadriceps muscle, specifically the Vastus Medialis Obliquus (VMO)",
+          "Mild-to-moderate localized joint swelling, bony enlargement, or joint capsule thickening",
+          "Antalgic gait with shortened stance phase on the affected limb to avoid pain"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "oa_003",
+        "step_number": 3,
+        "category": "palpation",
+        "title": "Palpation of Joint Structures",
+        "description": "Identify localized heat, localized joint effusion, osteophytes, and painful landmarks.",
+        "expected_findings": [
+          "Exquisite tenderness along the medial or lateral knee joint line",
+          "Palpable bony hypertrophic ridges (osteophytes) along tibial or femoral margins",
+          "Normal or slightly elevated local skin temperature (indicating mild active synovitis)",
+          "Coarse patellofemoral crepitus during active or passive knee flexion and extension"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "oa_004",
+        "step_number": 4,
+        "category": "rom",
+        "title": "Range of Motion Assessment",
+        "description": "Check active and passive motion curves of the knee to locate restriction limits.",
+        "expected_findings": [
+          "Painful active and passive knee flexion restricted to less than 110 degrees",
+          "Inability to achieve complete knee extension (extension lag of 5-10 degrees)",
+          "Passive knee flexion exhibiting a hard capsular or bony end-feel",
+          "Asymmetrical side-to-side end-range pain patterns during extension"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "oa_005",
+        "step_number": 5,
+        "category": "mmt",
+        "title": "Manual Muscle Testing",
+        "description": "Grade strength of major stabilizers and prime movers about the knee and hip.",
+        "expected_findings": [
+          "Quadriceps strength reduced to Grade 3 or 4 (arthrogenous muscle inhibition secondary to pain)",
+          "Hamstrings strength demonstrating Grade 4 (disuse weakness and defense guarding)",
+          "Weak hip abductors (Gluteus Medius Grade 4) causing pelvic drop on contralateral side during single-limb support"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "oa_006",
+        "step_number": 6,
+        "category": "special_test",
+        "title": "Provocative Special Tests",
+        "description": "Inject mechanical stresses to verify effusion, meniscus or patellofemoral cartilage disruption.",
+        "expected_findings": [
+          "Positive Patellar Tap test indicating moderate-to-large knee joint effusion",
+          "Positive Fluctuation test confirming minor extra-synovial fluid",
+          "Positive Clarke's Test (Patellar Grind) producing retropatellar clicking or pain",
+          "Negative knee ligament laxity tests (Lachman, Anterior and Posterior Drawer) ruling out acute ACL/PCL tears"
+        ],
+        "related_tests": [
+          "st_lachman",
+          "st_anterior_drawer_knee",
+          "st_posterior_drawer",
+          "st_mcmurray",
+          "st_apley_compression"
+        ],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "oa_007",
+        "step_number": 7,
+        "category": "outcome_measure",
+        "title": "Functional Capacity Outcomes",
+        "description": "Synthesize scores of formal functional scales and active transfer transitions.",
+        "expected_findings": [
+          "Elevated WOMAC index scores indicating highly compromised pain, stiffness, and daily activities",
+          "Pain intensity scaled between 5/10 and 8/10 on the Numeric Pain Rating Scale (NPRS)",
+          "Compensatory upper limb push-off required during sit-to-stand transfers"
+        ],
+        "related_tests": [],
+        "related_outcomes": [
+          "om_001",
+          "om_010"
+        ]
+      },
+      {
+        "step_id": "oa_008",
+        "step_number": 8,
+        "category": "clinical_reasoning",
+        "title": "Differential Reasoning & Goal Settings",
+        "description": "Establish clinical correlations from primary assessment findings to draft target parameters.",
+        "expected_findings": [
+          "Impairment list completed: medial compartment OA, Quadriceps/VMO weakness, knee flexion contractures",
+          "Short-term goals: reduce weight-bearing pain to NPRS < 4/10, increase VMO activation, restore terminal extension in 2 weeks",
+          "Long-term goals: complete independent community ambulation with minimal load pain, restore complete Quadriceps strength to Grade 5 in 6 weeks"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      }
+    ]
+  },
+  {
+    "template_id": "tpl_frozen_shoulder",
+    "template_name": "Adhesive Capsulitis (Frozen Shoulder) Assessment",
+    "steps": [
+      {
+        "step_id": "fs_001",
+        "step_number": 1,
+        "category": "subjective",
+        "title": "Chronology of Shoulder Symptoms",
+        "description": "Trace symptom progression across the freezing, frozen, and thawing stages.",
+        "expected_findings": [
+          "Gradual, insidious onset of unilateral shoulder ache with localizing radiation into the deltoid region",
+          "Inability to lie on the affected side at night with significant sleep interruption",
+          "No history of concrete major trauma, though minor microtrauma or microvascular disease (diabetes) may be noted",
+          "Progressive global loss of movement preventing basic hygiene, grooming, and clothing tasks"
+        ],
+        "related_tests": [],
+        "related_outcomes": [
+          "om_010"
+        ]
+      },
+      {
+        "step_id": "fs_002",
+        "step_number": 2,
+        "category": "observation",
+        "title": "Postural Inspection of Girdle",
+        "description": "Inspect dynamic alignment, joint default postures, and atrophy.",
+        "expected_findings": [
+          "Afflicted shoulder held in a protective default posture of adduction, internal rotation, and elevation",
+          "Asymmetrical shoulder hiking during early active elevation",
+          "Wasting or flattening of the Deltoid, Supraspinatus, and Infraspinatus muscle borders",
+          "Slight compensatory thoracic spine kyphosis to unload shoulder extension"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "fs_003",
+        "step_number": 3,
+        "category": "palpation",
+        "title": "Palpation of Girdle Tissues",
+        "description": "Identify local tissue guarding, high muscle tone, and focal tenderness points.",
+        "expected_findings": [
+          "Focal tenderness over the anterior joint capsule, subacromial space, and bicipital groove",
+          "Severe protective spasm/hypertonicity of the Upper Trapezius, Levator Scapulae, and Pectoralis Major",
+          "Firm, inelastic feeling (capsular tightening) over the anterior joint margin",
+          "No elevated localized heat or erythema (rules out active septic process)"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "fs_004",
+        "step_number": 4,
+        "category": "rom",
+        "title": "Range of Motion Metrics",
+        "description": "Establish degree of active and passive restrictions across all axes of glenohumeral movement.",
+        "expected_findings": [
+          "Classical capsular pattern of restriction: External Rotation is most limited, followed by Abduction, Flexion, and then Internal Rotation",
+          "Firm, abrupt, leathery capsular end-feel during passive range testing",
+          "Severe pain elicited at the end-range limits of all passive motions",
+          "Significant restriction of passive glenohumeral motion with excessive accessory scapulothoracic compensation"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "fs_005",
+        "step_number": 5,
+        "category": "mmt",
+        "title": "Manual Muscle Testing of Shoulder Girdle",
+        "description": "Grade isolated force curves of the rotator cuff and scapular organizers.",
+        "expected_findings": [
+          "Supraspinatus, Infraspinatus, and Subscapularis testing as Grade 4 (inhibited by joint pain, rather than true nerve injury)",
+          "Scapular stabilizers (Middle/Lower Trapezius, Serratus Anterior) showing Grade 4 strength",
+          "Upper Trapezius proving overactive and hypertonic on manual muscle resistance"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "fs_006",
+        "step_number": 6,
+        "category": "special_test",
+        "title": "Provocative Impingement & Cuff Integrity Tests",
+        "description": "Apply maneuvers to analyze subacromial space patency and ruling out primary structural cuff tears.",
+        "expected_findings": [
+          "Markedly altered Scapulohumeral Rhythm with a 1:1 motion ratio (scapular rotation occurs almost immediately)",
+          "Painful, limited Neer and Hawkins-Kennedy tests due to global capsular confinement",
+          "Negative Drop Arm test and Empty Can test for structural tears (though painful, arm maintains hold)"
+        ],
+        "related_tests": [
+          "st_neer",
+          "st_hawkins_kennedy"
+        ],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "fs_007",
+        "step_number": 7,
+        "category": "outcome_measure",
+        "title": "Functional Performance scales",
+        "description": "Measure shoulder function, self-care restrictions, and score diagnostic questionnaires.",
+        "expected_findings": [
+          "DASH (Disabilities of the Arm, Shoulder, and Hand) score exceeding 55%, indicating severe ADL disability",
+          "Positive bilaterally restricted Apley's Scratch tests (inability to reach base of neck and lower lumbar spine)",
+          "Pain rated 7/10 on the NPRS during overhead reaches"
+        ],
+        "related_tests": [],
+        "related_outcomes": [
+          "om_002",
+          "om_010"
+        ]
+      },
+      {
+        "step_id": "fs_008",
+        "step_number": 8,
+        "category": "clinical_reasoning",
+        "title": "Rehabilitation Phase Diagnostics",
+        "description": "Differentiate stages to guide joint mobilization parameters.",
+        "expected_findings": [
+          "Identification of staging (e.g., Frozen stage, showing rigid limits with low irritability vs Freezing stage with hyper-irritability)",
+          "Rehab plan planned: Grade I/II oscillations for pain control in early high-irritability stages; Grade III/IV stretches for remodeling in low-irritability stages",
+          "Home exercise compliance verified: pulley exercises, finger ladder, and sleeper stretch"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      }
+    ]
+  },
+  {
+    "template_id": "tpl_lumbar_disc",
+    "template_name": "Lumbar Disc Herniation Assessment",
+    "steps": [
+      {
+        "step_id": "ld_001",
+        "step_number": 1,
+        "category": "subjective",
+        "title": "History & Sciatic Pain Character",
+        "description": "Chronicle immediate mechanics of injury (bending, twisting, lifting) and radiate symptoms mapping.",
+        "expected_findings": [
+          "Sudden onset of sharp, electric, shooting pain radiating from the low back into the gluteal area, posterior thigh, calf, and foot",
+          "Unilateral paresthesia, numbness, or pins-and-needles mirroring L5 or S1 dermatomes",
+          "Radicular pain aggravated by trunk flexion, prolonged sitting, coughing, or sneezing (valsalva pressure)",
+          "Pain temporarily relieved by walking, standing, or lying prone (extension preference)"
+        ],
+        "related_tests": [],
+        "related_outcomes": [
+          "om_010"
+        ]
+      },
+      {
+        "step_id": "ld_002",
+        "step_number": 2,
+        "category": "observation",
+        "title": "Visual Spinal Curvature",
+        "description": "Inspect posture in sagittal and coronal axes and transitions.",
+        "expected_findings": [
+          "Flattening or reversal of normal lumbar lordosis from protective paraspinal spasm",
+          "Lateral shift of the trunk (ipsilateral or contralateral list) to displace neural compression",
+          "Guarded/stiff sagittal trunk adjustments when changing positions",
+          "Antalgic gait avoiding complete terminal hip/knee extension of the affected leg to suppress neural tension"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "ld_003",
+        "step_number": 3,
+        "category": "palpation",
+        "title": "Segmental Palpation of Spine",
+        "description": "Palpate vertebral landmarks, myofascial triggers, and sciatic pathway points.",
+        "expected_findings": [
+          "Focal tenderness over L4-L5 or L5-S1 interspinous ligaments",
+          "Spastic hypertonicity in bilateral Lumbar Erector Spinae and Quadratus Lumborum",
+          "Reproduced radiating nerve ache on palpation of Valleix sciatic trigger points",
+          "Presence of active myofascial trigger points in the Gluteus Medius, Minimus, and Piriformis"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "ld_004",
+        "step_number": 4,
+        "category": "rom",
+        "title": "Active Trunk Mobility Bounds",
+        "description": "Determine range limits of lumbar flex, extend, and side bend.",
+        "expected_findings": [
+          "Trunk flexion restricted to less than 20 degrees, provoking peripheralization of leg pain",
+          "Trunk extension restricted but yielding centralization of symptoms (pain retracting to lumbar region)",
+          "Lateral bending toward the affected side restricted by sudden radicular compression"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "ld_005",
+        "step_number": 5,
+        "category": "mmt",
+        "title": "Segmental Myotome Mapping",
+        "description": "Grade strength of specific nerve root-controlled muscles across the ankles and toes.",
+        "expected_findings": [
+          "Weakness in the L5 myotome: Extensor Hallucis Longus (EHL) showing Grade 3 or 4 strength",
+          "Weakness in the S1 myotome: Gastrocnemius/Soleus or Peroneus Longus/Brevis showing Grade 4 strength",
+          "Weakness in the L4 myotome: Tibialis Anterior showing Grade 4"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "ld_006",
+        "step_number": 6,
+        "category": "special_test",
+        "title": "Dural Tension special Tests",
+        "description": "Utilize dural elongation tests to provoke pain from disc-root conflict.",
+        "expected_findings": [
+          "Positive Straight Leg Raise (SLR) test recreating electric radiating pain between 30 and 70 degrees",
+          "Positive Lasegue sign confirming dural origin (distal pain is aggravated by ankle dorsiflexion)",
+          "Positive Slump test replicating thoracic, lumbar, and calf sciatic pain under cervical and thoracic flexion",
+          "Positive Crossed SLR test (raising the normal leg provokes pain in the symptomatic leg, indicating medial disc herniation)"
+        ],
+        "related_tests": [
+          "st_straight_leg_raise",
+          "st_slump"
+        ],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "ld_007",
+        "step_number": 7,
+        "category": "outcome_measure",
+        "title": "Sensory, Reflex, & Disability Metrics",
+        "description": "Standardize sensory loss, tendon reflex depression, and grade patient disability questionnaires.",
+        "expected_findings": [
+          "Diminished or absent Achilles tendon reflex (S1 nerve root) or diminished Patellar reflex (L4 root)",
+          "Sensory loss (decreased sharp touch) in L5 (dorsum of foot) or S1 (lateral border of foot) dermatomes",
+          "Oswestry Disability Index (ODI) score of 40% to 60%, showing moderate-to-severe lumbar functional disability"
+        ],
+        "related_tests": [],
+        "related_outcomes": [
+          "om_003",
+          "om_010"
+        ]
+      },
+      {
+        "step_id": "ld_008",
+        "step_number": 8,
+        "category": "clinical_reasoning",
+        "title": "Diagnostic Synthesis & Stabilizations",
+        "description": "Formulate core classification and design physical target benchmarks.",
+        "expected_findings": [
+          "Identified level (e.g., L4-L5 herniation compressing L5 nerve root) with clear direction of bias (extension bias)",
+          "Clinical reasoning: determine whether condition is safe for stabilization training, traction, or exhibits red flags (cauda equina) requiring sudden surgery referral",
+          "Stabilization goals: posture education, transverse abdominis/multifidus dynamic motor training, neural mobilizing slides"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      }
+    ]
+  },
+  {
+    "template_id": "tpl_stroke_mca",
+    "template_name": "Stroke (MCA Infarct) Neurological Assessment",
+    "steps": [
+      {
+        "step_id": "stk_001",
+        "step_number": 1,
+        "category": "subjective",
+        "title": "Vascular Onset profile",
+        "description": "Establish timing of ischemic/hemorrhagic stroke events, baseline functional level, and language capacity.",
+        "expected_findings": [
+          "Acute onset of unilateral face, arm, and leg paralysis, typically with worst severity in the upper extremity",
+          "Communication barriers: Expressive (Broca's) or Receptive (Wernicke's) aphasia, or oral-facial dysarthria",
+          "Subjective sensory numbness, visual field cuts (homonymous hemianopsia) or spatial disorientation",
+          "Vascular risk profile (hypertension, peripheral vascular health, prior embolus history)"
+        ],
+        "related_tests": [],
+        "related_outcomes": [
+          "om_010"
+        ]
+      },
+      {
+        "step_id": "stk_002",
+        "step_number": 2,
+        "category": "observation",
+        "title": "Spontaneous Posturing & Facies",
+        "description": "Inspect resting tone alignments, structural asymmetries, hemiplegic postures, and hemispatial inattention.",
+        "expected_findings": [
+          "Contralateral lower facial droop with intact upper forehead wrinkling",
+          "Grave upper limb flexor synergy posture: shoulder adducted/retracted, elbow flexed, forearm pronated, wrist/fingers tightly flexed",
+          "Grave lower limb extensor synergy posture: hip extended/adducted/rotated, knee locked in extension, ankle plantarflexed and inverted",
+          "Ignorance of objects or limbs located on the affected contralateral side (unilateral hemispatial neglect)"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "stk_003",
+        "step_number": 3,
+        "category": "palpation",
+        "title": "Muscle Tone & Reflex Testing",
+        "description": "Quantify muscular spasticity levels and investigate tendon reflex briskness.",
+        "expected_findings": [
+          "Markedly increased spastic tone in anti-gravity muscle groups displaying velocity-dependent catch-and-release block",
+          "Modified Ashworth Scale (MAS) scores of Grade 2 in biceps brachii, forearm pronators, and ankle plantarflexors",
+          "Brisk deep tendon reflexes (clonus-like hyperreflexia) of the contralateral limbs",
+          "Flaccidity (hypotonia) observed instead if the assessment is occurring inside the acute, transient spinal shock phase"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "stk_004",
+        "step_number": 4,
+        "category": "rom",
+        "title": "Passive Motion Limits & Tightness",
+        "description": "Measure complete passive ROM of locked joints to distinguish neural spasticity from structural contractures.",
+        "expected_findings": [
+          "Passively restricted shoulder external rotation, abduction, and forearm supination from chronic flexor guarding",
+          "Deficits in passive ankle dorsiflexion, with a firm, solid tissue stop at neutral (90 degrees)",
+          "Painful scapulohumeral motion indicating early Glenohumeral Subluxation (loose, unsupportive rotator cuff)"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "stk_005",
+        "step_number": 5,
+        "category": "mmt",
+        "title": "Voluntary Motor Stage classification",
+        "description": "Classify the patient's stage of hemiplegic recovery and evaluate force output constraints.",
+        "expected_findings": [
+          "Brunnstrom Motor Recovery classifiable to Stage 2 (synergies starting to appear) or Stage 3 (synergies performed voluntarily)",
+          "Inability to generate isolated, joint-specific movements outside of mass synergetic movements (e.g., knee flexion naturally triggers hip abduction)",
+          "Inability to generate active finger extension or ankle dorsiflexion individually"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "stk_006",
+        "step_number": 6,
+        "category": "special_test",
+        "title": "Upper Motor Neuron Markers",
+        "description": "Coordinate standardized provocative reflex tests to confirm pyramidal tract lesions.",
+        "expected_findings": [
+          "Positive Babinski sign (extensor plantar response of the great toe with outer toes fanning)",
+          "Positive ankle clonus (sustained rhythmical plantarflexion contractions upon sudden passive dorsiflexion)",
+          "Positive Hoffman's sign indicating hyper-reflexive cervical spinal segment release"
+        ],
+        "related_tests": [
+          "st_babinski_sign"
+        ],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "stk_007",
+        "step_number": 7,
+        "category": "outcome_measure",
+        "title": "Balance, Gait & Disability scoring",
+        "description": "Apply standard balance indices, assess walking parameters, and score physical ADL independence.",
+        "expected_findings": [
+          "Berg Balance Scale score of 30/56, confirming elevated fall risk and need for assistive aid during upright balance",
+          "Circumductive gait pattern with lateral leg swing and hip hiking to compensate for dropped foot and locked knee",
+          "FIM (Functional Independence Measure) score indicating moderate-to-severe dependency for transfers and general self-care",
+          "Absent/impaired proprioceptive awareness during blind passive toe movement tests"
+        ],
+        "related_tests": [],
+        "related_outcomes": [
+          "om_004",
+          "om_005",
+          "om_009"
+        ]
+      },
+      {
+        "step_id": "stk_008",
+        "step_number": 8,
+        "category": "clinical_reasoning",
+        "title": "Neuro-facilitation & Clinical Staging",
+        "description": "Analyze clinical inputs to frame a neurologically sound recovery plan.",
+        "expected_findings": [
+          "Determination of recovery stage (acute vs subacute vs chronic) and matching therapy concepts (e.g., Bobath, PNF, CIMT)",
+          "Formulated problem list emphasizing shoulder subluxation prevention, spasticity damping, trunk stability, and gait corrections with AFOs",
+          "Home exercise setup: weight bearing on hemiplegic arm, bilateral trunk rotations, and active assisted heel slides"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      }
+    ]
+  },
+  {
+    "template_id": "tpl_sci",
+    "template_name": "Spinal Cord Injury (SCI) Comprehensive Assessment",
+    "steps": [
+      {
+        "step_id": "sci_001",
+        "step_number": 1,
+        "category": "subjective",
+        "title": "Cord Lesion Chronology",
+        "description": "Trace etiology of injury (fall, motor trauma, infection), diagnostic surgery parameters, and systemic functions.",
+        "expected_findings": [
+          "Traumatic or non-traumatic complete spinal cord injury, resulting in sudden, bilateral loss of movement and feeling caudal to the injury",
+          "Subjective loss of visceral urinary and fecal contractions (constipation, bladder retention)",
+          "Shortness of breath, shallow chest expansions or weak coughing maneuvers",
+          "History of spinal decompressive laminectomy and internal titanium instrumentation"
+        ],
+        "related_tests": [],
+        "related_outcomes": [
+          "om_010"
+        ]
+      },
+      {
+        "step_id": "sci_003",
+        "step_number": 2,
+        "category": "observation",
+        "title": "Bony Integrity & Dermal visual Check",
+        "description": "Identify muscle mass reduction, pressure sores, clinical line connections, and breathing movements.",
+        "expected_findings": [
+          "Global atrophy/paralysis of muscle groups below the level of the spinal lesion",
+          "Grade 1 pressure injuries (non-blanchable erythema) over high-risk regions (sacrum, ischial tuberosities, calcaneus)",
+          "Standard indwelling catheter or intermittent catheter attachments",
+          "Abdomen-dominated respirations with marked intercostal space retraction during inspirations (represents intercostal muscle paralysis)"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "sci_002",
+        "step_number": 3,
+        "category": "palpation",
+        "title": "Percussion & Autonomic Stability",
+        "description": "Palpate bony processes, measure thoracic mobility, and log vital autonomic behaviors.",
+        "expected_findings": [
+          "Tenderness, structural step-off, or local muscle guarding over post-surgical or fractured thoracic spinous segments",
+          "Costal chest expansion significantly compromised (less than 1.5 - 2 cm at axillary/xiphoid levels)",
+          "Tendency for orthostatic hypotension (blood pressure drop during elevation) or sudden autonomic dysreflexia symptoms (headache, sweating above T6 injury)"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "sci_004",
+        "step_number": 4,
+        "category": "rom",
+        "title": "Passive ROM & Tenodesis Bounds",
+        "description": "Test ranges of lower limb joints and analyze natural hand tenodesis mechanics.",
+        "expected_findings": [
+          "Spastic restriction of hip/knee extension with high susceptibility to bilateral flexion contractures",
+          "Passive ankle dorsiflexion severely restricted by Achilles tendon tightness",
+          "Preservation of ankle/knee mobility for future transfer aids, and active hand tenodesis flexion during wrist extension (crucial for C6 SCI)"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "sci_005",
+        "step_number": 5,
+        "category": "mmt",
+        "title": "ASIA Key Muscle MMT Mapping",
+        "description": "Test manual muscle grades across the 10 bilateral ASIA motor segment key groups.",
+        "expected_findings": [
+          "Detailed, systematic motor mapping defining complete muscle loss (Grade 0) below the neurological level",
+          "Presence of complete paraplegia (motor levels caudal to T1) or tetraplegia (motor levels cranial to T1)",
+          "Motor level identified as the most caudal segment having a muscle grade of 3 or higher, with all cranial levels being Grade 5"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "sci_006",
+        "step_number": 6,
+        "category": "special_test",
+        "title": "ASIA Sensory Dermatome Point Testing",
+        "description": "Test light touch and pin-prick sensations across the 28 bilateral key sensory dermatome areas.",
+        "expected_findings": [
+          "Sensory score mapped as 0 (absent), 1 (impaired), or 2 (intact) for both pinprick and light touch at each locus",
+          "Sensory level mapped as the most caudal dermatome showing perfect scores of 2 for both sensory types",
+          "Check for S4-S5 sensory preservation (sacral sparing indicated by deep anal pressure)"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      },
+      {
+        "step_id": "sci_007",
+        "step_number": 7,
+        "category": "outcome_measure",
+        "title": "ASIA Scale Grade & Spasticity Metrics",
+        "description": "Formulate functional scale indices and verify spinal shock status.",
+        "expected_findings": [
+          "ASIA Impairment Scale (AIS) determined (e.g., AIS Grade A complete lesion, or AIS Grade B, C, D incomplete)",
+          "Uninhibited spinal cord reflexes showing brisk pathological spasm (MAS Grade 3 in hip adductors, knee extensors)",
+          "Very low Spinal Cord Independence Measure (SCIM) score indicating massive dependency across all self-care transfer items"
+        ],
+        "related_tests": [],
+        "related_outcomes": [
+          "om_006",
+          "om_009"
+        ]
+      },
+      {
+        "step_id": "sci_008",
+        "step_number": 8,
+        "category": "clinical_reasoning",
+        "title": "Strategic Mobility & Autonomic Safeties",
+        "description": "Plan key strategies for dynamic transfer, bracing, skin security, and autonomic emergency guidelines.",
+        "expected_findings": [
+          "Establishment of functional prognosis based on AIS level (e.g., C6 level: training independent wheelchair propulsion, slide board transfers, using tenodesis grasp)",
+          "Formulation of secondary danger checks: pressure ulcer prevention scheduling (2-hour turning), autonomic dysreflexia checklist, bladder/bowel management strategies (CIC/digital stimulation)",
+          "Dynamic postural stabilization exercises: long-sitting balance, tilt-table verticalization, and upper quadrant compensatory hypertrophy"
+        ],
+        "related_tests": [],
+        "related_outcomes": []
+      }
+    ]
+  }
+]

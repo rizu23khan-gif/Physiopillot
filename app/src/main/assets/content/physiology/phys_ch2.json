@@ -1,0 +1,475 @@
+{
+  "subject": "Physiology",
+  "chapterId": "phys_ch2",
+  "chapterName": "Neuromuscular Physiology",
+  "definition": [
+    "Motor Unit: A single alpha motor neuron and all the skeletal muscle fibers it innervates, acting as the basic functional unit of neuromuscular control.",
+    "Neuromuscular Junction (NMJ): The highly specialized synapse between a myelinated motor neuron terminal and the motor end-plate of a skeletal muscle fiber.",
+    "Sarcomere: The basic contractile structural unit of a muscle myofibril, defined as the region between two adjacent Z-lines.",
+    "End-Plate Potential (EPP): The localized graded depolarization of the motor end-plate of a skeletal muscle fiber, caused by the open of acetylcholine-gated ligand channels.",
+    "Excitation-Contraction Coupling: The complete physiological sequence of events whereby an electrical action potential at the cell membrane triggers calcium release from the sarcoplasmic reticulum, culminating in muscle fiber contraction.",
+    "Myobibril: Structural rod-like units consisting of thin (actin) and thick (myosin) interdigitating protein filaments that make up skeletal muscle cytoplasm.",
+    "Sarcoplasmic Reticulum: Specialized smooth endoplasmic reticulum in muscle cells that stores, releases, and sequesters calcium ions.",
+    "Muscle Fatigue: The progressive transient reduction in the force or velocity of muscle contraction resulting from prolonged physical exertion, characterized by metabolic waste accumulation."
+  ],
+  "principle": [
+    "Sliding Filament Model: Muscle contraction occurs as thin actin filaments slide past thick myosin filaments. Activated myosin heads form cross-bridges with actin, undergoing conformational power strokes that pull Z-lines closer together without shortening the individual filaments.",
+    "All-or-None Law of Muscle Fibers: An individual muscle fiber contracts completely or not at all in response to a threshold stimulus, though whole muscles generate graded forces through recruitment.",
+    "Size Principle of Recruitment: Motor units are recruited in order of increasing size (small, slow-twitch, fatigue-resistant units first; large, fast-twitch, fatigable units later) to allow finely graded force control.",
+    "Strength-Duration Curve Relationship: Graphic plot representing the relationship between the intensity (strength, in mA) and the duration (in ms) of an electrical stimulus required to excite neuromuscular tissue, defining Rheobase and Chronaxie.",
+    "Neuromuscular Synaptic Transmission: Axon action potentials trigger calcium influx through voltage-gated P/Q-type channels, driving exocytosis of acetylcholine vesicles. Ach diffuses across the synaptic cleft, binding to nicotinic receptors at the motor end-plate.",
+    "Electromyography (EMG) Principles: The acquisition, recording, and analysis of electrical activity of muscle fibers during voluntary contraction and at rest, mapping normal insertional activity or abnormal denervation fibrillations."
+  ],
+  "equipment": [
+    "Electromyograph (EMG): Instrument used to capture and record the electrical activity of muscle fibers at rest and during activation.",
+    "Nerve Stimulator: Devices that deliver adjustable electrical currents to assess nerve excitability, nerve conduction velocity, or muscle contractions.",
+    "Kymograph Recording Setup: Traditional instrument used to capture skeletal muscle twitch contractions on revolving smoked paper.",
+    "Force Transducer: Electronic device that converts mechanical force of muscle contraction into measurable electrical signals.",
+    "Surface and Needle Electrodes: Conductive probes utilized to apply stimulation currents or record electrical muscle potentials.",
+    "Reflex Hammer: Manual clinical instrument used to tap tendons to evoke stretch reflexes during neuromuscular examinations."
+  ],
+  "parameters": {
+    "normalMotorNerveConductionVelocity": "50 - 68 m/s",
+    "neuromuscularSynapticDelay": "0.3 - 0.5 ms",
+    "sarcomereRestingLength": "2.0 - 2.2 microns",
+    "chronaxieOfNerve": "0.1 - 0.3 ms",
+    "chronaxieOfMuscle": "5.0 - 10.0 ms",
+    "restingMembranePotentialMuscle": "-90 mV",
+    "actionPotentialAmplitude": "110 - 120 mV",
+    "skeletalMuscleRefractoryPeriod": "1 - 3 ms"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Electromechanical Coupling",
+      "frequency": "Dynamic",
+      "mechanism": [
+        "Action potential travels down T-tubules to activate dihydropyridine (DHP) receptors.",
+        "Mechanical interaction opens ryanodine receptors (RyR) on terminal cisternae.",
+        "Inundation of sarcoplasm with calcium ions to bind Troponin C."
+      ]
+    },
+    {
+      "effect": "Actin-Myosin Cross-Bridge Cycling",
+      "frequency": "Dynamic",
+      "mechanism": [
+        "Calcium binding shifts tropomyosin away from actin binding sites.",
+        "Myosin head hydrolyzes ATP, binds actin, and executes power strokes to shorten the sarcomere.",
+        "Detachment of myosin head upon binding a new ATP molecule."
+      ]
+    },
+    {
+      "effect": "Post-Synaptic Graded Depolarization",
+      "frequency": "Dynamic",
+      "mechanism": [
+        "Binding of two acetylcholine molecules to a nicotinic receptor channels opens an ion pore.",
+        "Rapid influx of Sodium exceeds small potassium efflux, producing a localized End-Plate Potential (EPP).",
+        "Depolarization spreads to adjacent sarcolemma containing voltage-gated channels to trigger a propagated muscle action potential."
+      ]
+    }
+  ],
+  "indications": [
+    "Differential Diagnosis of Muscle Weakness: Distinguishing between primary myopathic, neuropathic, or NMJ transmission disorders.",
+    "Nerve Compression Injuries: Identifying and grading peripheral nerve entrapments like Carpal Tunnel Syndrome.",
+    "Neuromuscular Synapse Evaluation: Diagnostic testing of progressive fatigue fatigue disorders like Myasthenia Gravis."
+  ],
+  "contraindications": {
+    "general": [
+      "Overlying cutaneous infection or burns at the electrode attachment site.",
+      "Patients with implanted cardiac pacemakers or defibrillators during proximal electrical nerve stimulation."
+    ],
+    "local": [
+      "Electric stimulation over open bleeding wounds or active deep vein thrombosis areas."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Explain the physical sensations of electrical shocks during nerve stimulation or needle insertion.",
+      "Ensure the patient is warm, relaxed, and seated or lying in a comfortable supine posture."
+    ],
+    "apparatusPreparation": [
+      "Calibrate the EMG/Nerve Conduction velocity sweep speeds and voltage filters.",
+      "Check that stimulator cords are intact and disposable needles are sterile."
+    ],
+    "skinPreparation": [
+      "Exfoliate and degrease active skin testing sites with isopropyl alcohol to decrease electrical interface resistance."
+    ],
+    "electrodePlacement": [
+      "Place the active recording electrode over the motor point of the target muscle belly.",
+      "Secure the reference electrode over an nearby bone or inactive tendon.",
+      "Attach a dedicated ground electrode to protect from electric interference."
+    ],
+    "treatmentProcedure": [
+      "Deliver incremental electrical pulses to the peripheral nerve trunk up to a supramaximal level.",
+      "Record and review the compound muscle action potential (CMAP) latency and amplitude.",
+      "In needle EMG, insert the probe into the resting muscle belly to assess insertional activity, then observe voluntary motor unit potentials during contraction."
+    ]
+  },
+  "precautions": [
+    "Avoid stimulating over the carotid sinus or pregnant abdomen.",
+    "Minimize repetitive needle insertions in patients undergoing anticoagulation therapy.",
+    "Ensure equipment is strictly grounded to prevent microshock hazards to the patient."
+  ],
+  "clinicalPearls": [
+    "Myasthenia Gravis is caused by autoimmune autoantibodies targeting postsynaptic nicotinic ACh receptors, producing fatiguability that improves with rest or acetylcholinesterase inhibitors (e.g. Neostigmine).",
+    "Lambert-Eaton Myasthenic Syndrome involves autoantibodies targeting presynaptic voltage-gated Calcium channels, leading to reduced Ach release which paradoxically improves with repeated contraction cycles.",
+    "The Chronaxie of denervated skeletal muscle increases drastically, making it non-responsive to short-duration electrical pulses that normally stimulate healthy innervated motor nerves easily."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Suspected Carpal Tunnel Syndrome (Median Nerve Entrapment)",
+      "position": "Seated with forearm resting in supination on a sterile table",
+      "electrodePlacement": "Active electrode on abductor pollicis brevis muscle belly; stimulating electrode 8 cm proximal at the wrist",
+      "frequency": "Single stimulation pulses up to supramaximal amplitude",
+      "purpose": "To measure motor and sensory distal latency and motor conduction velocity of the median nerve"
+    }
+  ],
+  "vivaQuestions": [
+    "Question: Detail the sequence of physiological events at the neuromuscular junction. | Answer: 1) Nerve action potential depolarizes presynaptic axon terminal. 2) Voltage-gated Calcium channels open, driving Ca2+ influx. 3) Ca2+ triggers exocytosis of acetylcholine (ACh) vesicles. 4) ACh diffuses across the synaptic cleft. 5) ACh binds to postsynaptic nicotinic receptors, opening ligand-gated ion channels. 6) Influx of Na+ creates local depolarizations called End-Plate Potential (EPP). 7) Sufficient EPP triggers a muscle action potential. 8) ACh is inactivated by acetylcholinesterase. | Examiner Key Points: Presynaptic Calcium influx, vesicle exocytosis, nicotinic Ach receptor binding, EPP, acetylcholinesterase degradation. | Clinical Importance: Defective steps explain Myasthenia Gravis and pesticide poisoning.",
+    "Question: What is muscle fatigue and what are its primary physiological causes? | Answer: Muscle fatigue is the progressive transient decrease in muscle contractile force with exertion. Its causes include accumulation of lactic acid and hydrogen ions (causing local acidosis), glycogen depletion, phosphate accumulation, potassium accumulation in T-tubules, and depletion of acetylcholine at the motor end-plate. | Examiner Key Points: Lactic acid, pH decline, glycogen depletion, Ca2+ reuptake impairment. | Clinical Importance: Critical to manage in rehabilitation, athletic training, and therapeutic muscle stimulation.",
+    "Question: Explain the sliding filament theory of muscle contraction. | Answer: The sliding filament theory states that muscle contraction is achieved by the sliding of thin (actin) filaments relative to thick (myosin) filaments. Actin-myosin cross-bridges form, and the myosin heads rotate (power stroke), pulling the actin filaments toward the center of the sarcomere (H-zone). This shortens the sarcomere and muscle belly, while filament lengths remain constant. | Examiner Key Points: Myosin-actin interaction, power stroke, ATP binding/hydrolysis, sarcomere shortening without filament changes. | Clinical Importance: Explains why stretch and muscle length dictate optimal active tension.",
+    "Question: Define Rheobase and Chronaxie, and explain their clinical relevance in physiotherapy. | Answer: Rheobase is the minimum intensity of an electrical current of infinite duration required to stimulate excitable tissue. Chronaxie is the duration of stimulus required to excite tissue at twice the rheobase intensity. Chronaxie is an index of tissue excitability. | Examiner Key Points: Rheobase definition, Chronaxie definition (twice rheobase intensity), excitable tissue parameter. | Clinical Importance: Chronaxie is short in nerves (~0.1 ms) and long in denervated muscle (~10+ ms), allowing physiotherapists to selectively stimulate denervated muscle without evoking sensory nerve pain.",
+    "Question: Differentiate Upper Motor Neuron (UMN) lesions from Lower Motor Neuron (LMN) lesions. | Answer: UMN lesions (injury to motor pathways above anterior horn cell) present with spastic paralysis, hypertonia, hyperreflexia, and Babinski sign. LMN lesions (injury to motor nerve beneath anterior horn) present with flaccid paralysis, hypotonia, hyporeflexia, muscle wasting, and fasciculations. | Examiner Key Points: Spasticity/clonus vs wasting/flaccidity, hyperreflexia vs hyporeflexia, Babinski sign presence. | Clinical Importance: Essential to localize the lesion during diagnostic neuromuscular examinations.",
+    "Question: What is the Role of Calcium in Excitation-Contraction Coupling in skeletal muscle? | Answer: When action potentials depolarlize T-tubules, calcium is released from sarcoplasmic reticulum terminal cisternae through ryanodine receptors. Calcium binds directly to Troponin C, which undergoes a structural change that moves tropomyosin away from actin's active sites. This unmasks the actin sites, allowing myosin heads to attach and start the cycle. | Examiner Key Points: DHP/Ryanodine receptors, Calcium-Troponin C binding, Tropomyosin unmasking. | Clinical Importance: Underpins malignant hyperthermia, an anesthetic emergency involving unmitigated calcium release.",
+    "Question: Explain the Length-Tension relationship of skeletal muscle. | Answer: The length-tension relationship states that the active tension a muscle can generate depends directly on its initial resting fiber length. Maximum active tension is generated at an optimal sarcomere resting length (2.0-2.2 microns), which maximizes the physical alignment and overlap of actin and myosin filaments. | Examiner Key Points: Sarcomere alignment, optimal actin-myosin overlap. | Clinical Importance: Prevents suboptimal contraction forces when muscles are overly stretched or cramped.",
+    "Question: What is End Plate Potential (EPP) and how does it differ from an Action Potential? | Answer: EPP is a graded localized depolarization of the motor endplate caused by ligand-gated channel opening. It has no refractory period and does not propagate. An Action Potential is an all-or-none, self-propagating electrical response of the sarcolemma with a absolute refractory period, mediated by voltage-gated channels. | Examiner Key Points: Graded vs all-or-none, ligand-gated vs voltage-gated, localized vs propagated. | Clinical Importance: EPP must reach a threshold of ~-50 mV to trigger a propagated action potential.",
+    "Question: Describe the mechanism of action of Neuromuscular Blocking agents like Curare vs Succinylcholine. | Answer: Curare acts as a competitive, non-depolarizing blocker that binds to nicotinic ACh receptors without activating them, blocking ACh binding. Succinylcholine is a depolarizing blocker that mimics ACh, binding and depolarizing the membrane persistently, causing flaccid paralysis as sodium channels remain inactivated. | Examiner Key Points: Competitive non-depolarizing vs persistent depolarizing block, receptor channel inactivation. | Clinical Importance: Utilized routinely in general surgery to achieve deep muscle relaxation and permit intubation.",
+    "Question: Explain the Size Principle of motor unit recruitment during skeletal muscle contraction. | Answer: Also known as Henneman's Principle, it states that under load, motor units are recruited in order of increasing size. The smallest, fatigue-resistant, slow-oxidative (Type I) motor units are recruited first. As demand for force climbs, larger fast-fatigue-resistant (Type IIa) and fast-glycolytic (Type IIb) units are progressively added in. | Examiner Key Points: Type I first, Type II later, low to high excitation thresholds. | Clinical Importance: Allows highly refined and precise fine motor movements before generating heavy ballistic force."
+  ],
+  "mcqs": [
+    {
+      "question": "Which specific protein rotates to unmask the active binding sites on actin filaments during skeletal muscle excitation-contraction coupling?",
+      "options": [
+        "Troponin I",
+        "Troponin T",
+        "Tropomyosin",
+        "Myosin light chain"
+      ],
+      "answer": "Tropomyosin",
+      "explanation": "Calcium binds to Troponin C, causing a physical shift in Tropomyosin which moves away, exposing myosin-binding sites on the thin actin filaments."
+    },
+    {
+      "question": "What neurotransmitter is released exclusively at the neuromuscular junction of mammalian skeletal muscle?",
+      "options": [
+        "Norepinephrine",
+        "Acetylcholine",
+        "Dopamine",
+        "Glycine"
+      ],
+      "answer": "Acetylcholine",
+      "explanation": "Acetylcholine (ACh) is the sole neurotransmitter released by somatic motor neurons at the neuromuscular junctions of skeletal muscle."
+    },
+    {
+      "question": "Which physiological ion triggers the fusion and exocytosis of synaptic acetylcholine vesicles from the presynaptic nerve terminal?",
+      "options": [
+        "Sodium (Na+)",
+        "Potassium (K+)",
+        "Calcium (Ca2+)",
+        "Magnesium (Mg2+)"
+      ],
+      "answer": "Calcium (Ca2+)",
+      "explanation": "Action potentials depolarize the presynaptic terminal, opening voltage-gated Calcium channels. Calcium influx triggers vesicular fusion and ACh release."
+    },
+    {
+      "question": "Which of the following describes the electrical properties of the End-Plate Potential (EPP)?",
+      "options": [
+        "It is all-or-none with an absolute refractory period",
+        "It is non-propagated, graded, and localized",
+        "It is propagated across several meters of tissue without decay",
+        "It is mediated by voltage-gated sodium channels"
+      ],
+      "answer": "It is non-propagated, graded, and localized",
+      "explanation": "The EPP is a localized, graded, non-propagating potentials mediated by ligand-gated nicotinic ACh receptors. If it reaches threshold, it triggers a propagated action potential."
+    },
+    {
+      "question": "Which muscle fiber type is characterized by high myoglobin content, high oxidative enzymes, rich capillary supply, and high resistance to fatigue?",
+      "options": [
+        "Type I (Slow Oxidative)",
+        "Type IIa (Fast Oxidative-Glycolytic)",
+        "Type IIb (Fast Glycolytic)",
+        "Type III fibers"
+      ],
+      "answer": "Type I (Slow Oxidative)",
+      "explanation": "Type I fibers (slow-twitch) are highly oxidative, rich in lipids and myoglobin (red fibers), and have high endurance and resistance to fatigue."
+    },
+    {
+      "question": "What is the primary action of the enzyme Acetylcholinesterase at the neuromuscular junction?",
+      "options": [
+        "Synthesizing Acetylcholine from choline and acetate",
+        "Driving the reuptake of acetylcholine into vesicles",
+        "Rapidly degrading Acetylcholine into choline and acetate",
+        "Blocking post-synaptic nicotinic receptors"
+      ],
+      "answer": "Rapidly degrading Acetylcholine into choline and acetate",
+      "explanation": "Acetylcholinesterase hydrolyzes ACh into acetate and choline within the synaptic cleft, terminating depolarization and permitting muscle relaxation."
+    },
+    {
+      "question": "What skeletal muscle structure acts as the principal housing site and conduit for action potential propagation into deep physical fibers?",
+      "options": [
+        "Sarcoplasmic reticulum cisternae",
+        "Transverse tubules (T-tubules)",
+        "Sarcomere sliding tracks",
+        "Z-lines"
+      ],
+      "answer": "Transverse tubules (T-tubules)",
+      "explanation": "Transverse tubules (T-tubules) are deep invaginations of the sarcolemma that conduct electrical potentials into the deepest muscle fibers."
+    },
+    {
+      "question": "In the strength-duration curve of an excitable tissue, Chronaxie is defined based on what intensity amplitude threshold?",
+      "options": [
+        "Twice the rheobase intensity",
+        "Half the rheobase intensity",
+        "The minimum voltage of absolute muscle failure",
+        "Four times the rheobase intensity"
+      ],
+      "answer": "Twice the rheobase intensity",
+      "explanation": "Chronaxie is the minimum stimulus duration required to stimulate tissue with a current twice the intensity of the rheobase."
+    },
+    {
+      "question": "Which autoantibodies are diagnostic of Myasthenia Gravis?",
+      "options": [
+        "Antibodies against presynaptic Voltage-Gated Calcium Channels",
+        "Antibodies against postsynaptic nicotinic Acetylcholine Receptors",
+        "Antibodies against sarcoplasmic ryanodine gates",
+        "Antibodies against muscle dystrophin proteins"
+      ],
+      "answer": "Antibodies against postsynaptic nicotinic Acetylcholine Receptors",
+      "explanation": "Myasthenia Gravis is an autoimmune disorder featuring autoantibodies targeting postsynaptic nicotinic receptors, destroying and decreasing functional synapses."
+    },
+    {
+      "question": "What occurs to the muscle Chronaxie when a motor nerve is divided and degenerates completely?",
+      "options": [
+        "It decreases to near zero",
+        "It remains completely unchanged",
+        "It increases significantly",
+        "It undergoes random fluctuations"
+      ],
+      "answer": "It increases significantly",
+      "explanation": "Denervated muscle tissue has a significantly longer chronaxie (5-10 ms or more) because nerve fiber activation is lost, requiring high pulse durations."
+    },
+    {
+      "question": "Myosin filaments are structurally localized centered in which zone of the myofibril?",
+      "options": [
+        "The I-band",
+        "The H-zone",
+        "The Z-line",
+        "The M-line"
+      ],
+      "answer": "The H-zone",
+      "explanation": "The center of the darker A-band where ONLY thick myosin filaments are located (not thin actin) is designated the H-zone."
+    },
+    {
+      "question": "Which receptor acts as the voltage sensor in the skeletal muscle transverse tubules?",
+      "options": [
+        "Ryanodine receptor (RyR)",
+        "Dihydropyridine receptor (DHP)",
+        "Nicotinic acetylcholine receptor (nAChR)",
+        "Muscarinic receptor"
+      ],
+      "answer": "Dihydropyridine receptor (DHP)",
+      "explanation": "Dihydropyridine (DHP) receptors in the T-tubules serve as the primary voltage sensors, coupling electrical depolarization to ryanodine calcium gates."
+    },
+    {
+      "question": "What binds Calcium to trigger thin filament conformational adjustments in myocardium and skeletal muscle?",
+      "options": [
+        "Troponin I",
+        "Troponin C",
+        "Troponin T",
+        "Myosin Light Chain Kinase"
+      ],
+      "answer": "Troponin C",
+      "explanation": "Troponin C has high binding affinity for ionic calcium, shifting tropomyosin and initiating cross-bridge cycling."
+    },
+    {
+      "question": "Which toxin blockades presynaptic ACh vesicular release, leading to flaccid paralysis?",
+      "options": [
+        "Tetanus toxin",
+        "Botulinum toxin",
+        "Black widow spider venom",
+        "Staph enterotoxin"
+      ],
+      "answer": "Botulinum toxin",
+      "explanation": "Botulinum toxin from Clostridium botulinum cleaves SNAP/SNARE fusion proteins, preventing presynaptic ACh release and causing raw flaccid paralysis."
+    },
+    {
+      "question": "A motor unit and muscle recruitment pattern characterized by firing slowly fatigue-resistant lines first conforms to what physical principle?",
+      "options": [
+        "Henneman's Size Principle",
+        "Starling's physical law",
+        "Nernst active equilibrium",
+        "Webber's ratio law"
+      ],
+      "answer": "Henneman's Size Principle",
+      "explanation": "Henneman's Size Principle states that motor units are recruited in size sequence (smallest slow units first) to ensure smooth graded force build-up."
+    },
+    {
+      "question": "Which bands or zones within a sarcomere shorten during active muscle contraction under sliding filament pathways?",
+      "options": [
+        "A-band and I-band",
+        "I-band and H-zone",
+        "A-band and M-line",
+        "Z-line remains static"
+      ],
+      "answer": "I-band and H-zone",
+      "explanation": "During sarcomere shortening, actin slides over thick filaments, shrinking the H-zone and I-band while the dark A-band keeps its original width."
+    },
+    {
+      "question": "What is the primary role of the SERCA pump in skeletal muscle mechanics?",
+      "options": [
+        "Inward active sodium transport",
+        "ATP-driven active calcium reuptake into sarcoplasmic reticulum",
+        "Mitochondrial proton extrusion",
+        "Myosin arm ATPase phosphorylation"
+      ],
+      "answer": "ATP-driven active calcium reuptake into sarcoplasmic reticulum",
+      "explanation": "SERCA actively pumps free calcium back into the sarcoplasmic reticulum, lowering cytosolic calcium levels and terminating the contraction."
+    },
+    {
+      "question": "Which of the following substances behaves as a competitive antagonist blockader of postsynaptic nicotinic ACh receptors at the end-plate?",
+      "options": [
+        "Succinylcholine",
+        "Tubocurarine (Curare)",
+        "Muscarine",
+        "Physostigmine"
+      ],
+      "answer": "Tubocurarine (Curare)",
+      "explanation": "Tubocurarine is a classic competitive (non-depolarizing) NMJ blocker that prevents ACh binding without activating the receptor, causing muscle paralysis."
+    },
+    {
+      "question": "What is the clinical hallmark of Lambert-Eaton Myasthenic Syndrome?",
+      "options": [
+        "Post-contraction muscle weakness that worsens dramatically",
+        "Improvement of muscular strength with repetitive muscle contractions",
+        "Selective sensory loss on extremities",
+        "Symmetric muscle atrophy in calf muscles"
+      ],
+      "answer": "Improvement of muscular strength with repetitive muscle contractions",
+      "explanation": "Lambert-Eaton involves autoantibodies against presynaptic voltage-gated Ca2+ channels. Repeated contractions dump calcium, overcoming deficits and strengthening the muscle."
+    },
+    {
+      "question": "The continuous twitching of muscle fibers seen in lower motor neuron (LMN) disease is known as:",
+      "options": [
+        "Spasticity",
+        "Cramp",
+        "Fasciculation",
+        "Tetanization"
+      ],
+      "answer": "Fasciculation",
+      "explanation": "Fasciculations are tiny, involuntary, visible contractions of single motor units, highly characteristic of abnormal cell firing in LMN disease."
+    },
+    {
+      "question": "What energy pathway regenerates ATP most rapidly at the initiation of short explosive high-intensity exercise bursts?",
+      "options": [
+        "Anaerobic glycolysis",
+        "Oxidative phosphorylation",
+        "Phosphocreatine system",
+        "Beta-oxidation of free fatty acids"
+      ],
+      "answer": "Phosphocreatine system",
+      "explanation": "The phosphocreatine (creatine phosphate) system rapidly transfers a phosphate group to ADP, generating ATP within seconds without oxygen."
+    },
+    {
+      "question": "Which of the following diseases is an X-linked neuromuscular condition involving an absence of the structural protein anchoring myofibrillar membranes to the cytoskeleton?",
+      "options": [
+        "Myasthenia Gravis",
+        "Duchenne Muscular Dystrophy",
+        "Lambert-Eaton Syndrome",
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "answer": "Duchenne Muscular Dystrophy",
+      "explanation": "Duchenne Muscular Dystrophy is an X-linked recessive genetic disorder characterized by a complete absence of the sarcolemmal structural stabilizer dystrophin."
+    },
+    {
+      "question": "What blocks the active myosin-binding sites of thin actin filaments in the relaxed muscle state?",
+      "options": [
+        "Troponin C",
+        "Tropomyosin",
+        "Myosin light chain kines",
+        "Actin molecules"
+      ],
+      "answer": "Tropomyosin",
+      "explanation": "At rest, tropomyosin physically covers the myosin-binding sites on actin, preventing cross-bridge formation until calcium is present."
+    },
+    {
+      "question": "The fusion of individual muscle twitches in response to rapid repetitive neural stimulation is known as:",
+      "options": [
+        "Treppe",
+        "Muscle tone",
+        "Tetanized Contraction",
+        "Rigor Mortis"
+      ],
+      "answer": "Tetanized Contraction",
+      "explanation": "When motor nerve stimuli are delivered at a high frequency, the muscle has no time to relax between twitches, resulting in a sustained maximum contraction (tetanus)."
+    },
+    {
+      "question": "What chemical is synthesized in skeletal muscles during anaerobic glycolysis and can lower pH?",
+      "options": [
+        "Uric Acid",
+        "Lactic Acid",
+        "Pyruvic enzyme",
+        "Acetoacetic agent"
+      ],
+      "answer": "Lactic Acid",
+      "explanation": "Under inadequate oxygen supply, terminal pyruvate accepts electrons to form Lactic Acid, releasing hydrogen ions that lower tissue pH during anaerobic work."
+    },
+    {
+      "question": "Which nerve stimulates the deltoid and teres minor muscles during clinical upper limb assessments?",
+      "options": [
+        "Musculocutaneous Nerve",
+        "Axillary Nerve",
+        "Radial Nerve",
+        "Ulnar Nerve"
+      ],
+      "answer": "Axillary Nerve",
+      "explanation": "The axillary nerve (originating from C5-C6) innervates the deltoid and teres minor. Damage causes shoulder abduction deficits and sensory loss over the lateral arm."
+    },
+    {
+      "question": "Which of the following best defines a motor unit?",
+      "options": [
+        "All motor neurons in one spinal cord segments",
+        "A single motor neuron and all the muscle fibers it innervates",
+        "One muscle fiber and its synaptic contact",
+        "An entire muscle belly"
+      ],
+      "answer": "A single motor neuron and all the muscle fibers it innervates",
+      "explanation": "A motor unit is defined as a single alpha motor neuron and all the skeletal muscle fibers it innervates."
+    },
+    {
+      "question": "Which chemical is the primary physiological inhibitor of Acetylcholinesterase?",
+      "options": [
+        "Atropine",
+        "Neostigmine",
+        "Curare",
+        "Nicotine"
+      ],
+      "answer": "Neostigmine",
+      "explanation": "Neostigmine reversibly inhibits acetylcholinesterase, prolonging ACh action at the NMJ, which is clinically useful for treating Myasthenia Gravis."
+    },
+    {
+      "question": "What structural feature binds skeletal muscle myofibrillar bodies together at the end borders of sarcomeres?",
+      "options": [
+        "The H-zone",
+        "The Z-line",
+        "The I-band",
+        "The A-band"
+      ],
+      "answer": "The Z-line",
+      "explanation": "Z-lines (or Z-discs) define the boundaries of each individual sarcomere, anchoring thin actin filaments via alpha-actinin."
+    },
+    {
+      "question": "What keeps myosin thick filaments suspended and biochemically aligned in the center of the sarcomere?",
+      "options": [
+        "Actin tracks",
+        "Titin elastomers",
+        "Dystrophin shields",
+        "Nebulin filaments"
+      ],
+      "answer": "Titin elastomers",
+      "explanation": "Titin is a massive elastic structural protein that centers thick myosin filaments in the sarcomere and generates passive tension when muscles stretch."
+    }
+  ],
+  "reference": [
+    "Guyton and Hall Textbook of Medical Physiology, 14th Edition",
+    "Sembulingam - Essentials of Medical Physiology, 8th Edition",
+    "WBUHS BPT Syllabus of Neuromuscular Physiology Guidelines"
+  ]
+}

@@ -1,0 +1,495 @@
+[
+  {
+    "year": "BPT 1st Year",
+    "subject": "Anatomy",
+    "module": "General Anatomy & Histology",
+    "topic": "Osteology: Structure, function, growth, fracture & repair of bones",
+    "priority": "High",
+    "referenceBook": "B.D. Chaurasia's Human Anatomy Vol 1",
+    "chapter": "Chapter 2: General Osteology",
+    "learningDepth": "Basic",
+    "subtopics": [
+      "Bone classification (long, short, flat, irregular, sesamoid)",
+      "Gross and microscopic structure of compact and spongy bone",
+      "Epiphyseal plates, bone growth, and ossification models",
+      "Vascular supply of long bones and cartilage nutrition",
+      "Metabolic bone repair phases after traumatic fracture"
+    ]
+  },
+  {
+    "year": "BPT 1st Year",
+    "subject": "Anatomy",
+    "module": "Musculoskeletal System",
+    "topic": "Muscles of the Upper Limb & Shoulder Girdle",
+    "priority": "High",
+    "referenceBook": "B.D. Chaurasia's Human Anatomy Vol 1",
+    "chapter": "Chapter 3: The Shoulder Region",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "Rotator cuff muscles (SITS) origin, insertion, and action",
+      "Deltoid and pectoral girdle musculature biomechanics",
+      "Brachial plexus formation, cords, and terminal branches",
+      "Axilla boundaries and clinical neurovascular content",
+      "Scapulohumeral rhythm dynamic muscle synergetic couples"
+    ]
+  },
+  {
+    "year": "BPT 1st Year",
+    "subject": "Anatomy",
+    "module": "Neuro-anatomy",
+    "topic": "Spinal Cord Segments & Gross Tract Configurations",
+    "priority": "High",
+    "referenceBook": "Inderbir Singh's Textbook of Human Neuroanatomy",
+    "chapter": "Chapter 5: The Spinal Cord",
+    "learningDepth": "Advanced BPT",
+    "subtopics": [
+      "Internal structure of spinal cord grey and white matter",
+      "Ascending sensory tracts (dorsal column, spinothalamic)",
+      "Descending motor tracts (corticospinal path)",
+      "Lower motor neuron vs upper motor neuron anatomical signs",
+      "Spinal reflex arcs and segmental multisegmental loops"
+    ]
+  },
+  {
+    "year": "BPT 1st Year",
+    "subject": "Physiology",
+    "module": "General Physiology",
+    "topic": "Cell Structure, Membrane Transport, and Nerve Impulses",
+    "priority": "High",
+    "referenceBook": "Sembulingam's Essentials of Medical Physiology",
+    "chapter": "Section 1: General Physiology",
+    "learningDepth": "Basic",
+    "subtopics": [
+      "Cell membrane structures and phospholipid bilayer properties",
+      "Active, passive, and facilitated membrane transport mechanisms",
+      "Resting membrane potential and selective ionic permeabilities",
+      "Action potential propagation and depolarization pathways",
+      "Synaptic transmission and chemical neurotransmitter release"
+    ]
+  },
+  {
+    "year": "BPT 1st Year",
+    "subject": "Physiology",
+    "module": "Nerve-Muscle Physiology",
+    "topic": "Mechanism of Skeletal Muscle Contraction",
+    "priority": "High",
+    "referenceBook": "Sembulingam's Essentials of Medical Physiology",
+    "chapter": "Section 2: Nerve Muscle Physiology",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "Neuromuscular junction anatomy and acetylcholine cascade",
+      "Sliding filament theory and cross-bridge cycling",
+      "Excitation-contraction coupling and calcium ion storage",
+      "Isotonic, isometric, and isokinetic contraction profiles",
+      "Muscle fatigue causes, lactic acid, and recovery metabolism"
+    ]
+  },
+  {
+    "year": "BPT 1st Year",
+    "subject": "Physiology",
+    "module": "Cardiovascular System",
+    "topic": "Cardiac Cycle and Electro-Physiological Activity",
+    "priority": "High",
+    "referenceBook": "Arthur Guyton's Textbook of Medical Physiology",
+    "chapter": "Section 5: Cardiovascular System",
+    "learningDepth": "Advanced BPT",
+    "subtopics": [
+      "Cardiac conducting system, SA node, and pacemaking cells",
+      "Mechanical and pressure phases of the cardiac cycle",
+      "Principles of electrocardiogram (ECG) lead systems and waves",
+      "Regulation of heart rate, cardiac output, and stroke volume",
+      "Heamodynamics, blood pressure control, and baroreceptors"
+    ]
+  },
+  {
+    "year": "BPT 1st Year",
+    "subject": "Biochemistry",
+    "module": "Cell & Biomolecules",
+    "topic": "Structure and Classification of Carbohydrates & Proteins",
+    "priority": "Medium",
+    "referenceBook": "Vasudevan's Textbook of Biochemistry for Medical Students",
+    "chapter": "Chapter 4: Carbohydrate Chemistry",
+    "learningDepth": "Basic",
+    "subtopics": [
+      "Mono, di, and polysaccharide classification and isomers",
+      "Proteins: Amino acid building blocks and structural folding",
+      "Mucopolysaccharides (GAGs) structure and physiological roles",
+      "Biophysical concepts: pH regulation, buffers, and osmosis",
+      "Connective tissue proteins: Collagen, elastin, and proteoglycans"
+    ]
+  },
+  {
+    "year": "BPT-1st Year",
+    "subject": "Exercise Therapy I",
+    "module": "Introduction to Movements",
+    "topic": "Fundamental Starting Positions and Derived Positions",
+    "priorityText": "High",
+    "recommendedReferenceBook": "Gardiner's Principles of Exercise Therapy",
+    "chapter": "Chapter 4: Starting Positions",
+    "learningDepth": "Basic",
+    "subtopics": [
+      "The five fundamental starting positions: Standing, kneeling, sitting, lying, hanging",
+      "Postural stability, base of support, and gravity modifications",
+      "Derived positions from standing, sitting, and lying",
+      "Muscle work, joint positions, and static balance challenges",
+      "Clinical application of starting positions in therapeutic setups"
+    ]
+  },
+  {
+    "year": "BPT-1st Year",
+    "subject": "Exercise Therapy I",
+    "module": "Manual Evaluation",
+    "topic": "Manual Muscle Testing (MMT) and Goniometry",
+    "priority": "High",
+    "referenceBook": "Daniels and Worthingham's Muscle Testing",
+    "chapter": "Chapter 1: Principles of Manual Muscle Testing",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "Grading criteria for MMT (Grades 0 to 5) per MRC scale",
+      "Subjective vs objective evaluation and standardization",
+      "Goniometry: Axes, planes, fulcrums, and alignment markers",
+      "Active and passive range of motion (ROM) measurement",
+      "End-feel classification: Soft, firm, hard, and pathological"
+    ]
+  },
+  {
+    "year": "BPT-1st Year",
+    "subject": "Electrotherapy I",
+    "module": "Low Frequency Currents",
+    "topic": "Faradic and Galvanic Stimulating Currents",
+    "priority": "High",
+    "referenceBook": "Low & Reed's Electrotherapy Explained",
+    "chapter": "Section B: Low Frequency Currents",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "Waveforms, cycle durations, pulse widths, and stimulation types",
+      "Physiological and therapeutic effects of neuromuscular stimulation",
+      "Electrode size, configuration, and placement over target motor points",
+      "Indication and contradeposition of clinical stimulation therapy",
+      "Faradic foot bath, hand bath, and faradism under pressure"
+    ]
+  },
+  {
+    "year": "BPT 2nd Year",
+    "subject": "Pathology, Microbiology & Pharmacology",
+    "module": "Pathology",
+    "topic": "Inflammation, Tissue Injury, and Repair Processes",
+    "priority": "High",
+    "referenceBook": "Harsh Mohan's Textbook of Pathology",
+    "chapter": "Chapter 4: Inflammation and Healing",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "Acute inflammation: Vascular changes and cellular events",
+      "Chronic inflammation: Tissue destruction and macrophages",
+      "Primary versus secondary tissue healing and scar formation",
+      "Pathology of muscle, bone, tendon, and ligament repair",
+      "Autogenous bone grafting and structural arthrodesis"
+    ]
+  },
+  {
+    "year": "BPT 2nd Year",
+    "subject": "Pathology, Microbiology & Pharmacology",
+    "module": "Pharmacology",
+    "topic": "Drugs Acting on muscles and Muscle Relaxants",
+    "priority": "Medium",
+    "referenceBook": "K.D. Tripathi's Essentials of Medical Pharmacology",
+    "chapter": "Chapter 15: Skeletal Muscle Relaxants",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "Central vs peripheral skeletal muscle relaxant mechanisms",
+      "Neuromuscular blockers: Depolarizing and non-depolarizing agents",
+      "Clinical pharmacology of baclofen, tizanidine, and diazepam",
+      "Relevance of pharmacology to concurrent physical therapy sessions",
+      "Adverse effects, toxicity profiles, and drug allergy basics"
+    ]
+  },
+  {
+    "year": "BPT 2nd Year",
+    "subject": "Biomechanics & Kinesiology",
+    "module": "Kinesiology of Joints",
+    "topic": "Kinematics, Osteokinematics, and Arthrokinematics",
+    "priority": "High",
+    "referenceBook": "Norkin & Levangie's Joint Structure and Function",
+    "chapter": "Chapter 1: Joint Structure and Function",
+    "learningDepth": "Advanced BPT",
+    "subtopics": [
+      "Arthrokinematic motions: Roll, slide, spin, and glide structures",
+      "The Convex-Concave Rule of peripheral joint mobilization",
+      "Close-packed vs open-packed anatomical joint positions",
+      "Kinematic chains: Closed vs open kinetic chain exercise models",
+      "Moment arm, torque, levers, and mechanical advantage profiles"
+    ]
+  },
+  {
+    "year": "BPT 2nd Year",
+    "subject": "Biomechanics & Kinesiology",
+    "module": "Human Gait and Posture",
+    "topic": "Normal Gait Cycle and Spatio-Temporal Parameters",
+    "priority": "High",
+    "referenceBook": "Donald A. Neumann's Kinesiology of the Musculoskeletal System",
+    "chapter": "Chapter 15: Kinesiology of Walking",
+    "learningDepth": "Advanced BPT",
+    "subtopics": [
+      "Phases of gait: Stance phase vs swing phase transitions",
+      "Spatio-temporal parameters: Step length, stride, cadence, velocity",
+      "Kinetics and kinematics of trunk, hip, knee, and ankle",
+      "Ground reaction forces, mechanical energy of walking, and efficiency",
+      "Patho-biomechanics of abnormal gait and compensation habits"
+    ]
+  },
+  {
+    "year": "BPT 2nd Year",
+    "subject": "Exercise Therapy II",
+    "module": "Mobilization Techniques",
+    "topic": "Peripheral Joint Mobilization: Maitland & Kaltenborn",
+    "priority": "High",
+    "referenceBook": "Maitland's Peripheral Manipulation",
+    "chapter": "Chapter 3: Mobilization and Manipulation",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "Maitland mobilization grades (I to V) and application guidelines",
+      "Kaltenborn traction, glide, and translation biomechanics",
+      "Assessment of accessory motion, articular play, and joint glide",
+      "Indications: Pain reduction vs structural ROM restriction relief",
+      "Contraindications, safety precautions, and patient protection"
+    ]
+  },
+  {
+    "year": "BPT 2nd Year",
+    "subject": "Exercise Therapy II",
+    "module": "Special Techniques",
+    "topic": "Stretching for Impaired Mobility and Flexibility",
+    "priority": "High",
+    "referenceBook": "Kisner & Colby's Therapeutic Exercise",
+    "chapter": "Chapter 4: Stretching for Impaired Mobility",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "Contracture definition: Myostatic, pseudomyostatic, arthrogenic types",
+      "Stretching physiology: Golgi tendon organs and muscle spindle loops",
+      "Manual and mechanical passive stretching techniques",
+      "Active stretching: Proprioceptive Neuromuscular Facilitation (PNF) patterns",
+      "Clinical guidelines, precautions, and tissue injury avoidance"
+    ]
+  },
+  {
+    "year": "BPT 2nd Year",
+    "subject": "Electrotherapy-II",
+    "module": "High Frequency Currents",
+    "topic": "Short Wave Diathermy (SWD): Capacitive and Inductive Methods",
+    "priority": "High",
+    "referenceBook": "Low & Reed's Electrotherapy Explained",
+    "chapter": "Section B: High Frequency Currents",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "Physical principles: Electromagnetic fields, dipole rotation, and ions",
+      "Capacitive method: Electrode spacing, size, and thermal distributions",
+      "Inductive method: Cable and drum electrodes, magnetic fields",
+      "Physiological response: Tissue heating, metabolism, and circulation",
+      "Safety precautions, electrical screening, and clinical contraindications"
+    ]
+  },
+  {
+    "year": "BPT 3rd Year",
+    "subject": "Orthopaedics",
+    "module": "Fractures & Dislocations",
+    "topic": "General Principles, signs, and management of Fractures",
+    "priority": "High",
+    "referenceBook": "Hoppenfeld's Treatment and Rehabilitation of Fractures",
+    "chapter": "Chapter 1: General Principles of Fractures",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "Closed and open fracture classifications, displacement patterns",
+      "Clinical features: Local deformity, crepitus, neurovascular compromise",
+      "Fracture healing timelines and radiographic callus indications",
+      "Management: Reduction, immobilization, internal and external fixation",
+      "Complications: Delayed union, non-union, avascular necrosis, Volkmann's"
+    ]
+  },
+  {
+    "year": "BPT 3rd Year",
+    "subject": "Orthopaedics",
+    "module": "Spine & Extremity Deformities",
+    "topic": "Scoliosis, Kyphosis, and Pelvic Alignment Anomalies",
+    "priority": "Medium",
+    "referenceBook": "Maheshwari's Essential Orthopaedics",
+    "chapter": "Chapter 18: Spinal Deformities",
+    "learningDepth": "Advanced BPT",
+    "subtopics": [
+      "Etiology and types: Structural vs functional curves",
+      "Clinical assessment: Adams forward bend test, Cobb's angle",
+      "Patho-physiology of cardiopulmonary and trunk muscle systems",
+      "Conservative management: Bracing protocols and posture education",
+      "Surgical indications, spinal fusion, and rehabilitation milestones"
+    ]
+  },
+  {
+    "year": "BPT 3rd Year",
+    "subject": "General Medicine",
+    "module": "Cardiorespiratory Medicine",
+    "topic": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "priority": "High",
+    "referenceBook": "Davidson's Principles and Practice of Medicine",
+    "chapter": "Chapter 19: Diseases of Respiratory System",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "Pathophysiology: Chronic bronchitis, airway remodeling, and emphysema",
+      "Etiology, clinical features, cough, sputum, and exertional dyspnea",
+      "Pulmonary function tests (PFTs): FEV1, FVC, and obstructive indicators",
+      "Systemic effects: Cor pulmonale, oxygen starvation, muscle wasting",
+      "Medical pharmacology: Bronchodilators, corticosteroids, oxygen supply"
+    ]
+  },
+  {
+    "year": "BPT 3rd Year",
+    "subject": "General Surgery",
+    "module": "Abdominal Surgery",
+    "topic": "Pre and Post Operative Complications of Abdominal Incisions",
+    "priority": "Medium",
+    "referenceBook": "Bailey & Love's Short Practice of Surgery",
+    "chapter": "Chapter 42: Postoperative Care",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "Incision routes: Midline, paramedian, and subcostal laparotomy details",
+      "Postoperative pain, splinting, and diaphragmatic dysfunction",
+      "Pulmonary complications: Atelectasis, retention, hypostatic pneumonia",
+      "Incisional hernia risk factors, wound dehiscence, and drainage",
+      "General postoperative surgical checklist and progressive mobilization"
+    ]
+  },
+  {
+    "year": "BPT 3rd Year",
+    "subject": "Neurology & Neurosurgery",
+    "module": "Cerebrovascular Disease",
+    "topic": "Stroke Pathophysiology and Clinical Hemiplegia Syndrome",
+    "priority": "High",
+    "referenceBook": "Susan O'Sullivan's Physical Rehabilitation",
+    "chapter": "Chapter 18: Stroke",
+    "learningDepth": "Advanced BPT",
+    "subtopics": [
+      "Ischemic vs hemorrhagic stroke pathophysiology and cerebral vascular supply",
+      "Middle Cerebral Artery (MCA) vs Anterior Cerebral Artery (ACA) syndrome markers",
+      "Hypertonicity, spasticity, synergic recovery stages (per Brunnstrom)",
+      "Sensorimotor, cognitive, language (aphasia), and functional deficits",
+      "Neuroplasticity basis of recovery and progressive motor relearning"
+    ]
+  },
+  {
+    "year": "BPT 3rd Year",
+    "subject": "Physical/Functional Assessment & Management",
+    "module": "Assessment Principles",
+    "topic": "Regional Musculoskeletal Assessment: Shoulder and Spine",
+    "priority": "High",
+    "referenceBook": "David J. Magee's Orthopedic Physical Assessment",
+    "chapter": "Chapter 5: Shoulder",
+    "learningDepth": "Advanced BPT",
+    "subtopics": [
+      "History taking and subjective mapping of shoulder girdle pain",
+      "Observation: Alignment, winging, deformities, and subluxation",
+      "Palpation: Bony landmarks, joint capsules, tendon triggers",
+      "Active, passive, and resisted isometric mechanical assessment",
+      "High-yield special tests: Neer, Hawkin-Kennedy, Speed's, Empty Can"
+    ]
+  },
+  {
+    "year": "BPT 3rd Year",
+    "subject": "Research Methodology & Biostatistics",
+    "module": "Research Methodology",
+    "topic": "Clinical Study Designs and Reliability/Validity Analysis",
+    "priority": "Medium",
+    "referenceBook": "Hicks's Research Methods for Clinical Therapists",
+    "chapter": "Chapter 6: Experimental Designs",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "Randomized Controlled Trial (RCT), cohort, and case-control structures",
+      "Formulating research questions, objectives, and test hypotheses",
+      "Measurement principles: Inter-rater vs intra-rater reliability",
+      "Construct, content, and criterion validity of clinical assessment tools",
+      "Sampling methods, randomization, and reducing examiner bias"
+    ]
+  },
+  {
+    "year": "BPT 4th Year",
+    "subject": "Physiotherapy in Orthopaedics & Sports",
+    "module": "Surgical Rehab Protocols",
+    "topic": "Anterior Cruciate Ligament (ACL) Reconstruction Rehab Protocol",
+    "priority": "High",
+    "referenceBook": "S. Brent Brotzman's Clinical Orthopaedic Rehabilitation",
+    "chapter": "Chapter 4: Ligamentous Injuries of the Knee",
+    "learningDepth": "Advanced BPT",
+    "subtopics": [
+      "Incorporate graft healing phases (patellar bone-tendon vs hamstring autograft)",
+      "Phase-wise progressive weight bearing and ROM restoration guidelines",
+      "Closed kinetic chain vs open kinetic chain exercise restrictions (0°-45° ranges)",
+      "Neuromuscular reconditioning, co-contractions, and vastus medialis reloading",
+      "Criteria-based return-to-sport testing (Y-balance, hop test indexes)"
+    ]
+  },
+  {
+    "year": "BPT 4th Year",
+    "subject": "P.T. in Surgery Including Gynecology and Obstetrics",
+    "module": "Obstetrics & Pelvic Floor",
+    "topic": "Pelvic Floor Dysfunction and Urinary Incontinence Management",
+    "priority": "High",
+    "referenceBook": "Margaret Polden's Physiotherapy in Obstetrics & Gynaecology",
+    "chapter": "Chapter 8: Pelvic Floor",
+    "learningDepth": "Advanced BPT",
+    "subtopics": [
+      "Pelvic floor anatomy, pelvic diaphragm, and urethral sphincters",
+      "Stress, urge, and mixed urinary incontinence pathophysiology",
+      "assessment of muscle strength (per perineometer, digital testing)",
+      "Exercise: Kegel's protocols, progression, and neuromuscular feedback",
+      "Biofeedback, electrical stimulation parameters, and patient education"
+    ]
+  },
+  {
+    "year": "BPT 4th Year",
+    "subject": "Physiotherapy in Medical Conditions including Cardio-Pulmonary and Pediatrics",
+    "module": "Cardiopulmonary Rehabilitation",
+    "topic": "Pulmonary Rehab and Secretion Clearance in COPD",
+    "priority": "High",
+    "referenceBook": "Susan O'Sullivan's Physical Rehabilitation",
+    "chapter": "Chapter 24: Cardiopulmonary Rehabilitation",
+    "learningDepth": "Advanced BPT",
+    "subtopics": [
+      "Postural drainage: Patient positioning and gravity assistance region-wise",
+      "Manual clearance techniques: Percussion, vibration, and rib vibration/springing",
+      "Active Cycle of Breathing Techniques (ACBT) and Autogenic Drainage",
+      "Expiratory aids: PEP valves, flutter devices, and high-frequency vests",
+      "Aero reconditioning, dyspnea management, and breathing control"
+    ]
+  },
+  {
+    "year": "BPT 4th Year",
+    "subject": "PT in Neurology & Neuro surgery",
+    "module": "Neuro-rehabilitation",
+    "topic": "Stroke Motor Recovery and Task-Oriented Training",
+    "priority": "High",
+    "referenceBook": "Susan O'Sullivan's Physical Rehabilitation",
+    "chapter": "Chapter 18: Stroke Rehabilitation",
+    "learningDepth": "Advanced BPT",
+    "subtopics": [
+      "Upper extremity functional practice setup: High-repetition reach and grasp",
+      "Lower extremity re-education: Symmetric weight-shifting, foot clearance milestones",
+      "Constraint-Induced Movement Therapy (CIMT) protocol constraints",
+      "Task-specific gait training: body weight support systems, surface modifications",
+      "Promote neuroplastic changes via progressive difficulty and feedback loops"
+    ]
+  },
+  {
+    "year": "BPT 4th Year",
+    "subject": "Physiotherapy Ethics, Administration & Principles of Rehabilitation",
+    "module": "Ethics & Administration",
+    "topic": "Major Ethical Principles and Rules of Professional Conduct",
+    "priority": "Medium",
+    "referenceBook": "S. Sunder's Textbook of Rehabilitation",
+    "chapter": "Chapter 12: Professional Standards & Ethics",
+    "learningDepth": "Intermediate",
+    "subtopics": [
+      "The four main principles of bioethics: Autonomy, beneficence, non-maleficence, justice",
+      "Informed consent procedure, record keeping, and patient data security",
+      "Code of ethics of national physiotherapy councils (WBUHS standards)",
+      "Professional liability, malpractice prevention, and malpractice insurance",
+      "Inter-professional relationships, referrals, and professional boundaries"
+    ]
+  }
+]

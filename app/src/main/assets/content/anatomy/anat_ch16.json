@@ -1,0 +1,69 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch16",
+  "chapterName": "Bones and Joints of the Thorax",
+  "definition": [
+    "Chapter Overview: This chapter reviews the bony elements making up the thorax and their articulations, highlighting rib classification and thoracic spine mobility.",
+    "Bones of Thorax: Comprise the 12 thoracic vertebrae, the 12 pairs of ribs, and the sternum.",
+    "Rib Classification: Classified as True ribs (1st to 7th, attach directly to the sternum), False ribs (8th to 10th, attach to the cartilage above), and Floating ribs (11th and 12th, end in the abdominal musculature)."
+  ],
+  "principle": [
+    "Thoracic Vertebrae: Characterized by costal facets on the bodies and transverse processes for articulation with heads and tubercles of ribs.",
+    "Rib Anatomy: Each typical rib has a head (articulating with adjacent vertebrae), a neck, a tubercle (articulating with the transverse process), and a shaft with a costal groove on its internal inferior border.",
+    "Joints of Thorax: Includes costovertebral joints (synovial, slide/rotate during breathing), costochondral joints (cartilaginous, no movement), and sternocostal joints."
+  ],
+  "equipment": [
+    "Disarticulated ribs model",
+    "Goniometer for back extension checks",
+    "Thoracic spine model with cartilage"
+  ],
+  "parameters": {
+    "TrueRibsCount": "7 pairs",
+    "FalseRibsCount": "3 pairs",
+    "FloatingRibsCount": "2 pairs"
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Costochondritis: Inflammation of the costal cartilage causing localized anterior chest wall pain, often mimicking angina/cardiac conditions.",
+    "Rib Fractures: Most commonly occur at the angle of the rib, which is its weakest point."
+  ],
+  "vivaQuestions": [
+    "Question: Differentiate between true, false, and floating ribs with examples of each. | Answer: True ribs (1-7) attach directly to sternum via costal cartilages. False ribs (8-10) attach to the cartilage of the rib above. Floating ribs (11-12) have no sternal attachment. | Examiner Key Points: Attachment criteria, specific pairs. | Clinical Importance: Floating ribs are less stable and vulnerable to trauma causing visceral injuries.",
+    "Question: What nerve runs along the costal groove, and what is the clinical implication of its location? | Answer: The intercostal nerve (together with the intercostal vein and artery in a VAN bundle) runs in the costal groove along the lower internal border of each rib. | Examiner Key Points: Intercostal nerve, VAN bundle, costal groove placement. | Clinical Importance: Needle insertions (e.g. thoracocentesis) must be performed over the superior border of a rib to avoid damaging these structures."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following is considered a typical rib?",
+      "options": [
+        "1st rib",
+        "2nd rib",
+        "5th rib",
+        "12th rib"
+      ],
+      "answer": "5th rib"
+    },
+    {
+      "question": "What is the weakest anatomical point of a rib?",
+      "options": [
+        "The head",
+        "The neck",
+        "The tubercle",
+        "The angle of the shaft"
+      ],
+      "answer": "The angle of the shaft"
+    }
+  ]
+}

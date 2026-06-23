@@ -1,0 +1,141 @@
+[
+  {
+    "measure_id": "om_001",
+    "name": "Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC)",
+    "used_for": [
+      "Osteoarthritis",
+      "Knee Pain",
+      "Hip Pain",
+      "Lower Limb Joint Disorders"
+    ],
+    "purpose": "Assess pain, stiffness, and physical function in patients with hip and/or knee osteoarthritis.",
+    "score_range": "0 to 96 (with subscales: Pain 0-20, Stiffness 0-8, Physical Function 0-68).",
+    "interpretation": "Higher scores indicate worse pain, stiffness, and functional limitations.",
+    "administration_time": "5-10 minutes"
+  },
+  {
+    "measure_id": "om_002",
+    "name": "Disabilities of the Arm, Shoulder, and Hand (DASH)",
+    "used_for": [
+      "Adhesive Capsulitis (Frozen Shoulder)",
+      "Rotator Cuff Syndrome",
+      "Carpal Tunnel Syndrome",
+      "Lateral Epicondylitis",
+      "Upper Extremity Injuries"
+    ],
+    "purpose": "Measure physical function and symptoms in patients with any musculoskeletal disorder of the upper limb.",
+    "score_range": "0 to 100",
+    "interpretation": "A score of 0 indicates no disability, while a score of 100 indicates the most severe disability or full functional limitation.",
+    "administration_time": "10-15 minutes"
+  },
+  {
+    "measure_id": "om_003",
+    "name": "Oswestry Disability Index (ODI)",
+    "used_for": [
+      "Lumbar Disc Herniation",
+      "Chronic Low Back Pain",
+      "Sciatica",
+      "Spinal Stenosis"
+    ],
+    "purpose": "Assess the level of functional disability and evaluate impact of low back pain on activities of daily living.",
+    "score_range": "0% to 100% (or 0 to 50 raw points, converted to percentage)",
+    "interpretation": "0-20%: Minimal disability, 21-40%: Moderate disability, 41-60%: Severe disability, 61-80%: Crippling, 81-100%: Bed-bound or exaggerating symptoms.",
+    "administration_time": "5 minutes"
+  },
+  {
+    "measure_id": "om_004",
+    "name": "Berg Balance Scale (BBS)",
+    "used_for": [
+      "Stroke (MCA Infarct)",
+      "Parkinson's Disease",
+      "Traumatic Brain Injury",
+      "Fall Risk (Frail Elderly)",
+      "Multiple Sclerosis",
+      "Cerebellar Ataxia"
+    ],
+    "purpose": "Assess static and dynamic balance, and evaluate fall risk in older adults or neurological populations.",
+    "score_range": "0 to 56",
+    "interpretation": "41-56: Low fall risk, 21-40: Medium fall risk (requires assistive device), 0-20: High fall risk (wheelchair bound or high hazard).",
+    "administration_time": "15-20 minutes"
+  },
+  {
+    "measure_id": "om_005",
+    "name": "Functional Independence Measure (FIM)",
+    "used_for": [
+      "Stroke",
+      "Spinal Cord Injury",
+      "Traumatic Brain Injury",
+      "Geriatric Rehabilitation",
+      "Inpatient Rehabilitation"
+    ],
+    "purpose": "Measure the level of safety, independence, and assistance required by an individual to perform activities of daily living (ADLs).",
+    "score_range": "18 to 126",
+    "interpretation": "Higher scores indicate greater independent functioning. A score of 18 indicates total assistance (complete dependence) across all items, while 126 indicates complete independence.",
+    "administration_time": "20-30 minutes"
+  },
+  {
+    "measure_id": "om_006",
+    "name": "American Spinal Injury Association (ASIA) Impairment Scale",
+    "used_for": [
+      "Spinal Cord Injury"
+    ],
+    "purpose": "Standardize the classification of neurological levels and the severity of spinal cord injuries.",
+    "score_range": "A, B, C, D, E",
+    "interpretation": "Grade A: Complete motor and sensory loss; Grade B: Incomplete sensory preservation only; Grade C: Incomplete motor preservation (more than half of key muscles below neurological level are Grade < 3); Grade D: Incomplete motor preservation (half or more key muscles are Grade >= 3); Grade E: Normal sensory and motor function.",
+    "administration_time": "30-45 minutes"
+  },
+  {
+    "measure_id": "om_007",
+    "name": "Unified Parkinson's Disease Rating Scale (MDS-UPDRS)",
+    "used_for": [
+      "Parkinson's Disease"
+    ],
+    "purpose": "Evaluate the course, progression, and burden of Parkinson's Disease across cognitive, motor, and daily living areas.",
+    "score_range": "0 to 260+ (higher values represent greater impairment)",
+    "interpretation": "Subdivided into four parts (Part I: Non-motor experiences of daily living, Part II: Motor experiences of daily living, Part III: Motor examination, Part IV: Motor complications). Higher scores indicate more severe disease severity.",
+    "administration_time": "30 minutes"
+  },
+  {
+    "measure_id": "om_008",
+    "name": "Gross Motor Function Measure (GMFM)",
+    "used_for": [
+      "Cerebral Palsy",
+      "Down Syndrome",
+      "Developmental Coordination Disorder",
+      "Pediatric Motor Delays"
+    ],
+    "purpose": "Evaluate change over time in gross motor function of children with cerebral palsy and other motor disabilities.",
+    "score_range": "0% to 100% across 5 domains (Lying & Rolling, Sitting, Crawling & Kneeling, Standing, Walking/Running/Jumping)",
+    "interpretation": "Higher percentages indicate greater gross motor capability. Calculated relative to age expectations.",
+    "administration_time": "45-60 minutes"
+  },
+  {
+    "measure_id": "om_009",
+    "name": "Modified Ashworth Scale (MAS)",
+    "used_for": [
+      "Stroke",
+      "Spinal Cord Injury",
+      "Multiple Sclerosis",
+      "Cerebral Palsy",
+      "Traumatic Brain Injury"
+    ],
+    "purpose": "Measure the velocity-dependent resistance or tone in spastic muscles.",
+    "score_range": "0, 1, 1+, 2, 3, 4",
+    "interpretation": "0: No increase in muscle tone; 1: Slight increase in tone, giving catch-and-release or minimal resistance at end-range; 1+: Slight increase in tone, manifested by a catch followed by minimal resistance throughout the remainder (less than half) of the ROM; 2: Marked increase in tone through most of the ROM, but affected part moved easily; 3: Considerable increase in tone, passive movement difficult; 4: Affected part rigid in flexion or extension.",
+    "administration_time": "5 minutes"
+  },
+  {
+    "measure_id": "om_010",
+    "name": "Numeric Pain Rating Scale (NPRS)",
+    "used_for": [
+      "All Musculoskeletal Conditions",
+      "Post-operative Pain",
+      "Radicular Pain",
+      "Acute/Chronic General Pain"
+    ],
+    "purpose": "Provide an objective, standardized numeric measurement of a patient's pain intensity.",
+    "score_range": "0 to 10",
+    "interpretation": "0: No pain; 1-3: Mild pain; 4-6: Moderate pain; 7-10: Severe pain.",
+    "administration_time": "1 minute"
+  }
+]

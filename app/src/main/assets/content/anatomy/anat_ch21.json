@@ -1,0 +1,68 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch21",
+  "chapterName": "Pericardium and Heart",
+  "definition": [
+    "Chapter Overview: This chapter is dedicated to the structure, borders, surfaces, internal chambers, and vascular supply of the heart and its protective pericardium.",
+    "Pericardium: A double-walled fibroserous sac that encloses the heart and the roots of the great vessels.",
+    "The Heart: The muscular organ that pumps blood through the cardiovascular system, featuring four chambers and distinct surface markings."
+  ],
+  "principle": [
+    "Pericardium Layers: Comprises an outer fibrous pericardium and an inner serous pericardium (divided into parietal and visceral/epicardium layers).",
+    "Chambers and Borders: Features the right atrium (receives deoxygenated blood from SVC/IVC), right ventricle (pumps to pulmonary trunk), left atrium (receives oxygenated blood from pulmonary veins), and left ventricle (thickest walls, pumps to aorta).",
+    "Blood Supply: Coronary arteries (left and right) arise from the ascending aorta and run in the sulci. Venous drainage is handled primarily by the coronary sinus."
+  ],
+  "equipment": [
+    "Heart anatomy model",
+    "ECG electrode positioning reference",
+    "Stethoscope for cardiac auscultation checkpoints"
+  ],
+  "parameters": {
+    "HeartWeight": "250g to 350g",
+    "PericardialFluid": "15 ml to 50 ml of serous fluid"
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Cardiac Tamponade: Accumulation of fluid or blood in the pericardial cavity compresses the heart, severely restricting venous return and cardiac output.",
+    "Apex beat: Palped in the left 5th intercostal space, roughly 9 cm from the midsternal line, indicating the apex of the left ventricle."
+  ],
+  "vivaQuestions": [
+    "Question: What are the layers of the pericardium and what is cardiac tamponade? | Answer: The outer is the fibrous layer, and the inner is the serous layer (parietal and visceral). Cardiac tamponade is compression of the heart due to rapid fluid accumulation in the pericardial space. | Examiner Key Points: Fibrous vs serous, fluid accumulation, heart compression. | Clinical Importance: Is a life-threatening medical emergency requiring pericardiocentesis.",
+    "Question: Describe the anatomical location and surface markings of the apex of the heart. | Answer: Located at the lower-left border, formed by the left ventricle. It lies in the left 5th intercostal space, about 9 cm from the midsternal line. | Examiner Key Points: Left ventricle, 5th intercostal space, 9cm from midline. | Clinical Importance: Apex beat location is evaluated for cardiac cardiomegaly or shifting."
+  ],
+  "mcqs": [
+    {
+      "question": "Which chamber of the heart has the thickest muscular wall?",
+      "options": [
+        "Right atrium",
+        "Right ventricle",
+        "Left atrium",
+        "Left ventricle"
+      ],
+      "answer": "Left ventricle"
+    },
+    {
+      "question": "The coronary sinus, which drains venous blood from the heart muscles, empties into which chamber?",
+      "options": [
+        "Right atrium",
+        "Right ventricle",
+        "Left atrium",
+        "Left ventricle"
+      ],
+      "answer": "Right atrium"
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+[
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "General Anatomy",
+    "chapterId": "anat_ch1",
+    "chapterName": "Introduction to Anatomy & Osteology"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Upper Limb",
+    "chapterId": "anat_ch2",
+    "chapterName": "Introduction to Upper Limb"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Upper Limb",
+    "chapterId": "anat_ch3",
+    "chapterName": "Bones of Upper Limb"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Upper Limb",
+    "chapterId": "anat_ch4",
+    "chapterName": "Pectoral Region"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Upper Limb",
+    "chapterId": "anat_ch5",
+    "chapterName": "Axilla"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Upper Limb",
+    "chapterId": "anat_ch6",
+    "chapterName": "Back & Scapular Region"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Upper Limb",
+    "chapterId": "anat_ch7",
+    "chapterName": "Shoulder Joint Complex"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Upper Limb",
+    "chapterId": "anat_ch8",
+    "chapterName": "Cutaneous Innervation, Venous Drainage & Lymphatics"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Upper Limb",
+    "chapterId": "anat_ch9",
+    "chapterName": "Arm"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Upper Limb",
+    "chapterId": "anat_ch10",
+    "chapterName": "Forearm"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Upper Limb",
+    "chapterId": "anat_ch11",
+    "chapterName": "Elbow & Radio-ulnar Joints"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Upper Limb",
+    "chapterId": "anat_ch12",
+    "chapterName": "Hand"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Upper Limb",
+    "chapterId": "anat_ch13",
+    "chapterName": "Joints & Movements of Hand"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Upper Limb",
+    "chapterId": "anat_ch14",
+    "chapterName": "Major Nerves of Upper Limb"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Physiology",
+    "unit": "Physiology",
+    "chapterId": "phys_ch1",
+    "chapterName": "General Cell Physiology"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Physiology",
+    "unit": "Physiology",
+    "chapterId": "phys_ch2",
+    "chapterName": "Neuromuscular Physiology"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Physiology",
+    "unit": "Physiology",
+    "chapterId": "phys_ch3",
+    "chapterName": "Cardiovascular & Respiratory Systems"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Physiology",
+    "unit": "Physiology",
+    "chapterId": "phys_ch4",
+    "chapterName": "Nervous System & Reflex Arcs"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Electrotherapy I",
+    "unit": "Electrotherapy I",
+    "chapterId": "el1_ch1",
+    "chapterName": "Fundamentals of Biophysics & Currents"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Electrotherapy I",
+    "unit": "Electrotherapy I",
+    "chapterId": "el1_ch2",
+    "chapterName": "Direct & Galvanic Currents"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Electrotherapy I",
+    "unit": "Electrotherapy I",
+    "chapterId": "el1_ch3",
+    "chapterName": "Faradic & Pulsed Currents"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Electrotherapy I",
+    "unit": "Electrotherapy I",
+    "chapterId": "el1_ch4",
+    "chapterName": "Introductory Electro-Diagnostics"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Exercise Therapy I",
+    "unit": "Exercise Therapy I",
+    "chapterId": "ex1_ch1",
+    "chapterName": "Mechanical Principles & Skeletal Levers"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Exercise Therapy I",
+    "unit": "Exercise Therapy I",
+    "chapterId": "ex1_ch2",
+    "chapterName": "Range of Motion (ROM) Exercise"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Exercise Therapy I",
+    "unit": "Exercise Therapy I",
+    "chapterId": "ex1_ch3",
+    "chapterName": "Joint Movements & Starting Positions"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Exercise Therapy I",
+    "unit": "Exercise Therapy I",
+    "chapterId": "ex1_ch4",
+    "chapterName": "Introductory Therapeutic Massage"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Exercise Therapy I",
+    "unit": "Exercise Therapy I",
+    "chapterId": "ex1_ch5",
+    "chapterName": "Relaxation Techniques"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Exercise Therapy I",
+    "unit": "Exercise Therapy I",
+    "chapterId": "ex1_ch6",
+    "chapterName": "Group Muscle Actions & Muscle Work"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Electrotherapy II",
+    "unit": "Electrotherapy II",
+    "chapterId": "et2_ift",
+    "chapterName": "Interferential Therapy (IFT)"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Electrotherapy II",
+    "unit": "Electrotherapy II",
+    "chapterId": "el2_ch2",
+    "chapterName": "Transcutaneous Electrical Nerve Stimulation (TENS)"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Electrotherapy II",
+    "unit": "Electrotherapy II",
+    "chapterId": "el2_ch3",
+    "chapterName": "Russian Current"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Electrotherapy II",
+    "unit": "Electrotherapy II",
+    "chapterId": "el2_ch4",
+    "chapterName": "Shortwave Diathermy (SWD)"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Electrotherapy II",
+    "unit": "Electrotherapy II",
+    "chapterId": "el2_ch5",
+    "chapterName": "Microwave Diathermy (MWD)"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Electrotherapy II",
+    "unit": "Electrotherapy II",
+    "chapterId": "el2_ch6",
+    "chapterName": "LASER Therapy"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Electrotherapy II",
+    "unit": "Electrotherapy II",
+    "chapterId": "el2_ch7",
+    "chapterName": "Therapeutic Ultrasound (US)"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Electrotherapy II",
+    "unit": "Electrotherapy II",
+    "chapterId": "el2_ch8",
+    "chapterName": "Biofeedback"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Electrotherapy II",
+    "unit": "Electrotherapy II",
+    "chapterId": "el2_ch9",
+    "chapterName": "Electromyography (EMG)"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Electrotherapy II",
+    "unit": "Electrotherapy II",
+    "chapterId": "el2_ch10",
+    "chapterName": "Nerve Conduction Velocity (NCV)"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Electrotherapy II",
+    "unit": "Electrotherapy II",
+    "chapterId": "el2_ch11",
+    "chapterName": "Therapeutic Traction"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch1",
+    "chapterName": "Passive Stretching & Flexibility"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch2",
+    "chapterName": "Suspension Therapy"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch3",
+    "chapterName": "Goniometry Mechanics"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch4",
+    "chapterName": "Manual Muscle Testing"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch5",
+    "chapterName": "Progressive Resistance Exercise"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch6",
+    "chapterName": "Peripheral Joint Mobilization"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch7",
+    "chapterName": "Balance & Coordination Training"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch8",
+    "chapterName": "Gait Analysis & Training"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch9",
+    "chapterName": "Crutch Walking & Ambulation Aids"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch10",
+    "chapterName": "Hydrotherapy"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch11",
+    "chapterName": "Posture & Corrective Exercise"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch12",
+    "chapterName": "Proprioceptive Neuromuscular Facilitation"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Biomechanics & Kinesiology",
+    "unit": "Biomechanics & Kinesiology",
+    "chapterId": "bio_ch1",
+    "chapterName": "Force Vectors & Kinematic Chains"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Biomechanics & Kinesiology",
+    "unit": "Biomechanics & Kinesiology",
+    "chapterId": "bio_ch2",
+    "chapterName": "Joint Biomechanics of Upper & Lower Limbs"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Biomechanics & Kinesiology",
+    "unit": "Biomechanics & Kinesiology",
+    "chapterId": "bio_ch3",
+    "chapterName": "Gait Kinematics & Kinetics"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Biomechanics & Kinesiology",
+    "unit": "Biomechanics & Kinesiology",
+    "chapterId": "bio_ch4",
+    "chapterName": "Postural Mechanical Analysis"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology, Microbiology & Pharmacology",
+    "unit": "Pathology, Microbiology & Pharmacology",
+    "chapterId": "pmp_ch1",
+    "chapterName": "Cell Injury & Wallerian Degeneration"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology, Microbiology & Pharmacology",
+    "unit": "Pathology, Microbiology & Pharmacology",
+    "chapterId": "pmp_ch2",
+    "chapterName": "Inflammation Stages & Repair"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology, Microbiology & Pharmacology",
+    "unit": "Pathology, Microbiology & Pharmacology",
+    "chapterId": "pmp_ch3",
+    "chapterName": "Microbiology is Physio"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology, Microbiology & Pharmacology",
+    "unit": "Pathology, Microbiology & Pharmacology",
+    "chapterId": "pmp_ch4",
+    "chapterName": "Pharmacology of Muscle & Pain Meds"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "General Medicine",
+    "unit": "General Medicine",
+    "chapterId": "med_ch1",
+    "chapterName": "Cardiovascular Pathophysiology"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "General Medicine",
+    "unit": "General Medicine",
+    "chapterId": "med_ch2",
+    "chapterName": "Pulmonary Syndromes"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "General Medicine",
+    "unit": "General Medicine",
+    "chapterId": "med_ch3",
+    "chapterName": "Neuromuscular Disorders"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "General Surgery",
+    "unit": "General Surgery",
+    "chapterId": "surg_ch1",
+    "chapterName": "Surgical Incisions & Tissue Integrity"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "General Surgery",
+    "unit": "General Surgery",
+    "chapterId": "surg_ch2",
+    "chapterName": "Post-Surgical Scars & Grafting"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "General Surgery",
+    "unit": "General Surgery",
+    "chapterId": "surg_ch3",
+    "chapterName": "Postoperative Complications & Drainage"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "Neurology & Neurosurgery",
+    "unit": "Neurology & Neurosurgery",
+    "chapterId": "neu3_ch1",
+    "chapterName": "Peripheral Nerve Traumatic Injuries"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "Neurology & Neurosurgery",
+    "unit": "Neurology & Neurosurgery",
+    "chapterId": "neu3_ch2",
+    "chapterName": "Nerve Repair & Diagnostics"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "Neurology & Neurosurgery",
+    "unit": "Neurology & Neurosurgery",
+    "chapterId": "neu3_ch3",
+    "chapterName": "Neurosurgical Interventions"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "Physical/Functional Assessment & Management",
+    "unit": "Physical/Functional Assessment & Management",
+    "chapterId": "ast3_ch1",
+    "chapterName": "Pain Assessment & Subjective History"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "Physical/Functional Assessment & Management",
+    "unit": "Physical/Functional Assessment & Management",
+    "chapterId": "ast3_ch2",
+    "chapterName": "Posture & Balance Assessments"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "Physical/Functional Assessment & Management",
+    "unit": "Physical/Functional Assessment & Management",
+    "chapterId": "ast3_ch3",
+    "chapterName": "Systemic Range & MMT Testing"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "Research Methodology & Biostatistics",
+    "unit": "Research Methodology & Biostatistics",
+    "chapterId": "res_ch1",
+    "chapterName": "Clinical Study Designs"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "Research Methodology & Biostatistics",
+    "unit": "Research Methodology & Biostatistics",
+    "chapterId": "res_ch2",
+    "chapterName": "Data Distribution & Sampling"
+  },
+  {
+    "year": "3rd Year",
+    "subject": "Research Methodology & Biostatistics",
+    "unit": "Research Methodology & Biostatistics",
+    "chapterId": "res_ch3",
+    "chapterName": "Statistical Significance"
+  },
+  {
+    "year": "4th Year",
+    "subject": "PT in Orthopaedics & Sports",
+    "unit": "PT in Orthopaedics & Sports",
+    "chapterId": "ort4_ch1",
+    "chapterName": "Ligament & Meniscal Tears"
+  },
+  {
+    "year": "4th Year",
+    "subject": "PT in Orthopaedics & Sports",
+    "unit": "PT in Orthopaedics & Sports",
+    "chapterId": "ort4_ch2",
+    "chapterName": "Fracture Rehabilitation Guidelines"
+  },
+  {
+    "year": "4th Year",
+    "subject": "PT in Orthopaedics & Sports",
+    "unit": "PT in Orthopaedics & Sports",
+    "chapterId": "ort4_ch3",
+    "chapterName": "Overuse Tendinopathies"
+  },
+  {
+    "year": "4th Year",
+    "subject": "PT in Surgery & Obstetrics",
+    "unit": "PT in Surgery & Obstetrics",
+    "chapterId": "obs4_ch1",
+    "chapterName": "Thoracotomy & Sternotomy Care"
+  },
+  {
+    "year": "4th Year",
+    "subject": "PT in Surgery & Obstetrics",
+    "unit": "PT in Surgery & Obstetrics",
+    "chapterId": "obs4_ch2",
+    "chapterName": "Prenatal and Postnatal Rehabilitation"
+  },
+  {
+    "year": "4th Year",
+    "subject": "PT in Surgery & Obstetrics",
+    "unit": "PT in Surgery & Obstetrics",
+    "chapterId": "obs4_ch3",
+    "chapterName": "Gynecological & Pelvic Surgeries"
+  },
+  {
+    "year": "4th Year",
+    "subject": "PT in Medical Conditions",
+    "unit": "PT in Medical Conditions",
+    "chapterId": "pmd4_ch1",
+    "chapterName": "Cardiopulmonary Rehabilitation Phase I-III"
+  },
+  {
+    "year": "4th Year",
+    "subject": "PT in Medical Conditions",
+    "unit": "PT in Medical Conditions",
+    "chapterId": "pmd4_ch2",
+    "chapterName": "Obstructive Lung Diseases Therapy"
+  },
+  {
+    "year": "4th Year",
+    "subject": "PT in Medical Conditions",
+    "unit": "PT in Medical Conditions",
+    "chapterId": "pmd4_ch3",
+    "chapterName": "Geriatric Frailty & Sarcopenia"
+  },
+  {
+    "year": "4th Year",
+    "subject": "PT in Neurology & Neurosurgery",
+    "unit": "PT in Neurology & Neurosurgery",
+    "chapterId": "neu4_ch1",
+    "chapterName": "Stroke & Hemiplegia Rehabilitation"
+  },
+  {
+    "year": "4th Year",
+    "subject": "PT in Neurology & Neurosurgery",
+    "unit": "PT in Neurology & Neurosurgery",
+    "chapterId": "neu4_ch2",
+    "chapterName": "Cerebral Palsy & Pediatrics"
+  },
+  {
+    "year": "4th Year",
+    "subject": "PT in Neurology & Neurosurgery",
+    "unit": "PT in Neurology & Neurosurgery",
+    "chapterId": "neu4_ch3",
+    "chapterName": "Parkinson's & Cerebellar Ataxia"
+  },
+  {
+    "year": "4th Year",
+    "subject": "Ethics & Rehabilitation",
+    "unit": "Ethics & Rehabilitation",
+    "chapterId": "eth_ch1",
+    "chapterName": "Disability Acts & Legislation"
+  },
+  {
+    "year": "4th Year",
+    "subject": "Ethics & Rehabilitation",
+    "unit": "Ethics & Rehabilitation",
+    "chapterId": "eth_ch2",
+    "chapterName": "Codified Professional Ethics"
+  },
+  {
+    "year": "Internship",
+    "subject": "Clinical Posting",
+    "unit": "Clinical Posting",
+    "chapterId": "pos_ch1",
+    "chapterName": "Bedside Assessment & Charting"
+  },
+  {
+    "year": "Internship",
+    "subject": "Clinical Posting",
+    "unit": "Clinical Posting",
+    "chapterId": "pos_ch2",
+    "chapterName": "ICU Mobilization Safety"
+  },
+  {
+    "year": "Internship",
+    "subject": "Case Discussion",
+    "unit": "Case Discussion",
+    "chapterId": "cas_ch1",
+    "chapterName": "Subjective Case Integration"
+  },
+  {
+    "year": "Internship",
+    "subject": "Case Discussion",
+    "unit": "Case Discussion",
+    "chapterId": "cas_ch2",
+    "chapterName": "Provisional Physiotherapeutic Diagnosis"
+  },
+  {
+    "year": "Internship",
+    "subject": "Documentation",
+    "unit": "Documentation",
+    "chapterId": "doc_ch1",
+    "chapterName": "SOAP Note Writing Standard"
+  },
+  {
+    "year": "Internship",
+    "subject": "Documentation",
+    "unit": "Documentation",
+    "chapterId": "doc_ch2",
+    "chapterName": "Goal Setting & Legal Reporting"
+  },
+  {
+    "year": "Internship",
+    "subject": "Hospital Practice",
+    "unit": "Hospital Practice",
+    "chapterId": "hsp_ch1",
+    "chapterName": "Ward Ergonomics & Transfers"
+  },
+  {
+    "year": "Internship",
+    "subject": "Hospital Practice",
+    "unit": "Hospital Practice",
+    "chapterId": "hsp_ch2",
+    "chapterName": "Equipment Calibration & Safety"
+  }
+]

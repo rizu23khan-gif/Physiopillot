@@ -1,0 +1,48 @@
+{
+  "subject": "Electrotherapy II",
+  "chapterId": "el2_ch8",
+  "chapterName": "Biofeedback",
+  "definition": [
+    "Biofeedback is a treatment technique in which people are trained to improve their health by using signals from their own bodies, usually via electromyographic (EMG) monitoring."
+  ],
+  "principle": [],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Focus on initial simple motor tasks to build patient confidence before advancing to complex functional activities."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "What is the target parameter measured in surface EMG biofeedback?"
+  ],
+  "mcqs": [
+    {
+      "question": "Biofeedback primarily acts as a tool for:",
+      "options": [
+        "Deep tissue heating",
+        "Nerve conduction speed check",
+        "Motor re-education and relaxation",
+        "Direct nerve block"
+      ],
+      "answer": "Motor re-education and relaxation",
+      "explanation": "EMG Biofeedback senses muscle electrical activity to help patients learn conscious monitoring, re-education, or relaxation of specific muscle groups."
+    }
+  ],
+  "reference": [
+    "Biofeedback in Physical Therapy"
+  ]
+}

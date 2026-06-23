@@ -1,0 +1,578 @@
+[
+    {
+        "chapterId": "anat_ch1",
+        "chapterName": "Introduction to Anatomy & Osteology",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch1.json"
+    },
+    {
+        "chapterId": "anat_ch2",
+        "chapterName": "Introduction to Upper Limb",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch2.json"
+    },
+    {
+        "chapterId": "anat_ch3",
+        "chapterName": "Bones of Upper Limb",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch3.json"
+    },
+    {
+        "chapterId": "anat_ch4",
+        "chapterName": "Pectoral Region",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch4.json"
+    },
+    {
+        "chapterId": "anat_ch5",
+        "chapterName": "Axilla",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch5.json"
+    },
+    {
+        "chapterId": "anat_ch6",
+        "chapterName": "Back & Scapular Region",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch6.json"
+    },
+    {
+        "chapterId": "anat_ch7",
+        "chapterName": "Shoulder Joint Complex",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch7.json"
+    },
+    {
+        "chapterId": "anat_ch8",
+        "chapterName": "Cutaneous Innervation, Venous Drainage & Lymphatics",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch8.json"
+    },
+    {
+        "chapterId": "anat_ch9",
+        "chapterName": "Arm",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch9.json"
+    },
+    {
+        "chapterId": "anat_ch10",
+        "chapterName": "Forearm",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch10.json"
+    },
+    {
+        "chapterId": "anat_ch11",
+        "chapterName": "Elbow & Radio-ulnar Joints",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch11.json"
+    },
+    {
+        "chapterId": "anat_ch12",
+        "chapterName": "Hand",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch12.json"
+    },
+    {
+        "chapterId": "anat_ch13",
+        "chapterName": "Joints & Movements of Hand",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch13.json"
+    },
+    {
+        "chapterId": "anat_ch14",
+        "chapterName": "Major Nerves of Upper Limb",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch14.json"
+    },
+    {
+        "chapterId": "phys_ch1",
+        "chapterName": "General Cell Physiology",
+        "subjectId": "physiology",
+        "contentFile": "phys_ch1.json"
+    },
+    {
+        "chapterId": "phys_ch2",
+        "chapterName": "Neuromuscular Physiology",
+        "subjectId": "physiology",
+        "contentFile": "phys_ch2.json"
+    },
+    {
+        "chapterId": "phys_ch3",
+        "chapterName": "Cardiovascular & Respiratory Systems",
+        "subjectId": "physiology",
+        "contentFile": "phys_ch3.json"
+    },
+    {
+        "chapterId": "phys_ch4",
+        "chapterName": "Nervous System & Reflex Arcs",
+        "subjectId": "physiology",
+        "contentFile": "phys_ch4.json"
+    },
+    {
+        "chapterId": "el1_ch1",
+        "chapterName": "Fundamentals of Biophysics & Currents",
+        "subjectId": "electrotherapy_i",
+        "contentFile": "et_el1_ch1.json"
+    },
+    {
+        "chapterId": "el1_ch2",
+        "chapterName": "Direct & Galvanic Currents",
+        "subjectId": "electrotherapy_i",
+        "contentFile": "et_el1_ch2.json"
+    },
+    {
+        "chapterId": "el1_ch3",
+        "chapterName": "Faradic & Pulsed Currents",
+        "subjectId": "electrotherapy_i",
+        "contentFile": "et_el1_ch3.json"
+    },
+    {
+        "chapterId": "el1_ch4",
+        "chapterName": "Introductory Electro-Diagnostics",
+        "subjectId": "electrotherapy_i",
+        "contentFile": "et_el1_ch4.json"
+    },
+    {
+        "chapterId": "ex1_ch1",
+        "chapterName": "Mechanical Principles & Skeletal Levers",
+        "subjectId": "exercise_therapy_i",
+        "contentFile": "ex_ex1_ch1.json"
+    },
+    {
+        "chapterId": "ex1_ch2",
+        "chapterName": "Range of Motion (ROM) Exercise",
+        "subjectId": "exercise_therapy_i",
+        "contentFile": "ex_ex1_ch2.json"
+    },
+    {
+        "chapterId": "ex1_ch3",
+        "chapterName": "Joint Movements & Starting Positions",
+        "subjectId": "exercise_therapy_i",
+        "contentFile": "ex_ex1_ch3.json"
+    },
+    {
+        "chapterId": "ex1_ch4",
+        "chapterName": "Introductory Therapeutic Massage",
+        "subjectId": "exercise_therapy_i",
+        "contentFile": "ex_ex1_ch4.json"
+    },
+    {
+        "chapterId": "ex1_ch5",
+        "chapterName": "Relaxation Techniques",
+        "subjectId": "exercise_therapy_i",
+        "contentFile": "ex_ex1_ch5.json"
+    },
+    {
+        "chapterId": "ex1_ch6",
+        "chapterName": "Group Muscle Actions & Muscle Work",
+        "subjectId": "exercise_therapy_i",
+        "contentFile": "ex_ex1_ch6.json"
+    },
+    {
+        "chapterId": "et2_ift",
+        "chapterName": "Interferential Therapy (IFT)",
+        "subjectId": "electrotherapy_ii",
+        "contentFile": "et_et2_ift.json"
+    },
+    {
+        "chapterId": "el2_ch2",
+        "chapterName": "Transcutaneous Electrical Nerve Stimulation (TENS)",
+        "subjectId": "electrotherapy_ii",
+        "contentFile": "et_el2_ch2.json"
+    },
+    {
+        "chapterId": "el2_ch3",
+        "chapterName": "Russian Current",
+        "subjectId": "electrotherapy_ii",
+        "contentFile": "et_el2_ch3.json"
+    },
+    {
+        "chapterId": "el2_ch4",
+        "chapterName": "Shortwave Diathermy (SWD)",
+        "subjectId": "electrotherapy_ii",
+        "contentFile": "et_el2_ch4.json"
+    },
+    {
+        "chapterId": "el2_ch5",
+        "chapterName": "Microwave Diathermy (MWD)",
+        "subjectId": "electrotherapy_ii",
+        "contentFile": "et_el2_ch5.json"
+    },
+    {
+        "chapterId": "el2_ch6",
+        "chapterName": "LASER Therapy",
+        "subjectId": "electrotherapy_ii",
+        "contentFile": "et_el2_ch6.json"
+    },
+    {
+        "chapterId": "el2_ch7",
+        "chapterName": "Therapeutic Ultrasound (US)",
+        "subjectId": "electrotherapy_ii",
+        "contentFile": "et_el2_ch7.json"
+    },
+    {
+        "chapterId": "el2_ch8",
+        "chapterName": "Biofeedback",
+        "subjectId": "electrotherapy_ii",
+        "contentFile": "et_el2_ch8.json"
+    },
+    {
+        "chapterId": "el2_ch9",
+        "chapterName": "Electromyography (EMG)",
+        "subjectId": "electrotherapy_ii",
+        "contentFile": "et_el2_ch9.json"
+    },
+    {
+        "chapterId": "el2_ch10",
+        "chapterName": "Nerve Conduction Velocity (NCV)",
+        "subjectId": "electrotherapy_ii",
+        "contentFile": "et_el2_ch10.json"
+    },
+    {
+        "chapterId": "el2_ch11",
+        "chapterName": "Therapeutic Traction",
+        "subjectId": "electrotherapy_ii",
+        "contentFile": "et_el2_ch11.json"
+    },
+    {
+        "chapterId": "ex2_ch1",
+        "chapterName": "Passive Stretching & Flexibility",
+        "subjectId": "exercise_therapy_ii",
+        "contentFile": "ex_ex2_ch1.json"
+    },
+    {
+        "chapterId": "ex2_ch2",
+        "chapterName": "Suspension Therapy",
+        "subjectId": "exercise_therapy_ii",
+        "contentFile": "ex_ex2_ch2.json"
+    },
+    {
+        "chapterId": "ex2_ch3",
+        "chapterName": "Goniometry Mechanics",
+        "subjectId": "exercise_therapy_ii",
+        "contentFile": "ex_ex2_ch3.json"
+    },
+    {
+        "chapterId": "ex2_ch4",
+        "chapterName": "Manual Muscle Testing",
+        "subjectId": "exercise_therapy_ii",
+        "contentFile": "ex_ex2_ch4.json"
+    },
+    {
+        "chapterId": "ex2_ch5",
+        "chapterName": "Progressive Resistance Exercise",
+        "subjectId": "exercise_therapy_ii",
+        "contentFile": "ex_ex2_ch5.json"
+    },
+    {
+        "chapterId": "ex2_ch6",
+        "chapterName": "Peripheral Joint Mobilization",
+        "subjectId": "exercise_therapy_ii",
+        "contentFile": "ex_ex2_ch6.json"
+    },
+    {
+        "chapterId": "ex2_ch7",
+        "chapterName": "Balance & Coordination Training",
+        "subjectId": "exercise_therapy_ii",
+        "contentFile": "ex_ex2_ch7.json"
+    },
+    {
+        "chapterId": "ex2_ch8",
+        "chapterName": "Gait Analysis & Training",
+        "subjectId": "exercise_therapy_ii",
+        "contentFile": "ex_ex2_ch8.json"
+    },
+    {
+        "chapterId": "ex2_ch9",
+        "chapterName": "Crutch Walking & Ambulation Aids",
+        "subjectId": "exercise_therapy_ii",
+        "contentFile": "ex_ex2_ch9.json"
+    },
+    {
+        "chapterId": "ex2_ch10",
+        "chapterName": "Hydrotherapy",
+        "subjectId": "exercise_therapy_ii",
+        "contentFile": "ex_ex2_ch10.json"
+    },
+    {
+        "chapterId": "ex2_ch11",
+        "chapterName": "Posture & Corrective Exercise",
+        "subjectId": "exercise_therapy_ii",
+        "contentFile": "ex_ex2_ch11.json"
+    },
+    {
+        "chapterId": "ex2_ch12",
+        "chapterName": "Proprioceptive Neuromuscular Facilitation",
+        "subjectId": "exercise_therapy_ii",
+        "contentFile": "ex_ex2_ch12.json"
+    },
+    {
+        "chapterId": "bio_ch1",
+        "chapterName": "Force Vectors & Kinematic Chains",
+        "subjectId": "biomechanics_kinesiology",
+        "contentFile": "bio_ch1.json"
+    },
+    {
+        "chapterId": "bio_ch2",
+        "chapterName": "Joint Biomechanics of Upper & Lower Limbs",
+        "subjectId": "biomechanics_kinesiology",
+        "contentFile": "bio_ch2.json"
+    },
+    {
+        "chapterId": "bio_ch3",
+        "chapterName": "Gait Kinematics & Kinetics",
+        "subjectId": "biomechanics_kinesiology",
+        "contentFile": "bio_ch3.json"
+    },
+    {
+        "chapterId": "bio_ch4",
+        "chapterName": "Postural Mechanical Analysis",
+        "subjectId": "biomechanics_kinesiology",
+        "contentFile": "bio_ch4.json"
+    },
+    {
+        "chapterId": "pmp_ch1",
+        "chapterName": "Cell Injury & Wallerian Degeneration",
+        "subjectId": "path_micro_pharm",
+        "contentFile": "path_pmp_ch1.json"
+    },
+    {
+        "chapterId": "pmp_ch2",
+        "chapterName": "Inflammation Stages & Repair",
+        "subjectId": "path_micro_pharm",
+        "contentFile": "path_pmp_ch2.json"
+    },
+    {
+        "chapterId": "pmp_ch3",
+        "chapterName": "Microbiology is Physio",
+        "subjectId": "path_micro_pharm",
+        "contentFile": "micro_pmp_ch3.json"
+    },
+    {
+        "chapterId": "pmp_ch4",
+        "chapterName": "Pharmacology of Muscle & Pain Meds",
+        "subjectId": "path_micro_pharm",
+        "contentFile": "pharm_pmp_ch4.json"
+    },
+    {
+        "chapterId": "med_ch1",
+        "chapterName": "Cardiovascular Pathophysiology",
+        "subjectId": "general_medicine",
+        "contentFile": "med_med_ch1.json"
+    },
+    {
+        "chapterId": "med_ch2",
+        "chapterName": "Pulmonary Syndromes",
+        "subjectId": "general_medicine",
+        "contentFile": "med_med_ch2.json"
+    },
+    {
+        "chapterId": "med_ch3",
+        "chapterName": "Neuromuscular Disorders",
+        "subjectId": "general_medicine",
+        "contentFile": "med_med_ch3.json"
+    },
+    {
+        "chapterId": "surg_ch1",
+        "chapterName": "Surgical Incisions & Tissue Integrity",
+        "subjectId": "general_surgery",
+        "contentFile": "surg_surg_ch1.json"
+    },
+    {
+        "chapterId": "surg_ch2",
+        "chapterName": "Post-Surgical Scars & Grafting",
+        "subjectId": "general_surgery",
+        "contentFile": "surg_surg_ch2.json"
+    },
+    {
+        "chapterId": "surg_ch3",
+        "chapterName": "Postoperative Complications & Drainage",
+        "subjectId": "general_surgery",
+        "contentFile": "surg_surg_ch3.json"
+    },
+    {
+        "chapterId": "neu3_ch1",
+        "chapterName": "Peripheral Nerve Traumatic Injuries",
+        "subjectId": "neurology_neurosurgery",
+        "contentFile": "neuro_neu3_ch1.json"
+    },
+    {
+        "chapterId": "neu3_ch2",
+        "chapterName": "Nerve Repair & Diagnostics",
+        "subjectId": "neurology_neurosurgery",
+        "contentFile": "neuro_neu3_ch2.json"
+    },
+    {
+        "chapterId": "neu3_ch3",
+        "chapterName": "Neurosurgical Interventions",
+        "subjectId": "neurology_neurosurgery",
+        "contentFile": "neuro_neu3_ch3.json"
+    },
+    {
+        "chapterId": "ast3_ch1",
+        "chapterName": "Pain Assessment & Subjective History",
+        "subjectId": "assessment_3rd",
+        "contentFile": "ast_ast3_ch1.json"
+    },
+    {
+        "chapterId": "ast3_ch2",
+        "chapterName": "Posture & Balance Assessments",
+        "subjectId": "assessment_3rd",
+        "contentFile": "ast_ast3_ch2.json"
+    },
+    {
+        "chapterId": "ast3_ch3",
+        "chapterName": "Systemic Range & MMT Testing",
+        "subjectId": "assessment_3rd",
+        "contentFile": "ast_ast3_ch3.json"
+    },
+    {
+        "chapterId": "res_ch1",
+        "chapterName": "Clinical Study Designs",
+        "subjectId": "research_stats",
+        "contentFile": "res_res_ch1.json"
+    },
+    {
+        "chapterId": "res_ch2",
+        "chapterName": "Data Distribution & Sampling",
+        "subjectId": "research_stats",
+        "contentFile": "res_res_ch2.json"
+    },
+    {
+        "chapterId": "res_ch3",
+        "chapterName": "Statistical Significance",
+        "subjectId": "research_stats",
+        "contentFile": "res_res_ch3.json"
+    },
+    {
+        "chapterId": "ort4_ch1",
+        "chapterName": "Ligament & Meniscal Tears",
+        "subjectId": "pt_ortho_sports",
+        "contentFile": "ortho_ort4_ch1.json"
+    },
+    {
+        "chapterId": "ort4_ch2",
+        "chapterName": "Fracture Rehabilitation Guidelines",
+        "subjectId": "pt_ortho_sports",
+        "contentFile": "ortho_ort4_ch2.json"
+    },
+    {
+        "chapterId": "ort4_ch3",
+        "chapterName": "Overuse Tendinopathies",
+        "subjectId": "pt_ortho_sports",
+        "contentFile": "ortho_ort4_ch3.json"
+    },
+    {
+        "chapterId": "obs4_ch1",
+        "chapterName": "Thoracotomy & Sternotomy Care",
+        "subjectId": "pt_surg_obs",
+        "contentFile": "surg_obs4_ch1.json"
+    },
+    {
+        "chapterId": "obs4_ch2",
+        "chapterName": "Prenatal and Postnatal Rehabilitation",
+        "subjectId": "pt_surg_obs",
+        "contentFile": "surg_obs4_ch2.json"
+    },
+    {
+        "chapterId": "obs4_ch3",
+        "chapterName": "Gynecological & Pelvic Surgeries",
+        "subjectId": "pt_surg_obs",
+        "contentFile": "surg_obs4_ch3.json"
+    },
+    {
+        "chapterId": "pmd4_ch1",
+        "chapterName": "Cardiopulmonary Rehabilitation Phase I-III",
+        "subjectId": "pt_med_conditions",
+        "contentFile": "pt_med_conditions_pmd4_ch1.json"
+    },
+    {
+        "chapterId": "pmd4_ch2",
+        "chapterName": "Obstructive Lung Diseases Therapy",
+        "subjectId": "pt_med_conditions",
+        "contentFile": "pt_med_conditions_pmd4_ch2.json"
+    },
+    {
+        "chapterId": "pmd4_ch3",
+        "chapterName": "Geriatric Frailty & Sarcopenia",
+        "subjectId": "pt_med_conditions",
+        "contentFile": "pt_med_conditions_pmd4_ch3.json"
+    },
+    {
+        "chapterId": "neu4_ch1",
+        "chapterName": "Stroke & Hemiplegia Rehabilitation",
+        "subjectId": "pt_neuro_4th",
+        "contentFile": "neuro_neu4_ch1.json"
+    },
+    {
+        "chapterId": "neu4_ch2",
+        "chapterName": "Cerebral Palsy & Pediatrics",
+        "subjectId": "pt_neuro_4th",
+        "contentFile": "neuro_neu4_ch2.json"
+    },
+    {
+        "chapterId": "neu4_ch3",
+        "chapterName": "Parkinson's & Cerebellar Ataxia",
+        "subjectId": "pt_neuro_4th",
+        "contentFile": "neuro_neu4_ch3.json"
+    },
+    {
+        "chapterId": "eth_ch1",
+        "chapterName": "Disability Acts & Legislation",
+        "subjectId": "ethics_rehab",
+        "contentFile": "eth_eth_ch1.json"
+    },
+    {
+        "chapterId": "eth_ch2",
+        "chapterName": "Codified Professional Ethics",
+        "subjectId": "ethics_rehab",
+        "contentFile": "eth_eth_ch2.json"
+    },
+    {
+        "chapterId": "pos_ch1",
+        "chapterName": "Bedside Assessment & Charting",
+        "subjectId": "clinical_posting",
+        "contentFile": "pos_pos_ch1.json"
+    },
+    {
+        "chapterId": "pos_ch2",
+        "chapterName": "ICU Mobilization Safety",
+        "subjectId": "clinical_posting",
+        "contentFile": "pos_pos_ch2.json"
+    },
+    {
+        "chapterId": "cas_ch1",
+        "chapterName": "Subjective Case Integration",
+        "subjectId": "case_discussion",
+        "contentFile": "cas_cas_ch1.json"
+    },
+    {
+        "chapterId": "cas_ch2",
+        "chapterName": "Provisional Physiotherapeutic Diagnosis",
+        "subjectId": "case_discussion",
+        "contentFile": "cas_cas_ch2.json"
+    },
+    {
+        "chapterId": "doc_ch1",
+        "chapterName": "SOAP Note Writing Standard",
+        "subjectId": "documentation",
+        "contentFile": "doc_doc_ch1.json"
+    },
+    {
+        "chapterId": "doc_ch2",
+        "chapterName": "Goal Setting & Legal Reporting",
+        "subjectId": "documentation",
+        "contentFile": "doc_doc_ch2.json"
+    },
+    {
+        "chapterId": "hsp_ch1",
+        "chapterName": "Ward Ergonomics & Transfers",
+        "subjectId": "hospital_practice",
+        "contentFile": "hsp_hsp_ch1.json"
+    },
+    {
+        "chapterId": "hsp_ch2",
+        "chapterName": "Equipment Calibration & Safety",
+        "subjectId": "hospital_practice",
+        "contentFile": "hsp_hsp_ch2.json"
+    }
+]

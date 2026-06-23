@@ -1,0 +1,69 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch17",
+  "chapterName": "Thoracic Wall and Mechanism of Respiration",
+  "definition": [
+    "Chapter Overview: This chapter investigates the muscles and neurovascular structures of the thoracic wall and explains how changes in thoracic cavity volume drive respiration.",
+    "Thoracic Wall Muscles: Dominated by the intercostal muscles (external, internal, and innermost) and the respiratory diaphragm.",
+    "Mechanism of Respiration: Involves the alteration of thoracic volume and pressure. Inspiration is active (diaphragm and external intercostals contract), while expiration is passive in normal quiet breathing (elastic recoil)."
+  ],
+  "principle": [
+    "Intercostal Muscles: External intercostals elevate ribs (inspiration); internal and innermost intercostals depress ribs (active expiration).",
+    "Pump-handle and Bucket-handle movements: Elevating the ribs increases both the anteroposterior diameter (pump-handle, typical of upper ribs) and transverse diameter (bucket-handle, typical of lower ribs).",
+    "The Diaphragm: Domed musculofibrous septum. Contraction flattens the dome, increasing the vertical dimension of the thoracic cavity."
+  ],
+  "equipment": [
+    "Anatomy models showing intercostal muscles",
+    "Diaphragm movement simulator",
+    "Spirometer for lung volumes"
+  ],
+  "parameters": {
+    "VenaCavalOpeningLevel": "T8",
+    "EsophagealOpeningLevel": "T10",
+    "AorticOpeningLevel": "T12"
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Diaphragmatic Apertures: Know the levels T8, T10, and T12 (Mnemonic: 'I Eat 10 Eggs At 12' - IVC at 8, Esophagus at 10, Aorta at 12).",
+    "Intercostal Nerve Blocks: Administered to relieve pain from rib fractures, targeting the intercostal nerve in the costal groove."
+  ],
+  "vivaQuestions": [
+    "Question: Differentiate between pump-handle and bucket-handle movements. | Answer: Pump-handle movement increases the anteroposterior diameter by elevating the sternum and upper ribs. Bucket-handle movement increases the transverse diameter by elevating the middle/lower ribs laterally. | Examiner Key Points: AP vs Transverse diameter, sternum vs lateral ribs. | Clinical Importance: Crucial for evaluating thoracic expansion in respiratory conditions.",
+    "Question: List the major apertures of the diaphragm and their corresponding vertebral levels. | Answer: Vena Caval opening at T8, Esophageal opening at T10, and Aortic opening at T12. | Examiner Key Points: IVC (T8), Esophagus (T10), Aorta (T12). | Clinical Importance: Vital for identifying diaphragmatic hernias and vascular compression syndromes."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following muscle contractions is the primary driver of quiet inspiration?",
+      "options": [
+        "Internal intercostals",
+        "Diaphragm",
+        "Rectus abdominis",
+        "Pectoralis major"
+      ],
+      "answer": "Diaphragm"
+    },
+    {
+      "question": "At which vertebral level does the thoracic aorta pass through the respiratory diaphragm?",
+      "options": [
+        "T6",
+        "T8",
+        "T10",
+        "T12"
+      ],
+      "answer": "T12"
+    }
+  ]
+}

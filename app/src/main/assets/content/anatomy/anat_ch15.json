@@ -1,0 +1,70 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch15",
+  "chapterName": "Introduction to Thorax and Thoracic Cage",
+  "definition": [
+    "Chapter Overview: This chapter explores the osseocartilaginous thoracic cage, focusing on its role in protecting vital organs (heart and lungs) and facilitating the mechanics of respiration.",
+    "Definition: The thoracic cage is an osteocartilaginous framework located between the neck and abdomen. It is designed to be rigid enough to protect the thoracic viscera, yet flexible enough to permit respiratory movements.",
+    "Superior Thoracic Aperture (Thoracic Inlet): A narrow, kidney-shaped opening that communicates with the root of the neck. It is bounded anteriorly by the manubrium sterni, laterally by the first pair of ribs, and posteriorly by the body of the first thoracic vertebra."
+  ],
+  "principle": [
+    "Thoracic Cage Composition: It consists of the sternum anteriorly, 12 thoracic vertebrae posteriorly, and 12 pairs of ribs with their costal cartilages making up the lateral walls.",
+    "Shape and Proportions: It holds a truncated cone shape, being narrowest superiorly at the thoracic inlet and widest inferiorly.",
+    "Transverse Section: In adults, the thoracic cross-section is kidney-shaped due to the backward projection of ribs and forward protrusion of vertebral body. In infants, it is circular, restricting breathing to diaphragmatic action."
+  ],
+  "equipment": [
+    "Thoracic skeletal model",
+    "Calipers for chest diameter",
+    "Measuring tape for chest expansion",
+    "Spirometer reference charts"
+  ],
+  "parameters": {
+    "InletTransverseDiameter": "10 cm to 11 cm",
+    "InletAnteroposteriorDiameter": "5 cm to 6 cm",
+    "ExpansionRange": "3 cm to 5 cm in healthy adults"
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Thoracic Outlet Syndrome (TOS): Compression of the brachial plexus or subclavian vessels at the superior thoracic aperture can lead to paresthesia, weakness, or vascular insufficiencies in the upper limb.",
+    "Sternal Angle of Louis: Palpal marker at the level of T4-T5 posteriorly. It marks the starting and ending points of the aortic arch, bifurcation of the trachea, and the attachment of the 2nd rib."
+  ],
+  "vivaQuestions": [
+    "Question: What are the precise boundaries of the superior thoracic aperture (thoracic inlet)? | Answer: Bounded anteriorly by the superior border of the manubrium sterni, laterally by the 1st pair of ribs, and posteriorly by the body of the T1 vertebra. | Examiner Key Points: Manubrium, 1st rib, T1 vertebra. | Clinical Importance: Compression here leads to Thoracic Outlet Syndrome.",
+    "Question: What is the clinical significance of the Sternal Angle of Louis? | Answer: Palpable mark to identify the 2nd costal cartilage, marks level of T4/T5, tracheal bifurcation, and the boundary between superior and inferior mediastinum. | Examiner Key Points: 2nd rib landmark, T4/T5 level, tracheal bifurcation. | Clinical Importance: Vital reference point for chest exams and placing stethoscopes."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following structures forms the posterior boundary of the superior thoracic aperture?",
+      "options": [
+        "Body of T1 vertebra",
+        "Body of T4 vertebra",
+        "Manubrium sterni",
+        "1st rib cartilage"
+      ],
+      "answer": "Body of T1 vertebra"
+    },
+    {
+      "question": "At which vertebral level does the tracheal bifurcation typically occur?",
+      "options": [
+        "C6",
+        "T2",
+        "T4-T5",
+        "T8"
+      ],
+      "answer": "T4-T5"
+    }
+  ]
+}

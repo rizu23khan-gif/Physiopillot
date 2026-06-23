@@ -1,0 +1,66 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch20",
+  "chapterName": "Mediastinum",
+  "definition": [
+    "Chapter Overview: This chapter investigates the division of the mediastinum (superior and inferior) and lists the critical organs and structures of each compartment.",
+    "Mediastinum: The central compartment of the thoracic cavity, bounded by the thoracic inlet superiorly, diaphragm inferiorly, sternum anteriorly, vertebral column posteriorly, and mediastinal pleura bilaterally.",
+    "Subdivisions: Divided by a horizontal plane passing through the sternal angle of Louis (joint of T4-T5) into the superior mediastinum and the inferior mediastinum."
+  ],
+  "principle": [
+    "Superior Mediastinum: Sits above the plane of the sternal angle. It contains the thymus gland, the large veins (brachiocephalic) and superior vena cava, the arch of the aorta and branches, trachea, esophagus, phrenic and vagal nerves.",
+    "Inferior Mediastinum Divisions: Divided into three compartments: 1) Anterior (small, anterior to heart), 2) Middle (contains the heart, pericardium, roots of major vessels), and 3) Posterior (posterior to heart, contains esophagus, descending aorta, azygos system, thoracic duct)."
+  ],
+  "equipment": [
+    "Mediastinum layout model",
+    "Thorax transverse CT slices reference",
+    "Thoracic cross-section models"
+  ],
+  "parameters": {
+    "SternalAngleLevel": "T4-T5 intervertebral disc level"
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Mediastinitis: Severe infection within the mediastinum, which can spread rapidly due to loose connective tissues.",
+    "Mediastinal Shift: Shift of central structures caused by lateral pressure changes, as seen in tension pneumothorax or massive pleural effusion."
+  ],
+  "vivaQuestions": [
+    "Question: Explain the boundaries of the mediastinum as a whole. | Answer: Bounded anteriorly by the sternum, posteriorly by the bodies of 12 thoracic vertebrae, superiorly by the thoracic inlet, inferiorly by the diaphragmatic floor, and laterally by the mediastinal pleura of the lungs. | Examiner Key Points: Sternum, vertebrae, inlet, diaphragm, pleura. | Clinical Importance: Establishes the anatomical bounds of thoracic clinical conditions.",
+    "Question: Name the contents of the posterior mediastinum. | Answer: Esophagus, descending thoracic aorta, thoracic duct, azygos vein, hemiazygos and accessory hemiazygos veins, vagus nerves, and splanchnic nerves. | Examiner Key Points: Esophagus, aorta, thoracic duct, azygos. | Clinical Importance: Access point for surgical esophageal/aortic procedures."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following structures is located within the middle mediastinum?",
+      "options": [
+        "Esophagus",
+        "Trachea",
+        "Heart and pericardium",
+        "Thymus"
+      ],
+      "answer": "Heart and pericardium"
+    },
+    {
+      "question": "What imaginary plane divides the superior from the inferior mediastinum?",
+      "options": [
+        "Passing through the first rib",
+        "Passing through the T12 level",
+        "Passing through the sternal angle (T4-T5)",
+        "Passing through the apex of the lungs"
+      ],
+      "answer": "Passing through the sternal angle (T4-T5)"
+    }
+  ]
+}

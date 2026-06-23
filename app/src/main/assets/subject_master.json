@@ -1,0 +1,200 @@
+[
+  {
+    "subjectId": "anatomy",
+    "subjectName": "Anatomy",
+    "year": "1st Year",
+    "icon": "accessibility",
+    "color": "#6366F1",
+    "chapterCount": "14",
+    "unitCount": "5"
+  },
+  {
+    "subjectId": "physiology",
+    "subjectName": "Physiology",
+    "year": "1st Year",
+    "icon": "favorite_border",
+    "color": "#EC4899",
+    "chapterCount": "4",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "electrotherapy_i",
+    "subjectName": "Electrotherapy I",
+    "year": "1st Year",
+    "icon": "flash_on",
+    "color": "#F59E0B",
+    "chapterCount": "4",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "exercise_therapy_i",
+    "subjectName": "Exercise Therapy I",
+    "year": "1st Year",
+    "icon": "fitness_center",
+    "color": "#10B981",
+    "chapterCount": "6",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "electrotherapy_ii",
+    "subjectName": "Electrotherapy II",
+    "year": "2nd Year",
+    "icon": "flash_on",
+    "color": "#D97706",
+    "chapterCount": "11",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "exercise_therapy_ii",
+    "subjectName": "Exercise Therapy II",
+    "year": "2nd Year",
+    "icon": "fitness_center",
+    "color": "#059669",
+    "chapterCount": "12",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "biomechanics_kinesiology",
+    "subjectName": "Biomechanics & Kinesiology",
+    "year": "2nd Year",
+    "icon": "trending_up",
+    "color": "#0D9488",
+    "chapterCount": "4",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "path_micro_pharm",
+    "subjectName": "Pathology, Microbiology & Pharmacology",
+    "year": "2nd Year",
+    "icon": "science",
+    "color": "#9333EA",
+    "chapterCount": "4",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "general_medicine",
+    "subjectName": "General Medicine",
+    "year": "3rd Year",
+    "icon": "medical_services",
+    "color": "#EA580C",
+    "chapterCount": "3",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "general_surgery",
+    "subjectName": "General Surgery",
+    "year": "3rd Year",
+    "icon": "healing",
+    "color": "#DC2626",
+    "chapterCount": "3",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "neurology_neurosurgery",
+    "subjectName": "Neurology & Neurosurgery",
+    "year": "3rd Year",
+    "icon": "psychology",
+    "color": "#8B5CF6",
+    "chapterCount": "3",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "assessment_3rd",
+    "subjectName": "Physical/Functional Assessment & Management",
+    "year": "3rd Year",
+    "icon": "content_paste",
+    "color": "#4F46E5",
+    "chapterCount": "3",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "research_stats",
+    "subjectName": "Research Methodology & Biostatistics",
+    "year": "3rd Year",
+    "icon": "analytics",
+    "color": "#2563EB",
+    "chapterCount": "3",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "pt_ortho_sports",
+    "subjectName": "PT in Orthopaedics & Sports",
+    "year": "4th Year",
+    "icon": "sports_basketball",
+    "color": "#2563EB",
+    "chapterCount": "3",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "pt_surg_obs",
+    "subjectName": "PT in Surgery & Obstetrics",
+    "year": "4th Year",
+    "icon": "face",
+    "color": "#DB2777",
+    "chapterCount": "3",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "pt_med_conditions",
+    "subjectName": "PT in Medical Conditions",
+    "year": "4th Year",
+    "icon": "directions_run",
+    "color": "#E11D48",
+    "chapterCount": "3",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "pt_neuro_4th",
+    "subjectName": "PT in Neurology & Neurosurgery",
+    "year": "4th Year",
+    "icon": "psychology",
+    "color": "#7C3AED",
+    "chapterCount": "3",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "ethics_rehab",
+    "subjectName": "Ethics & Rehabilitation",
+    "year": "4th Year",
+    "icon": "groups",
+    "color": "#0F766E",
+    "chapterCount": "2",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "clinical_posting",
+    "subjectName": "Clinical Posting",
+    "year": "Internship",
+    "icon": "medical_services",
+    "color": "#14B8A6",
+    "chapterCount": "2",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "case_discussion",
+    "subjectName": "Case Discussion",
+    "year": "Internship",
+    "icon": "forum",
+    "color": "#0284C7",
+    "chapterCount": "2",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "documentation",
+    "subjectName": "Documentation",
+    "year": "Internship",
+    "icon": "description",
+    "color": "#0891B2",
+    "chapterCount": "2",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "hospital_practice",
+    "subjectName": "Hospital Practice",
+    "year": "Internship",
+    "icon": "apartment",
+    "color": "#4338CA",
+    "chapterCount": "2",
+    "unitCount": "1"
+  }
+]

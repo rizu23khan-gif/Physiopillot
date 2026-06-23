@@ -1,0 +1,508 @@
+{
+  "subject": "Electrotherapy II",
+  "chapterId": "el2_ch3",
+  "chapterName": "Russian Current",
+  "definition": [
+    "Russian Current is a medium frequency alternating current (evenly alternating, typically at 2500 Hz) that is applied in a series of separate bursts (polyphasic AC waveforms) to evoke strong, comfortable skeletal muscle contractions.",
+    "Originally introduced to Western literature and sports physiology in 1977 as a means to enhance quadriceps muscle force during elite athletic training, it has become a staple of medium frequency neuromuscular electrical stimulation (NMES)."
+  ],
+  "principle": [
+    "Medium Frequency Comfort: By utilizing a carrier frequency of 2500 Hz, the skin impedance is significantly reduced compared to low frequency currents (Z = 1 / (2 * pi * f * C)). This enables deep penetration of electrical energy without causing painful skin irritation.",
+    "Burst Modulation: Delivering the 2500 Hz current in short, timed bursts (typically 50 bursts per second) reduces the total current charge delivered to the tissues, minimizing sensory irritation while maximizing motor unit recruitment.",
+    "Asynchronous Sarcoplasmic Stimulus: Evokes tetanas-like contractions of deep-lying skeletal muscles by activating fast-twitch (Type II) glycolytic muscle fibers, which are highly responsive to high contraction frequencies."
+  ],
+  "equipment": [
+    "Neuromuscular clinical electrical stimulator matching Russian Current specifications",
+    "Lead cables (insulated multi-strand wires)",
+    "Carbon-rubber electrodes or self-adhesive hydrogel pads (minimum 5cm x 5cm standard)",
+    "Wet conductive sponges or electroconductive hydrogel medium",
+    "Velcro fixating/compression straps",
+    "Skin cleaning prep kit (warm water, soap, and cotton swabs)",
+    "Dry towels, clinical pillows, and positioning wedges"
+  ],
+  "parameters": {
+    "carrierFrequency": "2500 Hz (allowable range between 2000 Hz and 10000 Hz as per source)",
+    "burstFrequency": "50 Hz (50 burst periods within one second, derived from '50 periods of 20 ms duration')",
+    "burstDuration": "10 ms (comprising 25 full alternating cycles)",
+    "interburstInterval": "10 ms (silent phase between active bursts)",
+    "cyclePeriod": "20 ms (comprising 10 ms active burst + 10 ms interburst interval)",
+    "phaseDuration": "0.2 ms (derived from '50 phases per 10 ms burst' -> 10 ms / 50 = 0.2 ms)",
+    "cyclesPerBurst": "25 complete cycles of alternating current per active burst",
+    "waveform": "Sine wave or Square wave with a fixed intrapulse interval (as explicitly specified in J. Singh source)"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Impedance Reduction and Deeper Penetration",
+      "frequency": "2500 Hz carrier frequency",
+      "mechanism": [
+        "Skin impedance acts capacitive and is inversely proportional to frequency.",
+        "A 2500 Hz carrier current encounters far lower resistance from skin lipids compared to standard 50 Hz low-frequency currents.",
+        "Allows standard stimulation currents to reach deep motor nerve trunks comfortably, reducing sensory nerve pain at the skin layer."
+      ]
+    },
+    {
+      "effect": "Maximized Motor Unit Recruitment with Burst Modulation",
+      "frequency": "50 Hz burst frequency",
+      "mechanism": [
+        "Applying alternating current in continuous bursts prevents muscle sensory overstimulation by introducing a 50% rest interval.",
+        "The 10 ms burst at 50 Hz triggers rapid, tetanic recruitment of motor nerves.",
+        "Stimulates both superficial motor fibers and raises the threshold of deep motor bundles, producing greater comfort (derived from J. Singh source)."
+      ]
+    },
+    {
+      "effect": "Selective Fast-Twitch Muscle Fiber Activation",
+      "frequency": "2500 Hz carrier modulated at 50 Hz bursts",
+      "mechanism": [
+        "Preferentially targets fast-twitch (Type II) fibers, which are normally recruited only during high-intensity voluntary efforts (derived from general physical therapy literature).",
+        "Increases muscular protein synthesis and sarcoplasmic mitochondrial activity, bolstering strength."
+      ]
+    }
+  ],
+  "indications": [
+    "Skeletal muscle strengthening (athletic training and postoperative re-conditioning)",
+    "Neuromuscular re-education and motor learning",
+    "Facilitating quadriceps recovery following cruciate ligament reconstruction or menisectomy",
+    "Preventing disuse atrophy during prolonged plaster cast immobilization",
+    "Pelvic floor strengthening for stress incontinence management",
+    "Enhancing local blood flow and pumping chronic exudates out of target muscle zones"
+  ],
+  "contraindications": {
+    "general": [
+      "Inplanted cardiac demand pacemakers or automated internal defibrillators",
+      "Malignant tumors in the treatment area (risk of cellular metastasis)",
+      "Systemic hyperpyrexia, high fever, or systemic infections",
+      "First trimester of pregnancy (application over abdomen, pelvis, or lower back)"
+    ],
+    "local": [
+      "Application directly over the carotid sinus (risk of intense vasodilation, bradycardia, or syncope)",
+      "Directly over deep vein thrombosis or thrombophlebitis (risk of dislodging venous emboli)",
+      "Over areas of active hemorrhage, acute bleeding, or unhealed open fractures",
+      "Directly over or near the eyeballs",
+      "Placement over metal osteosynthesis implants / internal fracture fixation (screws/plates) in the field of the electric line of force",
+      "Anesthetic or hypoesthetic skin segments with completely absent sensations"
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Warmly greet the patient, confirm identity, and establish clinical rapport.",
+      "Review the clinical case sheet, checking for medical diagnoses and exact physical parameters.",
+      "Expose the target muscle (e.g., quadriceps femoris) while preserving patient modesty with elegant draping.",
+      "Thoroughly screen for any contraindications, including checking for metal pins, pacemakers, or impaired peripheral circulation.",
+      "Place the patient in a comfortable, fully supported position (e.g., semi-recumbent with the knee flexed to 20-30 degrees supported by a wedge)."
+    ],
+    "apparatusPreparation": [
+      "Wipe the clinical stimulator, ensuring the AC power line and battery are safe.",
+      "Connect lead wires to the output jacks and check pins for any loose fitting.",
+      "Verify that the amplitude dials are strictly at zero before switching on the power.",
+      "Ensure the machine is set to standard Russian Current specifications (2500 Hz carrier, 50 Hz modulated burst frequency, 1:1 duty cycle)."
+    ],
+    "skinPreparation": [
+      "Inspect the skin surface of the target area for abrasions, rashes, or dry skin.",
+      "Cleanse active and inactive sites thoroughly with cotton soaked in mild soap or saline water to sweep away sweat and surface sebum, drastically lowering skin resistance.",
+      "Dry the cleansed skin thoroughly with a clinical towel before electrode application."
+    ],
+    "electrodePlacement": [
+      "Use carbon-rubber electrodes fitted in clean, thoroughly wet sponge pads (derived from general literature).",
+      "Place the active electrode directly over the motor point of the target muscle (e.g., vastus medialis oblique motor point for patellofemoral tracking).",
+      "Place the second (larger/reference) electrode proximally over the muscle belly or nerve trunk.",
+      "Secure both electrodes tightly using non-elastic Velcro straps, checking that they wrap evenly around the extremity."
+    ],
+    "treatmentProcedure": [
+      "Double-check that all cables are secured and the patient is fully relaxed.",
+      "Switch on the apparatus and slowly turn up the intensity knob from zero.",
+      "Instruct the patient to report when they first feel a mild, comfortable prickling sensation.",
+      "Gradually increase current until a strong, visible, tetanic muscle contraction occurs without reports of stinging or sharp pain.",
+      "Instruct the patient to contract voluntarily in synchrony with the stimulation bursts (e.g., during a 10-second ON / 50-second OFF routine; derived from standard literature).",
+      "Maintain active communication, letting the patient adjust to accommodation by gradually ramping intensity.",
+      "At the 15-20 minute mark, slowly ramp the intensity knob and all dials back to zero.",
+      "Switch off the appliance, disconnect leads, gently remove straps and electrodes, and wipe any residual moisture.",
+      "Thoroughly inspect the treated skin site for mild erythema; if present, apply a light, soothing talcum powder."
+    ]
+  },
+  "precautions": [
+    "Never add current or modify settings in a sudden, jerky pattern.",
+    "Always check that the sponge sleeves of carbon-rubber electrodes are fully wet; dry hotspots are a major cause of skin scalds.",
+    "Ensure electrodes are placed at least their own diameter apart to prevent current bridging on the skin surface.",
+    "Provide constant supervision; never leave patients unattended while the stimulator is actively running.",
+    "Instruct the patient to keep still and avoid touching the metal chassis of the bed, machine, or cables during the active session."
+  ],
+  "clinicalPearls": [
+    "Skin impedance represents the biggest hurdle to therapeutic currents. Clean the skin with soap and ensure wet sponges to maximize current transfer.",
+    "Because the 2500 Hz carrier frequency feels very comfortable, patients easily tolerate higher current intensities, translating to greater motor unit recruitment.",
+    "The 10 ms burst followed by a 10 ms interval represents a 1:1 burst-to-interval ratio. It limits thermal accumulation under the pads, decreasing burn risks.",
+    "Always instruct the patient to voluntarily contract during the electrical contraction phase. This synchrony triggers elite cortical motor mapping (neuromuscular training).",
+    "Keep in mind the mathematical derivations: J. Singh lists 50 periods of 20 ms. Since 1 second contains 1000 ms, 1000 ms / 20 ms = 50 Hz burst frequency. Phase duration of 0.2 ms comes from 50 phases per 10 ms burst (10 ms / 50 = 0.2 ms)."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Postoperative Quadriceps Strengthening",
+      "position": "Semi-recumbent, knee flexed to 30 degrees over a firm bolster",
+      "electrodePlacement": "Dual channel placement: One active electrode over the Vastus Medialis Oblique (VMO) motor point, one over the Vastus Lateralis motor point, with proximal reference electrodes placed on the upper third of the femur",
+      "frequency": "2500 Hz carrier frequency modulated at 50 Hz burst frequency",
+      "purpose": "Prevent disuse muscle wasting, improve patellar alignment, and accelerate functional knee loading"
+    },
+    {
+      "condition": "Scoliosis Convexity Stabilization (Lateral Trunk Muscles)",
+      "position": "Side-lying on the concave side, spinal curves supported",
+      "electrodePlacement": "Dual electrodes placed over the spinal erectors along the apex of the scoliosis convexity",
+      "frequency": "2500 Hz carrier frequency modulated at 50 Hz burst frequency",
+      "purpose": "Provoke powerful paraspinal contractions to correct curvature imbalances"
+    },
+    {
+      "condition": "Disuse Atrophy post Cast Removal (Tibialis Anterior)",
+      "position": "Supine lying, ankle in neutral position with foot supported",
+      "electrodePlacement": "Active electrode directly over the motor point of Tibialis Anterior (upper third of the shin), reference electrode over the muscle tendon distally",
+      "frequency": "2500 Hz carrier frequency modulated at 50 Hz burst frequency",
+      "purpose": "Re-educate active ankle dorsiflexion and rebuild lost motor muscle mass"
+    }
+  ],
+  "vivaQuestions": [
+    "What is Russian Current and what are its standard carrier and burst frequencies according to the textbook?",
+    "Explain why a carrier frequency of 2500 Hz is more comfortable for the patient than standard low-frequency stimulation.",
+    "In Russian Current, explain the significance of the 20 ms period consisting of a 10 ms burst and 10 ms interval.",
+    "How is the phase duration of 0.2 ms derived from the active burst parameters?",
+    "State two basic waveforms that can be used to deliver Russian Current as explicitly identified in the textbook.",
+    "What is the clinical value of utilizing a 50% rest ratio (10 ms burst / 10 ms interval) during neuromuscular electrical stimulation?",
+    "Why is Russian Current highly favored in sports medicine and athletic performance rehabilitation?",
+    "Explain the physiological process of muscle accommodation and how Russian Current deals with it.",
+    "Draft a standard patient safety warning that you must deliver before initiating a Russian Current session.",
+    "List three general and local contraindications to applying medium-frequency currents."
+  ],
+  "mcqs": [
+    {
+      "question": "What is the standard carrier frequency of Russian Current as described in Jagmohan Singh's text?",
+      "options": [
+        "50 Hz",
+        "150 Hz",
+        "2500 Hz",
+        "4000 Hz"
+      ],
+      "answer": "2500 Hz",
+      "explanation": "According to the Jagmohan Singh Textbook of Electrotherapy, Russian Current is an evenly alternating current with a carrier frequency of 2500 Hz (generally between 2000 Hz and 10000 Hz)."
+    },
+    {
+      "question": "What are the allowed carrier frequency boundary limits for Russian Current according to the textbook?",
+      "options": [
+        "100 to 500 Hz",
+        "500 to 1000 Hz",
+        "2000 to 10000 Hz",
+        "4000 to 4100 Hz"
+      ],
+      "answer": "2000 to 10000 Hz",
+      "explanation": "The textbook explicitly indicates that Russian currents are evenly alternating currents with a frequency of 2500 Hz (allowable range between 2000-10000 Hz)."
+    },
+    {
+      "question": "The active burst duration of Russian Current as specified in the textbook is:",
+      "options": [
+        "1 ms",
+        "10 ms",
+        "20 ms",
+        "50 ms"
+      ],
+      "answer": "10 ms",
+      "explanation": "The textbook specifies that Russian Current contains active bursts with a duration of 10 ms."
+    },
+    {
+      "question": "The quiet period or interburst interval between active bursts is:",
+      "options": [
+        "10 ms",
+        "20 ms",
+        "50 ms",
+        "100 ms"
+      ],
+      "answer": "10 ms",
+      "explanation": "The textbook states that there are 50 periods consisting of a 10 ms burst and a 10 ms interval, making the interburst interval 10 ms."
+    },
+    {
+      "question": "A single cycles-and-interval period of Russian Current as stated in the source has a total duration of:",
+      "options": [
+        "1 ms",
+        "10 ms",
+        "20 ms",
+        "40 ms"
+      ],
+      "answer": "20 ms",
+      "explanation": "A full period comprises 10 ms active burst + 10 ms interval, which equals a total duration of 20 ms."
+    },
+    {
+      "question": "How many burst periods occur in a single second when delivering standard Russian Current?",
+      "options": [
+        "10 periods",
+        "20 periods",
+        "50 periods",
+        "250 periods"
+      ],
+      "answer": "50 periods",
+      "explanation": "The textbook explicitly states there are 50 periods of 20 ms duration per second, giving a modulated burst frequency of 50 Hz (1000 ms / 20 ms = 50)."
+    },
+    {
+      "question": "How many complete cycles of alternating current are contained within a single 10 ms active burst?",
+      "options": [
+        "1 cycle",
+        "10 cycles",
+        "25 cycles",
+        "50 cycles"
+      ],
+      "answer": "25 cycles",
+      "explanation": "The J. Singh textbook states that each 10 ms burst contains exactly 25 cycles of alternating current."
+    },
+    {
+      "question": "How many distinct electrical phases are contained within a single 10 ms burst of Russian Current?",
+      "options": [
+        "10 phases",
+        "25 phases",
+        "50 phases",
+        "100 phases"
+      ],
+      "answer": "50 phases",
+      "explanation": "Since each of the 25 cycles contains two phases (one positive, one negative), there are exactly 50 phases of current flow inside every 10 ms burst."
+    },
+    {
+      "question": "What is the exact duration of a single phase of Russian Current as specified in the textbook?",
+      "options": [
+        "0.1 ms",
+        "0.2 ms",
+        "0.5 ms",
+        "1.0 ms"
+      ],
+      "answer": "0.2 ms",
+      "explanation": "The textbook declares that there are 50 phases of 0.2 ms duration contained inside each 10 ms burst (10 ms active burst divided by 50 phases = 0.2 ms)."
+    },
+    {
+      "question": "Which of the following are the two basic waveforms identified for Russian Current delivery?",
+      "options": [
+        "Triangular wave and Sawtooth wave",
+        "Monophasic direct current and Faradic impulses",
+        "Sine wave and square waveform with a fixed intrapulse interval",
+        "Asymmetric biphasic spikes and Exponential bursts"
+      ],
+      "answer": "Sine wave and square waveform with a fixed intrapulse interval",
+      "explanation": "The text explicitly states: 'There are two basic waveforms which are used: A sine wave and a square waveform with a fixed intrapulse interval.'"
+    },
+    {
+      "question": "By utilizing a medium frequency of 2500 Hz, skin impedance is:",
+      "options": [
+        "Significantly increased",
+        "Significantly reduced",
+        "Left completely unchanged",
+        "Shifted to static direct current resistance"
+      ],
+      "answer": "Significantly reduced",
+      "explanation": "Higher carrier frequencies reduce skin capacitive reactance, which reduces overall resistance, allowing comfortable transmission at high intensities."
+    },
+    {
+      "question": "The burst modulation of Russian Current reduces...",
+      "options": [
+        "Skin temperature",
+        "The total amount of current given to the patient",
+        "The depth of penetration",
+        "The frequency of muscle contractions"
+      ],
+      "answer": "The total amount of current given to the patient",
+      "explanation": "The textbook states: 'These bursts reduces the total amount of current given to the patient thus increases patients tolerance.'"
+    },
+    {
+      "question": "In which frequency classification group does Russian Current belong?",
+      "options": [
+        "Low Frequency Currents",
+        "Medium Frequency Currents",
+        "High Frequency Currents",
+        "Ultra-High Frequency Currents"
+      ],
+      "answer": "Medium Frequency Currents",
+      "explanation": "Russian Current belongs to the Medium Frequency current class, which spans frequencies from 1000 Hz to 10000 Hz."
+    },
+    {
+      "question": "Which muscle fiber type is preferentially recruited during strong Russian Current contractions?",
+      "options": [
+        "Slow-twitch Type I aerobic fibers",
+        "Fast-twitch Type II anaerobic glyco-oxidative fibers",
+        "Smooth visceral vascular fibers",
+        "Spindle sensory fibers"
+      ],
+      "answer": "Fast-twitch Type II anaerobic glyco-oxidative fibers",
+      "explanation": "Medium-frequency neuromuscular electrical excitation preferentially activates high-threshold, fast-twitch motor units (Type II fibers)."
+    },
+    {
+      "question": "What is the primary therapeutic advantage of Russian Current over standard Faradic Current stimulation?",
+      "options": [
+        "Produces deep tissue hyperthermia",
+        "Greater patient comfort with deep depth penetration of current",
+        "Drives therapeutic ions through patient's skin",
+        "Destroys localized bacterial infections"
+      ],
+      "answer": "Greater patient comfort with deep depth penetration of current",
+      "explanation": "Due to reduced skin resistance from the 2500 Hz medium-frequency carrier, it causes far less sensory skin irritation than low-frequency Faradic current."
+    },
+    {
+      "question": "Russian Current operates with a duty cycle ratio for its bursts which translates mathematically to:",
+      "options": [
+        "10% active, 90% rest",
+        "25% active, 75% rest",
+        "50% active, 50% rest",
+        "90% active, 10% rest"
+      ],
+      "answer": "50% active, 50% rest",
+      "explanation": "With a 10 ms active burst followed by a 10 ms interburst interval, the ratio is exactly 1:1, representing a 50% active duty cycle."
+    },
+    {
+      "question": "When applying Russian Current, what is the best position for placing the active electrode pad?",
+      "options": [
+        "Directly over the sensory nerve root dermatome",
+        "Directly over the motor point of the target muscle",
+        "Over the contralateral joint bony insertion",
+        "Around the nape of the neck"
+      ],
+      "answer": "Directly over the motor point of the target muscle",
+      "explanation": "Placing the active electrode directly over the muscle's motor point recruits maximum muscle fibers at the lowest electrical current threshold."
+    },
+    {
+      "question": "Which of the following conditions presents an absolute contraindication to the application of Russian Current?",
+      "options": [
+        "Post-traumatic quadriceps muscle atrophy",
+        "Chronic knee osteoarthritis",
+        "Implanted cardiac pacemaker",
+        "Stress urinary incontinence"
+      ],
+      "answer": "Implanted cardiac pacemaker",
+      "explanation": "The electrical fields generated by the medium frequency current can interfere with demand cardiac pacemakers, posing critical safety risks."
+    },
+    {
+      "question": "To secure electrodes firmly and prevent dry hotspot burns, carbon-rubber pads must be:",
+      "options": [
+        "Applied dry with insulating tape",
+        "Encased in heavily wet conductive sponge sleeves",
+        "Coated in oily liniments",
+        "Placed directly on dry, uncleaned skin"
+      ],
+      "answer": "Encased in heavily wet conductive sponge sleeves",
+      "explanation": "Wet sponge pads or hydrogels are essential to distribute the current evenly across the skin, preventing painful current concentrations and burns."
+    },
+    {
+      "question": "Washing the patient's skin with soap or saline water before a session is primarily done to:",
+      "options": [
+        "Inhibit local bacterial growth",
+        "Lower skin sebum and decrease electrical transmission resistance",
+        "Increase muscle temperature",
+        "Lower the pain threshold of sensory nerves"
+      ],
+      "answer": "Lower skin sebum and decrease electrical transmission resistance",
+      "explanation": "Removing surface oils and dirt lowers the capacitive skin resistance, allowing smooth and painless electrical energy transfer into motor points."
+    },
+    {
+      "question": "During a Russian Current knee rehabilitation session, the patient should be instructed to:",
+      "options": [
+        "Sleep comfortably and stay warm",
+        "Perform voluntary muscle contractions in synchrony with the active electrical bursts",
+        "Extend the leg rapidly and forcefully during the silent interval",
+        "Avoid looking at or touching the leg"
+      ],
+      "answer": "Perform voluntary muscle contractions in synchrony with the active electrical bursts",
+      "explanation": "Actively contracting the target muscle during the ON phase enhances cortical motor mapping, boosting motor re-education and hypertrophy."
+    },
+    {
+      "question": "The unit used to express the carrier frequency of Russian Current is:",
+      "options": [
+        "Volt (V)",
+        "Milliampere (mA)",
+        "Hertz (Hz)",
+        "Ohm (Z)"
+      ],
+      "answer": "Hertz (Hz)",
+      "explanation": "Frequency, representing cycles per second, is expressed in Hertz (Hz)."
+    },
+    {
+      "question": "Which of the following is a local contraindication for placing Russian Current electrodes?",
+      "options": [
+        "Postoperative knee joint",
+        "Anesthetic skin area on the target limb",
+        "Scoliosis convexity",
+        "Tibialis Anterior muscle belly"
+      ],
+      "answer": "Anesthetic skin area on the target limb",
+      "explanation": "Placing electrodes over anesthetic (numb) area is contraindicated because the patient cannot report excessive current or burning."
+    },
+    {
+      "question": "The mathematical formula for skin impedance (reactance) demonstrates that as frequency increases:",
+      "options": [
+        "Impedance increases proportionally",
+        "Impedance decreases proportionally",
+        "Impedance is completely neutralized to zero",
+        "Impedance translates into direct galvanic heat"
+      ],
+      "answer": "Impedance decreases proportionally",
+      "explanation": "Capacitive reactance is given by Xc = 1 / (2 * pi * f * C). As frequency (f) increases, skin impedance decreases, improving comfort."
+    },
+    {
+      "question": "If a patient experiences severe stinging or burning during current ramp-up, the therapist should immediately:",
+      "options": [
+        "Increase the frequency to 10000 Hz",
+        "Instruct the patient to tolerate it for at least 5 minutes",
+        "Ramp the intensity to zero and check sponge dampness",
+        "Switch the machine settings to continuous direct current"
+      ],
+      "answer": "Ramp the intensity to zero and check sponge dampness",
+      "explanation": "A burning sensation indicates a current hotspot, often caused by poor electrode coupling or dry sponges. The current must be zeroed immediately before inspecting the pads."
+    },
+    {
+      "question": "What is the recommended average treatment duration for a muscle strengthening session utilizing Russian Current?",
+      "options": [
+        "5 minutes",
+        "15–20 minutes",
+        "60 minutes",
+        "Continuous 24-hour application"
+      ],
+      "answer": "15–20 minutes",
+      "explanation": "The standard duration for neuromuscular electronic stimulation to evoke powerful strengthening contractions is 15–20 minutes."
+    },
+    {
+      "question": "When applying Russian Current over the quadriceps femoris, what is the best patient position?",
+      "options": [
+        "Supported prone lying with ankle weights",
+        "Semi-recumbent sitting, with the knee flexed to 20-30 degrees supported by a bolster",
+        "Full squats with a barbell load",
+        "Side-lying, with the hips and knees in full extension"
+      ],
+      "answer": "Semi-recumbent sitting, with the knee flexed to 20-30 degrees supported by a bolster",
+      "explanation": "This secure, relaxed position targets quadriceps motor fibers in slight knee flexion, which protects the patellofemoral joint."
+    },
+    {
+      "question": "Which of the following is NOT an advantage of Russian Current over Faradic current?",
+      "options": [
+        "Reduced skin sensory irritation",
+        "Deeper penetration to activate deep muscles",
+        "No risk of skin scalds, burns, or electrical shocks",
+        "Comfortable delivery of high-intensity motor stimulation"
+      ],
+      "answer": "No risk of skin scalds, burns, or electrical shocks",
+      "explanation": "While Russian Current is safer and more comfortable, improper coupling, dry sponges, or technical faults can still pose risks of skin burns or electric shocks."
+    },
+    {
+      "question": "Which of the following parameters represents a single cycle of alternating current's period at a frequency of 2500 Hz?",
+      "options": [
+        "0.2 ms",
+        "0.4 ms",
+        "1 ms",
+        "10 ms"
+      ],
+      "answer": "0.4 ms",
+      "explanation": "A frequency of 2500 Hz means 2500 cycles per 1000 ms. 1000 ms / 2500 = 0.4 ms per cycle."
+    },
+    {
+      "question": "The physiological rationale behind utilizing rest intervals between active TENS/Russian Current cycles is to prevent:",
+      "options": [
+        "Nerve conduction block",
+        "Excessive muscle fatigue",
+        "Electrolytic skin burns",
+        "Thermal tissue aggregation"
+      ],
+      "answer": "Excessive muscle fatigue",
+      "explanation": "High-intensity medium-frequency stimulation triggers powerful muscular contractions. rest intervals are vital to restore intracellular ATP, preventing premature muscle fatigue."
+    }
+  ],
+  "reference": [
+    "Jagmohan Singh - Textbook of Electrotherapy - Medium Frequency Currents - Russian Currents (p. 135)",
+    "Clayton's Electrotherapy - Theory and Practice (9th/10th Edn)",
+    "Low & Reed - Electrotherapy Explained: Principles and Practice"
+  ]
+}

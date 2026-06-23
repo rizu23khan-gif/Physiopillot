@@ -1,0 +1,48 @@
+{
+  "subject": "Electrotherapy II",
+  "chapterId": "el2_ch11",
+  "chapterName": "Therapeutic Traction",
+  "definition": [
+    "Therapeutic Traction is the application of a mechanical distraction force to the spinal column to separate skeletal segments, relieve pressure, or reduce pain."
+  ],
+  "principle": [],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Initially, start with a lower tractive force to assess patient tolerance before escalating to therapeutic levels."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "What are the main parameters to customize when setting up mechanical traction?"
+  ],
+  "mcqs": [
+    {
+      "question": "What is a major contraindication for therapeutic lumbar traction?",
+      "options": [
+        "Muscle spasm",
+        "Disc protrusion",
+        "Joint hypomobility",
+        "Spinal instability"
+      ],
+      "answer": "Spinal instability",
+      "explanation": "Spinal instability or fracture poses a significant hazard where traction-induced spinal separation can result in neurological compromise."
+    }
+  ],
+  "reference": [
+    "Spinal Traction - Principles and Practice"
+  ]
+}

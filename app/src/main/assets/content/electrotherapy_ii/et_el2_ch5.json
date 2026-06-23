@@ -1,0 +1,48 @@
+{
+  "subject": "Electrotherapy II",
+  "chapterId": "el2_ch5",
+  "chapterName": "Microwave Diathermy (MWD)",
+  "definition": [
+    "Microwave Diathermy is a deep heating modality using electromagnetic radiation in the microwave frequency range to heat tissues."
+  ],
+  "principle": [],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Microwaves are strongly absorbed by tissues with high water content, like muscle, which can lead to rapid heating of those areas."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "What is the primary difference in heating pattern between SWD and MWD?"
+  ],
+  "mcqs": [
+    {
+      "question": "Which frequencies are standard for Microwave Diathermy?",
+      "options": [
+        "27.12 MHz",
+        "915 MHz",
+        "2450 MHz",
+        "Both 915 MHz and 2450 MHz"
+      ],
+      "answer": "Both 915 MHz and 2450 MHz",
+      "explanation": "Both 915 MHz and 2450 MHz are designated microwave bands utilized for clinical deep heating."
+    }
+  ],
+  "reference": [
+    "Physical Agents in Rehabilitation - Michelle H. Cameron"
+  ]
+}

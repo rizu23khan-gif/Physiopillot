@@ -1,0 +1,48 @@
+{
+  "subject": "Electrotherapy II",
+  "chapterId": "el2_ch10",
+  "chapterName": "Nerve Conduction Velocity (NCV)",
+  "definition": [
+    "Nerve Conduction Velocity is a diagnostic test to determine the speed of electrical signals traveling along motor or sensory nerves."
+  ],
+  "principle": [],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Skin temperature significantly affects conduction velocity; cold limbs must be warmed before testing."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "How do you calculate motor nerve conduction velocity?"
+  ],
+  "mcqs": [
+    {
+      "question": "Conduction velocity is calculated by dividing distance by:",
+      "options": [
+        "Proximal latency",
+        "Distal latency",
+        "Difference between proximal and distal latencies",
+        "Total amplitude"
+      ],
+      "answer": "Difference between proximal and distal latencies",
+      "explanation": "NCV is calculated as Conduction Distance divided by the conduction time difference (proximal latency minus distal latency)."
+    }
+  ],
+  "reference": [
+    "Nerve Conduction Studies in Clinical Practice"
+  ]
+}

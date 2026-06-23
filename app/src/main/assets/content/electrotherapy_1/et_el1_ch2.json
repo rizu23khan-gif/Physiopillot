@@ -1,0 +1,302 @@
+{
+  "subject": "Electrotherapy I",
+  "chapterId": "el1_ch2",
+  "chapterName": "Direct & Galvanic Currents",
+  "definition": [
+    "Continuous Direct Current (Galvanism): A continuous, unidirectional flow of electrical charge with constant intensity and direction over time.",
+    "Interrupted Direct Current (IDC): A unidirectional current that is periodically broken or pulsed, featuring a slow rise and fall (sawtooth, triangular, trapezoidal, or rectangular shapes). Long pulse durations (e.g., 100 ms to 300 ms) are typically used.",
+    "Iontophoresis (Ionophoresis): The active introduction of water-soluble, charged pharmacological ions into tissues through the epidermal skin layers using continuous, low-intensity galvanic current.",
+    "Electrotonus: The localized alteration of electrical excitability and conductivity in nerve or muscle tissue caused by the passage of a continuous direct current.",
+    "Catelectrotonus: The state of enhanced excitability and lower depolarization threshold occurring around the negative electrode (cathode).",
+    "Anelectrotonus: The state of decreased excitability, membrane hyperpolarization, and raised excitation threshold occurring around the positive electrode (anode)."
+  ],
+  "principle": [
+    "Polar Chemical Reactions: The unidirectional ion flow of galvanic current creates distinct biochemical changes at each pole. Cathodic hydration softens tissue structure, while anodic dehydration hardens tissue.",
+    "Iontophoresis Migration: Charged solute ions are repelled by electrodes carrying the same charge (homonymous charge repulsion) and pulled toward electrodes of the opposite charge, actively crossing the skin barrier via eccrine sweat gland ducts.",
+    "Electro-Osmosis: The bulk flow of solvent (water) across biological membranes under the influence of an electrical potential gradient, moving from the anode toward the cathode. This helps mobilize fluid and reduce localized edema."
+  ],
+  "equipment": [
+    "Galvanic Stimulator Unit (Capable of constant current CC delivery to stabilize voltage fluctuations)",
+    "Pure Zinc or Tin Metal Plate Electrodes (Highly flexible to contour around joints)",
+    "Lint/Sponge Pads: Multi-layered absorbent material (minimum 1 cm thickness) soaked in warm tap water or conductive saline",
+    "Iontophoresis Drug Vials: Charged active substances such as Dexamethasone Sodium Phosphate (-), Salicylate (-), Lidocaine (+), or Copper (+)"
+  ],
+  "parameters": {
+    "intensityUpperLimit": "Up to 15 mA (clinical safe ceiling based on patient density threshold)",
+    "currentDensityLimit": "Cathode: Max 0.15 mA/cm², Anode: Max 0.3 mA/cm²",
+    "pulseDurationIDC": "1 ms to 300 ms",
+    "treatmentDuration": "15 to 30 minutes"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Acid-Base Electrochemical Alteration",
+      "frequency": "Continuous Direct Current (0 Hz)",
+      "mechanism": [
+        "Cathode (-) attracts water-loving sodium ions (Na+), reacting with water to form caustic sodium hydroxide (alkali). This causes a soft, liquefied tissue reaction.",
+        "Anode (+) attracts acid-forming chloride ions (Cl-), reacting to yield hydrochloric acid. This causes tissue coagulation and protein hardening."
+      ]
+    },
+    {
+      "effect": "Vasomotor Vasodilation (Galvanic Erythema)",
+      "frequency": "Continuous Direct Current (0 Hz)",
+      "mechanism": [
+        "Unidirectional stimulation triggers direct local axon reflex release of sensory neuropeptides like Substance P and Calcitonin Gene-Related Peptide.",
+        "Produces robust capillary dilatation, resulting in deep, warming skin redness (erythema) under both electrodes."
+      ]
+    }
+  ],
+  "indications": [
+    "Iontophoresis for dry localized hyperhidrosis (using glycopyrrolate or public tap water).",
+    "Transdermal Delivery of anti-inflammatories for tendinitis or bursitis pain.",
+    "Electrical stimulation of denervated muscle groups to prevent disuse myofibrillar atrophy.",
+    "Soft tissue resorption and softening of linear post-surgical keloids or fibrous scars."
+  ],
+  "contraindications": {
+    "general": [
+      "Indwelling electrical cardiac pacemaker or sensory spinal cord stimulator.",
+      "Complete sensory numbness or anesthesia over the target path."
+    ],
+    "local": [
+      "Active systemic dermatitis, eczema, open ulcers, or denuded skin areas.",
+      "Presence of deep indwelling metal plates, joint screws, or surgical wires in the current field."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Inquire about past metal implants or cardiac history before applying the current.",
+      "Perform a 2-point sensory discrimination scratch test to verify intact warmth and touch sensation.",
+      "Explain that a regular treatment produces a warm, crawling, slightly prickly sensation, while a burn feels like a hot needle-bite."
+    ],
+    "apparatusPreparation": [
+      "Check that pad sponges are clean and fully saturated with warm saline but not dripping-wet.",
+      "Ensure sponges are slightly larger than the raw metal electrodes on all four edges by at least 1 cm to avoid metal-to-skin contact."
+    ],
+    "skinPreparation": [
+      "Cleanse skin surfaces thoroughly with warm soapy water to remove insulating dermis oils.",
+      "Ensure any tiny skin cuts or blemishes are completely covered with insulating Vaseline or non-conductive medical tape."
+    ],
+    "electrodePlacement": [
+      "For drug delivery, soak the active sponge with the medicated ion solution and place it over the pathology.",
+      "Position the inactive dispersive pad at a distance (e.g., opposite side of the limb) to prevent current bridging."
+    ],
+    "treatmentProcedure": [
+      "Slowly raise the current dial, allowing 1 minute for the skin resistance to drop as the current hydrates the epidermis.",
+      "Check patient status multiple times during the session, and always step down current to absolute zero before peeling pads off."
+    ]
+  },
+  "precautions": [
+    "Never configure the cathode density above 0.15 mA/cm² as the forming alkaline sodium hydroxide is highly caustic to protective skin tissues.",
+    "Do not allow the bare edges of mental plates to slip out of the wet sponge wrap during the session."
+  ],
+  "clinicalPearls": [
+    "Always check the chemical polarity of the active drug before applying iontophoresis. Dexamethasone phosphate is negatively charged (-) and must be driven from the negative cathode, whereas Lidocaine is positively charged (+) and must be loaded on the positive anode pad."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Idiopathic Palmar Hyperhidrosis",
+      "position": "Seated facing two separate shallow plastic trays containing tap water",
+      "electrodePlacement": "Dual metal grids inside water trays, isolated by protective rubber grids; palms resting on water surfaces",
+      "frequency": "3 sessions per week, progressing to 1 session weekly as a maintenance protocol",
+      "purpose": "Introduce water minerals to temporarily plug the sebaceous and tap eccrine sweat glands"
+    }
+  ],
+  "vivaQuestions": [
+    "Question: Why does the cathode present a higher risk of chemical burns than the anode when using galvanic current? | Answer: Under the negative cathode, sodium ions accumulate and react with tissue water to form sodium hydroxide. Because sodium hydroxide is alkaline, it dissolves and liquefies skin proteins, allowing current to penetrate deeper and cause rapid chemical tissue destruction. In contrast, the anode forms hydrochloric acid, which coagulates proteins and hardens tissues, creating a natural, self-limiting protective barrier. | Examiner Key Points: Sodium hydroxide vs hydrochloric acid, liquefactive necrosis at cathode, coagulative barrier at anode. | Clinical Importance: Guides clinician to utilize lower current densities at the negative electrode.",
+    "Question: Define Iontophoresis and name its primary pathways of drug penetration through the skin. | Answer: Iontophoresis is the non-invasive, transdermal delivery of charged pharmaceutical ions using continuous direct current. The primary pathways of penetration are the skin appendages, specifically the sweat gland ducts and hair follicle shafts, bypasses the high-impedance stratum corneum of dry skin. | Examiner Key Points: Epidermal bypass, eccrine sweat glands, hair follicles, continuous direct current. | Clinical Importance: Optimizes therapeutic targeting of deep soft-tissues without systemic side-effects.",
+    "Question: Explain the differences between anelectrotonus and catelectrotonus. | Answer: Anelectrotonus is hyperpolarization and reduced nerve excitability around the anode due to positive charge pooling outside nerve membranes. Catelectrotonus is depolarization and enhanced excitability around the cathode due to negative charges pooling outside, moving the membrane potential closer to threshold. | Examiner Key Points: Excitability changes, hyperpolarization at anode, depolarization at cathode. | Clinical Importance: Guides polarity selection (the anode is used for relieving pain; the cathode is used for nerve stimulation).",
+    "Question: What is a galvanic shock and how is it clinically avoided when completing a treatment? | Answer: A galvanic shock is a sudden, painful muscle spasm caused by a rapid change in current intensity. It is avoided by ensuring stimulator controls are at absolute zero before starting, raising current amplitude very slowly, and ramping the intensity back to zero before turning the equipment power off. | Examiner Key Points: Sudden current surge, terminal intensity ramp down, machine safety. | Clinical Importance: Ensures patient safety and prevents physical anxiety during therapy.",
+    "Question: Explain the mechanism of electro-osmosis under the influence of continuous direct current. | Answer: Electro-osmosis is the bulk displacement of water molecules through biological membranes toward the negative cathode. This occurs because healthy skin membranes possess a net negative charge, making them porous to positively charged hydration shells moving under the applied EMF. | Examiner Key Points: Water displacement direction, cathode attraction, skin membrane charge. | Clinical Importance: Assists in clinical reduction of chronic localized synovial joint effusion.",
+    "Question: Why do we use multi-layered sponge padding (at least 1 cm thick) over metal plates in galvanic therapy? | Answer: Galvanic current produces caustic electrochemical products directly at the metal-saline interface. Thick sponge pads hold enough moisture to dilute these acids and alkalis, keeping them safely away from direct contact with the patient's skin. | Examiner Key Points: Chemical dilution, metal plate isolation, prevention of contact burns. | Clinical Importance: Essential physical barrier safeguard for all direct current setups.",
+    "Question: Name two common drugs used in physical iontophoresis, their chemical charges, and their clinical indications. | Answer: 1. Dexamethasone Sodium Phosphate, which is negatively charged (-) and used to treat acute ankle bursitis and tendon inflammation. 2. Lidocaine Hydrochloride, which is positively charged (+) and used for rapid, local skin analgesia. | Examiner Key Points: Dexamethasone (-), Lidocaine (+), indications, electrode polarity pairs. | Clinical Importance: Enables targeted non-invasive drug administration.",
+    "Question: Why are continuous direct currents ideally delivered under constant current (CC) mode rather than constant voltage (CV) mode? | Answer: Under continuous DC, skin impedance drops dynamically as tissues become hydrated. In constant voltage mode, a drop in resistance would cause current to spike (I = V/R), potentially burning the patient. Constant current mode automatically lowers voltage to keep delivery safe and steady. | Examiner Key Points: CC vs CV, impedance changes over time, safety feedback loop. | Clinical Importance: Maintains a stable, safe therapeutic current regardless of skin impedance changes.",
+    "Question: What is polar effect fatigue and how do we prevent it during long-term diagnostic direct current therapies? | Answer: Polar effect fatigue is the gradual loss of biological tissue excitability under continuous DC due to sustained cellular polarization. It is avoided by adding brief rest intervals (interrupted direct current) or periodically switching polarity. | Examiner Key Points: Tissue polarization, interrupted intervals, polarity reversal. | Clinical Importance: Sustains diagnostic accuracy during nerve conductivity tests.",
+    "Question: What is galvanic erythema and how long does it typically persist post-treatment? | Answer: Galvanic erythema is deep, red skin flush under the electrodes caused by local vasodilation from capillary expansion. This is triggered by direct axon reflexes and the release of histamine-like substances, and it typically fades without harm within 1 to 2 hours. | Examiner Key Points: Vasodilatory capillary expansion, histamine-like release, duration. | Clinical Importance: Represents a normal vascular response, distinguishing it from an injury burn."
+  ],
+  "mcqs": [
+    {
+      "question": "What type of current is characterized by continuous, unidirectional flow?",
+      "options": ["Symmetrical AC", "Galvanic Current", "Interferential Current", "Faradic Current"],
+      "answer": "Galvanic Current",
+      "explanation": "Galvanic current is the clinical term for continuous direct current, flowing unidirectionally with constant amplitude."
+    },
+    {
+      "question": "Which chemical compound is produced at the cathode during continuous direct current application?",
+      "options": ["Hydrochloric acid", "Sodium hydroxide", "Nitric oxide", "Calcium carbonate"],
+      "answer": "Sodium hydroxide",
+      "explanation": "Accumulation of positive sodium (Na+) ions at the cathode reacts with water (H2O) to produce sodium hydroxide (NaOH), which is strongly alkaline."
+    },
+    {
+      "question": "What is the clinical safe current density ceiling for the negative cathode?",
+      "options": ["0.15 mA/cm²", "0.3 mA/cm²", "0.5 mA/cm²", "1.0 mA/cm²"],
+      "answer": "0.15 mA/cm²",
+      "explanation": "To prevent caustic alkaline chemical burns under the cathode, current density must be restricted to a maximum of 0.15 mA/cm²."
+    },
+    {
+      "question": "The state of reduced excitability occurring dynamically under the anode is known as:",
+      "options": ["Catelectrotonus", "Anelectrotonus", "Accommodation", "Myofibrolosis"],
+      "answer": "Anelectrotonus",
+      "explanation": "Anelectrotonus refers to hyperpolarization and reduced membrane excitability in tissues directly under the positive anode."
+    },
+    {
+      "question": "Which of the following describes the mechanism of Iontophoresis?",
+      "options": ["Suction-induced skin blood flow", "Thermal transport via localized sound waves", "Active drug ion transfer using galvanic current", "Subdermal drug infusion using micro-needles"],
+      "answer": "Active drug ion transfer using galvanic current",
+      "explanation": "Iontophoresis introduces active medical ions across the skin using the electromotive force of continuous galvanic current."
+    },
+    {
+      "question": "Dexamethasone Sodium Phosphate is driven through the skin using which electrode?",
+      "options": ["Anode (positive)", "Cathode (negative)", "Either anode or cathode", "Coaxial bipolar probe"],
+      "answer": "Cathode (negative)",
+      "explanation": "Because Dexamethasone phosphate ions carry a negative charge, they must be placed on the negative cathode so they are repelled into the skin."
+    },
+    {
+      "question": "Which of the following is an active positive ion used in iontophoresis to reduce chronic edema?",
+      "options": ["Salicylate", "Dexamethasone", "Zinc", "Chlorine"],
+      "answer": "Zinc",
+      "explanation": "Zinc ions are positively charged and have astringent and healing properties, making them suitable for delivery via the positive anode."
+    },
+    {
+      "question": "At which electrode does coagulative protein hardening take place?",
+      "options": ["Cathode (negative)", "Anode (positive)", "Both electrodes", "Neither electrode"],
+      "answer": "Anode (positive)",
+      "explanation": "The hydrochloric acid generated at the anode (+) causes coagulative protein hardening and tissue drying."
+    },
+    {
+      "question": "In electrotherapy, current flow produced by a slow, gradual rise and sudden drop in amplitude is called a:",
+      "options": ["Rectangular pulse", "Sawtooth pulse", "Sinusoidal pulse", "Biphasic symmetrical pulse"],
+      "answer": "Sawtooth pulse",
+      "explanation": "A sawtooth pulse has a slow, progressive rise (ramp) followed by a sharp, immediate fall back to baseline."
+    },
+    {
+      "question": "What is the typical diagnostic pulse duration range used in Interrupted Direct Current?",
+      "options": ["0.01 to 0.1 ms", "1 to 300 ms", "1000 to 2000 ms", "Microseconds only"],
+      "answer": "1 to 300 ms",
+      "explanation": "Interrupted direct currents use long-duration pulses, typically between 1 ms and 300 ms, to stimulate denervated muscles."
+    },
+    {
+      "question": "Which anatomical structure provides the main pathway for transdermal iontophoresis?",
+      "options": ["Keratinized stratum corneum", "Sweat gland ducts and hair follicles", "Sensory Pacinian corpuscles", "Capillary endothelial walls"],
+      "answer": "Sweat gland ducts and hair follicles",
+      "explanation": "Sweat glands and hair follicles offer pathways with lower electrical resistance, allowing drug ions to bypass the stratum corneum."
+    },
+    {
+      "question": "The movement of bulk tissue fluid toward the cathode under direct current is called:",
+      "options": ["Iontophoresis", "Electro-osmosis", "Electrophoresis", "Anodal block"],
+      "answer": "Electro-osmosis",
+      "explanation": "Electro-osmosis describes the electrical field-driven migration of water molecules toward the negative cathode."
+    },
+    {
+      "question": "Why must tiny skin cuts be covered with vaseline before applying galvanic current?",
+      "options": ["To lubricate the dry pads", "To insulate the area and prevent high current concentration", "To speed up local drug metabolism", "To keep metal pins from rusting"],
+      "answer": "To insulate the area and prevent high current concentration",
+      "explanation": "Skin cuts have lost the high-resistance epidermal layer. Leaving them exposed concentrates current at the cut, risking severe burns."
+    },
+    {
+      "question": "Which of the following is a local contraindication for galvanic current?",
+      "options": ["Chronic low back pain", "Bony metal implants in the current path", "Intact skin sensation", "Idiopathic hyperhidrosis"],
+      "answer": "Bony metal implants in the current path",
+      "explanation": "Surgical metal plates or screws act as low-resistance conductors, which can concentrate current and cause internal heat and tissue burns."
+    },
+    {
+      "question": "What is the normal thickness threshold of wet sponge pads used in galvanic setups?",
+      "options": ["At least 1 cm", "Less than 2 mm", "Exactly 5 cm", "Sponge padding is not required"],
+      "answer": "At least 1 cm",
+      "explanation": "Multi-layered absorbent sponge padding of at least 1 cm is required to dilute dangerous chemicals and isolate skin from metal."
+    },
+    {
+      "question": "If a patient has dry skin, what is the best way to lower resistance before applying DC?",
+      "options": ["Apply rubbing alcohol directly on the active metal plate", "Soak the skin with warm water or saline for a few minutes", "Instruct the patient to exercise to build sweat", "Apply a thick coating of dry powder"],
+      "answer": "Soak the skin with warm water or saline for a few minutes",
+      "explanation": "Soaking the skin hydrates the thick stratum corneum, opening pores and reducing electrical resistance significantly."
+    },
+    {
+      "question": "What is the typical treatment time for galvanic iontophoresis sessions?",
+      "options": ["2 to 5 minutes", "15 to 30 minutes", "1 to 2 hours", "Continuous 24-hour application"],
+      "answer": "15 to 30 minutes",
+      "explanation": "The standard therapeutic duration for clinical iontophoresis ranges from 15 to 30 minutes to facilitate drug transfer without burning."
+    },
+    {
+      "question": "Which electro-diagnostic parameter represents the state of increased excitability under the cathode?",
+      "options": ["Anelectrotonus", "Catelectrotonus", "Refractory latency", "Accommodation index"],
+      "answer": "Catelectrotonus",
+      "explanation": "Catelectrotonus refers to membrane depolarization and increased excitability beneath the negative cathode."
+    },
+    {
+      "question": "The clinical safe current density ceiling for the positive anode is:",
+      "options": ["0.3 mA/cm²", "0.05 mA/cm²", "1.5 mA/cm²", "3.0 mA/cm²"],
+      "answer": "0.3 mA/cm²",
+      "explanation": "Because hydrochloric acid (forming at the anode) is less caustic than sodium hydroxide, the anode has a slightly higher safe limit of 0.3 mA/cm²."
+    },
+    {
+      "question": "How does constant current (CC) mode protect patients during direct current therapies?",
+      "options": ["By delivering high voltage bursts", "By keeping current steady even if skin resistance drops", "By automatically muting nerve pain frequencies", "By cooling down the hot metal plates"],
+      "answer": "By keeping current steady even if skin resistance drops",
+      "explanation": "As skin resistance drops during treatment, constant current (CC) mode automatically drops voltage to keep current stable and prevent burns."
+    },
+    {
+      "question": "A complete clinical loss of skin sensation in the target treatment area is considered:",
+      "options": ["An indication for continuous direct current", "An absolute contraindication", "A typical reaction that is expected", "A reason to double the current intensity"],
+      "answer": "An absolute contraindication",
+      "explanation": "Sensory anesthesia is an absolute contraindication because the patient cannot report burning pain or hot spots, maximizing the risk of severe tissue burns."
+    },
+    {
+      "question": "Which of the following drugs is delivered from the anode (+) to alleviate localized pain?",
+      "options": ["Dexamethasone", "Salicylate", "Lidocaine", "Iodine"],
+      "answer": "Lidocaine",
+      "explanation": "Lidocaine ions are positively charged and must be repelled from the positive anode (+) into tissues to provide local anesthesia."
+    },
+    {
+      "question": "What reaction is seen during a normal galvanic erythema response?",
+      "options": ["Sudden skin blistering and tissue sloughing", "Sustained, warm skin flushing", "Deep purulent fluid accumulation", "Complete tissue necrosis"],
+      "answer": "Sustained, warm skin flushing",
+      "explanation": "Sustained skin flushing (erythema) is a normal vasodilatory reflex caused by direct axon excitation and local chemical release."
+    },
+    {
+      "question": "Which current wave choice provides a slow, progressive rise in amplitude?",
+      "options": ["Rectangular wave", "Triangular or Sawtooth wave", "High frequency sinusoidal wave", "Continuous DC pulse"],
+      "answer": "Triangular or Sawtooth wave",
+      "explanation": "Triangular and sawtooth waves rise slowly, allowing time for sensory accommodation before reaching peak amplitude."
+    },
+    {
+      "question": "How does moisture distribution inside sponge pads affect direct current safety?",
+      "options": ["Oversaturated pads cause magnetic fields", "Dry patches create high resistance, forcing current to localize at wet spots and burn skin", "Saline prevents deep drug penetration", "Moisture makes tissues hyperpolarize immediately"],
+      "answer": "Dry patches create high resistance, forcing current to localize at wet spots and burn skin",
+      "explanation": "Uneven moisture creates high and low resistance channels. Current concentrates at the wet paths, raising local current density and risking burns."
+    },
+    {
+      "question": "What is the typical pulse frequency of Interrupted Direct Current used for muscle stimulation?",
+      "options": ["50 to 100 Hz", "Around 1 Hz (single separate pulses)", "2000 Hz", "10000 Hz"],
+      "answer": "Around 1 Hz (single separate pulses)",
+      "explanation": "Interrupted DC uses slow, solitary pulses (around 1 Hz/ 1 pulse per second) to elicit distinct twitches in denervated muscles."
+    },
+    {
+      "question": "Continuous direct current can be used to treat scars. This process is called:",
+      "options": ["Sclerolysis", "Coagulation", "Sclerotherapy", "Anelectrotonus"],
+      "answer": "Sclerolysis",
+      "explanation": "The softening of scars and keloids using the alkaline, tissue-liquefying effects of the cathode (-) is called sclerolysis."
+    },
+    {
+      "question": "Water used for tap water iontophoresis in hyperhidrosis acts as a medium for:",
+      "options": ["Conductive mineral ions", "Acidic drug formulas", "Anaesthetic substances", "Enzymatic proteins"],
+      "answer": "Conductive mineral ions",
+      "explanation": "Tap water contains natural minerals and ions like calcium, magnesium, and carbonate, which conduct the current to plug sweet glands."
+    },
+    {
+      "question": "Which of the following is true regarding electrochemical burns under direct current?",
+      "options": ["They are warm to downstream tissues and heal in minutes", "They are deep, painless at onset, and slow to heal", "They occur only under constant voltage systems", "They affect only inner bone structures"],
+      "answer": "They are deep, painless at onset, and slow to heal",
+      "explanation": "Electrochemical burns are deep chemical injuries. Because galvanic current can anesthetize nerves, burns may develop painlessly and take a long time to heal."
+    },
+    {
+      "question": "What happens when a direct current is applied to a nerve with high catecholamine concentration?",
+      "options": ["Synaptic block increases", "Anelectrotonus hyperpolarizes tissue", "The nerve is completely destroyed", "No response occurs"],
+      "answer": "Anelectrotonus hyperpolarizes tissue",
+      "explanation": "Direct current on nerves alters membrane polarization, with the anode inducing hyperpolarization (anelectrotonus) regardless of local chemicals."
+    }
+  ],
+  "reference": [
+    "Clayton's Electrotherapy, 9th Edition - Chapter 6: Direct Currents",
+    "Low & Reed - Electrotherapy Explained, 4th Edition - Chapter 2 & 5",
+    "Jagmohan Singh - Textbook of Electrotherapy, 3rd Edition - Chapter 2"
+  ]
+}

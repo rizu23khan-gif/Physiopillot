@@ -1,0 +1,315 @@
+{
+  "subject": "Exercise Therapy II",
+  "chapterId": "ex2_ch4",
+  "chapterName": "Manual Muscle Testing",
+  "definition": [
+    "Manual Muscle Testing (MMT): A standardized clinical procedure used to evaluate the strength and contractility of individual skeletal muscles or muscle groups based on gravity and manual resistance.",
+    "Break Test: A manual testing dynamic where the examiner applies external force at the end of the patient's active range of motion, instructing them to hold and not let the examiner break their position.",
+    "Active Resistance Test: An evaluation method where the examiner applies continuous manual resistance opposing the patient's active contraction throughout the entire available range of motion.",
+    "Muscle Substitution: A compensatory movement pattern where adjacent muscles or muscle groups contract to perform an action when the prime mover is weak, fatigued, or paralyzed.",
+    "Active Insufficiency: The physiological state where a multi-joint muscle is shortened to a point where it can no longer develop effective contractile tension.",
+    "Passive Insufficiency: The biomechanical limitation where a multi-joint muscle cannot be elongated further without causing joint motion or structural stretching of tissue.",
+    "Stabilization: The mechanical anchoring of a proximal body segment by the therapist or a specialized strap to isolate the target muscle's action and prevent compensatory substitutions.",
+    "Medical Research Council (MRC) Scale: The universally accepted 0 to 5 numerical grading framework used to categorize skeletal muscle contraction strength with respect to gravity and manual resistance.",
+    "One-Joint Muscle: A muscle that crosses only a single joint, transferring all physical tension directly to that single osteokinematic articulation.",
+    "Two-Joint Muscle: A muscle that crosses two distinct joint axes, requiring stabilization of one joint to accurately measure the muscle's contractile capacity at the other."
+  ],
+  "principle": [
+    "Length-Tension Relationship: Skeletal muscle produces its maximum contractile tension when it is tested in its optimal mid-range length, where overlap of actin and myosin cross-bridges is maximized.",
+    "Lever System Mechanics: Manual resistance is applied at the distal end of the moving bone segment because it provides the longest mechanical leverage, optimizing the examiner's mechanical advantage.",
+    "Gravity Vector Alignment: To eliminate gravity, movements must occur parallel to the horizontal plane. To test anti-gravity strength, movements must occur vertically against the downward pull of gravity.",
+    "Neural Motor Unit Recruitment: MMT assesses not only physical muscle mass but also the recruitment, firing frequency, and synchronization of alpha motor neurons under voluntary cerebral control."
+  ],
+  "equipment": [
+    "Standardized hydraulic plinth with high-density foam padding.",
+    "Supportive bolster pillows, wedge blocks, and stabilization straps.",
+    "Universal manual goniometer for joint position tracking.",
+    "Dynamometers (hand-held or computerized isometric sensor stations)."
+  ],
+  "parameters": {
+    "intensity": "Adjusted manually from light touch (Grade 1/2) to maximum breaking force (Grade 5) according to anatomical muscle cross-sections",
+    "duration": "Static isometric resistance must be applied and held steady for 5 seconds to accurately assess peak contractile hold",
+    "frequency": "Conducted as a baseline assessment, then re-evaluated every 1 to 2 weeks to monitor neuromuscular rehabilitation progress",
+    "repetitions": "Maximum 1 to 2 repetitions per muscle group to prevent cumulative neuromotory fatigue and preserve diagnostic accuracy"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Cardiovascular Sympathetic Response",
+      "frequency": "During maximum voluntary isometric contraction (MVIC)",
+      "mechanism": [
+        "Involves temporary, localized increase in blood pressure and heart rate (Valsalva reflex).",
+        "Triggers the release of systemic catecholamines to meet transient high-contractile metabolic demand."
+      ]
+    },
+    {
+      "effect": "Skeletal Muscle Motor Unit Synchronization",
+      "frequency": "During peak static resistance output",
+      "mechanism": [
+        "Demands maximal firing rate and synchronous recruitment of fast-glycolytic Type IIb motor units.",
+        "Activates Golgi tendon organs and muscle spindle systems to regulate active muscular tension boundaries."
+      ]
+    }
+  ],
+  "indications": [
+    "Neurological pathology (e.g., stroke, spinal cord injury, peripheral nerve entrapment, poliomyelitis).",
+    "Musculoskeletal disorders (e.g., muscle strains, post-immobilization atrophy, joint hypermobility).",
+    "Sports injuries requiring precise baseline muscular performance profiling.",
+    "Pre-operative and post-operative orthopedic monitoring (e.g., tendon transfers, joint arthroplasties)."
+  ],
+  "contraindications": {
+    "general": [
+      "Unstable cardiovascular disease, recent myocardial infarction, or severe aortic stenosis.",
+      "Severe osteoporosis or osteogenesis imperfecta where vigorous testing may cause bone damage.",
+      "Unhealed regional fractures or immediate post-surgical tendon repairs."
+    ],
+    "local": [
+      "Severe acute local inflammation or active hemarthrosis in the target joint.",
+      "Extreme regional muscle spasms or hyper-irritable soft tissue trigger points.",
+      "Open wounds, active skin lesions, or unstable grafts over the stabilization or resistance zones."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Explain the purpose of the MMT, the grading system, and the physical sensations to be expected.",
+      "Position the patient in the standardized startup position for the specific muscle being tested.",
+      "Ensure the patient is relaxed and draped appropriately, with the target limb fully exposed."
+    ],
+    "apparatusPreparation": [
+      "Lower or raise the therapeutic plinth to optimize therapist body mechanics and leverage.",
+      "Position supportive bolsters or stabilization straps as required by the testing manual guidelines."
+    ],
+    "skinPreparation": [
+      "Inspect the skin over the manual contact sites for cuts, severe bruising, or localized hypersensitivity."
+    ],
+    "electrodePlacement": [
+      "If utilizing surface electromyography (sEMG) for biofeedback, clean skin with alcohol and place sensors over muscle bellies."
+    ],
+    "treatmentProcedure": [
+      "1. Instruct the patient to perform the specific joint movement actively through the full available range of motion to screen for ROM deficits.",
+      "2. If the patient can complete the movement against gravity, assign at least a Grade 3.",
+      "3. Stabilize the bone segment proximal to the joint line securely to prevent pelvic or shoulder girdle substitutions.",
+      "4. Apply manual resistance at a 90-degree angle to the moving segment, near its distal end but proximal to the adjacent joint.",
+      "5. Gradually ramp up manual resistance over 2 to 3 seconds, hold for 5 seconds (the Break Test), then ease off.",
+      "6. If the patient cannot move against gravity, reposition them into the standardized gravity-eliminated horizontal plane.",
+      "7. Support the weight of the limb to eliminate friction while instructing the patient to perform the movement in the horizontal plane.",
+      "8. Palpate the tendon or muscle belly of the prime mover to detect trace contractions if there is zero kinetic joint movement."
+    ]
+  },
+  "precautions": [
+    "Avoid the Valsalva maneuver by instructing the patient to breathe rhythmically or count aloud during resistance.",
+    "Monitor osteoporotic or elderly populations closely; modify manual resistance to avoid structural tissue injury.",
+    "Ensure the joint range of motion is quantified prior to testing; do not force joint lines past capsular boundaries."
+  ],
+  "clinicalPearls": [
+    "Always stabilize the proximal joint first before applying resistance. Unstable proximals force the body to recruit accessory stabilizers, creating a false impression of target muscle power.",
+    "The therapist's hand applying manual resistance must act like a broad pad to distribute pressure. Using fingers or pinching causes local nociceptive pain, leading to artificial muscle inhibition.",
+    "To accurately differentiate the gastrocnemius from the soleus, flex the knee to 90 degrees. This actively shortens the gastroc across the knee, rendering it insufficient and isolating soleus contractility."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Isolating Gluteus Maximus from Hamstrings",
+      "position": "Prone, with the target knee flexed to 90 degrees",
+      "electrodePlacement": "None required (optional surface EMG over gluteal fold)",
+      "frequency": "Baseline diagnosis and bi-weekly monitoring",
+      "purpose": "Knee flexion shortens the multi-joint hamstrings, placing them in active insufficiency to allow pure anti-gravity evaluation of gluteus maximus hip extension strength."
+    }
+  ],
+  "vivaQuestions": [
+    "Question: Describe the exact difference between a 'Break Test' and an 'Active Resistance Test'. | Answer: In a Break Test, the patient is instructed to hold a static joint position (typically at the end of range) while the clinician applies a ramped-up external force to break their manual hold. In an Active Resistance Test, the clinician applies continuous manual opposition against the patient's active movement through their entire joint trajectory. | Examiner Key Points: Static holding vs dynamic tracking, end-range application. | Clinical Importance: Break tests are easier to standardize and less irritating to joint surfaces than full-range resistive friction.",
+    "Question: Explain how you would test the primary abdominal muscles (Rectus Abdominis) for Grades 5, 4, and 3. | Answer: The patient lies supine and attempts to perform a trunk curl, clearing the scapulae from the plinth. For Grade 5, their hands must be clasped behind their head. For Grade 4, their arms are crossed over their chest. For Grade 3, their arms are held straight out parallel to the surface. | Examiner Key Points: Scapular clearance, arm positions (neck, chest, extended), supine position. | Clinical Importance: Leveraging the patient's upper body weight changes the resistance torque, allowing numerical stratification without weights.",
+    "Question: What is muscle substitution and how do you clinically minimize its occurrence? | Answer: Muscle substitution is a compensation pattern where secondary helper muscles contract to accomplish a movement when the prime mover is weak. It is minimized by applying precise rigid manual stabilization to the proximal bony segment, placing the patient in standardized anatomical alignments, and closely watching for accessory joint deviations. | Examiner Key Points: Accessory compensation, proximal stabilization, compensatory tracking. | Clinical Importance: Failing to control substitution yields false-positive strength ratings, masking real muscle weakness.",
+    "Question: Differentiate active insufficiency from passive insufficiency using the hamstring group. | Answer: Active insufficiency occurs when the hamstring cannot shorten further to generate contract tension (e.g., simultaneous hip extension and full knee flexion). Passive insufficiency occurs when the hamstring cannot be lengthened further, stopping knee extension because of high tension when the hip is fully flexed. | Examiner Key Points: short/tension loss vs long/stretched extension block, multi-joint muscle. | Clinical Importance: Guides therapist positioning to ensure multi-joint muscles are not compromised during isolated joint testing.",
+    "Question: How do you clinically isolate the soleus muscle from the gastrocnemius during MMT? | Answer: Place the patient prone with the knee flexed to 90 degrees. Instruct them to plantarflex the ankle against manual resistance. Flexing the knee shortens the two-joint gastrocnemius, placing it in active insufficiency, thereby isolating the one-joint soleus. | Examiner Key Points: Prone, knee flexed to 90 degrees, active insufficiency of gastrocnemius. | Clinical Importance: crucial for diagnosing localized soleus pathology or peripheral nerve lesions.",
+    "Question: What are the criteria for assigning a Grade 2 (Poor) in Manual Muscle Testing? | Answer: Grade 2 (Poor) is defined as the ability of the muscle to move the joint through its full, available range of motion when placed in a gravity-eliminated (horizontal) plane, with zero manual resistance applied. | Examiner Key Points: Full available ROM, gravity-eliminated plane, zero resistance. | Clinical Importance: Separates trace activity (Grade 1) from function-capable movement in orthopedic or neurological cohorts.",
+    "Question: Where should manual resistance be applied on a bone segment, and why? | Answer: Manual resistance must be applied near the distal end of the bone segment carrying the joint, but just proximal to the next joint line. This maximizes the mechanical lever arm while preventing localized shear forces and compressive stresses from crossing the adjacent joint. | Examiner Key Points: Distal end of segment, proximal to next joint, lever arm maximization. | Clinical Importance: Maximizes diagnostic sensitivity of muscle weakness without stressing healthy downstream articulations.",
+    "Question: Explain Janda's Upper Crossed Syndrome and how it affects MMT of the lower trapezius. | Answer: Upper Crossed Syndrome features hypertonic tight upper trapezius and levator scapulae, with reciprocal inhibition of the deep neck flexors and the lower/middle trapezius. When testing lower trapezius (prone, arm in 145-degree diagonal), the clinician must carefully stabilize the scapula to prevent the hyperactive upper trapezius from substituting via scapular elevation. | Examiner Key Points: Muscle imbalance, reciprocal inhibition, scapular elevation substitution. | Clinical Importance: Prevents diagnostic error when evaluating stabilizing musculature of the shoulder girdle.",
+    "Question: Describe the grading criteria for facial muscles and how they differ from the standard MRC scale. | Answer: Facial muscles cannot be graded numerically (0-5) because they lack standard gravity-dependent levers and bone-to-bone insertions. Instead, they are graded qualitatively: 'Functional' (normal contraction/expression), 'Weak-Functional' (partial contraction, visible asymmetry), or 'Non-Functional' (trace/zero muscle movement). | Examiner Key Points: Qualitative grading, lack of gravity levers, asymmetric comparison. | Clinical Importance: Underpins treatment index for Bell's Palsy and cranial nerve facial nerve lesions.",
+    "Question: Explain the clinical significance of a Grade 3+ (Fair Plus) MMT score. | Answer: Grade 3+ means the muscle can complete full available range of motion against gravity and can tolerate minimal manual resistance before collapsing or breaking immediately under additional pressure. | Examiner Key Points: Full ROM, anti-gravity, accepts minimal manual resistance then breaks. | Clinical Importance: Serves as a vital clinical transition phase indicating readiness for progressive resistance loading programs."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following MRC grades is defined as visible or palpable contraction without joint movement?",
+      "options": ["Grade 0", "Grade 1", "Grade 2", "Grade 3"],
+      "answer": "Grade 1",
+      "explanation": "Grade 1 (Trace) represents palpable or visible muscle flickering contraction, but is mechanically insufficient to produce any osteokinematic joint movement."
+    },
+    {
+      "question": "To isolate the Gluteus Maximus during hip extension MMT, the knee must be flexed to 90 degrees to induce:",
+      "options": ["Passive insufficiency of the rectus femoris", "Active insufficiency of the hamstring group", "Passive insufficiency of the iliopsoas", "Active insufficiency of the gluteus medius"],
+      "answer": "Active insufficiency of the hamstring group",
+      "explanation": "Flexing the knee to 90 degrees shortens the multi-joint hamstrings across the knee, making them unable to develop effective contractile tension during hip extension, thus isolating the Gluteus Maximus."
+    },
+    {
+      "question": "When testing a patient's trunk curls for Rectus Abdominis strength, which arm position corresponds to Grade 5 (Normal)?",
+      "options": ["Hands clasped behind the head", "Arms crossed over the chest", "Arms extended straight forward", "Arms resting flat by the sides"],
+      "answer": "Hands clasped behind the head",
+      "explanation": "Placing the hands behind the head places the center of mass furthest from the lumbar pivot point, creating the largest resistive leverage torque, indicating a Grade 5 in trunk neck flexion."
+    },
+    {
+      "question": "What is the primary mechanical reason for applying manual resistance proximal to the next joint line during MMT?",
+      "options": ["To increase the speed of muscle contraction", "To decrease the leverage arm of the therapist", "To prevent compressive and shear forces from crossing the neighboring joint", "To prevent the patient from substituting with skin friction"],
+      "answer": "To prevent compressive and shear forces from crossing the neighboring joint",
+      "explanation": "Applying resistance proximal to the adjacent joint avoids crossing that joint line, reducing shear stress and localized friction across non-target cartilage structures."
+    },
+    {
+      "question": "A patient can achieve full active shoulder abduction while supine but fails to perform any abduction while seated. What is their likely MMT grade?",
+      "options": ["Grade 1", "Grade 2", "Grade 3", "Grade 4"],
+      "answer": "Grade 2",
+      "explanation": "The patient can complete the full available ROM in gravity-eliminated (supine) but not against gravity (seated), which perfectly satisfies the criteria for Grade 2 (Poor)."
+    },
+    {
+      "question": "If a patient can complete full available range of motion against gravity under moderate manual resistance (not maximum), the clinician should assign which grade?",
+      "options": ["Grade 3", "Grade 3+", "Grade 4", "Grade 5"],
+      "answer": "Grade 4",
+      "explanation": "Grade 4 (Good) signifies that the muscle is able to complete the full available ROM against gravity and can withstand moderate manual resistance from the clinician."
+    },
+    {
+      "question": "Which of the following describes compensatory muscle substitution during hip abduction MMT?",
+      "options": ["The patient flexes the hip and rotates it externally using the tensor fasciae latae and sartorius", "The patient contracts the quadriceps to extension", "The patient keeps the hip in neutral alignment", "The patient elevates the opposite hip girdle"],
+      "answer": "The patient flexes the hip and rotates it externally using the tensor fasciae latae and sartorius",
+      "explanation": "Weakness of the Gluteus Medius commonly triggers substitution by the Tensor Fasciae Latae (TFL) and Sartorius, resulting in hip flexion, abduction, and external rotation."
+    },
+    {
+      "question": "The 'Break Test' is physically characterized by what type of muscle contraction?",
+      "options": ["Concentric dynamic contraction", "Eccentric dynamic contraction", "Maximum voluntary isometric contraction", "Isokinetic constant velo contraction"],
+      "answer": "Maximum voluntary isometric contraction",
+      "explanation": "The Break Test consists of applying ramped manual resistance to a static limb position, provoking a maximum voluntary isometric holding effort from the patient."
+    },
+    {
+      "question": "To isolate the soleus muscle from the gastrocnemius, the knee must be flexed to 90 degrees because:",
+      "options": ["The gastrocnemius becomes passively insufficient", "The gastrocnemius becomes actively insufficient", "The soleus becomes passively insufficient", "The soleus requires knee flexion to activate"],
+      "answer": "The gastrocnemius becomes actively insufficient",
+      "explanation": "The gastrocnemius is a two-joint muscle. Flexing the knee relaxes and shortens it, rendering it actively insufficient and transferring the plantarflexion load onto the soleus."
+    },
+    {
+      "question": "What is the standard MMT starting position for testing back extensors (Erector Spinae) Grade 3?",
+      "options": ["Seated upright", "Prone with hands behind head", "Prone with hands by sides, lifting head and upper chest off plinth", "Supine with legs extended"],
+      "answer": "Prone with hands by sides, lifting head and upper chest off plinth",
+      "explanation": "For Grade 3 (Fair) back extension, the patient lies prone with hands by their sides and lifts their head and upper chest off the plinth against gravity, without external resistance."
+    },
+    {
+      "question": "Which of the following is an absolute local contraindication for Manual Muscle Testing?",
+      "options": ["Mild osteoarthritis of a distant joint", "A healed surgical incision 6 months old", "An acute unhealed fracture in the immediate region", "Controlled mild hypertension"],
+      "answer": "An acute unhealed fracture in the immediate region",
+      "explanation": "MMT is strictly contraindicated over an acute unhealed fracture due to risk of bone displacement from local structural shearing."
+    },
+    {
+      "question": "In which position should the patient be placed to test the Iliopsoas (hip flexor) against gravity?",
+      "options": ["Side-lying, supporting upper leg", "Seated with legs dangling", "Prone, lifting thigh backward", "Supine with hips abducted"],
+      "answer": "Seated with legs dangling",
+      "explanation": "The seated position is the anti-gravity standard for hip flexors (Iliopsoas). The patient flexes the hip, lifting the thigh off the table against gravity."
+    },
+    {
+      "question": "A patient is evaluated and holds knee extension against gravity with minimal manual resistance, but collapses when moderate resistance is applied. What is the grade?",
+      "options": ["Grade 3", "Grade 3+", "Grade 4-", "Grade 4"],
+      "answer": "Grade 3+",
+      "explanation": "A grade of 3+ (Fair Plus) is assigned when the muscle completes full anti-gravity ROM and tolerates only minimal manual resistance before breaking."
+    },
+    {
+      "question": "Which muscle acts as the prime mover in shoulder abduction between 0 to 90 degrees and is tested against gravity in a seated position?",
+      "options": ["Pectoralis Major", "Middle Deltoid", "Latissimus Dorsi", "Subscapularis"],
+      "answer": "Middle Deltoid",
+      "explanation": "The Middle Deltoid (supported by the Supraspinatus) is the primary agonist for shoulder abduction up to 90 degrees, tested against gravity while seated."
+    },
+    {
+      "question": "Which MRC grade corresponds to complete absence of any palpable or visible muscle contraction?",
+      "options": ["Grade 0", "Grade 1", "Grade 2", "Grade 3"],
+      "answer": "Grade 0",
+      "explanation": "Grade 0 (Zero) denotes complete absence of any tangible muscle contraction, both visually and via deep palpation."
+    },
+    {
+      "question": "What is the standard gravity-eliminated testing position for the pronator teres muscle?",
+      "options": ["Supine, forearm extended", "Prone, elbow in flexion", "Seated, arm supported, elbow flexed to 90 degrees with shoulder flexed", "Prone, shoulder abducted"],
+      "answer": "Seated, arm supported, elbow flexed to 90 degrees with shoulder flexed",
+      "explanation": "Testing pronation in a gravity-eliminated plane is achieved with the elbow flexed to 90 degrees, supporting the vertical upper extremity while moving forearm across the transverse plane."
+    },
+    {
+      "question": "Which muscle's weakness results in 'Scapular Winging' and is tested by having the patient push forward against a wall?",
+      "options": ["Serratus Anterior", "Rhomboids Major", "Latissimus Dorsi", "Upper Trapezius"],
+      "answer": "Serratus Anterior",
+      "explanation": "The Serratus Anterior holds the medial border of the scapula securely against the thoracic ribcage. Weakness triggers medial scapular winging during forward pushing."
+    },
+    {
+      "question": "To eliminate gravity when testing the Quadriceps, the patient should be positioned in:",
+      "options": ["Supine", "Prone", "Side-lying on the non-test side", "Seated, legs dangling"],
+      "answer": "Side-lying on the non-test side",
+      "explanation": "The side-lying position (supporting the test limb) allows knee extension to occur in a horizontal plane parallel to the ground, eliminating gravity."
+    },
+    {
+      "question": "A patient with suspected radial nerve pathology exhibits wrist drop. Which muscle group should be tested to confirm?",
+      "options": ["Wrist flexors", "Wrist extensors", "Radial deviators", "Pronator quadratus"],
+      "answer": "Wrist extensors",
+      "explanation": "The radial nerve innervates the wrist extensors (ECRL, ECRB, ECU). Severe weakness in this group causes the characteristic wrist drop posture."
+    },
+    {
+      "question": "When testing the Hamstrings against gravity, in which position is the patient placed?",
+      "options": ["Supine", "Standing upright", "Prone", "Side-lying"],
+      "answer": "Prone",
+      "explanation": "Prone knee flexion is the anti-gravity standard for grading the hamstring group (Biceps Femoris, Semitendinosus, Semimembranosus)."
+    },
+    {
+      "question": "When testing the Tibialis Anterior against gravity, what movement must the patient perform?",
+      "options": ["Ankle dorsiflexion and inversion", "Ankle plantarflexion and eversion", "Ankle dorsiflexion and eversion", "Ankle plantarflexion and inversion"],
+      "answer": "Ankle dorsiflexion and inversion",
+      "explanation": "The Tibialis Anterior performs ankle dorsiflexion and inversion. Manual resistance is applied to push the foot into plantarflexion and eversion."
+    },
+    {
+      "question": "Which of the following is a common error in performing manual muscle testing?",
+      "options": ["Ramping up resistance gradually over 2 seconds", "Applying manual force directly across a hyper-mobile joint line", "Stabilizing the proximal segment of the joint", "Placing the muscle in its optimal length-tension mid-range"],
+      "answer": "Applying manual force directly across a hyper-mobile joint line",
+      "explanation": "Applying resistance directly across joint lines can aggravate capsule integrity, violating safety principles of MMT."
+    },
+    {
+      "question": "A grade of 2- (Poor Minus) indicates the patient can achieve which of the following in a gravity-eliminated plane?",
+      "options": ["Full ROM against gravity with trace resistance", "Partial range of motion in the gravity-eliminated plane", "Full range of motion in the gravity-eliminated plane with minimal resistance", "Palpable flutter but no motion"],
+      "answer": "Partial range of motion in the gravity-eliminated plane",
+      "explanation": "Grade 2- indicates that the patient can complete only a partial range of joint motion in the standardized gravity-eliminated plane."
+    },
+    {
+      "question": "What substitution action is likely if the patient has weak elbow extensors (Triceps) but is tested in a seated position?",
+      "options": ["Shoulder external rotation and gravity-assisted drop of forearm", "Shoulder internal rotation and adduction", "Active wrist extension", "Passive shoulder extension"],
+      "answer": "Shoulder external rotation and gravity-assisted drop of forearm",
+      "explanation": "With weak triceps, patients often substitute by externally rotating the shoulder, letting the forearm dangle and fall using gravity to mimic extension."
+    },
+    {
+      "question": "Which muscle is the prime mover for hip abduction and is tested with the patient in a side-lying position?",
+      "options": ["Gluteus Maximus", "Adductor Longus", "Gluteus Medius", "Iliopsoas"],
+      "answer": "Gluteus Medius",
+      "explanation": "The Gluteus Medius is the prime mover of hip abduction. It is tested against gravity with the patient lying on their side."
+    },
+    {
+      "question": "Which MMT grade is characterized by full available range of motion against gravity with strong resistance, but cannot hold against maximal clinical resistance?",
+      "options": ["Grade 3", "Grade 4", "Grade 4+", "Grade 5"],
+      "answer": "Grade 4+",
+      "explanation": "Grade 4+ is given when a muscle can complete full anti-gravity ROM and tolerate strong but not absolute maximum resistance before breaking."
+    },
+    {
+      "question": "Passive insufficiency of the Rectus Femoris occurs when which joint movements are performed simultaneously?",
+      "options": ["Hip flexion and knee extension", "Hip extension and knee flexion", "Hip flexion and knee flexion", "Hip extension and knee extension"],
+      "answer": "Hip extension and knee flexion",
+      "explanation": "The Rectus Femoris is a two-joint muscle (hip flexor, knee extensor). Stretching it over both joints simultaneously (hip extension & knee flexion) triggers passive insufficiency."
+    },
+    {
+      "question": "How are facial muscles graded during clinical assessment?",
+      "options": ["Using the standard 0 to 5 MRC scale", "Qualitatively as Functional, Weak-Functional, or Non-Functional", "Using pressure gauges on cheeks", "Based on active concentric resistance only"],
+      "answer": "Qualitatively as Functional, Weak-Functional, or Non-Functional",
+      "explanation": "facial muscles cannot be graded with the numeric MRC scale since they lack joint levers and gravity axes; they are graded as functional, weak-functional, or non-functional."
+    },
+    {
+      "question": "When testing Latissimus Dorsi (depresses shoulder girdle) in prone, where does the clinician apply resistance?",
+      "options": ["Under the axilla pushing upward", "Over the forearm pushing downward into abduction", "On the hand pushing into pronation", "On the scapular spine elevating it"],
+      "answer": "Over the forearm pushing downward into abduction",
+      "explanation": "To test the Latissimus Dorsi, the patient's arm is abducted, internally rotated, and extended. The therapist applies manual force pushing the arm upward/outward into abduction."
+    },
+    {
+      "question": "Which anatomical structure monitors skeletal muscle tension and is responsible for autogenic inhibition during static holding?",
+      "options": ["Muscle spindle", "Pacinian corpuscle", "Golgi Tendon Organ", "Ruffini ending"],
+      "answer": "Golgi Tendon Organ",
+      "explanation": "The Golgi Tendon Organ (GTO), embedded in the musculotendinous junction, senses high active or passive tension, evoking inhibitory responses."
+    }
+  ],
+  "reference": [
+    "Helen J. Hislop - Daniels and Worthingham's Muscle Testing : Techniques of Manual Examination",
+    "Florence Kendall - Muscles: Testing and Function with Posture and Pain"
+  ]
+}

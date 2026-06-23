@@ -1,0 +1,340 @@
+{
+  "subject": "Exercise Therapy II",
+  "chapterId": "ex2_ch3",
+  "chapterName": "Goniometry Mechanics",
+  "definition": [
+    "Goniometry: The measurement of angles, specifically the dynamic angles of human skeletal joints, using universal protractor instruments to quantitatively evaluate range of motion (ROM).",
+    "Universal Goniometer: A handheld plastic or metal protractor instrument featuring a central circular dial, a fixed stationary arm, and a moving indicator arm.",
+    "Stationary Arm: The component of a goniometer linked structurally to the protractor circular dial, aligned with the longitudinal axis of the proximal/stable body segment.",
+    "Movement Arm: The adjustable indicator arm of the goniometer that rotates around the central fulcrum, aligned with the longitudinal axis of the moving distal body segment.",
+    "Fulcrum: The central hinge point (or axis pin) of a goniometer placed over the estimated physiological joint axis of rotation.",
+    "Active Range of Motion (AROM): The joint excursion achieved via voluntary muscle contraction without foreign external assistance.",
+    "Passive Range of Motion (PROM): The joint excursion achieved via external forces without any active muscle contraction from the patient.",
+    "End-Feel: The physical quality of resistance felt by the clinician at the terminal limit of passive joint range of motion (classified as soft, firm, or hard).",
+    "Intra-tester Reliability: The consistency of measurement results achieved when the exact same clinician performs repeated tests on the same subject.",
+    "Inter-tester Reliability: The consistency of measurement results achieved when different clinicians perform tests on the same subject."
+  ],
+  "principle": [
+    "Alignment with Axis of Rotation: The mechanical axis of the manual goniometer must be placed directly over the anatomical joint center (instantaneous axis of rotation), aligned with defined bony reference landmarks to ensure accurate measures.",
+    "Instantaneous Axis of Rotation (IAR): Since skeletal joints do not have fixed geometric axes but shift dynamically during movement, the goniometer fulcrum must be allowed to slide slightly rather than pinning it rigidly to the skin.",
+    "Three-Point Bony Alignment: True joint measurement requires identifying 1) a proximal bony landmark for stationary arm alignment, 2) the joint axis landmark for the fulcrum, and 3) a distal bony landmark for movement arm alignment.",
+    "Standardized Test Posturing: Placing the patient in stable, reproducible standardized postures stabilizes the proximal bone and eliminates compensatory joint substitutions.",
+    "Normalizing starting point: Joint ROM records rely on the International Standard anatomical position, where the neutral starting point is designated as 0 degrees (0-180 degree system)."
+  ],
+  "equipment": [
+    "Universal manual goniometers (varying sizes from finger to large joints), electronic inclinometers, and digital smartphone-based photogrammetric tracking apps."
+  ],
+  "parameters": {
+    "normalKneeFlexion": "0 to 135 degrees of flexion",
+    "normalElbowFlexion": "0 to 150 degrees of flexion",
+    "normalAnkleDorsiflexion": "0 to 20 degrees",
+    "normalAnklePlantarflexion": "0 to 50 degrees",
+    "acceptableMeasurementError": "5 degrees of clinical variance"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Quantitative Monitoring",
+      "frequency": "Periodical evaluation",
+      "mechanism": [
+        "Tracks joint mobility changes across physical therapy interventions, providing evidence of physiological tissue healing or scar remodeling."
+      ]
+    }
+  ],
+  "indications": [
+    "Establishing a baseline diagnosis of joint range of motion limitations.",
+    "Monitoring progressive recovery post-orthopedic surgery, immobilization, or joint trauma.",
+    "Assessing progress and determining efficacy of stretching or dynamic rehabilitation programs."
+  ],
+  "contraindications": {
+    "general": [
+      "In the presence of an unhealed fracture or joint dislocation.",
+      "Immediately post-op following delicate tendon or muscle re-attachment procedures.",
+      "In regions with heterotopic ossification (prone to worsening if joint is forced)."
+    ],
+    "local": [
+      "Severe acute joint infection or localized osteomyelitis.",
+      "Unhealed open wounds or active skin diseases directly at goniometer contact regions."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Explain the purpose of joint angle measurement and obtain consent.",
+      "Position the patient in the standardized clinical posture recommended for the joint being evaluated.",
+      "Expose the regional bony landmarks fully, keeping the patient comfortable and draped."
+    ],
+    "apparatusPreparation": [
+      "Select a goniometer of appropriate scale (e.g., small finger goniometer for digits, large 12-inch goniometer for hip/knee joints)."
+    ],
+    "skinPreparation": [
+      "Palpate and mark (if necessary) key regional bony landmarks to ensure accurate arm alignment."
+    ],
+    "electrodePlacement": [],
+    "treatmentProcedure": [
+      "Place the patient in the correct testing position, ensuring the proximal segment is stabilized.",
+      "Move the joint passively through its available range to feel the end-feel and estimate the range.",
+      "Inspect and document the starting angle (ideally 0 degrees in standard alignment).",
+      "Align the goniometer fulcrum over the joint axis, the stationary arm on the proximal bone segment's long axis, and the movement arm on the distal segment's axis.",
+      "Ask the patient to actively move the joint (for AROM) or guide it passively (for PROM) to the end range.",
+      "Re-align the arms with the bony landmarks at the end of the movement.",
+      "Read the final angle on the dial and document the starting and ending values clearly."
+    ]
+  },
+  "precautions": [
+    "Avoid forcing joints beyond their active or passive pain-free limits during evaluation.",
+    "Stabilize adjacent joints carefully to prevent cheat movements (such as pelvic tilt during hip range of motion).",
+    "Be aware of soft-tissue bulk limitations in obese or heavily muscled patients, which can physically block flexion."
+  ],
+  "clinicalPearls": [
+    "Because the anatomical joint axis of rotation shifts dynamically during movement (instantaneous axis), always allow the goniometer's fulcrum to slide slightly rather than pinning it rigidly to the skin.",
+    "To achieve high measurement reliability, the same physical therapist should perform repeat goniometric measurements on a patient using the exact same size goniometer and starting posture.",
+    "When documenting joint angles, always record both active and passive ROM (e.g. Active Knee ROM: 0-120 degrees, Passive: 0-130 degrees), as a mismatch reveals muscle weakness (extensor lag) rather than structural tightness."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Post-operative total knee arthroplasty range tracking",
+      "position": "Standardized supine posture on a flat examination table with hip in neutral alignment",
+      "electrodePlacement": "None (standard objective manual goniometry)",
+      "frequency": "Perform 1 measurement cycle weekly",
+      "purpose": "Aliquing goniometer arms to the lateral femur midline (stationary arm) and lateral fibula midline (movement arm) around the lateral femur epicondyle (axis) to track progressive knee flexion improvements"
+    }
+  ],
+  "vivaQuestions": [
+    "Question: Why must the stationary and movement arms of a manual goniometer be aligned to bony landmarks rather than soft tissues? | Answer: Soft tissues can shift and change shape dynamically with muscle contraction or body habitus. Bony landmarks are fixed skeletal structures that accurately dictate the long axes of body segments, ensuring reliable and reproducible measurement results across trials. | Examiner Key Points: Soft tissue shifting, fixed bony landmarks, reproducibility, reliability. | Clinical Importance: Accurate alignment is vital to document progress and validate clinical improvements for insurance or surgical follow-ups.",
+    "Question: Define 'End-Feel' and list the three primary normal physiological classifications. | Answer: End-feel is the unique sensation of resistance felt by a clinician when passively moving a joint to its terminal range of motion. The three normal types are: 1) Soft (tissue approximation, e.g., knee flexion), 2) Firm (capsular/ligamentous stretch, e.g., shoulder rotation), and 3) Hard (bone-on-bone, e.g., elbow extension). | Examiner Key Points: Sensation at terminal range, soft vs firm vs hard, clinical examples of each. | Clinical Importance: Helps identify pathological joint states (such as a hard end-feel during knee flexion, which suggests a bony fragment or block).",
+    "Question: What is the 'Instantaneous Axis of Rotation' (IAR) and how does it affect fulcrum placement? | Answer: Skeletal joints are not true hinge structures, so their rotation axes shift slightly during range of motion. The shifting point forms a locus called the 'Instantaneous Axis of Rotation'. To account for this, the clinician must not pin the goniometer's fulcrum rigidly, but let it slide slightly on the skin, prioritizing alignment of the indicator arms with raw bony landmarks. | Examiner Key Points: Non-fixed axis, dynamic sliding, prioritizing arm alignment over rigid pin placement. | Clinical Importance: Minimizes measurement errors caused by treating human joints as rigid mechanical hinges.",
+    "Question: Differentiate between intra-tester and inter-tester reliability in manual goniometry. | Answer: Intra-tester reliability refers to how consistent measurement values are when the exact same therapist performs multiple measurements on the same joint. Inter-tester reliability is the consistency of results when different therapists measure the same joint. Intra-tester reliability is consistently higher than inter-tester reliability. | Examiner Key Points: Same clinician vs different clinicians, statistical consistency, superiority of intra-tester values. | Clinical Importance: Guides clinical practice; patients should ideally be evaluated by the same therapist across sessions to minimize error and track small changes.",
+    "Question: Explain the '0-180 degree system' (double-dial goniometer system) and state its starting posture. | Answer: In the 0-180 degree system, a joint is measured from a designated 0-degree neutral starting position (anatomical position). As movement progresses, the angular displacement is added toward 180 degrees. Full extension of knee or elbow is documented as 0 degrees, and flexion is recorded with rising integers (e.g. Knee flex: 0 to 135 degrees). | Examiner Key Points: Anatomical position as starting 0, progressive reading up to 180, documentation style. | Clinical Importance: Universal recording standard that ensures clear communication across medical fields.",
+    "Question: How do you identify and measure 'extension lag' at the knee joint? | Answer: Extension lag is when active extension is less than passive extension. To measure it, evaluate passive knee extension (PROM, e.g., full 0 degrees) and then voluntary active extension (AROM, e.g., patient holds a straight leg at 10 degrees of flexion). The difference (10 degrees) represents the knee extension lag, typically indicating quadriceps weakness. | Examiner Key Points: Passive vs active extension discrepancy, quadriceps weakness indicator, numerical lag calculation. | Clinical Importance: Essential for diagnosing knee extension lag in post-op ligament reconstructions, indicating a need for quadriceps training.",
+    "Question: What are the primary landmarks used to align a goniometer for measuring elbow flexion? | Answer: The landmarks are: 1) Fulcrum: positioned over the lateral epicondyle of the humerus, 2) Stationary arm: aligned with the lateral midline of the humerus (pointing toward the acromion process), and 3) Movement arm: aligned with the lateral midline of the radius (pointing toward the radial styloid process). | Examiner Key Points: Lateral humerus epicondyle, acromion process, radial styloid process alignment. | Clinical Importance: Standardizes measurements of elbow flexion/extension, helping track rehabilitation post-radial head fractures.",
+    "Question: List three common sources of goniometric measurement errors. | Answer: Common errors include: 1) Poor palpation and misidentification of bony landmarks, 2) Unintentional joint substitutions (e.g., trunk leaning during shoulder abduction), and 3) Using an inappropriately sized manual goniometer (e.g., using a large 12-inch dial on small finger joints). | Examiner Key Points: Bony landmark errors, joint substitutions, inappropriate instrument sizing. | Clinical Importance: Recognizing error sources allows clinicians to implement strict stabilization protocols to optimize accuracy.",
+    "Question: Explain the difference between a physiological end-feel and a pathological end-feel, with an example. | Answer: A physiological end-feel is normal for a joint (e.g., a hard end-feel during elbow extension). A pathological end-feel occurs outside normal limits (e.g., an 'empty' or extremely soft end-feel during knee extension, indicating a torn anterior cruciate ligament). | Examiner Key Points: Normal joint limit vs unexpected/early terminal feel, empty end-feel definition. | Clinical Importance: Provides immediate clues about the structural integrity of joint tissues and ligaments.",
+    "Question: What is an 'empty end-feel', and what does it indicate clinically? | Answer: An empty end-feel occurs when passive ROM is stopped by the patient's severe, self-limiting pain before reaching any structural end-range resistance. The clinician feels no mechanical limit, only the patient's request to stop the motion. It indicates highly acute pathology, severe inflammation, bursitis, or underlying fracture. | Examiner Key Points: Stop due to severe pain, no physical tissue resistance felt, acute inflammatory state. | Clinical Importance: Alerts the therapist to immediately stop aggressive movement and refer the patient for diagnostics."
+  ],
+  "mcqs": [
+    {
+      "question": "Which component of the manual goniometer is aligned precisely with the moving segment of the patient's limb during a range of motion test?",
+      "options": [
+        "The stationary arm",
+        "The universal fulcrum dial",
+        "The movement (or dynamic) indicator arm",
+        "The pocket pocket clip"
+      ],
+      "answer": "The movement (or dynamic) indicator arm",
+      "explanation": "The movement arm is aligned with the longitudinal axis of the moving distal segment to track the joint's angular displacement."
+    },
+    {
+      "question": "A normal joint range of motion test returning a 'hard' end-feel is typically expected during:",
+      "options": ["Knee flexion", "Hip flexion", "Elbow extension", "Shoulder abduction"],
+      "answer": "Elbow extension",
+      "explanation": "Elbow extension yields a physiological 'hard' end-feel because of the physical bone-on-bone contact between the olecranon process and the olecranon fossa."
+    },
+    {
+      "question": "Which property of clinical testing is maximized when the same therapist performs repeat measurements on a patient using identical tools?",
+      "options": ["Inter-tester reliability", "Intra-tester reliability", "Construct validity", "External validity"],
+      "answer": "Intra-tester reliability",
+      "explanation": "Intra-tester reliability is the consistency of measurements obtained by the same evaluator across multiple trials on the same subject."
+    },
+    {
+      "question": "The starting point for measuring joint range of motion using the standard 0-180 degree system is:",
+      "options": ["Anatomical neutral position", "Full fetal position flexion", "90 degrees perpendicular", "Opposite limb's terminal limit"],
+      "answer": "Anatomical neutral position",
+      "explanation": "In standard goniometry, the anatomical position represents the universal neutral 0-degree starting reference point."
+    },
+    {
+      "question": "Which of the following joint angles of flexion is clinically accepted as normal range for a healthy knee?",
+      "options": ["0 to 45 degrees", "0 to 90 degrees", "0 to 135 degrees", "0 to 180 degrees"],
+      "answer": "0 to 135 degrees",
+      "explanation": "The normal range of motion for knee flexion is widely accepted as 0 to 135 degrees (soft approximation end-feel)."
+    },
+    {
+      "question": "What is the primary landmark used to position the goniometer's fulcrum when measuring elbow extension?",
+      "options": ["Radial styloid process", "Acromion process", "Lateral epicondyle of the humerus", "Medial epicondyle of humerus"],
+      "answer": "Lateral epicondyle of the humerus",
+      "explanation": "The lateral epicondyle of the humerus is the standard bony landmark representing the projection of the elbow's axis of rotation."
+    },
+    {
+      "question": "Skeletal joints do not have fixed rotation axes; their center shifts dynamically, forming a path known as the:",
+      "options": ["Sway envelope trail", "Instantaneous Axis of Rotation (IAR)", "Ultimate plastic failure slope", "Creep center locator"],
+      "answer": "Instantaneous Axis of Rotation (IAR)",
+      "explanation": "The IAR is the shifting center point around which a joint rotates dynamically during physiological movement."
+    },
+    {
+      "question": "An 'empty' end-feel encountered during passive range of motion assessment suggests:",
+      "options": [
+        "Normal capsular stretch resistance",
+        "A rigid mechanical bony block",
+        "Severe acute pain stopping the motion before physical resistance is met",
+        "Hyperelastic ligamentous laxity"
+      ],
+      "answer": "Severe acute pain stopping the motion before physical resistance is met",
+      "explanation": "An empty end-feel represents pathological stopping of motion strictly because of pain, with no mechanical resistance felt by the therapist."
+    },
+    {
+      "question": "In manual goniometry, what is the generally accepted limit of measurement error in clinical practice?",
+      "options": ["1 degree", "5 degrees", "15 degrees", "30 degrees"],
+      "answer": "5 degrees",
+      "explanation": "A variation of up to 5 degrees is accepted in clinical goniometry to account for minor shifts and biological movement variances."
+    },
+    {
+      "question": "To stabilize the pelvis while measuring hip flexion, the contralateral leg of the patient must be:",
+      "options": ["Flexed fully to the chest", "Kept flat and extended on the table", "Abducted into 45 degrees of rotation", "Dangling off the bed edge"],
+      "answer": "Kept flat and extended on the table",
+      "explanation": "Keeping the opposite leg flat and extended on the treatment table stabilizes the pelvis, preventing posterior pelvic tilt during hip flexion assessment."
+    },
+    {
+      "question": "The stationary arm of the goniometer is aligned parallel to the longitudinal axis of:",
+      "options": ["The moving distal segment of the limb", "The stable proximal segment of the limb", "The horizontal floor plane always", "The sagittal spine vector"],
+      "answer": "The stable proximal segment of the limb",
+      "explanation": "The stationary arm must align with the longitudinal axis of the stable, proximal body segment, which acts as the reference baseline."
+    },
+    {
+      "question": "Which of the following is a normal 'soft' end-feel due to muscle approximation?",
+      "options": ["Elbow extension", "Knee flexion", "Ankle dorsiflexion", "Knee extension"],
+      "answer": "Knee flexion",
+      "explanation": "Knee flexion is typically stopped by the approximation (contact) of the calf muscle belly against the hamstrings, producing a soft end-feel."
+    },
+    {
+      "question": "What is the normal accepted range of motion for ankle plantarflexion?",
+      "options": ["0 to 10 degrees", "0 to 20 degrees", "0 to 50 degrees", "0 to 90 degrees"],
+      "answer": "0 to 50 degrees",
+      "explanation": "Normal ankle plantarflexion typically ranges from 0 to 50 degrees of joint excursion."
+    },
+    {
+      "question": "When measuring knee flexion, the stationary arm of the goniometer is aligned towards which landmark?",
+      "options": ["Lateral malleolus", "Greater trochanter of the femur", "Patella center", "Anterior Superior Iliac Spine (ASIS)"],
+      "answer": "Greater trochanter of the femur",
+      "explanation": "The stationary arm is aligned with the lateral midline of the femur, pointing directly toward the greater trochanter."
+    },
+    {
+      "question": "The difference between active and passive range of motion is termed:",
+      "options": ["Creep threshold", "Visual estimation margin", "Active-passive gap (or extensor lag when extending)", "Sway limit"],
+      "answer": "Active-passive gap (or extensor lag when extending)",
+      "explanation": "The difference between active and passive range reveals the gap between muscular strength/coordination and joint structural compliance."
+    },
+    {
+      "question": "Which of the following is a strict absolute contraindication for doing a dynamic goniometry test?",
+      "options": ["Joint arthritic stiffness in morning", "Acute post-op tendon repair still healing", "Subacute ankle ligament sprain", "Muscle soreness after dynamic training"],
+      "answer": "Acute post-op tendon repair still healing",
+      "explanation": "Testing ROM over an acute, healing surgical tendon repair is contraindicated to prevent pulling apart the suture line."
+    },
+    {
+      "question": "To measure ankle dorsiflexion, the clinician aligns the movement arm parallel to which landmark?",
+      "options": ["Fifth metatarsal bone shaft", "First metatarsal bone shaft", "Achilles tendon vector", "Fibula shaft midline"],
+      "answer": "Fifth metatarsal bone shaft",
+      "explanation": "The movement arm is aligned parallel to the lateral aspect of the fifth metatarsal bone shaft during ankle dorsiflexion measurements."
+    },
+    {
+      "question": "A goniometer with a small 2-inch dial and specialized arms is designed to measure joints in:",
+      "options": ["The hip and knee pelvis", "The fingers and toes (interphalangeal joints)", "The cervical and thoracic spine", "The shoulder girdle only"],
+      "answer": "The fingers and toes (interphalangeal joints)",
+      "explanation": "Small pocket-sized goniometers are custom-crafted to measure the delicate range of motion of finger and toe joints."
+    },
+    {
+      "question": "The joint end-feel produced by capsular or ligamentous tightness at the limit of normal shoulder external rotation is:",
+      "options": ["Hard", "Soft", "Firm", "Empty"],
+      "answer": "Firm",
+      "explanation": "Shoulder external rotation is limited by capsular and ligamentous tension, yielding a physiological firm end-feel."
+    },
+    {
+      "question": "When measuring hip abduction, the goniometer fulcrum is positioned over:",
+      "options": [
+        "The Anterior Superior Iliac Spine (ASIS) on the side being measured",
+        "The greater trochanter of the femur",
+        "The pubic symphysis center",
+        "The posterior superior iiliac spine (PSIS)"
+      ],
+      "answer": "The Anterior Superior Iliac Spine (ASIS) on the side being measured",
+      "explanation": "For measuring hip abduction, the fulcrum is aligned directly over the ASIS of the ipsilateral hip joint."
+    },
+    {
+      "question": "The validity of a joint goniometer measurement tool refers to:",
+      "options": [
+        "Consistency of results across multiple trials by one therapist",
+        "The accuracy of the tool in measuring the true joint angle",
+        "The price and durability of the steel dial",
+        "The speed at which the therapist reads the angular scale"
+      ],
+      "answer": "The accuracy of the tool in measuring the true joint angle",
+      "explanation": "Validity defines the degree to which an instrument truly measures what it claims to measure (the actual anatomical joint angle)."
+    },
+    {
+      "question": "Which of the following is considered a 'hard' end-feel that is pathological?",
+      "options": [
+        "Elbow extension stopped by olecranon contact",
+        "Elbow flexion stopped by bony spurs in the joint fossa",
+        "Hip flexion stopped by muscle tissue touch",
+        "Shoulder rotation stopped by capsular stretch"
+      ],
+      "answer": "Elbow flexion stopped by bony spurs in the joint fossa",
+      "explanation": "A hard end-feel is pathological when it occurs early in the range or in a joint that normally has a soft or firm end-feel, such as elbow flexion stopped by bony spurs."
+    },
+    {
+      "question": "To eliminate spinal compensations when measuring shoulder abduction, the patient should be placed in:",
+      "options": ["Standing position", "Prone position", "Supine position on a flat plinth with trunk stable", "Sitting on a soft stool"],
+      "answer": "Supine position on a flat plinth with trunk stable",
+      "explanation": "In supine, the flat treatment table prevents spinal extension and lateral trunk leaning, isolating true shoulder abduction."
+    },
+    {
+      "question": "When measuring knee flexion, the movement arm is aligned towards which landmark?",
+      "options": ["Lateral epicondyle of the femur", "Greater trochanter", "Lateral malleolus of the fibula", "Heel pad center"],
+      "answer": "Lateral malleolus of the fibula",
+      "explanation": "The movement arm is aligned with the lateral midline of the fibula, pointing directly toward the lateral malleolus."
+    },
+    {
+      "question": "The starting position of ankle dorsiflexion is designated as 0 degrees when the foot is:",
+      "options": [
+        "In maximal passive plantarflexion",
+        "At 90 degrees perpendicular to the long axis of the tibia",
+        "Fully inverted with toes curled",
+        "Aligned directly flat on the floor in anatomical standing representation"
+      ],
+      "answer": "At 90 degrees perpendicular to the long axis of the tibia",
+      "explanation": "Ankle neutral (0 degrees) is defined when the plantar surface of the foot is perpendicular (at 90 degrees) to the long axis of the tibia."
+    },
+    {
+      "question": "A physical therapist gets varying measurements because they align the goniometer to a patient's fat layers instead of bone points. This is a:",
+      "options": ["Instrument validity error", "Landmarking alignment error (source of error)", "Normal physiological creep shift", "Patient coordination failure"],
+      "answer": "Landmarking alignment error (source of error)",
+      "explanation": "Aligning the indicator arms to shifting soft tissue instead of stable bony landmarks is a classic landmarking alignment error."
+    },
+    {
+      "question": "Which type of goniometer uses gravity-driven weighted pointers or card dials to measure joint alignment relative to the horizontal plane?",
+      "options": ["Universal manual goniometer", "Electronic inclinometer (or gravity goniometer)", "Finger goniometer", "Compass tracker"],
+      "answer": "Electronic inclinometer (or gravity goniometer)",
+      "explanation": "Inclinometers utilize gravity reference dials or digital sensors to measure joint orientation relative to a vertical line."
+    },
+    {
+      "question": "What is the normal accepted range of motion for elbow flexion?",
+      "options": ["0 to 90 degrees", "0 to 120 degrees", "0 to 150 degrees", "0 to 180 degrees"],
+      "answer": "0 to 150 degrees",
+      "explanation": "Normal elbow flexion typically ranges from 0 to 150 degrees of excursion (soft approximation end-feel)."
+    },
+    {
+      "question": "When documenting joint range of motion, the notation '-10 degrees of extension' typically means:",
+      "options": [
+        "The joint can hyper-extend by 10 degrees",
+        "The joint lacks 10 degrees to reach full neutral extension (extension lag/flexion contracture)",
+        "The measurement was taken with the patient inverted",
+        "The goniometer dial was read upside down"
+      ],
+      "answer": "The joint lacks 10 degrees to reach full neutral extension (extension lag/flexion contracture)",
+      "explanation": "A negative value for extension denotes a deficit or limitation in achieving full neutral 0-degree extension."
+    },
+    {
+      "question": "To achieve ideal accuracy when measuring a joint, the manual goniometer should:",
+      "options": [
+        "Be held hovering freely without contact with skin",
+        "Be pressed firmly against the joint and taped down tightly",
+        "Rest lightly on the skin with the arms aligned to palpable bony points",
+        "Be read only from a distance of three meters"
+      ],
+      "answer": "Rest lightly on the skin with the arms aligned to palpable bony points",
+      "explanation": "Resting lightly on the skin allows the arms to align with landmarks, and the fulcrum to slide slightly to accommodate joint center shifts."
+    }
+  ],
+  "reference": [
+    "Norkin & White - Measurement of Joint Motion: A Guide to Goniometry",
+    "O'Sullivan & Schmitz - Physical Rehabilitation",
+    "Susan Hall - Basic Biomechanics"
+  ]
+}

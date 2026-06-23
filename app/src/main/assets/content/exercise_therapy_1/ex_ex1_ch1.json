@@ -1,0 +1,461 @@
+{
+  "subject": "Exercise Therapy I",
+  "chapterId": "ex1_ch1",
+  "chapterName": "Mechanical Principles & Skeletal Levers",
+  "definition": [
+    "Force: Any influence that causes an object to undergo a certain change, either concerning its movement, direction, or geometrical construction. Measured in Newtons (N), it has both magnitude and direction, representing a vector quantity.",
+    "Center of Gravity (COG): The single geometric point in space about which the entire mass of a body is concentrated and balanced in all directions. In a normal upright adult in the anatomical position, the COG lies approximately anterior to the second sacral vertebra (S2).",
+    "Line of Gravity (LOG): An imaginary vertical vector originating at the body's center of gravity and extending downwards to the ground, reflecting the directional path of gravitational pull on bodily mass.",
+    "Base of Support (BOS): The area perimeter defined by all points of contact of the stabilizing body with the supporting surface (e.g., the space between and under both feet in standing).",
+    "Equilibrium: A mechanical state of a body where the resultant sum of all linear forces and rotational torques acting upon it is equal to zero, ensuring no change in state of motion.",
+    "Skeletal Lever: A rigid anatomical bar (usually a bone) that rotates about a fixed axis or pivot point (a joint) when a muscle contraction force is applied to overcome a resistive load.",
+    "Mechanical Advantage (MA): The mathematical ratio of the force arm (effort arm) length to the resistance arm length. If MA > 1.0, the system is designed for force magnification; if MA < 1.0, it is designed for speed and range of motion.",
+    "Pulleys: Mechanical wheel appliances with grooved rims that guide cords to alter the direction of applied pull (fixed pulley) or to gain mechanical force advantage (movable pulley).",
+    "Hooke's Law: A mechanical principle stating that the tension force produced by an extended elastic body (such as a therapeutic spring) is directly proportional to its displacement or stretch distance (F = -kx)."
+  ],
+  "principle": [
+    "Principle of Torque Production: Torque (rotational force) is computed as the product of the force magnitude and the perpendicular distance from the joint axis of rotation to the line of action of the force (Moment Arm). Maximum torque is generated when the muscle's line of pull is perpendicular (90 degrees) to the bone segment.",
+    "First-Class Lever Kinematics: Formulated with the fulcrum situated between the effort force and the resistance load (E-F-R). This system can act as a force multiplier or speed multiplier depending on physical arm arms (e.g., the atlanto-occipital joint stabilizing head balance).",
+    "Second-Class Lever Kinematics: Arranged with the resistance load placed between the fulcrum and the effort force (F-R-E). The effort arm is always longer than the resistance arm, resulting in a Mechanical Advantage greater than 1.0. This leverages high force amplification over limited range.",
+    "Third-Class Lever Kinematics: Configured with the effort force applied between the fulcrum and the resistance load (F-E-R). The resistance arm is always longer than the effort arm, yielding a Mechanical Advantage less than 1.0. This operates as a speed and distance multiplier, representing the most common skeletal configuration in human limbs.",
+    "Stability and Centre of Gravity: A body's physical stability is directly proportional to the width/area of its base of support and inversely proportional to the vertical height of its center of gravity above that base. Stability is maintained only as long as the vertical Line of Gravity falls within the Base of Support.",
+    "Angle of Pull Mechanics: The angle between the muscle's line of pull and the longitudinal axis of the bone it is moving. As the joint angle deviates from 90 degrees, the muscle's mechanical efficiency declines because a larger portion of force is lost to joint compression or distraction rather than rotational acceleration."
+  ],
+  "equipment": [
+    "Plumb Line: A simple, heavy, gravity-aligned metal weight suspended by a thin string used to visually survey vertical posture and spinal alignment relative to the line of gravity.",
+    "Goniometer: A clear plastic or metal dual-arm protractor instrument used to measure dynamic skeletal joint angles during movement exercises.",
+    "Therapeutic Springs: Mechanical coils with calibrated spring constants used in exercise setups to provide progressive, elastic resistance of varied limits.",
+    "Single-Fixed Pulley: A wall or ceiling-mounted wheel apparatus used in physical therapy suites to alter the direction of resistive cord pull without altering force magnitude.",
+    "Anatomical Pulley: A natural bony prominence or structure (such as the patella or lateral malleolus) that alters the line of muscular pull, increasing its moment arm and boosting torque output."
+  ],
+  "parameters": {
+    "centerOfGravityAdultAnatomicalPosition": "Anterior to the Second Sacral Vertebra (S2)",
+    "firstClassLeverMechanicalAdvantage": "Variable (Greater than, equal to, or less than 1.0)",
+    "secondClassLeverMechanicalAdvantage": "Always greater than 1.0 (>1.0)",
+    "thirdClassLeverMechanicalAdvantage": "Always less than 1.0 (<1.0)",
+    "angleForPeakMuscularTorque": "90 degrees",
+    "equilibriumTypes": "Stable, Unstable, and Neutral"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Force Dissipation at Joints",
+      "frequency": "Continuous",
+      "mechanism": [
+        "In a third-class skeletal lever system, high muscular effort is required to overcome small distal resistance loads.",
+        "This high contractile pull generates a large compressive force vector directed straight into the joint capsule.",
+        "Facilitates co-contraction and joint stabilization while promoting bone remodeling via mechanical Wolff's Law adaptations."
+      ]
+    },
+    {
+      "effect": "Postural Balancing Adaptations",
+      "frequency": "Static",
+      "mechanism": [
+        "Small postural sway shifts the Line of Gravity near the margins of the Base of Support.",
+        "Proprioceptive mechanoreceptors detect muscle spindle and joint Capsule stretch changes.",
+        "Triggers rapid, reflex-driven static tonic muscle contractures (such as the soleus in standing) to pull the LOG back to the center of the BOS."
+      ]
+    }
+  ],
+  "indications": [
+    "Biomechanical analysis of compensatory movement patterns during physical assessment.",
+    "Prescription of progressive resistance exercises utilizing modified lever arms or therapeutic pulleys.",
+    "Modification of exercises to reduce joint compression in patients with advanced degenerative joint diseases."
+  ],
+  "contraindications": {
+    "general": [
+      "Application of high mechanical torque forces on unstable, newly fixated orthopedic fractures.",
+      "High-stress lever arm positioning in patients with acute, unhealed tendon or ligament reconstructions."
+    ],
+    "local": [
+      "Avoid placing active spring or pulley anchors directly over inflamed dermal areas or localized soft tissue hematomas."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Ensure the patient is dressed in suitable clinical attire that allows clear view of skeletal landmarks and joint centers.",
+      "Explain the goals of lever or posture mapping using plain, reassuring terms."
+    ],
+    "apparatusPreparation": [
+      "Inspect therapeutic springs and pulley cables for signs of structural fraying or metal fatigue prior to client hookup.",
+      "Verify that the goniometer's axis is aligned with the anatomical joint rotation axis."
+    ],
+    "skinPreparation": [
+      "Cleanse landmark overlay skin areas with alcohol to remove excess sebum before applying kinematic tracking sensors."
+    ],
+    "electrodePlacement": [
+      "When evaluating muscle torque relative to joint angle with sEMG, place surface electrodes over the peak muscular belly parallel to fiber directions."
+    ],
+    "treatmentProcedure": [
+      "Establish a stable client posture or starting position matching the therapeutic goal.",
+      "Position mechanical resistance loads to form a perpendicular 90-degree angle of pull during peak contraction for maximum torque efficiency.",
+      "To decrease the effort required by weak muscles, shorten the resistance lever arm by moving the external load closer to the moving joint axis."
+    ]
+  },
+  "precautions": [
+    "Progress mechanical load resistance incrementally to prevent tissue microtears.",
+    "Ensure the Line of Gravity remains securely within the Base of Support during balance re-education."
+  ],
+  "clinicalPearls": [
+    "The patella is an exquisite anatomical pulley. By elevating the quadriceps tendon away from the knee joint axis, it increases the muscle's moment arm by up to 50%, allowing the quadriceps to generate far greater knee extension torque with the same force of contraction.",
+    "When a patient with weak quadriceps struggles to perform a straight leg raise, the therapist can simplify the task by slightly flexing the knee. This shortens the resistance lever arm, reducing the muscular torque required to lift the leg.",
+    "Stable equilibrium can be enhanced in weak or dizzy patients by widening their feet and bringing them closer to the ground, which increases the Base of Support while lowering the Center of Gravity."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Patellofemoral Joint Stress Reduction during Knee Extension",
+      "position": "Seated on a high treatment table with legs hanging freely",
+      "electrodePlacement": "Electromyographical sensors placed over vastus medialis obliquus (VMO)",
+      "frequency": "Perform 3 sets of 10 repetitions, twice daily",
+      "purpose": "Configure the resistance lever arm relative to the knee joint angle to optimize quadriceps strength while minimizing painful patellofemoral joint contact pressures"
+    }
+  ],
+  "vivaQuestions": [
+    "Question: State Newton's three laws of motion and explain their physiological relevance in physical therapy. | Answer: Newton's 1st Law (Inertia) states a body remains at rest or uniform motion unless acted on by external force (relevance: initiating movement in spastic limbs). 2nd Law (Force and Acceleration, F=ma) states acceleration depends on force magnitude and mass (relevance: selecting weights for patient training). 3rd Law (Action-Reaction) states for every action there is an equal and opposite reaction (relevance: understanding ground reaction forces during gait analysis). | Examiner Key Points: Definitions of Inertia, F=ma, Action-Reaction, clinical application examples. | Clinical Importance: Forms the foundation for analyzing normal gait and pathological movement dynamics.",
+    "Question: Explain the concept of Mechanical Advantage (MA) and discuss its application in first, second, and third-class skeletal levers. | Answer: Mechanical Advantage is the ratio of force arm length to resistance arm length (MA = Effort Arm / Resistance Arm). In first-class levers, MA is variable depending on fulcrum placement. In second-class levers, the effort arm is always longer than the resistance arm, so MA is always greater than 1.0 (designed for strength). In third-class levers, the effort arm is always shorter, so MA is always less than 1.0 (designed for speed and extensive range of motion). | Examiner Key Points: Effort Arm to Resistance Arm ratio, MA values for each lever class. | Clinical Importance: Clinicians modify exercise difficulty by altering the resistance arm length.",
+    "Question: Describe the anatomical location of the Center of Gravity (COG) in a healthy standing adult and how it shifts during different tasks. | Answer: In a healthy standing adult, the COG is located anterior to the second sacral vertebra (S2). It shifts upwards when raising the arms or carrying a load on the head, and downwards when flexing the knees. It shifts forward or laterally during gait, requiring continuous muscular adjustments to keep the Line of Gravity within the Base of Support. | Examiner Key Points: S2 reference landmark, direction of shifts with movement. | Clinical Importance: Crucial for evaluating falls risk and designing balance exercises.",
+    "Question: What is an anatomical pulley? Give an example and explain its biomechanical function. | Answer: An anatomical pulley is a bony prominence or fibrous loop that alters the line of pull of a muscle without altering its force. Its primary function is to increase the distance of the muscle tendon from the joint's axis (moment arm), thereby increasing the muscle's torque output. An example is the patella, which elevates the quadriceps tendon to improve knee extension efficiency. | Examiner Key Points: Bony prominence altering pull direction, moment arm increase, patella example. | Clinical Importance: Surgically removing the patella (patellectomy) severely decreases knee extension torque capacity.",
+    "Question: Differentiate between stable, unstable, and neutral equilibrium with physical therapist examples. | Answer: Stable equilibrium exists when a body's COG is raised slightly when disturbed, and it naturally returns to its start position (e.g., lying supine). Unstable equilibrium occurs when a disturbance lowers the COG, causing the body to fall over (e.g., standing on one leg). Neutral equilibrium occurs when a displacement keeping COG height constant (e.g., rolling in a wheelchair). | Examiner Key Points: COG height changes, accurate patient posture examples. | Clinical Importance: Teaches patients to optimize postural stability during ADLs.",
+    "Question: Define torque. Explain two ways a physical therapist can increase the torque generated during knee extension exercises. | Answer: Torque is the rotational effect of force around an axis, calculated as Force multiplied by the perpendicular Moment Arm. To increase extension torque, the therapist can: 1) Ask the patient to contract the quadriceps with greater dynamic effort (increasing force), or 2) Move the external cuff resistance distally to the ankle, extending the perpendicular moment arm. | Examiner Key Points: Torque definition, Force x Moment Arm relationship, logical clinical modifications. | Clinical Importance: Prevents overload of weak tendons during early post-op strengthening.",
+    "Question: How does Hooke's Law apply to therapeutic springs and elastic bands used in rehabilitation? | Answer: Hooke's Law (F = -kx) states that the tension force produced by an elastic material is directly proportional to its stretch displacement. In therapeutic exercise, this means that as a resistive band is stretched further to the end of a limb's range of motion, the resistance force increases linearly, requiring greater muscle effort to complete the movement. | Examiner Key Points: Force proportional to stretch, progressive resistance kinetics. | Clinical Importance: Ensures graded muscle loading but can overload joints at their end-range.",
+    "Question: What is the clinical significance of the Angle of Pull of a muscle relative to bone? | Answer: The angle of pull is the angle formed between the muscle's line of action and the bone. At 90 degrees, 100% of the muscle's force is rotary (causing movement). At levels below 90 degrees, a large force component is transrotary and directed towards the joint axis (compressing the joint). At levels above 90 degrees, the force distracts the joint. | Examiner Key Points: Rotary vs transrotary vectors, 90-degree optimal muscle efficiency. | Clinical Importance: Helps therapists select correct joint angles to avoid painful joint compression.",
+    "Question: Classify the atlanto-occipital joint lever system and explain why it is biomechanically efficient. | Answer: The atlanto-occipital joint is a first-class anatomical lever (E-F-R) with the atlanto-occipital joint acting as the fulcrum, the posterior neck muscles providing the effort, and the weight of the head acting as the resistance. It is efficient because it permits delicate balancing adjustments with minimal muscle output when head alignment is optimal. | Examiner Key Points: First-class lever, neck extensors, anatomical fulcrum. | Clinical Importance: Forward head posture shifts head weight forward, exhausting neck muscles and causing tension headaches.",
+    "Question: Explain how a single fixed pulley differs from a movable pulley in rehabilitation equipment. | Answer: A single fixed pulley has its wheel fixed to a solid wall or ceiling and only changes the direction of pull; it provides no mechanical force advantage (MA = 1.0). A movable pulley travels with the weight being lifted and halves the muscular effort needed to lift the load (MA = 2.0) at the cost of requiring twice the distance of rope pull. | Examiner Key Points: Direction change only vs force reduction, Mechanical Advantage values. | Clinical Importance: Used to design overhead pulley systems for passive self-ranging of hemiplegic shoulders."
+  ],
+  "mcqs": [
+    {
+      "question": "What is the approximate anatomical location of the Center of Gravity (COG) in a normal standing adult?",
+      "options": [
+        "Anterior to the first lumbar vertebra (L1)",
+        "Anterior to the second sacral vertebra (S2)",
+        "Directly at the level of the umbilicus",
+        "Posterior to the symphysis pubis"
+      ],
+      "answer": "Anterior to the second sacral vertebra (S2)",
+      "explanation": "In normal adults standing erect, the center of mass or gravity is situated slightly anterior to the S2 spinal segment."
+    },
+    {
+      "question": "Which of the following classes of levers has its force effort situated between the fulcrum and the resistance load (F-E-R)?",
+      "options": [
+        "First-class lever",
+        "Second-class lever",
+        "Third-class lever",
+        "Fourth-class lever"
+      ],
+      "answer": "Third-class lever",
+      "explanation": "Third-class levers have the effort placed in the middle. Most joints in the human body are configured this way to prioritize speed over force."
+    },
+    {
+      "question": "Standing on tiptoes using the gastrocnemius to lift bodily weight is a classic anatomical example of which lever class?",
+      "options": [
+        "First-class lever",
+        "Second-class lever",
+        "Third-class lever",
+        "Rotational-class lever"
+      ],
+      "answer": "Second-class lever",
+      "explanation": "In heel rise, the ball of the foot acts as the fulcrum, the body weight acts as the resistance in the middle, and gastrocnemius contraction acts as the effort at the rear, creating a second-class lever."
+    },
+    {
+      "question": "What is the Mechanical Advantage (MA) of a second-class skeletal lever system?",
+      "options": [
+        "Always less than 1.0",
+        "Always equal to 1.0",
+        "Always greater than 1.0",
+        "Variable depending on joint angle"
+      ],
+      "answer": "Always greater than 1.0",
+      "explanation": "Because the effort arm in a second-class lever is always longer than the resistance arm, the Mechanical Advantage is mathematically always greater than 1.0."
+    },
+    {
+      "question": "Which basic mechanical component functions to alter the direction of a line of pull without altering its force magnitude?",
+      "options": [
+        "Movable pulley",
+        "Therapeutic spring",
+        "Single-fixed pulley",
+        "Third-class lever arm"
+      ],
+      "answer": "Single-fixed pulley",
+      "explanation": "A single-fixed pulley system has a mechanical advantage of 1.0, meaning it changes the angle or direction of pull but does not multiply the applied force."
+    },
+    {
+      "question": "Which anatomical structure provides an excellent example of an anatomical pulley that increases quadriceps mechanical extension efficiency?",
+      "options": [
+        "Tibial tubercle",
+        "Patella",
+        "Lateral conditioning condyle",
+        "Greater trochanter"
+      ],
+      "answer": "Patella",
+      "explanation": "The patella acts as an anatomical pulley by displacing the quadriceps tendon anteriorly, increasing its moment arm relative to the rotational axis of the knee."
+    },
+    {
+      "question": "According to Hooke's Law, the tension force generated by stretching an elastic rehabilitation band is:",
+      "options": [
+        "Inversely proportional to its stretch distance",
+        "Directly proportional to its stretch displacement length",
+        "Unaffected by stretch distance",
+        "Dependent solely on the patient's muscle mass"
+      ],
+      "answer": "Directly proportional to its stretch displacement length",
+      "explanation": "Hooke's Law states F = -kx, which establishes that the resistive tension force increases linearly with the stretch displacement of the elastic material."
+    },
+    {
+      "question": "At what angle of pull does a muscle generate its maximum rotational torque because 100% of its force is directed into movement?",
+      "options": [
+        "30 degrees",
+        "45 degrees",
+        "90 degrees",
+        "120 degrees"
+      ],
+      "answer": "90 degrees",
+      "explanation": "At 90 degrees of pull, the muscle's pull is perpendicular to the bone, maximizing the moment arm and ensuring all force is directed into rotational torque (rotary component)."
+    },
+    {
+      "question": "What state of equilibrium is illustrated when a patient is lying relaxed in a flat supine position?",
+      "options": [
+        "Stable equilibrium",
+        "Unstable equilibrium",
+        "Neutral equilibrium",
+        "Amorphous equilibrium"
+      ],
+      "answer": "Stable equilibrium",
+      "explanation": "Lying supine provides a wide base of support and positions the center of gravity at its lowest point, demonstrating stable equilibrium."
+    },
+    {
+      "question": "Which physical index is a vector quantity, requiring consideration of both magnitude and direction?",
+      "options": [
+        "Mass",
+        "Speed",
+        "Force",
+        "Energy"
+      ],
+      "answer": "Force",
+      "explanation": "Force is a vector quantity because it requires both magnitude and direction to fully define its physical effect, unlike mass or speed which are scalars."
+    },
+    {
+      "question": "A physical therapist can make a leg lift exercise easier (requiring less muscle force) for a weak patient by:",
+      "options": [
+        "Adding an ankle weight of 2 kg",
+        "Slightly flexing the knee to shorten the resistance lever arm",
+        "Extensively stretching the quadriceps",
+        "Moving the leg faster through rotation"
+      ],
+      "answer": "Slightly flexing the knee to shorten the resistance lever arm",
+      "explanation": "Flexing the knee moves the mass of the leg closer to the hip joint axis, shortening the resistance moment arm and decreasing the muscle torque required."
+    },
+    {
+      "question": "Which of the following represents Newton's First Law of Motion?",
+      "options": [
+        "F = ma",
+        "Action is equal and opposite to reaction",
+        "A body remains at rest or in uniform motion unless acted on by an external force",
+        "Forces are inversely proportional to square distances"
+      ],
+      "answer": "A body remains at rest or in uniform motion unless acted on by an external force",
+      "explanation": "Newton's First Law is the Law of Inertia, declaring that an object resists state changes unless urged by an unbalanced external force."
+    },
+    {
+      "question": "The vertical projection of the center of gravity straight down to the supporting surface is termed the:",
+      "options": [
+        "Base of Support",
+        "Moment Arm",
+        "Line of Gravity",
+        "Mechanical Axis"
+      ],
+      "answer": "Line of Gravity",
+      "explanation": "The Line of Gravity represents the vertical vector from the center of gravity straight down towards the center of the earth."
+    },
+    {
+      "question": "Which of the following joints functions as a first-class skeletal lever system in the human body?",
+      "options": [
+        "Elbow joint during biceps curls",
+        "Atlanto-occipital joint during head balance adjustments",
+        "Knee joint during quadriceps extensions",
+        "Hip joint during lateral abductions"
+      ],
+      "answer": "Atlanto-occipital joint during head balance adjustments",
+      "explanation": "The atlanto-occipital joint acts as a first-class lever (E-F-R) with the joint as the fulcrum in the middle, head weight as resistance, and neck extensors as effort."
+    },
+    {
+      "question": "In a third-class lever layout, the effort arm is always:",
+      "options": [
+        "Longer than the resistance arm",
+        "Shorter than the resistance arm",
+        "Equal to the resistance arm",
+        "Perpendicular to the resistance arm"
+      ],
+      "answer": "Shorter than the resistance arm",
+      "explanation": "In a third-class lever, the effort force is closer to the fulcrum than the resistance load, so the effort arm length is always shorter, producing an MA of < 1.0."
+    },
+    {
+      "question": "If the Moment Arm of a muscle increases while its contraction force remains constant, what happens to the output torque?",
+      "options": [
+        "It decreases significantly",
+        "It remains completely unchanged",
+        "It increases in direct proportion",
+        "It oscillates unpredictably"
+      ],
+      "answer": "It increases in direct proportion",
+      "explanation": "Torque is force multiplied by the moment arm (T = F x d). If the moment arm (d) increases, the resulting torque increases proportionately."
+    },
+    {
+      "question": "Which configuration would provide a wheelchair user with the greatest postural stability?",
+      "options": [
+        "A narrow wheel track and high seat position",
+        "A wide wheel track and low seat position",
+        "A narrow wheel track and reclining seat position",
+        "A high seat position with standard narrow track"
+      ],
+      "answer": "A wide wheel track and low seat position",
+      "explanation": "A wide wheel track increases the base of support and a low seat lowers the center of gravity, significantly boosting mechanical stability."
+    },
+    {
+      "question": "When a muscle's angle of pull on a bone deviates away from 90 degrees and becomes very small (e.g. 10 degrees):",
+      "options": [
+        "All muscle force causes joint rotation",
+        "A massive component of muscle force acts as joint compression",
+        "The joint is pulled into traction and distraction",
+        "The skeletal segment achieves high mechanical advantage"
+      ],
+      "answer": "A massive component of muscle force acts as joint compression",
+      "explanation": "At low angles of pull, the parallel force vector dominates, directing most muscular contraction force straight into key joint compression."
+    },
+    {
+      "question": "The perpendicular distance from the axis of rotation of a joint to the line of action of an applied force is the:",
+      "options": [
+        "Effort Force Vector",
+        "Internal Moment Arm",
+        "Center of Gravity",
+        "Frictional Co-efficient"
+      ],
+      "answer": "Internal Moment Arm",
+      "explanation": "The moment arm is defined as the shortest perpendicular distance from the joint's rotatory axis to the vector line representing muscle pull."
+    },
+    {
+      "question": "Which of the following is correct regarding a second-class lever?",
+      "options": [
+        "Effort is in the middle",
+        "Fulcrum is in the middle",
+        "Resistance is in the middle",
+        "Mechanical Advantage is always less than 1.0"
+      ],
+      "answer": "Resistance is in the middle",
+      "explanation": "A second-class lever has the resistance load situated between the fulcrum and the effort force (F-R-E)."
+    },
+    {
+      "question": "What happens to stability when the Line of Gravity falls completely outside the limits of the Base of Support?",
+      "options": [
+        "The body becomes highly stable",
+        "Postural equilibrium is broken and the body falls",
+        "The body enters neutral translation balance",
+        "The center of gravity is automatically lowered"
+      ],
+      "answer": "Postural equilibrium is broken and the body falls",
+      "explanation": "Stability is only maintained as long as the vertical Line of Gravity falls within the base of support boundaries; shifting outside breaks balance, causing a fall unless countered."
+    },
+    {
+      "question": "What is the primary unit of measurement for force in the International System of Units (SI)?",
+      "options": [
+        "Kilogram (kg)",
+        "Joule (J)",
+        "Watt (W)",
+        "Newton (N)"
+      ],
+      "answer": "Newton (N)",
+      "explanation": "The Newton (N) is the official SI unit of measurement for force, defined as the force needed to accelerate 1 kg of mass at 1 m/s²."
+    },
+    {
+      "question": "A system is in equilibrium when both the algebraic sum of all vertical and horizontal forces and the sum of all _______ are equal to zero.",
+      "options": [
+        "Moment arms",
+        "Torques",
+        "Elastic displacements",
+        "Mass vectors"
+      ],
+      "answer": "Torques",
+      "explanation": "Mechanical equilibrium requires both static translational balance (zero sum of forces) and static rotational balance (zero sum of torques)."
+    },
+    {
+      "question": "Which anatomical structure acts as the fulcrum in human skeletal lever systems?",
+      "options": [
+        "Muscle belly",
+        "Tendon insertion",
+        "Joint articulation",
+        "Bone shaft"
+      ],
+      "answer": "Joint articulation",
+      "explanation": "In human biomechanics, the bones operate as lever bars, and the joints serve as the rotational fulcrum axes."
+    },
+    {
+      "question": "Third-class levers provide high movement speed and range of motion at the mathematical cost of which parameter?",
+      "options": [
+        "Reduced mechanical force amplification",
+        "Reduced joint compression vectors",
+        "Greater risk of tendon rupture",
+        "Instability of the Base of Support"
+      ],
+      "answer": "Reduced mechanical force amplification",
+      "explanation": "Because third-class levers have a mechanical advantage of < 1.0, they require high muscle force to lift small external loads, sacrifice force amplification for speed."
+    },
+    {
+      "question": "Which of the following defines stable equilibrium?",
+      "options": [
+        "Any displacement lowers the Center of Gravity",
+        "Any displacement raises the Center of Gravity",
+        "Displacement does not shift the Center of Gravity height",
+        "The base of support is infinitely wide"
+      ],
+      "answer": "Any displacement raises the Center of Gravity",
+      "explanation": "In stable equilibrium, early displacement forces the center of gravity upwards, meaning the body naturally seeks to return to its initial resting posture."
+    },
+    {
+      "question": "The single point about which all parts of a body's mass balance each other in all dimensions is called the:",
+      "options": [
+        "Fulcrum",
+        "Lever Axis",
+        "Center of Gravity (COG)",
+        "Moment projection"
+      ],
+      "answer": "Center of Gravity (COG)",
+      "explanation": "The Center of Gravity is the specific geometric point about which the concentration of body mass is symmetrically balanced."
+    },
+    {
+      "question": "A single fixed pulley changes which mechanical parameter of muscle force application during wall exercises?",
+      "options": [
+        "Force magnitude",
+        "Mechanical Advantage",
+        "Direction of force application",
+        "Speed constant"
+      ],
+      "answer": "Direction of force application",
+      "explanation": "A single fixed pulley alters only the angle or direction of force application of a resistance cord; it provides no modification of force magnitude."
+    },
+    {
+      "question": "What happens to the level of muscle effort needed as external resistance is moved closer to the joint axis?",
+      "options": [
+        "Muscle effort must increase",
+        "Muscle effort decreases due to a shortened moment arm",
+        "Muscle effort remains completely unchanged",
+        "Muscle effort becomes entirely zero"
+      ],
+      "answer": "Muscle effort decreases due to a shortened moment arm",
+      "explanation": "Reducing the distance of the weight from the joint decreases the external resistance moment arm and low resistance torque, meaning less muscle effort is needed."
+    },
+    {
+      "question": "Newton's Third Law of Motion states that for every acting force there is:",
+      "options": [
+        "An equal and perpendicular reaction force",
+        "An equal and opposite reaction force",
+        "A variable proportional pressure vector",
+        "A delayed rotational inertial torque"
+      ],
+      "answer": "An equal and opposite reaction force",
+      "explanation": "Newton's Third Law is the Law of Action-Reaction, stating that interactant forces always exist in equal, opposite, and co-linear pairs."
+    }
+  ],
+  "reference": [
+    "Dena Gardiner - The Principles of Exercise Therapy, 4th Edition",
+    "Kisner & Colby - Therapeutic Exercise: Foundations and Techniques, 7th Edition",
+    "Brunnstrom's Clinical Kinesiology, 6th Edition"
+  ]
+}

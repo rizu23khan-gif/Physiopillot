@@ -1,0 +1,573 @@
+[
+  {
+    "id": "case_ortho_oa_knee",
+    "category": "Orthopaedics",
+    "condition": "Knee Osteoarthritis",
+    "year": "3rd Year",
+    "subject": "Musculoskeletal Physiotherapy",
+    "patientProfile": "Patient: Mrs. Kamala Devi, 62-year-old female, retired school teacher, sedentary lifestyle, BMI: 29.4 (Overweight).",
+    "chiefComplaint": "Bilateral knee pain (right worse than left) for the past 18 months, gradually increasing, accompanied by stiffness in the morning and difficulty climbing stairs.",
+    "history": [
+      "History of Present Illness: Gradual onset of mechanical dull aching pain in both knees, aggravated by prolonged weight-bearing, standing, and descending stairs. Relieved by rest.",
+      "Morning stiffness: Lasts for approximately 15-20 minutes after waking up.",
+      "Past Medical History: Diagnosed with Essential Hypertension 5 years ago, well-controlled with Amlodipine 5mg OD.",
+      "Social History: Lives with her husband in a 1st-floor apartment with no elevator access. Functional dependency index is mild."
+    ],
+    "observation": [
+      "Posture/Alignment: Mild Genu Varum (bow-legs) noted bilaterally in standing posture.",
+      "Gait: Antalgic gait pattern with significantly shortened stance phase on the right side.",
+      "Muscle Wasting: Observable quadriceps wasting (especially vastus medialis obliquus) on the right thigh.",
+      "Swelling: Minimal localized joint line puffiness on the right knee, no warm erythema or active signs."
+    ],
+    "examination": [
+      "Palpation: Intense tenderness over right medial joint line (+3) and moderate tenderness on lateral joint line (+1). Patellofemoral crepitus present bilaterally during active flexion.",
+      "Range Of Motion (ROM): Right knee flexion active ROM is 5° to 110° (end-feel firm/capsular, pain at end range). Active extension is limited by -5° (flexion deformity). Left knee active flexion 0-125°.",
+      "Manual Muscle Testing (MMT): Right Quadriceps 3+/5, Hamstrings 4/5. Left Quadriceps 4/5, Hamstrings 4+/5."
+    ],
+    "specialTests": [
+      "McMurray's Test: Negative for meniscus click, but reproduces right joint line pain.",
+      "Patellar Grind / Clarke's Sign: Positive bilaterally.",
+      "Varus/Valgus Stress Test: Stable, no ligamentous laxity or instability at 0° and 30°."
+    ],
+    "linkedSpecialTests": [
+      "st_mcmurray"
+    ],
+    "assessmentFindings": [
+      "Bilateral knee osteoarthritis (Kellgren-Lawrence Grade III on right, Grade II on left).",
+      "Grade I flexion deformity of the right knee.",
+      "Altered lower limb biomechanics with quadriceps insufficiency, tight hamstrings, and gastroc."
+    ],
+    "problemList": [
+      "Mechanical joint pain in bilateral knees (Right > Left) aggravating with walking.",
+      "Reduced right knee active and passive range of motion with early extension deformity.",
+      "Weakness of bilateral quadriceps muscles (especially vastus medialis obliquus).",
+      "Tightness of right hamstring and gastrocnemius muscles.",
+      "Antalgic gait and functional limitation in ascending/descending stairs."
+    ],
+    "physiotherapyDiagnosis": "Bilateral tibiofemoral osteoarthritis (Right Kellgren-Lawrence Grade III, Left Grade II) presenting with severe pain, quadriceps weakness, right knee extension lag and functional limitations in stair climbing and ambulation.",
+    "shortTermGoals": [
+      "Reduce right knee joint pain from 7/10 to 4/10 on NPRS within 2 weeks.",
+      "Improve active right knee extension to 0° within 2 weeks.",
+      "Increase bilateral quadriceps strength to 4/5 on MMT within 3 weeks.",
+      "Improve hamstring muscle flexibility by 10 degrees on passive knee extension test in 2 weeks."
+    ],
+    "longTermGoals": [
+      "Achieve pain-free independent community ambulation up to 1 kilometer within 8 weeks.",
+      "Enable independent stair climbing of 1 flight of stairs with minimal discomfort within 8 weeks.",
+      "Educate patient on weight control, home exercise plan adherence, and ergonomic modifications."
+    ],
+    "treatmentPlan": [
+      "Therapeutic Exercise: Isometric quadriceps strengthening, progressing to closed kinetic chain exercises (mini-squats, step-ups) as pain permits.",
+      "Stretching: Passive stretching of bilateral hamstring, piriformis, and gastrocnemius muscles daily.",
+      "Manual Therapy: Patellar mobilization (grades I-II for pain relief, grade III for translation) and mild passive right knee terminal extension mobilization.",
+      "Cardiopulmonary: Stationary cycling (low resistance, high seat height to decrease joint stress) for 20 mins, 3 times a week."
+    ],
+    "outcomeMeasures": [
+      "WOMAC Osteoarthritis Index - baseline: 54/96.",
+      "Numeric Pain Rating Scale (NPRS) - baseline: 7/10 (activity), 3/10 (rest).",
+      "Timed Up & Go (TUG) Test - baseline: 14.5 seconds."
+    ],
+    "redFlags": [
+      "Sudden severe unilateral joint swelling, warmth, and redness (suggestive of Septic Arthritis or Acute Gouty Flare).",
+      "Rapid progressive calf swelling, localized tenderness, and warmth (Deep Vein Thrombosis).",
+      "Systemic symptoms like sudden high fever, chills, or unexplained weight loss."
+    ]
+  },
+  {
+    "id": "case_neuro_stroke",
+    "category": "Neurology",
+    "condition": "Stroke Hemiplegia",
+    "year": "Final Year",
+    "subject": "Neurological Physiotherapy",
+    "patientProfile": "Patient: Mr. Suresh Kumar, 54-year-old male, bank manager, post-acute Left Middle Cerebral Artery (MCA) Ischemic Stroke (onset: 4 weeks ago), medically stable.",
+    "chiefComplaint": "Inability to move the right upper and lower limbs, loss of speech fluency, and complete dependence in transfers and toilet activities.",
+    "history": [
+      "History of Present Illness: Patient collapsed at home 4 weeks ago with sudden right-sided weakness and motor aphasia. Diagnosed with thromboembolic infarct in Left MCA territory. Thrombolysed with tPA within 3 hours.",
+      "Now discharged from ICU/acute ward and referred for intensive physical therapy.",
+      "Past Medical History: Type 2 Diabetes Mellitus for 8 years (controlled on Metformin 500mg BD), Hyperlipidemia for 3 years.",
+      "Social History: Lives with supportive wife and son in a ground-floor home. High motivation levels."
+    ],
+    "observation": [
+      "Posture in sitting: Asymmetrical posture, leaning heavily towards the left (sound side) with right shoulder depressed.",
+      "Gait: Unable to stand or walk independently. Requires moderate assistance of 1 person to stand.",
+      "Muscle Wasting: Mild wasting of right hand intrinsic muscles and thigh musculature due to acute disuse.",
+      "Speech/Cognition: Conscious, cooperative, exhibits motor (Broca's) aphasia (intact comprehension, difficult expression)."
+    ],
+    "examination": [
+      "Muscle Tone (Modified Ashworth Scale): Right Elbow Flexors: Grade 1+ (slight increase/catch); Right Knee Extensors: Grade 1 (minimal catch).",
+      "Sensory Exam: Superficial touch reduced by 30% over right limbs. Proprioception and kinesthesia at right ankle/wrist are impaired.",
+      "Reflexes: Right Biceps, Triceps, and Patellar reflexes are hyperreflexive (3+). Right Achilles clonus present (3-4 beats)."
+    ],
+    "specialTests": [
+      "Babinski Sign: Positive/Extensor response on the right plantar aspect.",
+      "Romberg's Test: Unable to test as patient cannot stand safely unaided."
+    ],
+    "linkedSpecialTests": [
+      "st_babinski_sign",
+      "st_romberg"
+    ],
+    "assessmentFindings": [
+      "Right hemiplegia resulting from Left MCA ischemic infarct.",
+      "Brunnstrom Stage 3 recovery in right upper and lower limbs.",
+      "Spasticity in right antigravity muscles, impaired postural control, and speech deficit. Dependent in all basic activities of daily living (ADLs)."
+    ],
+    "problemList": [
+      "Impaired voluntary motor control and movement synergies on the right side.",
+      "Mild spasticity (MAS 1+) in right upper and lower limb flexors.",
+      "Poor sitting dynamic balance and complete loss of independent standing balance.",
+      "Imbalance in weight-bearing, leaning significantly to the non-affected left side.",
+      "Impaired deep proprioceptive sensation at right distal joints."
+    ],
+    "physiotherapyDiagnosis": "Right-sided hemiparesis post-Left MCA Ischemic Stroke presenting with spasticity, impaired motor control (Brunnstrom Stage 3), altered sensory/proprioceptive feedback, poor dynamic stability, and functional reliance in mobility/ADLs.",
+    "shortTermGoals": [
+      "Train patient to achieve independent sitting balance with eyes closed for 1 minute within 2 weeks.",
+      "Facilitate independent transfers from bed to wheelchair with minimal assistance within 2 weeks.",
+      "Improve Brunnstrom recovery stage of right upper limb from Stage 3 to Stage 4 within 3 weeks.",
+      "Improve active vertical weight-bearing on right lower limb during assisted standing to 40% of total weight within 3 weeks."
+    ],
+    "longTermGoals": [
+      "Safe independent indoor ambulation using a tripod cane with minimal supervision within 12 weeks.",
+      "Achieve complete independence in feeding, grooming, and upper body dressing within 12 weeks.",
+      "Return to desk job duties with ergonomic modifications and speech therapy integration within 16 weeks."
+    ],
+    "treatmentPlan": [
+      "Neurodevelopmental Therapy (NDT): Facilitation of postural control, heavy weight-bearing through right upper limb and lower limb, trunk rotation, and weight-shifts in sitting.",
+      "Motor Relearning Program (MRP): Task-oriented training for reach-and-grasp, bed mobility, and transfer tasks.",
+      "Spasticity Management: Sustained stretching of right subscapularis, biceps, wrist flexors, and Achilles tendon; prolonged icing.",
+      "Proprioceptive Input: Joint approximation, tapping, scrubbing, and mirror therapy for the hand."
+    ],
+    "outcomeMeasures": [
+      "Berg Balance Scale (BBS) - baseline: 12/56 (High fall risk).",
+      "Functional Independence Measure (FIM) - baseline: 42/126.",
+      "Barthel Index of ADLs - baseline: 30/100."
+    ],
+    "redFlags": [
+      "Signs of stroke recurrence or TIA (sudden worsening of weakness, new facial droop, severe headache, sudden confusion).",
+      "Autonomic dysreflexia or unexplained high blood pressure (> 180/120 mmHg).",
+      "Signs of deep vein thrombosis in paretic leg (sudden asymmetric calf swelling, warmth, pain)."
+    ]
+  },
+  {
+    "id": "case_cardio_copd",
+    "category": "Cardiopulmonary",
+    "condition": "COPD Exacerbation",
+    "year": "3rd Year",
+    "subject": "Cardiorespiratory Physiotherapy",
+    "patientProfile": "Patient: Mr. Abdul Hamid, 68-year-old male, former brick kiln worker, diagnosed with severe COPD (GOLD Stage III), chronic smoker.",
+    "chiefComplaint": "Shortness of breath on walking even short distances (e.g. 50 feet), persistent productive cough with thick white sputum, and feelings of general fatigue.",
+    "history": [
+      "History of Present Illness: Known case of COPD for 10 years, experiencing gradual decline in exercise tolerance. Currently recovering from an acute infective exacerbation of COPD (hospitalized 5 days ago, now medically stable).",
+      "Past Medical and Occupational History: Worked in high-dust environment (brick kiln) for 25 years. Smoked 1-2 packs of cigarettes daily for nearly 40 years, quit 2 years ago.",
+      "Social History: Lives with his wife in a small congested house with poor ventilation."
+    ],
+    "observation": [
+      "Chest Wall Deformity: Barrel-shaped chest with increased anteroposterior diameter.",
+      "Breathing Pattern: Tachypnea (Respiratory Rate: 24 bpm), prolonged expiratory phase, active use of accessory muscles (sternocleidomastoid, scalene), visible pursed-lip breathing.",
+      "Visual Signs: Mild digital clubbing (grade II) and peripheral cyanosis around fingernails on room air (SpO2: 89% on room air, increases to 94% on 2L oxygen/min)."
+    ],
+    "examination": [
+      "Auscultation: Bilateral diminished breath sounds. Prolonged expiratory wheeze heard primarily in upper zones; coarse crackles heard in lower zones bilaterally.",
+      "Chest Expansion: Reduced bilaterally (measurement at axilla: 1.5 cm; at xiphoid: 1.2 cm).",
+      "Muscle Strength: Generalised sarcopenia, peripheral muscle weakness (Quadriceps 3+/5, Biceps 4/5)."
+    ],
+    "specialTests": [
+      "Six-Minute Walk Test (6MWT): Limited by dyspnea, completed 180 meters with 2 stops due to desaturation (SpO2 fell from 90% to 83% on room air).",
+      "Borg Dyspnea Scale: Rating of 6/10 (Severe dyspnea) at end of 3-minute walking."
+    ],
+    "linkedSpecialTests": [],
+    "assessmentFindings": [
+      "GOLD Stage III Chronic Obstructive Pulmonary Disease.",
+      "Retained secretions with poor airway clearance.",
+      "Severe chronic air trapping, respiratory muscle fatigue, peripheral deconditioning, and desaturation on minimal exertion."
+    ],
+    "problemList": [
+      "Severe exercise intolerance and early dyspnea on minimal physical exertion.",
+      "Impaired airway clearance due to weak cough cough reflex and thick retained sputum.",
+      "Altered, inefficient breathing pattern with hyperinflation and accessory muscle overuse.",
+      "Reduced chest wall expansion and low lung volumes.",
+      "Skeletal muscle wasting and weakness of knee extensors (Quadriceps)."
+    ],
+    "physiotherapyDiagnosis": "GOLD Stage III Chronic Exacerbation of COPD presenting with hyperinflated lung volumes, thick retained secretions, peripheral sarcopenia, restricted chest wall mobilization, and exercise-induced hypoxemia limiting ADLs.",
+    "shortTermGoals": [
+      "Achieve independent expectoration and clearance of secretions within 3 days using active cycle of breathing techniques.",
+      "Teach energy conservation and pursed-lip breathing to control dyspnea during walking within 4 days.",
+      "Improve chest expansion from 1.5 cm to 2.2 cm at xiphoid level within 2 weeks."
+    ],
+    "longTermGoals": [
+      "Improve 6-Minute Walk Test distance from 180 meters to 250 meters within 8 weeks.",
+      "Re-establish complete independence in basic self-care activities of daily living without rescue inhaler assistance within 8 weeks.",
+      "Reduce the frequency of hospitalizations due to acute pulmonary infections through a structured home-pulmonary rehab program."
+    ],
+    "treatmentPlan": [
+      "Airway Clearance Techniques: Active Cycle of Breathing Techniques (ACBT), postural drainage (modified positions to avoid distress), and huffing/coughing training.",
+      "Breathing Retraining: Diaphragmatic breathing, pursed-lip breathing, and segmental expansion exercises using tactile feedback.",
+      "Inspirational Muscle Training (IMT): Using threshold trainer (resistance started at 30% of MIP) 15 mins twice/day.",
+      "Exercise Aerobic Training: Interval treadmill walking or stationary cycling with continuous pulse oximetry, maintaining SpO2 > 88%."
+    ],
+    "outcomeMeasures": [
+      "CAT (COPD Assessment Test) score - baseline: 26/40.",
+      "Borg Modified Rating of Perceived Exertion (CR10) - baseline: 5/10 (light activity).",
+      "St. George's Respiratory Questionnaire (SGRQ) - baseline: 64/100."
+    ],
+    "redFlags": [
+      "Sudden acute drop in SpO2 (< 85%) accompanied by severe confusion, cyanosis, or heavy accessory muscle strain.",
+      "Development of right-sided heart failure (Cor Pulmonale) signs (jugular venous distension, rapid pitting ankle edema).",
+      "Hemoptysis (blood in sputum) or sudden sharp chest pain during physical training."
+    ]
+  },
+  {
+    "id": "case_sports_acl",
+    "category": "Sports Physiotherapy",
+    "condition": "ACL Tear Rehab",
+    "year": "Final Year",
+    "subject": "Sports Physiotherapy",
+    "patientProfile": "Patient: Alex Carter, 22-year-old competitive university soccer player, right leg dominant, sustained complete Anterior Cruciate Ligament (ACL) tear 2 weeks ago.",
+    "chiefComplaint": "Severe instability ('giving-way') of the right knee during weight transfer, joint line pain, and persistent knee swelling.",
+    "history": [
+      "History of Present Illness: Decelerated and changed direction rapidly during a match, felt a 'pop' in his right knee, and collapsed immediately. Swelling appeared within 2 hours. MRI confirmed complete rupture of Right ACL and a grade I medial collateral ligament (MCL) sprain.",
+      "Referred for pre-habilitation exercises to optimize muscle strength prior to scheduled ACL reconstructive surgery.",
+      "Past Medical and Sports History: No prior knee injuries. Plays competitive soccer 15 hours a week.",
+      "Social History: Active athlete student, highly motivated to return to high-level sport."
+    ],
+    "observation": [
+      "Gait: Walk with a bent-knee gait pattern (quadriceps avoidance gait), using a single forearm crutch.",
+      "Posture/Alignment: Right knee held in 10 degrees of flexion during standing weight bearing.",
+      "Muscle Wasting: Faint flattening of the right vastus medialis obliquus (VMO) due to acute arthrogenic muscle inhibition.",
+      "Swelling: Moderate intra-articular effusion (positive stroke test/fluctuation test grade 1+)."
+    ],
+    "examination": [
+      "Palpation: Mild localized warm feeling, joint lines tender (lateral point > medial point).",
+      "Range Of Motion: Right knee active ROM restricted: Extension limited to -10 degrees (stiffness & effusion), Flexion active to 95 degrees (end-feel soft/fluid). Left knee: 0° to 140°.",
+      "Manual Muscle Testing: Right Quadriceps 4-/5, Hamstrings 4-/5. Left leg: Quadriceps 5/5, Hamstrings 5/5."
+    ],
+    "specialTests": [
+      "Lachman Test: Positive, 3mm anterior translation with soft end-feel on right side.",
+      "Anterior Drawer Test: Positive, with significant tibial translation.",
+      "Pivot Shift Test: Positive, but limited due to guarding.",
+      "Valgus Stress Test: Stable at 0°, mild laxity at 30° flexion indicating MCL Grade I."
+    ],
+    "linkedSpecialTests": [
+      "st_lachman",
+      "st_anterior_drawer_knee"
+    ],
+    "assessmentFindings": [
+      "Acute complete rupture of the right ACL with associated Grade I MCL sprain.",
+      "Moderate joint effusion and arthrogenic quadriceps inhibition.",
+      "Pre-operative target: Recover full extension, resolve effusion, and rebuild hamstring/quadriceps strength prior to reconstructive surgery."
+    ],
+    "problemList": [
+      "Joint instability and fear of weight-bearing on the affected side.",
+      "Restricted active knee extension (-10°) and flexion (95°).",
+      "Intra-articular edema causing mechanical block of extension.",
+      "Quadriceps weakness (specifically VMO) and hamstring weakness due to loading avoidance.",
+      "Altered gait pattern with terminal extension lag."
+    ],
+    "physiotherapyDiagnosis": "Right knee Anterior Cruciate Ligament (ACL) laxity and joint insufficiency presenting with swelling, flexion deformity (-10 degrees), severe quadriceps/hamstring weakness, and altered gait post-sports knee trauma.",
+    "shortTermGoals": [
+      "Eliminate active right knee effusion (stroke test down to trace) within 10 days.",
+      "Complete restoration of full passive knee extension (0°) within 2 weeks.",
+      "Improve active knee flexion to 120° within 2 weeks.",
+      "Normalize gait to be crutch-free with correct heel-strike/terminal swing within 3 weeks."
+    ],
+    "longTermGoals": [
+      "Maximum quadriceps and hamstring torque symmetry (> 90% limb symmetry index on Isokinetic testing) prior to surgical date (in 6 weeks).",
+      "Minimize post-operative rehabilitation timeline by ensuring excellent pre-habilitation conditioning.",
+      "Maintain high degree of cardiovascular conditioning during pre-op phase using upper-body ergometry."
+    ],
+    "treatmentPlan": [
+      "Acute Management (PRICE): Compression knee sleeve, elevation, regular cryotherapy, and weight-bearing as tolerated.",
+      "Swelling Control: Retrograde effleurage and active ankle pump cycles.",
+      "Range Of Motion: Heel slides (active-assisted), prone hangs (to restore passive extension), and wall slides.",
+      "Muscle Activation: Neuromuscular electrical stimulation (NMES) to VMO during isometric quad sets, straight leg raises, and terminal knee extension drills."
+    ],
+    "outcomeMeasures": [
+      "IKDC Subjective Knee Evaluation Form - baseline: 38/100.",
+      "Lysholm Knee Scoring Scale - baseline: 42/100.",
+      "Numeric Pain Rating Scale (NPRS) - baseline: 5/10 (effusion-related pain)."
+    ],
+    "redFlags": [
+      "Sudden lock/inability to flex or extend knee past a specific angle (indicative of displaced bucket-handle meniscus tear).",
+      "Signs of calf deep vein thrombosis (post-trauma compression or absolute inactivity).",
+      "Signs of infection if surgical portal/skin was broken post-injury."
+    ]
+  },
+  {
+    "id": "case_pediatric_cp",
+    "category": "Pediatrics",
+    "condition": "Cerebral Palsy (Spastic Diplegia)",
+    "year": "Final Year",
+    "subject": "Pediatric Physiotherapy",
+    "patientProfile": "Patient: Master Aarav, 4-year-old male, diagnosed with Spastic Diplegic Cerebral Palsy (GMFCS Level III), born prematurely at 30 weeks gestational age.",
+    "chiefComplaint": "Inability to walk without hand support, prominent toe-walking, scissoring posture of legs during standing, and difficulty maintaining balance in sitting.",
+    "history": [
+      "History of Present Illness: Born at 30 weeks via emergency C-section due to fetal distress. Spent 4 weeks in the NICU for respiratory distress syndrome. Diagnosed with bilateral periventricular leukomalacia (PVL) on cranial ultrasound. Showed delayed milestones: sat independently at 14 months, started pulling to stand with support at 24 months. Now referred for intensive physical therapy to facilitate walker-assisted functional walking.",
+      "Past Medical History: Unremarkable prenatal history. Had intramuscular Botulinum Toxin Type A (Botox) injections to bilateral gastrocnemius & adductors 3 months ago with temporary tone reduction.",
+      "Social History: Lives with highly supportive parents in a ground-floor home with wheelchair-accessible ramps."
+    ],
+    "observation": [
+      "Posture in sitting: Asymmetrical pelvic alignment, sits with a posterior pelvic tilt and rounded thoracolumbar spine (sacral sitting pattern).",
+      "Posture/Alignment in standing: Exhibits bilateral hip flexion, adduction, and internal rotation, accompanied by knee flexion and ankle plantarflexion (classic Crouch Posture). Upper limbs are spared with typical active motor functions.",
+      "Gait: Ambulates with a posterior wheeled walker, displaying a scissors-style gait pattern (legs cross midline due to spastic adductors) with persistent heel-strike bypass (toe-walking).",
+      "Muscle Wasting: Symmetric disuse atrophy of the gluteus maximus, gluteus medius, and quadriceps muscles."
+    ],
+    "examination": [
+      "Muscle Tone (Modified Ashworth Scale): Bilateral hip adductors: Grade 2 (marked tone increase through most of ROM); bilateral gastrocnemius: Grade 2; bilateral hamstrings: Grade 1+.",
+      "Sensory Exam: Intact light touch and temperature sensation bilaterally, but exhibits slowness in proprioceptive and joint-position matching at the ankles.",
+      "Reflexes: Patellar reflexes are hyperactive bilaterally (3+), Achilles reflexes are hyperactive with 5 beats of ankle clonus. Bilateral Babinski reflex is positive (upgoing toes)."
+    ],
+    "specialTests": [
+      "Duncan-Ely Test: Positive bilaterally, indicating spasticity and dynamic tightness of the rectus femoris muscle.",
+      "Thomas Test: Positive bilaterally, demonstrating bilateral hip flexor tightness (15-degree extension lag).",
+      "Silfverskiold Test: Confirms ankle plantarflexion restriction is primarily gastrocnemius-mediated (passive ankle dorsiflexion improves from -10 degrees to neutral when the knee is flexed)."
+    ],
+    "linkedSpecialTests": [],
+    "assessmentFindings": [
+      "Spastic Diplegic CP (GMFCS Level III) in a 4-year-old child presenting with bilateral lower extremity spastic hypertonia.",
+      "Crouch posture standing alignment with secondary contracture risks of hip adductors, hamstrings, and gastrocnemius muscles.",
+      "Baseline weakness of core stabilizers, gluteals, and ankle dorsiflexors.",
+      "Impaired developmental postural mechanism, including delayed equilibrium and protective extension reactions."
+    ],
+    "problemList": [
+      "Bilateral lower extremity spastic hypertonia (Adductors, Gastrocnemius, Hamstrings) interfering with reciprocal leg movement.",
+      "Crouch standing alignment with dynamic tightness of hip flexors and Achilles tendons.",
+      "Severe weakness of gluteal extensors, abductors, and ankle dorsiflexors.",
+      "Delayed postural mechanisms with poor equilibrium reactions in standing.",
+      "Scissors gait pattern with toe-walking limiting independent community ambulation."
+    ],
+    "physiotherapyDiagnosis": "Spastic Diplegic Cerebral Palsy (GMFCS Level III) in a 4-year-old child, presenting with lower extremity spastic hypertonia, crouched stance, and severe gluteal weakness, restricting independent functional ambulation and standing balance.",
+    "shortTermGoals": [
+      "Normalize lower extremity resting tone to permit easier diapering and splint placement within 2 weeks.",
+      "Increase passive ankle dorsiflexion to 5 degrees with knee extended bilaterally within 3 weeks.",
+      "Maintain active, symmetrical tall-kneeling posture during play for 1 minute with minimal support in 3 weeks.",
+      "Facilitate lateral protective extension reactions in sitting on a pegboard or Swiss ball within 2 weeks."
+    ],
+    "longTermGoals": [
+      "Enable independent walking of 50 meters on flat surfaces using a posterior wheeled walker and bilateral Solid AFOs within 12 weeks.",
+      "Achieve independent sit-to-stand transitions from a child-sized chair without hand support within 12 weeks.",
+      "Instruct and empower parents to execute a daily 45-minute home flexibility and standing program to prevent structural bony deformities durante growth."
+    ],
+    "treatmentPlan": [
+      "Spasticity Mitigation: Implement slow sustained stretching of the hip adductors and calf muscles, combined with warm-water hydrotherapy and gentle rocking patterns to decrease resting motor neuron excitability.",
+      "Neurodevelopmental Treatment (NDT/Bobath): Use proximal handling keys to facilitate pelvic alignment, active trunk righting, and posterior weight shifting in sitting, all-fours, and tall kneeling.",
+      "Antagonist Muscle Activation: Play-based active strengthening of gluteals and ankle dorsiflexors (e.g., reaching for toys from an active deep squat, kicking foam balls).",
+      "Orthotic and Gait Coaching: Facilitate reciprocal leg stepping using a posterior wheeled walker, ensuring integration of solid or posterior leaf-spring Ankle-Foot Orthoses (AFOs) to align the feet."
+    ],
+    "outcomeMeasures": [
+      "GMFCS Classification - Level III.",
+      "Gross Motor Function Measure (GMFM-66) - baseline score: 46%.",
+      "Pediatric Evaluation of Disability Inventory (PEDI) - baseline self-care: 38/100, mobility: 32/100."
+    ],
+    "redFlags": [
+      "Sudden regression or loss of motor milestones (suggestive of progressive cord tethering, brain cyst expansion, or metabolic decline).",
+      "Persistent groin/hip pain or asymmetrical restriction of hip abduction (hints at progressive development hip subluxation or dislocation).",
+      "Signs of elevated intracranial pressure, such as headaches, vomiting, or progressive strabismus (if ventriculoperitoneal shunt is present)."
+    ]
+  },
+  {
+    "id": "case_pediatric_erbs",
+    "category": "Pediatrics",
+    "condition": "Erb's Palsy (OBPP)",
+    "year": "Final Year",
+    "subject": "Pediatric Physiotherapy",
+    "patientProfile": "Patient: Baby Meera, 3-month-old female infant, born full-term with macrosomia (birth weight: 4.3 kg), presenting with complete flaccid paralysis of the right upper extremity.",
+    "chiefComplaint": "Complete lack of active movement in the right shoulder and elbow, with the arm hanging motionlessly by the side of the body since birth.",
+    "history": [
+      "History of Present Illness: Born via difficult vaginal delivery involving prolonged labor and documented shoulder dystocia. Lateral traction forces were applied to the head-neck during shoulder extraction. Post-delivery exam revealed flaccid paralysis of the right arm. Diagnosed with Right Erb's Palsy (C5-C6 upper trunk brachial plexus injury). Now referred at 3 months for persistent lack of active shoulder abduction and elbow flexion.",
+      "Past Medical History: Unremarkable prenatal and family history. No fractures of the clavicle or humerus detected on neonatal X-rays.",
+      "Social History: Supported by anxious first-time parents who are eager to learn stimulation techniques."
+    ],
+    "observation": [
+      "Posture/Limb Carriage: Right upper limb hangs in shoulder adduction and internal rotation, with the elbow fully extended, forearm pronated, and wrist/fingers slightly flexed (classic Waiter's Tip Deformity).",
+      "Moro Reflex: Pronounced asymmetry; the left arm abducts, elevates, and opens fully, while the right upper extremity remains completely motionless.",
+      "Muscle Wasting: Observable flattening and loss of muscle bulk over the right deltoid and biceps regions.",
+      "Skin Integrity: Normal skin color and turgor, but baby shows complete motor neglect of the right upper limb during spontaneous visual-tracking play."
+    ],
+    "examination": [
+      "Palpation: No step-off or localized tenderness along the right clavicle, scapula, or humerus. Right shoulder joint presents with mild posterior humerus subluxation tendency.",
+      "Range Of Motion (ROM): Right shoulder passive ROM is preserved except for external rotation (limited to 30 degrees) and abduction (limited to 90 degrees due to subscapularis tightness). Active ROM is completely absent in shoulder abduction, external rotation, and elbow flexion (0/5).",
+      "Muscle Tone: Profound hypotonia (flaccidity) over the right C5-C6 innervated musculature (Deltoid, Biceps, Infraspinatus, Brachialis)."
+    ],
+    "specialTests": [
+      "Toronto Active Movement Scale (TAMS): Score of 1/7 for shoulder abduction (flicker) and 0/7 for elbow flexion (no contraction), confirming severe upper trunk plexus disruption.",
+      "Moro Reflex: Consistently asymmetric with zero motor response on the right upper quadrant."
+    ],
+    "linkedSpecialTests": [],
+    "assessmentFindings": [
+      "Right Erb's Palsy (C5-C6 upper trunk brachial plexus traction injury) at 3 months of age.",
+      "Waiter's tip resting deformity with complete flaccid paralysis of shoulder abductors and elbow flexors.",
+      "Asymmetric Moro reflex and sensory-motor neglect of the affected limb.",
+      "Early shoulder internal rotators and forearm pronators contracture risk, with joint instability."
+    ],
+    "problemList": [
+      "Lower motor neuron flaccid paralysis of C5-C6 muscles (Deltoid, Biceps, Infraspinatus, Supinator).",
+      "Waiter's tip resting limb deformity.",
+      "Contracture risk of shoulder internal rotators and forearm pronators with posterior humeral subluxation.",
+      "Inability to execute functional hand-to-midline or hand-to-mouth tasks.",
+      "Sensory-motor neglect of the right upper limb."
+    ],
+    "physiotherapyDiagnosis": "Right upper trunk brachial plexus traction palsy (C5-C6, Erb's Palsy) presenting with flaccid paresis, waiter’s tip posture on the right side, asymmetric reflexes, and sensory motor neglect of the upper limb restricting functional reach.",
+    "shortTermGoals": [
+      "Maintain or restore complete passive range of motion in the right shoulder, elbow, and wrist of the infant through daily parental routine stretches within 2 weeks.",
+      "Prevent humerus subluxation via supportive limb alignment during carrying in 1 week.",
+      "Stimulate active muscle twitch/faint contraction in the biceps and deltoid using sensory brush tactile techniques in 3 weeks.",
+      "Integrate parents into safe holding/handling to avoid arm traction in 1 session."
+    ],
+    "longTermGoals": [
+      "Facilitate active elbow flexion past 90 degrees (Toronto Active Movement Scale > 4) during play within 12 weeks.",
+      "Accomplish baseline active hand-to-mouth touch during feeding within 16 weeks.",
+      "Achieve symmetric bimanual coordination (clapping, hands-to-midline play) in 16 weeks."
+    ],
+    "treatmentPlan": [
+      "Parental Education: Warn parents to never pull the baby by the hands or wrists, and teach safe positioning (pinning the sleeve to the shirt to keep the arm supported at 90 degrees flexion during resting phases).",
+      "Passive Joint Mobilization: Gentle, daily passive ROM of shoulder external rotation and abduction, forearm supination, and elbow flexion to prevent muscle tightness, avoiding aggressive traction forces.",
+      "Sensory Stimulation: Utilize sensory brushing (soft-bristle brush), tactile stroke stimulation, and warm/cool cloth rubs over the right C5-C6 dermatomes to trigger sensory awareness.",
+      "Motor Re-education: Pin brightly colored ribbons or rattles to the right wrist to encourage active visual tracking and spontaneous muscle activation attempts during play."
+    ],
+    "outcomeMeasures": [
+      "Toronto Active Movement Scale (TAMS) - baseline score: 1.5/7.",
+      "Mallet Score (adapted for infants) - Grade I (no active movement)."
+    ],
+    "redFlags": [
+      "Development of Horner's Syndrome (ptosis, unilateral miosis, anhidrosis) indicating deeper C8-T1/sympathetic fiber traction, implying a severe prognosis.",
+      "Complete lack of active biceps contraction/elbow flexion by 5-6 months of age (strong indication for immediate surgical nerve grafting referral).",
+      "Signs of sudden localized pain, severe crying during handle exercises, or bone swelling (indicating humeral or clavicular hairline fracture, requiring pediatric x-ray validation)."
+    ]
+  },
+  {
+    "id": "case_obgyn_pgp",
+    "category": "Women's Health",
+    "condition": "Antenatal Pelvic Girdle Pain",
+    "year": "4th Year",
+    "subject": "Community Rehabilitation & Women's Health",
+    "patientProfile": "Patient: Mrs. Ananya Sharma, 28-year-old female, 28 weeks pregnant (G2P1L1), administrative assistant, BMI: 27.8.",
+    "chiefComplaint": "Severe stabbing pain in the pubic symphysis and unilateral right posterior sacroiliac joint, radiating down the groin, severely worse during rolling in bed and walking.",
+    "history": [
+      "History of Present Illness: Sudden onset of sharp pelvic pain at 20 weeks gestation, progressing over the past 8 weeks. Aggravated by weight-bearing, standing on one leg (such as donning pants), and turning in bed. Relieved by lying on her side with a pillow between her knees.",
+      "Obstetric History: G2P1L1, previous uncomplicated vaginal delivery with mild transient postpartum pelvic pain. Current pregnancy is uncomplicated, regular antenatal screens normal.",
+      "Past Medical History: Unremarkable, no history of trauma or spinal defects.",
+      "Social History: Lives with her husband and 3-year-old daughter in a two-story house. Finds it highly challenging to climb stairs and take care of her child."
+    ],
+    "observation": [
+      "Posture/Alignment: Severe hyperlordosis, anterior pelvic tilt, and protective hand positioning over the lower back/pelvic region.",
+      "Gait: Waddling gait pattern with restricted stride length, avoiding weight shift over the right leg.",
+      "Swelling/Deformity: No visible localized swelling or joint deformity over the pubic symphysis or sacroiliac joints."
+    ],
+    "examination": [
+      "Palpation: Point tenderness (+3) over the anterior pubic symphysis, right posterior superior iliac spine (PSIS), and sacrotuberous ligament.",
+      "Range Of Motion (ROM): Right and left hips active ROM are functionally restricted by pain, especially abduction and extension. Lumbar active ROM is pain-free but limited in extension.",
+      "Manual Muscle Testing (MMT): Hip Abductors 4-/5 bilaterally. Gluteus Maximus 4/5. Abdominals are structurally stretched and precluded from formal maximal loading tests."
+    ],
+    "specialTests": [
+      "Posterior Pelvic Pain Provocation (P4) Test: Strongly positive on the right (reproduces deep posterior buttock pain).",
+      "Active Straight Leg Raise (ASLR) Test: Positive bilaterally, score of 3/5 (requires physical/auditory support to lift the limb). With manual pelvic compression, the ASLR becomes significantly easier (score 1/5).",
+      "Patrick's (FABER) Test: Positive on the right, reproducing familiar anterior groin discomfort."
+    ],
+    "linkedSpecialTests": [],
+    "assessmentFindings": [
+      "Pregnancy-induced pelvic girdle pain (PGP) secondary to mechanical loading changes, ligamentous laxity (relaxin-mediated), and pelvic girdle instability.",
+      "Altered dynamic stability during gait and transfers due to force closure failure of the pelvic joints."
+    ],
+    "problemList": [
+      "Severe pain over the pubic symphysis and right posterior SIJ, impeding sleep and mobility.",
+      "Difficulty rolling in bed, lifting things, and climbing stairs.",
+      "Waddling gait and poor shock absorption through pelvic structures.",
+      "Mild weakness of the pelvic floor and hip stabilizer muscles (Gluteals, Transverse Abdominis)."
+    ],
+    "physiotherapyDiagnosis": "Pregnancy-induced Pelvic Girdle Pain (Sacroiliac and Pubic Symphysis dysfunction) at 28 weeks gestation, presenting with waddling gait, impaired force closure of the pelvis, and functional limitations in ADLs.",
+    "shortTermGoals": [
+      "Reduce pelvic joint pain during transfers from 8/10 to 4/10 on NPRS within 2 weeks.",
+      "Improve active straight leg raise stability score from 3/5 to 1/5 using pelvic binders/belts within 1 week.",
+      "Instruct patient on pelvic-safe body mechanics for bed transfers and lifting within 1 session.",
+      "Strengthen pelvic stabilizers (TA, Gluteals) with pain-free isometrics in 2 weeks."
+    ],
+    "longTermGoals": [
+      "Maintain optimal pelvic alignment and stability to facilitate safe, comfortable vaginal delivery at term.",
+      "Promote pain-free ambulation for up to 500 meters without pelvic orthoses within 6 weeks.",
+      "Enable independent, safe bed-rolling and stair management utilizing core bracing techniques in 6 weeks."
+    ],
+    "treatmentPlan": [
+      "Patient Education: Sleep with a thick pillow between the knees; transfer legs together when entering or exiting a car (avoiding abduction). Don pants while seated.",
+      "Passive/Supportive Therapy: Prescribe and fit a rigid Pelvic Girdle Support Belt (trochanteric belt) to establish manual force closure.",
+      "Therapeutic Exercises: Low-impact posterior pelvic tilts, gentle transverse abdominis activations, and bilateral gluteal squeeze isometrics in pelvic-neutral crook lying.",
+      "Manual Therapy: High-velocity thrust techniques are CONTRAINDICATED. Gently apply muscle energy techniques (contract-relax) for adductor spasm, or soft tissue massage to gluteal trigger points."
+    ],
+    "outcomeMeasures": [
+      "Pelvic Girdle Questionnaire (PGQ) - baseline: 64%.",
+      "Active Straight Leg Raise (ASLR) - baseline: 3/5 on both sides.",
+      "Numeric Pain Rating Scale (NPRS) - baseline: 8/10 on activity."
+    ],
+    "redFlags": [
+      "Sudden vaginal bleeding, fluid escape, or contractions during therapeutic exercises.",
+      "Inability to bear weight on either leg with a loud audible 'pop' or click at the pubic symphysis (suspect symphysis rupture).",
+      "Signs of deep vein thrombosis in the lower limb (calf swelling, heat, redness)."
+    ]
+  },
+  {
+    "id": "case_obgyn_dra",
+    "category": "Women's Health",
+    "condition": "Diastasis Recti Abdominis",
+    "year": "4th Year",
+    "subject": "Community Rehabilitation & Women's Health",
+    "patientProfile": "Patient: Mrs. Suman Rao, 32-year-old female, 12 weeks postpartum (G3P3L3, vaginal deliveries), homemaker.",
+    "chiefComplaint": "A prominent bulge along the middle of the abdomen when attempting to sit up from bed, accompanied by chronic dull lower back pain and feeling of core weakness.",
+    "history": [
+      "History of Present Illness: Patient noticed a protrusion/gap in the midline of her abdomen about 2 weeks postpartum which did not resolve. Complains of persistent lower back ache representing 5/10 on NPRS, worst in the evening after child care duties.",
+      "Obstetric History: G3P3L3, all vaginal deliveries. Third baby was macrosomic (birth weight: 4.1 kg) with prolonged active labor stage. Normal recovery.",
+      "Past Medical History: Unremarkable, no history of abdominal surgeries, hernia, or metabolic deficits.",
+      "Social History: Lives in a nuclear family, cares for three young children. Highly active but struggles with fatigue and core instability."
+    ],
+    "observation": [
+      "Posture/Alignment: Severe lumbar hyperlordosis, protruding abdomen ('mummy tummy'), and bilateral shoulder protraction.",
+      "Abdominal Wall: Distinct vertical ridge/bulge along the linea alba extending from the xiphoid process to the umbilicus during an active head-press test (coning/doming phenomenon)."
+    ],
+    "examination": [
+      "Palpation of Linea Alba: Inter-recti distance (IRD) measured using fingerbreadths. IRD is 3.5 fingers at the level of the umbilicus, and 2.5 fingers at 3 cm above the umbilicus. Tenderness is absent, but the tissue feels soft and deep (poor fascial tension/density).",
+      "Range Of Motion (ROM): Lumbar spine active flexion/extension are pain-free but extension is stiff.",
+      "Manual Muscle Testing (MMT): Transverse Abdominis (TA) contraction is weak, unable to hold a hollow for 10 seconds. Gluteus Medius 3+/5 bilaterally."
+    ],
+    "specialTests": [
+      "Fingerbreadth Test for DRA: Positive, 3.5 fingerbreadths at the umbilical level during a head lift.",
+      "Transverse Abdominis palpation: Weak, delayed recruitment and lack of lateral tensioning."
+    ],
+    "linkedSpecialTests": [],
+    "assessmentFindings": [
+      "Postpartum Diastasis Recti Abdominis (DRA) with umbilical separation (> 3 cm) and severe fascial laxity of the linea alba.",
+      "Postpartum lumbar lordosis and postural strain secondary to abdominal wall insufficiency and poor force closure under loading."
+    ],
+    "problemList": [
+      "A 3.5-fingerbreadth separation of rectus abdominis muscles with active midline coning.",
+      "Chronic dull lower back pain (5/10) worse with loading.",
+      "Weakness of transverse abdominis and pelvic floor muscles under intra-abdominal pressure.",
+      "Postural deviations including increased lumbar lordosis."
+    ],
+    "physiotherapyDiagnosis": "Postpartum Diastasis Recti Abdominis (inter-recti distance 3.5 fingerbreadths) presenting with abdominal dome/cone formation, core insufficiency, and secondary postural lower back pain restricting domestic child care activities.",
+    "shortTermGoals": [
+      "Educate patient on active abdominal support, avoiding Valsalva maneuvers, and log-roll bed transfers in 1 session.",
+      "Reduce lumbar back pain from 5/10 to 2/10 on NPRS within 3 weeks.",
+      "Train patient in selective contraction and isometric activation of Transverse Abdominis (TA) within 2 weeks.",
+      "Improve pelvic floor muscle endurance from 3-second hold to 6-second hold within 3 weeks."
+    ],
+    "longTermGoals": [
+      "Reduce inter-recti distance (IRD) to under 2 fingerbreadths (clinically normal range) within 12 weeks.",
+      "Restore full linea alba tension/density to prevent coning during active head raises in 12 weeks.",
+      "Enable pain-free, comfortable carrying of her child for 30 minutes without back ache in 8 weeks.",
+      "Attain symmetric core-stabilization and optimal pelvic alignment during standing and sitting postures in 12 weeks."
+    ],
+    "treatmentPlan": [
+      "Patient Education: Strictly avoid traditional sit-ups, double crunches, heavy lifting, or coughing without abdominal support (which increase intra-abdominal pressure and worsen the gap). Implement log-roll transfers only.",
+      "Postural Correction: Train passive and active pelvis re-alignment (posterior tilts in standing) to reduce lumbar lordosis.",
+      "Therapeutic Exercises: Teach the 'Tupler' or split-binder head lift technique (manually approximate rectus halves with hands/scarf while performing head lift). Focus heavily on Transverse Abdominis (TA) isolation: 'draw-in maneuver' paired with gentle exhalation, progressing to heel slides and pelvic tilts.",
+      "Pelvic Floor Rehabilitation: Combine TA activation with Kegel holds to restore pelvic floor and abdominal wall co-contraction synergy."
+    ],
+    "outcomeMeasures": [
+      "Inter-recti distance (IRD) in fingerbreadths - baseline: 3.5 fingers.",
+      "Numeric Pain Rating Scale (NPRS) for lower back - baseline: 5/10.",
+      "Oswestry Disability Index (ODI) for back dysfunction - baseline: 28%."
+    ],
+    "redFlags": [
+      "Incarceration or strangulation signs of a midline umbilical/epigastric hernia (intractable abdominal pain, nausea, vomiting, hard painful non-reducible umbilical mass).",
+      "Sudden sharp spinal radicular pain radiating below the knee (lumbar disc herniation).",
+      "Postpartum pelvic infection or secondary heavy uterine bleeding."
+    ]
+  }
+]

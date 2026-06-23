@@ -1,0 +1,68 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch18",
+  "chapterName": "Pleural Cavities",
+  "definition": [
+    "Chapter Overview: This chapter details the pleural membranes (visceral and parietal), pleural cavities, and the recesses of the pleura.",
+    "Definition of Pleura: A serous membrane lined by simple squamous epithelium (mesothelium) that envelopes each lung.",
+    "Pleural Cavity: The potential space between the visceral pleura (covering the lung surface) and the parietal pleura (lining the cavity walls)."
+  ],
+  "principle": [
+    "Parietal Pleura Divisions: Classified into cervical (cupula), costal, diaphragmatic, and mediastinal pleura based on the structures it lines.",
+    "Visceral Pleura: Adheres closely to all surfaces of the lung, including the interlobar fissures. It receives its blood supply from bronchial vessels.",
+    "Pleural Recesses: Important potential spaces that allow for lung expansion during deep inspiration: include the costodiaphragmatic recess (largest, clinically significant) and costomediastinal recess."
+  ],
+  "equipment": [
+    "Thorax cross-section model",
+    "Aspiration syringes (simulated thoracocentesis gear)",
+    "Pleural cavity diagrams"
+  ],
+  "parameters": {
+    "PleuralFluidVolume": "Generally 10 ml to 15 ml in healthy adults",
+    "CostodiaphragmaticRecessExtent": "Extends from 8th to 10th rib midaxillary"
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Pneumothorax: Presence of air in the pleural cavity, which can cause lung collapse.",
+    "Pleural Effusion: Accumulation of excess fluid in the pleural cavity, typically pooling first in the costodiaphragmatic recesses."
+  ],
+  "vivaQuestions": [
+    "Question: Differentiate between visceral and parietal pleura regarding nerve supply and pain sensitivity. | Answer: Visceral pleura is supplied by autonomic nerves and is insensitive to general pain. Parietal pleura is supplied by somatic nerves (intercostal and phrenic nerves) and is highly sensitive to localized pain. | Examiner Key Points: Visceral autonomic / parietal somatic, localized chest wall pain vs referred pain. | Clinical Importance: Inflammation of parietal pleura (pleurisy) causes sharp, localized, respiration-dependent chest pain.",
+    "Question: What is the costodiaphragmatic recess and where is it clinically accessed during thoracocentesis? | Answer: It is the largest pleural recess, located inferiorly between costal and diaphragmatic parietal pleura. Fluid pools here in upright patients; it is safely accessed in the 8th or 9th intercostal space midaxillary line. | Examiner Key Points: Costal-diaphragmatic boundary, 8th/9th intercostal space, midaxillary line. | Clinical Importance: Primary site for tapping pleural fluid."
+  ],
+  "mcqs": [
+    {
+      "question": "Which nerve supplies the mediastinal and central diaphragmatic parietal pleura with somatic sensory fibers?",
+      "options": [
+        "Vagus nerve",
+        "Phrenic nerve",
+        "Sympathetic trunk",
+        "Intercostal nerves"
+      ],
+      "answer": "Phrenic nerve"
+    },
+    {
+      "question": "Where does fluid accumulation primarily pool first in the pleural cavity when a patient is in an upright position?",
+      "options": [
+        "Suprapleural membrane",
+        "Costomediastinal recess",
+        "Costodiaphragmatic recess",
+        "Apex of pleural sac"
+      ],
+      "answer": "Costodiaphragmatic recess"
+    }
+  ]
+}

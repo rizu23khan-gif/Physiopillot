@@ -1,0 +1,368 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch3",
+  "chapterName": "Bones of Upper Limb",
+  "definition": [
+    "Chapter Overview: This chapter details the comprehensive osteology of the upper limb, carefully covering the morphology, side determination, attachments, ossification, and critical clinical significance of each bone comprising the pectoral girdle, arm, forearm, and hand.",
+    "Definition of Osteology of Upper Limb: Osteology of the upper limb is the specialized anatomical study of the appendicular skeleton of the superior extremity. It comprises exactly 32 distinct bones on each side of the body, intricately articulated to prioritize immense mobility over stability for precise motor functions.",
+    "Classification of Upper Limb Bones: 1. Shoulder girdle: Includes the Clavicle (a modified long bone) and Scapula (a flat bone). 2. Arm: Humerus (a typical long bone). 3. Forearm: Radius and Ulna (typical long bones). 4. Hand: Comprises Carpal bones (8 short bones), Metacarpals (5 miniature long bones), and Phalanges (14 miniature long bones)."
+  ],
+  "principle": [
+    "Clavicle (Collar Bone): A fundamentally modified long bone lacking a medullary cavity. Side determination requires positioning the flat end laterally and the quadrilateral end medially; the shaft is convex forwards medially and concave forwards laterally, with the subclavian groove on the inferior surface. Attachments: The medial two-thirds gives origin to the pectoralis major and the clavicular head of the sternocleidomastoid. The lateral third gives origin to the anterior deltoid and insertion to the trapezius. The inferior surface provides robust attachment for the coracoclavicular ligaments. Ossification is entirely unique, being the first bone in the body to ossify, primarily intramembranously.",
+    "Scapula (Shoulder Blade): A large, thin triangular flat bone located posterolaterally over the 2nd to 7th ribs. Side determination: The prominent glenoid cavity is directed laterally, the spinous process projects from the dorsal surface, and the subscapular fossa forms the concave costal surface. Features: Three borders (superior, medial, lateral), three angles (superior, inferior, lateral/glenoid), and three vital processes (spine, acromion, coracoid). Attachments: Origins include subscapularis, supraspinatus, infraspinatus, deltoid, teres major/minor, and the long heads of the biceps and triceps. Insertions include the trapezius, serratus anterior, rhomboids, levator scapulae, and pectoralis minor.",
+    "Humerus (Arm Bone): The longest bone of the upper limb. Side determination: The rounded head must face medially, upwards, and backwards; the prominent lesser tubercle sits anteriorly, with the deep olecranon fossa positioned posteriorly at the expanded lower end. Features: The upper extremity features the anatomical neck, surgical neck, greater/lesser tubercles, and the bicipital groove. The surgical neck is the most frequently fractured site. The lower end carries the capitulum (lateral) and trochlea (medial) for elbow articulation. Attachments: The rotator cuff muscles insert into the tubercles. The latissimus dorsi inserts firmly into the floor of the bicipital groove.",
+    "Radius: The lateral bone of the forearm. Side determination: The proximal head is small, thick, and disc-shaped; the distal end is massively expanded with a prominent lateral styloid process, while the sharpest medial border is the interosseous margin. Features include the radial tuberosity and dorsal tubercle of Lister. Attachments: The primary insertion site for the powerful biceps brachii is the radial tuberosity. The brachioradialis uniquely inserts at the base of the styloid process.",
+    "Ulna: The stabilizing medial bone of the forearm. Side determination: The massive hook-like upper end points anteriorly via the trochlear notch; its sharp lateral margin is the interosseous border, and the small distal head rests beside a tiny medial styloid process. Features: The massive olecranon process forms the point of the elbow. Attachments: Provides the ultimate insertion point for the triceps brachii (on the olecranon) and brachialis (on the coronoid process)."
+  ],
+  "equipment": [
+    "Carpal Bones (Wrist Skeleton): Formed by 8 short bones arranged precisely in two rows. Proximal row (lateral to medial): Scaphoid, Lunate, Triquetrum, Pisiform. Distal row: Trapezium, Trapezoid, Capitate, Hamate. Important landmarks include the scaphoid tubercle, the distinct hook of the hamate, and the pisiform (which is fundamentally a sesamoid bone suspended within the flexor carpi ulnaris tendon). Clinical importance: Together they form the unyielding bony floor of the restrictive carpal tunnel.",
+    "Metacarpals (Palm Bones): 5 miniature long bones numbered 1st (thumb) to 5th (little finger). Features: Each possesses a proximal base, a central shaft, and a distal head (knuckles). Attachments: The bases serve as critical origins for the interossei muscles. The highly mobile 1st metacarpal articulates with the trapezium to form a remarkably free saddle joint.",
+    "Phalanges (Digit Bones): 14 miniature long bones. The thumb possesses exactly two (proximal and distal), while the fingers each possess three (proximal, middle, distal). They provide the ultimate terminal insertions for the profound and superficial digital flexors, extensors, and intrinsic hand musculature.",
+    "Ossification & Growing Ends: Epiphyses broadly appear after birth and fuse generally around puberty. The critical 'growing ends' of the humerus, radius, and ulna are located away from the elbow articulation. (A classic mnemonic rule: 'To the elbow I go, from the knee I flee' refers to the protective direction of the nutrient arteries, pointing away from the vigorously growing ends).",
+    "Functional Significance & Surface Anatomy: The upper limb skeleton brilliantly trades rigid axial stability for extensive multi-axial mobility, culminating in the fine prehensile capabilities of the hand. Crucial externally palpable landmarks for physiotherapists include the continuously subcutaneous clavicle, the very point of the shoulder (acromion), the greater tubercle of the humerus, the exact point of the elbow (olecranon), and the radial/ulnar styloid processes."
+  ],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Clavicle Fracture: Unquestionably the most commonly fractured bone in the body. The quintessential fracture site is unequivocally the junction of the medial two-thirds and lateral one-third, representing its weakest mechanical point. Consequentially, the lateral fragment is pulled downward by arm gravity, while the medial fragment is conspicuously elevated by the sternocleidomastoid.",
+    "Surgical Neck Fracture of Humerus: Statistically prevalent in osteoporotic elderly individuals. It poses a very high percentage risk of direct traction injury to the closely spiraling axillary nerve and the posterior circumflex humeral artery.",
+    "Supracondylar Fracture: Extremely common in pediatrics following a classic FOOSH (Fall On Outstretched Hand). It is a surgical emergency if it compromises the central brachial artery, as vascular occlusion here rapidly precipitates irreversible Volkmann's ischemic contracture.",
+    "Colles' and Smith's Fractures: Colles' fracture involves the distal radius with distinct dorsal displacement (producing the classic 'dinner fork' visual deformity). Smith's fracture is mechanically the reverse, featuring volatile (anterior) displacement of the distal radial fragment.",
+    "Scaphoid Fracture: Far and away the most commonly fractured individual carpal bone. It typically produces profound point tenderness specifically within the anatomical snuffbox. It remains notorious in orthopedic surgery for a high rate of non-union and dangerous avascular necrosis of its proximal pole due to its fragile retrograde arterial supply.",
+    "Monteggia vs. Galeazzi Fractures (The Forearm Traumas): A Monteggia fracture involves fracturing the proximal third of the ulna combined inextricably with an anterior dislocation of the radial head. Conversely, a Galeazzi fracture fractures the distal third of the radius combined with dislocation of the distal radioulnar joint (DRUJ).",
+    "Bennett and Boxer Fractures: Bennett's fracture describes an intra-articular fracture-dislocation definitively at the base of the 1st metacarpal. Boxer's fracture describes a transverse impact break across the surgical neck of the 5th (or 4th) metacarpal, typically sustained from a closed-fist punch.",
+    "Physiotherapy Relevance & Palpation Landmarks: Rigorous anatomical knowledge of standard bony geometries is absolutely non-negotiable for biomechanical analysis. Precise joint mobilizations (Maitland, Mulligan) require exact, confident palpation of the epicondyles, joint lines, and isolated carpal bones to avoid iatrogenic soft tissue damage or ineffective leverage."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "Question: Explain the classical difference between the anatomical neck and surgical neck of the humerus. | Answer: Anatomical neck is the slight constriction just distal to the articular head. The surgical neck is the constriction below the tubercles, where the shaft begins. | Examiner Key Points: Epiphyseal line vs common fracture site. | Clinical Importance: The surgical neck is the most fractured site; risks axillary nerve.",
+    "Question: Identify the major muscles inserting on the greater and lesser tubercles of the humerus. | Answer: Greater tubercle: Supraspinatus, Infraspinatus, Teres minor. Lesser tubercle: Subscapularis. | Examiner Key Points: SITS muscles insertion. | Clinical Importance: Forms the dynamic rotator cuff stabilizing the shoulder.",
+    "Question: List the three bones comprising the elbow articulation and name exactly which parts articulate. | Answer: Humerus (trochlea and capitulum), Ulna (trochlear notch), and Radius (head). | Examiner Key Points: Humeroulnar and humeroradial joints. | Clinical Importance: Precise articulation limits hinge motion solely to flexion/extension.",
+    "Question: Detail the precise muscular attachments to the olecranon process of the ulna. | Answer: The triceps brachii inserts firmly into the posterior part of the superior surface of the olecranon. | Examiner Key Points: Triceps insertion. | Clinical Importance: Avulsion fractures of the olecranon compromise elbow extension.",
+    "Question: Which nerve is extremely vulnerable dynamically as it securely curls behind the medial epicondyle of the humerus? | Answer: The ulnar nerve. | Examiner Key Points: Travels in the cubital tunnel. | Clinical Importance: 'Funny bone' sensation; prone to compression and cubital tunnel syndrome.",
+    "Question: Describe the exact formation and composition of the crucial carpal tunnel. | Answer: Formed by the concave carpal bones posteriorly and the tight flexor retinaculum anteriorly. Contains 9 flexor tendons and the median nerve. | Examiner Key Points: Median nerve, 9 tendons. | Clinical Importance: Median nerve entrapment causes Carpal Tunnel Syndrome.",
+    "Question: Which single carpal bone is uniquely situated directly in the proximal flexor tendon of the flexor carpi ulnaris (a sesamoid bone)? | Answer: The pisiform bone. | Examiner Key Points: Sesamoid bone within FCU. | Clinical Importance: Protects the deep ulnar nerve during wrist flexion.",
+    "Question: What is the clinical importance of the clavicle's unique ossification compared to other long bones? | Answer: The clavicle is the first bone in the body to begin ossifying (during the 5th-6th week of intrauterine life). Unlike typical long bones, it ossifies in membrane (intramembranous) rather than cartilage, except for its medial end. It also lacks a medullary cavity. | Examiner Key Points: First bone to ossify, membranous ossification, no medullary cavity. | Clinical Importance: Susceptible to congenital disorders like cleidocranial dysostosis.",
+    "Question: State the 'Law of Ossification' and explain its exception in the upper limb skeleton. | Answer: The law states that the epiphysis that appears first is the last to fuse with the diaphysis. In the clavicle, the medial epiphysis appears late (around 18-20 years) and fuses around 25 years, marking it as the last epiphysis of the body to fuse. | Examiner Key Points: First to appear, last to fuse; medial epiphysis of clavicle. | Clinical Importance: Vital in forensic age estimation.",
+    "Question: Describe the anatomical basis of 'Student's elbow' (Olecranon bursitis). | Answer: It is the inflammation of the subcutaneous olecranon bursa located over the olecranon process of the ulna. It is caused by chronic friction or repetitive pressure on the elbow (like resting elbows on a desk while studying). | Examiner Key Points: Olecranon bursa inflammation, chronic friction/pressure, subcutaneous location. | Clinical Importance: Leads to painful swelling over the elbow tip, requiring aspiration or anti-inflammatory management."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following bones is universally documented as the first to begin ossifying in the human body?",
+      "options": [
+        "Mandible",
+        "Clavicle",
+        "Femur",
+        "Scapula"
+      ],
+      "answer": "Clavicle"
+    },
+    {
+      "question": "Morphologically, the clavicle is distinctly classified as which type of bone?",
+      "options": [
+        "Flat bone",
+        "Short bone",
+        "Modified long bone",
+        "Sesamoid bone"
+      ],
+      "answer": "Modified long bone"
+    },
+    {
+      "question": "The most statistically frequent anatomical site for a clavicle fracture is precisely at the:",
+      "options": [
+        "Acromial end",
+        "Sternal end",
+        "Junction of medial 2/3 and lateral 1/3",
+        "Midpoint of the medial curve"
+      ],
+      "answer": "Junction of medial 2/3 and lateral 1/3"
+    },
+    {
+      "question": "The coracoid process is a prominent bony projecting feature of which bone?",
+      "options": [
+        "Clavicle",
+        "Humerus",
+        "Scapula",
+        "Sternum"
+      ],
+      "answer": "Scapula"
+    },
+    {
+      "question": "Which specific geometric angle of the scapula directly bears the articular glenoid cavity?",
+      "options": [
+        "Superior angle",
+        "Inferior angle",
+        "Medial angle",
+        "Lateral angle"
+      ],
+      "answer": "Lateral angle"
+    },
+    {
+      "question": "The supraglenoid tubercle of the scapula provides the exact origin point for the:",
+      "options": [
+        "Short head of biceps brachii",
+        "Long head of biceps brachii",
+        "Long head of triceps brachii",
+        "Coracobrachialis"
+      ],
+      "answer": "Long head of biceps brachii"
+    },
+    {
+      "question": "The infraglenoid tubercle of the scapula provides the exact origin point for the:",
+      "options": [
+        "Short head of biceps",
+        "Subscapularis",
+        "Long head of triceps brachii",
+        "Teres minor"
+      ],
+      "answer": "Long head of triceps brachii"
+    },
+    {
+      "question": "Which major muscle uniquely and solely inserts onto the lesser tubercle of the humerus?",
+      "options": [
+        "Supraspinatus",
+        "Infraspinatus",
+        "Teres minor",
+        "Subscapularis"
+      ],
+      "answer": "Subscapularis"
+    },
+    {
+      "question": "Which muscle famously inserts directly into the floor of the intertubercular (bicipital) groove?",
+      "options": [
+        "Pectoralis major",
+        "Pectoralis minor",
+        "Teres major",
+        "Latissimus dorsi"
+      ],
+      "answer": "Latissimus dorsi"
+    },
+    {
+      "question": "A surgical neck fracture of the humerus most immediately jeopardizes the integrity of which nerve?",
+      "options": [
+        "Median nerve",
+        "Radial nerve",
+        "Axillary nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Axillary nerve"
+    },
+    {
+      "question": "A mid-shaft fracture of the humerus at the spiral groove most commonly damages which nerve?",
+      "options": [
+        "Axillary nerve",
+        "Ulnar nerve",
+        "Median nerve",
+        "Radial nerve"
+      ],
+      "answer": "Radial nerve"
+    },
+    {
+      "question": "A traumatic fracture or surgical avulsion of the medial epicondyle of the humerus endangers the:",
+      "options": [
+        "Radial nerve",
+        "Ulnar nerve",
+        "Median nerve",
+        "Brachial artery"
+      ],
+      "answer": "Ulnar nerve"
+    },
+    {
+      "question": "The capitulum of the humerus precisely articulates with which aspect of the forearm skeleton?",
+      "options": [
+        "Trochlear notch of ulna",
+        "Head of the radius",
+        "Olecranon process",
+        "Radial notch of ulna"
+      ],
+      "answer": "Head of the radius"
+    },
+    {
+      "question": "The prominent radial tuberosity serves as the profound insertion site for which muscle?",
+      "options": [
+        "Brachialis",
+        "Brachioradialis",
+        "Biceps brachii",
+        "Pronator teres"
+      ],
+      "answer": "Biceps brachii"
+    },
+    {
+      "question": "A Colles' fracture is classically associated with which resulting visual presentation?",
+      "options": [
+        "Claw hand deformity",
+        "Dinner fork deformity",
+        "Ape thumb deformity",
+        "Wrist drop"
+      ],
+      "answer": "Dinner fork deformity"
+    },
+    {
+      "question": "A Smith's fracture definitively involves a fracture of the lower end of the radius directly combined with:",
+      "options": [
+        "Dorsal displacement",
+        "Lateral displacement",
+        "Volar (anterior) displacement",
+        "Medial displacement"
+      ],
+      "answer": "Volar (anterior) displacement"
+    },
+    {
+      "question": "A fracture of the proximal ulna uniquely combined with a dislocation of the radial head is specifically termed a:",
+      "options": [
+        "Colles' fracture",
+        "Galeazzi fracture",
+        "Monteggia fracture",
+        "Chauffeur's fracture"
+      ],
+      "answer": "Monteggia fracture"
+    },
+    {
+      "question": "A Galeazzi true fracture-dislocation definitively involves a fracture of the:",
+      "options": [
+        "Proximal ulna",
+        "Distal radius",
+        "Distal humerus",
+        "Scaphoid"
+      ],
+      "answer": "Distal radius"
+    },
+    {
+      "question": "Which individual carpal bone possesses the highest statistical frequency of fracture overall?",
+      "options": [
+        "Lunate",
+        "Capitate",
+        "Scaphoid",
+        "Pisiform"
+      ],
+      "answer": "Scaphoid"
+    },
+    {
+      "question": "Which carpal bone famously suffers from anterior dislocation more frequently than any others?",
+      "options": [
+        "Scaphoid",
+        "Trapezium",
+        "Hamate",
+        "Lunate"
+      ],
+      "answer": "Lunate"
+    },
+    {
+      "question": "The pisiform bone is technically classified as a sesamoid bone located entirely within the tendon of the:",
+      "options": [
+        "Flexor carpi radialis",
+        "Palmaris longus",
+        "Flexor carpi ulnaris",
+        "Extensor carpi ulnaris"
+      ],
+      "answer": "Flexor carpi ulnaris"
+    },
+    {
+      "question": "Which of the following bones does NOT belong to the proximal row of the carpus?",
+      "options": [
+        "Scaphoid",
+        "Lunate",
+        "Trapezium",
+        "Pisiform"
+      ],
+      "answer": "Trapezium"
+    },
+    {
+      "question": "A prominent 'hook' (hamulus) is a defining bony characteristic on the palmar surface of the:",
+      "options": [
+        "Capitate",
+        "Scaphoid",
+        "Trapezoid",
+        "Hamate"
+      ],
+      "answer": "Hamate"
+    },
+    {
+      "question": "Which carpal bone forms the proximal joint surface for the highly mobile first carpometacarpal (saddle) joint of the thumb?",
+      "options": [
+        "Trapezium",
+        "Trapezoid",
+        "Capitate",
+        "Scaphoid"
+      ],
+      "answer": "Trapezium"
+    },
+    {
+      "question": "A 'Boxer's fracture' famously and almost exclusively involves an impact fracture of the neck of the:",
+      "options": [
+        "1st metacarpal",
+        "3rd metacarpal",
+        "5th metacarpal",
+        "Proximal phalanx"
+      ],
+      "answer": "5th metacarpal"
+    },
+    {
+      "question": "A 'Bennett's fracture' is a specific, intra-articular fracture-dislocation occurring directly at the base of the:",
+      "options": [
+        "1st metacarpal",
+        "5th metacarpal",
+        "Scaphoid",
+        "Trapezium"
+      ],
+      "answer": "1st metacarpal"
+    },
+    {
+      "question": "The direction of the nutrient arteries in the long bones of the upper limb points profoundly:",
+      "options": [
+        "Towards the shoulder",
+        "Towards the wrist",
+        "Towards the elbow",
+        "Away from the elbow"
+      ],
+      "answer": "Towards the elbow"
+    },
+    {
+      "question": "The medial border of the scapula actively provides broad insertion for all of the following muscles EXCEPT:",
+      "options": [
+        "Serratus anterior",
+        "Rhomboid major",
+        "Levator scapulae",
+        "Teres major"
+      ],
+      "answer": "Teres major"
+    },
+    {
+      "question": "The substantial medial epicondyle notoriously provides the large common origin for which specific muscular group?",
+      "options": [
+        "Forearm extensors",
+        "Forearm flexors",
+        "Shoulder abductors",
+        "Intrinsic hand muscles"
+      ],
+      "answer": "Forearm flexors"
+    },
+    {
+      "question": "Which of the listed carpal bones represents the absolute largest bone within the entire carpus?",
+      "options": [
+        "Scaphoid",
+        "Hamate",
+        "Capitate",
+        "Lunate"
+      ],
+      "answer": "Capitate"
+    }
+  ],
+  "reference": [
+    "B.D. Chaurasia – Human Anatomy Volume 1 (Upper Limb & Thorax), Eighth Edition",
+    "Vishram Singh – Textbook of Anatomy Upper Limb and Thorax, Third Edition"
+  ]
+}

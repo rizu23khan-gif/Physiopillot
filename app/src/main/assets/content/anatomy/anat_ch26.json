@@ -1,0 +1,85 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch26",
+  "chapterName": "Anterior Compartment of Thigh & Femoral Triangle",
+  "definition": [
+    "Chapter Overview: This chapter details the crucial musculoskeletal and neurovascular structures situated in the anterior aspect of the thigh. It centers on the boundaries and clinical significance of the Femoral Triangle, the Femoral Sheath, and the extensor muscle apparatus of the knee joint.",
+    "Femoral Triangle: A triangular subfascial space below the inguinal ligament in the upper third of the anterior thigh. Bounded superolaterally by the inguinal ligament, medially by the medial border of adductor longus, and laterally by the medial border of sartorius.",
+    "Femoral Sheath: A funnel-shaped fascial tube that extends the abdominal fascia beneath the inguinal ligament around the femoral vessels for about 3-4 cm. It has three compartments: Lateral (artery), Intermediate (vein), and Medial (femoral canal containing Cloquet's lymph node).",
+    "Anterior Compartment Muscles: The primary extensor group of the knee, consisting of Sartorius (tailor's muscle) and the four muscles of the Quadriceps Femoris: Rectus Femoris, Vastus Lateralis, Vastus Medialis, and Vastus Intermedius."
+  ],
+  "principle": [
+    "Sartorius Mechanics: The longest muscle in the body. It crosses both the hip and knee joints, acting to flex, abduct, and laterally rotate the hip, and flex and medially rotate the knee.",
+    "Quadriceps Lock: The vastus medialis obliquus (VMO) fibers insert at an angle on the patella, acting as a crucial active dynamic stabilizer preventing lateral subluxation of the patellar kneecap."
+  ],
+  "equipment": [
+    "Cadaveric prosections or models of the human thigh",
+    "Surface anatomy marker pen set",
+    "Neurological reflex hammer (L3-L4 patellar tendon test)",
+    "Anatomy charts representing human femoral triangle"
+  ],
+  "parameters": {
+    "FemoralCanalDimensions": "Lined vertically, about 1.25 cm to 2 cm in length; bounded anteriorly by the inguinal ligament and posteriorly by the pectineal ligament.",
+    "FemoralArteryAcupressurePoint": "Located midway between the anterior superior iliac spine (ASIS) and the pubic symphysis, immediately inferior to the inguinal ligament."
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Femoral Hernia: Protrusion of abdominal viscera/fat through the femoral ring into the medial compartment of the femoral sheath (femoral canal). It is more common in females due to a wider pelvis and larger femoral ring, and carries a high risk of strangulation.",
+    "Chassaignac's Line (Femoral Nerve Block): The femoral nerve (L2-L4) lies outside the femoral sheath. It can be blocked immediately lateral to the femoral artery palpation point, just deep to the fascia lata.",
+    "Patellofemoral Pain Syndrome (PFPS): Often results from an imbalance in the strength of Vastus Lateralis (pulls patella laterally) relative to the Vastus Medialis Obliquus (pulls patella medially), causing maltracking of the patella."
+  ],
+  "vivaQuestions": [
+    "Question: List the precise order of structures in the femoral triangle from lateral to medial. | Answer: Femoral Nerve, Femoral Artery, Femoral Vein, Femoral Canal containing lymph node (NAVY / NAVEL - Nerve, Artery, Vein, Empty Space, Lymphatics). | Examiner Key Points: Latin lateral-to-medial order; remember the nerve is outside of the femoral sheath.",
+    "Question: What are the boundaries, contents, and clinical relevance of the femoral canal? | Answer: Bounded by the femoral ring superiorly, contains lymph node of Cloquet. It allows the femoral vein to expand during venous return; clinically it is the site of femoral hernia. | Examiner Key Points: Expanding space, lymph node, femoral hernia site.",
+    "Question: Which nerve supplies the muscles of the anterior compartment of the thigh and what is its segmental origin? | Answer: Femoral nerve, arising from the posterior divisions of the anterior rami of L2, L3, and L4 spinal nerves. | Examiner Key Points: Femoral nerve, L2-L4 spinal origin."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following structures is located OUTSIDE of the femoral sheath?",
+      "options": [
+        "Femoral artery",
+        "Femoral vein",
+        "Femoral nerve",
+        "Deep inguinal lymph nodes (Cloquet)"
+      ],
+      "answer": "Femoral nerve"
+    },
+    {
+      "question": "An active contraction of which specific component of the quadriceps prevents lateral tracking of the patella?",
+      "options": [
+        "Rectus femoris",
+        "Vastus medialis obliquus (VMO)",
+        "Vastus bifurcator",
+        "Vastus lateralis"
+      ],
+      "answer": "Vastus medialis obliquus (VMO)"
+    },
+    {
+      "question": "An abnormal protrusion through the femoral ring into the femoral canal represents a:",
+      "options": [
+        "Direct inguinal hernia",
+        "Indirect inguinal hernia",
+        "Femoral hernia",
+        "Umbilical hernia"
+      ],
+      "answer": "Femoral hernia"
+    }
+  ],
+  "reference": [
+    "B.D. Chaurasia's Human Anatomy, Regional and Applied, Volume II - Lower Limb, Chapter 3: Anterior Compartment of Thigh.",
+    "Gray's Anatomy for Students, 4th Edition, Section: Lower Limb Thigh Region."
+  ]
+}

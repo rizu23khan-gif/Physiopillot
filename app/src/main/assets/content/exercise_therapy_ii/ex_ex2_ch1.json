@@ -1,0 +1,308 @@
+{
+  "subject": "Exercise Therapy II",
+  "chapterId": "ex2_ch1",
+  "chapterName": "Passive Stretching & Flexibility",
+  "definition": [
+    "Flexibility: The ability of a muscular-tendon unit and other joint-stabilizing soft tissues to yield and elongate during a passive or active joint range of motion stretch.",
+    "Passive Stretching: A manual or mechanical stretching technique where an external force (applied by a clinician, machine, or gravity) is used to lengthen target soft tissues while the patient remains completely relaxed.",
+    "Aneuploid Stretching (Static Stretching): A stretching method where the target muscle is slowly placed into its terminal lengthened position and held statically for an extended duration.",
+    "Dynamic Stretching: A movement-based stretching style utilizing active muscle contractions to repeatedly sweep the joint through its available range of motion.",
+    "Proprioceptive Neuromuscular Facilitation (PNF): Active-assistive stretching techniques that integrate active muscle contractions (isometric or concentric) on top of passive stretching to facilitate neuromuscular inhibition.",
+    "Autogenic Inhibition: Reflex relaxation of a muscle mediated by the Golgi Tendon Organ (GTO), which responds to high tension by inhibiting alpha motor neurons of the same muscle.",
+    "Reciprocal Inhibition: Regulatory reflex relaxation of an antagonist muscle when the agonist undergoes concentric contraction, mediated by Ia inhibitory interneurons.",
+    "Selective Stretching: A therapeutic strategy where certain muscle groups or joints are intentionally left short or unstretched to maintain functional stability or mechanical advantage (e.g., maintaining long finger flexors for a tenodesis grip).",
+    "Ballistic Stretching: A rapid, bounding movement style where momentum is utilized to force a joint past its normal range of motion boundaries, which can trigger the myotatic reflex.",
+    "Contracture: The pathological shortening of muscle and periarticular connective tissue leading to permanent or semi-permanent limitation of normal joint range of motion."
+  ],
+  "principle": [
+    "The Stress-Strain Curve: A biomechanical model where tensile stress (force per unit area) is plotted against strain (percentage deformation). It contains the elastic region (temporary lengthening), the plastic region (permanent lengthening via microfailure of collagen), and the ultimate tensile strength (tissue failure).",
+    "Creep: A time-dependent property of visco-elastic tissues where a constant, continuous mechanical load results in gradual, progressive deformation over time.",
+    "Stress Relaxation: A visco-elastic concept where the mechanical force required to hold a tissue at a fixed lengthened position decreases over time.",
+    "Myotatic (Stretch) Reflex: An involuntary muscle contraction triggered by rapid muscle spindles sensing quick changes in length, which can be bypassed by using slow, static passive stretches.",
+    "Golgi Tendon Organ (GTO) Activation: Located in musculotendinous junctions, GTOs monitor tension. Sustained tension during a static stretch of 30+ seconds triggers autogenic inhibition, relaxes the muscle, and permits safer elongation."
+  ],
+  "equipment": [
+    "Wedge blocks, mechanical boards, dynamic splints, strap bands, and local heating modalities (MHP or SWD)."
+  ],
+  "parameters": {
+    "intensity": "Low-load, gentle, controlled intensity to avoid protective muscle guard reflex",
+    "duration": "30 to 60 seconds per repetition for static holds in normal clinical populations",
+    "frequency": "2 to 5 times per week to achieve progressive plastic length changes",
+    "repetitions": "3 to 4 repetitions per session per target muscle group"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Increase in Range of Motion (ROM)",
+      "frequency": "Post-treatment evaluation",
+      "mechanism": [
+        "Sustained tensile force disrupts parallel physical cross-links of collagen fibrils.",
+        "Triggers the viscoelastic response (creep and stress relaxation), temporarily changing muscle stiffness."
+      ]
+    },
+    {
+      "effect": "Reduction of Muscle Stiffness",
+      "frequency": "Immediate post-stretch",
+      "mechanism": [
+        "Inhibition of the myotatic reflex and decrease in motor neuron pool excitability.",
+        "Temporary lengthening of active sarcomere units."
+      ]
+    }
+  ],
+  "indications": [
+    "Limited joint range of motion arising from muscle shortening, contractures, or adaptively shortened scars.",
+    "Preventative warm-up or conditioning to optimize flexibility prior to athletic movement (primarily dynamic styles).",
+    "Skeletal muscle imbalance causing abnormal posture (e.g., tight hip flexors producing anterior pelvic tilt)."
+  ],
+  "contraindications": {
+    "general": [
+      "Bony block limiting joint movement.",
+      "Recent, unhealed fracture in the region.",
+      "Acute infectious or inflammatory join processes (e.g., acute rheumatoid arthritis flare-up)."
+    ],
+    "local": [
+      "Sharp, severe, unexplained joint pain elicited during the movement.",
+      "Hematoma or tissue trauma in the immediate region.",
+      "Local skin infection, open wounds, or unstable grafts."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Explain the procedure to the patient and obtain consent.",
+      "Position the patient in a comfortable, stable position with the target muscle completely relaxed.",
+      "Drape the patient appropriately to expose the region being treated."
+    ],
+    "apparatusPreparation": [
+      "Select and position any stabilizing straps, wedge blocks, or soft pads if used.",
+      "Apply localized heat (such as moist hot packs) for 10-15 minutes prior to warm the regional tissues."
+    ],
+    "skinPreparation": [
+      "Inspect the skin over the target muscle for cuts, bruises, hematomas, or signs of acute inflammation."
+    ],
+    "electrodePlacement": [],
+    "treatmentProcedure": [
+      "Stabilize the proximal bone segment securely to prevent unwanted compensatory movements.",
+      "Grasp the distal bone segment comfortably and move the limb slowly to the point of tissue resistance.",
+      "Apply a gentle, slow, steady distraction force at the joint line if needed, then slowly lengthen the target muscle.",
+      "Hold the stretch at the end-range for 30 seconds, maintaining a steady, low-load tension.",
+      "Release the stretch slowly and allow the joint to rest before starting the next repetition."
+    ]
+  },
+  "precautions": [
+    "Do not force a joint beyond its anatomical limits.",
+    "Exercise caution in osteoporotic or elderly patients with age-related tissue fragility.",
+    "Monitor for persistent post-stretch pain lasting longer than 24 hours, which suggests tissue tearing."
+  ],
+  "clinicalPearls": [
+    "Applying local moist heat prior to passive stretching increases tissue temperature and extensibility, facilitating safer muscle-tendon unit elongation and shifting the plastic region on the stress-strain curve.",
+    "Never bounce at the end of a range when performing clinical stretching. Ballistic motion triggers the muscle spindle stretch reflex, causing the muscle to contract when you want it to relax.",
+    "When stretching a two-joint muscle (e.g., the gastrocnemius), make sure to stabilize the adjacent joint (meaning keep the knee locked in extension while dorsiflexing the ankle) to isolate and elongate the target muscle-tendon unit."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Post-immobilization Knee Flexion Contracture",
+      "position": "Prone position with a small towel roll under the distal femur",
+      "electrodePlacement": "Optional biofeedback sensors on the hamstring bellies to detect protective muscle guarding",
+      "frequency": "Hold for 30 seconds, 4 repetitions per session, twice daily",
+      "purpose": "Apply low-load, long-duration static passive extension stretching to permanently elongate shortened posterior capsular and hamstring tissues"
+    }
+  ],
+  "vivaQuestions": [
+    "Question: What is the mechanical difference between elastic and plastic deformation during tissue stretching? | Answer: Elastic deformation is temporary elongation where the tissue returns to its original length after the force is removed. Plastic deformation is permanent elongation resulting from microfailure of collagen bonds under high or long-duration load, leading to a lasting increase in length. | Examiner Key Points: Temporary vs permanent change, duration/intensity of stretch force. | Clinical Importance: Clinicians aim for plastic deformation to achieve long-term range of motion gains.",
+    "Question: Explain Janda's reciprocal inhibition and how it is clinically used in PNF stretching. | Answer: Reciprocal inhibition states that when an agonist muscle actively contracts, its antagonist receives a neurological signal to relax via Ia inhibitory interneurons. In PNF stretching (e.g., Hold-Relax with Agonist Contraction), the patient actively contracts the agonist (muscles opposite the target tight muscle), which reciprocally relaxes the tight antagonist, facilitating a more effective passive stretch. | Examiner Key Points: Reciprocal pathway, agonist contraction, spinal cord mechanism. | Clinical Importance: Highly useful to relax guarding muscles without triggering pain or spasm.",
+    "Question: Differentiate autogenic inhibition from reciprocal inhibition. | Answer: Autogenic inhibition is a reflex relaxation of the same muscle that is undergoing tension, mediated by Golgi Tendon Organs (GTO) under high or sustained load. Reciprocal inhibition is the relaxation of the opposing muscle (antagonist) when the agonist actively contracts. | Examiner Key Points: Same muscle vs opposing muscle, GTO vs muscle spindle/Ia interneurons. | Clinical Importance: Both mechanisms are utilized in specialized PNF and manual stretching techniques to improve stretch depth.",
+    "Question: What is the clinical significance of the 'creep' phenomenon in connective tissue? | Answer: Creep is a viscoelastic property where a constant load applied over a prolonged time results in slow, progressive, and permanent tissue deformation. It is the biomechanical foundation of using low-load, long-duration (LLLD) stretching devices, like dynamic braces or serial casting, to fix severe contractures. | Examiner Key Points: Viscoelasticity, constant force, progressive deformation over time. | Clinical Importance: Essential for managing chronic joint contractures, ensuring safer gains with less tissue damage.",
+    "Question: Define 'Stress Relaxation' and explain how it manifests during manual stretching. | Answer: Stress relaxation is a viscoelastic property where the force required to maintain a tissue at a constant, fixed length decreases over time. When a clinician holds a muscle at a fixed end-range stretch, they will feel the tissue tension (resistance) gradually ease up, allowing them to gently push a bit further. | Examiner Key Points: Decreasing force at constant length, viscoelastic behavior. | Clinical Importance: Explains why stretching feels easier to tolerate after holding the position for several seconds.",
+    "Question: Explain the concept and clinical utility of selective stretching, providing an example. | Answer: Selective stretching involves intentionally stretching some muscles while allowing others to shorten to improve functional independence. For example, in a patient with C6 quadriplegia, the finger flexors are allowed to adaptively shorten. When the patient actively dorsiflexes the wrist, this tightening pulls the fingers closed (tenodesis grip), allowing them to grasp objects without active finger control. | Examiner Key Points: Functional shortening vs stretching, tenodesis grip, quadriplegia. | Clinical Importance: Prevents overstretching muscles that are vital for functional compensation in patients with neurological deficits.",
+    "Question: Why is ballistic stretching contraindicated in acute rehabilitation programs? | Answer: Ballistic stretching utilizes rapid, bouncy movements which stimulate the muscle spindle primary endings. This triggers a strong, monosynaptic myotatic (stretch) reflex, causing the muscle to contract as it is being stretched, which significantly increases the risk of microtears, muscle spasms, and joint trauma. | Examiner Key Points: Rapid bouncing, muscle spindle stimulation, stretch reflex. | Clinical Importance: Must be avoided in healing tissues, post-surgical repairs, or hyper-irritable muscle states.",
+    "Question: How does tissue temperature affect the stress-strain curve? | Answer: Increasing tissue temperature (e.g., via heat modalities or active warm-up) shifts the stress-strain curve of collagenous tissues to the right. This increases the elastic limit and plastic deformation potential, allowing the tissue to undergo greater elongation before reaching the point of structural failure (rupture). | Examiner Key Points: Temperature effect, increased plastic deformation, higher safe strain limit. | Clinical Importance: Applying heat before stretching reduces the force needed to stretch tissues and lowers the risk of injury.",
+    "Question: What constitutes a bony block, and how does it act as a contraindication to stretching? | Answer: A bony block is an abnormal contact of bone-on-bone inside the joint that physically obstructs full movement (such as osteophyte formation, malunited fracture, or calcification). Stretching against a bony block is a strict absolute contraindication because the physical force is absorbed by bone rather than soft tissue, which can damage the joint. | Examiner Key Points: Bone-on-bone end feel, physical blockage, absolute contraindication. | Clinical Importance: The clinician must evaluate the end-feel first; a hard, unyielding end-feel indicates a bony block, contraindicating stretching.",
+    "Question: Explain how to position and stretch the biceps femoris muscle, highlighting joint locking. | Answer: The biceps femoris is a two-joint muscle that extends the hip and flexes the knee. To stretch it, the patient is placed supine. The knee must be locked in full extension (stabilized) while the clinician slowly flexes the hip into a straight-leg raise. Dorsiflexing and internally rotating the hip can further isolate the lateral hamstring fibers. | Examiner Key Points: Supine positioning, knee locked in extension, hip flexion, two-joint muscle principle. | Clinical Importance: Failing to lock the knee allows it to flex, which soft-stabilizes the hamstring and defeats the purpose of the stretch."
+  ],
+  "mcqs": [
+    {
+      "question": "What is the recommended minimum duration for a passive static stretch to achieve effective clinical elongation in healthy adults?",
+      "options": ["5 seconds", "10 seconds", "30 seconds", "2 minutes"],
+      "answer": "30 seconds",
+      "explanation": "Static stretches held for 30 seconds show optimal balance of safety and effective mechanical elongation of the muscle-tendon unit."
+    },
+    {
+      "question": "Which viscoelastic property describes the progressive elongation of tissue over time under a constant mechanical load?",
+      "options": ["Stress Relaxation", "Creep", "Hysteresis", "Elasticity"],
+      "answer": "Creep",
+      "explanation": "Creep is the time-dependent mechanical deformation of viscoelastic tissues when subjected to a constant, sustained load."
+    },
+    {
+      "question": "Which of the following neural reflexes is triggered by Golgi Tendon Organs (GTO) to cause relaxation of the same contracting muscle?",
+      "options": ["Reciprocal inhibition", "Myotatic stretch reflex", "Autogenic inhibition", "Gamma loop reflex"],
+      "answer": "Autogenic inhibition",
+      "explanation": "Autogenic inhibition is mediated by the GTO in response to high tension in the muscle tendon, which reflexively relaxes the same muscle."
+    },
+    {
+      "question": "A C6 spinal cord injury patient relies on the adaptive shortening of which muscle group to functionalize a tenodesis grip?",
+      "options": ["Wrist extensors", "Finger flexors", "Wrist flexors", "Intrinsics of the hand"],
+      "answer": "Finger flexors",
+      "explanation": "Adaptive shortening of the finger flexors allows C6 quadriplegics to use passive finger closure (tenodesis) when they actively dorsiflex their wrist."
+    },
+    {
+      "question": "Which stretching method is characterized by rapid, bouncy movements that can trigger a protective stretch reflex?",
+      "options": ["Static stretching", "Dynamic stretching", "PNF stretching", "Ballistic stretching"],
+      "answer": "Ballistic stretching",
+      "explanation": "Ballistic stretching uses high-speed bouncing movements, which stimulate muscle spindles and can trigger the stretch reflex."
+    },
+    {
+      "question": "A complete absolute contraindication to passive stretching is:",
+      "options": ["Muscle spasm", "Chronic contracture", "An unhealed fracture or bony block", "Severe joint stiffness"],
+      "answer": "An unhealed fracture or bony block",
+      "explanation": "Stretching is absolutely contraindicated in the presence of an unhealed fracture or bony block to avoid compounding bone damage."
+    },
+    {
+      "question": "In Vladimir Janda's Upper Crossed Syndrome, which of the following muscles is typically tight and requires stretching?",
+      "options": ["Deep cervical flexors", "Middle and lower trapezius", "Pectoralis major", "Serratus anterior"],
+      "answer": "Pectoralis major",
+      "explanation": "The pectoralis major is characterized by tightness in Upper Crossed Syndrome, requiring focused stretching to correct rounded shoulders."
+    },
+    {
+      "question": "The dynamic muscle balance where voluntary contraction of the agonist produces a reciprocal relaxation of the antagonist is mediated by:",
+      "options": ["Ia inhibitory interneurons", "Ib afferent loops", "Gamma motor neurons", "C-fiber nociceptors"],
+      "answer": "Ia inhibitory interneurons",
+      "explanation": "Ia inhibitory interneurons in the spinal cord coordinate reciprocal inhibition, relaxing the antagonist when the agonist contracts."
+    },
+    {
+      "question": "Under the stress-strain curve, what is the region where collagen fibers fail and permanent, lasting enlargement occurs?",
+      "options": ["Elastic region", "Plastic region", "Linear slope", "Toe region"],
+      "answer": "Plastic region",
+      "explanation": "The plastic region is the zone where sustained loading forces microscopic failures in collagen bonds, producing permanent tissue elongation."
+    },
+    {
+      "question": "To isolate and stretch the two-joint Rectus Femoris muscle, the patient's joints must be positioned in:",
+      "options": ["Hip flexion and knee flexion", "Hip extension and knee flexion", "Hip extension and knee extension", "Hip flexion and knee extension"],
+      "answer": "Hip extension and knee flexion",
+      "explanation": "The rectus femoris flexes the hip and extends the knee. To stretch it, the hip must be extended while the knee is flexed."
+    },
+    {
+      "question": "Which receptor senses rapid changes in muscle length and triggers the monosynaptic stretch reflex?",
+      "options": ["Golgi Tendon Organ", "Pacini corpuscle", "Muscle spindle", "Ruffini ending"],
+      "answer": "Muscle spindle",
+      "explanation": "Muscle spindles are sensory receptors within the muscle belly that detect rapid changes in longitudinal length and rate of length change."
+    },
+    {
+      "question": "Which viscoelastic property explains the biological drop in tension when a tissue is held at a constant, fixed length over time?",
+      "options": ["Stress Relaxation", "Creep", "Deformation hysteresis", "Tissue friction"],
+      "answer": "Stress Relaxation",
+      "explanation": "Stress relaxation is the progressive reduction in tension felt over time when a viscoelastic tissue is held at a fixed stretch length."
+    },
+    {
+      "question": "To protect healing articular tissues, what type of stretching is best during the acute stage of joint repair?",
+      "options": ["Ballistic stretching", "Passive end-range stretching", "No stretching (absolute contraindication)", "Contract-relax PNF stretching"],
+      "answer": "No stretching (absolute contraindication)",
+      "explanation": "Stretching is generally contraindicated in acute, highly inflamed states of joint repair to prevent disrupting heal cycles."
+    },
+    {
+      "question": "A standing calf stretch focusing on the Soleus muscle requires the knee to be:",
+      "options": ["Kept in full extension", "Bent in flexion", "Externally rotated", "Internally rotated"],
+      "answer": "Bent in flexion",
+      "explanation": "The soleus is a single-joint muscle. Bending/flexing the knee slackens the gastrocnemius, allowing the soleus to be isolated during ankle dorsiflexion."
+    },
+    {
+      "question": "Which PNF technique is characterized by a maximal isometric contraction of the tight muscle followed by passive relaxation and a stretch?",
+      "options": ["Rhythmic Initiation", "Hold-Relax (or Contract-Relax)", "Agonist Contraction", "Alternating Isometrics"],
+      "answer": "Hold-Relax (or Contract-Relax)",
+      "explanation": "Hold-Relax starts with an isometric contraction of the tight antagonist to trigger GTO-mediated autogenic inhibition, followed by a passive stretch."
+    },
+    {
+      "question": "Post-stretch soreness that persists and worsens for more than 24 hours clinically indicates:",
+      "options": ["Normal therapeutic creep", "Autogenic inhibition success", "Excessive stretch intensity causing microtears", "Perfect plastic deformation"],
+      "answer": "Excessive stretch intensity causing microtears",
+      "explanation": "Post-stretch soreness lasting over 24 hours indicates the force applied was too aggressive, causing localized tissue damage and inflammatory responses."
+    },
+    {
+      "question": "When performing dynamic stretching, the primary force responsible for lengthening the target muscle group is:",
+      "options": ["The physiotherapist's manual push", "The weight of a dangling cuff", "Active contraction of the opposing agonist muscle", "Gravity"],
+      "answer": "Active contraction of the opposing agonist muscle",
+      "explanation": "Dynamic stretching utilizes controlled, active contraction of the opposing muscle (agonist) to stretch the tight antagonist."
+    },
+    {
+      "question": "Which of the following hip postures is required to stretch the Tensor Fasciae Latae (TFL) in a patient?",
+      "options": ["Hip flexion, abduction, and internal rotation", "Hip extension, adduction, and external rotation", "Hip extension, abduction, and internal rotation", "Hip flexion, adduction, and external rotation"],
+      "answer": "Hip extension, adduction, and external rotation",
+      "explanation": "To stretch the TFL, the hip must be moved in directions opposite to its action: hip extension, adduction, and external rotation."
+    },
+    {
+      "question": "In Janda's Lower Crossed Syndrome, which of the following muscles is typically weak and requires strengthening?",
+      "options": ["Iliopsoas", "Erector spinae", "Gluteus maximus", "Rectus femoris"],
+      "answer": "Gluteus maximus",
+      "explanation": "The gluteus maximus is typically weak and inhibited in Lower Crossed Syndrome, requiring targeted strengthening work."
+    },
+    {
+      "question": "What happens to the collagen fibers in the 'toe region' of the stress-strain curve?",
+      "options": ["They undergo micro-tearing", "Wavy fibers straighten out under minimal load", "They deform permanently", "They snap in half"],
+      "answer": "Wavy fibers straighten out under minimal load",
+      "explanation": "The toe region represents the initial phase of loading where wavy, crimpled collagen fibers straighten out without undergoing structural deformation."
+    },
+    {
+      "question": "An elongation stretch held for over 5 minutes using light, continuous mechanical braces is categorized as a:",
+      "options": ["High-load, short-duration stretch", "Dynamic athletic stretch", "Low-load, long-duration (LLLD) stretch", "Ballistic neural slider"],
+      "answer": "Low-load, long-duration (LLLD) stretch",
+      "explanation": "LLLD stretching applies low, comfortable tension over a prolonged period (minutes to hours) to safely exploit viscoelastic creep."
+    },
+    {
+      "question": "What is the primary sensory pathway that inhibits alpha motor neurons during autogenic inhibition?",
+      "options": ["Ia fibers from the muscle spindle", "Ib fibers from the Golgi Tendon Organ", "II fibers from flower-spray endings", "C fibers from mechanical nociceptors"],
+      "answer": "Ib fibers from the Golgi Tendon Organ",
+      "explanation": "Golgi Tendon Organs transmit tension signals via Ib afferent fibers to the spinal cord, activating inhibitory interneurons."
+    },
+    {
+      "question": "To stretch the clavicular head of the pectoralis major muscle, the patient's arm is positioned in:",
+      "options": ["Horizontal abduction at 120 degrees of elevation", "Horizontal abduction at 90 degrees of abduction", "Horizontal abduction at 30 to 45 degrees of abduction", "Adduction and internal rotation"],
+      "answer": "Horizontal abduction at 30 to 45 degrees of abduction",
+      "explanation": "Stretching the clavicular head of the pectoralis major requires horizontal abduction at a lower angle of elevation (~30-45 degrees)."
+    },
+    {
+      "question": "The failure point of human tendon collagen tensile testing under intense strain is typically reached at what percentage of elongation?",
+      "options": ["2%", "4%", "8-10%", "50%"],
+      "answer": "8-10%",
+      "explanation": "Most tendons and ligaments reach their ultimate tensile failure point when stretched by about 8% to 10% of their resting length."
+    },
+    {
+      "question": "Stretching of tight hamstrings in a patient with lumbar disc disk herniation requires:",
+      "options": ["Forced trunk flexion during hamstring stretch", "Avoidance of spinal flexion by keeping the lumbar spine neutral", "Aggressive straight leg raise with pelvic tilt", "No hamstring work"],
+      "answer": "Avoidance of spinal flexion by keeping the lumbar spine neutral",
+      "explanation": "To prevent disc herniation flares, the lumbar spine must be kept neutral and stable while stretching the hamstrings."
+    },
+    {
+      "question": "To isolate the Iliopsoas muscle during stretching, the clinician must prevent:",
+      "options": ["Anterior pelvic tilt and compensative lumbar lordosis", "Posterior pelvic tilt", "Knee flexion", "Hip internal rotation"],
+      "answer": "Anterior pelvic tilt and compensative lumbar lordosis",
+      "explanation": "Stretching the hip flexors can cause compensation via anterior pelvic tilt and lumbar lordosis, which must be stabilized."
+    },
+    {
+      "question": "The primary component of connective tissue that provides structural tensile strength and resists stretch is:",
+      "options": ["Elastin fibers", "Collagen fibers", "Reticulin fibers", "Ground substance"],
+      "answer": "Collagen fibers",
+      "explanation": "Collagen fibers provide great mechanical tensile strength and resistance to elongation, unlike highly elastic elastin fibers."
+    },
+    {
+      "question": "Stretching the long head of the triceps brachii requires:",
+      "options": ["Elbow extension and shoulder flexion", "Elbow flexion and shoulder extension", "Elbow flexion and shoulder flexion", "Elbow extension and shoulder extension"],
+      "answer": "Elbow flexion and shoulder flexion",
+      "explanation": "The long head of the triceps is a two-joint muscle that extends the elbow and shoulder, so stretching it requires elbow flexion and shoulder flexion."
+    },
+    {
+      "question": "Which of the following mechanical factors determines the 'intensity' of a manual stretch?",
+      "options": ["Repetitions per day", "The load applied to the tissue of the muscle block", "Total hold time in seconds", "The temperature of the room"],
+      "answer": "The load applied to the tissue of the muscle block",
+      "explanation": "Stretching intensity refers to the mechanical load or force applied to the tissue at the end-range position."
+    },
+    {
+      "question": "A contracture of the wrist resulting from chronic ischemic muscle necrosis (Volkmann's contracture) is categorized as a:",
+      "options": ["Myostatic contracture", "Pseudomyostatic contracture", "Fibrotic or irreversible contracture", "Arthrogenic contracture"],
+      "answer": "Fibrotic or irreversible contracture",
+      "explanation": "Volkmann's ischemic contracture involves healthy muscle tissue being replaced by non-elastic fibrous scar tissue, categorized as a fibrotic contracture."
+    }
+  ],
+  "reference": [
+    "Kisner & Colby - Therapeutic Exercise: Foundations and Techniques",
+    "Adler, Beckers & Buck - PNF in Practice: An Illustrated Guide",
+    "Susan Hall - Basic Biomechanics"
+  ]
+}

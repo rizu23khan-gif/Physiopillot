@@ -1,0 +1,88 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch25",
+  "chapterName": "Bones of Lower Limb",
+  "definition": [
+    "Chapter Overview: This chapter is dedicated to the osteology of the lower limb, which acts as the weight-bearing framework of the human body. It explores the structures, attachments, and clinical correlations of the pelvic girdle (hip bone), femur, patella, tibia, fibula, and the skeleton of the foot.",
+    "Pelvic Girdle (Hip Bone / Coxal Bone): A large, irregular bone composed of three fused parts: ilium, ischium, and pubis. Fusion occurs at the cup-shaped acetabulum around puberty (at the Y-shaped tri-radiate cartilage).",
+    "Femur (Thigh Bone): The longest and strongest bone in the human body. It consists of a head (articulating with the acetabulum), neck, greater and lesser trochanters, shaft, and lateral and medial condyles.",
+    "Patella (Kneecap): The largest sesamoid bone in the body, embedded within the tendon of the quadriceps femoris muscle. It serves to increase the leverage of the quadriceps tendon.",
+    "Tibia (Shin Bone) and Fibula: The tibia is the medial, weight-bearing bone of the leg. The fibula is the lateral, non-weight-bearing bone that primarily serves for muscle attachment and forms the lateral malleolus of the ankle joint."
+  ],
+  "principle": [
+    "Weight Transmission Pathway: Body weight is transmitted from the vertebral column via the sacroiliac joints, through the pelvic girdle to the hip joints, down the shafts of the femurs to the knee joints, through the tibia to the ankle joints, and finally distributed through the arches of the feet.",
+    "Structural Adaptations for Bipedalism: The femur is angled medially (carrying angle or Q-angle) from the pelvis to the knee, bringing the knees closer to the line of gravity for efficient balance during walking."
+  ],
+  "equipment": [
+    "Disarticulated skeleton models (ilium, ischium, pubis, femur, tibia, fibula, and foot skeleton)",
+    "Articulated human lower limb skeleton",
+    "Anatomical landmarks tracing grids",
+    "X-ray negatives of normal and fractured lower limb bones (neck of femur, tibia shaft)"
+  ],
+  "parameters": {
+    "FemoralAngleOfInclination": "Ranges from 125 to 130 degrees in normal adults; smaller in females due to a wider pelvis; decrease causes coxa vara; increase causes coxa valga.",
+    "FemoralAngleOfAnteversion": "The angle of neck torsion, normally about 10 to 15 degrees anteriorly in adults.",
+    "Q-AngleNorms": "Angle formed by the line from ASIS to central patella and a second line from central patella to tibial tuberosity. Normal: 10-15 degrees for males, 15-20 degrees for females."
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Avascular Necrosis of Femoral Head (AVN): Fractures of the femoral neck often rupture the retinacular branches of the medial circumflex femoral artery, leading to ischemic necrosis of the femoral head because the ligamentum teres artery is insufficient on its own in adults.",
+    "Osgood-Schlatter Disease: Stress or repetitive strain on the patellar ligament attachment site at the tibial tuberosity in adolescent students can trigger traction apophysitis, presenting as localized painful swelling.",
+    "Pott's Fracture: Forced eversion of the foot leads to abduction of the ankle, fracturing the medial malleolus, shearing the lateral malleolus, and tearing the distal tibiofibular syndesmosis."
+  ],
+  "vivaQuestions": [
+    "Question: What is the clinical significance of a subcapital fracture of the neck of the femur? | Answer: Retinacular blood vessels supplying the femoral head are ruptured, putting the patient at an extremely high risk of avascular necrosis (AVN) of the femoral head. | Examiner Key Points: Retrograde blood supply, medial circumflex femoral artery, avascular necrosis.",
+    "Question: Describe the bones forming the tri-radiate cartilage and where it is located. | Answer: It is a Y-shaped cartilaginous plate located in the acetabulum where the ilium, ischium, and pubis meet. They fuse fully around 15-17 years of age. | Examiner Key Points: Ilium, ischium, pubis, acetabulum, fusion age.",
+    "Question: What is the function of the patella and how does it affect mechanical advantage? | Answer: It acts as a anatomical pulley to push the quadriceps tendon away from the axis of rotation of the knee joint, increasing the leverage (force arm) of the quadriceps by up to 30-50%. | Examiner Key Points: Sesamoid bone, anatomical pulley, mechanical advantage, quadriceps leverage."
+  ],
+  "mcqs": [
+    {
+      "question": "A fracture of the femoral neck most commonly threatens the blood supply from which of the following vessels?",
+      "options": [
+        "Obturator artery lateral branch",
+        "Medial circumflex femoral artery anastomosis",
+        "Deep circumflex iliac artery",
+        "First perforating branch of profunda femoris"
+      ],
+      "answer": "Medial circumflex femoral artery anastomosis"
+    },
+    {
+      "question": "Which anatomical structure is primarily involved in Osgood-Schlatter disease?",
+      "options": [
+        "Adductor tubercle of femur",
+        "Tibial tuberosity",
+        "Anterior superior iliac spine (ASIS)",
+        "Lateral condyle of tibia"
+      ],
+      "answer": "Tibial tuberosity"
+    },
+    {
+      "question": "Which bone is considered the non-weight-bearing lateral bone of the leg?",
+      "options": [
+        "Tibia",
+        "Fibula",
+        "Talus",
+        "Calcaneus"
+      ],
+      "answer": "Fibula"
+    }
+  ],
+  "reference": [
+    "B.D. Chaurasia's Human Anatomy, Regional and Applied, Volume II - Lower Limb, Chapter 1: Bones of Lower Limb.",
+    "Gray's Anatomy for Students, 4th Edition, Section 6: Lower Limb - Osteology.",
+    "Moore's Clinically Oriented Anatomy, Chapter on Lower Extremity: Bones."
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "subject": "Exercise Therapy II",
+  "chapterId": "ex2_ch2",
+  "chapterName": "Suspension Therapy",
+  "definition": [
+    "Suspension Therapy: A therapeutic technique where body parts are suspended by slings and pulleys from an overhead frame, eliminating friction and gravity to facilitate either active muscle-assisted movement or passive traction.",
+    "Axis of Suspension: The physical point of attachment on the overhead grid directly above which the supporting ropes are anchored.",
+    "Axial Suspension: A suspension design where the overhead point of suspension is positioned directly vertical to the physiological axis of the target joint, allowing horizontal-plane movement.",
+    "Pendulum Suspension: A suspension design where the overhead point of suspension is intentionally offset from the joint axis, causing the limb to swing upward or downward in an arc.",
+    "Vertical Suspension: A setup where the suspension center is located directly over the center of gravity of the suspended part, commonly used to support limb weight for passive or active-assisted exercise.",
+    "Guthrie-Smith Frame: A heavy-duty mesh steel framework overhead grid system designed specifically to coordinate pulleys, ropes, and slings.",
+    "Point of Suspension: The exact junction/hub on the overhead mesh frame where the S-hook holds the suspension rope.",
+    "Double-Pronged Sling: A heavy canvas sling featuring two metal rings on each end designed to cradle individual joints or limbs.",
+    "Wooden Cleats: Adjustable rectangular wooden blocks with specialized holes through which rope is threaded to clamp and adjust length.",
+    "Spring-loaded Suspension: Positioning calibrated springs between the sling and the rope to absorb mechanical shock or resist rapid muscles."
+  ],
+  "principle": [
+    "Elimination of Gravity: Suspending a limb parallel to the ground or neutralizing its vertical weight vector allows very weak muscles (Grade 1 or 2) to initiate active movement in the joint plane without fighting gravitational load.",
+    "Frictionless Pendulum Mechanical Action: When a heavy limb is suspended, the resistance to movement (friction of skin on treatment table) is eliminated. The only resistance to motion is internal joint viscosity.",
+    "Friction Elimination: Supporting physical structures using ropes and smooth metallic rings eliminates the frictional drag coefficient of sheets or skin on wood plinths, easing pain and fatigue on moving segments.",
+    "Accessory Glides and traction: Translating the overhead anchor point away from the joint line produces passive distraction forces (axial traction) on joint structures.",
+    "Pendular Oscillation frequency: Setting up pendulum systems behaves matching gravity-driven simple pendulums, allowing rhythmic self-driven joint mobilization."
+  ],
+  "equipment": [
+    "Guthrie-Smith steel mesh frames, slings (single, double, head, pelvic, and three-ringed), ropes, S-hooks, wooden cleats, and tension springs."
+  ],
+  "parameters": {
+    "suspensionHeight": "Aligned to lift the limb segment approximately 2 to 5 inches off the treatment table for complete bed clearance",
+    "ropeDampening": "Cleats must lock securely under tension without sliding"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Frictionless Joint Mobilization",
+      "frequency": "Standard treatment session",
+      "mechanism": [
+        "Supporting the weight of the limb in slings reduces compressive joint surface friction and alleviates pressure on pain receptors.",
+        "Allows patient to perform repetitive, rhythmic joint movements with minimized muscular effort."
+      ]
+    },
+    {
+      "effect": "Muscle Strengthening of Weak Muscles",
+      "frequency": "Daily active exercises",
+      "mechanism": [
+        "Eliminating gravity allows muscles rated Grade 1 or 2 on the Muscle Manual Testing (MMT) scale to perform active range of motion, stimulating neuroplastic pathways.",
+        "Can be modified by eccentric pendulum setups to provide mild resistance."
+      ]
+    }
+  ],
+  "indications": [
+    "Extremely weak muscles (manual muscle test Grade 1 or 2) requiring early active-assisted motion.",
+    "Pain relief and active mobilization of large joints (hip, knee, shoulder) in arthritic conditions.",
+    "Sustained passive spinal or joint traction to relieve nerve root compression."
+  ],
+  "contraindications": {
+    "general": [
+      "Extremely unstable or unhealed bone fracture.",
+      "Severe osteoporosis with high risk of fracture from sling pressure.",
+      "Uncooperative or highly confused patient unable to relax."
+    ],
+    "local": [
+      "Open wounds, burns, or active skin infections directly under sling placements.",
+      "Acute surgical incisions or tendon grafts in the immediate region.",
+      "Active subluxation or joint dislocation."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Explain the goals of suspension therapy and verify patient comprehension.",
+      "Position the patient in a comfortable side-lying, prone, or supine posture depending on the joint to be suspended.",
+      "Ensure the patient's limbs are padded under the slings to prevent neural compression."
+    ],
+    "apparatusPreparation": [
+      "Inspect the Guthrie-Smith overhead frame for integrity.",
+      "Check ropes, hooks, cleats, and slings for wear, fraying, or mechanical failure.",
+      "Locate the exact overhead projection of the joint's axis of rotation."
+    ],
+    "skinPreparation": [
+      "Inspect the skin over the bony landmarks (like malleoli, greater trochanter, or humeral epicondyles) for sensitivity or lesions.",
+      "Apply localized padding over those bones."
+    ],
+    "electrodePlacement": [],
+    "treatmentProcedure": [
+      "Apply the slings snugly under the target limb segments.",
+      "Attach the S-hooks and ropes, passing them through the overhead mesh point.",
+      "Adjust the wooden cleats slowly to lift the limb parallel to the table, clearing the surface by 2-5 inches.",
+      "Verify the alignment: ensure the overhead hanger represents the exact axis point.",
+      "Ask the patient to relax fully and let the apparatus carry the weight.",
+      "Guide the patient through passive, active-assisted, or resisted swings as planned."
+    ]
+  },
+  "precautions": [
+    "Ensure wooden cleats are locked securely before releasing manual support of the limb.",
+    "Monitor skin closely for red marks or pressure points, especially in patients with low sensation.",
+    "Avoid swinging the limb too quickly or wildly, which can trigger protective muscle guarding reflexes."
+  ],
+  "clinicalPearls": [
+    "To encourage gravity-neutral active flexion/extension of a joint, set the suspension axis directly vertical to the joint center (axial suspension). This ensures the limb swings evenly in a single horizontal plane.",
+    "When setting up pelvic suspension for traction, place the pelvic sling between the iliac crest and the greater trochanter to prevent pressure injuries on superficial bones.",
+    "Suspension therapy is excellent for patients with polio or lower motor neuron lesions who show Grade 1 or 2 muscle strength, enabling joint training without overloading fatiguing muscle fibers."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Early mobilization post hip arthroplasty",
+      "position": "Supine with physical support from double-pronged slings under thigh and lower leg",
+      "electrodePlacement": "None (mechanical suspension setup)",
+      "frequency": "Perform 3 sets of 10 repetitions, once daily",
+      "purpose": "Eliminate hip weight and surface friction to enable early active-assisted hip abduction/adduction in the horizontal plane without exceeding safe range limits"
+    }
+  ],
+  "vivaQuestions": [
+    "Question: Explain the difference in axis alignment between Axial Suspension and Pendulum Suspension. | Answer: In Axial Suspension, the point of suspension is located directly vertical to the physiological axis of the joint, facilitating flat horizontal plane movement without lifting or descending. In Pendulum Suspension, the suspension point is shifted away from the joint axis, causing the limb to swing upward or downward in an arc, which can be used to resist or assist motion. | Examiner Key Points: Alignment directly over joint vs eccentric alignment, plane of movement vs arc swing. | Clinical Importance: Clinicians must use axial suspension to prevent unwanted joint distraction or muscle activation when focusing on pure joint mobilization.",
+    "Question: What is the mechanical role of the wooden cleat in suspension therapy? | Answer: The wooden cleat acts as an adjustable friction clamp. By threaded rope through its three holes, friction locks the rope automatically under tension (the weight of the limb). Tilting or pulling slack through the cleat allows the clinician to quickly adjust rope length and lift height without tying knots. | Examiner Key Points: Friction clamp, rope adjustment, secure locking under load. | Clinical Importance: Crucial for fine-tuning the height of suspended limbs and ensuring patient safety during load-bearing.",
+    "Question: For which specific muscle grade on the MRC scale is suspension therapy most beneficial, and why? | Answer: It is most beneficial for MRC Muscle Grade 1 (flicker) and Grade 2 (full ROM in gravity-eliminated plane). By suspending the limb, it completely neutralizes gravity, allowing a Grade 2 muscle to complete its full joint range of motion actively, which helps prevent contractures and maintains cortical representation. | Examiner Key Points: MRC Grade 1 and 2, gravity-eliminated execution, full range of motion. | Clinical Importance: Essential for early neuromuscular re-education in flaccid or highly paretic muscles.",
+    "Question: Where should the point of suspension be relative to the joint center to resist a movement in Pendulum Suspension? | Answer: To resist a movement, the suspension point is displaced in the opposite direction of the therapeutic swing. For example, to resist hip abduction, the suspension point is aligned medially, causing the leg to swing uphill against gravity as it abducts, which creates a strengthening resistance. | Examiner Key Points: Eccentric displacement opposite to movement direction, gravity working downhill vs uphill. | Clinical Importance: Allows progressive strengthening without manual resistance or foreign weights.",
+    "Question: How can suspension therapy be configured to provide passive joint traction? | Answer: Passive joint traction is achieved using Pendulum Suspension. The overhead suspension point is aligned distal to the joint line. This outward angle creates a continuous mechanical tractive force along the long axis of the bone, distracting the joint facets and unloading compression. | Examiner Key Points: Anchor point distal to joint line, long-axis distraction, mechanical unloading. | Clinical Importance: Highly beneficial for unloading arthritic joints or decompressing pinched nerve segments.",
+    "Question: What is Vertical Suspension, and how does it differ from Axial Suspension? | Answer: Vertical Suspension places the overhead suspension point directly over the center of gravity of the suspended limb segment, whereas Axial Suspension places the point directly over the joint center. Vertical suspension is used solely to support limb weight (e.g., during bedside nursing or basic wound care) and does not permit pure horizontal-plane joint rotation. | Examiner Key Points: Axis over center of gravity vs joint center, weight support vs horizontal joint rotation. | Clinical Importance: Vertical suspension is used to make limbs feel weightless for bed sores care or static resting/positioning.",
+    "Question: Why must bony landmarks be padded when using double-pronged canvas slings? | Answer: Slings concentrate pressure over small areas. If bony landmarks (like malleoli or head of fibula) press directly against canvas, the shear force can damage fragile skin. More critically, compressing the head of the fibula can pinch the common peroneal nerve, leading to drop foot. | Examiner Key Points: Pressure concentration, skin protection, common peroneal nerve compression at fibular head. | Clinical Importance: Standard safety protocol to prevent skin breakdown and temporary neuropraxias.",
+    "Question: What is a Guthrie-Smith frame, and what are its standard structural dimensions? | Answer: The Guthrie-Smith frame is a rigid, overhead tubular steel box structure with a heavy wire mesh ceiling. Steel hooks (S-hooks) insert into any mesh loop, offering infinite variation of the suspension point over the treatment table. It typically spans the length of a standard physical therapy plinth. | Examiner Key Points: Steel box, mesh ceiling, S-hooks, length of plinth. | Clinical Importance: The primary equipment used in clinical suspension therapy for postural and limb setups.",
+    "Question: How is active-assistive movement achieved using a pendulum setup? | Answer: To assist a movement, the overhead point of suspension is displaced in the same direction as the desired movement. This creates a downhill swing trajectory. When the patient attempts the movement, gravity pulls the limb along the slope, assisting the weak muscles to complete the range. | Examiner Key Points: Eccentric placement in the direction of movement, gravity-assisted downhill trajectory. | Clinical Importance: Important for transitioning a patient from manual guidance to independent movement.",
+    "Question: Explain how to set up suspension for passive mobilization of the knee joint in a supine patient. | Answer: A double-pronged sling is placed under the knee joint, and a single sling under the ankle. Ropes are attached to S-hooks on the Guthrie-Smith frame. The points of suspension are placed directly vertical to the knee joint center and ankle joint, then adjusted using wooden cleats to lift the leg off the table. The therapist can now perform frictionless flexion and extension movements. | Examiner Key Points: Supine, sling under knee and ankle, suspension vertical to joint centers, bed clearance. | Clinical Importance: Ideal for early post-surgical knee rehab to maintain ROM while preventing painful compressive forces on articular cartilage."
+  ],
+  "mcqs": [
+    {
+      "question": "Where should the suspension axis point be positioned relative to the joint center to configure true Axial Suspension?",
+      "options": [
+        "Directly vertical to the center of the joint axis",
+        "Eccentrically displaced 15 cm lateral to the joint",
+        "Highly proximal and anterior to the girdle",
+        "Positioned at the distal end of the limb segment"
+      ],
+      "answer": "Directly vertical to the center of the joint axis",
+      "explanation": "In axial suspension, the overhead attachment point is aligned directly vertically above the joint axis so that the limb moves in a horizontal plane parallel to the flat floor."
+    },
+    {
+      "question": "Suspension therapy is most beneficial for patients with a Manual Muscle Testing (MMT) grade of:",
+      "options": ["Grade 0", "Grade 2", "Grade 4", "Grade 5"],
+      "answer": "Grade 2",
+      "explanation": "Grade 2 represents full range of motion in a gravity-eliminated plane. Since suspension neutralizes gravity, it allows these weak muscles to successfully move the joint actively."
+    },
+    {
+      "question": "Which of the following suspension tools is used as a friction clamp to adjust the length of the suspension ropes?",
+      "options": ["S-hook", "Double-pronged sling", "Wooden cleat", "Calibrated spring"],
+      "answer": "Wooden cleat",
+      "explanation": "The wooden cleat is a three-hole block that uses rope friction under load to lock firmly, allowing easy height adjustments."
+    },
+    {
+      "question": "In Pendulum Suspension, displacing the point of suspension away from the joint-axis center causes the limb to move:",
+      "options": [
+        "In a flat, horizontal plane parallel to the ceiling",
+        "In an upward/downward arc, creating assistance or resistance",
+        "In a strict vertical translation purely",
+        "In a chaotic, unpredictable oval path"
+      ],
+      "answer": "In an upward/downward arc, creating assistance or resistance",
+      "explanation": "Pendulum suspension shifts the anchor point away from the vertical axis, forcing the limb to travel along a curved arc that rises or falls."
+    },
+    {
+      "question": "Which type of suspension places the overhead anchor directly over the limb segment's center of gravity to support its physical mass?",
+      "options": ["Axial Suspension", "Pendulum Suspension", "Lateral Suspension", "Vertical Suspension"],
+      "answer": "Vertical Suspension",
+      "explanation": "Vertical suspension aligns the hanging anchor directly over the body part's center of gravity, primarily supporting its physical weight."
+    },
+    {
+      "question": "The primary mechanical advantage of utilizing suspension therapy clinically is:",
+      "options": [
+        "Increasing high-velocity muscle power",
+        "Elimination of gravity and frictional resistance of skin",
+        "Automated passive neural gliding stimulation",
+        "Continuous joint fluid synthesis without core effort"
+      ],
+      "answer": "Elimination of gravity and frictional resistance of skin",
+      "explanation": "Neutralizing gravity and avoiding skin-on-plinth friction are the two paramount mechanical features that enable early movement."
+    },
+    {
+      "question": "Pressure on which subcutaneous nerve must be avoided when placing slings around the knee?",
+      "options": ["Sciatic nerve", "Common peroneal nerve", "Femoral nerve", "Tibial nerve"],
+      "answer": "Common peroneal nerve",
+      "explanation": "The common peroneal nerve wraps around the neck of the fibula just below the knee, and must be protected from tight slings to prevent foot drop."
+    },
+    {
+      "question": "To assist a weak muscle during a swing in Pendulum Suspension, the overhead anchor should be shifted:",
+      "options": [
+        "In the same direction as the active muscle contraction",
+        "In the opposite direction of the active contraction",
+        "Directly distal to the joint axis",
+        "Directly proximal to the joint axis"
+      ],
+      "answer": "In the same direction as the active muscle contraction",
+      "explanation": "Displacing the suspension point in the direction of the movement creates a downhill slope, allowing gravity to assist the weak muscle."
+    },
+    {
+      "question": "What is the specialized steel grid frame used in suspension therapy called?",
+      "options": ["Balkan frame", "Guthrie-Smith frame", "Thomas splint frame", "Metabolic cage frame"],
+      "answer": "Guthrie-Smith frame",
+      "explanation": "The Guthrie-Smith frame is the standard steel mesh frame used overhead to suspend ropes and pulleys for rehabilitation."
+    },
+    {
+      "question": "To create a passive distraction (traction) force inside a joint, the suspension point is placed:",
+      "options": [
+        "Directly vertical to the center joint axis",
+        "Distal to the distal joint line of the suspended bone",
+        "Proximal to the proximal joint line of the suspended bone",
+        "Directly over the center of gravity of the thigh"
+      ],
+      "answer": "Distal to the distal joint line of the suspended bone",
+      "explanation": "Aligning the suspension point distal to the joint center creates an outward pull along the anatomical axis, generating passive traction."
+    },
+    {
+      "question": "Spring-loaded suspension therapy is chiefly used to provide:",
+      "options": [
+        "Sustained bone-breaking traction forces",
+        "Shock absorption and grading resistance for stronger muscles",
+        "Passive joint lubrication exclusively",
+        "Direct neurological spinal motor loop bypass"
+      ],
+      "answer": "Shock absorption and grading resistance for stronger muscles",
+      "explanation": "Calibrated springs added to suspension setups absorb quick impact forces and can resist muscles, aiding in dynamic strengthening."
+    },
+    {
+      "question": "A single sling lined with soft sheepskin or canvas is typically used to support:",
+      "options": ["Large pelvis segments", "Both feet simultaneously", "The head or neck", "The hands and fingers only"],
+      "answer": "The head or neck",
+      "explanation": "A specialized padded head sling (or strap) is design with specific straps to support the skull or cervical region during axial traction."
+    },
+    {
+      "question": "During suspension, the limb should be lifted off the bed/treatment surface by about:",
+      "options": ["0.5 inch", "2 to 5 inches", "12 inches", "2 feet"],
+      "answer": "2 to 5 inches",
+      "explanation": "Just a few inches (2-5) of bed clearance is ideal to completely eliminate plinth skin friction and maximize safety."
+    },
+    {
+      "question": "To resist a movement using pendulum suspension, the point of suspension is shifted:",
+      "options": [
+        "In the opposite direction of the planned therapeutic swing",
+        "In the exact same direction as the planned swing",
+        "Directly vertical to the joint axis center",
+        "To the contralateral limb's joint line"
+      ],
+      "answer": "In the opposite direction of the planned therapeutic swing",
+      "explanation": "Displacing the anchor point opposite to the desired swing direction forces the limb to swing uphill, generating resistance."
+    },
+    {
+      "question": "Which of the following joint angles of movement is best mobilized using Axial Suspension at the shoulder in supine?",
+      "options": [
+        "Internal/External Rotation",
+        "Horizontal Abduction/Adduction",
+        "Pure Shoulder Extension/Flexion",
+        "Circumduction only"
+      ],
+      "answer": "Horizontal Abduction/Adduction",
+      "explanation": "Axial suspension of the arm in supine stabilizes the shoulder joint and enables frictionless horizontal abduction and adduction."
+    },
+    {
+      "question": "What happens to the internal compressive forces on joint cartilage during suspension?",
+      "options": [
+        "They increase significantly due to rope tension",
+        "They are minimized as the limb weight is supported by slings",
+        "They remain unchanged compared to standing",
+        "They drop to absolute zero instantly"
+      ],
+      "answer": "They are minimized as the limb weight is supported by slings",
+      "explanation": "Slings bear the weight of the segment, minimizing the mechanical bone-on-bone compressive force across articular surfaces."
+    },
+    {
+      "question": "When setting up pelvic suspension for traction, the sling is positioned between the:",
+      "options": [
+        "Xiphoid process and the costal margin",
+        "Iliac crests and the greater trochanters",
+        "Gluteal tuberosity and the popliteal fossa",
+        "Knees and ankle malleoli"
+      ],
+      "answer": "Iliac crests and the greater trochanters",
+      "explanation": "Cradling the pelvis between the iliac crest and greater trochanters ensures optimal grip and avoids compressing bony landmarks."
+    },
+    {
+      "question": "The mechanical behavior of vertical suspension of a limb acts like a:",
+      "options": ["First class lever", "Second class lever", "Third class lever", "Simple pendulum"],
+      "answer": "Simple pendulum",
+      "explanation": "Suspended limbs behave mechanical like a simple gravity-driven pendulum with a fixed overhead hub."
+    },
+    {
+      "question": "A complete unit of suspension rope consists of a 3-strand nylon chord equipped with:",
+      "options": [
+        "A wooden cleat and an S-hook on each end",
+        "Pulleys and pressure gauges only",
+        "Lead weights and heavy collars",
+        "A single spring and a carabiner"
+      ],
+      "answer": "A wooden cleat and an S-hook on each end",
+      "explanation": "Suspension ropes are packaged with an adjustable wooden cleat and strong metal S-hooks for modular rigging on the mesh."
+    },
+    {
+      "question": "Suspension therapy is an effective tool to prevent which of the following secondary complications of prolonged bed rest?",
+      "options": ["Osteoarthritis", "Joint contractures", "Deep vein thrombosis only", "Postural sway development"],
+      "answer": "Joint contractures",
+      "explanation": "By enabling painless, early frictionless movement, suspension prevents joint stiffening and soft-tissue shortening."
+    },
+    {
+      "question": "Which sling is used specifically to support the distal leg and ankle region?",
+      "options": ["Double-ringed pelvic sling", "Three-ringed sling (or ankle sling)", "Head sling", "Trunk sling"],
+      "answer": "Three-ringed sling (or ankle sling)",
+      "explanation": "A three-ringed canvas sling is customized to wrap around the heel and ankle malleoli to safely suspend the foot."
+    },
+    {
+      "question": "In the sagittal plane, when performing knee extension mobilizations, the thigh is stabilized to prevent:",
+      "options": ["Hip abduction", "Excess pelvic tilting and lumbar extension", "Ankle eversion", "Knee internal rotation"],
+      "answer": "Excess pelvic tilting and lumbar extension",
+      "explanation": "Stabilizing the pelvis and proximal thigh prevents compensatory lumbar and pelvic shifts during extension training."
+    },
+    {
+      "question": "What is the primary physical force eliminated by suspension during joint rehabilitation?",
+      "options": ["Barometric pressure", "Internal mechanical drag from tissue viscosity", "External sliding friction on the treatment plinth", "Electromagnetic polarity"],
+      "answer": "External sliding friction on the treatment plinth",
+      "explanation": "Lifting the limb off the bed surface eliminates the coefficient of friction between the patient's skin and the sheets."
+    },
+    {
+      "question": "Bilateral lower limb suspension with pelvic sling attachment is used primarily in suspension clinics for:",
+      "options": [
+        "Scoliosis spinal straightening active exercises",
+        "Lower lumbar passive manual traction",
+        "Grade 5 quadriceps training",
+        "Treating subluxated ankle joints"
+      ],
+      "answer": "Lower lumbar passive manual traction",
+      "explanation": "Suspending the pelvis and lower extremities creates a distraction slope that acts as gentle, sustained lumbar traction."
+    },
+    {
+      "question": "If a suspended limb swings back to its resting equilibrium center and stops, this point represents the:",
+      "options": ["Eccentric axis", "Mechanical dead center (or alignment axis)", "Sway envelope peak", "Plastic threshold"],
+      "answer": "Mechanical dead center (or alignment axis)",
+      "explanation": "The mechanical dead center is the point directly below the suspension anchor, where gravity and rope tension are vertically aligned."
+    },
+    {
+      "question": "A side-lying patient with their upper leg suspended in axial hip alignment can perform:",
+      "options": [
+        "Frictionless hip abduction/adduction",
+        "Frictionless hip flexion/extension",
+        "Active resisted ankle dorsiflexion",
+        "Resisted rotation of the hip joint"
+      ],
+      "answer": "Frictionless hip flexion/extension",
+      "explanation": "In side-lying, suspending the upper leg allows hip flexion and extension to occur in a horizontal plane parallel to the bed."
+    },
+    {
+      "question": "To mobilize a stiff osteoarthritic hip with minimal compression, the clinician should use:",
+      "options": [
+        "Axial suspension with high-speed swing",
+        "Pendulum suspension aligned distally to distract the joint heads",
+        "Vertical suspension of the trunk",
+        "Resisted spring-loaded suspension"
+      ],
+      "answer": "Pendulum suspension aligned distally to distract the joint heads",
+      "explanation": "Aligning the suspension point distal to the hip joint creates an axial glide (fractional tractive pull) that reduces joint compression during mobilization."
+    },
+    {
+      "question": "Which of the following parts of the body represents the 'suspended weight' during pelvic traction?",
+      "options": ["The whole body", "The pelvis and lower limbs", "The head and thorax", "The knee joints only"],
+      "answer": "The pelvis and lower limbs",
+      "explanation": "During lower body sling traction, only the pelvis and lower limbs are suspended to isolate traction forces on the lumbar spine."
+    },
+    {
+      "question": "Suspension therapy setups must prioritize 'Safety First' by validating that:",
+      "options": [
+        "Patient is strapped down hard to prevent breathing",
+        "All metal hooks are closed, and ropes lock in wooden cleats",
+        "Weights are balanced to exactly match the patient's age",
+        "Sensory nerves are fully anesthetized"
+      ],
+      "answer": "All metal hooks are closed, and ropes lock in wooden cleats",
+      "explanation": "Checking S-hooks, frame mesh engagement, and cleat lock sliding are vital clinical safety checks."
+    },
+    {
+      "question": "Which of the following clinical conditions is a common indication for shoulder suspension therapy?",
+      "options": ["Acute shoulder dislocation", "Adhesive capsulitis (Frozen Shoulder) in subacute stage", "Unhealed clavicular fracture", "Rotator cuff tendon rupture (acute phase)"],
+      "answer": "Adhesive capsulitis (Frozen Shoulder) in subacute stage",
+      "explanation": "Suspension therapy helps mobilize and relieve pain in a frozen shoulder by allowing gentle, frictionless horizontal range of motion."
+    }
+  ],
+  "reference": [
+    "Dena Gardiner - The Principles of Exercise Therapy",
+    "Guthrie-Smith - Rehabilitation, Re-education and Remedial Exercises",
+    "O'Sullivan & Schmitz - Physical Rehabilitation"
+  ]
+}

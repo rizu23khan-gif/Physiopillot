@@ -1,0 +1,81 @@
+{
+  "subject": "Exercise Therapy I",
+  "chapterId": "ex1_ch6",
+  "chapterName": "Group Muscle Actions & Muscle Work",
+  "definition": [
+    "Agonist (Prime Mover): A muscle or muscle group that actively contracts to initiate and produce a specific joint movement.",
+    "Antagonist: A muscle or muscle group that possesses the opposite action of the agonist and must relax to facilitate movement."
+  ],
+  "principle": [
+    "Reciprocal Innervation (Sherrington's Law): Neurological coordination where contraction of the agonist triggers reflex inhibition and relaxation of the antagonist."
+  ],
+  "equipment": [
+    "Resistance bands, dumbbells, and active movement plinths."
+  ],
+  "parameters": {
+    "intensity": "Adjustable according to active movement grades",
+    "duration": "10 to 15 minutes",
+    "frequency": "Daily",
+    "repetitions": "10 to 15 movements"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Intramuscular recruitment co-activation",
+      "frequency": "During active contractions",
+      "mechanism": [
+        "coordinates prime movers, synergists, and stabilizers for smooth osteokinematic trajectories."
+      ]
+    }
+  ],
+  "indications": [
+    "Incoordinated active movement, post-surgical muscle inhibition, regional weakness."
+  ],
+  "contraindications": {
+    "general": [
+      "Acute, unstable joint structures, acute soft-tissue tears."
+    ],
+    "local": [
+      "Severe pain during unresisted active ranges of motion."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Position patient comfortably with adequate posture stabilization."
+    ],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": [
+      "Instruct patient to perform specific multi-joint active movements, ensuring stabilizers remain fully engaged."
+    ]
+  },
+  "precautions": [
+    "Ensure stabilizers do not over-fatigue or cause abnormal movement substitutions."
+  ],
+  "clinicalPearls": [
+    "When training group muscle actions, ensure that stabilizer muscles are adequately recruited before checking prime mover activation, as core distal co-activation prevents early joint stress."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Post-traumatic Muscle Incoordination",
+      "position": "Semi-reclining position",
+      "electrodePlacement": "None",
+      "frequency": "Daily, 15 minutes",
+      "purpose": "Aims to retrain coordination between agonists, antagonists, and regional synergists."
+    }
+  ],
+  "vivaQuestions": [
+    "Question: What is Sherrington's Law of Reciprocal Innervation? | Answer: It states that when a motor center sends stimuli to contract an agonist muscle, it simultaneously sends inhibitory impulses to the opposing antagonist muscle. | Examiner Key Points: Agonist excitation and antagonist inhibition. | Clinical Importance: Crucial for coordinating smooth voluntary movements."
+  ],
+  "mcqs": [
+    {
+      "question": "Which muscle group plays a primary role in stabilizing a proximal joint segment during distal active movement?",
+      "options": ["Agonists", "Antagonists", "Fixators (Stabilizers)", "Synergists"],
+      "answer": "Fixators (Stabilizers)",
+      "explanation": "Fixators (Stabilizers) contract statically to steady the proximally located bone segments, providing a stable foundation for distal movement."
+    }
+  ],
+  "reference": [
+    "M. Dena Gardiner - Principles Of Exercise Therapy"
+  ]
+}

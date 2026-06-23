@@ -1,0 +1,475 @@
+{
+  "subject": "Physiology",
+  "chapterId": "phys_ch1",
+  "chapterName": "General Cell Physiology",
+  "definition": [
+    "Cell Membrane: A semi-permeable phospholipid bilayer that envelops the cytoplasm, regulating the selective influx and efflux of ions and substrates to maintain intracellular homeostasis.",
+    "Resting Membrane Potential (RMP): The static electrical potential difference across the cell membrane of excitable cells at rest, arising from selective passive ion permeabilities and active pump transport.",
+    "Osmosis: The passive net movement of solvent molecules (water) through a selectively permeable membrane from a region of lower solute concentration to a region of higher solute concentration.",
+    "Primary Active Transport: Transmembrane movement of solutes against their electrochemical gradient powered directly by the hydrolysis of adenosine triphosphate (ATP).",
+    "Secondary Active Transport: Coupled solute transport against an electrochemical gradient powered by the potential energy stored in an ion gradient previously established by primary active transport.",
+    "Resting Membrane Potential: The stable voltage difference (~-70 to -90 mV) between the intracellular and extracellular fluid of a cell at rest, primarily determined by potassium equilibrium.",
+    "Facilitated Diffusion: A carrier-mediated passive transport process that moves solutes down their concentration gradients without the expenditure of metabolic energy.",
+    "Homeostasis: The dynamic maintenance of a relatively stable, physiological internal environment within the body despite fluctuating external conditions."
+  ],
+  "principle": [
+    "Gibbs-Donnan Effect: Explains the behavior of charged particles near a semi-permeable membrane that fails to distribute evenly due to the presence of non-diffusible, impermeable proteins in one compartment.",
+    "Nernst Equation: Calculates the electrical equilibrium potential for a single ion across a semi-permeable membrane at a given concentration gradient, where electrical and chemical forces balance.",
+    "Goldman-Hodgkin-Katz Equation: Determines the resting membrane potential by factoring in the concentrations and membrane permeability coefficients of multiple diffusible ions (Na+, K+, Cl-).",
+    "Sodium-Potassium Pump Mechanics: The electrogenic Na+/K+-ATPase pump actively expels 3 Sodium ions and imports 2 Potassium ions per ATP hydrolyzed, establishing critical intracellular ion concentrations.",
+    "Tonicity of Solutions: Characterizes the effect of extracellular solute concentrations on cellular volume, classifying solutions into isotonic (no volume change), hypotonic (cellular swelling/lysis), and hypertonic (cellular shrinkage/crenation).",
+    "Simple Diffusion Kinetics: Solute movement directly through the lipid bilayer or through channel proteins down an electrochemical gradient, described quantitatively by Fick's Law of Diffusion."
+  ],
+  "equipment": [
+    "Centrifuge: Used to separate cellular fractions, blood cells, or plasma by applying centripetal acceleration.",
+    "Spectrophotometer: Measures light absorption at specific wavelengths to quantify solute concentration in biological fluids.",
+    "Osmometer: Determines the osmolality of plasma or urine based on freezing point depression or vapor pressure elevation.",
+    "Microelectrodes: Fine glass pipettes used to measure electrical potential differences across individual cell membranes.",
+    "Patch Clamp Setup: Advanced electrophysiological equipment used to study single ion channel currents in cell membranes.",
+    "Flow Cytometer: Counts, sizes, and identifies individual cells in suspension using laser-based scattering and fluorescence."
+  ],
+  "parameters": {
+    "normalPlasmaOsmolality": "280 - 300 mOsm/kg H2O",
+    "restingMembranePotentialSkeletalMuscle": "-90 mV",
+    "restingMembranePotentialNeuron": "-70 mV",
+    "restingMembranePotentialRBC": "-10 mV",
+    "extracellularSodiumConcentration": "135 - 145 mEq/L",
+    "intracellularSodiumConcentration": "10 - 14 mEq/L",
+    "extracellularPotassiumConcentration": "3.5 - 5.0 mEq/L",
+    "intracellularPotassiumConcentration": "140 - 150 mEq/L",
+    "extracellularCalciumIonized": "1.1 - 1.3 mmol/L",
+    "extracellularChlorideConcentration": "98 - 106 mEq/L"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Osmotic Equalization",
+      "frequency": "Continuous",
+      "mechanism": [
+        "Water molecule translation through membrane-bound aquaporins to balance solute osmolar gradients.",
+        "Prevention of intracellular volume crashes during localized metabolic fluctuations."
+      ]
+    },
+    {
+      "effect": "Electrogenic Membrane Polarization",
+      "frequency": "Continuous",
+      "mechanism": [
+        "Hydrolysis of ATP by Na+/K+-ATPase drives the asymmetric exchange of 3 Na+ ions out for 2 K+ ions in.",
+        "Generation of a negative net inward charge contributing 2-4 mV directly to the resting electrical potential.",
+        "Maintenance of high intracellular potassium concentration to drive passive resting potassium efflux."
+      ]
+    },
+    {
+      "effect": "Solute Gradient Fueling",
+      "frequency": "Dynamic",
+      "mechanism": [
+        "Development of a powerful electrochemical sodium gradient facing into the cell.",
+        "Thermodynamic coupling of sodium down-gradient flow to power glucose or amino acid up-gradient cotransport."
+      ]
+    }
+  ],
+  "indications": [
+    "Intravenous Fluid Therapy: Essential for restoring extracellular fluid volume during dehydration, hemorrhage, or severe plasma loss.",
+    "Electrolyte Imbalance Correction: Managing cases of dangerous extracellular sodium, potassium, or calcium abnormalities.",
+    "Local Neuromuscular Blockade: Utilization of channel blocks in clinical anesthetic procedures to restrict local cellular action potential propagation."
+  ],
+  "contraindications": {
+    "general": [
+      "Rapid osmotic saline correction of chronic hyponatremia due to risks of Osmotic Demyelination Syndrome.",
+      "Unmonitored rapid potassium administration in acute anuric renal failure."
+    ],
+    "local": [
+      "Infusion of pure sterile hypotonic water into peripheral veins causing localized red blood cell hemolysis."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Instruct the patient on the purpose of clinical electrolyte sampling or localized intravenous infusions.",
+      "Ensure patient is hydrated and resting comfortably in a supine position."
+    ],
+    "apparatusPreparation": [
+      "Calibrate the clinical osmometer using standard reference salt solutions.",
+      "Inspect intravenous delivery lines and set fluid infusion parameters strictly according to physician calculation."
+    ],
+    "skinPreparation": [
+      "Cleanse the venipuncture site thoroughly with 70% isopropyl alcohol or chlorhexidine.",
+      "Allow the skin to air-dry completely to prevent chemical hemolysis of the blood sample."
+    ],
+    "electrodePlacement": [
+      "If performing localized skin impedance or nerve tests, position the recording electrode securely over the clean target skin.",
+      "Apply conductive electrolyte gel to maximize skin-to-electrode contact and stabilize resting signals."
+    ],
+    "treatmentProcedure": [
+      "Obtain blood samples smoothly with minimal venous stasis to avoid artifactual hyperkalemia.",
+      "Analyze plasma using spectrophotometry or flame photometry to ascertain absolute electrolyte levels.",
+      "Administer balanced, isotonic fluids intravenously while continuously monitoring urinary output and cardiac rhythm."
+    ]
+  },
+  "precautions": [
+    "Never infuse potassium chloride directly as a rapid IV bolus due to high risks of cardiac arrest.",
+    "Routinely assess infusion sites for extravasation or localized thrombi.",
+    "Verify baseline renal filtration capacity before initiating high-volume intravenous electrolyte therapy."
+  ],
+  "clinicalPearls": [
+    "Osmotic Demyelination Syndrome (Central Pontine Myelinolysis) can be triggered by correcting hyponatremia too rapidly with hypertonic saline, leading to severe neurological damage.",
+    "Local anesthetics like lidocaine work by blocking voltage-gated sodium channels, preventing depolarization and blockading pain pathway action potentials.",
+    "Insulin stimulates the Na+/K+-ATPase pump, shifting potassium rapidly into cells; this makes insulin paired with dextrose an effective acute therapy for severe hyperkalemia."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Acute Dehydration / Volume Loss",
+      "position": "Supine with legs slightly elevated",
+      "electrodePlacement": "Continuous electrocardiology leads pinned for cardiac surveillance if electrolyte changes present",
+      "frequency": "Continuous infusion titrated based on central venous pressure",
+      "purpose": "To restore physiological extracellular fluid volume and balance vital osmolarity"
+    }
+  ],
+  "vivaQuestions": [
+    "Question: Describe the mechanism and physiological role of the Na+/K+-ATPase pump. | Answer: The Na+/K+-ATPase pump utilizes energy from ATP hydrolysis to actively transport 3 Na+ ions out of the cell in exchange for 2 K+ ions into the cell. This electrogenic pump maintains the high intracellular K+ and low Na+ concentration gradients essential for resting membrane potential, secondary active transport, and cell volume regulation. | Examiner Key Points: 3 Na+ out, 2 K+ in, ATP hydrolysis, electrogenic nature, cellular volume control. | Clinical Importance: Critical for preventing intracellular swelling and maintaining neuromuscular excitability.",
+    "Question: Explain the difference between primary and secondary active transport with clinical examples. | Answer: Primary active transport directly utilizes metabolic energy (ATP) to pump solutes against an electrochemical gradient, such as the Na+/K+-ATPase and H+/K+-ATPase pumps. Secondary active transport uses the potential energy of a pre-existing electrochemical gradient (often sodium) established by primary transport, such as SGLT-1 in the kidneys and intestines. | Examiner Key Points: Direct vs indirect ATP use, sodium cotransport/countertransport. | Clinical Importance: Underpins oral rehydration therapy, where sodium-coupled glucose absorption drives water uptake.",
+    "Question: What is resting membrane potential and what is its primary ionic determinant? | Answer: Resting membrane potential (RMP) is the electrical potential difference across the cell membrane at rest. Its primary determinant is the potassium ion (K+), owing to high membrane permeability for K+ at rest via leak channels, bringing the RMP close to the equilibrium potential of K+ (-94 mV). | Examiner Key Points: RMP definition, high potassium relative permeability, K+ leak channels, Nernst potential. | Clinical Importance: Alterations in extracellular K+ (hyperkalemia/hypokalemia) drastically alter neuromuscular and cardiac excitability.",
+    "Question: Define osmosis and tonicity, and explain how they differ. | Answer: Osmosis is the passive movement of solvent (water) across a semi-permeable membrane from low to high solute concentration. Tonicity is the biological effect of an extracellular solution's osmolarity on cell volume, which depends on both the total solute osmolarity and the membrane permeability of those solutes. | Examiner Key Points: Osmosis definition, tonicity as a cellular volume effect, permeant vs impermeant solutes. | Clinical Importance: Guides the select clinical use of isotonic (0.9% NaCl), hypotonic (0.45% NaCl), and hypertonic (3% NaCl) saline infusions.",
+    "Question: What is the Nernst Equation and what are its practical limitations? | Answer: The Nernst Equation calculates the equilibrium electrical potential for a single ion across a membrane at a given concentration gradient. Its limitation is that it assumes the membrane is permeable only to that single ion, whereas real cell membranes have co-existing permeabilities for sodium, potassium, and chloride. | Examiner Key Points: Single-ion limitation, equilibrium ratio formula. | Clinical Importance: Explains why the actual resting potential of a neuron (-70 mV) deviates slightly from the pure potassium equilibrium potential (-94 mV).",
+    "Question: Explain the Gibbs-Donnan equilibrium and its biological consequences. | Answer: Gibbs-Donnan equilibrium describes the unequal distribution of diffusible ions across a semipermeable membrane caused by the presence of non-diffusible, impermeable charged proteins in one compartment (like intracellular proteins or blood plasma albumin). It creates an electrical asymmetry and an osmotic gradient. | Examiner Key Points: Non-diffusible intracellular proteins, unequal distribution of mobile ions, osmotic pressure generation. | Clinical Importance: Contributes to the colloid osmotic pressure that keeps fluid inside blood vessels and prevents systemic edema.",
+    "Question: How does the Goldman-Hodgkin-Katz (GHK) equation differ from the Nernst equation? | Answer: Unlike the Nernst equation which evaluates only a single ion species, the GHK equation calculates membrane potential by accounting simultaneously for the concentration gradients and specific membrane permeability coefficients of multiple key diffusible ions: sodium, potassium, and chloride. | Examiner Key Points: Multiple ion gradients, permeability coefficients, realistic cell potential calculation. | Clinical Importance: Models how dynamic shifts in ion permeabilities (e.g., during action potentials) rapidly alter membrane voltage.",
+    "Question: Describe Fick's Law of Diffusion and the factors that influence the rate of diffusion. | Answer: Fick's Law states that the rate of diffusion is directly proportional to the concentration gradient, surface area, and solubility of the substance, and inversely proportional to the thickness of the membrane. | Examiner Key Points: Surface area, concentration gradient, membrane thickness, partition coefficient. | Clinical Importance: Explains why pulmonary edema (increased thickness) or emphysema (decreased surface area) compromises respiratory gas exchange.",
+    "Question: What is cell volume regulation and what happens to a cell placed in a hypotonic medium? | Answer: In a hypotonic medium, the extracellular osmolarity is lower than intracellular osmolarity, causing water influx via osmosis. The cell swells and activates Regulatory Volume Decrease (RVD) mechanisms, expelling ions (K+ and Cl-) to drive water back out and restore normal size. | Examiner Key Points: Hypotonic swelling, water influx, regulatory volume decrease, osmolyte efflux. | Clinical Importance: Severe hypotonic hyponatremia can cause cerebral edema, leading to dangerous brain herniation because the brain is enclosed in a rigid skull.",
+    "Question: Explain carrier-mediated transport and its distinguishing features from simple diffusion. | Answer: Carrier-mediated transport includes facilitated diffusion and active transport. It relies on specific transmembrane proteins and list three signature traits: specificity, saturation kinetics (maximum transport rate Vmax), and competitive inhibition by structurally similar molecules. | Examiner Key Points: Specificity, saturation (Vmax), competitive inhibition. | Clinical Importance: Target of many pharmacological agents and explains renal glucosuria when glucose levels exceed the transport maximum (TmG)."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following transport mechanisms directly utilizes ATP to move solutes against their electrochemical gradient?",
+      "options": [
+        "Simple diffusion",
+        "Facilitated diffusion",
+        "Primary active transport",
+        "Secondary active transport"
+      ],
+      "answer": "Primary active transport",
+      "explanation": "Primary active transport mechanisms, such as the Na+/K+-ATPase, utilize physical energy derived directly from the hydrolysis of ATP to transport solutes against their electrochemical concentration gradients."
+    },
+    {
+      "question": "The resting membrane potential of a typical excitable cell is closest to the equilibrium potential of which ion?",
+      "options": [
+        "Sodium (Na+)",
+        "Potassium (K+)",
+        "Calcium (Ca2+)",
+        "Chloride (Cl-)"
+      ],
+      "answer": "Potassium (K+)",
+      "explanation": "The cell membrane at rest is highly permeable to potassium due to leak channels, making the resting membrane potential close to the potassium equilibrium potential (~-94 mV)."
+    },
+    {
+      "question": "Which equation is utilized to calculate the electrical equilibrium potential of a single ion species across a semi-permeable membrane?",
+      "options": [
+        "Goldman-Hodgkin-Katz equation",
+        "Nernst equation",
+        "Fick equation",
+        "Henderson-Hasselbalch equation"
+      ],
+      "answer": "Nernst equation",
+      "explanation": "The Nernst equation is used to calculate the equilibrium potential for a single ion based on its concentration gradient across a membrane."
+    },
+    {
+      "question": "What is the stoichiometric ratio of ion exchange driven by the active Na+/K+-ATPase pump?",
+      "options": [
+        "3 Na+ ions out, 2 K+ ions in",
+        "2 Na+ ions out, 3 K+ ions in",
+        "3 Na+ ions out, 3 K+ ions in",
+        "3 Na+ ions in, 2 K+ ions out"
+      ],
+      "answer": "3 Na+ ions out, 2 K+ ions in",
+      "explanation": "The electrogenic Na+/K+-ATPase pump expels three sodium ions out of the cell and pumps two potassium ions inside for every single ATP molecule hydrolyzed."
+    },
+    {
+      "question": "Which of the following will occur to a human red blood cell placed in a 3.0% saline (NaCl) solution?",
+      "options": [
+        "It will absorb water and undergo hemolysis",
+        "It will shrink and undergo crenation",
+        "There will be no net water movement or change",
+        "It will swell but maintain structural integrity"
+      ],
+      "answer": "It will shrink and undergo crenation",
+      "explanation": "A 3.0% saline solution is hypertonic to biological plasma (~0.9% saline), which pulls water out of the red blood cells, causing them to shrink or crenate."
+    },
+    {
+      "question": "Which membrane transport mechanism exhibits saturation kinetics, competitive inhibition, and chemical specificity but does not require metabolic energy?",
+      "options": [
+        "Simple diffusion",
+        "Facilitated diffusion",
+        "Primary active transport",
+        "Exocytosis"
+      ],
+      "answer": "Facilitated diffusion",
+      "explanation": "Facilitated diffusion is a carrier-mediated transport process that exhibits specificity, saturation, and competitive inhibition, but flows down concentration gradients without requiring metabolic energy."
+    },
+    {
+      "question": "The therapeutic glucose absorption in oral rehydration therapy relies primarily on which transport process?",
+      "options": [
+        "Simple diffusion through lipid bilayer",
+        "Primary active sodium extrusion",
+        "Sodium-coupled secondary active cotransporter (SGLT)",
+        "Endocytosis of solute packages"
+      ],
+      "answer": "Sodium-coupled secondary active cotransporter (SGLT)",
+      "explanation": "Oral rehydration therapy works by utilizing SGLT-1 cotransporters in the intestinal lumen to transport sodium and glucose together into cytological structures, driving osmotic water absorption."
+    },
+    {
+      "question": "What is the normal osmolarity of human blood plasma?",
+      "options": [
+        "140 mOsm/L",
+        "285 mOsm/L",
+        "420 mOsm/L",
+        "100 mOsm/L"
+      ],
+      "answer": "285 mOsm/L",
+      "explanation": "Normal physiological osmolarity of mammalian blood plasma is held tightly between 280 and 300 mOsm/L (mOsm/kg H2O)."
+    },
+    {
+      "question": "Which component of Fick's Law of Diffusion is modified when pulmonary edema causes fluid collection in the alveolocapillary interface?",
+      "options": [
+        "Decrease in concentration gradient",
+        "Decrease in solute solubility",
+        "Increase in diffusion path distance (thickness)",
+        "Decrease in total gas pressure"
+      ],
+      "answer": "Increase in diffusion path distance (thickness)",
+      "explanation": "Pulmonary edema adds fluid, increasing the physical thickness of the barrier that oxygen and carbon dioxide must cross, slows down the net rate of gas diffusion."
+    },
+    {
+      "question": "What is the major extracellular anion in the human body?",
+      "options": [
+        "Phosphate",
+        "Chloride",
+        "Bicarbonate",
+        "Sulfate"
+      ],
+      "answer": "Chloride",
+      "explanation": "Chloride (Cl-) is the most abundant negatively charged ion (anion) found in the extracellular fluid of the body."
+    },
+    {
+      "question": "The opening of voltage-gated sodium channels during an action potential causes the membrane potential to move towards:",
+      "options": [
+        "Potassium equilibrium potential",
+        "Sodium equilibrium potential (+60 mV)",
+        "Absolute zero potential",
+        "Calcium equilibrium potential"
+      ],
+      "answer": "Sodium equilibrium potential (+60 mV)",
+      "explanation": "Opening voltage-gated sodium channels permits rapid sodium influx. The membrane potential depolarizes rapidly, moving toward the sodium equilibrium potential (~+60 mV)."
+    },
+    {
+      "question": "Which mechanism is responsible for returning intracellular calcium back into the sarcoplasmic reticulum against its concentration gradient?",
+      "options": [
+        "Simple diffusion through calcium leaky lines",
+        "Primary active transport (SERCA pump)",
+        "Secondary active sodium-calcium exchangers",
+        "Facilitated diffusion carriers"
+      ],
+      "answer": "Primary active transport (SERCA pump)",
+      "explanation": "The Sarcoplasmic/Endoplasmic Reticulum Calcium ATPase (SERCA) is a primary active transport pump that uses ATP to transport calcium back into storage."
+    },
+    {
+      "question": "What happens to the resting membrane potential of an excitable cell during hyperkalemia?",
+      "options": [
+        "It becomes more negative (hyperpolarized)",
+        "It remains static and unchanged",
+        "It becomes less negative (depolarized)",
+        "It fluctuates unpredictably"
+      ],
+      "answer": "It becomes less negative (depolarized)",
+      "explanation": "Hyperkalemia reduces the concentration gradient for potassium, restricting potassium efflux through leak channels. The cell retains more positive charge and depolarizes."
+    },
+    {
+      "question": "An intravenous water infusion containing 0.9% NaCl is considered:",
+      "options": [
+        "Isotonic",
+        "Hypotonic",
+        "Hypertonic",
+        "Hypo-osmolar"
+      ],
+      "answer": "Isotonic",
+      "explanation": "0.9% NaCl saline matches the normal osmotic pressure of body fluids closely, making it an isotonic infusion solution."
+    },
+    {
+      "question": "The resting membrane potential of cell membranes is mathematically defined by which multi-ion equation?",
+      "options": [
+        "Nernst equation",
+        "Goldman-Hodgkin-Katz equation",
+        "Sande equation",
+        "Starling equation"
+      ],
+      "answer": "Goldman-Hodgkin-Katz equation",
+      "explanation": "The Goldman-Hodgkin-Katz equation calculates resting membrane potential by taking into account the concentration gradients and permeabilities of sodium, potassium, and chloride."
+    },
+    {
+      "question": "What is the primary role of aquaporins in cell membranes?",
+      "options": [
+        "They transport sodium and potassium ions",
+        "They facilitate the rapid transdiffusion of water",
+        "They utilize ATP to pump calcium out",
+        "They serve as cellular adhesion structures"
+      ],
+      "answer": "They facilitate the rapid transdiffusion of water",
+      "explanation": "Aquaporins are highly selective specialized membrane channel proteins that facilitate the rapid passive flow of water down osmotic gradients."
+    },
+    {
+      "question": "The Gibbs-Donnan equilibrium depends on the presence of which crucial macromolecule inside one compartment?",
+      "options": [
+        "Lipid vesicles",
+        "Impermeable charged proteins",
+        "Highly permeable glucose",
+        "Passive sodium ions"
+      ],
+      "answer": "Impermeable charged proteins",
+      "explanation": "Gibbs-Donnan equilibrium describes the unequal distribution of small diffusible ions caused by the presence of large organic charge carriers (proteins) that cannot diffuse."
+    },
+    {
+      "question": "Which of the following values represents the Nernst potential for Sodium in mammalian nerve cells?",
+      "options": [
+        "-94 mV",
+        "+61 mV",
+        "-70 mV",
+        "+120 mV"
+      ],
+      "answer": "+61 mV",
+      "explanation": "Using physiological concentrations, the equilibrium Nernst potential of sodium calculates to approximately +60 to +61 mV."
+    },
+    {
+      "question": "Which process describes the uptake of heavy macromolecular fluids by cellular membrane invaginations?",
+      "options": [
+        "Simple diffusion",
+        "Pinocytosis",
+        "Phagocytosis",
+        "Primary active exchange"
+      ],
+      "answer": "Pinocytosis",
+      "explanation": "Pinocytosis, also known as 'cell drinking', is a form of endocytosis where the cell engulfs tiny droplets of extracellular fluid into vesicles."
+    },
+    {
+      "question": "What keeps the mitochondrial membrane potential polarized to drive ATP synthesis?",
+      "options": [
+        "Direct export of adenosine molecules",
+        "Active pumping of hydrogen ions (protons)",
+        "Calcium leak channels",
+        "Osmotic pressure dynamics"
+      ],
+      "answer": "Active pumping of hydrogen ions (protons)",
+      "explanation": "The electron transport chain actively pumps protons out of the mitochondrial matrix, creating an electrochemical proton gradient that drives ATP synthase."
+    },
+    {
+      "question": "What is the primary factor limiting the maximum transport velocity (Vmax) of facilitated diffusion?",
+      "options": [
+        "Intra-membrane thickness",
+        "Number of available transport carrier proteins",
+        "Extracellular lipid concentration",
+        "Absolute electrochemical charge"
+      ],
+      "answer": "Number of available transport carrier proteins",
+      "explanation": "Carrier-mediated transport systems exhibit saturation kinetics. Once all carrier proteins are bound (saturated), the transport rate achieves its maximum velocity (Vmax)."
+    },
+    {
+      "question": "An increase in extracellular fluid calcium concentration (hypercalcemia) acts on excitable cell membranes by:",
+      "options": [
+        "Increasing membrane permeability to sodium",
+        "Stabilizing the membrane by raising the action potential threshold",
+        "Depolarizing the resting membrane potential to zero",
+        "Destroying the resting potassium leak channels"
+      ],
+      "answer": "Stabilizing the membrane by raising the action potential threshold",
+      "explanation": "Calcium stabilizes sodium channel gates. High calcium levels (hypercalcemia) raise the firing threshold of sodium channels, reducing excitability."
+    },
+    {
+      "question": "Which organelle is primarily responsible for performing cell volume homeostasis during acute hypotonic challenges?",
+      "options": [
+        "Nucleus",
+        "Lysosomes",
+        "Cell membrane with its active ion transporters",
+        "Golgi apparatus"
+      ],
+      "answer": "Cell membrane with its active ion transporters",
+      "explanation": "Regulatory volume decrease is achieved via cell membrane ion channels which quickly dump K+, Cl-, and organic osmolytes to reduce volume."
+    },
+    {
+      "question": "An hypertonic IV saline drip consists of what concentration of NaCl?",
+      "options": [
+        "0.45%",
+        "3.0%",
+        "0.9%",
+        "5.0% Dextrose"
+      ],
+      "answer": "3.0%",
+      "explanation": "3% NaCl is a highly hypertonic saline solution clinically reserved for severe acute hyponatremia with neurological compromise."
+    },
+    {
+      "question": "Oxygen gas crosses alveolar respiratory biological membranes by:",
+      "options": [
+        "Facilitated carrier proteins",
+        "Simple physical diffusion through lipid bilayer",
+        "Aquaporin channel lines",
+        "Sodium-coupled active transport"
+      ],
+      "answer": "Simple physical diffusion through lipid bilayer",
+      "explanation": "Gases like oxygen and carbon dioxide are lipid-soluble and cross cell membranes effortlessly via simple passive physical diffusion down partial pressure gradients."
+    },
+    {
+      "question": "Which of the following channels is open at rest to establish cell membrane permeability to potassium?",
+      "options": [
+        "Inwardly rectifying leak potassium channels",
+        "Voltage-gated potassium channels",
+        "Acetylcholine-gated ion channels",
+        "Mechanically-gated potassium loops"
+      ],
+      "answer": "Inwardly rectifying leak potassium channels",
+      "explanation": "Potassium leak channels remain open at resting state, conferring high resting permeability to K+."
+    },
+    {
+      "question": "A ligand-gated channel is activated by which stimulus?",
+      "options": [
+        "Changes in local electrical membrane potential",
+        "Mechanical stretching of cell structure",
+        "Binding of a chemical neurotransmitter to a receptor",
+        "Direct thermal temperature variations"
+      ],
+      "answer": "Binding of a chemical neurotransmitter to a receptor",
+      "explanation": "Ligand-gated channels open or close in response to direct binding of chemical signaling molecules (ligands) such as acetylcholine."
+    },
+    {
+      "question": "Which intracellular ion has a very low resting concentrations inside cells?",
+      "options": [
+        "Potassium",
+        "Free Calcium (Ca2+)",
+        "Sodium",
+        "Chloride"
+      ],
+      "answer": "Free Calcium (Ca2+)",
+      "explanation": "Cytoplasmic resting free Calcium is kept extremely low (~10^-7 M or 0.1 micromolar) compared to high extracellular values (~1-2 mM) to prevent aberrant cellular signaling."
+    },
+    {
+      "question": "The continuous leak of sodium into cells and leak of potassium out is primarily offset by:",
+      "options": [
+        "The Na+-H+ antiporter system",
+        "The electrogenic Na+/K+-ATPase pump",
+        "Spirolactone channels",
+        "Simple osmotic water flow"
+      ],
+      "answer": "The electrogenic Na+/K+-ATPase pump",
+      "explanation": "Without the active counterbalancing extrusion of sodium and intrusion of potassium via the Na+/K+-ATPase pump, resting concentration gradients would diminish completely."
+    },
+    {
+      "question": "Which solute is transport-coupled with Sodium during secondary active transport via the SGLT receptor in small intestines?",
+      "options": [
+        "Potassium",
+        "Glucose",
+        "Bicarbonate",
+        "Chloride"
+      ],
+      "answer": "Glucose",
+      "explanation": "SGLT-1 is a sodium-glucose cotransporter that utilizes the sodium gradient to import glucose molecules across apical epithelial membranes in the small intestine."
+    }
+  ],
+  "reference": [
+    "Guyton and Hall Textbook of Medical Physiology, 14th Edition",
+    "Sembulingam - Essentials of Medical Physiology, 8th Edition",
+    "WBUHS BPT Syllabus of Physiology, 1st Year Reference Guidelines"
+  ]
+}

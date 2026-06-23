@@ -1,0 +1,255 @@
+{
+  "subject": "Biomechanics & Kinesiology",
+  "chapterId": "bio_ch3",
+  "chapterName": "Gait Kinematics & Kinetics",
+  "definition": [
+    "Gait Cycle: The time interval between two successive occurrences of any repetitive walking event, typically measured from heel strike of one foot to the subsequent heel strike of that same foot.",
+    "Stance Phase: The portion of the gait cycle during which the foot remains in mechanical contact with the ground, accounting for approximately 60% of a normal walking cycle.",
+    "Swing Phase: The portion of the gait cycle during which the foot is off the ground and moving forward, accounting for approximately 40% of a normal walking cycle.",
+    "Step Length: The linear distance measured between the point of initial contact of one foot and the point of initial contact of the opposite foot.",
+    "Stride Length: The linear distance measured between two consecutive initial contacts of the same foot (equal to the sum of left and right step lengths).",
+    "Cadence: The temporal frequency of walking, quantitatively defined as the number of individual steps taken per unit of time, typically measured in steps per minute.",
+    "Step Width (Base of Support): The lateral lateral distance measured perpendicular to the line of progression between the midpoint of the left heel and the midpoint of the right heel, normally averaging 7 to 9 cm.",
+    "Double Support Phase: The periods within the gait cycle when both feet are simultaneously in contact with the ground, occurring twice per cycle (during early and late stance) and totaling about 20% of the walking cycle.",
+    "Single Support Phase: The period of the gait cycle when only one foot is in contact with the ground, matching the duration of the contralateral leg's swing phase (approximately 40%).",
+    "Line of Progression: The straight horizontal vector describing the direct path and direction in which the walking subject is moving forward."
+  ],
+  "principle": [
+    "Newtonian Ground Reaction Force (GRF): In accordance with Newton's Third Law, when a walking subject exerts a force against the ground, the ground exerts an equal and opposite force vector (GRF) back through the foot into the body segments.",
+    "Sagittal Plane Joint Moments: During walking, the location of the GRF vector relative to joint rotation axes generates external moments (e.g., flexion or extension forces) that muscles must counteract with internal active moments (concentric or eccentric contractions).",
+    "Eccentric Shock Absorption: In early stance (loading response), the quadriceps muscle contracts eccentrically to control knee flexion and absorb impact, while the tibialis anterior contracts eccentrically to prevent foot slap.",
+    "Concentric Propulsion: During terminal stance and pre-swing, the gastroc-soleus complex contracts concentrically (plantarflexion) to provide the forward and upward acceleration necessary for body propulsion."
+  ],
+  "equipment": [
+    "3D motion-capture camera systems (e.g., Vicon) for kinematic tracking.",
+    "Force plates synchronized with motion systems to measure 3D Ground Reaction Forces.",
+    "Surface Electromyography (sEMG) to measure muscle activation timing during walking."
+  ],
+  "parameters": {
+    "normalCadence": "100 to 115 steps per minute",
+    "gaitCycleStanceRatio": "60 percent",
+    "gaitCycleSwingRatio": "40 percent",
+    "normalStepWidth": "7 to 9 cm",
+    "normalAngleOfToeOut": "7 degrees",
+    "doubleSupportPercentage": "20 percent (10 percent each phase)"
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Foot slap (audible landing at heel strike) indicates weakness of the tibialis anterior. Normally, the tibialis anterior acts eccentrically during loading response to lower the foot gently. If weak, the mechanical control is lost.",
+    "In a patient presenting with weak hip abductors (gluteus medius), the pelvis drops on the unsupported swing side during single leg stance. This is the Trendelenburg sign, and the patient may compensate by leaning their trunk over the weak stance hip ( abductor lurch).",
+    "When a patient has a weak quadriceps, they often lean their upper trunk forward during the loading response. This shifts the line of gravity anterior to the knee joint axis, creating a passive extension moment that keeps the knee from buckling without relying on quadriceps force."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "Question: List the successive subphases of both the stance and swing phases of normal walking gait. | Answer: The Stance phase (60% duration) includes: 1) Initial Contact, 2) Loading Response, 3) Mid-Stance, 4) Terminal Stance, and 5) Pre-Swing. The Swing phase (40% duration) includes: 1) Initial Swing, 2) Mid-Swing, and 3) Terminal Swing. | Examiner Key Points: 5 stance subphases, 3 swing subphases, proper nomenclature, percentage splits. | Clinical Importance: Clinicians must use this terminology to pinpoint the exact phase where a gait deviation occurs, ensuring highly targeted therapy.",
+    "Question: What is a Trendelenburg gait, and what compensatory mechanism does the patient use? | Answer: Trendelenburg gait indicates weakness of the gluteus medius. During single-limb support on the weak side, the pelvis drops on the opposite, unsupported swing side. To compensate and prevent falling, the patient leans their trunk laterally over the weak stance-side hip (called an abductor lurch) to center their center of mass. | Examiner Key Points: Gluteus medius weakness, contralateral pelvic drop, ipsilateral lateral trunk lean compensation. | Clinical Importance: Recognizing this compensation is critical to differentiate a primary hip pathology from spinal/nerve nerve compressive issues.",
+    "Question: Explain the pathomechanics behind 'quadriceps avoidance' gait and the trunk movement involved. | Answer: A patient with quadriceps weakness or knee pain cannot support knee flexion during loading response. To compensate, they lean their trunk forward (anterior trunk lean) to project the body line of gravity ahead of the knee axis. This mechanically locks the knee into extension, avoiding the need for quadriceps contraction. | Examiner Key Points: Anterior trunk lean, line of gravity position, passive knee extension moment. | Clinical Importance: Clinicians must strengthen the quadriceps and retrain upright posture to prevent secondary spine pain and knee hyperextension injuries (genu recurvatum).",
+    "Question: Contrast step length and stride length, and explain how a unilateral leg injury impacts both. | Answer: Step length is the distance from heel strike of one foot to heel strike of the opposite foot. Stride length is the distance from heel strike of one foot to the subsequent heel strike of the exact same foot (one full gait cycle). If a patient has a unilateral injury (e.g., painful left hip), they will demonstrate a shortened step length on the healthy right side because they want to spend less time bearing weight on the painful left leg. Stride length will be reduced bilaterally. | Examiner Key Points: Inter-heel distance vs same-heel distance, impact of painful stance phase on step length. | Clinical Importance: Essential to identify compensation patterns and measure functional recovery post-orthopedic surgeries.",
+    "Question: What is the 'Windlass Mechanism' during gait, and in which specific subphase does it perform its main mechanical task? | Answer: The Windlass Mechanism is the passive tightening of the plantar fascia as the toes are dorsiflexed. Its main mechanical task occurs during Terminal Stance and Pre-Swing (heel rise), where hyperextension of the metatarsophalangeal joints stretches the fascia, elevates the medial arch, and transforms the foot into a rigid lever for propulsive push-off. | Examiner Key Points: Plantar fascia tightening, heel rise subphases, structural rigid lever transformation. | Clinical Importance: Poor Windlass function (such as flat feet or hallux rigidus) reduces propulsion power and increases loading stress on the metatarsals.",
+    "Question: Describe the muscle action of the tibialis anterior from initial contact to loading response. | Answer: At initial contact, the tibialis anterior is active to hold the foot in neutral dorsiflexion. From initial contact to loading response, it undergoes a controlled eccentric contraction to resist the plantarflexion moment created by the ground reaction force, lowering the forefoot slowly to the ground and preventing a sudden foot slap. | Examiner Key Points: Eccentric contraction, control of plantarflexion moment, prevention of foot slap. | Clinical Importance: If a patient has common peroneal nerve injury, this eccentric control is lost, causing a foot-slap or foot-drop gait.",
+    "Question: Explain what 'double support' phase is and specify how cadence changes its duration. | Answer: Double support occurs when both feet are simultaneously touching the ground. It happens twice in a single walking cycle (at loading response and pre-swing) and accounts for about 20% of the cycle. As walking speed and cadence increase, the duration of double support decreases. When a person transitions to running, double support disappears entirely and is replaced by a float phase. | Examiner Key Points: Two occurrences per cycle, 20% total, relationship with speed, absence in running. | Clinical Importance: Elderly individuals or those with balance deficits often walk with a slow cadence to increase double-support duration, enhancing stability.",
+    "Question: Explain the 'Gluteus Maximus lurch' gait deviation and when it occurs. | Answer: A Gluteus Maximus lurch occurs due to weakness of the gluteus maximus (primary hip extensor). At initial contact, the patient throws their trunk backward (posterior trunk lean). This projects the line of gravity posterior to the hip joint axis, locking the hip in extension and preventing the trunk from collapsing forward without requiring hip extensor effort. | Examiner Key Points: Gluteus maximus weakness, posterior trunk lean, line of gravity projection. | Clinical Importance: Essential for identifying severe L5-S1 radiculopathy or localized gluteal injuries in neuromuscular rehabilitation.",
+    "Question: Define step width, and list two common reasons for a patient to walk with an abnormally wide step width. | Answer: Step width is the horizontal distance between the midpoints of the left and right heels, normally 7-9 cm. Common reasons for an abnormally wide gait include: 1) Sensory or cerebellar ataxia (balance deficits requiring a wider base of support for safety), and 2) Bilateral structural deformities or obesity. | Examiner Key Points: Normal measurement (7-9 cm), ataxia relation, widening base of support. | Clinical Importance: Identifying wide gait helps clinicians diagnose vestibular or cerebellar dysfunction and select appropriate assistive devices.",
+    "Question: Describe the role of the gastrocnemius and soleus during the stance phase of gait. | Answer: During mid-stance, the gaustroc-soleus complex acts eccentrically to control forward advancement of the tibia over the foot (tibial progression). During terminal stance and pre-swing, these muscles contract concentrically, producing rapid plantarflexion (push-off) to accelerate the body forward and upward. | Examiner Key Points: Eccentric tibial control, concentric plantarflexion, push-off translation. | Clinical Importance: Weakness of the plantarflexors results in a 'calcaneus gait' (heel walking), which causes a loss of push-off and significantly increases energy expenditure during walking."
+  ],
+  "mcqs": [
+    {
+      "question": "What is the typical percentage accounted for by the stance phase during a normal walking gait cycle?",
+      "options": ["40%", "50%", "60%", "70%"],
+      "answer": "60%",
+      "explanation": "The stance phase typically spans approximately 60% of the normal gait cycle, while the swing phase accounts for the remaining 40%."
+    },
+    {
+      "question": "Which of the following describes the linear distance measured between consecutive initial contacts of the same foot?",
+      "options": ["Step Length", "Stride Length", "Step Width", "Foot Progression Angle"],
+      "answer": "Stride Length",
+      "explanation": "Stride length is the linear distance covered during one full gait cycle, defined as the distance between two successive heel strikes of the same foot."
+    },
+    {
+      "question": "The time period of the gait cycle when both feet are simultaneously in contact with the ground is known as:",
+      "options": ["Single Support", "Double Support", "Float Phase", "Propulsive Phase"],
+      "answer": "Double Support",
+      "explanation": "Double support refers to the periods when both feet are touching the ground, occurring twice per walking cycle and making up about 20% of the total duration."
+    },
+    {
+      "question": "Which muscle acts eccentrically during the loading response phase to prevent the foot from slapping the ground?",
+      "options": ["Gastrocnemius", "Tibialis Anterior", "Soleus", "Rectus Femoris"],
+      "answer": "Tibialis Anterior",
+      "explanation": "The tibialis anterior acts eccentrically from initial contact to loading response to control the plantarflexion moment and lower the foot smoothly, preventing foot slap."
+    },
+    {
+      "question": "A patient with weakness of the gluteus medius shows a contralateral pelvic drop during early stance. This gait deviation is called:",
+      "options": ["Gluteus Maximus lurch", "Trendelenburg gait", "High steppage gait", "Vaulting gait"],
+      "answer": "Trendelenburg gait",
+      "explanation": "Weakness of the gluteus medius causes the pelvis to drop on the opposite, swing side. This is termed Trendelenburg gait (or abductor lurch if compensated)."
+    },
+    {
+      "question": "To compensate for weak quadriceps during loading response, a patient will typically display which trunk deviation?",
+      "options": ["Posterior trunk lean", "Anterior trunk lean", "Contra-lateral lateral lean", "Ipsi-lateral lateral lean"],
+      "answer": "Anterior trunk lean",
+      "explanation": "Leaning the trunk forward projects the line of gravity anterior to the knee axis, which creates a passive extension moment that stabilizes the weak knee."
+    },
+    {
+      "question": "What happens to the double-support phase when a walking subject transitions from walking to running?",
+      "options": ["It increases significantly", "It remains exactly the same", "It disappears entirely, replaced by a float phase", "It oscillates between 40% and 60%"],
+      "answer": "It disappears entirely, replaced by a float phase",
+      "explanation": "Double support does not exist in running. It is replaced by a period of non-contact called the float (or double-flight) phase."
+    },
+    {
+      "question": "The normal average step width (base of support) for a healthy standing adult is:",
+      "options": ["2 to 4 cm", "7 to 9 cm", "15 to 20 cm", "30 to 45 cm"],
+      "answer": "7 to 9 cm",
+      "explanation": "Normal step width during walking ranges between 7 and 9 cm (~3 inches). A wider base indicates balance or neurological deficits."
+    },
+    {
+      "question": "Throwing the trunk backward (posterior trunk lean) at initial contact to compensate for weak hip extensors refers to:",
+      "options": ["Gluteus Medius lurch", "Gluteus Maximus lurch", "Quadriceps avoidance lurch", "Hemiplegic circumduction"],
+      "answer": "Gluteus Maximus lurch",
+      "explanation": "A posterior trunk lean (Gluteus Maximus lurch) projects the line of gravity posterior to the hip axis, mechanically stabilizing the hip into extension."
+    },
+    {
+      "question": "Which of the following muscles is primarily responsible for pelvic stability in the frontal plane during single limb support?",
+      "options": ["Gluteus Maximus", "Gluteus Medius", "Adductor Longus", "Rectus Abdominis"],
+      "answer": "Gluteus Medius",
+      "explanation": "The gluteus medius of the stance limb contracts to hold the pelvis level, preventing contralateral pelvic drop during single-limb support."
+    },
+    {
+      "question": "What is the normal vertical Ground Reaction Force (GRF) curve during a typical walking gait cycle?",
+      "options": ["A flat horizontal line", "A single sharp spike", "An 'M' shaped double-peak curve", "A linear diagonal rise"],
+      "answer": "An 'M' shaped double-peak curve",
+      "explanation": "The vertical GRF curve has an 'M' shape, with the first peak representing loading response (weight acceptance) and the second peak representing propulsion."
+    },
+    {
+      "question": "Which of the following spatial parameters is defined as the angle between the foot's midline and the line of progression?",
+      "options": ["Step Width", "Stride Length", "Angle of Toe-Out (Foot Angle)", "Pelvic Tilt Angle"],
+      "answer": "Angle of Toe-Out (Foot Angle)",
+      "explanation": "The angle of toe-out (foot progression angle) is the angle between the long axis of the foot and the line of progression, normally around 7 degrees."
+    },
+    {
+      "question": "A patient with ankle dorsiflexor paralysis compensates during swing by flexing the hip and knee excessively to clear the foot. This is called:",
+      "options": ["Trendelenburg gait", "High Steppage gait", "Waddling gait", "Circumduction gait"],
+      "answer": "High Steppage gait",
+      "explanation": "High steppage gait involves excessive hip and knee flexion during swing to clear a foot with dropped dorsiflexor capability."
+    },
+    {
+      "question": "The primary biomechanical role of the concentric quadriceps muscle action during terminal swing is to:",
+      "options": ["Extend the knee and prepare the limb for initial contact", "Absorb knee flexion shocks", "Provide push-off vectoring", "Abduct the pelvic girdle"],
+      "answer": "Extend the knee and prepare the limb for initial contact",
+      "explanation": "During terminal swing, the quadriceps contracts to extend the knee, preparing the foot for optimal heel strike."
+    },
+    {
+      "question": "What gait deviation is characterized by a patient swinging their leg outward in a semi-circle during the swing phase to achieve foot clearance?",
+      "options": ["Vaulting", "Antalgic gait", "Circumduction", "Gluteal lurch"],
+      "answer": "Circumduction",
+      "explanation": "Circumduction involves swinging the leg in a lateral arc to clear the foot when hip/knee flexion or ankle dorsiflexion is impaired."
+    },
+    {
+      "question": "An antalgic gait is characterized primarily by a:",
+      "options": ["Shortened stance phase on the painful limb", "Shortened swing phase on the painful limb", "Prolonged double-support phase", "Wide step width"],
+      "answer": "Shortened stance phase on the painful limb",
+      "explanation": "An antalgic (painful) gait features a significantly shortened stance phase on the painful leg, as the patient wants to minimize weight-bearing on that limb."
+    },
+    {
+      "question": "The speed of walking is mathematically defined as the product of:",
+      "options": ["Step length and step width", "Cadence and step width", "Stride length and cadence (adjusted for time)", "Stride time and step time"],
+      "answer": "Stride length and cadence (adjusted for time)",
+      "explanation": "Walking speed is calculated as the product of stride length and cadence (stride frequency), indicating overall gait efficiency."
+    },
+    {
+      "question": "In a normal walking gait, maximum knee flexion during the swing phase is approximately:",
+      "options": ["15 degrees", "30 degrees", "60 degrees", "90 degrees"],
+      "answer": "60 degrees",
+      "explanation": "The knee reaches approximately 60 degrees of flexion during mid-swing, which is essential for proper foot clearance."
+    },
+    {
+      "question": "Which muscle acts eccentrically to control the forward advancement of the tibia over the foot during mid-stance?",
+      "options": ["Tibialis Anterior", "Soleus and Gastrocnemius", "Quadriceps Femoris", "Gluteus Maximus"],
+      "answer": "Soleus and Gastrocnemius",
+      "explanation": "The gastroc-soleus complex acts eccentrically during mid-stance to control tibial advancement, keeping the knee stable as the body passes over the foot."
+    },
+    {
+      "question": "When a patient pushes off the ground, the mechanical power is generated primarily by concentric contraction of the:",
+      "options": ["Plantarflexors", "Dorsiflexors", "Knee extensors", "Hip abductors"],
+      "answer": "Plantarflexors",
+      "explanation": "Concentric contraction of the plantarflexors (gastrocnemius-soleus) provides the main propulsive power ('push-off') during late stance."
+    },
+    {
+      "question": "A pelvic drop on the unsupported side during walking is prevented by isometric contraction of which muscle on the stance side?",
+      "options": ["Gluteus Minimus", "Gluteus Medius", "Piriformis", "Adductor Magnus"],
+      "answer": "Gluteus Medius",
+      "explanation": "The gluteus medius on the stance side contracts to stabilize the pelvis, preventing contralateral drop during single-leg stance."
+    },
+    {
+      "question": "What is the primary mechanical function of the first double-support phase in the walking cycle?",
+      "options": ["Forward leg acceleration", "Shock absorption and weight transfer", "Slowing tibial progression", "Toe clearance"],
+      "answer": "Shock absorption and weight transfer",
+      "explanation": "The first double support phase (loading response) accepts body weight from the rear foot to the front foot while dampening impact forces."
+    },
+    {
+      "question": "If a patient has a fused ankle in a plantarflexed position, what compensatory gait mechanism might they use during swing to clear the foot?",
+      "options": ["Anterior trunk lean", "Gluteal shrug", "Vaulting on the contralateral leg", "Antalgic limp"],
+      "answer": "Vaulting on the contralateral leg",
+      "explanation": "A plantarflexed ankle increases functional limb length. To clear this leg during swing, the patient may plantatflex the opposite ankle early (vaulting)."
+    },
+    {
+      "question": "Which joint motion is occurring at the ankle during the loading response phase of stance?",
+      "options": ["Controlled Plantarflexion", "Controlled Dorsiflexion", "Rapid Inversion", "Passive Eversion"],
+      "answer": "Controlled Plantarflexion",
+      "explanation": "During loading response, the ankle moves into controlled plantarflexion, regulated eccentrically by the tibialis anterior."
+    },
+    {
+      "question": "What is the normal step rate frequency (cadence) for healthy adults?",
+      "options": ["50-60 steps/min", "70-80 steps/min", "100-115 steps/min", "140-160 steps/min"],
+      "answer": "100-115 steps/min",
+      "explanation": "The normal cadence range for a healthy adult is typically 100 to 115 steps per minute."
+    },
+    {
+      "question": "During which phase of the gait cycle is the knee joint in its close-packed position of maximum stability?",
+      "options": ["Initial contact", "Mid-stance", "Pre-swing", "Initial swing"],
+      "answer": "Initial contact",
+      "explanation": "At initial contact (heel strike), the knee is in full extension (locked via the Screw-Home Mechanism), which is its close-packed position of stability."
+    },
+    {
+      "question": "An abnormally narrow base of support (step width close to zero or negative) is characteristic of:",
+      "options": ["Cerebellar ataxic gait", "Gluteus medius lurch", "Scissor gait (spastic diplegia)", "Quadriceps weakness lurch"],
+      "answer": "Scissor gait (spastic diplegia)",
+      "explanation": "Scissor gait involves hip adductor spasticity, crossing one leg over the other across the midline, resulting in a narrow base of support."
+    },
+    {
+      "question": "At terminal stance, the plantarflexor muscles switch from eccentric control to:",
+      "options": ["Isometric stabilization", "Concentric propulsion", "Passive stretching", "Eccentric braking"],
+      "answer": "Concentric propulsion",
+      "explanation": "At terminal stance and pre-swing, the plantarflexors transition to a concentric contraction to generate power for push-off."
+    },
+    {
+      "question": "The time spent in double support increases significantly in which of the following populations?",
+      "options": ["Elite sprinters", "Active young adults", "Elderly individuals with balance impairment", "Patients with hyperthyroidism"],
+      "answer": "Elderly individuals with balance impairment",
+      "explanation": "Fear of falling and balance deficits prompt individuals to walk slower, which increases double-support time to maximize stability."
+    },
+    {
+      "question": "In the sagittal plane, what represents the primary shock absorber of the lower extremity during loading response?",
+      "options": ["Hip flexors", "Knee extensors (eccentric quadriceps)", "Ankle plantarflexors", "Hamstrings"],
+      "answer": "Knee extensors (eccentric quadriceps)",
+      "explanation": "Eccentric quadriceps activity during loading response controls knee flexion to cushion the impact of heel strike."
+    }
+  ],
+  "reference": [
+    "Perry & Burnfield - Gait: Analysis and Common Disorders",
+    "Norkin & Levangie - Joint Structure and Function: A Comprehensive Analysis",
+    "Hamill & Knutzen - Biomechanical Basis of Human Movement"
+  ]
+}

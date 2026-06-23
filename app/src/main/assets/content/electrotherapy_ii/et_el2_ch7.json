@@ -1,0 +1,48 @@
+{
+  "subject": "Electrotherapy II",
+  "chapterId": "el2_ch7",
+  "chapterName": "Therapeutic Ultrasound (US)",
+  "definition": [
+    "Therapeutic Ultrasound utilizes high-frequency acoustic waves to produce thermal and non-thermal (mechanical) physiological effects in tissues."
+  ],
+  "principle": [],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "The transducer head must be kept constantly moving to avoid hot spots and standing wave formation."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "What is the piezoelectric effect in ultrasound transducer heads?"
+  ],
+  "mcqs": [
+    {
+      "question": "Which frequency list represents standard therapeutic ultrasound?",
+      "options": [
+        "1 MHz and 3 MHz",
+        "10 kHz and 20 kHz",
+        "27.12 MHz",
+        "2450 MHz"
+      ],
+      "answer": "1 MHz and 3 MHz",
+      "explanation": "Therapeutic ultrasound typically uses high high frequencies of 1 MHz (for deeper tissues) and 3 MHz (for superficial tissues)."
+    }
+  ],
+  "reference": [
+    "Clayton's Electrotherapy - Ultrasound"
+  ]
+}

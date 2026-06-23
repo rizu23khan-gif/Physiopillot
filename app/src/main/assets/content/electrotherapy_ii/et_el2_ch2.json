@@ -1,0 +1,508 @@
+{
+  "subject": "Electrotherapy II",
+  "chapterId": "el2_ch2",
+  "chapterName": "Transcutaneous Electrical Nerve Stimulation (TENS)",
+  "definition": [
+    "Transcutaneous Electrical Nerve Stimulation (TENS) is the application of low-frequency current in the form of pulsed rectangular currents through surface electrodes placed on the patient's skin to modulate and reduce pain.",
+    "It is a highly popular, non-invasive electrotherapeutic modality widely used by physiotherapists to manage both acute and chronic pain syndromes."
+  ],
+  "principle": [
+    "TENS acts on the underlying neurophysiological principles of the Pain Gate Control Theory and the Endogenous Opiate Release System.",
+    "High-frequency TENS stimulates large-diameter A-beta sensory fibers to close the pain gate at the spinal cord (substantia gelatinosa), blocking slow-pain inputs from A-delta and C fibers (presynaptic inhibition).",
+    "Low-frequency, high-intensity TENS stimulates small-diameter afferents to induce the release of enkephalins and beta-endorphins within the central nervous system.",
+    "It avoids tissue accommodation by utilizing various modulation modes such as frequency, duration, or amplitude sweep."
+  ],
+  "equipment": [
+    "TENS pulse generator (portable or clinical stimulator)",
+    "Electrode lead wires",
+    "Self-adhesive or carbon-rubber surface electrodes",
+    "Electrode coupling gel (if using carbon rubber)",
+    "Adhesive tape or straps",
+    "Saline water and cotton for skin cleaning",
+    "Towels",
+    "Alcohol swabs"
+  ],
+  "parameters": {
+    "currentType": "Pulsed rectangular current",
+    "frequencyRange": "1 Hz to 150 Hz",
+    "highTENSFrequency": "100–150 Hz",
+    "highTENSPulseWidth": "100 and 500 ms (as specified in textbook source)",
+    "highTENSIntensity": "12–30 mA (sensory warmth, below motor threshold)",
+    "lowTENSFrequency": "1–5 Hz",
+    "lowTENSPulseWidth": "100 and 500 ms (as specified in textbook source)",
+    "lowTENSIntensity": "30 mA or more (producing clear muscle twitching/sensory contraction)",
+    "burstTENSRepeatRate": "1–5 bursts per second",
+    "burstTrainDuration": "70 ms",
+    "treatmentTime": "40 minutes for single daily session, or up to 24 hours continuously using portable units"
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Presynaptic Inhibition (Pain Gate Effect)",
+      "frequency": "100–150 Hz (High TENS)",
+      "mechanism": [
+        "Excitation of low-threshold, large-diameter mechanosensitive A-beta myelinated fibers.",
+        "Increased inhibitory interneuron activity in the substantia gelatinosa (SG) of the spinal dorsal horn.",
+        "Blocking of transmission cells (T cells), preventing nociceptive inputs from A-delta and C fibers from traveling up the lateral spinothalamic tract to the cerebral cortex."
+      ]
+    },
+    {
+      "effect": "Endogenous Opiate Release System",
+      "frequency": "1–5 Hz (Low TENS)",
+      "mechanism": [
+        "In Low TENS, high-intensity pulses activate small-diameter motor and nociceptive afferents, which project to the midbrain.",
+        "Triggers interaction in the periaqueductal gray (PAG) matter and raphe nucleus of the medulla.",
+        "Induces the release of opiate-like chemical substances such as enkephalins and beta-endorphins at the spinal cord level to block descending pain transmission."
+      ]
+    },
+    {
+      "effect": "Alternative Dual System Modulation",
+      "frequency": "Combined frequency (Burst TENS)",
+      "mechanism": [
+        "Burst TENS consists of high frequency trains repeated at a low rate of 1–5 pulses/sec.",
+        "Each train or burst acts for approximately 70 ms.",
+        "Combines the immediate pain-gating action of conventional TENS with the sustained opioid-release action of low-frequency acupuncture TENS."
+      ]
+    }
+  ],
+  "indications": [
+    "Chronic pain syndrome",
+    "Phantom limb pain",
+    "Reflex sympathetic dystrophy (RSD) / Complex regional pain syndrome (CRPS)",
+    "Postoperative pain",
+    "Obstetric pain"
+  ],
+  "contraindications": {
+    "general": [
+      "Patients fitted with cardiac pacemakers (risk of pacemaker frequency interference)",
+      "First three months of pregnancy (avoid abdominal and pelvic placement)",
+      "Active hemorrhagic conditions"
+    ],
+    "local": [
+      "Placement directly over the carotid sinus (could trigger extreme vasodilation/bradycardia)",
+      "Placement directly over or near the eyes",
+      "Placement inside the mouth or over mucous membranes",
+      "Placement directly over open wounds, cuts, or damaged skin",
+      "Placement over thrombophlebitis or venous thrombosis areas"
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Greet the patient, introduce yourself, and establish rapport.",
+      "Check the patient's case sheet and verify treatment instructions.",
+      "Explain the exact procedure and the mild sensory sensations they should expect to experience.",
+      "Screen the patient for critical general and local contraindications (such as a cardiac pacemaker, cardiac disease, or early pregnancy).",
+      "Position the patient comfortably, fully supported, so that both the painful area and the stimulator controls are easily accessible."
+    ],
+    "apparatusPreparation": [
+      "Check the stimulator, ensuring the battery is fully charged.",
+      "Inspect lead wires and connections to ensure there is no insulation damage.",
+      "Verify that all intensity control knobs are set strictly to zero before switching on the machine.",
+      "Perform a brief self-test of the unit on your own palm or forearm to verify normal output."
+    ],
+    "skinPreparation": [
+      "Inspect the skin over the treatment area for open wounds, rashes, or local hypersensitivity.",
+      "Clean the treatment area using saline water or mild soap and cotton to remove dirt, sebum, and sweat, reducing skin impedance.",
+      "Gently pat the skin dry with a clean towel."
+    ],
+    "electrodePlacement": [
+      "Identify the area of greater intensity of pain and position the active electrodes directly over or around it.",
+      "Alternatively, place electrodes over a superficial nerve trunk proximal to the site of pain.",
+      "Position electrodes over the dermatome corresponding to the spinal segment supplying the painful zone.",
+      "Or place electrodes over the nerve trunk trigger points that map directly to the painful pain fields."
+    ],
+    "treatmentProcedure": [
+      "Securely connect the electrode leads to the stimulator jacks.",
+      "Switch on the stimulator and select the appropriate mode: High TENS, Low TENS, or Burst TENS according to the patient file.",
+      "Gently and gradually increase the intensity control from zero, communicating with the patient continuously.",
+      "For High TENS, increase until the patient reports a mild, comfortable prickling warmth without muscle twitching (typically 12–30 mA).",
+      "For Low TENS, elevate the current until a visible, comfortable muscle contraction or twitch is observed (typically 30 mA or more).",
+      "Administer the treatment for 40 minutes, checking on the patient regularly to adjust for accommodation.",
+      "At the end of the session, slowly reduce the intensity control back to zero, turn off the unit, gently remove the electrodes, and inspect the skin for any localized irritation."
+    ]
+  },
+  "precautions": [
+    "Always ensure the stimulator's intensity controls are strictly at zero before applying or removing electrodes.",
+    "Do not allow the patient to fall asleep during treatment or touch surrounding metal objects.",
+    "Inspect the treatment area after session; if mild erythema is present, apply a soothing talcum powder.",
+    "Avoid continuous over-treatment to prevent mild chemical or electrolytic reaction below the skin surface.",
+    "Do not pull on the electrode leads to avoid damage to wires and contact interfaces."
+  ],
+  "clinicalPearls": [
+    "High-frequency TENS acts immediately but has brief carry-over; it is ideal for active movement or exercise preparation.",
+    "Low-frequency, high-intensity TENS acts slowly (20–30 mins onset) but provides long-lasting pain relief via systemic endorphin release.",
+    "Although clinically most units use microsecond pulse durations, the supreme J. Singh textbook explicitly lists TENS pulse widths as 100 to 500 ms; memorize this for exams.",
+    "Placement of electrodes directly over the site of maximum pain is usually the most clinically robust starting option.",
+    "Clean skin and good gel coupling are the best safeguards against high skin resistance and patchy current hotspots."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Chronic Low Back Pain",
+      "position": "Prone lying, supported with pillows under the abdomen",
+      "electrodePlacement": "Four electrodes placed over the paraspinal muscles around the site of lumbar pain",
+      "frequency": "100–150 Hz (High TENS)",
+      "purpose": "Sensory pain gating to facilitate daily movements"
+    },
+    {
+      "condition": "Acute Postoperative Lumbar Pain",
+      "position": "Comfortable side-lying or supported supine lying",
+      "electrodePlacement": "Parallel to the surgical incision line, at least 2 cm away from the wound margins",
+      "frequency": "100–150 Hz (High TENS)",
+      "purpose": "Inhibit acute incisional pain inputs and reduce reliance on pharmacological analgesics"
+    },
+    {
+      "condition": "Phantom Limb Pain (Post-Amputation)",
+      "position": "Supported sitting or recumbent position",
+      "electrodePlacement": "Placed over the proximal nerve trunk of the amputated limb or contralateral intact limb",
+      "frequency": "1–5 Hz (Low TENS) or Burst TENS",
+      "purpose": "Stimulate deep neuromodulatory pathways and trigger endogenous opiate release"
+    }
+  ],
+  "vivaQuestions": [
+    "What is the definition of TENS according to the source?",
+    "Explain the physiological rationale behind High TENS.",
+    "Describe the physiological mechanism involved in Low TENS.",
+    "State the exact parameter ranges associated with High TENS.",
+    "What parameters are used when configuring Low TENS?",
+    "How does Burst TENS combine properties of both High and Low TENS?",
+    "Describe the four primary electrode placements used for TENS treatment.",
+    "What are the main indications for using TENS clinically?",
+    "Why is TENS absolutely contraindicated in patients with cardiac pacemakers?",
+    "Explain why TENS must not be applied directly over the carotid sinus."
+  ],
+  "mcqs": [
+    {
+      "question": "What is the primary clinical objective of Transcutaneous Electrical Nerve Stimulation (TENS)?",
+      "options": [
+        "Muscle hypertrophy",
+        "Deep tissue heating",
+        "Symptomatic pain relief",
+        "Bacterial destruction"
+      ],
+      "answer": "Symptomatic pain relief",
+      "explanation": "TENS is designed to satisfy low-frequency pain modulation via sensory and motor level stimulation."
+    },
+    {
+      "question": "Which neurophysiological theory explains the mechanism of conventional High TENS?",
+      "options": [
+        "Arndt-Schultz Principle",
+        "Pain Gate Control Theory",
+        "Inverse Square Law",
+        "Joule's Law of heating"
+      ],
+      "answer": "Pain Gate Control Theory",
+      "explanation": "Conventional High TENS relies on the Pain Gate Control Theory proposed by Melzack and Wall."
+    },
+    {
+      "question": "The Pain Gate Control Theory was first proposed in which year?",
+      "options": [
+        "1946",
+        "1965",
+        "1982",
+        "1991"
+      ],
+      "answer": "1965",
+      "explanation": "The pain gate theory was first postulated by Ron Melzack and Pat Wall in 1965."
+    },
+    {
+      "question": "In which year did Melzack and Wall modify their famous pain gate theory?",
+      "options": [
+        "1965",
+        "1972",
+        "1982",
+        "1985"
+      ],
+      "answer": "1982",
+      "explanation": "Melzack and Wall further modified the pain gate control theory in 1982."
+    },
+    {
+      "question": "Where does the synapse and pain gate mechanism operate in the spinal cord?",
+      "options": [
+        "Anterior horn cells",
+        "Lateral spinothalamic tract",
+        "Substantia gelatinosa of the dorsal horn",
+        "Nucleus of the thalamus"
+      ],
+      "answer": "Substantia gelatinosa of the dorsal horn",
+      "explanation": "The pain gate operates in the substantia gelatinosa and nucleus proprius of the posterior dorsal horn."
+    },
+    {
+      "question": "Which specific nerve fibers are stimulated by High TENS to close the pain gate?",
+      "options": [
+        "C fibers",
+        "A-delta fibers",
+        "Large-diameter A-beta myelinated fibers",
+        "Beta motor fibers"
+      ],
+      "answer": "Large-diameter A-beta myelinated fibers",
+      "explanation": "High TENS selectively activates large-diameter, low-threshold A-beta myelinated sensory fibers."
+    },
+    {
+      "question": "What is the characteristic conduction velocity of A-delta fibers as stated in the textbook?",
+      "options": [
+        "0.1–1 m/s",
+        "2–5 m/s",
+        "5–30 m/s",
+        "50–100 m/s"
+      ],
+      "answer": "5–30 m/s",
+      "explanation": "The textbook states A-delta fibers conduct fast pain with a velocity of 5–30 m/s."
+    },
+    {
+      "question": "What is the characteristic conduction velocity of slow C-fibers according to the textbook?",
+      "options": [
+        "2–5 m/s",
+        "5–30 m/s",
+        "40–60 m/s",
+        "100–120 m/s"
+      ],
+      "answer": "2–5 m/s",
+      "explanation": "Slow-conducting, non-myelinated C-fibers conduct slow pain at 2–5 m/s."
+    },
+    {
+      "question": "Which frequency parameter is designated for High TENS?",
+      "options": [
+        "1–5 Hz",
+        "10–20 Hz",
+        "50–80 Hz",
+        "100–150 Hz"
+      ],
+      "answer": "100–150 Hz",
+      "explanation": "Conventional or High TENS utilizes high-frequency stimulation between 100 and 150 Hz."
+    },
+    {
+      "question": "Which of the following describes the pulse width parameter range of High TENS in the source?",
+      "options": [
+        "10 and 50 ms",
+        "100 and 500 ms",
+        "20 to 50 ms",
+        "5 to 10 ms"
+      ],
+      "answer": "100 and 500 ms",
+      "explanation": "The Jagmohan Singh Textbook of Electrotherapy explicitly identifies TENS pulse widths as 100 and 500 ms."
+    },
+    {
+      "question": "What level of current intensity is typically used in conventional High TENS?",
+      "options": [
+        "2–5 mA",
+        "12–30 mA",
+        "30–50 mA",
+        "100 mA"
+      ],
+      "answer": "12–30 mA",
+      "explanation": "The sensory warmth of conventional High TENS typically requires an intensity range of 12–30 mA."
+    },
+    {
+      "question": "Acupuncture-like Low TENS operates in which frequency range?",
+      "options": [
+        "1–5 Hz",
+        "10–20 Hz",
+        "50–100 Hz",
+        "100–150 Hz"
+      ],
+      "answer": "1–5 Hz",
+      "explanation": "Acupuncture-like Low TENS is configured with low frequencies of 1–5 Hz."
+    },
+    {
+      "question": "What level of intensity is typical for Low TENS to stimulate descending opiate pathways?",
+      "options": [
+        "1–5 mA",
+        "12–30 mA",
+        "30 mA or more",
+        "Less than 10 mA"
+      ],
+      "answer": "30 mA or more",
+      "explanation": "Low TENS uses a high current intensity of 30 mA or more, sufficient to trigger opioid release."
+    },
+    {
+      "question": "Which descending neurotransmitters are released at the spinal level following Low TENS?",
+      "options": [
+        "Histamines",
+        "Acetylcholine",
+        "Enkephalins and endorphins",
+        "Melatonin"
+      ],
+      "answer": "Enkephalins and endorphins",
+      "explanation": "Low frequency high intensity stimulation triggers the release of central opiate-like enkephalins and endorphins."
+    },
+    {
+      "question": "Which type of TENS consists of high frequency trains repeated at a low rate of 1–5 times per second?",
+      "options": [
+        "High TENS",
+        "Low TENS",
+        "Burst TENS",
+        "Microcurrent therapy"
+      ],
+      "answer": "Burst TENS",
+      "explanation": "Burst TENS is a series of impulse trains repeated 1–5 times per second."
+    },
+    {
+      "question": "In Burst TENS, each individual impulse train (burst) lasts for how long?",
+      "options": [
+        "20 ms",
+        "50 ms",
+        "70 ms",
+        "100 ms"
+      ],
+      "answer": "70 ms",
+      "explanation": "Each train of Burst TENS has a duration of approximately 70 ms."
+    },
+    {
+      "question": "TENS units utilize which primary current waveform?",
+      "options": [
+        "Continuous sinusoidal currents",
+        "Pulsed rectangular currents",
+        "Sustained galvanic currents",
+        "Surged faradic currents"
+      ],
+      "answer": "Pulsed rectangular currents",
+      "explanation": "The textbook defines TENS as low frequency current delivered in pulsed rectangular currents."
+    },
+    {
+      "question": "Which of the following is a classic clinical indication for TENS treatment?",
+      "options": [
+        "Active bleeding",
+        "Phantom limb pain",
+        "Malignant tumor site",
+        "Cardiac arrhythmias"
+      ],
+      "answer": "Phantom limb pain",
+      "explanation": "The source identifies phantom limb pain, chronic pain, RSD, and obstetric/postop pain as indications."
+    },
+    {
+      "question": "Placement of TENS electrodes directly over which structure is strictly contraindicated?",
+      "options": [
+        "Nerve trunk trigger points",
+        "Lumbosacral region",
+        "Carotid sinus",
+        "Corresponding dermatome"
+      ],
+      "answer": "Carotid sinus",
+      "explanation": "Direct stimulation of the carotid sinus can disturb baroreceptors, presenting extreme cardiac risks."
+    },
+    {
+      "question": "TENS is absolutely contraindicated in patients with which implanted device?",
+      "options": [
+        "Metal orthopedic plate",
+        "Cardiac pacemaker",
+        "Intrauterine copper-T",
+        "Silicon joint implant"
+      ],
+      "answer": "Cardiac pacemaker",
+      "explanation": "TENS waveforms can interfere with the signaling frequency of cardiac pacemakers."
+    },
+    {
+      "question": "During pregnancy, TENS must be strictly avoided during which period?",
+      "options": [
+        "First three months",
+        "Second trimester",
+        "Last month",
+        "During active labor"
+      ],
+      "answer": "First three months",
+      "explanation": "TENS therapy should be avoided in the first three months of pregnancy."
+    },
+    {
+      "question": "Continuous application of High TENS for prolonged durations can cause:",
+      "options": [
+        "Deep thermal burns",
+        "Electrolytic reaction below the skin",
+        "Muscle fiber rupture",
+        "Nerve degenerating necrosis"
+      ],
+      "answer": "Electrolytic reaction below the skin",
+      "explanation": "Prolonged continuous application can create undesirable electrolytic changes below the electrodes."
+    },
+    {
+      "question": "Which process describes the natural adaptation of a nerve membrane to a constant electrical current?",
+      "options": [
+        "Accommodation",
+        "Polarization",
+        "Conductance",
+        "Impedance"
+      ],
+      "answer": "Accommodation",
+      "explanation": "Accommodation is the physiological adaptation of nerve tissue to a stable, unchanged electrical field."
+    },
+    {
+      "question": "For a single daily TENS treatment, what is the standard recommended duration?",
+      "options": [
+        "5–10 minutes",
+        "15–20 minutes",
+        "40 minutes",
+        "90 minutes"
+      ],
+      "answer": "40 minutes",
+      "explanation": "The textbook states that TENS can be used for a single daily treatment of 40 minutes duration."
+    },
+    {
+      "question": "What is the maximum duration in a 24-hour cycle that portable TENS units can be utilized continuously?",
+      "options": [
+        "4 hours",
+        "8 hours",
+        "12 hours",
+        "24 hours"
+      ],
+      "answer": "24 hours",
+      "explanation": "Portable TENS units can be worn and used continuously for up to 24 hours."
+    },
+    {
+      "question": "If mild erythema occurs on the skin following TENS therapy, what is the best immediate step?",
+      "options": [
+        "Apply petroleum jelly",
+        "Apply comforting powder",
+        "Shave the area immediately",
+        "Place a cold pack"
+      ],
+      "answer": "Apply comforting powder",
+      "explanation": "If mild skin redness occurs from TENS, applying a soothing talcum powder is recommended."
+    },
+    {
+      "question": "Prior to treatment, skin prep is done with saline or soap to reduce what property?",
+      "options": [
+        "Skin impedance and resistance",
+        "Metabolism of cells",
+        "Subcutaneous fat density",
+        "Capillary blood flow"
+      ],
+      "answer": "Skin impedance and resistance",
+      "explanation": "Washing the skin removes sebum and sweat, lowering high skin resistance to facilitate smooth current flow."
+    },
+    {
+      "question": "The state where the nerve is positive outside and negative inside is called:",
+      "options": [
+        "Polarized state",
+        "Accommodated state",
+        "Refractory period",
+        "Electrolytic phase"
+      ],
+      "answer": "Polarized state",
+      "explanation": "In a relaxed state without active firing, a healthy resting nerve remains positive outside and negative inside."
+    },
+    {
+      "question": "Which of the following of TENS electrode placements targets corresponding spinal sensory segments?",
+      "options": [
+        "Area of maximum pain",
+        "Directly over eyeballs",
+        "Dermatome placement",
+        "Mucous membranes placement"
+      ],
+      "answer": "Dermatome placement",
+      "explanation": "Dermatomal placement routes stimulation along corresponding segmental spinal nerve roots."
+    },
+    {
+      "question": "The therapeutic benefits of Burst TENS are derived from:",
+      "options": [
+        "Both gate control and opioid release systems",
+        "Deep thermal heating only",
+        "Skeletal muscle training alone",
+        "Tissue electrolysis"
+      ],
+      "answer": "Both gate control and opioid release systems",
+      "explanation": "Burst TENS blends high-frequency trains with low repetition, activating both gating and opiate mechanisms."
+    }
+  ],
+  "reference": [
+    "Jagmohan Singh - Textbook of Electrotherapy - Low Frequency Currents - Transcutaneous Electrical Nerve Stimulation",
+    "Melzack & Wall - Pain Gate Control Theory (1965/1982)"
+  ]
+}

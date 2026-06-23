@@ -1,0 +1,86 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch29",
+  "chapterName": "Knee Joint & Leg Compartments",
+  "definition": [
+    "Chapter Overview: This chapter is highly central to physical therapy education. It covers the knee joint complex—which experiences tremendous mechanical stress—including its ligaments and menisci, the essential biomechanical 'locking and unlocking' mechanism, and the three structural muscular compartments of the leg.",
+    "Knee Joint: A complex, atypical synovial hinge joint involving the medial and lateral tibiofemoral joints and the patellofemoral joint. It permits flexion, extension, and accessory conjunct rotation.",
+    "Cruciate Ligaments: The Anterior Cruciate Ligament (ACL) and Posterior Cruciate Ligament (PCL) lie intracapsularly but extrasynovially. The ACL prevents anterior translation of the tibia relative to the femur; the PCL prevents posterior translation.",
+    "Menisci (Medial & Lateral): C-shaped and O-shaped fibrocartilaginous shock absorbers resting on the tibial plateau. The medial meniscus is more fixed, making it far more prone to tearing.",
+    "Leg Compartments: Divided by intermuscular septa and the interosseous membrane into Anterior (dorsiflexors, deep peroneal nerve), Lateral (evertors, superficial peroneal nerve), and Posterior (plantarflexors, tibial nerve)."
+  ],
+  "principle": [
+    "Locking and Unlocking Mechanism: 'Locking' is the final 5 degrees of knee extension, where the femur rotates medially (screwing home) on the fixed tibia, stabilizing the knee. 'Unlocking' is initiated by the Popliteus muscle, which laterally rotates the femur on the fixed tibia to allow flexion.",
+    "Synovial Extension (Suprapatellar Bursa): The synovial membrane extends superiorly deep to the quadriceps tendon for about 5 cm, forming the suprapatellar bursa. This is clinically significant as knee effusions rapidly fill this space."
+  ],
+  "equipment": [
+    "Articulated human knee models detailing ligaments and menisci",
+    "Goniometer for measuring knee range of motion (ROM)",
+    "Orthopedic inspection assessment table",
+    "Knee orthoses / braces examples"
+  ],
+  "parameters": {
+    "KneeROMNormalRange": "Flexion: 0 to 135-140 degrees; extension: 0 degrees (hyperextension up to 5-10 degrees can be normal).",
+    "AnteriorCompartmentPressureThreshold": "Normal compartment pressure is under 10 mmHg. Pressure exceeding 30 mmHg can compromise tissue perfusion, causing compartment syndrome."
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "O'Donoghue's Unhappy Triad: A severe knee injury involving simultaneous tearing of the Anterior Cruciate Ligament (ACL), Medial Collateral Ligament (MCL), and Medial Meniscus. It usually results from a lateral impact to the knee when the foot is fixed on the ground.",
+    "Foot Drop: Compression of the common peroneal (fibular) nerve around the neck of the fibula paralyzes the anterior and lateral leg compartments. The patient loses dorsiflexion and eversion, presenting with a foot drop and foot-slap/steppage gait.",
+    "Shin Splints (Medial Tibial Stress Syndrome): Inflammation of the periosteum of the tibia, usually at the origin of the tibialis posterior or soleus. Common in runners, causing anterior-medial leg pain."
+  ],
+  "vivaQuestions": [
+    "Question: Explain the locking and unlocking mechanics of the knee joint. Which muscle is the key? | Answer: Locking occurs in the final degrees of knee extension, causing medially inward rotation of the femur on the tibia (or lateral outer rotation of the tibia on the femur if the foot is free), which locks the joint in maximum stability. Unlocking is initiated by the Popliteus muscle, which laterally rotates the femur on the tibia (or medially rotates tibia on the femur) to permit knee flexion. Popliteus is the 'key' to the knee. | Examiner Key Points: Femur medial rotation to lock, Popliteus lateral rotation to unlock, closed kinetic chain mechanics.",
+    "Question: Why is the Medial Meniscus more frequently torn than the Lateral Meniscus? | Answer: The medial meniscus is C-shaped, larger in diameter, and firmly attached to the deep fibers of the Medial Collateral Ligament (MCL). This lack of mobility makes it less adaptable to twisting stresses. In contrast, the lateral meniscus is O-shaped, smaller, and separated from the Lateral Collateral Ligament, making it far more mobile and less prone to injury. | Examiner Key Points: C-shaped vs O-shaped, attachment to MCL makes medial meniscus less mobile.",
+    "Question: What nerve is endangered in a fracture of the neck of the fibula, and what is the clinical presentation if injured? | Answer: The Common Peroneal (Fibular) nerve, which winds around the neck of the fibula. Injury leads to Foot Drop, caused by the paralysis of the anterior (dorsiflexor) and lateral (evertor) compartments of the leg. | Examiner Key Points: Common peroneal nerve, fibular neck, foot drop, loss of dorsiflexion/eversion."
+  ],
+  "mcqs": [
+    {
+      "question": "Which muscle acts as the key to unlock the knee joint by rotating the femur laterally on the tibia?",
+      "options": [
+        "Sartorius",
+        "Popliteus",
+        "Plantaris",
+        "Gastrocnemius"
+      ],
+      "answer": "Popliteus"
+    },
+    {
+      "question": "A physical therapist diagnoses a patient with foot drop. The patient cannot perform ankle dorsiflexion or foot eversion. Which nerve is most likely damaged?",
+      "options": [
+        "Tibial nerve",
+        "Deep peroneal nerve",
+        "Common peroneal nerve",
+        "Saphenous nerve"
+      ],
+      "answer": "Common peroneal nerve"
+    },
+    {
+      "question": "O'Donoghue's Unhappy Triad involves a tear of the ACL, MCL, and which of the following structures?",
+      "options": [
+        "Lateral meniscus",
+        "Medial meniscus",
+        "Posterior cruciate ligament",
+        "Patellar ligament"
+      ],
+      "answer": "Medial meniscus"
+    }
+  ],
+  "reference": [
+    "B.D. Chaurasia's Human Anatomy, Volume II - Lower Limb, Chapter 6 & 7: Knee Joint & Leg Compartments.",
+    "Norkin & White's Joint Structure & Function, A Comprehensive Analysis of Knee Biomechanics."
+  ]
+}

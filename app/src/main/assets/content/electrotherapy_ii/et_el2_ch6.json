@@ -1,0 +1,48 @@
+{
+  "subject": "Electrotherapy II",
+  "chapterId": "el2_ch6",
+  "chapterName": "LASER Therapy",
+  "definition": [
+    "LASER (Light Amplification by Stimulated Emission of Radiation) therapy uses monochromatic, coherent, and collimated light to produce photochemical effects in tissues."
+  ],
+  "principle": [],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Both the therapist and the patient must wear protective eyewear specific to the laser's wavelength during treatment."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "What are the three core properties of laser light?"
+  ],
+  "mcqs": [
+    {
+      "question": "What does the abbreviation LASER stand for?",
+      "options": [
+        "Light Amplification by Stimulated Emission of Radiation",
+        "Light Absorption and Stimulated Energy Release",
+        "Low Amplitude Stimulated Energy Radiation",
+        "Localized Amplification of Shortwave Electromagnetic Radiation"
+      ],
+      "answer": "Light Amplification by Stimulated Emission of Radiation",
+      "explanation": "LASER is an acronym for Light Amplification by Stimulated Emission of Radiation."
+    }
+  ],
+  "reference": [
+    "Low Level Laser Therapy - Clinical Practice"
+  ]
+}

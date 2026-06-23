@@ -1,0 +1,68 @@
+{
+  "subject": "Anatomy",
+  "chapterId": "anat_ch22",
+  "chapterName": "Superior Vena Cava, Aorta, Pulmonary Trunk, and Thymus",
+  "definition": [
+    "Chapter Overview: This chapter outlines the major blood vessels of the superior and middle mediastinum and covers the thymus gland.",
+    "Superior Vena Cava (SVC): A large, valveless vein that carries deoxygenated blood from the upper half of the body to the right atrium.",
+    "Aorta: The major systemic arterial trunk, consisting of the ascending aorta, aortic arch, and descending aorta in the thorax."
+  ],
+  "principle": [
+    "SVC Formation: Formed by the union of the right and left brachiocephalic veins at the level of the 1st right costal cartilage.",
+    "Aortic Arch Branches: Arch of the aorta gives off three main branches (from anterior to posterior): 1) Brachiocephalic artery, 2) Left common carotid artery, and 3) Left subclavian artery.",
+    "Thymus: A primary lymphoid organ situated in the anterior portion of the superior mediastinum. It is highly active in children but undergoes post-puberty fatty involution."
+  ],
+  "equipment": [
+    "Great vessels anatomical model",
+    "Thymus gland development charts",
+    "X-ray slides of mediastinal widening"
+  ],
+  "parameters": {
+    "SVCLength": "Approx. 7 cm in adults",
+    "AorticArchLevel": "Starts and ends at the T4-T5 sternal angle level"
+  },
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Coarctation of Aorta: Congenital narrowing of the aorta, often leading to collateral circulation through intercostal arteries, causing rib-notching visible on chest radiographs.",
+    "SVC Syndrome: Compression of the SVC (often by lymphadenopathy or bronchogenic carcinoma) leads to swelling and venous congestion of the head, neck, and upper limbs."
+  ],
+  "vivaQuestions": [
+    "Question: Name the three major branches arising from the arch of the aorta in anatomical sequence. | Answer: The brachiocephalic trunk, the left common carotid artery, and the left subclavian artery. | Examiner Key Points: Brachiocephalic trunk, left common carotid, left subclavian. | Clinical Importance: Crucial for evaluating upper limb and cerebral circulation.",
+    "Question: What veins unite to form the superior vena cava, and where does this union occur? | Answer: It is formed by the union of the right and left brachiocephalic veins at the level of the lower border of the 1st right costal cartilage. | Examiner Key Points: Right and left brachiocephalic veins, 1st right costal cartilage. | Clinical Importance: Target zone for central venous catheters."
+  ],
+  "mcqs": [
+    {
+      "question": "Which branch is the first to arise from the arch of the aorta?",
+      "options": [
+        "Left common carotid artery",
+        "Left subclavian artery",
+        "Brachiocephalic trunk",
+        "Right common carotid artery"
+      ],
+      "answer": "Brachiocephalic trunk"
+    },
+    {
+      "question": "At what vertebral level does the arch of the aorta begin and end?",
+      "options": [
+        "T2",
+        "T4-T5",
+        "T8",
+        "T12"
+      ],
+      "answer": "T4-T5"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "subject": "Electrotherapy II",
+  "chapterId": "el2_ch4",
+  "chapterName": "Shortwave Diathermy (SWD)",
+  "definition": [
+    "Shortwave Diathermy is a deep heating modality that utilizes high-frequency electromagnetic field currents to generate heat within body tissues."
+  ],
+  "principle": [],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Ensure there are no metal implants, metal tables, or wet dressings anywhere in the electromagnetic field."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "What is the standard frequency used for therapeutic SWD?"
+  ],
+  "mcqs": [
+    {
+      "question": "What is the most commonly used frequency in therapeutic SWD?",
+      "options": [
+        "13.56 MHz",
+        "27.12 MHz",
+        "40.68 MHz",
+        "2450 MHz"
+      ],
+      "answer": "27.12 MHz",
+      "explanation": "27.12 MHz is the standard, most frequently allocated FCC band for shortwave diathermy applications."
+    }
+  ],
+  "reference": [
+    "Textbook of Electrotherapy - Jagmohan Singh"
+  ]
+}
