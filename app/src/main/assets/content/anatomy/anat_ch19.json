@@ -42,28 +42,200 @@
   ],
   "vivaQuestions": [
     "Question: Compare the anatomical features of the right and left lungs (lobes, fissures, unique features). | Answer: Right lung has 3 lobes (superior, middle, inferior) and 2 fissures (horizontal, oblique); it is larger and heavier. Left lung has 2 lobes (superior, inferior), 1 fissure (oblique), the cardiac notch, and the lingula. | Examiner Key Points: Number of lobes, fissures, cardiac notch/lingula presence. | Clinical Importance: Crucial for lobectomy and segmentectomies.",
-    "Question: Why do foreign bodies preferentially enter the right main bronchus? | Answer: Because the right main bronchus is wider, shorter, and more vertical (making an angle of about 25 degrees with the trachea) than the left main bronchus (which is narrower, longer, and more horizontal). | Examiner Key Points: Wider, shorter, more vertical, ~25 degrees vs ~45 degrees. | Clinical Importance: Clinically explains why right-sided aspiration pneumonia is more common."
+    "Question: Why do foreign bodies preferentially enter the right main bronchus? | Answer: Because the right main bronchus is wider, shorter, and more vertical (making an angle of about 25 degrees with the trachea) than the left main bronchus (which is narrower, longer, and more horizontal). | Examiner Key Points: Wider, shorter, more vertical, ~25 degrees vs ~45 degrees. | Clinical Importance: Clinically explains why right-sided aspiration pneumonia is more common.",
+    "Question: Define a bronchopulmonary segment and its structures.| Answer: It is a structural and functional subdivision of a lung lobe. Each segment is Pyramidal-shaped, contains a segmental (tertiary) bronchus, a segmental artery (branch of pulmonary artery), bronchial vessels, and autonomic nerves, whereas pulmonary veins run intersegmentally.| Examiner Key Points: Segmental bronchus, segmental artery, intersegmental pulmonary veins.| Clinical Importance: Allows surgical removal of a single diseased segment without affecting neighboring healthy segments.",
+    "Question: List the bronchopulmonary segments of the right lung.| Answer: Superior Lobe (3): Apical, Anterior, Posterior. Middle Lobe (2): Lateral, Medial. Inferior Lobe (5): Superior, Medial Basal, Anterior Basal, Lateral Basal, Posterior Basal.| Examiner Key Points: 10 segments total, Middle lobe Medial/Lateral, Basal structures.| Clinical Importance: Targeted chest physiotherapy drainage depends on identifying which segment is congested.",
+    "Question: What are the bronchopulmonary segments of the left lung?| Answer: Superior Lobe (5): Apical, Posterior (often fused as apicoposterior), Anterior, Superior Lingular, Inferior Lingular. Inferior Lobe (5 or 4): Superior, Medial Basal (often fused with anterior), Anterior Basal, Lateral Basal, Posterior Basal.| Examiner Key Points: Lingular segments, apicoposterior fusion.| Clinical Importance: Explains lingular lobe drainage patterns.",
+    "Question: Describe the arrangement of structures from anterior to posterior in the hilum of both lungs.| Answer: From anterior to posterior, the arrangement is identical in both hilum: 1) Pulmonary Vein (superior), 2) Pulmonary Artery, and 3) Bronchus (VAB - Vein, Artery, Bronchus).| Examiner Key Points: Vein, Artery, Bronchus anterior-to-posterior.| Clinical Importance: Essential to identify structures during lung transplantation.",
+    "Question: Explain the differences in hilum arrangements from superior to inferior between the right and left lung root.| Answer: Right lung has two bronchi superiorly (Eparterial bronchus most superior, then Hyparterial bronchus), with the pulmonary artery in-between. Left lung has a single bronchus with the pulmonary artery situated most superiorly.| Examiner Key Points: Right eparterial/hyparterial bronchi, Left superior pulmonary artery.| Clinical Importance: Crucial for anatomical identification in thoracic surgery.",
+    "Question: Where does the bronchial vascular system drain?| Answer: Left bronchial veins drain into the accessory hemiazygos vein. Right bronchial veins drain into the azygos vein. Some bronchial blood also drains into pulmonary veins.| Examiner Key Points: Left to hemiazygos, Right to azygos.| Clinical Importance: Plays a minor role in physiologic venous admixture (shunting).",
+    "Question: Which bronchopulmonary segment is most prone to aspiration pneumonia in a supine patient?| Answer: The superior segment of the inferior lobe (apical segment of lower lobe), due to its posterior-pointing orientation.| Examiner Key Points: Superior segment of inferior lobe, supine aspiration.| Clinical Importance: Explains localized lower-lobe lung abscesses in semi-conscious patients.",
+    "Question: What is the sensory nerve supply to the lungs and visceral pleura? | Answer: Prone entirely to autonomic nerves (vagus for bronchoconstriction and sensory irritation, sympathetic for bronchodilation). They lack general pain fibers.| Examiner Key Points: Autonomic, vagal sensory pathways, no somatic pain sensitivity.| Clinical Importance: Lung tumors inside parenchyma grow silently without pain until they strike the parietal thoracic wall."
   ],
   "mcqs": [
     {
       "question": "Which structure is uniquely present on the anterior border of the superior lobe of the left lung?",
-      "options": [
-        "Horizontal fissure",
-        "Eparterial bronchus",
-        "Cardiac notch and lingula",
-        "Groove for azygos vein"
-      ],
-      "answer": "Cardiac notch and lingula"
+      "options": ["Horizontal fissure", "Eparterial bronchus", "Cardiac notch and lingula", "Groove for azygos vein"],
+      "answer": "Cardiac notch and lingula",
+      "explanation": "The anterior border of the left lung features a deep cardiac notch, with a small tongue-like process called the lingula below it."
     },
     {
       "question": "How many bronchopulmonary segments are typically found in the right lung?",
-      "options": [
-        "8",
-        "9",
-        "10",
-        "12"
-      ],
-      "answer": "10"
+      "options": ["8", "9", "10", "12"],
+      "answer": "10",
+      "explanation": "The right lung is divided into 10 anatomical and functional bronchopulmonary segments."
+    },
+    {
+      "question": "Which structure lies most superiorly in the hilum of the left lung?",
+      "options": ["Pulmonary artery", "Main bronchus", "Superior pulmonary vein", "Eparterial bronchus"],
+      "answer": "Pulmonary artery",
+      "explanation": "In the left hilum, the pulmonary artery sits at the most superior position, arching over the main bronchus."
+    },
+    {
+      "question": "In the hilum of the right lung, which of the following is correct regarding the bronchi?",
+      "options": ["It features eparterial and hyparterial bronchi", "It contains only a single lobar bronchus", "The bronchus lies anterior to the pulmonary veins", "There is no bronchus present"],
+      "answer": "It features eparterial and hyparterial bronchi",
+      "explanation": "The right main bronchus divides before entering the hilum into a superior eparterial bronchus and an inferior hyparterial bronchus."
+    },
+    {
+      "question": "Which of the following structures runs INTERsegmentally (along the boundaries between segments) rather than intrasegmentally?",
+      "options": ["Pulmonary veins", "Segmental bronchi", "Segmental arteries", "Bronchial arteries"],
+      "answer": "Pulmonary veins",
+      "explanation": "In the lungs, pulmonary veins run in the connective tissue septa between segments, while bronchi and arteries are central (intrasegmental)."
+    },
+    {
+      "question": "In a patient lying flat on their back (supine), aspirated materials most commonly enter which bronchopulmonary segment?",
+      "options": ["Superior segment of inferior lobe", "Apical segment of superior lobe", "Medial segment of middle lobe", "Anterior basal segment of inferior lobe"],
+      "answer": "Superior segment of inferior lobe",
+      "explanation": "The superior segment of the inferior (lower) lobe is the most posterior segment when supine, serving as a direct path for gravity-fed aspiration."
+    },
+    {
+      "question": "The right main bronchus is characterized by which of the following features compared to the left main bronchus?",
+      "options": ["It is shorter, wider, and more vertical", "It is longer, narrower, and more horizontal", "It lies superior to the arch of Aorta", "It is twice as long as the left"],
+      "answer": "It is shorter, wider, and more vertical",
+      "explanation": "The right main bronchus is about 2.5 cm long, more vertical, and wider, making it the preferred path for inhaled foreign bodies."
+    },
+    {
+      "question": "The left main bronchus deviates from the trachea at an angle of approximately:",
+      "options": ["45 degrees", "25 degrees", "10 degrees", "60 degrees"],
+      "answer": "45 degrees",
+      "explanation": "The left main bronchus is more horizontal, diverging at an angle of 45 degrees, whereas the right diverges at about 25 degrees."
+    },
+    {
+      "question": "Which of the following represents the correct count of bronchopulmonary segments in the left lung upper lobe?",
+      "options": ["5 segments", "3 segments", "4 segments", "10 segments"],
+      "answer": "5 segments",
+      "explanation": "The left upper lobe contains 5 segments, including the apical, posterior, anterior, superior lingular, and inferior lingular segments."
+    },
+    {
+      "question": "Nutrient supply to the lung tissue and bronchi is provided by which of the following vessels?",
+      "options": ["Bronchial arteries", "Pulmonary arteries", "Internal thoracic arteries", "Coronary arteries"],
+      "answer": "Bronchial arteries",
+      "explanation": "Bronchial arteries carry oxygenated blood under systemic pressure to supply the trachea, bronchial tree, and lung parenchyma structurally."
+    },
+    {
+      "question": "The left bronchial veins typically drain into which of the following?",
+      "options": ["Accessory hemiazygos vein", "Azygos vein", "Left brachiocephalic vein", "Left superior intercostal vein"],
+      "answer": "Accessory hemiazygos vein",
+      "explanation": "The left bronchial veins drain into the accessory hemiazygos vein or left superior intercostal vein."
+    },
+    {
+      "question": "The right bronchial veins typically drain into the:",
+      "options": ["Azygos vein", "Superior vena cava", "Right brachiocephalic vein", "Internal thoracic vein"],
+      "answer": "Azygos vein",
+      "explanation": "The right bronchial veins empty directly into the terminal portion of the azygos vein."
+    },
+    {
+      "question": "Which of the following nerves is responsible for producing bronchoconstriction of the tracheobronchial tree?",
+      "options": ["Vagus nerve parasympathetic fibers", "Sympathetic trunk fibers", "Phrenic nerve motor slips", "Lower intercostal nerves"],
+      "answer": "Vagus nerve parasympathetic fibers",
+      "explanation": "Parasympathetic fibers from the vagus nerve (CN X) are bronchoconstrictors and secretomotor to bronchial glands."
+    },
+    {
+      "question": "Sympathetic stimulation of the lung tissue leads to:",
+      "options": ["Bronchodilation", "Bronchoconstriction", "Increased mucus secretion", "No effect on airways"],
+      "answer": "Bronchodilation",
+      "explanation": "Sympathetic pathways act to relax bronchial smooth muscle, facilitating bronchodilation."
+    },
+    {
+      "question": "Which fissure is found in the left lung?",
+      "options": ["Oblique fissure", "Horizontal fissure", "Transverse fissure", "Accessory superior fissure"],
+      "answer": "Oblique fissure",
+      "explanation": "The left lung has only a single oblique fissure dividing it into superior and inferior lobes."
+    },
+    {
+      "question": "The horizontal fissure of the right lung typically meets the oblique fissure at which anatomical line?",
+      "options": ["Midaxillary line", "Midclavicular line", "Parasternal line", "Anterior axillary fold"],
+      "answer": "Midaxillary line",
+      "explanation": "The horizontal fissure begins at the anterior border and runs horizontally backward to join the oblique fissure in the midaxillary line."
+    },
+    {
+      "question": "Which of the following surfaces is NOT described on a lung?",
+      "options": ["Posterior surface", "Costal surface", "Mediastinal surface", "Diaphragmatic surface"],
+      "answer": "Posterior surface",
+      "explanation": "A typical lung is described as having costal, mediastinal, and diaphragmatic surfaces, along with anterior, posterior, and inferior borders."
+    },
+    {
+      "question": "The narrow, superior end of the lung that projects into the root of the neck is the:",
+      "options": ["Apex", "Base", "Hilum", "Lingula"],
+      "answer": "Apex",
+      "explanation": "The apex of the lung is its rounded superior extremity rising above the level of the first rib."
+    },
+    {
+      "question": "Which structure leaves a prominent groove on the mediastinal surface of the left lung?",
+      "options": ["Arch of aorta", "Azygos vein", "Superior vena cava", "Right atrium"],
+      "answer": "Arch of aorta",
+      "explanation": "The arch of the aorta and descending thoracic aorta leave a massive, continuous groove on the mediastinal surface of the left lung."
+    },
+    {
+      "question": "Which structure leaves a deep impression on the mediastinal surface of the right lung?",
+      "options": ["Azygos vein and superior vena cava", "Left ventricle", "Arch of aorta", "Descent of subclavian artery"],
+      "answer": "Azygos vein and superior vena cava",
+      "explanation": "The right lung's mediastinal surface displays deep grooves for the azygos vein and the superior vena cava."
+    },
+    {
+      "question": "The pulmonary plexus is situated primarily in which anatomical region?",
+      "options": ["Around the root of the lung (hilum)", "Apex of the pleura", "Inside the alveolar septa", "Within the trachealis muscle"],
+      "answer": "Around the root of the lung (hilum)",
+      "explanation": "The anterior and posterior pulmonary plexuses are situated at the hilum of the lung, carrying autonomic nerves."
+    },
+    {
+      "question": "How many lobar bronchi are present in the left lung?",
+      "options": ["Two", "Three", "One", "Four"],
+      "answer": "Two",
+      "explanation": "The left lung tissue contains two lobes (superior and inferior), so it is supplied by two lobar (secondary) bronchi."
+    },
+    {
+      "question": "Which cartilage forms the bifurcation point where the trachea divides into bronchi?",
+      "options": ["Carina", "Cricoid", "Thyroid", "Arytenoid"],
+      "answer": "Carina",
+      "explanation": "The carina is an internal cartilaginous ridge formed by a downward projection of the lowest tracheal ring at its bifurcation."
+    },
+    {
+      "question": "Which lymph nodes directly receive lymph from the superficial and deep lymphatic plexuses of the lungs?",
+      "options": ["Bronchopulmonary (hilar) nodes", "Parasternal nodes", "Axillary nodes", "Cervical lymph nodes"],
+      "answer": "Bronchopulmonary (hilar) nodes",
+      "explanation": "All lymph from the deep and superficial plexuses of the lung flows to the bronchopulmonary (hilar) lymph nodes."
+    },
+    {
+      "question": "Which of the following represents the right lung's average weight compared to the left lung?",
+      "options": ["Right is heavier than the left", "Left is heavier", "Both are identical", "Right is half the weight of the left"],
+      "answer": "Right is heavier than the left",
+      "explanation": "The right lung is larger and heavier (average 700g in males) than the left lung (average 600g) due to the heart's leftward position."
+    },
+    {
+      "question": "The cup-like air sacs where gas exchange occurs in the lungs are termed:",
+      "options": ["Alveoli", "Bronchioles", "Alveolar ducts", "Segmental spaces"],
+      "answer": "Alveoli",
+      "explanation": "Alveoli are the microscopic, simple squamous terminals of the respiratory zone where oxygen-carbon dioxide exchange occurs."
+    },
+    {
+      "question": "Which artery brings deoxygenated blood from the right ventricle into the lungs for gas exchange?",
+      "options": ["Pulmonary artery", "Bronchial artery", "Pulmonary vein", "Aorta"],
+      "answer": "Pulmonary artery",
+      "explanation": "The pulmonary artery carries high-volume deoxygenated venous blood from the right ventricle into the lung capillaries."
+    },
+    {
+      "question": "How many pulmonary veins typically drain into the left atrium of the heart?",
+      "options": ["Four", "Two", "Three", "Six"],
+      "answer": "Four",
+      "explanation": "Two superior and two inferior pulmonary veins (four in total) return oxygenated blood from the lungs to the left atrium."
+    },
+    {
+      "question": "Peculiarities of the right main bronchus explain why inhaled foreign bodies often lodge in which lobe?",
+      "options": ["Right inferior lobe", "Right superior lobe", "Left superior lobe", "Left inferior lobe"],
+      "answer": "Right inferior lobe",
+      "explanation": "Due to its vertical slope, foreign bodies preferentially pass down the right main bronchus to settle in the right inferior lobe."
+    },
+    {
+      "question": "Which of the following layers lies closest to the lung tissue surface?",
+      "options": ["Visceral pleura", "Parietal pleura", "Endothoracic fascia", "Fibrous pericardium"],
+      "answer": "Visceral pleura",
+      "explanation": "Visceral pleura is directly adherent to the surface of the lung, lining even the fissures."
     }
+  ],
+  "reference": [
+    "B.D. Chaurasia - Human Anatomy (Volume 1: Upper Limb and Thorax, Section on Lungs)",
+    "Vishram Singh - Textbook of Anatomy: Upper Limb and Thorax (Volume 1, Chapter on Lungs and Bronchopulmonary Segments)"
   ]
 }

@@ -84,6 +84,108 @@
         "contentFile": "anat_ch14.json"
     },
     {
+        "chapterId": "anat_ch15",
+        "chapterName": "Introduction to Thorax and Thoracic Cage",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch15.json"
+    },
+    {
+        "chapterId": "anat_ch16",
+        "chapterName": "Bones and Joints of the Thorax",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch16.json"
+    },
+    {
+        "chapterId": "anat_ch17",
+        "chapterName": "Thoracic Wall and Mechanism of Respiration",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch17.json"
+    },
+    {
+        "chapterId": "anat_ch18",
+        "chapterName": "Pleural Cavities",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch18.json"
+    },
+    {
+        "chapterId": "anat_ch19",
+        "chapterName": "Lungs (Pulmones)",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch19.json"
+    },
+    {
+        "chapterId": "anat_ch20",
+        "chapterName": "Mediastinum",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch20.json"
+    },
+    {
+        "chapterId": "anat_ch21",
+        "chapterName": "Pericardium and Heart",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch21.json"
+    },
+    {
+        "chapterId": "anat_ch22",
+        "chapterName": "Superior Vena Cava, Aorta, Pulmonary Trunk, and Thymus",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch22.json"
+    },
+    {
+        "chapterId": "anat_ch23",
+        "chapterName": "Trachea and Esophagus",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch23.json"
+    },
+    {
+        "chapterId": "anat_ch24",
+        "chapterName": "Thoracic Duct, Azygos and Hemiazygos Veins, and Thoracic Sympathetic Trunks",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch24.json"
+    },
+    {
+        "chapterId": "anat_ch25",
+        "chapterName": "Bones of Lower Limb",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch25.json"
+    },
+    {
+        "chapterId": "anat_ch26",
+        "chapterName": "Anterior Compartment of Thigh & Femoral Triangle",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch26.json"
+    },
+    {
+        "chapterId": "anat_ch27",
+        "chapterName": "Gluteal Region & Medial Thigh",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch27.json"
+    },
+    {
+        "chapterId": "anat_ch28",
+        "chapterName": "Posterior Thigh & Popliteal Fossa",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch28.json"
+    },
+    {
+        "chapterId": "anat_ch29",
+        "chapterName": "Knee Joint & Leg Compartments",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch29.json"
+    },
+    {
+        "chapterId": "anat_ch30",
+        "chapterName": "Ankle, Foot & Arches of Foot",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch30.json"
+    },
+    {
+        "chapterId": "anat_ch31",
+        "chapterName": "Nerves and Blood Vessels of Lower Limb",
+        "subjectId": "anatomy",
+        "contentFile": "anat_ch31.json"
+    },
+    {
         "chapterId": "phys_ch1",
         "chapterName": "General Cell Physiology",
         "subjectId": "physiology",

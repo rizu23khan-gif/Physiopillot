@@ -42,7 +42,7 @@ fun getSubjectModuleIdForRegion(region: String): String {
         "shoulder", "arm", "elbow", "hand" -> "anat_upper_limb"
         "pelvis", "hip", "knee", "ankle", "foot" -> "anat_lower_limb"
         "head", "neck" -> "anat_head_neck"
-        else -> "anat_general"
+        else -> "anat_gen"
     }
 }
 

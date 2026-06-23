@@ -41,29 +41,201 @@
     "Intercostal Nerve Blocks: Administered to relieve pain from rib fractures, targeting the intercostal nerve in the costal groove."
   ],
   "vivaQuestions": [
-    "Question: Differentiate between pump-handle and bucket-handle movements. | Answer: Pump-handle movement increases the anteroposterior diameter by elevating the sternum and upper ribs. Bucket-handle movement increases the transverse diameter by elevating the middle/lower ribs laterally. | Examiner Key Points: AP vs Transverse diameter, sternum vs lateral ribs. | Clinical Importance: Crucial for evaluating thoracic expansion in respiratory conditions.",
-    "Question: List the major apertures of the diaphragm and their corresponding vertebral levels. | Answer: Vena Caval opening at T8, Esophageal opening at T10, and Aortic opening at T12. | Examiner Key Points: IVC (T8), Esophagus (T10), Aorta (T12). | Clinical Importance: Vital for identifying diaphragmatic hernias and vascular compression syndromes."
+    "Question: Differentiate between pump-handle and bucket-handle movements. | Answer: Pump-handle movement increases the anteroposterior diameter by elevating the sternum and upper ribs (2nd-6th) around the costovertebral axis. Bucket-handle movement increases the transverse diameter by elevating the middle/lower ribs (7th-10th) laterally, sliding outward. | Examiner Key Points: AP vs Transverse diameter, sternum vs lateral ribs, ribs 2-6 vs ribs 7-10. | Clinical Importance: Crucial for evaluating thoracic expansion in respiratory conditions.",
+    "Question: List the major apertures of the diaphragm and their corresponding vertebral levels. | Answer: Vena Caval opening at T8, Esophageal opening at T10, and Aortic opening at T12. | Examiner Key Points: IVC (T8), Esophagus (T10), Aorta (T12). | Clinical Importance: Vital for identifying diaphragmatic hernias and vascular compression syndromes.",
+    "Question: What structures pass through each of the main diaphragmatic openings?| Answer: T8 (Vena Caval): Inferior vena cava and right phrenic nerve. T10 (Esophageal): Esophagus, right and left vagal trunks, and esophageal branches of gastric vessels. T12 (Aortic): Aorta, thoracic duct, and azygos vein.| Examiner Key Points: IVC, esophagus, vagus, aorta, thoracic duct, azygos.| Clinical Importance: Pathologies at T10 can present as dysphagia, and T12 pathologies can cause severe lymphatic backflow.",
+    "Question: Describe the muscles located in each intercostal space from superficial to deep.| Answer: 1) External intercostal, 2) Internal intercostal, and 3) Innermost intercostal.| Examiner Key Points: External, Internal, Innermost order.| Clinical Importance: The neurovascular bundle runs in the plane between the internal and innermost intercostals.",
+    "Question: Detail the origin, insertion, and nerve supply of the diaphragm.| Answer: Origin: Sternal (paired slips from xiphoid), Costal (inner surface of lower 6 costal cartilages), and Lumbar (crura and arcuate ligaments). Insertion: Central tendon. Nerve supply: Phrenic nerve (C3, C4, C5) for motor, lower 6 intercostal nerves for peripheral sensory.| Examiner Key Points: Central tendon insertion, Phrenic motor root L3-L5.| Clinical Importance: Pinpointed neck pain can represent referred phrenic sensory irritation.",
+    "Question: What is the 'bucket-handle' axis of movement?| Answer: The axis of movement runs obliquely anteroposteriorly, connecting the costovertebral joint with the costosternal joint.| Examiner Key Points: AP oblique axis, lateral rib gliding.| Clinical Importance: Manual mobilization targets this axis to improve chest expansion.",
+    "Question: Explain the mechanics of quiet vs. forced expiration.| Answer: Quiet expiration is entirely passive, driven by elastic recoil of the lungs. Forced expiration is active, utilizing internal intercostals, innermost intercostals, and abdominal muscles (rectus abdominis, obliques).| Examiner Key Points: Passive recoil vs active internal intercostals/abdominal muscles.| Clinical Importance: Patients with asthma or COPD over-rely on active expiration musculature, leading to fatigue.",
+    "Question: What is a chest flail segment and its breathing consequences?| Answer: Paradoxical chest movement caused by multiple double-rib fractures. During inspiration, the loose flail area drops inward instead of expanding.| Examiner Key Points: Fragment goes inward on inspiration, paradoxical respiration.| Clinical Importance: Requires rapid mechanical stabilization to support breathing mechanics.",
+    "Question: How do the intercostal nerves branch and distribute?| Answer: They correspond to the anterior rami of T1-T11 thoracic nerves, giving off lateral cutaneous and anterior cutaneous branches.| Examiner Key Points: Anterior rami, lateral/anterior cutaneous branches.| Clinical Importance: Herpes Zoster (shingles) erupts along these distinct dermatomal paths.",
+    "Question: Describe the caliper movement and its rib associations.| Answer: The movement of the 11th and 12th ribs, which glide slightly backwards on inspiration. | Examiner Key Points: 11th/12th ribs backwards gliding.| Clinical Importance: Serves as a stabilization point during lumbar/thoracic transitions."
   ],
   "mcqs": [
     {
       "question": "Which of the following muscle contractions is the primary driver of quiet inspiration?",
-      "options": [
-        "Internal intercostals",
-        "Diaphragm",
-        "Rectus abdominis",
-        "Pectoralis major"
-      ],
-      "answer": "Diaphragm"
+      "options": ["Internal intercostals", "Diaphragm", "Rectus abdominis", "Pectoralis major"],
+      "answer": "Diaphragm",
+      "explanation": "Quiet inspiration is mainly achieved by the diaphragm contracting, which flattens its dome and increases the vertical thoracic volume."
     },
     {
       "question": "At which vertebral level does the thoracic aorta pass through the respiratory diaphragm?",
-      "options": [
-        "T6",
-        "T8",
-        "T10",
-        "T12"
-      ],
-      "answer": "T12"
+      "options": ["T6", "T8", "T10", "T12"],
+      "answer": "T12",
+      "explanation": "The aortic opening of the diaphragm is situated posteriorly at the level of the T12 vertebra body."
+    },
+    {
+      "question": "Where is the intercostal neurovascular bundle located within the intercostal space?",
+      "options": ["Between external and internal intercostals", "Between internal and innermost intercostals", "Superficial to external intercostals", "Deep to innermost intercostals"],
+      "answer": "Between internal and innermost intercostals",
+      "explanation": "The intercostal vein, artery, and nerve (VAN) lie in the neurovascular plane between the internal and innermost intercostal muscles."
+    },
+    {
+      "question": "Which of the following is considered an accessory muscle of inspiration?",
+      "options": ["Sternocleidomastoid", "Rectus abdominis", "Internal intercostals", "Internal oblique"],
+      "answer": "Sternocleidomastoid",
+      "explanation": "The SCM acts as an accessory muscle of inspiration, elevating the sternum during forced or labored breathing."
+    },
+    {
+      "question": "The motor innervation of the respiratory diaphragm is supplied by which nerve?",
+      "options": ["Phrenic nerve", "Vagus nerve", "Sympathetic trunk", "Lower intercostal nerves"],
+      "answer": "Phrenic nerve",
+      "explanation": "The phrenic nerve (roots C3, C4, C5) provides the sole motor innervation to the entire diaphragm."
+    },
+    {
+      "question": "Which diaphragmatic aperture allows the passage of the left and right vagus nerve trunks?",
+      "options": ["Vena caval opening", "Esophageal opening", "Aortic opening", "Sympathetic aperture"],
+      "answer": "Esophageal opening",
+      "explanation": "The esophageal opening at T10 transmits the esophagus and the anterior/posterior vagal trunks."
+    },
+    {
+      "question": "The pump-handle movement of the ribs increases which diameter of the thoracic cavity?",
+      "options": ["Anteroposterior diameter", "Transverse diameter", "Vertical diameter", "Oblique diameter"],
+      "answer": "Anteroposterior diameter",
+      "explanation": "The pump-handle movement raises the sternum up and forward, primarily expanding the anteroposterior diameter."
+    },
+    {
+      "question": "The bucket-handle movement is most pronounced in which set of ribs?",
+      "options": ["Ribs 1 to 2", "Ribs 7 to 10", "Ribs 11 to 12", "Ribs 3 to 5"],
+      "answer": "Ribs 7 to 10",
+      "explanation": "Ribs 7 to 10 exhibit a prominent lateral swing (bucket-handle movement), expanding the transverse diameter of the chest."
+    },
+    {
+      "question": "Which structure passes through the diaphragm's vena caval opening at the T8 level?",
+      "options": ["Right phrenic nerve", "Left vagus nerve", "Thoracic duct", "Azygous vein"],
+      "answer": "Right phrenic nerve",
+      "explanation": "The vena caval opening transmits the inferior vena cava and the right phrenic nerve."
+    },
+    {
+      "question": "What is the sensory nerve supply of the peripheral part of the diaphragm?",
+      "options": ["Phrenic nerve", "Lower 6 intercostal nerves", "Vagus nerve", "Sympathetic nerves"],
+      "answer": "Lower 6 intercostal nerves",
+      "explanation": "The phrenic nerve supplies sensory fibers to the central tendon, while the peripheral margins are innervated by the lower six intercostal nerves."
+    },
+    {
+      "question": "Which anatomical landmark guides needle placement for an intercostal nerve block?",
+      "options": ["Lower border of the rib", "Upper border of the rib", "Center of the intercostal space", "Sternal margin"],
+      "answer": "Lower border of the rib",
+      "explanation": "To target the intercostal nerve, the needle is placed close to the lower border of the rib within the costal groove."
+    },
+    {
+      "question": "During a normal, quiet expiration, which of the following forces drives lung deflation?",
+      "options": ["Elastic recoil of lung tissue", "Contraction of internal intercostals", "Contraction of rectus abdominis", "Parasympathetic lung stimulation"],
+      "answer": "Elastic recoil of lung tissue",
+      "explanation": "Normal passive expiration is driven by the elastic recoil of the alveolar walls and the thoracic cage."
+    },
+    {
+      "question": "Which muscular layer has fiber directions running down and forward ('hands in pockets')?",
+      "options": ["External intercostal", "Internal intercostal", "Innermost intercostal", "Transversus thoracis"],
+      "answer": "External intercostal",
+      "explanation": "External intercostal muscle fibers run obliquely downwards, forwards, and medially."
+    },
+    {
+      "question": "Which muscular layer has fiber directions running down and backward, perpendicular to external intercostals?",
+      "options": ["Internal intercostal", "External oblique", "Innermost intercostal", "Diaphragm"],
+      "answer": "Internal intercostal",
+      "explanation": "Internal intercostal muscle fibers run downwards and backwards, perpendicular to those of the external intercostals."
+    },
+    {
+      "question": "How does the diaphragm move during a deep inspiration?",
+      "options": ["It descends and flattens", "It ascends and domes", "It shifts to the right side", "It remains completely stationary"],
+      "answer": "It descends and flattens",
+      "explanation": "Upon contraction, diaphragm muscle fibers shorten, causing its central dome to descend and flatten."
+    },
+    {
+      "question": "The aortic opening of the diaphragm contains the aorta, the azygos vein, and which other structure?",
+      "options": ["Thoracic duct", "Esophagus", "Phrenic nerve", "Vagus trunks"],
+      "answer": "Thoracic duct",
+      "explanation": "The aortic aperture at T12 transmits the aorta, the thoracic duct, and the azygos vein."
+    },
+    {
+      "question": "A lesion of the left phrenic nerve in the neck will result in:",
+      "options": ["Paralysis of the left dome of the diaphragm", "Inability to swallow", "Loss of sensation in the thoracic inlet", "Bilateral diaphragmatic spasms"],
+      "answer": "Paralysis of the left dome of the diaphragm",
+      "explanation": "Unilateral phrenic nerve injury paralyzes its corresponding side of the diaphragm."
+    },
+    {
+      "question": "The first intercostal nerve is unique because it:",
+      "options": ["Has no lateral cutaneous branch", "Has no motor fibers", "Runs deep to the pleura directly", "Innervates the diaphragm"],
+      "answer": "Has no lateral cutaneous branch",
+      "explanation": "The first intercostal nerve (C8, T1) contributes to the brachial plexus and lacks a lateral cutaneous branch."
+    },
+    {
+      "question": "The costal fibers of the diaphragm arise from:",
+      "options": ["Inner surfaces of lower six costal cartilages", "Xiphoid process", "Bodies of L1-L3 vertebrae", "First rib"],
+      "answer": "Inner surfaces of lower six costal cartilages",
+      "explanation": "The costal origin of the diaphragm comprises slips from the inner aspect of the lower six ribs and cartilages."
+    },
+    {
+      "question": "Which of the following is correct regarding the diaphragmatic crura?",
+      "options": ["Right crus is longer and larger than the left crus", "Left crus is longer and larger", "Both are equal in length", "They insert on the first rib"],
+      "answer": "Right crus is longer and larger than the left crus",
+      "explanation": "The right crus is longer and thicker (arising from L1-L3) than the left crus (arising from L1-L2)."
+    },
+    {
+      "question": "The muscle fibers of the diaphragm insert into which of the following structures?",
+      "options": ["Central tendon", "Xiphoid process", "First rib", "Bodies of lumbar vertebrae"],
+      "answer": "Central tendon",
+      "explanation": "All peripheral muscular fibers of the diaphragm converge and insert into the aponeurotic central tendon."
+    },
+    {
+      "question": "Which intercostal space structure lies immediately deep to the innermost intercostal muscle?",
+      "options": ["Endothoracic fascia and parietal pleura", "External intercostal muscle", "Intercostal vein", "Transversus abdominis"],
+      "answer": "Endothoracic fascia and parietal pleura",
+      "explanation": "The endothoracic fascia separates the innermost intercostal muscle from the parietal pleura."
+    },
+    {
+      "question": "Which of the following arteries is a direct branch of the internal thoracic artery in the upper spaces?",
+      "options": ["Anterior intercostal arteries", "Posterior intercostal arteries", "Superior epigastric artery", "Subcostal artery"],
+      "answer": "Anterior intercostal arteries",
+      "explanation": "The internal thoracic artery gives off the anterior intercostal arteries for the upper six intercostal spaces."
+    },
+    {
+      "question": "The internal thoracic artery arises from which major vessel?",
+      "options": ["Subclavian artery first part", "Arch of aorta", "Axillary artery", "Common carotid artery"],
+      "answer": "Subclavian artery first part",
+      "explanation": "The internal thoracic (mammary) artery is a branch of the first part of the subclavian artery."
+    },
+    {
+      "question": "Posterior intercostal veins on the right side of the body drain mainly into the:",
+      "options": ["Azygos vein", "Hemiazygos vein", "Internal thoracic vein", "Superior vena cava directly"],
+      "answer": "Azygos vein",
+      "explanation": "The posterior intercostal veins on the right side drain into the azygos vein."
+    },
+    {
+      "question": "The musculophrenic artery is one of the terminal branches of which artery?",
+      "options": ["Internal thoracic artery", "Subclavian artery", "Superior epigastric artery", "Aorta"],
+      "answer": "Internal thoracic artery",
+      "explanation": "The internal thoracic artery bifurcates in the 6th intercostal space into the superior epigastric and musculophrenic arteries."
+    },
+    {
+      "question": "The subcostal muscle is located primarily in which part of the thoracic cage?",
+      "options": ["Posterior part, near the angles of lower ribs", "Anterior part, near the sternum", "Within the thoracic inlet", "Apex of the pleura"],
+      "answer": "Posterior part, near the angles of lower ribs",
+      "explanation": "The subcostal muscles are slips of the innermost intercostals found in the posterior aspect of the lower spaces."
+    },
+    {
+      "question": "Which diaphragm ligament arches over the psoas major muscle?",
+      "options": ["Medial arcuate ligament", "Lateral arcuate ligament", "Median arcuate ligament", "Radiate ligament"],
+      "answer": "Medial arcuate ligament",
+      "explanation": "The medial arcuate ligament is a thickening of the psoas fascia crossing over the psoas major muscle."
+    },
+    {
+      "question": "Which ligament arches over the quadratus lumborum muscle?",
+      "options": ["Lateral arcuate ligament", "Medial arcuate ligament", "Median arcuate ligament", "Cruciate ligament"],
+      "answer": "Lateral arcuate ligament",
+      "explanation": "The lateral arcuate ligament is a thickening of the anterior layer of the thoracolumbar fascia over the quadratus lumborum."
+    },
+    {
+      "question": "An insert of a chest tube for drainage typically takes place in which intercostal space?",
+      "options": ["5th intercostal space", "1st intercostal space", "10th intercostal space", "12th intercostal space"],
+      "answer": "5th intercostal space",
+      "explanation": "Chest tubes for drainage are commonly placed in the 5th intercostal space in the midaxillary line (safe triangle)."
     }
+  ],
+  "reference": [
+    "B.D. Chaurasia - Human Anatomy (Volume 1: Upper Limb and Thorax, Section on Thoracic Wall and Diaphragm)",
+    "Vishram Singh - Textbook of Anatomy: Upper Limb and Thorax (Volume 1, Chapter on Respiration Mechanics)"
   ]
 }

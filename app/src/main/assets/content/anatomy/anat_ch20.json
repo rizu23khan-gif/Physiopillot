@@ -39,28 +39,200 @@
   ],
   "vivaQuestions": [
     "Question: Explain the boundaries of the mediastinum as a whole. | Answer: Bounded anteriorly by the sternum, posteriorly by the bodies of 12 thoracic vertebrae, superiorly by the thoracic inlet, inferiorly by the diaphragmatic floor, and laterally by the mediastinal pleura of the lungs. | Examiner Key Points: Sternum, vertebrae, inlet, diaphragm, pleura. | Clinical Importance: Establishes the anatomical bounds of thoracic clinical conditions.",
-    "Question: Name the contents of the posterior mediastinum. | Answer: Esophagus, descending thoracic aorta, thoracic duct, azygos vein, hemiazygos and accessory hemiazygos veins, vagus nerves, and splanchnic nerves. | Examiner Key Points: Esophagus, aorta, thoracic duct, azygos. | Clinical Importance: Access point for surgical esophageal/aortic procedures."
+    "Question: Name the contents of the posterior mediastinum. | Answer: Esophagus, descending thoracic aorta, thoracic duct, azygos vein, hemiazygos and accessory hemiazygos veins, vagus nerves, and splanchnic nerves. | Examiner Key Points: Esophagus, aorta, thoracic duct, azygos. | Clinical Importance: Access point for surgical esophageal/aortic procedures.",
+    "Question: What is a mediastinal shift and which clinical events cause it?| Answer: Shifting of mediastinal structures (like trachea and heart) to one side, caused by unilateral pressure changes. Tension pneumothorax or massive effusion causes a shift to the opposite side; lung collapse causes a shift to the same side.| Examiner Key Points: Tracheal shift, pressure changes, contralateral vs ipsilateral shift.| Clinical Importance: Mediastinal shift is a life-threatening indicator of tension pneumothorax.",
+    "Question: What are the boundaries and boundaries of the superior mediastinum?| Answer: Bounded superiorly by the thoracic inlet, inferiorly by the plane of the sternal angle, anteriorly by the manubrium sterni, posteriorly by bodies of vertebrae T1-T4, and laterally by the mediastinal pleura.| Examiner Key Points: Inlet, sternal angle plane, manubrium, T1-T4.| Clinical Importance: Houses the thymus, arch of aorta, and major airway/food path tubes.",
+    "Question: List the contents of the anterior mediastinum.| Answer: Sternal ligaments, remnants of the thymus, lymph nodes, internal thoracic artery branches, and loose areolar tissue.| Examiner Key Points: Thymus remnants, sternopericardial ligaments.| Clinical Importance: Can be the site of thymic retrosternal goiters or lymphomas.",
+    "Question: Describe the boundaries of the posterior mediastinum.| Answer: Bounded anteriorly by the pericardium and diaphragm, posteriorly by the bodies of vertebrae T5-T12, and laterally by the mediastinal pleura.| Examiner Key Points: Pericardium anteriorly, T5-T12 posteriorly.| Clinical Importance: Path of key neurovascular and lymphatic structures (thoracic duct).",
+    "Question: What are the contents of the middle mediastinum?| Answer: Heart, pericardium, ascending aorta, pulmonary trunk and divisions, superior vena cava terminal part, pulmonary veins, phrenic nerves, and deep cardiac plexus.| Examiner Key Points: Heart, pericardium, ascending aorta, phrenic nerves.| Clinical Importance: The primary center of central thoracic diagnostic cardiology.",
+    "Question: Explain the clinical presentation of 'Mediastinal Syndrome'.| Answer: Symptoms arising from compression of mediastinal structures by tumors, glands, or aneurysms. Results in dysphagia (esophagus compression), dyspnea/cough (trachea compression), hoarseness (recurrent laryngeal nerve compression), and SVC syndrome.| Examiner Key Points: Compression effects, dysphagia, hoarseness, face congestion.| Clinical Importance: Critical symptom complex of thoracic oncology diagnosis.",
+    "Question: How do the phrenic nerves course through the mediastinum compared to the vagus nerves?| Answer: Phrenic nerves pass anterior to the lung roots, running along the pericardium. Vagus nerves pass posterior to the lung roots.| Examiner Key Points: Phrenic anterior to lung root, Vagus posterior to lung root.| Clinical Importance: Essential landmark relation for thoracic surgeons during segmentectomies.",
+    "Question: Which structure crosses the superior/inferior mediastinum boundary? | Answer: Airway tubes (Trachea), Esophagus, Thoracic Duct, and the Vagus and Phrenic nerves, which descend through both zones.| Examiner Key Points: Trachea, esophagus, thoracic duct transit.| Clinical Importance: Explains why neck infections can spread down into the thoracic cavity."
   ],
   "mcqs": [
     {
       "question": "Which of the following structures is located within the middle mediastinum?",
-      "options": [
-        "Esophagus",
-        "Trachea",
-        "Heart and pericardium",
-        "Thymus"
-      ],
-      "answer": "Heart and pericardium"
+      "options": ["Esophagus", "Trachea", "Heart and pericardium", "Thymus"],
+      "answer": "Heart and pericardium",
+      "explanation": "The middle mediastinum houses the heart, pericardium, roots of the great vessels, and phrenic nerves."
     },
     {
       "question": "What imaginary plane divides the superior from the inferior mediastinum?",
-      "options": [
-        "Passing through the first rib",
-        "Passing through the T12 level",
-        "Passing through the sternal angle (T4-T5)",
-        "Passing through the apex of the lungs"
-      ],
-      "answer": "Passing through the sternal angle (T4-T5)"
+      "options": ["Passing through the first rib", "Passing through the T12 level", "Passing through the sternal angle (T4-T5)", "Passing through the apex of the lungs"],
+      "answer": "Passing through the sternal angle (T4-T5)",
+      "explanation": "The horizontal plane crossing from the sternal angle anteriorly to the T4-T5 intervertebral disc posteriorly divides the superior and inferior mediastinum."
+    },
+    {
+      "question": "Which of the following structures is located in the anterior mediastinum?",
+      "options": ["Sternopericardial ligaments", "Heart", "Descending thoracic aorta", "Tracheal bifurcation"],
+      "answer": "Sternopericardial ligaments",
+      "explanation": "The anterior mediastinum is a small compartment containing sternopericardial ligaments, lymph nodes, and loose areolar tissue."
+    },
+    {
+      "question": "Select the structure situated in the posterior mediastinum:",
+      "options": ["Thoracic duct", "Ascending aorta", "Thymus", "Arch of aorta"],
+      "answer": "Thoracic duct",
+      "explanation": "The posterior mediastinum contains the descending thoracic aorta, esophagus, thoracic duct, azygos veins, and vagi."
+    },
+    {
+      "question": "Which nerve runs directly anterior to the root of the lung within the middle mediastinum?",
+      "options": ["Phrenic nerve", "Vagus nerve", "Recurrent laryngeal nerve", "Sympathetic trunk"],
+      "answer": "Phrenic nerve",
+      "explanation": "The phrenic nerves course anterior to the lung root, sandwiched between the fibrous pericardium and mediastinal pleura."
+    },
+    {
+      "question": "The trachea bifurcates and terminates at which border of the superior mediastinum?",
+      "options": ["Inferior border", "Superior border", "Anterior border", "Left lateral border"],
+      "answer": "Inferior border",
+      "explanation": "The trachea descends through the superior mediastinum and bifurcates at its inferior boundary, the sternal angle level."
+    },
+    {
+      "question": "Which mediastinal compartment contains the thymus gland in children?",
+      "options": ["Superior mediastinum and anterior mediastinum", "Middle mediastinum", "Posterior mediastinum", "None of the above"],
+      "answer": "Superior mediastinum and anterior mediastinum",
+      "explanation": "The thymus gland lies in the anterior part of the superior mediastinum, with its lower part extending into the anterior mediastinum."
+    },
+    {
+      "question": "Which of the following veins is found within the superior mediastinum?",
+      "options": ["Left brachiocephalic vein", "Hemiazygos vein", "Inferior vena cava", "Pulmonary veins"],
+      "answer": "Left brachiocephalic vein",
+      "explanation": "The left and right brachiocephalic veins and the upper half of the superior vena cava are located in the superior mediastinum."
+    },
+    {
+      "question": "Compression of the recurrent laryngeal nerve in the mediastinum leads to:",
+      "options": ["Hoarseness of voice", "Difficulty in swallowing", "Congestion of face", "Loss of diaphragm movement"],
+      "answer": "Hoarseness of voice",
+      "explanation": "The recurrent laryngeal nerve innervates laryngeal motor muscles; compression causes voice hoarseness."
+    },
+    {
+      "question": "At which vertebral level does the posterior mediastinum terminate inferiorly?",
+      "options": ["T12", "T8", "T10", "L2"],
+      "answer": "T12",
+      "explanation": "The posterior mediastinum extends downwards to the diaphragm, terminating at the T12 level."
+    },
+    {
+      "question": "Which artery is a branch of the arch of the aorta in the superior mediastinum?",
+      "options": ["Left common carotid artery", "Internal thoracic artery", "Right subclavian artery", "Coronary artery"],
+      "answer": "Left common carotid artery",
+      "explanation": "The arch of the aorta branches in the superior mediastinum into the brachiocephalic trunk, left common carotid, and left subclavian arteries."
+    },
+    {
+      "question": "The esophagus is located in which of the following mediastinal compartments?",
+      "options": ["Superior and posterior mediastinum", "Anterior and middle mediastinum", "Superior and middle mediastinum", "Anterior only"],
+      "answer": "Superior and posterior mediastinum",
+      "explanation": "The esophagus descends through the superior mediastinum and then the posterior mediastinum."
+    },
+    {
+      "question": "The thoracic sympathetic trunk runs alongside which quadrant of the mediastinum?",
+      "options": ["Lateral to the posterior mediastinum", "Within the anterior mediastinum", "Deep within the middle mediastinum", "Anterior to the trachea"],
+      "answer": "Lateral to the posterior mediastinum",
+      "explanation": "The thoracic sympathetic trunks lie laterally against the heads of the ribs, bordering the posterior mediastinum."
+    },
+    {
+      "question": "What is the primary content of the superior mediastinum among the options?",
+      "options": ["Arch of aorta", "Pericardial cavity", "Descending aorta", "Right ventricle"],
+      "answer": "Arch of aorta",
+      "explanation": "The arch of the aorta and its three major branches are key vascular contents of the superior mediastinum."
+    },
+    {
+      "question": "Which vein arches over the root of the right lung to drain into the SVC?",
+      "options": ["Azygos vein", "Hemiazygos vein", "Internal thoracic vein", "Left superior intercostal vein"],
+      "answer": "Azygos vein",
+      "explanation": "The azygos vein runs anteriorly in the posterior mediastinum, then arches superiorly over the right lung root to empty into the SVC."
+    },
+    {
+      "question": "The phrenic nerve is accompanied in its mediastinal course by which vascular branches?",
+      "options": ["Pericardiacophrenic vessels", "Internal thoracic vessels", "Superior phrenic vessels", "Bronchial vessels"],
+      "answer": "Pericardiacophrenic vessels",
+      "explanation": "The pericardiacophrenic artery (branch of internal thoracic) and vein run with the phrenic nerve."
+    },
+    {
+      "question": "Which of the following nerves loops under the arch of the aorta in the superior mediastinum?",
+      "options": ["Left recurrent laryngeal nerve", "Right phrenic nerve", "Left vagus nerve main trunk", "Right recurrent laryngeal nerve"],
+      "answer": "Left recurrent laryngeal nerve",
+      "explanation": "The left recurrent laryngeal nerve branches from the vagus, looping beneath the arch of the aorta and ligamentum arteriosum."
+    },
+    {
+      "question": "The ligamentum arteriosum is situated in which mediastinal area?",
+      "options": ["Superior mediastinum", "Anterior mediastinum", "Middle mediastinum", "Posterior mediastinum"],
+      "answer": "Superior mediastinum",
+      "explanation": "The ligamentum arteriosum connects the arch of the aorta to the pulmonary trunk in the superior mediastinum."
+    },
+    {
+      "question": "Which of the following structures represents a major lymphoid organ in the superior mediastinum?",
+      "options": ["Thymus", "Spleen", "Tonsil", "Thyroid"],
+      "answer": "Thymus",
+      "explanation": "The thymus gland is a primary lymphoid organ sitting behind the sternum in the superior/anterior mediastinum."
+    },
+    {
+      "question": "Which nerve passes immediately posterior to the root of the lung in the mediastinum?",
+      "options": ["Vagus nerve", "Phrenic nerve", "Sympathetic trunk", "Subcostal nerve"],
+      "answer": "Vagus nerve",
+      "explanation": "Vagus nerves (right and left) course postero-inferiorly, passing posterior to the lung roots."
+    },
+    {
+      "question": "The thoracic duct enters the posterior mediastinum through which aperture?",
+      "options": ["Aortic opening of the diaphragm", "Esophageal opening", "Vena caval opening", "Superior thoracic aperture"],
+      "answer": "Aortic opening of the diaphragm",
+      "explanation": "The thoracic duct ascends from the cisterna chyli in the abdomen through the aortic aperture at T12."
+    },
+    {
+      "question": "In infection spread, the retropharyngeal space drains inferiorly into which mediastinum space?",
+      "options": ["Superior and posterior mediastinum", "Anterior mediastinum", "Middle mediastinum", "None of the above"],
+      "answer": "Superior and posterior mediastinum",
+      "explanation": "The retropharyngeal space connects directly with the superior and posterior mediastinal spaces."
+    },
+    {
+      "question": "The hemiazygos vein is located in which part of the mediastinum?",
+      "options": ["Posterior mediastinum left side", "Posterior mediastinum right side", "Anterior mediastinum left side", "Superior mediastinum central"],
+      "answer": "Posterior mediastinum left side",
+      "explanation": "The hemiazygos and accessory hemiazygos veins lie on the left side of the posterior mediastinum."
+    },
+    {
+      "question": "Which of the following is bounded posteriorly by the T5 to T12 thoracic vertebrae?",
+      "options": ["Posterior mediastinum", "Superior mediastinum", "Middle mediastinum", "Anterior mediastinum"],
+      "answer": "Posterior mediastinum",
+      "explanation": "The posterior mediastinum lies anterior to the bodies of the lower eight thoracic vertebrae (T5-T12)."
+    },
+    {
+      "question": "The boundary between the anterior and middle mediastinum is defined by which structure?",
+      "options": ["Anterior wall of the fibrous pericardium", "Sternal wall", "Tracheal bifurcations", "Left phrenic nerve"],
+      "answer": "Anterior wall of the fibrous pericardium",
+      "explanation": "The anterior wall of the fibrous pericardium forms the posterior boundary of the anterior mediastinum and the anterior wall of the middle mediastinum."
+    },
+    {
+      "question": "The arch of the azygos vein is a key content of which mediastinal zone?",
+      "options": ["Superior mediastinum", "Anterior mediastinum", "Middle mediastinum", "Posterior mediastinum"],
+      "answer": "Superior mediastinum",
+      "explanation": "The azygos vein arches anteriorly over the right bronchus in the superior mediastinum."
+    },
+    {
+      "question": "Which of the following structures does NOT enter or leave the superior mediastinum through the superior thoracic aperture?",
+      "options": ["Arch of aorta", "Trachea", "Esophagus", "Phrenic nerve"],
+      "answer": "Arch of aorta",
+      "explanation": "The esophagus, trachea, and phrenic nerves pass through the aperture, but the arch of the aorta begins and remains below it."
+    },
+    {
+      "question": "The anterior mediastinum is bounded anteriorly by which of the following?",
+      "options": ["Body of the sternum", "Manubrium sterni", "Trachea", "Coronary sinus"],
+      "answer": "Body of the sternum",
+      "explanation": "The body of the sternum forms the anterior boundary of the anterior mediastinum."
+    },
+    {
+      "question": "Which of the following structures crosses from the left to the right side in the superior mediastinum?",
+      "options": ["Left brachiocephalic vein", "Arch of aorta", "Azygos vein", "Thoracic duct"],
+      "answer": "Left brachiocephalic vein",
+      "explanation": "The left brachiocephalic vein runs obliquely across the mediastinum to meet the right brachiocephalic vein, forming the SVC."
+    },
+    {
+      "question": "In clinical cases of deep thoracic tumors, a 'bovine cough' is caused by compression of which nerve?",
+      "options": ["Recurrent laryngeal nerve", "Phrenic nerve", "Sympathetic chain", "Vagus main trunk"],
+      "answer": "Recurrent laryngeal nerve",
+      "explanation": "Compression of the recurrent laryngeal nerve paralyzes vocal cords, leading to a weak, bovine cough."
     }
+  ],
+  "reference": [
+    "B.D. Chaurasia - Human Anatomy (Volume 1: Upper Limb and Thorax, Section on Mediastinum)",
+    "Vishram Singh - Textbook of Anatomy: Upper Limb and Thorax (Volume 1, Chapter on Mediastinum)"
   ]
 }

@@ -30,6 +30,11 @@ fun AppNavigation(navController: NavHostController, context: Context) {
         composable("home") {
             HomeScreen(navController = navController)
         }
+        composable("flashcards") {
+            com.example.feature.retention.FlashcardScreen(
+                onBack = { navController.popBackStack() }
+            )
+        }
         composable("curriculum_dashboard") {
             CurriculumScreen(navController = navController)
         }

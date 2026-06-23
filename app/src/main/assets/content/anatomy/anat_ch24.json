@@ -41,28 +41,200 @@
   ],
   "vivaQuestions": [
     "Question: Where does the thoracic duct originate, how does it enter the thorax, and where does it terminate? | Answer: Originates from the cisterna chyli at L1-L2 vertebra level, enters the thorax through the aortic opening of the diaphragm (T12), and terminates in the left venous angle (junction of left internal jugular and left subclavian veins). | Examiner Key Points: Cisterna chyli, aortic opening (T12), left venous angle. | Clinical Importance: Injury leads to pleural chylothorax, collapsing the lung.",
-    "Question: What role does the azygos system of veins play during obstruction of the inferior vena cava (IVC)? | Answer: It acts as an important collateral venous channel. Blood from the lower body can flow from ascending lumbar veins into the azygos and hemiazygos veins and ascend to empty into the SVC, bypassing the obstructed IVC. | Examiner Key Points: Collateral channel, ascending lumbar connections, bypasses IVC, empties into SVC. | Clinical Importance: Under pressure, these veins enlarge significantly to maintain cardiac inflow."
+    "Question: What role does the azygos system of veins play during obstruction of the inferior vena cava (IVC)? | Answer: It acts as an important collateral venous channel. Blood from the lower body can flow from ascending lumbar veins into the azygos and hemiazygos veins and ascend to empty into the SVC, bypassing the obstructed IVC. | Examiner Key Points: Collateral channel, ascending lumbar connections, bypasses IVC, empties into SVC. | Clinical Importance: Under pressure, these veins enlarge significantly to maintain cardiac inflow.",
+    "Question: What is the cisterna chyli and where is it located?| Answer: A dilated lymphatic sac that represents the origin of the thoracic duct. It lies anterior to the body of the L1-L2 vertebrae, to the right of the abdominal aorta.| Examiner Key Points: Dilated lymphatic sac, L1-L2 spinal level.| Clinical Importance: Collects all lipid-rich chyle from G.I. tracts and lower extremities.",
+    "Question: Which regions of the human body are drained by the right lymphatic duct?| Answer: Drains lymph from the right upper quadrant: the right side of the head and neck, right upper limb, and right side of the thorax.| Examiner Key Points: Right head/neck, right arm, right chest.| Clinical Importance: Drains into the right venous angle.",
+    "Question: Detail the course of the thoracic duct within the posterior mediastinum.| Answer: Enters thorax at T12, ascends between aorta (on left) and azygos vein (on right) in front of vertebrae, crosses from right to left side of spine at T5 level (sternal angle), and continues up behind the esophagus.| Examiner Key Points: Enters at T12, crosses right to left at T5.| Clinical Importance: Close proximity to vertebrae makes it prone to damage in severe thoracic spinal fractures.",
+    "Question: Compare the hemiazygos and accessory hemiazygos veins.| Answer: Hemiazygos vein sits on the lower left posterior wall, draining lower 3-4 spaces. Accessory hemiazygos sits on upper left posterior wall, draining middle 3-4 spaces. Both cross the spine to drain into the right-sided azygos vein.| Examiner Key Points: Left side veins, Hemiazygos lower, Accessory upper, cross to right.| Clinical Importance: They represent a left-to-right collateral drainage system.",
+    "Question: What are the splanchnic nerves and where do they arise?| Answer: Greater, lesser, and least thoracic splanchnic nerves. They arise from the thoracic sympathetic ganglia (T5-T9, T10-T11, T12 respectively) carrying preganglionic fibers to the abdomen.| Examiner Key Points: Greater (T5-T9), Lesser (T10-T11), Least (T12) origin.| Clinical Importance: Deliver sympathetic pain fibers carrying abdominal visceral pain.",
+    "Question: What is chylothorax and how is it diagnosed?| Answer: Accumulation of lipid-rich lymphatic fluid (chyle) in the pleural cavity from thoracic duct damage. Diagnosed by tapping pleural fluid and finding a milky appearance with high trigylcerides.| Examiner Key Points: Milky fluid, high triglycerides, thoracic duct tear.| Clinical Importance: Requires high-efficiency non-fat diets or duct ligation.",
+    "Question: Describe the structure and number of ganglia in the thoracic sympathetic trunk.| Answer: The trunk has 11 or 12 paravertebral ganglia on each side, linked by interganglionic cords and connected to spinal nerves by white and gray rami communicantes.| Examiner Key Points: 11-12 ganglia, white and gray rami.| Clinical Importance: Target zone for surgical sympathectomies in hyperhidrosis.",
+    "Question: What occurs when the stellar ganglionic complex is damaged? | Answer: Damage to the cervicothoracic (stellate) ganglion leads to Horner's Syndrome (ptosis, miosis, anhidrosis, enophthalmos).| Examiner Key Points: Ptosis, miosis, anhidrosis.| Clinical Importance: Diagnostic complex of apical lung tumor invasion (Pancoast tumor)."
   ],
   "mcqs": [
     {
       "question": "Which of the following structures drains lymph from the right upper limb, right side of head, and right side of thorax?",
-      "options": [
-        "Thoracic duct",
-        "Right lymphatic duct",
-        "Cisterna chyli",
-        "Left subclavian trunk"
-      ],
-      "answer": "Right lymphatic duct"
+      "options": ["Thoracic duct", "Right lymphatic duct", "Cisterna chyli", "Left subclavian trunk"],
+      "answer": "Right lymphatic duct",
+      "explanation": "The right lymphatic duct drains lymph only from the right upper quadrant of the body."
     },
     {
       "question": "Where does the thoracic duct typically terminate and empty its lymph contents?",
-      "options": [
-        "Right atrium",
-        "Junction of left internal jugular and left subclavian veins",
-        "Superior vena cava",
-        "Azygos vein"
-      ],
-      "answer": "Junction of left internal jugular and left subclavian veins"
+      "options": ["Right atrium", "Junction of left internal jugular and left subclavian veins", "Superior vena cava", "Azygos vein"],
+      "answer": "Junction of left internal jugular and left subclavian veins",
+      "explanation": "The thoracic duct terminates in the neck, draining into the left venous angle where the left internal jugular and left subclavian veins join."
+    },
+    {
+      "question": "The thoracic duct originates from which dilated lymphatic structure in the abdomen?",
+      "options": ["Cisterna chyli", "Spleen", "Thoracic sinus", "Iliac lymph sac"],
+      "answer": "Cisterna chyli",
+      "explanation": "The thoracic duct begins at the superior end of the cisterna chyli at the L1-L2 vertebra level."
+    },
+    {
+      "question": "At what vertebral level does the thoracic duct typically cross from the right side of the vertebral column to the left?",
+      "options": ["T5", "T8", "T10", "T12"],
+      "answer": "T5",
+      "explanation": "The thoracic duct ascends on the right side and crosses the spine to the left side at the level of the T5 vertebra (sternal angle)."
+    },
+    {
+      "question": "The thoracic duct enters the thoracic cavity through which opening in the diaphragm?",
+      "options": ["Aortic opening", "Esophageal opening", "Vena caval opening", "Sympathetic opening"],
+      "answer": "Aortic opening",
+      "explanation": "The thoracic duct climbs through the aortic opening at T12 alongside the aorta and the azygos vein."
+    },
+    {
+      "question": "Which of the following veins runs along the right posterior thoracic wall and drains into the SVC?",
+      "options": ["Azygos vein", "Hemiazygos vein", "Accessory hemiazygos vein", "Internal jugular vein"],
+      "answer": "Azygos vein",
+      "explanation": "The azygos vein is positioned on the right side of the posterior thoracic wall, arching into the SVC."
+    },
+    {
+      "question": "On the left side of the posterior thoracic wall, the lower portion is drained by which vein?",
+      "options": ["Hemiazygos vein", "Accessory hemiazygos vein", "Azygos vein", "Left superior intercostal vein"],
+      "answer": "Hemiazygos vein",
+      "explanation": "The hemiazygos vein is the left-side equivalent of the lower portion of the azygos vein."
+    },
+    {
+      "question": "The upper portion of the left posterior thoracic wall (usually 5th to 8th spaces) is drained by which vein?",
+      "options": ["Accessory hemiazygos vein", "Hemiazygos vein", "Left superior intercostal vein", "Azygos vein"],
+      "answer": "Accessory hemiazygos vein",
+      "explanation": "The accessory hemiazygos vein drains the upper left posterior chest wall, then crosses to the right to join the azygos."
+    },
+    {
+      "question": "The right superior intercostal vein (draining 2nd, 3rd, and 4th right spaces) drains directly into which vein?",
+      "options": ["Azygos vein", "Right brachiocephalic vein", "Superior vena cava", "Internal thoracic vein"],
+      "answer": "Azygos vein",
+      "explanation": "The right superior intercostal terminal path empties directly into the azygos vein arch."
+    },
+    {
+      "question": "Which splanchnic nerve is formed by branches from the 5th to 9th (T5-T9) thoracic sympathetic ganglia?",
+      "options": ["Greater splanchnic nerve", "Lesser splanchnic nerve", "Least splanchnic nerve", "Lumbar splanchnic nerve"],
+      "answer": "Greater splanchnic nerve",
+      "explanation": "The greater splanchnic nerve arises from the T5-T9 sympathetic chain, carrying preganglionic fibers to the celiac ganglion."
+    },
+    {
+      "question": "At which vertebral level does the hemiazygos vein typically cross the spine to drain into the azygos vein?",
+      "options": ["T9", "T5", "T12", "L2"],
+      "answer": "T9",
+      "explanation": "The hemiazygos vein crosses the vertebral column from left to right at the level of T9."
+    },
+    {
+      "question": "At which vertebral level does the accessory hemiazygos vein typically cross the spine to join the azygos vein?",
+      "options": ["T8", "T12", "T6", "T10"],
+      "answer": "T8",
+      "explanation": "The accessory hemiazygos crosses to the right side at the level of T8."
+    },
+    {
+      "question": "Which of the following structures is drained of lymph by the thoracic duct?",
+      "options": ["Left lower limb", "Right head and neck", "Right upper limb", "Right pectoral region only"],
+      "answer": "Left lower limb",
+      "explanation": "The thoracic duct drains both lower limbs, abdomen, left thorax, left arm, and left head and neck."
+    },
+    {
+      "question": "The presence of milky, lipid-rich lymphatic fluid in the pleural cavity is clinically known as:",
+      "options": ["Chylothorax", "Hemothorax", "Empyema", "Hydrothorax"],
+      "answer": "Chylothorax",
+      "explanation": "Chylothorax represents the accumulation of chyle (lipid-filled lymph) inside the pleural cavity."
+    },
+    {
+      "question": "White rami communicantes, containing preganglionic sympathetic fibers, are found associated with which spinal nerves?",
+      "options": ["T1 to L2", "All spinal nerves", "C1 to C8", "S2 to S4 only"],
+      "answer": "T1 to L2",
+      "explanation": "White rami communicantes are restricted to the T1-L2 spinal segments, representing the thoracolumbar outflow."
+    },
+    {
+      "question": "Gray rami communicantes, containing postganglionic sympathetic fibers, are found associated with:",
+      "options": ["All spinal nerves", "T1 to L2 only", "Cervical spinal nerves only", "Sacral nerves only"],
+      "answer": "All spinal nerves",
+      "explanation": "Gray rami communicantes link postganglionic sympathetic fibers to every one of the 31 pairs of spinal nerves."
+    },
+    {
+      "question": "The thoracic sympathetic trunk has how many distinct ganglia on average?",
+      "options": ["11 to 12", "7 to 8", "5", "15"],
+      "answer": "11 to 12",
+      "explanation": "The thoracic sympathetic trunk contains 11 or 12 paravertebral ganglionic swellings on each side."
+    },
+    {
+      "question": "What is the primary action of the sympathetic fibers originating from the upper thoracic segments?",
+      "options": ["Increase heart rate and dilate coronary arteries", "Constrict bronchioles", "Increase gastrointestinal secretions", "Cause bradycardia"],
+      "answer": "Increase heart rate and dilate coronary arteries",
+      "explanation": "Sympathetic input accelerates the heart rate, strengthens contractions, and dilates the coronary vascular beds."
+    },
+    {
+      "question": "The stellate ganglion is formed by the fusion of which ganglia?",
+      "options": ["Inferior cervical ganglion and first thoracic ganglion", "Superior cervical and middle cervical ganglia", "Upper three thoracic ganglia", "First and second lumbar ganglia"],
+      "answer": "Inferior cervical ganglion and first thoracic ganglion",
+      "explanation": "The fusion of the inferior cervical ganglion and the 1st thoracic ganglion forms the large stella (cervicothoracic) ganglion."
+    },
+    {
+      "question": "Which nerve carries preganglionic parasympathetic fibers to the abdominal organs, descending through the posterior mediastinum?",
+      "options": ["Vagus nerve", "Phrenic nerve", "Greater splanchnic nerve", "Sympathetic trunk"],
+      "answer": "Vagus nerve",
+      "explanation": "The vagus nerve (CN X) carries preganglionic parasympathetic fibers to cross the thorax and enter the abdomen."
+    },
+    {
+      "question": "The Lesser splanchnic nerve arises from which thoracic sympathetic ganglia?",
+      "options": ["T10 and T11", "T5 to T9", "T12", "L1 and L2"],
+      "answer": "T10 and T11",
+      "explanation": "The lesser splanchnic nerve emerges from the 10th and 11th sympathetic thoracic ganglia."
+    },
+    {
+      "question": "The Least splanchnic nerve arises from which sympathetic ganglion?",
+      "options": ["T12", "T11", "T9", "L1"],
+      "answer": "T12",
+      "explanation": "The least (or lowest) splanchnic nerve is formed by branches from the 12th thoracic sympathetic ganglion."
+    },
+    {
+      "question": "Which of the following is correct regarding the thoracic duct's structure?",
+      "options": ["It contains numerous valves along its length", "It has no valves", "It is composed entirely of skeletal muscle", "It drains into the right coronary sinus"],
+      "answer": "It contains numerous valves along its length",
+      "explanation": "The thoracic duct is highly valvular, which prevents retrograde lymph flow under negative thoracic pressure."
+    },
+    {
+      "question": "If the inferior vena cava (IVC) is obstructed, which vascular system expands to shunt lower body blood to the SVC?",
+      "options": ["Azygos venous system", "Internal thoracic veins", "Portal venous system", "Pulmonary circulation"],
+      "answer": "Azygos venous system",
+      "explanation": "Obstructed IVC blood flows through lumbar collaterals into the azygos and hemiazygos veins to reach the SVC."
+    },
+    {
+      "question": "The azygos vein originates at the level of T12-L1 by the union of which veins?",
+      "options": ["Right ascending lumbar and subcostal veins", "Right internal and external iliac veins", "Interior vena cava and renal vein", "Right and left superior intercostal veins"],
+      "answer": "Right ascending lumbar and subcostal veins",
+      "explanation": "The ascending lumbar vein confluent with the right subcostal vein forms the azygos vein near L1-L2."
+    },
+    {
+      "question": "The left superior intercostal vein drains which intercostal spaces on the left side?",
+      "options": ["2nd, 3rd, and 4th", "1st only", "8th to 11th", "None, it is absent"],
+      "answer": "2nd, 3rd, and 4th",
+      "explanation": "The left superior intercostal vein drains the 2nd, 3rd, and 4th left spaces, running into the left brachiocephalic vein."
+    },
+    {
+      "question": "Which structure lies anterior to the sympathetic trunk in the thoracic chest?",
+      "options": ["Neck of the ribs and intercostal vessels", "Sternal wall", "Pericardium", "Clavicle"],
+      "answer": "Neck of the ribs and intercostal vessels",
+      "explanation": "The sympathetic trunk rests directly over the necks of the ribs, anterior to the intercostal vessels."
+    },
+    {
+      "question": "What is the consequence of surgical injury to the sympathetic trunk in the lower thorax region?",
+      "options": ["Vasodilation and loss of sweating in the lower extremity", "Paralysis of the upper arm", "Hoarseness of voice", "Loss of diaphragmatic respiration"],
+      "answer": "Vasodilation and loss of sweating in the lower extremity",
+      "explanation": "Surgical sympathectomy eliminates vasoconstriction and sweat gland activation, resulting in warm, dry limbs."
+    },
+    {
+      "question": "A tumor in the apex of the lung projecting into the stellate ganglion can cause Horner's Syndrome. Which of the following is NOT a feature of Horner's Syndrome?",
+      "options": ["Mydriasis (dilated pupil)", "Ptosis (drooping eyelid)", "Miosis (constricted pupil)", "Anhidrosis (loss of sweating)"],
+      "answer": "Mydriasis (dilated pupil)",
+      "explanation": "Horner's Syndrome is characterized by miosis (pupillary constriction due to loss of dilator pupillae sympathetic tone), ptosis, and anhidrosis."
+    },
+    {
+      "question": "In thoracic surgical procedures, the thoracic duct is easily distinguished due to which characteristic?",
+      "options": ["Its beaded appearance and milky content", "Its bright red pulsatile wall", "Its thick blue muscle layer", "Its dark green bile-like fluid"],
+      "answer": "Its beaded appearance and milky content",
+      "explanation": "The numerous valves along the thoracic duct give it a beaded structural appearance, and it contains milky lymph."
     }
+  ],
+  "reference": [
+    "B.D. Chaurasia - Human Anatomy (Volume 1: Upper Limb and Thorax, Section on Autonomics and Lymphatics)",
+    "Vishram Singh - Textbook of Anatomy: Upper Limb and Thorax (Volume 1, Chapter on Autonomic system and Azygos vein)"
   ]
 }

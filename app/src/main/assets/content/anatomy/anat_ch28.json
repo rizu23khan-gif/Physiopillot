@@ -42,9 +42,16 @@
     "Hamstring Strain: Highly common in athletics during sprinting or kicking. It usually occurs during eccentric contraction, where the muscle is rapidly stretched while contracting to control structural deceleration."
   ],
   "vivaQuestions": [
-    "Question: Name the muscles that form the boundaries of the Popliteal Fossa. | Answer: Superolaterally by the Biceps Femoris; superomedially by the Semitendinosus and Semimembranosus; inferolaterally by the lateral head of Gastrocnemius and Plantaris; and inferomedially by the medial head of Gastrocnemius. | Examiner Key Points: Biceps femoris, Semimembranosus, Gastrocnemius heads.",
-    "Question: What are the three sciatic-innervated true hamstring muscles, and what criteria must they meet? | Answer: True hamstrings are Semitendinosus, Semimembranosus, and the long head of Biceps Femoris. They must share: origin from ischial tuberosity, insertion into leg bones, sciatic tibial nerve supply, and action of hip extension and knee flexion. (Note: Short head of biceps is not a true hamstring as it originates from the femur and is supplied by common peroneal component). | Examiner Key Points: True hamstrings share ischial origin, tibial nerve innervation, bi-articular actions.",
-    "Question: Outline the arrangement of the contents of the popliteal fossa from deep to superficial. | Answer: Deepest is the Popliteal Artery, intermediate is the Popliteal Vein, and most superficial is the Tibial Nerve. | Examiner Key Points: Artery, Vein, Tibial Nerve (deep to superficial stacks)."
+    "Question: Name the muscles that form the boundaries of the Popliteal Fossa. | Answer: Superolaterally by the Biceps Femoris; superomedially by the Semitendinosus and Semimembranosus; inferolaterally by the lateral head of Gastrocnemius and Plantaris; and inferomedially by the medial head of Gastrocnemius. | Examiner Key Points: Biceps femoris, Semimembranosus, Gastrocnemius heads. | Clinical Importance: Access zone for popliteal blocks.",
+    "Question: What are the three sciatic-innervated true hamstring muscles, and what criteria must they meet? | Answer: True hamstrings are Semitendinosus, Semimembranosus, and the long head of Biceps Femoris. They must share: origin from ischial tuberosity, insertion into leg bones, sciatic tibial nerve supply, and action of hip extension and knee flexion. (Note: Short head of biceps is not a true hamstring as it originates from the femur and is supplied by common peroneal component). | Examiner Key Points: True hamstrings share ischial origin, tibial nerve innervation, bi-articular actions. | Clinical Importance: They control deceleration during sprinting.",
+    "Question: Outline the arrangement of the contents of the popliteal fossa from deep to superficial. | Answer: Deepest is the Popliteal Artery, intermediate is the Popliteal Vein, and most superficial is the Tibial Nerve. | Examiner Key Points: Artery, Vein, Tibial Nerve (deep to superficial stacks). | Clinical Importance: palpating the popliteal pulse requires deep firm pressure to compress the deep artery against the femur.",
+    "Question: Explain the clinical features and etiology of a Baker's Cyst.| Answer: Swelling of the semimembranosus bursa or herniation of the synovial membrane through the posterior knee capsule, often secondary to chronic knee effusion or osteoarthritis.| Examiner Key Points: Semimembranosus bursa, posterior joint capsule herniation.| Clinical Importance: Presents as posterior knee stiffness, mimicking DVT if ruptured.",
+    "Question: Why is the short head of the biceps femoris NOT considered a true hamstring?| Answer: It originates from the linea aspera of the femur (not ischial tuberosity), crosses only the knee joint (not bi-articular), and is supplied by the common peroneal nerve (not tibial branch).| Examiner Key Points: Lineas aspera origin, common peroneal nerve supply.| Clinical Importance: Action is restricted to knee flexion.",
+    "Question: Describe the course and termination of the small saphenous vein.| Answer: Originates on lateral foot dorsal arch, ascends posterior to lateral malleolus and up the calf midline, and pierces popliteal fascia to drain into the popliteal vein.| Examiner Key Points: Posterior to lateral malleolus, midline calf, popliteal vein drain.| Clinical Importance: Prone to varicosities.",
+    "Question: Identify the nerve that arises in the popliteal fossa and supplies the lateral side of the foot.| Answer: Sural nerve, formed by the union of medial sural cutaneous (from tibial) and lateral sural cutaneous (from common peroneal) branches.| Examiner Key Points: Sural nerve, sensory lateral foot.| Clinical Importance: Frequently harvested for nerve graft repairs.",
+    "Question: Describe the genicular anastomosis around the knee joint.| Answer: Ten-artery collateral circle formed by superior and inferior medial/lateral genicular arteries, descending genicular, and anterior/posterior tibial recurrent arteries.| Examiner Key Points: Collateral arterial ring around patellar margins.| Clinical Importance: Ensures vascular patency during extreme knee flexion.",
+    "Question: What are the boundaries of the floor of the popliteal fossa?| Answer: Popliteal surface of femur, posterior knee capsule with oblique popliteal ligament, and popliteus muscle fascia.| Examiner Key Points: Popliteal surface, posterior capsule, popliteus.| Clinical Importance: Aneurysms press directly against the femur floor facet.",
+    "Question: What is a hamstring pull and during which phase of sprinting does it occur? | Answer: eccentric strain or tear of hamstring fibers, occurring during the terminal swing phase where hamstrings contract eccentrically to decelerate the leg.| Examiner Key Points: Eccentric deceleration, terminal swing phase stretch.| Clinical Importance: Requires flexibility training to prevent athletic recurrence."
   ],
   "mcqs": [
     {
@@ -55,7 +62,8 @@
         "Popliteal artery",
         "Common peroneal nerve"
       ],
-      "answer": "Popliteal artery"
+      "answer": "Popliteal artery",
+      "explanation": "The popliteal artery is the deepest structure, positioned directly against the femur popliteal surface."
     },
     {
       "question": "Which of the following muscles is supplied by the common peroneal component of the sciatic nerve rather than the tibial component?",
@@ -65,7 +73,8 @@
         "Biceps femoris short head",
         "Biceps femoris long head"
       ],
-      "answer": "Biceps femoris short head"
+      "answer": "Biceps femoris short head",
+      "explanation": "The short head of biceps is supplied by the common peroneal (fibular) division of the sciatic nerve (L5-S2)."
     },
     {
       "question": "A Baker's cyst is most typically an effusion or expansion arising from the synovial bursa below which muscle?",
@@ -75,11 +84,309 @@
         "Popliteus",
         "Plantaris"
       ],
-      "answer": "Semimembranosus"
+      "answer": "Semimembranosus",
+      "explanation": "Baker's cysts display expansion of the semimembranosus bursa communicating with the knee joint."
+    },
+    {
+      "question": "Which of the following forms the superolateral boundary of the popliteal fossa?",
+      "options": [
+        "Biceps femoris",
+        "Semitendinosus",
+        "Semimembranosus",
+        "Gastrocnemius lateral head"
+      ],
+      "answer": "Biceps femoris",
+      "explanation": "The biceps femoris tendon forms the superolateral boundary of the popliteal fossa."
+    },
+    {
+      "question": "Which pair of muscles forms the superomedial boundary of the popliteal fossa?",
+      "options": [
+        "Semitendinosus and Semimembranosus",
+        "Biceps femoris and Sartorius",
+        "Gastrocnemius medial and lateral heads",
+        "Gracilis and Pectineus"
+      ],
+      "answer": "Semitendinosus and Semimembranosus",
+      "explanation": "The superomedial aspect of the fossa is bounded by the semitendinosus and semimembranosus tendons."
+    },
+    {
+      "question": "The inferolateral boundary of the popliteal fossa is formed by which muscle?",
+      "options": [
+        "Lateral head of Gastrocnemius and Plantaris",
+        "Medial head of Gastrocnemius",
+        "Biceps femoris",
+        "Popliteus"
+      ],
+      "answer": "Lateral head of Gastrocnemius and Plantaris",
+      "explanation": "The lateral head of gastrocnemius (aided by the small plantaris muscle) forms the inferolateral boundary."
+    },
+    {
+      "question": "Which of the following describes the anatomical sequence of popliteal structures from superficial to deep?",
+      "options": [
+        "Tibial nerve, Popliteal vein, Popliteal artery",
+        "Popliteal artery, Popliteal vein, Tibial nerve",
+        "Popliteal vein, Tibial nerve, Popliteal artery",
+        "Tibial nerve, Popliteal artery, Popliteal vein"
+      ],
+      "answer": "Tibial nerve, Popliteal vein, Popliteal artery",
+      "explanation": "From superficial to deep, the sequence of contents is: Tibial Nerve, Popliteal Vein, and Popliteal Artery."
+    },
+    {
+      "question": "The small saphenous vein drains directly into which of the following vessels?",
+      "options": [
+        "Popliteal vein",
+        "Great saphenous vein",
+        "Femoral vein",
+        "Posterior tibial vein"
+      ],
+      "answer": "Popliteal vein",
+      "explanation": "The small saphenous vein pierces the deep popliteal fascia to join the popliteal vein in the fossa."
+    },
+    {
+      "question": "The sural nerve, a major sensory channel for the heel and outer foot, is formed by branches from which two nerves?",
+      "options": [
+        "Tibial and Common peroneal nerves",
+        "Femoral and Saphenous nerves",
+        "Obturator and Sciatic nerves",
+        "Posterior tibial and Medial plantar"
+      ],
+      "answer": "Tibial and Common peroneal nerves",
+      "explanation": "The sural nerve arises from the convergence of sural branches from the tibial and common peroneal nerves."
+    },
+    {
+      "question": "All hamstring muscles share a common bony origin from which pelvic landmark, with the exception of the biceps short head?",
+      "options": [
+        "Ischial tuberosity",
+        "Ischial spine",
+        "Iliac crest",
+        "Pubic body"
+      ],
+      "answer": "Ischial tuberosity",
+      "explanation": "The ischial tuberosity is the joint origin of the semitendinosus, semimembranosus, and biceps long head."
+    },
+    {
+      "question": "The sciatic nerve typically bifurcates into the tibial and common peroneal nerves at which location?",
+      "options": [
+        "Superior angle of the popliteal fossa",
+        "Under the inguinal ligament",
+        "Middle of the anterior thigh",
+        "Behind the medial malleolus"
+      ],
+      "answer": "Superior angle of the popliteal fossa",
+      "explanation": "The sciatic nerve descends the posterior thigh and divides at the upper (apex) angle of the popliteal fossa."
+    },
+    {
+      "question": "Which of the following muscles is a bi-articular flexor of the knee and plantarflexor of the ankle?",
+      "options": [
+        "Gastrocnemius",
+        "Soleus",
+        "Tibialis anterior",
+        "Popliteus"
+      ],
+      "answer": "Gastrocnemius",
+      "explanation": "The gastrocnemius originates from the femoral condyles, crossing the knee to act as knee flexor and ankle plantarflexor."
+    },
+    {
+      "question": "Which of the following nerves runs along the lateral tendon boundary of the popliteal fossa, heading around the fibular neck?",
+      "options": [
+        "Common peroneal (fibular) nerve",
+        "Tibial nerve",
+        "Sural nerve",
+        "Saphenous nerve"
+      ],
+      "answer": "Common peroneal (fibular) nerve",
+      "explanation": "The common peroneal nerve traces the medial border of the biceps femoris tendon, gliding laterally around the neck of the fibula."
+    },
+    {
+      "question": "The popliteus muscle acts to unlock the knee joint by performing which rotational action?",
+      "options": [
+        "Lateral rotation of the femur on a fixed tibia",
+        "Medial rotation of the femur on a fixed tibia",
+        "Dorsiflexion of the ankle",
+        "Extension of the knee"
+      ],
+      "answer": "Lateral rotation of the femur on a fixed tibia",
+      "explanation": "To initiate knee flexion from full extension, the popliteus laterally rotates the femur on the weight-bearing tibia."
+    },
+    {
+      "question": "Which of the following arteries is NOT a direct component of the genicular anastomosis around the knee?",
+      "options": [
+        "Profunda femoris artery first perforator",
+        "Superior medial genicular artery",
+        "Inferior lateral genicular artery",
+        "Descending genicular artery"
+      ],
+      "answer": "Profunda femoris artery first perforator",
+      "explanation": "The genicular anastomosis involves superior/inferior genicular branches from popliteal, descending genicular, and recurrent tibial branches."
+    },
+    {
+      "question": "A popliteal artery aneurysm compresses which structure, leading to lower-extremity sensory abnormalities?",
+      "options": [
+        "Tibial nerve",
+        "Femoral nerve",
+        "Saphenous nerve",
+        "Sartorius muscle"
+      ],
+      "answer": "Tibial nerve",
+      "explanation": "The tibial nerve lies directly superficial to the popliteal vein and artery, making it vulnerable to compression."
+    },
+    {
+      "question": "An active contraction of hamstrings is crucial to control decelerating vectors of the leg during which phase of gait?",
+      "options": [
+        "Terminal swing phase",
+        "Heel strike phase",
+        "Mid-stance phase",
+        "Toe-off phase"
+      ],
+      "answer": "Terminal swing phase",
+      "explanation": "Hamstrings contract eccentrically in the terminal swing phase to control forward leg excursion."
+    },
+    {
+      "question": "Which hamstring muscle is characterized by a long, flat membranous origin and insertion?",
+      "options": [
+        "Semimembranosus",
+        "Semitendinosus",
+        "Biceps femoris",
+        "Sartorius"
+      ],
+      "answer": "Semimembranosus",
+      "explanation": "Semimembranosus is named for its flat, membranous tendon of origin occupying the upper half of the posterior thigh."
+    },
+    {
+      "question": "Which hamstring muscle features a thin, cord-like tendon in its lower half?",
+      "options": [
+        "Semitendinosus",
+        "Semimembranosus",
+        "Biceps femoris long head",
+        "Gracilis"
+      ],
+      "answer": "Semitendinosus",
+      "explanation": "Semitendinosus contains a long, rounded, cord-like tendon in the distal half of the thigh."
+    },
+    {
+      "question": "Which of the following nerves carries sensory innervation from the skin covering the posterior aspect of the entire thigh?",
+      "options": [
+        "Posterior femoral cutaneous nerve",
+        "Lateral femoral cutaneous nerve",
+        "Saphenous nerve",
+        "Obturator nerve"
+      ],
+      "answer": "Posterior femoral cutaneous nerve",
+      "explanation": "The posterior femoral cutaneous nerve (S1, S2, S3) supplies the skin on the posterior thigh and calf."
+    },
+    {
+      "question": "Where does the popliteal artery begin?",
+      "options": [
+        "At the adductor hiatus",
+        "Under the inguinal ligament",
+        "At the lower border of popliteus",
+        "Behind the medial malleolus"
+      ],
+      "answer": "At the adductor hiatus",
+      "explanation": "The femoral artery becomes the popliteal artery as it passes through the adductor hiatus."
+    },
+    {
+      "question": "Where does the popliteal artery bifurcate and terminate?",
+      "options": [
+        "Lower border of the popliteus muscle",
+        "Upper angle of the popliteal fossa",
+        "Neck of the fibula",
+        "Tendon of Achilles"
+      ],
+      "answer": "Lower border of the popliteus muscle",
+      "explanation": "The popliteal artery terminates below the popliteus by dividing into the anterior and posterior tibial arteries."
+    },
+    {
+      "question": "What is the primary action of the plantaris muscle?",
+      "options": [
+        "Weak accessory knee-flexor and ankle plantarflexor",
+        "Primary hip extensor",
+        "Primary ankle evertor",
+        "Unlocks the knee"
+      ],
+      "answer": "Weak accessory knee-flexor and ankle plantarflexor",
+      "explanation": "Plantaris is a rudimentary accessory muscle that assists gastrocnemius weakly."
+    },
+    {
+      "question": "Which of the following is correct regarding the popliteal lymph nodes?",
+      "options": [
+        "They receive lymph from the lateral side of the foot and deep leg structures",
+        "They drain directly into cervical nodes",
+        "They are located superficial to the skin",
+        "They drain only the upper thigh"
+      ],
+      "answer": "They receive lymph from the lateral side of the foot and deep leg structures",
+      "explanation": "Popliteal lymph nodes receive lymph from the lateral foot (following the small saphenous vein) and deep leg structures."
+    },
+    {
+      "question": "The oblique popliteal ligament represents an expansion of the tendon of which muscle?",
+      "options": [
+        "Semimembranosus",
+        "Semitendinosus",
+        "Biceps femoris",
+        "Popliteus"
+      ],
+      "answer": "Semimembranosus",
+      "explanation": "The oblique popliteal ligament is a retrograde fibrous expansion from the semimembranosus insertion tendon."
+    },
+    {
+      "question": "Which muscle tendon of the posterior thigh forms the lateral wall border of the popliteal space?",
+      "options": [
+        "Biceps femoris",
+        "Sartorius",
+        "Gracilis",
+        "Semitendinosus"
+      ],
+      "answer": "Biceps femoris",
+      "explanation": "The biceps femoris tendon represents the absolute lateral boundary of the popliteal fossa superiorly."
+    },
+    {
+      "question": "The tibial nerve is formed by which division of the sciatic roots?",
+      "options": [
+        "Anterior divisions of L4 to S3",
+        "Posterior divisions of L2 to L4",
+        "Posterior divisions of L4 to S2",
+        "Anterior divisions of L1 to L3"
+      ],
+      "answer": "Anterior divisions of L4 to S3",
+      "explanation": "The tibial nerve segment arises from the anterior (ventral) divisions of the anterior rami of L4-S3 spinal nerves."
+    },
+    {
+      "question": "The common peroneal nerve is formed by which division of the sciatic roots?",
+      "options": [
+        "Posterior divisions of L4 to S2",
+        "Anterior divisions of L4 to S3",
+        "Anterior divisions of L2 to L4",
+        "Posterior divisions of S1 to S4"
+      ],
+      "answer": "Posterior divisions of L4 to S2",
+      "explanation": "The common peroneal nerve arises from the posterior divisions of L4, L5, S1, and S2."
+    },
+    {
+      "question": "Injury to the tibial nerve within the popliteal fossa paralyzes which set of muscles?",
+      "options": [
+        "Gastrocnemius, soleus, and plantaris",
+        "Tibialis anterior and extensors",
+        "Peroneus longus and brevis",
+        "Quadriceps group"
+      ],
+      "answer": "Gastrocnemius, soleus, and plantaris",
+      "explanation": "The tibial nerve innervates all muscles of the posterior leg, including gastrocnemius, soleus, plantaris, and deep flexors."
+    },
+    {
+      "question": "What is a prominent clinical finding of deep posterior tibial compartment compression syndrome?",
+      "options": [
+        "Loss of sensation on the sole of the foot",
+        "Inability to extend the knee",
+        "Loss of patellar reflex",
+        "Pain on ankle eversion"
+      ],
+      "answer": "Loss of sensation on the sole of the foot",
+      "explanation": "Pressure traps the tibial nerve, causing paresthesias or sensory loss on the sole (plantar aspect) of the foot."
     }
   ],
   "reference": [
-    "B.D. Chaurasia's Human Anatomy, Volume II, Chapter 5: Posterior Compartment of Thigh & Popliteal Fossa.",
-    "Daniel's & Worthingham's Muscle Testing, Hamstrings Evaluation."
+    "B.D. Chaurasia's Human Anatomy, Volume II - Lower Limb, Chapter 5: Posterior Compartment of Thigh & Popliteal Fossa.",
+    "Vishram Singh - Textbook of Anatomy: Lower Limb (Volume 2, Chapter on Popliteal Fossa)"
   ]
 }

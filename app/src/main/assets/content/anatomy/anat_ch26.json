@@ -42,9 +42,16 @@
     "Patellofemoral Pain Syndrome (PFPS): Often results from an imbalance in the strength of Vastus Lateralis (pulls patella laterally) relative to the Vastus Medialis Obliquus (pulls patella medially), causing maltracking of the patella."
   ],
   "vivaQuestions": [
-    "Question: List the precise order of structures in the femoral triangle from lateral to medial. | Answer: Femoral Nerve, Femoral Artery, Femoral Vein, Femoral Canal containing lymph node (NAVY / NAVEL - Nerve, Artery, Vein, Empty Space, Lymphatics). | Examiner Key Points: Latin lateral-to-medial order; remember the nerve is outside of the femoral sheath.",
-    "Question: What are the boundaries, contents, and clinical relevance of the femoral canal? | Answer: Bounded by the femoral ring superiorly, contains lymph node of Cloquet. It allows the femoral vein to expand during venous return; clinically it is the site of femoral hernia. | Examiner Key Points: Expanding space, lymph node, femoral hernia site.",
-    "Question: Which nerve supplies the muscles of the anterior compartment of the thigh and what is its segmental origin? | Answer: Femoral nerve, arising from the posterior divisions of the anterior rami of L2, L3, and L4 spinal nerves. | Examiner Key Points: Femoral nerve, L2-L4 spinal origin."
+    "Question: List the precise order of structures in the femoral triangle from lateral to medial. | Answer: Femoral Nerve, Femoral Artery, Femoral Vein, Femoral Canal containing lymph node (NAVY / NAVEL - Nerve, Artery, Vein, Empty Space, Lymphatics). | Examiner Key Points: Latin lateral-to-medial order; remember the nerve is outside of the femoral sheath. | Clinical Importance: Crucial for locating vessels for catheterization.",
+    "Question: What are the boundaries, contents, and clinical relevance of the femoral canal? | Answer: Bounded by the femoral ring superiorly, contains lymph node of Cloquet. It allows the femoral vein to expand during venous return; clinically it is the site of femoral hernia. | Examiner Key Points: Expanding space, lymph node, femoral hernia site. | Clinical Importance: Femoral hernias have a high incidence of strangulation.",
+    "Question: Which nerve supplies the muscles of the anterior compartment of the thigh and what is its segmental origin? | Answer: Femoral nerve, arising from the posterior divisions of the anterior rami of L2, L3, and L4 spinal nerves. | Examiner Key Points: Femoral nerve, L2-L4 spinal origin. | Clinical Importance: Damage to L2-L4 compromises the patellar reflex.",
+    "Question: Describe the boundaries of the femoral triangle.| Answer: Bounded superiorly by the Inguinal ligament, medially by the medial border of the Adductor Longus muscle, and laterally by the medial border of the Sartorius muscle.| Examiner Key Points: Inguinal ligament, Adductor Longus medial border, Sartorius medial border.| Clinical Importance: Landmark for femoral vascular access.",
+    "Question: Explain the composition and function of the femoral sheath.| Answer: A funnel-shaped fascial tube extending beneath the inguinal ligament, formed by the fascia transversalis anteriorly and fascia iliaca posteriorly. It permits femoral vessels to glide during hip movements.| Examiner Key Points: Transversalis and iliaca fascia, 3 compartments.| Clinical Importance: Houses the femoral artery and vein side-by-side.",
+    "Question: Why is the femoral nerve NOT found inside the femoral sheath?| Answer: The femoral nerve develops behind the fascia iliaca and descends outside the sheath, lateral to it.| Examiner Key Points: Iliaca fascia origin, lies lateral to the sheath.| Clinical Importance: Block needles must go lateral to the sheath to target the nerve.",
+    "Question: Identify the muscles forming the floor of the femoral triangle.| Answer: From lateral to medial: Iliacus, Psoas major, Pectineus, and Adductor longus.| Examiner Key Points: Iliacus, Psoas, Pectineus, Adductor longus floor sequence.| Clinical Importance: An abscess in the psoas sheath pointers directly to this floor surface.",
+    "Question: What is the Hunter’s Canal (adductor canal) and what are its contents?| Answer: An aponeurotic tunnel in the middle third of the medial thigh, running from the apex of the femoral triangle to the adductor hiatus. It transmits the femoral artery, femoral vein, saphenous nerve, and nerve to vastus medialis.| Examiner Key Points: Mid-thigh tunnel, femoral artery/vein, saphenous nerve.| Clinical Importance: Site of saphenous nerve blocks for knee surgery.",
+    "Question: What is the mechanical role of the Sartorius muscle and what is its dual action?| Answer: Sartorius is the longest muscle, crossing the hip and knee. It flexes, abducts, and laterally rotates the hip, and flexes and medially rotates the knee.| Examiner Key Points: Bi-articular, tailor's muscle actions.| Clinical Importance: Weakness degrades pelvic alignment during dynamic stepping.",
+    "Question: Describe the Vastus Medialis Obliquus (VMO) and its role in patellar tracking. | Answer: The distal oblique fibers of the vastus medialis which insert directly onto the medial margin of the patella, pulling it medially to offset the lateral pull of vastus lateralis.| Examiner Key Points: Medial pull, offsets Vastus Lateralis vertical vector.| Clinical Importance: VMO weakness causes lateral patellar tracking and Patellofemoral Pain Syndrome (PFPS)."
   ],
   "mcqs": [
     {
@@ -55,7 +62,8 @@
         "Femoral nerve",
         "Deep inguinal lymph nodes (Cloquet)"
       ],
-      "answer": "Femoral nerve"
+      "answer": "Femoral nerve",
+      "explanation": "The femoral nerve lies lateral to the femoral sheath, running deep to the fascia iliaca."
     },
     {
       "question": "An active contraction of which specific component of the quadriceps prevents lateral tracking of the patella?",
@@ -65,7 +73,8 @@
         "Vastus bifurcator",
         "Vastus lateralis"
       ],
-      "answer": "Vastus medialis obliquus (VMO)"
+      "answer": "Vastus medialis obliquus (VMO)",
+      "explanation": "The oblique fibers of the vastus medialis (VMO) actively maintain the medial-lateral alignment of the patellar kneecap."
     },
     {
       "question": "An abnormal protrusion through the femoral ring into the femoral canal represents a:",
@@ -75,11 +84,309 @@
         "Femoral hernia",
         "Umbilical hernia"
       ],
-      "answer": "Femoral hernia"
+      "answer": "Femoral hernia",
+      "explanation": "Femoral hernia occurs when abdominopelvic viscera protrude through the weak femoral ring into the femoral canal."
+    },
+    {
+      "question": "Which of the following forms the lateral boundary of the femoral triangle?",
+      "options": [
+        "Sartorius medial border",
+        "Adductor longus lateral border",
+        "Gracilis",
+        "Inguinal ligament"
+      ],
+      "answer": "Sartorius medial border",
+      "explanation": "The lateral boundary of the femoral triangle is formed by the medial border of the sartorius muscle."
+    },
+    {
+      "question": "The medial boundary of the femoral triangle is formed by which structure?",
+      "options": [
+        "Sartorius lateral border",
+        "Adductor longus medial border",
+        "Inguinal ligament",
+        "Pectineus"
+      ],
+      "answer": "Adductor longus medial border",
+      "explanation": "The medial boundary of the femoral triangle is formed by the medial border of the adductor longus muscle."
+    },
+    {
+      "question": "What is the longest muscle in the human body?",
+      "options": [
+        "Gracilis",
+        "Sartorius",
+        "Rectus femoris",
+        "Semimembranosus"
+      ],
+      "answer": "Sartorius",
+      "explanation": "Sartorius (the tailor's muscle) is the longest muscle, tracing obliquely from the ASIS down to the medial tibia."
+    },
+    {
+      "question": "Which of the following muscles is NOT a member of the quadriceps femoris group?",
+      "options": [
+        "Rectus femoris",
+        "Vastus lateralis",
+        "Sartorius",
+        "Vastus intermedius"
+      ],
+      "answer": "Sartorius",
+      "explanation": "The quadriceps group consists of rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius."
+    },
+    {
+      "question": "Which of the quadriceps muscles crosses both the hip and the knee joints?",
+      "options": [
+        "Rectus femoris",
+        "Vastus lateralis",
+        "Vastus medialis",
+        "Vastus intermedius"
+      ],
+      "answer": "Rectus femoris",
+      "explanation": "Rectus femoris originates from the AIIS, crossing the hip joint to act as a hip flexor, and the knee joint as an extensor."
+    },
+    {
+      "question": "What structure forms the roof of the adductor (Hunter’s) canal?",
+      "options": [
+        "Femur",
+        "Vastus medialis",
+        "Sartorius and submediator fascia",
+        "Adductor longus"
+      ],
+      "answer": "Sartorius and submediator fascia",
+      "explanation": "The adductor canal roof is formed by the sartorius muscle and the subsartorial fascia."
+    },
+    {
+      "question": "Which nerve runs inside the adductor canal but does NOT pass through the adductor hiatus?",
+      "options": [
+        "Saphenous nerve",
+        "Femoral nerve trunk",
+        "Tibial nerve",
+        "Obturator nerve"
+      ],
+      "answer": "Saphenous nerve",
+      "explanation": "The saphenous nerve (cutaneous branch of femoral nerve) leaves the canal early by piercing the fascia to become subcutaneous."
+    },
+    {
+      "question": "The patellar reflex tests the functional integrity of which spinal cord levels?",
+      "options": [
+        "L1-L2",
+        "L2-L4",
+        "L5-S1",
+        "S1-S2"
+      ],
+      "answer": "L2-L4",
+      "explanation": "Tapping the patellar ligament tests the femoral nerve spinal segments L2, L3, and L4."
+    },
+    {
+      "question": "Which muscle of the anterior thigh inserts into the pes anserinus on the medial tibia?",
+      "options": [
+        "Sartorius",
+        "Rectus femoris",
+        "Vastus medialis",
+        "Pectineus"
+      ],
+      "answer": "Sartorius",
+      "explanation": "The sartorius is the most anterior component of the pes anserinus insertion on the proximal medial tibia."
+    },
+    {
+      "question": "The femoral artery represents a direct continuation of which major blood vessel?",
+      "options": [
+        "External iliac artery",
+        "Internal iliac artery",
+        "Common iliac artery",
+        "Deep circumflex femoral artery"
+      ],
+      "answer": "External iliac artery",
+      "explanation": "The external iliac artery becomes the femoral artery as it passes beneath the inguinal ligament."
+    },
+    {
+      "question": "The medial compartment of the femoral sheath is anatomically named the:",
+      "options": [
+        "Femoral canal",
+        "Femoral ring",
+        "Adductor canal",
+        "Saphenous opening"
+      ],
+      "answer": "Femoral canal",
+      "explanation": "The medial compartment is the femoral canal, containing lymphatic vessels, connective tissue, and a lymph node."
+    },
+    {
+      "question": "What is the content of the medial compartment of the femoral sheath?",
+      "options": [
+        "Femoral artery",
+        "Femoral vein",
+        "Lymph node of Cloquet",
+        "Femoral nerve"
+      ],
+      "answer": "Lymph node of Cloquet",
+      "explanation": "The femoral canal (medial pocket) contains loose areolar tissues, lymphatics, and the lymph node of Cloquet."
+    },
+    {
+      "question": "Which ligament forms the anterior boundary of the femoral ring?",
+      "options": [
+        "Inguinal ligament",
+        "Lacunar ligament",
+        "Pectineal ligament",
+        "Cooper's ligament"
+      ],
+      "answer": "Inguinal ligament",
+      "explanation": "The inguinal ligament (Poupart's ligament) forms the anterior margin of the femoral ring."
+    },
+    {
+      "question": "Which structure forms the medial boundary of the femoral ring?",
+      "options": [
+        "Lacunar ligament",
+        "Femoral vein",
+        "Inguinal ligament",
+        "Pectineal line"
+      ],
+      "answer": "Lacunar ligament",
+      "explanation": "The crescent-shaped lacunar ligament (Gimbernat's ligament) forms the sharp medial margin of the femoral ring."
+    },
+    {
+      "question": "The profunda femoris artery (deep artery of the thigh) is a branch of which vessel?",
+      "options": [
+        "Femoral artery",
+        "External iliac artery",
+        "Internal iliac artery",
+        "Femoral canal"
+      ],
+      "answer": "Femoral artery",
+      "explanation": "The profunda femoris arises from the posterolateral aspect of the femoral artery within the femoral triangle."
+    },
+    {
+      "question": "Which of the following muscles is a dual-innervated hybrid muscle in the anterior-medial thigh interface?",
+      "options": [
+        "Pectineus",
+        "Sartorius",
+        "Rectus femoris",
+        "Adductor longus"
+      ],
+      "answer": "Pectineus",
+      "explanation": "The pectineus is a hybrid muscle, supplied by the femoral nerve anteriorly and occasionally by the obturator nerve medially."
+    },
+    {
+      "question": "Which tissue layer forms the anterior wall of the femoral sheath?",
+      "options": [
+        "Fascia transversalis",
+        "Fascia iliaca",
+        "Fascia lata",
+        "Scarpa's fascia"
+      ],
+      "answer": "Fascia transversalis",
+      "explanation": "The anterior wall of the femoral sheath is a downward continuation of the abdominal fascia transversalis."
+    },
+    {
+      "question": "Which tissue layer forms the posterior wall of the femoral sheath?",
+      "options": [
+        "Fascia iliaca",
+        "Fascia transversalis",
+        "Fascia lata",
+        "Aponeurosis of external oblique"
+      ],
+      "answer": "Fascia iliaca",
+      "explanation": "The posterior wall of the femoral sheath is a continuation of the posterior abdominal fascia iliaca."
+    },
+    {
+      "question": "What is the clinical boundary of the saphenous opening in the fascia lata?",
+      "options": [
+        "Falciform margin",
+        "Cribriform fascia",
+        "Femoral ring",
+        "Inguinal ligament border"
+      ],
+      "answer": "Falciform margin",
+      "explanation": "The saphenous opening is a defect in the fascia lata bounded laterally by a sharp falciform edge."
+    },
+    {
+      "question": "The femoral nerve branches into anterior and posterior divisions around which artery?",
+      "options": [
+        "Lateral circumflex femoral artery",
+        "Profunda femoris artery",
+        "Medial circumflex femoral artery",
+        "Superficial epigastric artery"
+      ],
+      "answer": "Lateral circumflex femoral artery",
+      "explanation": "The lateral circumflex femoral artery passes between the anterior and posterior branches of the femoral nerve."
+    },
+    {
+      "question": "Which of the following vessels empties into the femoral vein through the saphenous opening?",
+      "options": [
+        "Great saphenous vein",
+        "Small saphenous vein",
+        "Profunda femoris vein",
+        "Obturator vein"
+      ],
+      "answer": "Great saphenous vein",
+      "explanation": "The great saphenous vein ascends medially and arches through the saphenous opening to drain into the femoral vein."
+    },
+    {
+      "question": "A bullet wound to the femoral apex where the sartorius crosses adductor longus endangers which vessels?",
+      "options": [
+        "Femoral artery and vein entering the adductor canal",
+        "Obturator nerve",
+        "Sciatic nerve",
+        "Lateral cutaneous nerve of thigh"
+      ],
+      "answer": "Femoral artery and vein entering the adductor canal",
+      "explanation": "The apex of the femoral triangle leads directly into the adductor canal carrying the femoral vessels."
+    },
+    {
+      "question": "The muscle articularis genu, which pulls the synovial capsule superiorly during extension, is a derivative of which muscle?",
+      "options": [
+        "Vastus intermedius",
+        "Rectus femoris",
+        "Vastus medialis",
+        "Vastus lateralis"
+      ],
+      "answer": "Vastus intermedius",
+      "explanation": "Articularis genu consists of deep fibers arising from the lower shafts of the vastus intermedius."
+    },
+    {
+      "question": "A complete laceration of the femoral nerve in the groin will result in which functional deficit?",
+      "options": [
+        "Inability to extend the knee",
+        "Inability to adduct the hip",
+        "Loss of ankle dorsiflexion",
+        "Weakness in hip extension"
+      ],
+      "answer": "Inability to extend the knee",
+      "explanation": "The femoral nerve innervates the quadriceps femoris; injury paralyzes active knee extension."
+    },
+    {
+      "question": "Where is the best anatomical location to palpate the femoral pulse?",
+      "options": [
+        "Mid-inguinal point, below the inguinal ligament",
+        "Inferior to the greater trochanter",
+        "Medial side of the knee",
+        "Within the gluteal fold"
+      ],
+      "answer": "Mid-inguinal point, below the inguinal ligament",
+      "explanation": "The femoral artery lies superficial at the mid-inguinal point, making it highly palpable."
+    },
+    {
+      "question": "Which of the following structures forms the floor of the femoral canal?",
+      "options": [
+        "Pectineus",
+        "Iliacus",
+        "Pubis and pectineal ligament",
+        "Sartorius"
+      ],
+      "answer": "Pubis and pectineal ligament",
+      "explanation": "The posterior boundary of the femoral ring is the pectineal ligament (of Cooper) lying on the ramus of the pubis."
+    },
+    {
+      "question": "The descending genicular artery is a crucial collateral branch arising from which vessel?",
+      "options": [
+        "Femoral artery, just before passing the adductor hiatus",
+        "Profunda femoris",
+        "Popliteal artery",
+        "Anterior tibial artery"
+      ],
+      "answer": "Femoral artery, just before passing the adductor hiatus",
+      "explanation": "The descending genicular artery branches from the femoral artery near the terminal end of the adductor canal."
     }
   ],
   "reference": [
     "B.D. Chaurasia's Human Anatomy, Regional and Applied, Volume II - Lower Limb, Chapter 3: Anterior Compartment of Thigh.",
-    "Gray's Anatomy for Students, 4th Edition, Section: Lower Limb Thigh Region."
+    "Vishram Singh - Textbook of Anatomy: Lower Limb (Volume 2, Chapter on Femoral Triangle and Thigh)"
   ]
 }

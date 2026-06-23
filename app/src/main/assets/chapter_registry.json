@@ -99,6 +99,125 @@
   },
   {
     "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Thorax",
+    "chapterId": "anat_ch15",
+    "chapterName": "Introduction to Thorax and Thoracic Cage"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Thorax",
+    "chapterId": "anat_ch16",
+    "chapterName": "Bones and Joints of the Thorax"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Thorax",
+    "chapterId": "anat_ch17",
+    "chapterName": "Thoracic Wall and Mechanism of Respiration"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Thorax",
+    "chapterId": "anat_ch18",
+    "chapterName": "Pleural Cavities"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Thorax",
+    "chapterId": "anat_ch19",
+    "chapterName": "Lungs (Pulmones)"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Thorax",
+    "chapterId": "anat_ch20",
+    "chapterName": "Mediastinum"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Thorax",
+    "chapterId": "anat_ch21",
+    "chapterName": "Pericardium and Heart"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Thorax",
+    "chapterId": "anat_ch22",
+    "chapterName": "Superior Vena Cava, Aorta, Pulmonary Trunk, and Thymus"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Thorax",
+    "chapterId": "anat_ch23",
+    "chapterName": "Trachea and Esophagus"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Thorax",
+    "chapterId": "anat_ch24",
+    "chapterName": "Thoracic Duct, Azygos and Hemiazygos Veins, and Thoracic Sympathetic Trunks"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Lower Limb",
+    "chapterId": "anat_ch25",
+    "chapterName": "Bones of Lower Limb"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Lower Limb",
+    "chapterId": "anat_ch26",
+    "chapterName": "Anterior Compartment of Thigh & Femoral Triangle"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Lower Limb",
+    "chapterId": "anat_ch27",
+    "chapterName": "Gluteal Region & Medial Thigh"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Lower Limb",
+    "chapterId": "anat_ch28",
+    "chapterName": "Posterior Thigh & Popliteal Fossa"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Lower Limb",
+    "chapterId": "anat_ch29",
+    "chapterName": "Knee Joint & Leg Compartments"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Lower Limb",
+    "chapterId": "anat_ch30",
+    "chapterName": "Ankle, Foot & Arches of Foot"
+  },
+  {
+    "year": "1st Year",
+    "subject": "Anatomy",
+    "unit": "Lower Limb",
+    "chapterId": "anat_ch31",
+    "chapterName": "Nerves and Blood Vessels of Lower Limb"
+  },
+  {
+    "year": "1st Year",
     "subject": "Physiology",
     "unit": "Physiology",
     "chapterId": "phys_ch1",

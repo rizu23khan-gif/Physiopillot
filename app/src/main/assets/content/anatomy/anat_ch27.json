@@ -29,8 +29,9 @@
     "local": []
   },
   "technique": {
-    "patientPreparation": [],
-Key elements of a clinical pelvic drop assessment include the patient standing on one leg for 30 seconds while the therapist observes the horizontal level of the anterior/posterior superior iliac spines.",
+    "patientPreparation": [
+      "Key elements of a clinical pelvic drop assessment include the patient standing on one leg for 30 seconds while the therapist observes the horizontal level of the anterior/posterior superior iliac spines."
+    ],
     "apparatusPreparation": [],
     "skinPreparation": [],
     "electrodePlacement": [],
@@ -43,9 +44,16 @@ Key elements of a clinical pelvic drop assessment include the patient standing o
     "Groin Pull: Strain or tearing of the medial adductor muscle group (frequently adductor longus), common in soccer players and athletes performing explosive side-to-side movements."
   ],
   "vivaQuestions": [
-    "Question: Explain Trendelenburg sign, which muscle is weak, which nerve is damaged, and how is it observed. | Answer: It is observed when the patient stands on the affected (weak) side, causing the healthy opposite side of the pelvis to sag down. It occurs due to weakness of the gluteus medius/minimus caused by superior gluteal nerve damage. | Examiner Key Points: Supporting side abductors weak, opposite side drops, superior gluteal nerve (L4-S1) pathology.",
-    "Question: Why is Adductor Magnus called a hybrid muscle? What is its nerve supply? | Answer: It is called a hybrid muscle because it has two parts with different attachments, actions, and innervations. The adductor part is supplied by the obturator nerve (L2-L4); the hamstring/ischial part is supplied by the tibial sciatic nerve (L4-S3). | Examiner Key Points: Obturator nerve, Tibial sciatic nerve, adductor/hamstring parts.",
-    "Question: Describe the safe quadrant for an intramuscular injection in the buttock and why it is chosen. | Answer: The upper outer (superolateral) quadrant is chosen. This area lies superior to the piriformis and sciatic nerve, avoiding injury to the sciatic nerve. | Examiner Key Points: Upper outer quadrant, avoids sciatic nerve."
+    "Question: Explain Trendelenburg sign, which muscle is weak, which nerve is damaged, and how is it observed. | Answer: It is observed when the patient stands on the affected (weak) side, causing the healthy opposite side of the pelvis to sag down. It occurs due to weakness of the gluteus medius/minimus caused by superior gluteal nerve damage. | Examiner Key Points: Supporting side abductors weak, opposite side drops, superior gluteal nerve (L4-S1) pathology. | Clinical Importance: Trendelenburg gait causes a waddling pattern.",
+    "Question: Why is Adductor Magnus called a hybrid muscle? What is its nerve supply? | Answer: It is called a hybrid muscle because it has two parts with different attachments, actions, and innervations. The adductor part is supplied by the obturator nerve (L2-L4); the hamstring/ischial part is supplied by the tibial sciatic nerve (L4-S3). | Examiner Key Points: Obturator nerve, Tibial sciatic nerve, adductor/hamstring parts. | Clinical Importance: Hamstring part extends the hip, adductor part adducts the thigh.",
+    "Question: Describe the safe quadrant for an intramuscular injection in the buttock and why it is chosen. | Answer: The upper outer (superolateral) quadrant is chosen. This area lies superior to the piriformis and sciatic nerve, avoiding injury to the sciatic nerve. | Examiner Key Points: Upper outer quadrant, avoids sciatic nerve. | Clinical Importance: Safeguards against iatrogenic foot drop.",
+    "Question: Describe the boundaries and contents of the greater sciatic foramen.| Answer: Formed by the greater sciatic notch of femur and sacrospinous/sacrotuberous ligaments. It transmits the piriformis muscle, superior/inferior gluteal vessels and nerves, sciatic nerve, pudendal nerve, and internal pudendal vessels.| Examiner Key Points: Greater sciatic notch, Piriformis separates contents.| Clinical Importance: The gateway from pelvis to the gluteal region.",
+    "Question: What is the Piriformis muscle's relations to the greater sciatic foramen contents?| Answer: Sits as the key landmark. Superior gluteal neurovasculature passes above the piriformis; inferior gluteal neurovasculature, sciatic nerve, and pudendal nerve pass below it.| Examiner Key Points: Above piriformis vs Below piriformis contents.| Clinical Importance: Hypertrophy traps below-piriformis elements, causing piriformis syndrome.",
+    "Question: Which nerves supply the gluteal muscles?| Answer: Gluteus maximus inside: inferior gluteal nerve (L5, S1, S2). Gluteus medius and minimus: superior gluteal nerve (L4, L5, S1).| Examiner Key Points: Maximus inferior gluteal, Medius/minimus superior gluteal.| Clinical Importance: Gluteus maximus is critical for climbing stairs; superior gluteal damage causes pelvic drop.",
+    "Question: Name the muscles of the medial (adductor) compartment of the thigh.| Answer: Adductor longus, adductor brevis, adductor magnus, gracilis, and pectineus.| Examiner Key Points: Five adductors listed.| Clinical Importance: Form the adductor mass of the upper inner thigh.",
+    "Question: What nerve supplies the medial compartment and where does it divide?| Answer: Obturator nerve (L2, L3, L4 anterior divisions), which splits into anterior and posterior branches around the adductor brevis muscle.| Examiner Key Points: Obturator nerve, anterior/posterior division of adductor brevis.| Clinical Importance: Obturator nerve damage causes adductor weakness and sensory loss on medial thigh.",
+    "Question: What is the origin and insertion of the Gracilis muscle?| Answer: Origin: body and inferior ramus of pubis. Insertion: medial upper tibial shaft (pes anserinus).| Examiner Key Points: Pubis origin, pes anserinus insertion.| Clinical Importance: Used as a tendon graft for reconstructive surgeries.",
+    "Question: Describe the 'hamstring' component of the Adductor Magnus muscle. | Answer: Originates from the ischial tuberosity and inserts on the adductor tubercle of the femur; innerated by the tibial branch of the sciatic nerve.| Examiner Key Points: Ischial origin, adductor tubercle insertion, sciatic tibial branch.| Clinical Importance: Acts as a hip extensor, working with true hamstrings."
   ],
   "mcqs": [
     {
@@ -56,7 +64,8 @@ Key elements of a clinical pelvic drop assessment include the patient standing o
         "Right inferior gluteal nerve",
         "Left inferior gluteal nerve"
       ],
-      "answer": "Left superior gluteal nerve"
+      "answer": "Left superior gluteal nerve",
+      "explanation": "Weakness of left gluteus medius (innervated by left superior gluteal nerve) fails to stabilize pelvis, letting the right side drop."
     },
     {
       "question": "Which of the following muscles is a composite muscle supplied by both the obturator and tibial nerves?",
@@ -66,7 +75,8 @@ Key elements of a clinical pelvic drop assessment include the patient standing o
         "Adductor magnus",
         "Gracilis"
       ],
-      "answer": "Adductor magnus"
+      "answer": "Adductor magnus",
+      "explanation": "Adductor magnus has an adductor part (obturator nerve) and a hamstring part (sciatic tibial nerve)."
     },
     {
       "question": "Which muscle serves as a key landmark in the gluteal region, with the sciatic nerve usually emerging inferior to it?",
@@ -76,11 +86,309 @@ Key elements of a clinical pelvic drop assessment include the patient standing o
         "Obturator externus",
         "Quadratus femoris"
       ],
-      "answer": "Piriformis"
+      "answer": "Piriformis",
+      "explanation": "The piriformis muscle exits the greater sciatic foramen, with the sciatic nerve normally emerging beneath its lower border."
+    },
+    {
+      "question": "Which nerve supplies the gluteus maximus, the primary extensor of the hip?",
+      "options": [
+        "Superior gluteal nerve",
+        "Inferior gluteal nerve",
+        "Sciatic nerve",
+        "Nerve to obturator internus"
+      ],
+      "answer": "Inferior gluteal nerve",
+      "explanation": "The inferior gluteal nerve (L5, S1, S2) provides motor innervation exclusively to the gluteus maximus."
+    },
+    {
+      "question": "The Trendelenburg sign primarily evaluates the strength of which muscle?",
+      "options": [
+        "Gluteus maximus",
+        "Gluteus medius",
+        "Piriformis",
+        "Adductor longus"
+      ],
+      "answer": "Gluteus medius",
+      "explanation": "The Trendelenburg test assesses the gluteus medius and minimus pelvic stabilization capacity."
+    },
+    {
+      "question": "To perform an intramuscular injection in the gluteal region, which quadrant is chosen to safeguard the sciatic nerve?",
+      "options": [
+        "Superomedial quadrant",
+        "Superolateral quadrant",
+        "Inferomedial quadrant",
+        "Inferolateral quadrant"
+      ],
+      "answer": "Superolateral quadrant",
+      "explanation": "The upper outer quadrant contains no major neurovascular elements, avoiding the sciatic and gluteal nerves."
+    },
+    {
+      "question": "Which of the following muscles is NOT innervated by the obturator nerve?",
+      "options": [
+        "Adductor longus",
+        "Gracilis",
+        "Sartorius",
+        "Adductor brevis"
+      ],
+      "answer": "Sartorius",
+      "explanation": "Sartorius is an anterior compartment muscle supplied by the femoral nerve."
+    },
+    {
+      "question": "The obturator nerve arises from which spinal cord segments of the lumbar plexus?",
+      "options": [
+        "L1-L2",
+        "L2-L4",
+        "L4-S1",
+        "L4-S3"
+      ],
+      "answer": "L2-L4",
+      "explanation": "The obturator nerve arises from the anterior divisions of the L2, L3, and L4 rami of the lumbar plexus."
+    },
+    {
+      "question": "What is the primary action of the gracilis muscle?",
+      "options": [
+        "Adduction of the hip and flexion of the knee",
+        "Abduction of the hip",
+        "Extension of the knee",
+        "Lateral rotation of the hip"
+      ],
+      "answer": "Adduction of the hip and flexion of the knee",
+      "explanation": "Gracilis crosses both joints, adducting the hip and flexing/medially rotating the knee."
+    },
+    {
+      "question": "Which of the following structures is located in the lesser sciatic foramen?",
+      "options": [
+        "Pudendal nerve and internal pudendal vessels",
+        "Sciatic nerve",
+        "Piriformis muscle",
+        "Superior gluteal nerve"
+      ],
+      "answer": "Pudendal nerve and internal pudendal vessels",
+      "explanation": "The pudendal nerve and internal pudendal vessels exit the greater sciatic foramen and enter the lesser sciatic foramen."
+    },
+    {
+      "question": "Which of the medial compartment muscles also receives motor fibers from the femoral nerve?",
+      "options": [
+        "Pectineus",
+        "Adductor longus",
+        "Adductor brevis",
+        "Gracilis"
+      ],
+      "answer": "Pectineus",
+      "explanation": "Pectineus is a transitional muscle innervated by both the femoral and obturator nerves."
+    },
+    {
+      "question": "What structure separates the greater sciatic foramen from the lesser sciatic foramen?",
+      "options": [
+        "Sacrospinous ligament",
+        "Sacrotuberous ligament",
+        "Iliomarginal line",
+        "Infundibulum"
+      ],
+      "answer": "Sacrospinous ligament",
+      "explanation": "The sacrospinous ligament converts the greater sciatic notch to the foramen, separating it from the lesser."
+    },
+    {
+      "question": "Which muscle acts to laterally rotate the hip and serves as the 'key' to exit relationships in the gluteus?",
+      "options": [
+        "Obturator internus",
+        "Piriformis",
+        "Gluteus minimus",
+        "Tensor fasciae latae"
+      ],
+      "answer": "Piriformis",
+      "explanation": "Piriformis is a major lateral rotator and landmark dividing the gluteal spaces."
+    },
+    {
+      "question": "Where does the obturator nerve pass to reach the medial compartment of the thigh?",
+      "options": [
+        "Obturator canal",
+        "Femoral ring",
+        "Greater sciatic notch",
+        "Lesser sciatic notch"
+      ],
+      "answer": "Obturator canal",
+      "explanation": "The obturator nerve and vessels leave the pelvis through the obturator canal in the obturator membrane."
+    },
+    {
+      "question": "The posterior division of the obturator nerve typically descends behind which muscle?",
+      "options": [
+        "Adductor brevis",
+        "Adductor longus",
+        "Pectineus",
+        "Gracilis"
+      ],
+      "answer": "Adductor brevis",
+      "explanation": "The posterior division descends behind the adductor brevis, whereas the anterior division runs in front of it."
+    },
+    {
+      "question": "Which of the following is correct regarding the gluteus medius?",
+      "options": [
+        "It is standardly innervated by the inferior gluteal nerve",
+        "It stabilizes the pelvis during bipedal single-stance gating",
+        "It acts to adduct the hip",
+        "It inserts on the tibial tubercle"
+      ],
+      "answer": "It stabilizes the pelvis during bipedal single-stance gating",
+      "explanation": "Gluteus medius prevents pelvic tilt during the stance phase of walking."
+    },
+    {
+      "question": "Which of the following muscles inserts on the greater trochanter of the femur?",
+      "options": [
+        "Gluteus medius",
+        "Gluteus maximus",
+        "Adductor magnus",
+        "Pectineus"
+      ],
+      "answer": "Gluteus medius",
+      "explanation": "Gluteus medius and minimus insert on the lateral and anterior aspects of the greater trochanter."
+    },
+    {
+      "question": "Which muscle is the primary knee-flexor pes anserinus component arising from the pubis?",
+      "options": [
+        "Gracilis",
+        "Sartorius",
+        "Semitendinosus",
+        "Rectus femoris"
+      ],
+      "answer": "Gracilis",
+      "explanation": "Gracilis originates from the pubic body and runs to the pes anserinus."
+    },
+    {
+      "question": "Where does the hamstring portion of the adductor magnus originate?",
+      "options": [
+        "Ischial tuberosity",
+        "Body of pubis",
+        "Iliac fossa",
+        "Pectineal line"
+      ],
+      "answer": "Ischial tuberosity",
+      "explanation": "The hamstring part of the adductor magnus originates from the ischial tuberosity, similar to true hamstrings."
+    },
+    {
+      "question": "The obturator externus muscle acts to perform which movement at the hip?",
+      "options": [
+        "Lateral rotation of the thigh",
+        "Medial rotation of the thigh",
+        "Abduction of the thigh",
+        "Extension of hip"
+      ],
+      "answer": "Lateral rotation of the thigh",
+      "explanation": "Obturator externus crosses behind the hip joint neck, acting as a dynamic lateral rotator."
+    },
+    {
+      "question": "The superior gluteal artery is a branch of which division of the internal iliac artery?",
+      "options": [
+        "Posterior division",
+        "Anterior division",
+        "External branch",
+        "Obturator line"
+      ],
+      "answer": "Posterior division",
+      "explanation": "The superior gluteal artery is the largest branch of the posterior division of the internal iliac artery."
+    },
+    {
+      "question": "The inferior gluteal artery is a branch of which division of the internal iliac artery?",
+      "options": [
+        "Anterior division",
+        "Posterior division",
+        "External branch",
+        "Femoral line"
+      ],
+      "answer": "Anterior division",
+      "explanation": "The inferior gluteal artery arises from the anterior division of the internal iliac artery."
+    },
+    {
+      "question": "Which of the following muscles attaches to the iliotibial (IT) band?",
+      "options": [
+        "Tensor fasciae latae and gluteus maximus",
+        "Gluteus medius",
+        "Gluteus minimus",
+        "Sartorius"
+      ],
+      "answer": "Tensor fasciae latae and gluteus maximus",
+      "explanation": "Tensor fasciae latae and a major portion of gluteus maximus insert into the iliotibial band."
+    },
+    {
+      "question": "The adductor hiatus is a gap or opening found in which muscle?",
+      "options": [
+        "Adductor magnus",
+        "Adductor longus",
+        "Adductor brevis",
+        "Pectineus"
+      ],
+      "answer": "Adductor magnus",
+      "explanation": "The adductor hiatus is an aponeurotic gap between the adductor and hamstring portions of the adductor magnus."
+    },
+    {
+      "question": "Which vessels pass through the adductor hiatus to enter the popliteal fossa?",
+      "options": [
+        "Femoral artery and vein",
+        "Obturator nerve and vessels",
+        "Sciatic nerve",
+        "Great saphenous vein"
+      ],
+      "answer": "Femoral artery and vein",
+      "explanation": "The femoral artery and vein pass through the adductor hiatus to continue as the popliteal vessels behind the knee."
+    },
+    {
+      "question": "Which muscle of the gluteal region acts as a dynamic stabilizer of bipedal walking?",
+      "options": [
+        "Gluteus medius",
+        "Piriformis",
+        "Quadratus femoris",
+        "Stellate mass"
+      ],
+      "answer": "Gluteus medius",
+      "explanation": "Gluteus medius keeps the pelvis level when the opposite foot swings forward."
+    },
+    {
+      "question": "Obturator nerve irritation can cause referred pain to which region?",
+      "options": [
+        "Medial side of the knee joint",
+        "Lateral border of the foot",
+        "Gluteal fold center",
+        "Anterior hip capsule"
+      ],
+      "answer": "Medial side of the knee joint",
+      "explanation": "Obturator nerve cutaneous branches supply medial thigh sensory fields, often referring hip pain to the medial knee."
+    },
+    {
+      "question": "Which of the lateral rotator group has its muscle fibers passing out of the pelvic cavity through the lesser sciatic foramen?",
+      "options": [
+        "Obturator internus",
+        "Piriformis",
+        "Obturator externus",
+        "Quadratus femoris"
+      ],
+      "answer": "Obturator internus",
+      "explanation": "The obturator internus muscle originates inside the pelvis and loops around the lesser sciatic notch to reach the trochanter."
+    },
+    {
+      "question": "Paralysis of the superior gluteal nerve leads to which gait pattern?",
+      "options": [
+        "Trendelenburg (waddling) gait",
+        "Steppage gait",
+        "Gluteus maximus lurch",
+        "Hemiplegic circumduction"
+      ],
+      "answer": "Trendelenburg (waddling) gait",
+      "explanation": "Paralysis of pelvic abductors leads to sagging pelvis on the healthy swing side, forcing a lateral trunk lurch."
+    },
+    {
+      "question": "A tear of the adductor longus is clinically referred to as a:",
+      "options": [
+        "Groin pull",
+        "Hamstring strain",
+        "Shin splint",
+        "Aneurysm"
+      ],
+      "answer": "Groin pull",
+      "explanation": "Groin pull is the common athletic term for a strain or tear of the medial adductor group, usually adductor longus."
     }
   ],
   "reference": [
     "B.D. Chaurasia's Human Anatomy, Volume II - Lower Limb, Chapter 4: Gluteal Region.",
-    "Magee's Orthopedic Physical Assessment, Chapter on Hip - Trendelenburg Testing."
+    "Vishram Singh - Textbook of Anatomy: Lower Limb (Volume 2, Chapter on Gluteal Region and Medial Thigh)"
   ]
 }
