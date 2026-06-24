@@ -1,0 +1,175 @@
+{
+  "subject": "Pathology",
+  "chapterId": "path_ch7",
+  "chapterName": "Nutritional Disorders",
+  "definition": [
+    "Nutritional Disorders: Diseases arising from either a deficiency or an excess of specific nutrients. Includes malnutrition (undernutrition), overnutrition (obesity), and specific vitamin or mineral deficiencies.",
+    "Protein-Energy Malnutrition (PEM): A severe dietary deficiency of proteins and calories, primarily affecting children in developing countries. Principal clinical syndromes are Marasmus and Kwashiorkor."
+  ],
+  "principle": [
+    "Marasmus: Results from a severe deficiency of calories (energy). Characterized by extreme wasting of muscle and subcutaneous fat (emaciation), 'old man' face, but with normal serum albumin levels. Growth retardation is severe.",
+    "Kwashiorkor: Results from a severe deficiency of protein despite relatively adequate caloric intake. Characterized by severe generalized edema (due to hypoalbuminemia), 'flaky paint' skin rash, hair changes, enlarged fatty liver, and apathy.",
+    "Fat-Soluble Vitamins: Vitamins A, D, E, and K. They are stored in the body and require dietary fat for absorption. Deficiencies usually result from malabsorption syndromes.",
+    "Water-Soluble Vitamins: Vitamin C and the B-complex vitamins. They are not stored in significant amounts (except B12) and must be regularly supplied in the diet.",
+    "Vitamin A (Retinol) Deficiency: Essential for vision and epithelial maintenance. Deficiency causes night blindness, xerophthalmia (dry eyes), keratomalacia (corneal softening), and squamous metaplasia of respiratory/urinary epithelia.",
+    "Vitamin D Deficiency: Essential for calcium and phosphorus metabolism and bone mineralization. Deficiency causes Rickets in children (bone deformities like bow legs, rachitic rosary) and Osteomalacia in adults (weak, undermineralized bones prone to fracture).",
+    "Vitamin C (Ascorbic Acid) Deficiency: Scurvy. Vitamin C is required for collagen synthesis (hydroxylation of proline/lysine). Deficiency leads to fragile blood vessels (bleeding gums, petechiae, ecchymoses), poor wound healing, and inadequate bone formation.",
+    "Vitamin B1 (Thiamine) Deficiency: Causes Beriberi. Dry Beriberi (polyneuropathy, muscle wasting) and Wet Beriberi (high-output cardiac failure and edema). Wernicke-Korsakoff syndrome occurs in chronic alcoholics.",
+    "Vitamin B3 (Niacin) Deficiency: Causes Pellagra. Characterized by the 3 D's: Dermatitis, Diarrhea, and Dementia (and potentially Death).",
+    "Vitamin B12 (Cobalamin) and Folate Deficiency: Both are essential for DNA synthesis. Deficiency leads to Megaloblastic Anemia. B12 deficiency also causes demyelination of the spinal cord (Subacute Combined Degeneration), causing sensory and motor deficits.",
+    "Obesity: A state of excess body fat accumulation associated with adverse health effects. A major risk factor for Type 2 diabetes, cardiovascular disease, osteoarthritis, and certain cancers."
+  ],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Osteomalacia and PT: Patients with Vitamin D deficiency osteomalacia may present with diffuse bone pain and proximal muscle weakness. Physiotherapists must avoid high-impact exercises and focus on balance, safe strengthening, and fall prevention to avoid fractures.",
+    "Vitamin B12 Neuropathy: Subacute combined degeneration affects the posterior and lateral columns of the spinal cord. PT focuses on balance training, gait re-education, and proprioceptive exercises to manage sensory ataxia and weakness.",
+    "Obesity and Osteoarthritis: Excess body weight places significantly higher biomechanical stress on weight-bearing joints (knees, hips). Weight management is a cornerstone of OA rehabilitation alongside strengthening programs.",
+    "Scurvy Implications: Deficient collagen synthesis in Vitamin C deficiency compromises connective tissue integrity. Therapists should be aware of easy bruising, joint pain (hemarthrosis), and poor healing of soft tissue injuries in malnourished patients.",
+    "Alcoholism and Thiamine: Chronic alcoholism frequently leads to thiamine (B1) deficiency. Physiotherapists treating patients with alcoholic polyneuropathy (dry beriberi) or ataxia (Wernicke's) must adapt interventions to accommodate severe neurological deficits."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "Question: Differentiate between Marasmus and Kwashiorkor. | Answer: Marasmus is a severe caloric deficiency causing extreme muscle wasting and emaciation. Kwashiorkor is a severe protein deficiency causing hypoalbuminemia, edema, enlarged fatty liver, and skin/hair changes. | Examiner Key Points: Caloric vs Protein deficiency, Wasting vs Edema.",
+    "Question: What is the underlying biochemical defect in Scurvy? | Answer: Vitamin C deficiency impairs the hydroxylation of proline and lysine residues, leading to defective collagen cross-linking and weak connective tissues. | Examiner Key Points: Vitamin C, defective collagen synthesis, hydroxylation.",
+    "Question: Describe the clinical presentation of Rickets. | Answer: It occurs in children with Vitamin D deficiency. Features include bow legs (genu varum), widened epiphyses, 'rachitic rosary' at costochondral junctions, and a 'pigeon breast' deformity. | Examiner Key Points: Vitamin D deficiency in children, bone deformities, bow legs.",
+    "Question: What are the 3 D's of Pellagra? | Answer: Dermatitis, Diarrhea, and Dementia. Caused by Niacin (Vitamin B3) deficiency. | Examiner Key Points: Dermatitis, Diarrhea, Dementia.",
+    "Question: Which vitamin deficiency causes night blindness? | Answer: Vitamin A deficiency, as it is required to synthesize rhodopsin in the retina. | Examiner Key Points: Vitamin A.",
+    "Question: What neurological complication is specific to Vitamin B12 deficiency? | Answer: Subacute combined degeneration of the spinal cord (affecting posterior and lateral columns), leading to sensory ataxia and motor weakness. | Examiner Key Points: Subacute combined degeneration, posterior/lateral columns.",
+    "Question: Differentiate between wet and dry beriberi. | Answer: Both are caused by Thiamine (B1) deficiency. Dry beriberi presents with symmetrical peripheral polyneuropathy. Wet beriberi presents with cardiovascular involvement, leading to high-output heart failure and edema. | Examiner Key Points: Thiamine deficiency, Neuropathy (dry) vs Heart failure (wet).",
+    "Question: Why do patients with Kwashiorkor develop edema? | Answer: Severe protein deficiency leads to decreased synthesis of plasma albumin by the liver, resulting in reduced plasma colloid osmotic pressure and fluid leaking into interstitial spaces. | Examiner Key Points: Hypoalbuminemia, decreased colloid osmotic pressure.",
+    "Question: Name the fat-soluble vitamins. | Answer: Vitamins A, D, E, and K. | Examiner Key Points: A, D, E, K.",
+    "Question: How does Vitamin D deficiency affect bone in adults? | Answer: It causes Osteomalacia, characterized by inadequate mineralization of newly formed osteoid matrix, making bones weak and susceptible to fracture. | Examiner Key Points: Osteomalacia, undermineralized bone."
+  ],
+  "mcqs": [
+    {
+      "question": "A child presents with severe generalized edema, a 'flaky paint' skin rash, and an enlarged liver. Diet history reveals adequate calories but almost no protein. What is the most likely diagnosis?",
+      "options": [
+        "Marasmus",
+        "Kwashiorkor",
+        "Scurvy",
+        "Rickets"
+      ],
+      "answer": "Kwashiorkor",
+      "explanation": "Kwashiorkor is characterized by protein malnutrition leading to hypoalbuminemia and subsequent edema, fatty liver, and skin lesions."
+    },
+    {
+      "question": "Which of the following vitamin deficiencies is the primary cause of osteomalacia in adults and rickets in children?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin D",
+      "explanation": "Vitamin D is essential for intestinal absorption of calcium and phosphorus, and its deficiency leads to defective bone mineralization (Rickets in kids, Osteomalacia in adults)."
+    },
+    {
+      "question": "A patient complains of bleeding gums, easy bruising, and poor wound healing. A deficiency in which vitamin is most likely responsible?",
+      "options": [
+        "Vitamin B1 (Thiamine)",
+        "Vitamin B3 (Niacin)",
+        "Vitamin C (Ascorbic acid)",
+        "Vitamin B12 (Cobalamin)"
+      ],
+      "answer": "Vitamin C (Ascorbic acid)",
+      "explanation": "Vitamin C deficiency causes Scurvy, which impairs collagen synthesis, leading to fragile blood vessels (bleeding gums, bruising) and poor wound healing."
+    },
+    {
+      "question": "Which of the following findings is uniquely associated with Vitamin B12 deficiency and is NOT seen in folate deficiency?",
+      "options": [
+        "Megaloblastic anemia",
+        "Glossitis",
+        "Subacute combined degeneration of the spinal cord",
+        "Fatigue and weakness"
+      ],
+      "answer": "Subacute combined degeneration of the spinal cord",
+      "explanation": "While both B12 and folate deficiencies cause megaloblastic anemia, only B12 deficiency causes demyelination in the spinal cord, leading to severe neurological symptoms."
+    },
+    {
+      "question": "Pellagra, characterized by the classic triad of dermatitis, diarrhea, and dementia, is caused by a deficiency of:",
+      "options": [
+        "Thiamine",
+        "Riboflavin",
+        "Niacin",
+        "Pyridoxine"
+      ],
+      "answer": "Niacin",
+      "explanation": "Niacin (Vitamin B3) deficiency leads to Pellagra. It is historically associated with diets heavily dependent on corn."
+    },
+    {
+      "question": "Severe calorie deficiency leading to extreme muscle wasting, loss of subcutaneous fat, and an 'old man' appearance in infants is diagnosed as:",
+      "options": [
+        "Marasmus",
+        "Kwashiorkor",
+        "Beriberi",
+        "Pellagra"
+      ],
+      "answer": "Marasmus",
+      "explanation": "Marasmus is somatic compartment protein and calorie depletion resulting in severe emaciation, distinct from the visceral protein depletion seen in Kwashiorkor."
+    },
+    {
+      "question": "A chronic alcoholic patient presents with ataxia, confusion, and ophthalmoplegia (Wernicke's encephalopathy). This is primarily due to a deficiency in:",
+      "options": [
+        "Vitamin B1 (Thiamine)",
+        "Vitamin B6 (Pyridoxine)",
+        "Vitamin B9 (Folate)",
+        "Vitamin A"
+      ],
+      "answer": "Vitamin B1 (Thiamine)",
+      "explanation": "Wernicke-Korsakoff syndrome is a severe neurological manifestation of Thiamine (B1) deficiency, frequently seen in chronic alcoholics."
+    },
+    {
+      "question": "Night blindness and xerophthalmia (dry eyes) are early clinical manifestations of a deficiency in which fat-soluble vitamin?",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin E",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin A",
+      "explanation": "Vitamin A is essential for the maintenance of normal vision (component of rhodopsin) and the health of epithelial surfaces."
+    },
+    {
+      "question": "Which of the following statements regarding fat-soluble vitamins is correct?",
+      "options": [
+        "They are readily excreted in urine and rarely cause toxicity.",
+        "They include vitamins B-complex and C.",
+        "They require dietary lipids and bile salts for adequate intestinal absorption.",
+        "They act primarily as coenzymes in energy metabolism pathways."
+      ],
+      "answer": "They require dietary lipids and bile salts for adequate intestinal absorption.",
+      "explanation": "Fat-soluble vitamins (A, D, E, K) require normal fat digestion and absorption mechanisms. They are stored in tissues and can cause toxicity if taken in excess."
+    },
+    {
+      "question": "Which of the following is a key biomechanical implication of obesity that is of primary concern to physiotherapists?",
+      "options": [
+        "Increased risk of megaloblastic anemia",
+        "Accelerated development of osteoporosis",
+        "Increased mechanical loading leading to early onset osteoarthritis in weight-bearing joints",
+        "Decreased risk of type 2 diabetes"
+      ],
+      "answer": "Increased mechanical loading leading to early onset osteoarthritis in weight-bearing joints",
+      "explanation": "Obesity greatly increases the mechanical stress on weight-bearing joints like the hips and knees, accelerating cartilage wear and causing osteoarthritis."
+    }
+  ],
+  "reference": [
+    "Textbook of Pathology by Harsh Mohan",
+    "Robbins Basic Pathology",
+    "WBUHS BPT Pathology Syllabus"
+  ]
+}

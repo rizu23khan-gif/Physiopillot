@@ -337,25 +337,25 @@
     },
     {
         "chapterId": "ex2_ch1",
-        "chapterName": "Passive Stretching & Flexibility",
+        "chapterName": "Goniometry Mechanics",
         "subjectId": "exercise_therapy_ii",
         "contentFile": "ex_ex2_ch1.json"
     },
     {
         "chapterId": "ex2_ch2",
-        "chapterName": "Suspension Therapy",
+        "chapterName": "Manual Muscle Testing",
         "subjectId": "exercise_therapy_ii",
         "contentFile": "ex_ex2_ch2.json"
     },
     {
         "chapterId": "ex2_ch3",
-        "chapterName": "Goniometry Mechanics",
+        "chapterName": "Passive Stretching & Flexibility",
         "subjectId": "exercise_therapy_ii",
         "contentFile": "ex_ex2_ch3.json"
     },
     {
         "chapterId": "ex2_ch4",
-        "chapterName": "Manual Muscle Testing",
+        "chapterName": "Suspension Therapy",
         "subjectId": "exercise_therapy_ii",
         "contentFile": "ex_ex2_ch4.json"
     },
@@ -432,28 +432,214 @@
         "contentFile": "bio_ch4.json"
     },
     {
-        "chapterId": "pmp_ch1",
-        "chapterName": "Cell Injury & Wallerian Degeneration",
-        "subjectId": "path_micro_pharm",
-        "contentFile": "path_pmp_ch1.json"
+        "chapterId": "path_ch1",
+        "chapterName": "Cell Injury & Adaptation",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch1.json"
     },
     {
-        "chapterId": "pmp_ch2",
-        "chapterName": "Inflammation Stages & Repair",
-        "subjectId": "path_micro_pharm",
-        "contentFile": "path_pmp_ch2.json"
+        "chapterId": "path_ch2",
+        "chapterName": "Inflammation",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch2.json"
     },
     {
-        "chapterId": "pmp_ch3",
-        "chapterName": "Microbiology is Physio",
-        "subjectId": "path_micro_pharm",
-        "contentFile": "micro_pmp_ch3.json"
+        "chapterId": "path_ch3",
+        "chapterName": "Healing and Repair",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch3.json"
     },
     {
-        "chapterId": "pmp_ch4",
-        "chapterName": "Pharmacology of Muscle & Pain Meds",
-        "subjectId": "path_micro_pharm",
-        "contentFile": "pharm_pmp_ch4.json"
+        "chapterId": "path_ch4",
+        "chapterName": "Hemodynamic Derangements",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch4.json"
+    },
+    {
+        "chapterId": "path_ch5",
+        "chapterName": "Immunity & Hypersensitivity",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch5.json"
+    },
+    {
+        "chapterId": "path_ch6",
+        "chapterName": "Neoplasia",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch6.json"
+    },
+    {
+        "chapterId": "path_ch7",
+        "chapterName": "Nutritional Disorders",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch7.json"
+    },
+    {
+        "chapterId": "path_ch8",
+        "chapterName": "Blood Disorders",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch8.json"
+    },
+    {
+        "chapterId": "path_ch9",
+        "chapterName": "Blood Vessels",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch9.json"
+    },
+    {
+        "chapterId": "path_ch10",
+        "chapterName": "Disease of Heart",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch10.json"
+    },
+    {
+        "chapterId": "path_ch11",
+        "chapterName": "Respiratory System",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch11.json"
+    },
+    {
+        "chapterId": "path_ch12",
+        "chapterName": "Joint Disorders",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch12.json"
+    },
+    {
+        "chapterId": "path_ch13",
+        "chapterName": "Bone Disorders",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch13.json"
+    },
+    {
+        "chapterId": "path_ch14",
+        "chapterName": "Muscles",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch14.json"
+    },
+    {
+        "chapterId": "path_ch15",
+        "chapterName": "Nervous System",
+        "subjectId": "pathology",
+        "contentFile": "pathology/path_ch15.json"
+    },
+    {
+        "chapterId": "micro_ch1",
+        "chapterName": "Introduction to Microbiology & Bacterial Morphology",
+        "subjectId": "microbiology",
+        "contentFile": "microbiology/micro_ch1.json"
+    },
+    {
+        "chapterId": "micro_ch2",
+        "chapterName": "Sterilization and Disinfection",
+        "subjectId": "microbiology",
+        "contentFile": "microbiology/micro_ch2.json"
+    },
+    {
+        "chapterId": "micro_ch3",
+        "chapterName": "Immunology & Hypersensitivity Basics",
+        "subjectId": "microbiology",
+        "contentFile": "microbiology/micro_ch3.json"
+    },
+    {
+        "chapterId": "micro_ch4",
+        "chapterName": "Systemic Bacteriology & Wound Infections",
+        "subjectId": "microbiology",
+        "contentFile": "microbiology/micro_ch4.json"
+    },
+    {
+        "chapterId": "micro_ch5",
+        "chapterName": "Virology & Viral Pathogens",
+        "subjectId": "microbiology",
+        "contentFile": "microbiology/micro_ch5.json"
+    },
+    {
+        "chapterId": "micro_ch6",
+        "chapterName": "Mycology & Fungal Infections",
+        "subjectId": "microbiology",
+        "contentFile": "microbiology/micro_ch6.json"
+    },
+    {
+        "chapterId": "micro_ch7",
+        "chapterName": "Parasitology & Parasitic Infections",
+        "subjectId": "microbiology",
+        "contentFile": "microbiology/micro_ch7.json"
+    },
+    {
+        "chapterId": "micro_ch8",
+        "chapterName": "Nosocomial Infections & Biomedical Waste Management",
+        "subjectId": "microbiology",
+        "contentFile": "microbiology/micro_ch8.json"
+    },
+    {
+        "chapterId": "pharm_ch1",
+        "chapterName": "General Pharmacology",
+        "subjectId": "pharmacology",
+        "contentFile": "pharmacology/pharm_ch1.json"
+    },
+    {
+        "chapterId": "pharm_ch2",
+        "chapterName": "Autonomic Nervous System",
+        "subjectId": "pharmacology",
+        "contentFile": "pharmacology/pharm_ch2.json"
+    },
+    {
+        "chapterId": "pharm_ch3",
+        "chapterName": "Musculoskeletal System",
+        "subjectId": "pharmacology",
+        "contentFile": "pharmacology/pharm_ch3.json"
+    },
+    {
+        "chapterId": "pharm_ch4",
+        "chapterName": "Drugs Acting on Kidney",
+        "subjectId": "pharmacology",
+        "contentFile": "pharmacology/pharm_ch4.json"
+    },
+    {
+        "chapterId": "pharm_ch5",
+        "chapterName": "Cardiovascular System & Blood",
+        "subjectId": "pharmacology",
+        "contentFile": "pharmacology/pharm_ch5.json"
+    },
+    {
+        "chapterId": "pharm_ch6",
+        "chapterName": "Central Nervous System",
+        "subjectId": "pharmacology",
+        "contentFile": "pharmacology/pharm_ch6.json"
+    },
+    {
+        "chapterId": "pharm_ch7",
+        "chapterName": "Autacoids",
+        "subjectId": "pharmacology",
+        "contentFile": "pharmacology/pharm_ch7.json"
+    },
+    {
+        "chapterId": "pharm_ch8",
+        "chapterName": "Respiratory System",
+        "subjectId": "pharmacology",
+        "contentFile": "pharmacology/pharm_ch8.json"
+    },
+    {
+        "chapterId": "pharm_ch9",
+        "chapterName": "Gastrointestinal Tract",
+        "subjectId": "pharmacology",
+        "contentFile": "pharmacology/pharm_ch9.json"
+    },
+    {
+        "chapterId": "pharm_ch10",
+        "chapterName": "Hormones",
+        "subjectId": "pharmacology",
+        "contentFile": "pharmacology/pharm_ch10.json"
+    },
+    {
+        "chapterId": "pharm_ch11",
+        "chapterName": "Chemotherapy",
+        "subjectId": "pharmacology",
+        "contentFile": "pharmacology/pharm_ch11.json"
+    },
+    {
+        "chapterId": "pharm_ch12",
+        "chapterName": "Geriatric Pharmacology",
+        "subjectId": "pharmacology",
+        "contentFile": "pharmacology/pharm_ch12.json"
     },
     {
         "chapterId": "med_ch1",

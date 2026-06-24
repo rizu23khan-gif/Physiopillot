@@ -105,7 +105,11 @@ object SubjectChapterRepository {
                     moduleId = "anat_head_neck",
                     title = "Head & Neck",
                     description = "Cranial anatomy, neck regions, and neuroanatomy.",
-                    chapters = emptyList() // To be filled later
+                    chapters = listOf(
+                        SubjectChapter("anat_ch32", "Skull and Cranial Cavity", 31, "Bones of the skull, cranial nerve pathways, and blood vessels."),
+                        SubjectChapter("anat_ch33", "Cervical Spine & Vertebrae", 32, "Structure and mechanics of C1-C7 vertebrae, crucial nerves, and neck musculature."),
+                        SubjectChapter("anat_ch34", "Scalp & Face Muscles", 33, "Muscles of facial expression, mastication, sensory supply, and blood flow.")
+                    )
                 )
             )
         ),
@@ -184,10 +188,10 @@ object SubjectChapterRepository {
             primaryTextbook = "Therapeutic Exercise: Foundations and Techniques by Kisner & Colby",
             secondaryTextbook = "Physical Rehabilitation by Susan B. O'Sullivan",
             chapters = listOf(
-                SubjectChapter("ex2_ch1", "Passive Stretching & Flexibility", 1, "Biology of muscle elongation, plastic deformation, and autogenic inhibition."),
-                SubjectChapter("ex2_ch2", "Suspension Therapy", 2, "Frictionless movement environment, axial and eccentric suspension set-ups."),
-                SubjectChapter("ex2_ch3", "Goniometry Mechanics", 3, "Joint axis determination, fixed/movable arms, and active ROM measurement."),
-                SubjectChapter("ex2_ch4", "Manual Muscle Testing", 4, "MRC strength grading, muscle group isolation, and resistance testing protocol."),
+                SubjectChapter("ex2_ch1", "Goniometry Mechanics", 1, "Joint axis determination, fixed/movable arms, and active ROM measurement."),
+                SubjectChapter("ex2_ch2", "Manual Muscle Testing", 2, "MRC strength grading, muscle group isolation, and resistance testing protocol."),
+                SubjectChapter("ex2_ch3", "Passive Stretching & Flexibility", 3, "Biology of muscle elongation, plastic deformation, and autogenic inhibition."),
+                SubjectChapter("ex2_ch4", "Suspension Therapy", 4, "Frictionless movement environment, axial and eccentric suspension set-ups."),
                 SubjectChapter("ex2_ch5", "Progressive Resistance Exercise", 5, "DeLorme and Oxford loading, muscle overload, progressive hypertrophy, and specificity."),
                 SubjectChapter("ex2_ch6", "Peripheral Joint Mobilization", 6, "Accessory movements, convex-concave glide direction rules, and Maitland Grade I-IV oscillations."),
                 SubjectChapter("ex2_ch7", "Balance & Coordination Training", 7, "Postural center of mass control, sensory balance feedback integration, and Frenkel's coordination tracks."),
@@ -205,25 +209,134 @@ object SubjectChapterRepository {
             description = "Force vectors, joint levers, osteokinematics, gait kinetics, and posture analysis.",
             primaryTextbook = "Joint Structure and Function: A Comprehensive Analysis by Pamela K. Norkin",
             secondaryTextbook = "Kinesiology of the Musculoskeletal System by Donald A. Neumann",
-            chapters = listOf(
-                SubjectChapter("bio_ch1", "Force Vectors & Kinematic Chains", 1, "Scalar vs vector properties, resolution of joint forces, open/closed chains."),
-                SubjectChapter("bio_ch2", "Joint Biomechanics of Upper & Lower Limbs", 2, "Scapulohumeral rhythm, knee locking-unlocking mechanism, hip forces."),
-                SubjectChapter("bio_ch3", "Gait Kinematics & Kinetics", 3, "Spatio-temporal parameters, stance/swing phases, and ground reaction forces."),
-                SubjectChapter("bio_ch4", "Postural Mechanical Analysis", 4, "Center of mass, base of support, and gravity alignment in deviations.")
+            modules = listOf(
+                SubjectModule(
+                    moduleId = "bio_foundations",
+                    title = "Foundations",
+                    description = "Fundamental principles of biomechanics and human movement.",
+                    chapters = listOf(
+                        SubjectChapter("bio_ch1", "Kinematics", 1, "Scalar vs vector properties, resolution of joint forces, open/closed chains."),
+                        SubjectChapter("bio_ch2", "Kinetics", 2, "Scapulohumeral rhythm, knee locking-unlocking mechanism, hip forces."),
+                        SubjectChapter("bio_ch3", "Movement System", 3, "Overview of the movement system."),
+                        SubjectChapter("bio_ch4", "Muscle Activity & Strength", 4, "Muscle mechanics, length-tension relationships, and strength analysis.")
+                    )
+                ),
+                SubjectModule(
+                    moduleId = "bio_upper_quarter",
+                    title = "Upper Quarter",
+                    description = "Biomechanics of the shoulder, elbow, wrist, and hand.",
+                    chapters = listOf(
+                        SubjectChapter("bio_ch5", "Shoulder Complex", 5, "Scapulothoracic, glenohumeral, acromioclavicular, and sternoclavicular joint mechanics."),
+                        SubjectChapter("bio_ch6", "Elbow & Forearm", 6, "Humeroulnar, humeroradial, and radioulnar joint mechanics."),
+                        SubjectChapter("bio_ch7", "Wrist & Hand", 7, "Carpal kinematics, grip mechanics, and finger joint forces.")
+                    )
+                ),
+                SubjectModule(
+                    moduleId = "bio_axial_skeleton",
+                    title = "Axial Skeleton",
+                    description = "Biomechanics of the spine and posture.",
+                    chapters = listOf(
+                        SubjectChapter("bio_ch8", "Head Neck Trunk & Posture", 8, "Cervical, thoracic, and lumbar spine mechanics, and postural analysis.")
+                    )
+                ),
+                SubjectModule(
+                    moduleId = "bio_lower_quarter",
+                    title = "Lower Quarter",
+                    description = "Biomechanics of the pelvis, hip, knee, ankle, and foot.",
+                    chapters = listOf(
+                        SubjectChapter("bio_ch9", "Pelvis & Hip", 9, "Pelvic ring mechanics, sacroiliac joint, and hip joint forces."),
+                        SubjectChapter("bio_ch10", "Knee", 10, "Tibiofemoral and patellofemoral joint mechanics, and meniscal function."),
+                        SubjectChapter("bio_ch11", "Ankle & Foot", 11, "Talocrural, subtalar, and midtarsal joint kinematics, and foot arches.")
+                    )
+                ),
+                SubjectModule(
+                    moduleId = "bio_functional",
+                    title = "Functional Biomechanics",
+                    description = "Analysis of complex functional movements.",
+                    chapters = listOf(
+                        SubjectChapter("bio_ch12", "Gait Analysis", 12, "Spatio-temporal parameters, stance/swing phases, and ground reaction forces."),
+                        SubjectChapter("bio_ch13", "Ergonomics & Occupational Health", 13, "Workplace mechanics, lifting techniques, and injury prevention.")
+                    )
+                )
             )
         ),
-        "path_micro_pharm" to SubjectModel(
-            subjectId = "path_micro_pharm",
-            title = CurriculumRepository.PATH_MICRO_PHARM,
+        "pathology" to SubjectModel(
+            subjectId = "pathology",
+            title = CurriculumRepository.PATHOLOGY,
             year = "2nd Year",
-            description = "Wallerian degeneration, inflammation stages, microbes, and therapeutic drug action mechanisms.",
+            description = "General and systemic pathology, inflammation, and tissue repair.",
             primaryTextbook = "Textbook of Pathology by Harsh Mohan",
-            secondaryTextbook = "Essentials of Medical Pharmacology by K.D. Tripathi",
+            secondaryTextbook = "Robbins Basic Pathology",
+            modules = listOf(
+                SubjectModule(
+                    moduleId = "path_general",
+                    title = "General Pathology",
+                    description = "Fundamental mechanisms of disease, injury, and healing.",
+                    chapters = listOf(
+                        SubjectChapter("path_ch1", "Cell Injury & Adaptation", 1, "Causes, mechanisms of cell injury, necrosis, and gangrene."),
+                        SubjectChapter("path_ch2", "Inflammation", 2, "Acute and chronic inflammation, chemical mediators."),
+                        SubjectChapter("path_ch3", "Healing and Repair", 3, "Primary and secondary healing, factors affecting repair."),
+                        SubjectChapter("path_ch4", "Hemodynamic Derangements", 4, "Oedema, hyperemia, hemorrhage, shock, embolism, thrombosis, infarction."),
+                        SubjectChapter("path_ch5", "Immunity & Hypersensitivity", 5, "Immunological mechanisms, autoimmune and immunodeficiency diseases."),
+                        SubjectChapter("path_ch6", "Neoplasia", 6, "Benign vs malignant tumors, grading, staging, carcinogenesis."),
+                        SubjectChapter("path_ch7", "Nutritional Disorders", 7, "Protein and vitamin deficiencies.")
+                    )
+                ),
+                SubjectModule(
+                    moduleId = "path_systemic",
+                    title = "Systemic Pathology",
+                    description = "Pathological changes in specific organ systems.",
+                    chapters = listOf(
+                        SubjectChapter("path_ch8", "Blood Disorders", 8, "Disorders of RBC, WBC, and platelets."),
+                        SubjectChapter("path_ch9", "Blood Vessels", 9, "Atherosclerosis, DVT, thromboangitis obliterans."),
+                        SubjectChapter("path_ch10", "Disease of Heart", 10, "CHF, ischemic heart disease, rheumatic heart disease, infective heart disease."),
+                        SubjectChapter("path_ch11", "Respiratory System", 11, "Pneumonias, asthma, COPD, tuberculosis."),
+                        SubjectChapter("path_ch12", "Joint Disorders", 12, "Types of arthritis and their features."),
+                        SubjectChapter("path_ch13", "Bone Disorders", 13, "Osteoporosis, Paget's disease, osteomyelitis, bone tumors."),
+                        SubjectChapter("path_ch14", "Muscles", 14, "Muscular dystrophy, Myasthenia gravis."),
+                        SubjectChapter("path_ch15", "Nervous System", 15, "Meningitis, encephalitis, poliomyelitis, nerve injuries.")
+                    )
+                )
+            )
+        ),
+        "microbiology" to SubjectModel(
+            subjectId = "microbiology",
+            title = CurriculumRepository.MICROBIOLOGY,
+            year = "2nd Year",
+            description = "Study of infectious agents, immune defense mechanisms, sterile procedures, and wound pathology management.",
+            primaryTextbook = "Textbook of Microbiology by Ananthanarayan",
+            secondaryTextbook = "Essentials of Medical Microbiology",
             chapters = listOf(
-                SubjectChapter("pmp_ch1", "Cell Injury & Wallerian Degeneration", 1, "Retrograde and anterograde nerve injury, healing stages, and scar tissue."),
-                SubjectChapter("pmp_ch2", "Inflammation Stages & Repair", 2, "Vascular/cellular events of acute and chronic tissue repair."),
-                SubjectChapter("pmp_ch3", "Microbiology is Physio", 3, "Wound pathology, sterile handling, and hospital-acquired infections."),
-                SubjectChapter("pmp_ch4", "Pharmacology of Muscle & Pain Meds", 4, "NSAIDs, skeletal muscle relaxants, and analgesics action.")
+                SubjectChapter("micro_ch1", "Introduction to Microbiology & Bacterial Morphology", 1, "Principles of microbiology, bacterial structure, classification, and microscopic morphology."),
+                SubjectChapter("micro_ch2", "Sterilization and Disinfection", 2, "Physical and chemical methods of sterilization and disinfection in clinical environments."),
+                SubjectChapter("micro_ch3", "Immunology & Hypersensitivity Basics", 3, "Innate and adaptive immunity, antigen-antibody reactions, and hypersensitivity states."),
+                SubjectChapter("micro_ch4", "Systemic Bacteriology & Wound Infections", 4, "Pathogenic bacteria, pyogenic cocci, wound infections, and osteomyelitis pathology."),
+                SubjectChapter("micro_ch5", "Virology & Viral Pathogens", 5, "Structure and replication of major DNA/RNA viruses, polio, HIV, and hepatitis."),
+                SubjectChapter("micro_ch6", "Mycology & Fungal Infections", 6, "Superficial, cutaneous, and deep mycoses of clinical and rehabilitation relevance."),
+                SubjectChapter("micro_ch7", "Parasitology & Parasitic Infections", 7, "Protozoan and helminthic parasites, malaria, and cysticercosis."),
+                SubjectChapter("micro_ch8", "Nosocomial Infections & Biomedical Waste Management", 8, "Hospital-acquired infections, hand hygiene, and biomedical waste segregation protocols.")
+            )
+        ),
+        "pharmacology" to SubjectModel(
+            subjectId = "pharmacology",
+            title = CurriculumRepository.PHARMACOLOGY,
+            year = "2nd Year",
+            description = "Detailed study of pharmacokinetics, pharmacodynamics, clinical indications, adverse reactions, and rehabilitation-relevant medications based on KD Tripathi.",
+            primaryTextbook = "Essentials of Medical Pharmacology by K.D. Tripathi",
+            secondaryTextbook = "Pharmacology for Physiotherapists",
+            chapters = listOf(
+                SubjectChapter("pharm_ch1", "General Pharmacology", 1, "Pharmacokinetics, pharmacodynamics, dosage forms, and routes of drug administration."),
+                SubjectChapter("pharm_ch2", "Autonomic Nervous System", 2, "Adrenergic, cholinergic, and anticholinergic agents with therapeutic effects."),
+                SubjectChapter("pharm_ch3", "Musculoskeletal System", 3, "Skeletal muscle relaxants, neuromuscular blockers, and muscle tone regulation drugs."),
+                SubjectChapter("pharm_ch4", "Drugs Acting on Kidney", 4, "Diuretics and antidiuretics influencing fluid/electrolyte balance."),
+                SubjectChapter("pharm_ch5", "Cardiovascular System & Blood", 5, "Antihypertensives, antianginal, anticoagulants, antiplatelets, and coagulants."),
+                SubjectChapter("pharm_ch6", "Central Nervous System", 6, "Anesthetics, analgesics, sedatives, hypnotics, and anti-parkinsonism agents."),
+                SubjectChapter("pharm_ch7", "Autacoids", 7, "Histamine, 5-HT, prostaglandins, and non-steroidal anti-inflammatory drugs (NSAIDs)."),
+                SubjectChapter("pharm_ch8", "Respiratory System", 8, "Drugs for bronchial asthma, cough, and COPD management."),
+                SubjectChapter("pharm_ch9", "Gastrointestinal Tract", 9, "Antiulcer agents, antiemetics, laxatives, and antidiarrheals."),
+                SubjectChapter("pharm_ch10", "Hormones", 10, "Corticosteroids, thyroid, insulin, oral hypoglycemics, and calcium regulators."),
+                SubjectChapter("pharm_ch11", "Chemotherapy", 11, "General principles of antimicrobial therapy, antibacterials, and cancer chemotherapy."),
+                SubjectChapter("pharm_ch12", "Geriatric Pharmacology", 12, "Age-related changes in pharmacology, polypharmacy, and precautions in elderly patients.")
             )
         ),
 
@@ -425,7 +538,9 @@ object SubjectChapterRepository {
             CurriculumRepository.ELECTRO_II -> "electrotherapy_ii"
             CurriculumRepository.EXERCISE_II -> "exercise_therapy_ii"
             CurriculumRepository.BIOMECHANICS -> "biomechanics_kinesiology"
-            CurriculumRepository.PATH_MICRO_PHARM -> "path_micro_pharm"
+            CurriculumRepository.PATHOLOGY -> "pathology"
+            CurriculumRepository.MICROBIOLOGY -> "microbiology"
+            CurriculumRepository.PHARMACOLOGY -> "pharmacology"
             CurriculumRepository.GEN_MEDICINE -> "general_medicine"
             CurriculumRepository.GEN_SURGERY -> "general_surgery"
             CurriculumRepository.NEURO_SURG_3RD -> "neurology_neurosurgery"

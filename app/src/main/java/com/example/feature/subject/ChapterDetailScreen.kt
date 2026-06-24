@@ -363,8 +363,10 @@ fun RichChapterContent(
     subject: SubjectModel
 ) {
     val isAnatomy = subject.subjectId == "anatomy" || content.subject.equals("Anatomy", ignoreCase = true)
+    val isModality = subject.subjectId in listOf("electrotherapy_i", "electrotherapy_ii", "exercise_therapy_i", "exercise_therapy_ii")
+    val physiologyTitle = if (isModality) "Physiology" else "Concepts"
     var selectedTab by remember { mutableStateOf(0) }
-    val tabTitles = if (isAnatomy) listOf("Theory", "Clinical App", "Exam Prep") else listOf("Theory", "Physiology", "Clinical App", "Exam Prep")
+    val tabTitles = if (isAnatomy) listOf("Theory", "Clinical App", "Exam Prep") else listOf("Theory", physiologyTitle, "Clinical App", "Exam Prep")
 
     Column(
         modifier = Modifier
@@ -429,7 +431,7 @@ fun IndexedChapterPane(
         val currentTab = tabTitles.getOrNull(tabIndex)
         when (currentTab) {
             "Theory" -> TheoryTabContent(content = content, themeColor = themeColor, isAnatomy = isAnatomy)
-            "Physiology" -> PhysiologyTabContent(content = content, themeColor = themeColor)
+            "Physiology", "Concepts" -> PhysiologyTabContent(content = content, themeColor = themeColor, subjectId = subject.subjectId)
             "Clinical App" -> ClinicalTabContent(content = content, themeColor = themeColor, isAnatomy = isAnatomy)
             "Exam Prep" -> ExamPrepTabContent(content = content, themeColor = themeColor, navController = navController)
         }
@@ -643,7 +645,45 @@ fun TheoryTabContent(content: InteractiveChapterContent, themeColor: Color, isAn
 // ==================== TAB 1: PHYSIOLOGY & PARAMETERS ====================
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
-fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color) {
+fun getSectionTitles(subjectId: String): Map<String, String> {
+    return when (subjectId) {
+        "pathology" -> mapOf(
+            "parameters" to "KEY CONCEPTS",
+            "effects" to "DISEASE MECHANISM",
+            "indications" to "CLINICAL MANIFESTATIONS",
+            "contraindications" to "RED FLAGS & SAFETY"
+        )
+        "pharmacology" -> mapOf(
+            "parameters" to "DRUG FACTS",
+            "effects" to "HOW THE DRUG WORKS",
+            "indications" to "WHEN IT IS USED",
+            "contraindications" to "WHEN TO AVOID"
+        )
+        "microbiology" -> mapOf(
+            "parameters" to "KEY CONCEPTS",
+            "effects" to "INFECTION MECHANISM",
+            "indications" to "CLINICAL RELEVANCE",
+            "contraindications" to "SAFETY PRECAUTIONS"
+        )
+        "psychology" -> mapOf(
+            "parameters" to "CORE CONCEPTS",
+            "effects" to "BEHAVIOUR MECHANISM",
+            "indications" to "CLINICAL IMPORTANCE",
+            "contraindications" to "COMMUNICATION PITFALLS"
+        )
+        else -> mapOf(
+            "parameters" to "THERAPEUTIC PARAMETERS",
+            "effects" to "PHYSIOLOGICAL EFFECTS",
+            "indications" to "CLINICAL INDICATIONS",
+            "contraindications" to "CONTRAINDICATIONS & SAFETY"
+        )
+    }
+}
+
+@OptIn(ExperimentalLayoutApi::class)
+@Composable
+fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color, subjectId: String) {
+    val titles = getSectionTitles(subjectId)
     Column(verticalArrangement = Arrangement.spacedBy(16.dp)) {
         // 1. Technical Parameters Table
         Card(
@@ -668,7 +708,7 @@ fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color) 
                     }
                     Spacer(modifier = Modifier.width(12.dp))
                     Text(
-                        text = "THERAPEUTIC PARAMETERS",
+                        text = titles["parameters"] ?: "THERAPEUTIC PARAMETERS",
                         style = MaterialTheme.typography.titleSmall,
                         fontWeight = FontWeight.Bold,
                         color = themeColor
@@ -741,7 +781,7 @@ fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color) 
                     }
                     Spacer(modifier = Modifier.width(12.dp))
                     Text(
-                        text = "PHYSIOLOGICAL EFFECTS",
+                        text = titles["effects"] ?: "PHYSIOLOGICAL EFFECTS",
                         style = MaterialTheme.typography.titleSmall,
                         fontWeight = FontWeight.Bold,
                         color = Color(0xFF059669)
@@ -829,7 +869,7 @@ fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color) 
                     }
                     Spacer(modifier = Modifier.width(12.dp))
                     Text(
-                        text = "CLINICAL INDICATIONS",
+                        text = titles["indications"] ?: "CLINICAL INDICATIONS",
                         style = MaterialTheme.typography.titleSmall,
                         fontWeight = FontWeight.Bold,
                         color = Color(0xFF2563EB)
@@ -887,7 +927,7 @@ fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color) 
                     }
                     Spacer(modifier = Modifier.width(12.dp))
                     Text(
-                        text = "CONTRAINDICATIONS & SAFETY",
+                        text = titles["contraindications"] ?: "CONTRAINDICATIONS & SAFETY",
                         style = MaterialTheme.typography.titleSmall,
                         fontWeight = FontWeight.Bold,
                         color = Color(0xFFB91C1C)
@@ -967,98 +1007,164 @@ fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color) 
 fun ClinicalTabContent(content: InteractiveChapterContent, themeColor: Color, isAnatomy: Boolean = false) {
     Column(verticalArrangement = Arrangement.spacedBy(16.dp)) {
         
-        if (!isAnatomy) {
+        val hasTechniqueData = content.technique.patientPreparation.isNotEmpty() ||
+                content.technique.apparatusPreparation.isNotEmpty() ||
+                content.technique.skinPreparation.isNotEmpty() ||
+                content.technique.electrodePlacement.isNotEmpty() ||
+                content.technique.treatmentProcedure.isNotEmpty()
+
+        if (!isAnatomy && hasTechniqueData) {
             // Expandable application technique
             var expandedPrepStep by remember { mutableStateOf(0) } // 0-indexed
             
-            Text(
-                text = "GUIDED TREATMENT STEPS",
-            style = MaterialTheme.typography.labelMedium,
-            fontWeight = FontWeight.Bold,
-            color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.6f),
-            modifier = Modifier.padding(start = 4.dp)
-        )
+            val lowerSubject = content.subject.lowercase()
+            
+            val sectionTitle = when {
+                lowerSubject.contains("electrotherapy") || lowerSubject.contains("physical agents") || lowerSubject.contains("device") -> "GUIDED TREATMENT STEPS"
+                lowerSubject.contains("exercise") || lowerSubject.contains("biomechanics") || lowerSubject.contains("kinesiology") || lowerSubject.contains("rehabilitation") -> "GUIDED CLINICAL TECHNIQUES"
+                lowerSubject.contains("microbiology") || lowerSubject.contains("pathology") || lowerSubject.contains("infection") || lowerSubject.contains("pharmacology") -> "PROCEDURE & SANITATION PROTOCOLS"
+                lowerSubject.contains("anatomy") || lowerSubject.contains("physiology") -> "LANDMARKING & ASSESSMENT STEPS"
+                else -> "GUIDED CLINICAL STEPS"
+            }
 
-        val techniqueCategories = listOf(
-            "Patient Preparation" to content.technique.patientPreparation,
-            "Apparatus Preparation" to content.technique.apparatusPreparation,
-            "Skin Preparation" to content.technique.skinPreparation,
-            "Electrode Placement" to content.technique.electrodePlacement,
-            "Treatment Procedure" to content.technique.treatmentProcedure
-        )
+            val labels = when {
+                lowerSubject.contains("electrotherapy") || lowerSubject.contains("physical agents") || lowerSubject.contains("device") -> {
+                    listOf(
+                        "Patient Preparation",
+                        "Apparatus Preparation",
+                        "Skin Preparation",
+                        "Electrode Placement",
+                        "Treatment Procedure"
+                    )
+                }
+                lowerSubject.contains("exercise") || lowerSubject.contains("biomechanics") || lowerSubject.contains("kinesiology") || lowerSubject.contains("rehabilitation") -> {
+                    listOf(
+                        "Patient Positioning & Safety",
+                        "Equipment & Area Setup",
+                        "Pre-Assessment & Warm-up",
+                        "Stance & Stabilization Setup",
+                        "Exercise Execution & Monitoring"
+                    )
+                }
+                lowerSubject.contains("microbiology") || lowerSubject.contains("pathology") || lowerSubject.contains("infection") || lowerSubject.contains("pharmacology") -> {
+                    listOf(
+                        "Patient & Area Screening",
+                        "Sterilization & Material Prep",
+                        "Barrier / Hand Hygiene Protocol",
+                        "Specimen / Modality Placement",
+                        "Procedure & Processing Steps"
+                    )
+                }
+                lowerSubject.contains("anatomy") || lowerSubject.contains("physiology") -> {
+                    listOf(
+                        "Subject Orientation",
+                        "Measurement Tools Prep",
+                        "Anatomical Landmark Prep",
+                        "Palpation / Sensor Placement",
+                        "Assessment / Testing Protocol"
+                    )
+                }
+                else -> {
+                    listOf(
+                        "Patient / Client Setup",
+                        "Equipment / Utility Prep",
+                        "Pre-Treatment Prep",
+                        "Interface / Contact Setup",
+                        "Standard Procedure Steps"
+                    )
+                }
+            }
 
-        techniqueCategories.forEachIndexed { index, (title, steps) ->
-            val isExpanded = expandedPrepStep == index
-            Card(
-                modifier = Modifier
-                    .fillMaxWidth()
-                    .clickable { expandedPrepStep = index },
-                colors = CardDefaults.cardColors(
-                    containerColor = if (isExpanded) MaterialTheme.colorScheme.surface else MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.3f)
-                ),
-                border = BorderStroke(1.dp, if (isExpanded) themeColor.copy(alpha = 0.3f) else MaterialTheme.colorScheme.outline.copy(alpha = 0.05f)),
-                shape = RoundedCornerShape(12.dp)
-            ) {
-                Column(modifier = Modifier.padding(14.dp)) {
-                    Row(
-                        modifier = Modifier.fillMaxWidth(),
-                        horizontalArrangement = Arrangement.SpaceBetween,
-                        verticalAlignment = Alignment.CenterVertically
+            val techniqueCategories = listOf(
+                labels.getOrElse(0) { "Patient Preparation" } to content.technique.patientPreparation,
+                labels.getOrElse(1) { "Apparatus Preparation" } to content.technique.apparatusPreparation,
+                labels.getOrElse(2) { "Skin Preparation" } to content.technique.skinPreparation,
+                labels.getOrElse(3) { "Electrode Placement" } to content.technique.electrodePlacement,
+                labels.getOrElse(4) { "Treatment Procedure" } to content.technique.treatmentProcedure
+            ).filter { it.second.isNotEmpty() }
+
+            if (techniqueCategories.isNotEmpty()) {
+                Text(
+                    text = sectionTitle,
+                    style = MaterialTheme.typography.labelMedium,
+                    fontWeight = FontWeight.Bold,
+                    color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.6f),
+                    modifier = Modifier.padding(start = 4.dp)
+                )
+
+                techniqueCategories.forEachIndexed { index, (title, steps) ->
+                    val isExpanded = expandedPrepStep == index
+                    Card(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .clickable { expandedPrepStep = index },
+                        colors = CardDefaults.cardColors(
+                            containerColor = if (isExpanded) MaterialTheme.colorScheme.surface else MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.3f)
+                        ),
+                        border = BorderStroke(1.dp, if (isExpanded) themeColor.copy(alpha = 0.3f) else MaterialTheme.colorScheme.outline.copy(alpha = 0.05f)),
+                        shape = RoundedCornerShape(12.dp)
                     ) {
-                        Row(verticalAlignment = Alignment.CenterVertically) {
-                            Box(
-                                modifier = Modifier
-                                    .size(26.dp)
-                                    .background(if (isExpanded) themeColor else themeColor.copy(alpha = 0.15f), CircleShape),
-                                contentAlignment = Alignment.Center
+                        Column(modifier = Modifier.padding(14.dp)) {
+                            Row(
+                                modifier = Modifier.fillMaxWidth(),
+                                horizontalArrangement = Arrangement.SpaceBetween,
+                                verticalAlignment = Alignment.CenterVertically
                             ) {
-                                Text(
-                                    text = (index + 1).toString(),
-                                    color = if (isExpanded) Color.White else themeColor,
-                                    fontWeight = FontWeight.Bold,
-                                    fontSize = 12.sp
+                                Row(verticalAlignment = Alignment.CenterVertically) {
+                                    Box(
+                                        modifier = Modifier
+                                            .size(26.dp)
+                                            .background(if (isExpanded) themeColor else themeColor.copy(alpha = 0.15f), CircleShape),
+                                        contentAlignment = Alignment.Center
+                                    ) {
+                                        Text(
+                                            text = (index + 1).toString(),
+                                            color = if (isExpanded) Color.White else themeColor,
+                                            fontWeight = FontWeight.Bold,
+                                            fontSize = 12.sp
+                                        )
+                                    }
+                                    Spacer(modifier = Modifier.width(12.dp))
+                                    Text(
+                                        text = title,
+                                        style = MaterialTheme.typography.bodyMedium,
+                                        fontWeight = FontWeight.Bold,
+                                        color = MaterialTheme.colorScheme.onSurface
+                                    )
+                                }
+                                Icon(
+                                    imageVector = if (isExpanded) Icons.Default.ExpandLess else Icons.Default.ExpandMore,
+                                    contentDescription = "Expand",
+                                    tint = MaterialTheme.colorScheme.onSurfaceVariant
                                 )
                             }
-                            Spacer(modifier = Modifier.width(12.dp))
-                            Text(
-                                text = title,
-                                style = MaterialTheme.typography.bodyMedium,
-                                fontWeight = FontWeight.Bold,
-                                color = MaterialTheme.colorScheme.onSurface
-                            )
-                        }
-                        Icon(
-                            imageVector = if (isExpanded) Icons.Default.ExpandLess else Icons.Default.ExpandMore,
-                            contentDescription = "Expand",
-                            tint = MaterialTheme.colorScheme.onSurfaceVariant
-                        )
-                    }
 
-                    AnimatedVisibility(
-                        visible = isExpanded,
-                        enter = fadeIn() + expandVertically(),
-                        exit = fadeOut() + shrinkVertically()
-                    ) {
-                        Column(modifier = Modifier.padding(top = 12.dp, start = 38.dp)) {
-                            steps.forEach { step ->
-                                Row(
-                                    modifier = Modifier.padding(bottom = 6.dp),
-                                    verticalAlignment = Alignment.Top
-                                ) {
-                                    Text("•", color = themeColor, modifier = Modifier.padding(end = 8.dp))
-                                    Text(
-                                        text = step,
-                                        style = MaterialTheme.typography.bodySmall,
-                                        color = MaterialTheme.colorScheme.onSurfaceVariant,
-                                        lineHeight = 18.sp
-                                    )
+                            AnimatedVisibility(
+                                visible = isExpanded,
+                                enter = fadeIn() + expandVertically(),
+                                exit = fadeOut() + shrinkVertically()
+                            ) {
+                                Column(modifier = Modifier.padding(top = 12.dp, start = 38.dp)) {
+                                    steps.forEach { step ->
+                                        Row(
+                                            modifier = Modifier.padding(bottom = 6.dp),
+                                            verticalAlignment = Alignment.Top
+                                        ) {
+                                            Text("•", color = themeColor, modifier = Modifier.padding(end = 8.dp))
+                                            Text(
+                                                text = step,
+                                                style = MaterialTheme.typography.bodySmall,
+                                                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                                lineHeight = 18.sp
+                                            )
+                                        }
+                                    }
                                 }
                             }
                         }
                     }
                 }
             }
-        }
         } // Close if (!isAnatomy)
 
         // Clinical Pearls (Amber Highlight)

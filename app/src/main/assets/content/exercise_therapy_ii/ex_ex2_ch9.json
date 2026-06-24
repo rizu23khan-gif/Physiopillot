@@ -13,13 +13,21 @@
     "Partial Weight-Bearing (PWB): A clinical status allowing a prescribed percentage (e.g., 20% to 50%) of body weight to be pressed through the affected limb.",
     "Weight-Bearing as Tolerated (WBAT): A clinical status allowing the patient to self-regulate lower-limb weight bearing based on comfort and pain tolerance (ranging from 50% to 100%).",
     "Full Weight-Bearing (FWB): An unrestricted status allowing 100% of body weight to be carried through both lower extremities.",
-    "Tripod Base of Support: The spatial layout formed by placing the tips of two crutches slightly forward and lateral to the patient's standing foot, creating a stable triangular base."
+    "Tripod Base of Support: The spatial layout formed by placing the tips of two crutches slightly forward and lateral to the patient's standing foot, creating a stable triangular base.",
+    "Ambulation: The clinical ability or process of moving from one place to another under one's own power, with or without the assistance of mobility devices or adaptive aids.",
+    "Gutter (Platform) Crutch: A specialized crutch featuring a padded horizontal forearm platform, adjustable strap, and upright handgrip that transmits weight-bearing loads directly through the forearm instead of the hand or wrist, highly indicated for patients with severe hand/wrist deformities, rheumatoid arthritis, or distal radial fractures.",
+    "Reciprocal Walker: A biomechanical walker featuring a hinged frame mechanism that allows each side of the frame to be advanced independently in an alternating fashion, facilitating a reciprocal gait pattern for patients with moderate balance deficits.",
+    "Offset Cane: A single-point cane with an angled or curved aluminum shaft that aligns the handgrip directly over the vertical center of the cane's base, optimizing joint unloading and providing superior biomechanical force distribution for patients with mild hip/knee pain.",
+    "Standard Walker: A stable, non-wheeled, rigid four-legged metal frame that provides maximum anterior and lateral support by expanding the physical base of support, requiring the patient to lift the entire device to advance, which provides absolute stability during early loading.",
+    "Rollator Walker: A multi-wheeled (typically 3 or 4 wheels) walking frame equipped with hand-activated brakes and a built-in resting seat, facilitating continuous, smooth ambulation without lifting, which optimizes endurance and reduces energy expenditure for cardiopulmonary or frail patients."
   ],
   "principle": [
     "Base of Support Expansion: Assistive aids expand the biomechanical base of support. By distributing joint line reactions to the upper extremities, they lower the load on painful or healing lower-limb tissues.",
     "Wrist Alignment and the 30-Degree Elbow Angle: To prevent radial nerve damage and optimize upper limb leverage, handgrips are adjusted to allow 20 to 30 degrees of elbow flexion, keeping the wrist aligned in a neutral posture.",
     "Upper Extremity Weight Distribution: Handgrips on axillary crutches are designed to bear weight through the hands and wrists via the Triceps and Anconeus. Bearing weight directly on the underarm axillary pad risks compressing the brachial plexus.",
-    "Stair Climbing Load Distribution: During stair navigation, potential energy is managed sequentially: the healthy limb pushes up first when ascending ('Up with the Good'), whereas the affected limb and crutches descend first when descending ('Down with the Bad')."
+    "Stair Climbing Load Distribution: During stair navigation, potential energy is managed sequentially: the healthy limb pushes up first when ascending ('Up with the Good'), whereas the affected limb and crutches descend first when descending ('Down with the Bad').",
+    "Metabolic & Energy Cost of Assisted Gait: Walking with assistive devices significantly increases metabolic rate, oxygen consumption, heart rate, and cardiorespiratory demand due to the heavy involvement of the smaller upper-extremity muscle groups. Among all gait styles, the bilateral crutch swing-through gait has the highest energy expenditure, which has major clinical safety implications for elderly, frail, or cardiopulmonary patients.",
+    "Supine Crutch Measurement Method: For bed-bound or severely impaired patients unable to stand, crutch length is measured in a supine position. The therapist measures from the anterior axillary fold (pad landmark) to a point 6 inches lateral to the heel, or alternatively, from the anterior axillary fold to the lateral malleolus and adds 2 inches. This ensures a highly accurate preliminary fitting before the patient transitions to upright standing."
   ],
   "equipment": [
     "Standard adjustable wooden and aluminum axillary crutches.",
@@ -61,12 +69,17 @@
     "general": [
       "Severe acute upper extremity pathology (e.g., wrist fractures, rotator cuff tears) that prevents bearing weight through the arms.",
       "Severe cognitive confusion, or inability to follow basic motor commands.",
-      "Extreme cardiopulmonary distress or decompensated heart failure."
+      "Extreme cardiopulmonary distress or decompensated heart failure.",
+      "Active Deep Vein Thrombosis (DVT) in the lower extremities (mobilization is strictly contraindicated due to risk of pulmonary embolism).",
+      "Severe, generalized upper limb pain conditions that prevent any functional loading."
     ],
     "local": [
       "Incipient localized skin breakdown, active friction bursitis, or severe nerve compression at the shoulder girdle.",
       "Acute, unhealed fractures of the wrist, hand bones, or ulnar/radial axes.",
-      "Severe local vascular conditions in the axillae, armpits, or hands."
+      "Severe local vascular conditions in the axillae, armpits, or hands.",
+      "Severe Carpal Tunnel Syndrome (preventing safe, pain-free handgrip weight transmission).",
+      "Severe Triceps Tendinopathy (severely limits the active elbow extension required for push-off).",
+      "Active vascular compromise or peripheral arterial insufficiency of the upper extremity."
     ]
   },
   "technique": {
@@ -105,7 +118,8 @@
   "clinicalPearls": [
     "Leaning directly on the axillary pads of a crutch compresses the radial nerve as it winds around the radial groove, leading to 'crutch palsy' (marked by wrist drop). Hand weight-bearing must be reinforced at all times.",
     "Remember the mnemonic for stairs: 'Up with the Good, Down with the Bad'. When ascending, the healthy leg steps up first. When descending, the crutches and affected, weak leg descend first.",
-    "The Lofstrand (elbow) crutch provides less trunk and pelvic support than an axillary crutch, but it frees the hands so the patient can open doors or carry items without dropping the crutch."
+    "The Lofstrand (elbow) crutch provides less trunk and pelvic support than an axillary crutch, but it frees the hands so the patient can open doors or carry items without dropping the crutch.",
+    "Always assess cardiopulmonary reserve before prescribing bilateral axillary crutches. Swing-through gait significantly increases oxygen consumption and may not be tolerated by frail or cardiopulmonary patients."
   ],
   "clinicalProtocols": [
     {
@@ -126,7 +140,9 @@
     "Question: Where should the physical therapist position themselves when training a patient on stairs? | Answer: The therapist must always stand below the patient to establish a physical block: behind the patient during stair ascent, and in front of the patient during stair descent, with one hand on the safety gait belt and the other on the handrail if possible. | Examiner Key Points: Always stand below the patient, behind during ascent, in front during descent, grasp gait belt. | Clinical Importance: Maximizes the therapist's ability to catch or stabilize the patient in the event of a fall.",
     "Question: Explain the 'Three-Point' gait pattern and its primary clinical indication. | Answer: The three-point gait pattern involves advancing both crutches and the weaker, affected leg together, and then advancing the strong, unaffected leg forward. It is primary indicated for patients with a unilateral lower extremity fracture, joint fusion, or surgical repair who have a strict Non-Weight Bearing (NWB) or Partial Weight Bearing (PWB) prescription. | Examiner Key Points: Both crutches + weak limb together, step with healthy limb, unilateral injuries (NWB/PWB). | Clinical Importance: Standard gait pattern for acute orthopedic lower extremity trauma.",
     "Question: Describe the Swing-To and Swing-Through gait patterns. | Answer: In a Swing-To gait, both crutches are advanced forward, and the patient swings their lower extremities to land level with, but not past, the line of the crutches. In a Swing-Through gait, both crutches are advanced, and the patient swings their legs forward to land ahead of the crutches. Both are fast, energy-demanding patterns used primarily by patients with bilateral lower limb paralysis. | Examiner Key Points: Advance crutches, swing to level of crutches vs swing past line of crutches, high upper-body strength. | Clinical Importance: Ideal for paraplegic patients utilizing knee-ankle-foot orthoses (KAFOs).",
-    "Question: Why is a 20-to-30-degree elbow flexion angle specified for handgips on walking aids? | Answer: This angle allows the elbow extensors (Triceps brachii) to contract with optimal biomechanical leverage when pushing off. If the elbow is fully straight, the locking of the joint reduces shock absorption. If it is too bent, the triceps fatigue rapidly trying to hold weight. | Examiner Key Points: 20-30 degrees flexion, optimal triceps muscle leverage, joint shock absorption, fatigue prevention. | Clinical Importance: Correct adjustment prevents premature fatigue in the upper limbs during walking."
+    "Question: Why is a 20-to-30-degree elbow flexion angle specified for handgips on walking aids? | Answer: This angle allows the elbow extensors (Triceps brachii) to contract with optimal biomechanical leverage when pushing off. If the elbow is fully straight, the locking of the joint reduces shock absorption. If it is too bent, the triceps fatigue rapidly trying to hold weight. | Examiner Key Points: 20-30 degrees flexion, optimal triceps muscle leverage, joint shock absorption, fatigue prevention. | Clinical Importance: Correct adjustment prevents premature fatigue in the upper limbs during walking.",
+    "Question: Explain Gutter Crutches and their clinical indications. | Answer: A Gutter (or Platform) Crutch features a padded forearm trough, a securing strap, and an adjustable handgrip. It is designed to transmit up to 100% of the weight-bearing load directly through the forearm rather than the hands or wrists. Clinically, it is indicated for patients with severe rheumatoid arthritis, hand deformities, severe wrist/hand pain, or ulnar/radial fractures, where weight-bearing through the hand or wrist is contraindicated or impossible. | Examiner Key Points: Forearm platform, forearm load transmission, rheumatoid arthritis/hand deformities, wrist weight-bearing contraindicated. | Clinical Importance: Avoids hand/wrist joint load while maintaining independent crutch walking capability.",
+    "Question: Describe the Supine Method of Axillary Crutch Measurement and its clinical rationale. | Answer: For bed-bound patients or those unable to stand safely, the supine method is used. The patient lies supine with shoes on. The therapist measures from the anterior axillary fold (underarm crease) to a point 6 inches lateral to the heel of the shoe. Alternatively, the measurement can be taken from the anterior axillary fold to the lateral malleolus and then adding 2 inches. | Examiner Key Points: Supine position, anterior axillary fold to 6 inches lateral to heel, OR axillary fold to lateral malleolus + 2 inches. | Clinical Importance: Allows accurate crutch sizing and height preset before the patient attempts upright weight-bearing, minimizing fall risks and fitting delays."
   ],
   "mcqs": [
     {
@@ -308,6 +324,28 @@
       "options": ["Heavy weight bags", "Rubber tips on all four legs", "Front wheels and rear glide caps/tennis balls", "Adjustable forearm platforms only"],
       "answer": "Front wheels and rear glide caps/tennis balls",
       "explanation": "Front wheels paired with rear glide caps allow the user to slide the walker forward smoothly without lifting it, which is ideal for patients with weak upper limbs."
+    },
+    {
+      "question": "Which of the following assistive devices is most appropriate for a patient with severe rheumatoid arthritis presenting with pain, ulnar drift, and joint deformities of both hands?",
+      "options": [
+        "Standard axillary crutches",
+        "Lofstrand forearm crutches",
+        "Gutter (platform) crutches",
+        "A standard offset cane"
+      ],
+      "answer": "Gutter (platform) crutches",
+      "explanation": "Gutter (platform) crutches allow weight transmission directly through the forearm platform rather than the hands and wrists, protecting deformed, painful, or unstable distal joints."
+    },
+    {
+      "question": "Which of the following gait patterns utilizes the highest amount of energy expenditure and oxygen consumption during bilateral crutch ambulation?",
+      "options": [
+        "Two-point gait",
+        "Three-point gait",
+        "Four-point gait",
+        "Swing-through gait"
+      ],
+      "answer": "Swing-through gait",
+      "explanation": "The swing-through gait is a highly kinetic, momentum-driven pattern that requires lifting and swinging the entire body weight beyond the crutch line, resulting in the highest oxygen consumption and cardiac demand."
     }
   ],
   "reference": [

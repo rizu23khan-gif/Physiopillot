@@ -1,0 +1,275 @@
+{
+  "subject": "Microbiology",
+  "chapterId": "micro_ch3",
+  "chapterName": "Immunology & Hypersensitivity Basics",
+  "definition": [
+    "Innate Immunity: The non-specific, first line of defense present from birth, consisting of physical, chemical, and cellular barriers that respond immediately to pathogens without immunological memory.",
+    "Adaptive (Acquired) Immunity: The antigen-specific, memory-retaining host defense mediated by T-lymphocytes (cell-mediated) and B-lymphocytes (humoral) that develops after exposure to an antigen.",
+    "Immunoglobulin (Antibody): A specialized Y-shaped glycoprotein synthesized by plasma cells in response to antigen exposure, which binds specifically to the initiating antigen.",
+    "Active Immunity: Long-term resistance induced in the host by exposure to foreign antigens (naturally via infection or artificially via vaccination), characterized by active antibody production and memory.",
+    "Passive Immunity: Temporary, immediate resistance conferred by transferring pre-formed exogenous antibodies (naturally via placenta/breast milk or artificially via hyperimmune serum/immunoglobulins) into a host.",
+    "Hypersensitivity: An inappropriate, exaggerated, or tissue-damaging immune response mounted by the host immune system against harmless environmental antigens (allergens).",
+    "Autoimmunity: An abnormal immunological state characterized by the loss of immunological self-tolerance, leading the host's own immune cells and antibodies to target and destroy self-tissues.",
+    "Latex Allergy: An immunological hypersensitivity reaction to natural rubber latex proteins, manifesting either as immediate IgE-mediated anaphylaxis (Type I) or delayed cell-mediated contact dermatitis (Type IV)."
+  ],
+  "principle": [
+    "INNATE AND ADAPTIVE IMMUNITY - THE COLLABORATIVE DEFENSE: The human immune system is divided into two arms. INNATE IMMUNITY is non-specific, lacks memory, and responds immediately. Its components include physical barriers (intact skin, ciliated respiratory epithelium), physiological barriers (stomach acid, lysozyme in tears), and cellular elements (macrophages, neutrophils, natural killer cells). ADAPTIVE IMMUNITY is highly specific, takes days to mature, and possesses memory. It has two components: 1) Humoral Immunity: Mediated by antibodies produced by B-lymphocytes (plasma cells), protecting against extracellular pathogens. 2) Cell-Mediated Immunity: Mediated by T-lymphocytes (Helper CD4+ and Cytotoxic CD8+), targeting intracellular pathogens, virus-infected cells, and tumor cells. Innate and adaptive immune systems interact continuously through antigen-presenting cells (dendritic cells, macrophages).",
+    "IMMUNOGLOBULIN STRUCTURE AND THE FIVE CLASSES: Immunoglobulins (Igs) are Y-shaped glycoproteins consisting of two identical Light (L) chains and two identical Heavy (H) chains, joined by disulfide bonds. The tips of the 'Y' contain the variable regions (Fab) which bind specific antigens; the stem of the 'Y' contains the constant region (Fc) which binds to immune cell receptors and complement. There are five classes: 1) IgG: Most abundant in serum (~80%), crosses the placenta, provides long-term immunity, and acts in secondary immune responses. 2) IgM: A large pentamer, first antibody produced during primary response, highly efficient in agglutination. 3) IgA: A dimer found in secretory fluids (colostrum, saliva, tears, respiratory/GI secretions), protecting mucosal surfaces. 4) IgE: Binds to mast cells and basophils, mediating Type I hypersensitivity (allergic reactions) and anti-parasitic defense. 5) IgD: Acts primarily as a B-cell surface receptor to initiate differentiation.",
+    "ACTIVE VS PASSIVE IMMUNITY - CORE COMPARISON: Host resistance can be acquired in two ways. 1) Active Immunity: The host's own immune system is stimulated to produce antibodies and memory cells. This can be Natural (recovering from an infection like measles) or Artificial (vaccination). Active immunity takes time to develop (weeks) but provides long-lasting protection. 2) Passive Immunity: The host receives pre-formed, exogenous antibodies. This can be Natural (IgG crossing the placenta to protect the fetus, or IgA in breast milk protecting the infant's gut) or Artificial (injecting anti-tetanus or anti-rabies hyperimmune serum). Passive immunity acts immediately but is temporary (weeks to months) because the foreign antibodies are metabolized, and no memory cells are formed.",
+    "VACCINES AND IMMUNIZATION PRINCIPLES: Vaccines stimulate artificial active immunity. Main types include: 1) Live Attenuated Vaccines: Contain weakened but live pathogens (e.g., Oral Polio Vaccine/Sabin, MMR, BCG). They mimic natural infection, inducing strong cell-mediated and humoral immunity, but are contraindicated in pregnant or immunocompromised individuals due to reversion risk. 2) Killed/Inactivated Vaccines: Contain dead pathogens (e.g., Injectable Polio Vaccine/Salk, Rabies, Hepatitis A). They are safe but require booster doses. 3) Toxoids: Modified bacterial exotoxins that are non-toxic but antigenic (e.g., Tetanus toxoid, Diphtheria toxoid). 4) Subunit/Recombinant Vaccines: Contain only the protective antigenic components (e.g., Hepatitis B surface antigen/HBsAg). For physical therapists, ensuring vaccine compliance (such as tetanus boosters for wound clinic staff) is critical for occupational safety.",
+    "ANTIGEN-ANTIBODY REACTIONS IN DIAGNOSTIC SEROLOGY: Antigen-antibody reactions are highly specific and form the basis of diagnostic serology. Main reactions include: 1) Agglutination: Particulate antigens clump together when exposed to specific antibodies (used in Widal test for typhoid and blood typing). 2) Precipitation: Soluble antigens react with soluble antibodies to form visible insoluble lattices (used in immunodiffusion). 3) ELISA (Enzyme-Linked Immunosorbent Assay): High-sensitivity assay using enzyme-labeled antibodies to detect specific antigens or antibodies in patient serum (used for HIV screening). 4) Immunofluorescence: Uses fluorescent dyes conjugated to antibodies to visualize pathogens under a UV microscope.",
+    "HYPERSENSITIVITY REACTIONS - TYPES I TO IV: Hypersensitivity reactions are classified by Gell and Coombs into four types based on immunological mechanisms. 1) Type I (Immediate/Anaphylactic): IgE-mediated. Allergen cross-links IgE bound to mast cells, triggering degranulation and release of histamine, leukotrienes, and prostaglandins. Manifests as anaphylaxis, asthma, urticaria, or acute latex allergy. 2) Type II (Cytotoxic): IgG/IgM-mediated. Antibodies bind to host cell antigens, activating complement or ADCC, destroying cells. Examples include mismatched blood transfusion and Myasthenia Gravis. 3) Type III (Immune Complex): IgG/IgM-mediated. Soluble antigen-antibody complexes deposit in vessel walls, activating complement and recruiting neutrophils, causing necrotizing vasculitis. Examples include Systemic Lupus Erythematosus (SLE) and Rheumatoid Arthritis. 4) Type IV (Delayed/Cell-Mediated): T-cell-mediated. CD4+ Th1 cells release cytokines that activate macrophages, or CD8+ cells directly lyse target cells. Occurs 24-72 hours after exposure. Examples include contact dermatitis (latex gloves, cosmetics), Mantoux tuberculin test, and chronic graft rejection.",
+    "AUTOIMMUNITY & CLINICAL NEUROMUSCULAR REHABILITATION: Autoimmunity represents a failure of self-tolerance. In physical therapy, three autoimmune diseases are highly encountered: 1) Rheumatoid Arthritis (RA): Autoantibodies (Rheumatoid Factor - an IgM targeting host IgG Fc region, and Anti-CCP) target the synovial membrane. Chronic synovitis leads to pannus formation, articular cartilage destruction, and joint deformities, requiring joint protection and gentle exercise. 2) Myasthenia Gravis: Autoantibodies target nicotinic acetylcholine receptors (AChR) at the neuromuscular junction, inducing Type II hypersensitivity. This blocks acetylcholine binding and causes receptor internalization and destruction, leading to fluctuating muscle fatigue (ptosis, dysphagia, respiratory weakness) that requires non-fatiguing exercise scheduling. 3) Guillain-Barré Syndrome (GBS): Often follows a Campylobacter jejuni diarrheal infection. Antibodies generated against bacterial lipooligosaccharides cross-react with gangliosides on host peripheral nerve myelin sheaths (molecular mimicry), causing acute demyelinating polyneuropathy, requiring respiratory monitoring and carefully paced submaximal physical therapy.",
+    "CONCEPT BUILDER - THE BIOPHYSICS OF LATEX ALLERGY (TYPE I VS TYPE IV): Why does a latex glove cause a rapid, life-threatening asthma attack in one clinician, but a dry, itchy, delayed rash in another? Latex allergy presents via two completely distinct immunological pathways. Type I Latex Allergy is IgE-mediated: the water-soluble Hevea latex proteins are inhaled (powdered gloves) or absorbed through skin. In sensitized individuals, IgE antibodies bound to mast cells cross-link, triggering immediate systemic degranulation. Histamine release induces widespread bronchospasm, vasodilation, and potentially fatal anaphylactic shock within minutes. In contrast, Type IV Latex Allergy is cell-mediated contact dermatitis: it is triggered not by latex proteins, but by chemical accelerators (thiurams, carbamates) used in glove manufacturing. These act as haptens, binding to skin proteins. Over 24-72 hours, sensitized CD4+ T-cells migrate to the hands, secreting cytokines that recruit macrophages, producing local vesicular eczema. BPT students must recognize that only Type I poses an immediate anaphylactic threat, requiring absolute avoidance and latex-free environments.",
+    "CONCEPT BUILDER - THE CELLULAR T-CELL CASCADE IN CONTACT DERMATITIS: Why is Type IV hypersensitivity called 'delayed'? Unlike antibody-mediated reactions that occur within minutes to hours, cell-mediated reactions require days. The process has two phases: 1) Sensitization Phase: When a hapten contacts the skin, it binds to epidermal proteins. Langerhans cells (dendritic cells) internalize this hapten-protein complex, migrate to local lymph nodes, and present it to naive T-helper cells, creating a pool of memory Th1 cells. This phase takes 1-2 weeks and has no clinical symptoms. 2) Elicitation Phase: Upon subsequent contact with the same hapten, memory Th1 cells in the skin recognize the antigen on local antigen-presenting cells. They secrete interferon-gamma and TNF-beta, which recruit and activate a massive wave of non-specific macrophages. The activated macrophages release lysosomal enzymes and reactive oxygen species, destroying local epidermal cells and creating vesicular lesions. This complex cellular migration and recruitment process takes 24 to 72 hours to manifest clinically.",
+    "CONCEPT BUILDER - MOLECULAR MIMICRY IN GUILLAIN-BARRÉ SYNDROME (GBS): How does a simple stomach bug cause acute flaccid paralysis? The mechanism is molecular mimicry. Campylobacter jejuni is a Gram-negative bacterium that causes acute gastroenteritis. The outer cell membrane of C. jejuni contains lipooligosaccharides (LOS) that share a highly similar carbohydrate structure with GM1 and GD1a gangliosides, which are dense glycolipid components of host peripheral nerve myelin and Nodes of Ranvier. During the immune response to the bacterial infection, B-lymphocytes produce high affinity IgG antibodies targeting the bacterial LOS. Because of the molecular similarity, these IgG antibodies cross-react and bind directly to the host gangliosides on the myelin sheath. This antibody-antigen binding activates the classical complement pathway, depositing membrane attack complexes (MAC) on Schwann cell membranes and recruiting macrophages. Macrophages actively strip the myelin sheath from peripheral motor axons, leading to conduction block and ascending flaccid paralysis. BPT students must understand this infectious-autoimmune link to safely monitor GBS patients for respiratory muscle failure.",
+    "CONCEPT BUILDER - SYNAPTIC BLOCKADE IN MYASTHENIA GRAVIS: Why does muscle weakness in Myasthenia Gravis worsen with repetitive activity but improve with rest? In a healthy neuromuscular junction, a nerve impulse releases acetylcholine (ACh) into the synaptic cleft. ACh binds to nicotinic acetylcholine receptors (AChR) on the motor endplate, triggering depolarization and muscle contraction. Excess ACh is degraded by acetylcholinesterase, and receptors are recycled. In Myasthenia Gravis, the body produces pathogenic IgG autoantibodies against the alpha-subunit of the AChR. These antibodies act in three ways: 1) Direct blocking of ACh binding. 2) Cross-linking of AChRs, which accelerates their endocytosis and degradation (antigenic modulation). 3) Activation of the complement cascade, causing structural damage to the junctional folds of the motor endplate. This reduces the number of functional AChRs by up to 90%. During repetitive muscle contraction, the natural depletion of acetylcholine vesicles (presynaptic depression) combined with the severely reduced pool of functional post-synaptic receptors leads to progressive transmission failure and rapid muscle fatigue. Rest allows acetylcholine levels to replenish in the cleft, restoring transmission threshold."
+  ],
+  "equipment": [
+    "Microplate Reader (ELISA Spectrophotometer): Instrument used to measure optical density in enzyme-linked immunosorbent assays for antigen-antibody quantification.",
+    "Latex-Free Therabands and Grippers: Non-rubber synthetic training tools utilized in clinics to prevent Type I and Type IV allergic reactions in sensitized patients.",
+    "EpiPen (Epinephrine Auto-injector): Emergency intramuscular injection device designed for rapid self-administration during systemic anaphylaxis.",
+    "Gel Electrophoresis and Immunodiffusion Chambers: Apparatus utilized to separate plasma proteins and detect specific immunological precipitin lines.",
+    "Flow Cytometer: High-throughput laser instrument used to count CD4+ and CD8+ T-lymphocyte subpopulations in clinical blood specimens."
+  ],
+  "parameters": {
+    "Normal Serum IgG Range": "7.0 to 16.0 g/L (Primary antibody class for long-term immunological memory).",
+    "Normal Serum IgM Range": "0.4 to 2.3 g/L (First antibody produced in primary response; highly efficient pentamer).",
+    "Normal Serum IgA Range": "0.7 to 4.0 g/L (Key mucosal protector found in secretions).",
+    "Normal CD4+ T-cell count": "500 to 1500 cells/microliter (Critical cell-mediated regulator; < 200 defines AIDS).",
+    "Epinephrine adult dosage": "0.3 mg intramuscularly injected in the anterolateral thigh for anaphylactic shock (repeat every 5-15 mins if needed).",
+    "Cold Chain vaccine storage temperature": "2°C to 8°C (36°F to 46°F) for non-frozen inactivated and subunit vaccines."
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "Type I IgE-Mediated Mast Cell Degranulation",
+      "frequency": "Immediate, within minutes of allergen exposure (Latex anaphylaxis)",
+      "mechanism": [
+        "Allergen cross-links specific IgE antibodies bound to high-affinity Fc-epsilon-RI receptors on mast cells and basophils.",
+        "Intracellular signaling triggers calcium influx and rapid exocytosis of pre-formed granules.",
+        "Release of histamine, leukotrienes, and prostaglandins causes immediate bronchoconstriction, systemic vasodilation, and microvascular leakage."
+      ]
+    },
+    {
+      "effect": "Type II Antibody-Mediated Synaptic Blockade",
+      "frequency": "Chronic, fluctuating neuromuscular fatigue (Myasthenia Gravis)",
+      "mechanism": [
+        "Pathogenic IgG autoantibodies bind specifically to post-synaptic nicotinic acetylcholine receptors (AChR) at the motor endplate.",
+        "Antibody binding triggers complement activation and receptor cross-linking, inducing accelerated receptor internalization and degradation.",
+        "Reduced functional AChR density prevents postsynaptic depolarization, causing transmission failure, progressive muscle fatigue, and denervation-like weakness during activity."
+      ]
+    },
+    {
+      "effect": "Type III Immune Complex-Induced Synovial Vasculitis",
+      "frequency": "Chronic, flare-up phases of Rheumatoid Arthritis",
+      "mechanism": [
+        "Soluble IgG antibodies bind to self-antigens (such as citrullinated proteins), forming circulating immune complexes.",
+        "These antigen-antibody complexes deposit in the microvasculature of the joint capsule synovial membrane.",
+        "Deposited complexes activate the complement cascade, recruiting neutrophils that release lysosomal enzymes, leading to severe synovial inflammation, pain, and articular cartilage erosion."
+      ]
+    },
+    {
+      "effect": "Type IV Cell-Mediated Delayed Dermal Inflammation",
+      "frequency": "Delayed, 24-72 hours after contact exposure (Latex Contact Dermatitis)",
+      "mechanism": [
+        "Hapten chemical accelerators from rubber gloves bind to host epidermal proteins and are presented by Langerhans cells to Th1 cells.",
+        "Sensitized memory CD4+ Th1 cells migrate to the contact site and secrete interferon-gamma and TNF-beta.",
+        "Cytokines recruit and activate non-specific macrophages, which release reactive oxygen species and lysosomal enzymes, causing local epidermal cell necrosis, vesicle formation, and intensely itchy eczema."
+      ]
+    }
+  ],
+  "indications": [
+    "Hypersensitivity risk screening for clinical physical therapy staff and patients prior to using rubber-based resistance bands, gloves, or adhesive straps.",
+    "Submaximal, non-fatiguing active-assisted exercises in patients diagnosed with GBS or Myasthenia Gravis to maintain range of motion and prevent disuse atrophy.",
+    "Joint protection education, splinting, and thermal modality management in Rheumatoid Arthritis patients during subacute and chronic phases.",
+    "Post-surgical chest physiotherapy airway hygiene in patients with vaccine-preventable respiratory or neurological paralysis (such as poliomyelitis histories)."
+  ],
+  "contraindications": {
+    "general": [
+      "Symptomatic systemic anaphylaxis or severe acute allergic reaction presenting with stridor, wheezing, or hypotension; absolute emergency medical contraindication. Physiotherapy must be terminated immediately and epinephrine administered.",
+      "Myasthenic Crisis presenting with severe respiratory muscle weakness (vital capacity < 15 mL/kg), dysphagia, or dyspnea; absolute medical emergency requiring mechanical ventilation and plasmapheresis, physical therapy is strictly contraindicated."
+    ],
+    "local": [
+      "Direct application of manual therapies, friction massage, or aggressive passive stretching over joints presenting with acute, warm, fluctuant flare-ups of Rheumatoid Arthritis, as this worsens synovial membrane micro-bleeding and articular cartilage erosion.",
+      "Direct physical contact or application of topical modalities (such as gels, electrodes, or tapes) over areas of active vesicular eczema or contact dermatitis, due to the high risk of secondary pyogenic bacterial infection and severe localized pain."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Screen all incoming patients for documented histories of latex hypersensitivity, asthma, or multiple surgical procedures, and flag latex-allergic patients prominently.",
+      "In patients with autoimmune neuromuscular diseases (Myasthenia Gravis, GBS), assess the current motor fatiguability and vital capacity before starting therapy.",
+      "Verify the patient's vaccination status, particularly for tetanus and polio, prior to initiating rehabilitation for traumatic wounds or neurological gait training."
+    ],
+    "apparatusPreparation": [
+      "For patients with documented latex allergy, establish a 'Latex-Free Zone': remove all natural rubber latex items, including latex gloves, yellow Therabands, and rubber-cushioned electrode leads.",
+      "Assemble synthetic alternative equipment, such as nitrile or vinyl gloves, silicone-based resistance bands, and polyurethane-wrapped therapeutic mats.",
+      "Ensure an emergency anaphylaxis kit containing epinephrine auto-injectors (EpiPen) and airway support equipment is immediately available in the clinical gym."
+    ],
+    "skinPreparation": [
+      "Wash hands thoroughly using the WHO 6-step technique with non-scented, latex-free liquid soap and dry with single-use paper towels.",
+      "Don medical-grade nitrile or vinyl gloves (never powdered latex gloves) before performing any physical contact or hand-on therapy.",
+      "Cleanse the patient's skin gently with sterile water or alcohol-free wipes, avoiding any friction over joints with active autoimmune synovitis."
+    ],
+    "electrodePlacement": [
+      "In patients with Myasthenia Gravis or GBS undergoing neuromuscular electrical stimulation (NMES) to prevent muscle atrophy, use hypoallergenic, latex-free adhesive surface electrodes.",
+      "Avoid placing electrodes over skin presenting with contact dermatitis, sensory neuropathy, or adjacent to joints with acute rheumatoid flare-ups.",
+      "Ensure the lead wires are securely supported to prevent micro-abrasions and skin shearing during active movement."
+    ],
+    "treatmentProcedure": [
+      "Administer the tailored physical therapy session (e.g., non-fatiguing active-assisted exercises, gentle joint mobilizations, or chest physiotherapy) pacing the exercises with structured rest breaks.",
+      "In Myasthenia Gravis, schedule exercise sessions during the peak action of anticholinesterase medication (typically 1.5 to 2 hours post-administration) and monitor for systemic weakness.",
+      "If any sign of immediate hypersensitivity occurs (e.g., sudden cough, wheeze, localized hives, or dizziness), immediately terminate the therapy, remove all gloves/contacts, and activate emergency medical services.",
+      "Clean all non-latex equipment with hospital-grade disinfectant, safely discard all single-use nitrile gloves, and perform post-procedure hand hygiene."
+    ]
+  },
+  "precautions": [
+    "Always check the material labels of all clinical resistance bands, exercise balls, and adhesive bandages; 'hypoallergenic' does not always mean 100% latex-free.",
+    "Never continue physical therapy if a patient with Myasthenia Gravis displays dysphagia or a nasal tone of voice, as these are warnings of bulbar muscle failure.",
+    "Monitor joints with active Rheumatoid Arthritis daily; look for objective local signs of inflammation (heat, redness, swelling) before choosing treatment parameters.",
+    "When treating a patient who recently received a live vaccine, wait at least 48 hours before applying physical exercise to allow systemic reactions to settle.",
+    "In patients under high-dose immunosuppression, strictly limit contact with other symptomatic respiratory patients in the physical therapy gymnasium."
+  ],
+  "clinicalPearls": [
+    "The Double Latex Hazard: Understand that natural rubber latex causes two distinct allergies: Type I (immediate, life-threatening IgE-mediated bronchospasm/anaphylaxis, triggered by soluble proteins) and Type IV (delayed, cell-mediated contact dermatitis, triggered by chemical vulcanizing accelerators in the gloves). Always use nitrile gloves to prevent both.",
+    "Myasthenia Gravis Timing Rule: Schedule physical therapy sessions for patients with Myasthenia Gravis in the morning or 1.5 to 2 hours after they take their oral anticholinesterase medication (pyridostigmine). This aligns therapy with peak synaptic acetylcholine availability, maximizing muscle performance and safety.",
+    "The 'No Fatigue' Mandate: In Myasthenia Gravis, GBS, and Post-Polio Syndrome, the therapeutic goal is maintaining function, not muscle hypertrophy. Heavy resistive training depletes the limited pool of functional acetylcholine receptors or overworks compromised motor units, leading to rapid, prolonged synaptic failure. Use submaximal, non-fatiguing exercise protocols.",
+    "Campylobacter and GBS: Always ask GBS patients if they had an episode of severe diarrhea or food poisoning 1-3 weeks before the onset of muscle weakness. The molecular mimicry between Campylobacter jejuni cell membrane lipooligosaccharides and human peripheral nerve gangliosides is the classic trigger for this acute demyelinating disease.",
+    "Vaccines in the Immuno-Compromised: Never recommend or participate in the administration of live attenuated vaccines (such as Oral Polio Vaccine/Sabin or MMR) to patients with advanced HIV (CD4 < 200 cells/µL) or those on high-dose immunosuppressive corticosteroids. The weakened virus can revert to virulence, causing catastrophic systemic infection.",
+    "The Rheumatoid Joint Warning: Never perform vigorous passive stretching or high-grade joint manipulations on a joint presenting with acute rheumatoid synovitis. The joint capsule is distended with inflammatory fluid and the ligaments are structurally weakened by proteolytic enzymes; forced movement can cause joint subluxation or ligament rupture."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Clinical Latex-Free Allergy Protocol",
+      "position": "Patient seated or supine in a designated latex-free treatment bay",
+      "electrodePlacement": "Not Applicable",
+      "frequency": "Strictly applied at every session for patients with documented Type I or Type IV latex hypersensitivity",
+      "purpose": "To completely eliminate natural rubber latex exposure, preventing localized allergic dermatitis and life-threatening systemic anaphylactic bronchospasm."
+    },
+    {
+      "condition": "Anaphylaxis Emergency Response Workflow",
+      "position": "Patient immediately positioned supine with legs elevated (Trendelenburg) to maintain cerebral perfusion",
+      "electrodePlacement": "Continuous pulse oximetry sensor applied to index finger",
+      "frequency": "Immediately upon detecting clinical signs of systemic Type I hypersensitivity (stridor, wheezing, hypotension, generalized hives)",
+      "purpose": "To rapidly stabilize the airway, maintain systemic blood pressure, and secure intramuscular epinephrine injection within minutes of reaction onset."
+    },
+    {
+      "condition": "Non-Fatiguing Exercise Prescription in Myasthenia Gravis",
+      "position": "Sitting or supine on a stable rehabilitation plinth in a cool room",
+      "electrodePlacement": "Hypoallergenic, latex-free surface electrodes over target muscle groups if using diagnostic EMG monitoring",
+      "frequency": "3 times per week, with a strict rule of stopping activity at the first subjective sign of muscle fatigue",
+      "purpose": "To maintain joint mobility and cardiovascular conditioning without depleting synaptic acetylcholine vesicles or exceeding post-synaptic receptor capacity."
+    },
+    {
+      "condition": "Post-Vaccination Patient Monitoring Protocol",
+      "position": "Patient seated comfortably in the clinical waiting area",
+      "electrodePlacement": "Not Applicable",
+      "frequency": "Maintained for a minimum of 30 minutes immediately following the administration of any vaccine or therapeutic injection",
+      "purpose": "To observe the patient for early signs of immediate Type I hypersensitivity (anaphylaxis) or vasovagal syncope, ensuring rapid access to emergency medical intervention."
+    }
+  ],
+  "vivaQuestions": [
+    "Question: What is the immunological mechanism behind Myasthenia Gravis, and why does muscle weakness worsen with repetitive physical activity? | Answer: Myasthenia Gravis is a Type II cytotoxic hypersensitivity where host IgG autoantibodies bind to post-synaptic nicotinic acetylcholine receptors (AChR) at the neuromuscular junction. This causes receptor blockade, complement-mediated membrane damage, and accelerated receptor internalization, reducing functional receptor density. With repetitive activity, natural presynaptic acetylcholine depletion (presynaptic depression) occurs; since the pool of functional post-synaptic receptors is severely depleted, neuromuscular transmission fails, causing progressive muscle fatigue. | Examiner Key Points: Type II hypersensitivity, IgG anti-AChR antibodies, complement activation, post-synaptic receptor depletion, presynaptic depression. | Clinical Importance: Instructs the physiotherapist to avoid fatiguing, high-resistance exercises and schedule therapy during peak medication activity.",
+    "Question: Differentiate between Type I and Type IV hypersensitivity reactions, using latex glove allergy as a clinical example. | Answer: Type I latex allergy is an immediate, IgE-mediated hypersensitivity where soluble latex proteins cross-link IgE bound to mast cells, triggering rapid histamine release and causing systemic bronchospasm or anaphylaxis within minutes. Type IV latex allergy is a delayed, cell-mediated hypersensitivity where chemical accelerators used in glove manufacturing act as haptens, stimulating Th1 cells to recruit macrophages over 24-72 hours, resulting in localized contact dermatitis (vesicular eczema). | Examiner Key Points: Type I (IgE-mediated, mast cells, immediate anaphylaxis) vs. Type IV (T-cell-mediated, macrophages, 24-72 hours contact dermatitis), latex proteins vs. chemical accelerators. | Clinical Importance: Clinicians must know that Type I is a life-threatening airway emergency requiring epinephrine, while Type IV is a localized dermatological condition.",
+    "Question: Explain the biological mechanism of 'molecular mimicry' in the pathogenesis of Guillain-Barré Syndrome (GBS) following Campylobacter jejuni infection. | Answer: Molecular mimicry occurs when foreign pathogens share structural antigens with host tissues. Campylobacter jejuni outer membrane contains lipooligosaccharides (LOS) that structurally mimic GM1/GD1a gangliosides on host peripheral nerve myelin sheaths. The IgG antibodies generated to fight the C. jejuni infection cross-react, binding to the gangliosides on Schwann cells and myelin. This activates complement and recruits macrophages, which strip the myelin sheath, causing acute inflammatory demyelinating polyneuropathy (AIDP). | Examiner Key Points: Campylobacter jejuni LOS, gangliosides mimicry, IgG cross-reactivity, complement-mediated demyelination. | Clinical Importance: Explains why a simple diarrheal illness can trigger acute ascending flaccid paralysis, requiring therapists to closely monitor respiratory vitals.",
+    "Question: Compare the immunological characteristics of Active and Passive Immunity. Provide a natural and example of each. | Answer: Active immunity is induced by host antigen exposure, requiring host antibody production and establishing long-term memory cells (takes weeks to develop but lasts years). Natural Active: recovering from wild measles; Artificial Active: receiving the MMR vaccine. Passive immunity is the transfer of pre-formed exogenous antibodies, providing immediate but temporary protection without memory (lasts weeks to months). Natural Passive: maternal IgG crossing the placenta; Artificial Passive: injecting anti-tetanus immunoglobulin. | Examiner Key Points: Host antibody production vs. pre-formed antibody transfer, presence vs. absence of memory, timing of protection, examples. | Clinical Importance: Helps therapists understand why vaccine-induced immunity is durable, while post-exposure immunoglobulin is a temporary life-saving shield.",
+    "Question: What is Rheumatoid Factor (RF), and how does its interaction contribute to joint destruction in Rheumatoid Arthritis? | Answer: Rheumatoid Factor is an autoantibody, typically of the IgM class, that specifically targets the Fc portion of the host's own IgG antibodies. When RF binds to IgG, it forms large immune complexes that deposit in the joint synovial membrane, triggering a Type III hypersensitivity. This activates the classical complement pathway, recruiting neutrophils and macrophages that release pro-inflammatory cytokines (TNF-alpha, IL-1) and lysosomal enzymes, causing chronic synovitis, pannus formation, and articular cartilage erosion. | Examiner Key Points: IgM targeting host IgG Fc, immune complex deposition (Type III), complement activation, neutrophil recruitment, pannus formation. | Clinical Importance: Explains the systemic and destructive nature of RA, guiding therapists to protect joint alignments and avoid aggressive manual force during flare-ups.",
+    "Question: Why are live attenuated vaccines strictly contraindicated in patients with advanced HIV/AIDS (CD4 < 200 cells/µL) or on high-dose immunosuppressive drugs? | Answer: Live attenuated vaccines (like OPV/Sabin, yellow fever, or MMR) contain live, weakened pathogens that undergo limited replication to stimulate the immune system. In patients with severe CD4+ T-lymphocyte depletion, the host's cell-mediated immunity is unable to control even this weakened replication. The attenuated strain can revert to wild-type virulence, multiply unchecked, and cause catastrophic, life-threatening systemic infection. | Examiner Key Points: Live weakened strain, CD4 T-cell depletion, failure to control viral replication, reversion to virulence. | Clinical Importance: Prevents clinicians from recommending or administering unsafe immunizations to highly vulnerable, immunocompromised neurological or respiratory patients.",
+    "Question: What are the main immunoglobulin classes, and which one is uniquely capable of crossing the placental barrier to provide natural passive immunity? | Answer: The five immunoglobulin classes are IgG, IgM, IgA, IgE, and IgD. IgG is the only immunoglobulin class uniquely capable of crossing the placenta from mother to fetus. This is mediated by specific Fc receptors (FcRn) on placental syncytiotrophoblast cells that actively bind and transport maternal IgG, providing the newborn with natural passive immunity against pathogens during the first few months of life. | Examiner Key Points: Five classes (G, M, A, E, D), IgG placental crossing, FcRn receptors, neonatal protection. | Clinical Importance: Explains why newborns are temporarily protected from childhood infections and highlights why early immunization is scheduled as maternal antibody levels decline.",
+    "Question: Explain the immunological mechanism of Type III hypersensitivity. How does this manifest in clinical physiotherapy settings? | Answer: Type III hypersensitivity is mediated by soluble antigen-antibody (immune) complexes that form in slight antigen excess and fail to be cleared by the mononuclear phagocyte system. These complexes deposit in basement membranes of small blood vessels (vessels, joints, kidneys). Once deposited, they activate complement, releasing chemotactic factors (C5a) that recruit neutrophils. Neutrophils attempt to phagocytose the deposited complexes but fail, releasing lysosomal enzymes and causing necrotizing vasculitis. In physiotherapy, this manifests as acute joint inflammation and pain in systemic autoimmune diseases like SLE and Rheumatoid Arthritis. | Examiner Key Points: Soluble immune complexes, basement membrane deposition, complement activation, neutrophil recruitment, lysosomal enzyme tissue damage. | Clinical Importance: Alerts the therapist that systemic autoimmune diseases cause widespread microvascular and joint inflammation, requiring gentle, non-stressful mobility exercises during flare-ups."
+  ],
+  "mcqs": [
+    {
+      "question": "A 28-year-old nurse experiences intense itching, localized vesicular redness, and dry eczema on her hands 48 hours after wearing latex surgical gloves. Which of the following immunological mechanisms is responsible for this delayed skin reaction?",
+      "options": [
+        "IgE-mediated cross-linking on the surface of mast cells, causing immediate histamine release",
+        "Antibody-dependent cellular cytotoxicity (ADCC) targeting epidermal keratinocytes",
+        "Deposition of soluble latex-antibody complexes in dermal capillaries, activating complement",
+        "Activation of sensitized memory T-lymphocytes (CD4+ Th1) which recruit macrophages to release tissue-damaging lysosomal enzymes"
+      ],
+      "answer": "Activation of sensitized memory T-lymphocytes (CD4+ Th1) which recruit macrophages to release tissue-damaging lysosomal enzymes",
+      "explanation": "The delayed onset (48 hours) and localized vesicular dermatitis are characteristic of Type IV (delayed-type) hypersensitivity. This is mediated by sensitized memory T-cells (not antibodies) releasing cytokines that recruit macrophages, which cause local tissue inflammation. Type I IgE allergy occurs within minutes and is systemic."
+    },
+    {
+      "question": "Which class of immunoglobulin is produced as a pentamer, serves as the first line of defense during a primary humoral immune response, and is highly efficient in agglutinating particulate antigens?",
+      "options": [
+        "IgG",
+        "IgM",
+        "IgA",
+        "IgE"
+      ],
+      "answer": "IgM",
+      "explanation": "IgM is a pentamer (composed of five Y-shaped units joined by a J-chain) and is the first class of antibody synthesized during a primary immune response. Due to its ten antigen-binding sites, it is highly efficient in agglutination and complement activation. IgG is a monomer dominant in secondary responses, IgA is a dimer in secretions, and IgE is a monomer in allergic responses."
+    },
+    {
+      "question": "A newborn infant is protected against several bacterial and viral pathogens during the first three months of life by maternal antibodies that crossed the placenta. What immunological category and specific antibody class does this represent?",
+      "options": [
+        "Natural Active Immunity; IgM",
+        "Artificial Passive Immunity; IgA",
+        "Natural Passive Immunity; IgG",
+        "Artificial Active Immunity; IgD"
+      ],
+      "answer": "Natural Passive Immunity; IgG",
+      "explanation": "Passive immunity involves the transfer of pre-formed antibodies (not made by the host). Natural passive transfer occurs via the placenta from mother to fetus, and IgG is the only immunoglobulin class capable of crossing the placenta due to specialized placental transport receptors (FcRn)."
+    },
+    {
+      "question": "Why is the administration of live attenuated vaccines (such as the Oral Polio Vaccine or MMR) strictly contraindicated in patients with advanced HIV/AIDS who have CD4+ T-lymphocyte counts below 200 cells/µL?",
+      "options": [
+        "The vaccine viruses will bind to and directly destroy any remaining CD4+ T-lymphocytes",
+        "The host's severely compromised cell-mediated immunity cannot control the replication of the weakened vaccine strain, risking reversion to virulence and systemic infection",
+        "The vaccine antigens form large immune complexes that deposit in the kidneys, causing acute renal failure",
+        "The patient's B-lymphocytes will produce IgE instead of IgG, triggering systemic anaphylaxis"
+      ],
+      "answer": "The host's severely compromised cell-mediated immunity cannot control the replication of the weakened vaccine strain, risking reversion to virulence and systemic infection",
+      "explanation": "Live attenuated vaccines contain viable but weakened pathogens. In patients with severe cell-mediated immunodeficiency (CD4 < 200 cells/µL), the immune system cannot suppress the replication of this attenuated pathogen, allowing it to multiply unchecked, potentially revert to a virulent form, and cause catastrophic, widespread infection."
+    },
+    {
+      "question": "In Myasthenia Gravis, autoantibodies target nicotinic acetylcholine receptors at the motor endplate. Which type of hypersensitivity reaction does this represent, and what is its direct physiological effect on neuromuscular transmission?",
+      "options": [
+        "Type I Hypersensitivity; systemic release of histamine causing synaptic vasodilation",
+        "Type II Hypersensitivity; autoantibody binding blocks and accelerates degradation of acetylcholine receptors, causing synaptic transmission failure",
+        "Type III Hypersensitivity; deposition of immune complexes in the synaptic cleft, recruiting neutrophils to destroy the nerve terminal",
+        "Type IV Hypersensitivity; direct cytotoxic CD8+ T-cell lysis of the presynaptic axon terminal"
+      ],
+      "answer": "Type II Hypersensitivity; autoantibody binding blocks and accelerates degradation of acetylcholine receptors, causing synaptic transmission failure",
+      "explanation": "Myasthenia Gravis is a classic example of Type II (cytotoxic/antibody-mediated) hypersensitivity. Pathogenic IgG autoantibodies bind directly to nicotinic acetylcholine receptors on the post-synaptic muscle membrane, blocking acetylcholine binding and inducing receptor endocytosis and destruction, which prevents muscle depolarization and causes progressive muscle fatigue."
+    },
+    {
+      "question": "A 35-year-old female with severe Rheumatoid Arthritis is referred to physical therapy during a major disease flare-up. Serum serology reveals a high titer of Rheumatoid Factor (RF). Which of the following correctly describes the immunological identity of Rheumatoid Factor?",
+      "options": [
+        "An IgG autoantibody targeting host synovial chondrocytes",
+        "An IgM autoantibody directed against the Fc portion of host IgG antibodies",
+        "An IgE autoantibody that binds to mast cells in the articular cartilage",
+        "A T-cell receptor that directly recognizes joint collagen fibers"
+      ],
+      "answer": "An IgM autoantibody directed against the Fc portion of host IgG antibodies",
+      "explanation": "Rheumatoid Factor is an autoantibody, most commonly of the IgM class, that targets the Fc constant region of the patient's own IgG antibodies. The resulting RF-IgG complexes deposit in the synovium, activating complement and initiating chronic joint inflammation (Type III hypersensitivity)."
+    },
+    {
+      "question": "Guillain-Barré Syndrome (GBS) is an acute demyelinating polyneuropathy that typically develops 1-3 weeks following a diarrheal illness caused by Campylobacter jejuni. What immunological concept explains this correlation?",
+      "options": [
+        "Innate Immune Tolerance; the host immune system ignores the bacterial antigens",
+        "Molecular Mimicry; antibodies generated against Campylobacter lipooligosaccharides cross-react with peripheral nerve gangliosides",
+        "Type I Anaphylaxis; systemic histamine causes immediate swelling and compression of peripheral nerve roots",
+        "Active Artificial Immunization; the bacterial toxins act as an accidental vaccine that over-stimulates T-cells"
+      ],
+      "answer": "Molecular Mimicry; antibodies generated against Campylobacter lipooligosaccharides cross-react with peripheral nerve gangliosides",
+      "explanation": "GBS is driven by molecular mimicry. The outer lipooligosaccharides of Campylobacter jejuni share carbohydrate sequences with host GM1/GD1a gangliosides located on peripheral nerve myelin. The IgG antibodies generated against the bacteria cross-react and bind to the myelin gangliosides, triggering complement activation and macrophage-mediated demyelination."
+    },
+    {
+      "question": "Which of the following describes the immunological mechanism of Type III hypersensitivity reactions?",
+      "options": [
+        "IgE binding to mast cells triggering immediate degranulation",
+        "Antibodies binding directly to cell-surface antigens, leading to phagocytosis or cell lysis",
+        "Soluble antigen-antibody (immune) complexes depositing in tissue basement membranes, activating complement and recruiting neutrophils",
+        "Sensitized CD4+ T-lymphocytes releasing cytokines to recruit and activate macrophages"
+      ],
+      "answer": "Soluble antigen-antibody (immune) complexes depositing in tissue basement membranes, activating complement and recruiting neutrophils",
+      "explanation": "Type III hypersensitivity is caused by the deposition of soluble antigen-antibody complexes in basement membranes of blood vessels and tissues, which activates the complement cascade and recruits neutrophils. Neutrophils release lysosomal enzymes, causing local vascular and tissue damage (necrotizing vasculitis). Type I is IgE-mast cell, Type II is cell-surface antibody binding, and Type IV is T-cell/macrophage."
+    }
+  ],
+  "reference": [
+    "Ananthanarayan and Paniker's Textbook of Microbiology, 12th Edition (Re-edited by Reba Kanungo) - Chapters on Innate Immunity, Antigens, Antibodies, Hypersensitivity, and Autoimmunity.",
+    "Essentials of Medical Microbiology by Apurba Sankar Sastry and Sandhya Bhat, 4th Edition - Immunology Section, Vaccine and Immunization Protocols.",
+    "O'Sullivan's Physical Rehabilitation, 7th Edition - Sections on Management of Rheumatoid Arthritis, Guillain-Barré Syndrome, and Myasthenia Gravis."
+  ]
+}

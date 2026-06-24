@@ -13,7 +13,8 @@
     "Drag Forces: The cumulative fluid resistance forces (comprising cohesive, adhesive, surface tension, and frontal resistance) that oppose the direction of a body's movement through water.",
     "Thermodynamic Effects: The heat exchange mechanisms between the body and water, facilitated by water's high specific heat (retaining heat 4 times longer than air) and high thermal conductivity (conducting heat 25 times faster than air).",
     "Halliwick Concept: A ten-point system of aquatic rehabilitation designed to train motor control, balance, and core stability through progressive vertical, lateral, and rotational water adjustments.",
-    "Center of Buoyancy: The theoretical center of gravity of the displaced water volume, about which all buoyant upward forces act on an immersed body."
+    "Center of Buoyancy: The theoretical center of gravity of the displaced water volume, about which all buoyant upward forces act on an immersed body.",
+    "Surface Tension: Surface tension is the cohesive force between water molecules at the air-water interface that creates resistance when a body part enters or exits the water surface. Clinically, surface tension can be used therapeutically to increase resistance during limb movement near the water surface and may challenge balance and motor control during aquatic exercise."
   ],
   "principle": [
     "Mechanical Joint Unloading: Immersing a patient in water reduces gravitational compressive stress. Neck-deep immersion unloads approximately 90% of body weight, chest-deep (xiphoid) unloads 60% to 70%, and hip-deep (ASIS) unloads about 50%.",
@@ -65,6 +66,16 @@
       "mechanism": [
         "Mild thermal skin stimulation activates cutaneous receptors, blocking nociceptive inputs via the spinal gate mechanism.",
         "Reduces alpha motor neuron excitability and muscle spindle sensitivity, temporarily alleviating spasticity."
+      ]
+    },
+    {
+      "effect": "Musculoskeletal Effects of Hydrotherapy",
+      "frequency": "Throughout the aquatic treatment session",
+      "mechanism": [
+        "Buoyancy significantly reduces joint compression and decreases articular loading on weight-bearing joints.",
+        "Warmth and sensory stimulation cause a reduction of pain and muscle guarding, increasing soft tissue extensibility.",
+        "Vasodilation increases muscle blood flow, facilitating early pain-free movement after orthopedic injury.",
+        "Allows improved active range of motion and improved functional mobility in an unloaded mechanical environment."
       ]
     }
   ],
@@ -149,7 +160,8 @@
     "Question: What is the Halliwick Concept and what is its primary ten-point objective? | Answer: The Halliwick Concept is a highly structured, ten-point aquatic therapy system based on fluid mechanics. Its primary objectives are to teach patients water happiness, breathing control, and balance, progressing through mental adaptation, sagittal and transverse rotation controls, vertical rotation control, turbulence transition, upthrust balance, and active swimming locomotion. | Examiner Key Points: Ten-point program, water happiness, rotational controls (sagittal, transverse, vertical), upthrust, active locomotion. | Clinical Importance: Highly effective for neurological rehabilitation (e.g., stroke, cerebral palsy) to build postural equilibrium.",
     "Question: Explain the thermodynamic effects of water and temperature guidelines for aquatic therapy. | Answer: Water has a high specific heat, enabling it to hold 4 times more thermal energy than air, and a high thermal conductivity, which transfers heat 25 times faster than air. Warm pools (33°C to 36°C) are used to relieve pain, relax muscles, and manage spasticity. Cooler pools (28°C to 31°C) are specified for active training and cardiovascular conditioning to prevent overheating. | Examiner Key Points: Thermal conductivity (25x), specific heat (4x), 33-36°C for pain/spasticity, 28-31°C for conditioning. | Clinical Importance: Protects patients from core thermal distress and ensures appropriate muscle activation.",
     "Question: What is Uthoff's Phenomenon and why is it highly critical when treating Multiple Sclerosis (MS) in water? | Answer: Uthoff's Phenomenon refers to a temporary worsening of neurological symptoms in patients with MS when exposed to elevated body temperatures. Warm water (above 31°C) blocks nerve action potential conduction along damaged demyelinated axons, causing sudden weakness, sensory loss, or collapse. Therefore, MS patients must be treated in cool pool water (under 30°C). | Examiner Key Points: Multiple sclerosis risk, demyelinated axon conduction block, temperature under 30°C, sudden weakness. | Clinical Importance: Directs critical temperature adjustments to ensure safety in neurological aquatic programs.",
-    "Question: What cardiovascular safety precautions must be followed when a patient exits a therapy pool? | Answer: Air temperature is cooler than pool water and gravity immediately re-asserts itself. When the patient exits the pool, the hydrostatic pressure compression is lost, causing blood to pool back down into the lower extremities. This sudden drop in venous return can cause a drop in blood pressure, potentially leading to orthostatic hypotension, dizziness, or syncope. To prevent this, patients should exit slowly, dry off immediately, and sit down. | Examiner Key Points: Loss of hydrostatic compression, peripheral blood pooling, orthostatic drop, exit slowly, sit down. | Clinical Importance: Essential to prevent falls and circulatory collapse during exit protocols."
+    "Question: What cardiovascular safety precautions must be followed when a patient exits a therapy pool? | Answer: Air temperature is cooler than pool water and gravity immediately re-asserts itself. When the patient exits the pool, the hydrostatic pressure compression is lost, causing blood to pool back down into the lower extremities. This sudden drop in venous return can cause a drop in blood pressure, potentially leading to orthostatic hypotension, dizziness, or syncope. To prevent this, patients should exit slowly, dry off immediately, and sit down. | Examiner Key Points: Loss of hydrostatic compression, peripheral blood pooling, orthostatic drop, exit slowly, sit down. | Clinical Importance: Essential to prevent falls and circulatory collapse during exit protocols.",
+    "Question: Explain Surface Tension and discuss its clinical importance during aquatic exercise. | Answer: Surface tension is the cohesive force between water molecules at the air-water interface that creates resistance when a body part enters or exits the water surface. Clinically, surface tension can be used therapeutically to increase resistance during limb movement near the water surface and may challenge balance and motor control during aquatic exercise. | Examiner Key Points: Cohesive force, air-water interface, resistance to entry/exit, therapeutic resistance, postural/motor control challenge. | Clinical Importance: Enables the clinician to grade movement resistance dynamically and introduce progressive challenges for motor coordination near the water's surface."
   ],
   "mcqs": [
     {
@@ -331,6 +343,17 @@
       "options": ["Cohesion", "Adhesion", "Surface tension", "Turbulence"],
       "answer": "Adhesion",
       "explanation": "Adhesion is the physical attraction force between water molecules and other surrounding surfaces, contributing to net drag."
+    },
+    {
+      "question": "Which physical property of water creates resistance when a limb moves through the air-water interface?",
+      "options": [
+        "Buoyancy",
+        "Hydrostatic Pressure",
+        "Surface Tension",
+        "Specific Gravity"
+      ],
+      "answer": "Surface Tension",
+      "explanation": "Surface tension is the cohesive force of attraction between water molecules at the air-water interface, resisting any object or limb trying to cross or break the surface barrier."
     }
   ],
   "reference": [

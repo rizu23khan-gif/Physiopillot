@@ -63,12 +63,30 @@
     "unitCount": "1"
   },
   {
-    "subjectId": "path_micro_pharm",
-    "subjectName": "Pathology, Microbiology & Pharmacology",
+    "subjectId": "pathology",
+    "subjectName": "Pathology",
     "year": "2nd Year",
     "icon": "science",
     "color": "#9333EA",
-    "chapterCount": "4",
+    "chapterCount": "2",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "microbiology",
+    "subjectName": "Microbiology",
+    "year": "2nd Year",
+    "icon": "science",
+    "color": "#9333EA",
+    "chapterCount": "1",
+    "unitCount": "1"
+  },
+  {
+    "subjectId": "pharmacology",
+    "subjectName": "Pharmacology",
+    "year": "2nd Year",
+    "icon": "science",
+    "color": "#9333EA",
+    "chapterCount": "12",
     "unitCount": "1"
   },
   {

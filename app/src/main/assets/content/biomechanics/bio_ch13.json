@@ -1,0 +1,225 @@
+{
+  "subject": "Biomechanics & Kinesiology",
+  "chapterId": "bio_ch13",
+  "chapterName": "Ergonomics & Occupational Health",
+  "definition": [
+    "Ergonomics: The applied science of designing and arranging workplaces, products, and systems so that they fit the physical and cognitive capabilities of the people who use them.",
+    "Occupational Biomechanics: The study of the physical interaction of workers with their tools, machines, and materials, aiming to minimize musculoskeletal stress and prevent injury.",
+    "Workplace Risk Factors: Environmental or biomechanical elements that increase the probability of injury, including repetitive motion, awkward postures, high force requirements, contact stress, and vibration.",
+    "Repetitive Strain Injury (RSI): An umbrella term for injuries to the musculoskeletal and nervous systems that may be caused by repetitive tasks, forceful exertions, vibrations, mechanical compression, or sustained awkward positions.",
+    "Static Loading: The sustained contraction of muscles over prolonged periods (e.g., holding the head forward to look at a screen) without rest, leading to restricted blood flow, muscle fatigue, and tissue damage.",
+    "Cumulative Trauma Disorders (CTD): Musculoskeletal conditions (e.g., carpal tunnel syndrome, tendinopathy) that develop gradually over time due to micro-trauma from repeated biomechanical stress, rather than a single acute injury.",
+    "Squat Lift: A lifting technique where the knees and hips are deeply flexed, the back remains relatively straight and vertical, and the load is lifted primarily by the powerful quadriceps and gluteal muscles.",
+    "Stoop Lift: A hazardous lifting technique where the knees remain extended and the trunk is flexed forward from the hips, forcing the small erector spinae muscles to lift the load, creating massive shear and compressive forces on the lumbar discs.",
+    "Semi-Squat Lift: A compromise lifting technique combining partial knee flexion and partial trunk flexion, often preferred for moderately heavy loads that are too large to fit between the knees in a full squat lift.",
+    "Rapid Upper Limb Assessment (RULA): A systematic ergonomic screening tool used to evaluate biomechanical and postural loading on the neck, trunk, and upper extremities, particularly suited for sedentary computer workstation assessments.",
+    "Rapid Entire Body Assessment (REBA): A comprehensive observational ergonomic assessment tool designed to evaluate postural risks of the entire body (including lower limbs) in dynamic or volatile occupations where postures change rapidly.",
+    "NIOSH Lifting Equation: A mathematical formula developed by the National Institute for Occupational Safety and Health used to calculate the Recommended Weight Limit (RWL) for manual lifting tasks, incorporating multipliers for distance, frequency, angle of asymmetry, and hand coupling.",
+    "Whole-Body Vibration (WBV): The mechanical vibration transmitted to the human body as a whole, commonly experienced by heavy machinery operators, which induces spinal resonance at 4-8 Hz and accelerates intervertebral disc degeneration.",
+    "Hand-Arm Vibration Syndrome (HAVS): A painful, progressive occupational disorder of the blood vessels, nerves, and joints of the hands and fingers (including 'vibration white finger') caused by prolonged exposure to hand-held vibrating power tools."
+  ],
+  "principle": [
+    "Sitting Posture Mechanics: Prolonged sitting decreases lumbar lordosis, increasing intradiscal pressure compared to standing. Slouched sitting pushes the nucleus pulposus posteriorly, stressing the posterior anulus.",
+    "Standing Posture Mechanics: Normal standing maintains the lumbar lordosis, but prolonged static standing causes blood pooling in the lower extremities and stresses the facet joints and postural muscles.",
+    "Computer Workstation Ergonomics: The monitor should be at or slightly below eye level. Elbows, hips, and knees should be flexed near 90 degrees. Wrists should be neutral (not extended or deviated), and feet must be flat on the floor or a footrest.",
+    "Mobile Device Ergonomics ('Text Neck'): Looking down at a mobile device increases the effective weight of the human head on the cervical spine from ~10 lbs in neutral to ~60 lbs at 60 degrees of flexion, causing severe static loading on the posterior cervical musculature.",
+    "L4-L5 Disc Stress: The L4-L5 and L5-S1 segments bear the highest loads in the human body. The compressive force on the L5-S1 disc during a heavy stoop lift can exceed 3,000 to 5,000 Newtons, risking annular rupture.",
+    "Lever Arm Principle in Lifting: The external moment arm of a lifted object is the distance from the object's center of gravity to the lumbar spine. Holding an object farther away from the body drastically increases the torque, forcing the spinal muscles to contract with immense force to counterbalance it.",
+    "Compression vs. Shear Forces: Compression forces push the vertebrae directly together, safely loading the vertebral bodies and discs. Shear forces slide one vertebra forward on another, dangerously stressing the facet joints, pars interarticularis, and annular fibers.",
+    "Injury Prevention Principles: Key principles include keeping loads close to the body, avoiding simultaneous bending and twisting, taking micro-breaks to reverse static postures, and using mechanical lifting aids whenever possible.",
+    "NIOSH Lifting Equation Mechanics: The Recommended Weight Limit (RWL) is calculated starting from a Load Constant (LC = 51 lbs or 23 kg) that is modified downward by six factors. The most critical factor is the Horizontal Multiplier (HM = 10/H, where H is the horizontal distance in inches from the ankles to the load). This reflects the lever arm principle: as H increases, the spinal moment arm and subsequent L5-S1 compression increase exponentially, reducing the safe lifting weight.",
+    "Pathomechanics of Vibration Exposure: Exposure to Whole-Body Vibration (WBV) at frequencies of 4-8 Hz triggers spinal muscle contraction and spinal resonance, magnifying mechanical shear stress across the intervertebral discs and speeding up fatigue. This impairs muscle proprioception, rendering the spine vulnerable to acute injury during subsequent lifting. In contrast, Hand-Arm Vibration (HAV) induces localized vasoconstriction ('vibration white finger') and direct axonal damage due to repetitive high-frequency impact.",
+    "Sit-Stand Workstation Rotation Mechanics: Alternating postures between sitting and standing every 30 to 45 minutes offsets the biomechanical hazards of both static positions. Transitioning from sitting to standing restores the natural lumbar lordosis, shifting loads back to the facet joints and lowering intradiscal pressure. Transitioning back to supported sitting unloads the lower extremity veins and lower-back passive structures, reversing postural creep in ligaments."
+  ],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "When a worker simultaneously flexes and rotates the lumbar spine to lift an object, the intervertebral disc loses half of its annular fiber resistance to shear, making this the most dangerous movement pattern for a herniated disc.",
+    "A properly adjusted ergonomic chair is useless if the worker lacks the core endurance to sit upright. Physiotherapists must prescribe endurance exercises for the deep postural muscles (multifidus, transversus abdominis) to complement ergonomic modifications.",
+    "Using a wrist rest while typing is actually a hazard; it compresses the median nerve against the carpal tunnel. Wrist rests should only be used to rest the heels of the hands during typing pauses.",
+    "To rapidly relieve the high intradiscal pressure caused by prolonged sitting, workers should stand up and perform 5-10 repetitions of standing lumbar extension (McKenzie extensions) every hour.",
+    "The safest lifting zone for materials handling is between the knuckles (when arms are hanging) and the shoulders. Items stored above shoulder height or below knee height exponentially increase biomechanical injury risk.",
+    "When applying RULA or REBA in clinical practice, remember they are screening tools, not diagnoses. A high RULA score of 7 indicates immediate workstation modification is required, but must be paired with physical assessment of muscle length/endurance of the upper quarter.",
+    "For workers exposed to whole-body vibration (e.g., forklift or tractor drivers), simply prescribing back exercises is insufficient. The therapist must recommend mechanical vibration-dampening seats and shock-absorbing flooring, as passive tissue creep under spinal resonance (4-8 Hz) occurs independently of voluntary muscle guard."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "Question: Explain the biomechanical difference between a Squat Lift and a Stoop Lift. | Answer: In a Squat Lift, the hips and knees are deeply flexed while the spine remains near vertical; the lifting force is generated by the large quadriceps and glutes. In a Stoop Lift, the knees are straight and the spine flexes forward; the lifting force is generated entirely by the erector spinae, which creates a massive external moment arm and extremely high shear/compressive forces on the lumbar discs. | Examiner Key Points: Squat = leg muscles/vertical spine; Stoop = back muscles/horizontal spine/high moment arm. | Clinical Importance: The stoop lift is the primary mechanism of acute occupational disc herniation.",
+    "Question: Define 'Static Loading' and explain its physiological consequence in the workplace. | Answer: Static loading is the sustained contraction of a muscle over a prolonged period without relaxation, such as holding the head forward to look at a monitor. Physiologically, continuous contraction compresses local capillaries, restricting blood flow and oxygen delivery, leading to ischemia, accumulation of metabolic waste (lactic acid), rapid fatigue, and eventual myofascial trigger points. | Examiner Key Points: Sustained contraction, capillary compression, ischemia, metabolic waste buildup. | Clinical Importance: The primary cause of 'office worker's neck' and tension headaches.",
+    "Question: What is 'Text Neck', and what happens biomechanically to the cervical spine? | Answer: 'Text Neck' is an overuse syndrome caused by constantly looking down at mobile devices. Biomechanically, as the neck flexes forward, the external moment arm of the head increases. A 10-12 lb head exerts 27 lbs of force at 15 degrees of flexion, and up to 60 lbs of force at 60 degrees. This places massive static loads on the posterior cervical muscles and ligaments. | Examiner Key Points: Increased moment arm, head weight effectively increases (up to 60 lbs), posterior structure strain. | Clinical Importance: A modern epidemic causing early-onset cervical spondylosis and disc degeneration in young people.",
+    "Question: Describe the ideal ergonomic setup for a computer workstation. | Answer: The monitor should be directly in front, with the top of the screen at or slightly below eye level. The elbows should be bent at 90-100 degrees and resting close to the body. Wrists should be neutral, hovering over the keyboard. Hips and knees should be at 90 degrees with feet flat on the floor or a footrest. | Examiner Key Points: Monitor at eye level, 90-degree elbows/hips/knees, neutral wrists, feet supported. | Clinical Importance: Prevents Cumulative Trauma Disorders like Carpal Tunnel Syndrome and cervicogenic pain.",
+    "Question: Why is simultaneous lifting and twisting (flexion + rotation) highly dangerous for the lumbar spine? | Answer: During spinal flexion, the anterior anulus compresses and pushes the nucleus pulposus posteriorly. When rotation is added, half of the oblique annular fibers become slack, leaving only 50% of the fibers to resist the pressure. This combination maximizes shear stress and drastically reduces the structural integrity of the disc, precipitating posterolateral herniation. | Examiner Key Points: Nucleus pushed posteriorly, 50% annular fibers slack during rotation, massive shear stress. | Clinical Importance: The cardinal rule of manual handling training is to move the feet to turn, never twist the spine under load.",
+    "Question: Discuss the biomechanical impact of keeping a lifted load close to the body. | Answer: The human spine acts as a first-class lever. The external torque (moment) acting on the spine is the weight of the object multiplied by its distance from the spine (moment arm). Keeping the load close minimizes the moment arm, exponentially decreasing the counter-torque the spinal muscles must generate, thus drastically lowering compressive forces on the intervertebral discs. | Examiner Key Points: Lever mechanics, moment arm reduction, decreased muscle force requirement, lower disc compression. | Clinical Importance: The most critical and effective instruction a physiotherapist can give to a manual laborer.",
+    "Question: Differentiate between Compression Forces and Shear Forces on the spine. | Answer: Compression forces act perpendicularly across the intervertebral disc, pushing the vertebrae together. The disc is well-designed to absorb compression. Shear forces act parallel to the disc surface, causing one vertebra to slide anteriorly or laterally over another. The spine is highly vulnerable to shear, which stresses the facet joints, pars interarticularis, and tears the annular fibers. | Examiner Key Points: Compression = perpendicular/squeezing (safe); Shear = parallel/sliding (dangerous). | Clinical Importance: Stoop lifting and twisting generate high shear forces, which are much more destructive than pure compression.",
+    "Question: What are Cumulative Trauma Disorders (CTDs)? Provide two examples. | Answer: CTDs are a group of musculoskeletal conditions that develop gradually over time due to repeated micro-trauma from awkward postures, repetitive motions, or sustained force, where the rate of tissue damage exceeds the rate of physiological repair. Examples include Carpal Tunnel Syndrome, De Quervain's Tenosynovitis, and lateral epicondylitis. | Examiner Key Points: Micro-trauma, repeated stress, damage exceeds repair rate. | Clinical Importance: Emphasizes that occupational injuries are rarely single acute events, requiring changes in daily habits and work station design.",
+    "Question: Why does sitting increase the pressure on the lower lumbar discs compared to standing? | Answer: In normal standing, the natural lumbar lordosis is maintained, shifting weight bearing to the facet joints and distributing force evenly across the disc. In sitting, the pelvis typically rolls backward (posterior pelvic tilt), which flattens or reverses the lumbar lordosis into flexion. This shifts the weight entirely onto the anterior disc, pushing the nucleus posteriorly and increasing intradiscal pressure by up to 40%. | Examiner Key Points: Posterior pelvic tilt, loss of lordosis, weight shifted to anterior disc, nucleus pushed posteriorly. | Clinical Importance: Explains why patients with posterolateral disc bulges experience extreme pain when sitting and prefer to stand or walk.",
+    "Question: Explain the role of micro-breaks in occupational health. | Answer: Micro-breaks are short (30-60 second) pauses taken frequently (e.g., every 30 minutes) during continuous tasks. Biomechanically, they allow muscles experiencing static loading to relax, restoring capillary blood flow and clearing metabolic waste. They also allow workers to perform counter-movements (like standing extension) to reverse postural creep in ligaments and discs. | Examiner Key Points: Reverses static loading, restores blood flow, clears metabolites, reverses postural creep. | Clinical Importance: A crucial behavioral intervention that is more effective than long, infrequent rest breaks for preventing RSI.",
+    "Question: Compare the RULA and REBA assessment tools in occupational biomechanics. | Answer: RULA (Rapid Upper Limb Assessment) is primarily designed to assess sedentary, desk-based, or workstation tasks. It focuses heavily on the posture and loading of the upper extremities, neck, and trunk. REBA (Rapid Entire Body Assessment) is designed to evaluate dynamic, unpredictable, or volatile environments (e.g., healthcare, manual materials handling). It includes scoring for the lower extremities and body movement changes. | Examiner Key Points: RULA = upper limb/sedentary/static focus; REBA = whole body/dynamic/volatile focus. | Clinical Importance: Select RULA for office workers with neck/wrist pain, and REBA for warehouse laborers or ward nurses with back/knee pain.",
+    "Question: How is the NIOSH Lifting Equation used to determine manual material handling risk? | Answer: The NIOSH Lifting Equation determines the Recommended Weight Limit (RWL) by multiplying a Load Constant (LC = 23 kg / 51 lbs) by six risk-reduction multipliers: Horizontal (HM), Vertical (VM), Distance (DM), Asymmetric (AM), Frequency (FM), and Coupling (CM). If the actual weight exceeds the RWL, a Lifting Index (LI = Weight / RWL) greater than 1.0 indicates increased physical stress, while an LI greater than 3.0 represents a severe, immediate injury hazard. | Examiner Key Points: RWL, LC, six multipliers (H, V, D, A, F, C), Lifting Index (LI) calculation, risk thresholds (LI > 1.0 and > 3.0). | Clinical Importance: Allows clinical therapists to objectively quantify and re-engineer industrial lifting tasks to protect worker lumbar spines.",
+    "Question: Explain why Whole-Body Vibration (WBV) at 4-8 Hz is highly detrimental to the spine. | Answer: Biomechanically, the human trunk has a natural resonant frequency between 4 and 8 Hz. When exposed to Whole-Body Vibration (WBV) within this range (e.g., heavy machinery operators), the spinal vibrations are amplified, causing high-amplitude compressive and shear stress on the intervertebral discs. This leads to rapid fatigue of the postural muscles, creep of the spinal ligaments, and accelerated disc degeneration. | Examiner Key Points: Resonant frequency 4-8 Hz, vibrational amplification, muscle fatigue, ligamentous creep, disc degeneration. | Clinical Importance: Drivers must have ergonomic suspension seats and schedule frequent standing micro-breaks to interrupt vibrational resonance and prevent chronic low back pain."
+  ],
+  "mcqs": [
+    {
+      "question": "Which lifting technique produces the highest and most dangerous levels of shear force across the L5-S1 intervertebral disc?",
+      "options": [
+        "Squat Lift",
+        "Semi-Squat Lift",
+        "Stoop Lift",
+        "Golfer's Lift"
+      ],
+      "answer": "Stoop Lift",
+      "explanation": "The stoop lift (straight knees, flexed spine) creates a massive external moment arm. The erector spinae must pull at a harsh angle, generating immense shear and compressive forces that put the disc at high risk of herniation."
+    },
+    {
+      "question": "Biomechanically, keeping a heavy box extremely close to your body while lifting prevents injury by:",
+      "options": [
+        "Increasing the moment arm of the back muscles",
+        "Decreasing the external moment arm of the load",
+        "Increasing the shear force on the facet joints",
+        "Shifting the center of gravity to the cervical spine"
+      ],
+      "answer": "Decreasing the external moment arm of the load",
+      "explanation": "Moving the load closer to the spine decreases its moment arm. Torque equals force times distance; reducing the distance drastically reduces the torque the spinal muscles must counteract, lowering disc compression."
+    },
+    {
+      "question": "The primary physiological mechanism causing muscle pain and fatigue during 'Static Loading' (e.g., holding the head forward at a computer) is:",
+      "options": [
+        "A sudden tearing of the muscle fibers",
+        "Ischemia due to capillary compression from sustained contraction",
+        "Overstretching of the golgi tendon organs",
+        "Rupture of the intervertebral disc"
+      ],
+      "answer": "Ischemia due to capillary compression from sustained contraction",
+      "explanation": "Sustained, unrelieved muscle contraction pinches off local blood vessels (ischemia). Without oxygen, metabolic waste (lactic acid) builds up rapidly, causing burning pain, fatigue, and trigger points."
+    },
+    {
+      "question": "In an ergonomically correct computer workstation setup, the top of the monitor should ideally be positioned:",
+      "options": [
+        "Looking upwards at a 45-degree angle",
+        "At or slightly below eye level",
+        "Looking downwards at a 60-degree angle",
+        "Flat on the desk surface"
+      ],
+      "answer": "At or slightly below eye level",
+      "explanation": "Placing the monitor at or slightly below eye level keeps the cervical spine in a neutral alignment, preventing the static loading and muscle strain associated with 'forward head' or extended neck postures."
+    },
+    {
+      "question": "Which combination of spinal movements is considered the absolute most dangerous mechanism for causing an acute posterolateral disc herniation while lifting?",
+      "options": [
+        "Pure extension and lateral flexion",
+        "Pure vertical compression",
+        "Spinal flexion combined with axial rotation",
+        "Spinal extension combined with axial rotation"
+      ],
+      "answer": "Spinal flexion combined with axial rotation",
+      "explanation": "Flexion pushes the nucleus pulposus posteriorly. Simultaneous rotation leaves half of the annular fibers slack and unable to resist pressure. This combination perfectly creates the conditions for a posterolateral rupture."
+    },
+    {
+      "question": "The concept of 'Text Neck' highlights that as the cervical spine flexes forward from neutral to 60 degrees to view a phone, the effective weight of the head acting on the neck muscles:",
+      "options": [
+        "Decreases due to gravity",
+        "Remains exactly the same",
+        "Increases from roughly 10 lbs to approximately 60 lbs",
+        "Shifts entirely to the anterior longitudinal ligament"
+      ],
+      "answer": "Increases from roughly 10 lbs to approximately 60 lbs",
+      "explanation": "Because the moment arm of the head's center of gravity increases as it moves forward, the physics dictate that the posterior neck muscles must exert up to 60 pounds of force just to hold the head from falling."
+    },
+    {
+      "question": "Which of the following conditions is a classic example of a Cumulative Trauma Disorder (CTD) caused by repetitive occupational strain?",
+      "options": [
+        "Acute ACL rupture",
+        "Carpal Tunnel Syndrome",
+        "Femoral shaft fracture",
+        "Acute whiplash injury"
+      ],
+      "answer": "Carpal Tunnel Syndrome",
+      "explanation": "Carpal Tunnel Syndrome typically develops gradually due to repeated micro-trauma (e.g., repetitive typing, vibration, awkward wrist postures) where the rate of tissue irritation exceeds the body's ability to heal."
+    },
+    {
+      "question": "Compared to standing, sitting upright without lumbar support generally causes intradiscal pressure in the lower lumbar spine to:",
+      "options": [
+        "Decrease significantly",
+        "Increase due to the loss of natural lumbar lordosis",
+        "Remain exactly the same",
+        "Shift entirely to the thoracic spine"
+      ],
+      "answer": "Increase due to the loss of natural lumbar lordosis",
+      "explanation": "Sitting tends to induce a posterior pelvic tilt, flattening the lumbar lordosis. This shifts the weight off the load-bearing facet joints and places massive increased pressure directly on the anterior aspect of the intervertebral discs."
+    },
+    {
+      "question": "When typing at an ergonomic keyboard, the worker's wrists should be maintained in which optimal position?",
+      "options": [
+        "Maximum extension (bent backwards)",
+        "Maximum flexion (bent downwards)",
+        "Ulnar deviation (bent outwards)",
+        "Neutral, straight alignment"
+      ],
+      "answer": "Neutral, straight alignment",
+      "explanation": "The wrists should hover over the keyboard in a straight, neutral position. Bending them up, down, or sideways increases pressure inside the carpal tunnel and places friction on the flexor tendons."
+    },
+    {
+      "question": "To effectively combat the biomechanical hazards of prolonged sitting, the most physiologically sound advice for an office worker is to:",
+      "options": [
+        "Sit completely motionless for 4 hours to avoid joint friction",
+        "Take a 30-second micro-break to stand and extend the lumbar spine every 30-60 minutes",
+        "Switch to a stoop sitting posture",
+        "Rest the wrists heavily on a gel pad while typing continuously"
+      ],
+      "answer": "Take a 30-second micro-break to stand and extend the lumbar spine every 30-60 minutes",
+      "explanation": "Frequent micro-breaks to stand and perform extension reverse the sustained flexion posture of sitting, restoring blood flow, allowing the nucleus pulposus to migrate anteriorly, and relieving ligamentous creep."
+    },
+    {
+      "question": "Which of the following ergonomic screening tools is specifically designed and validated for evaluating dynamic tasks across the entire body in unpredictable environments such as patient handling or warehousing?",
+      "options": [
+        "RULA (Rapid Upper Limb Assessment)",
+        "REBA (Rapid Entire Body Assessment)",
+        "OWAS (Ovako Working Posture Analysis System)",
+        "Strain Index"
+      ],
+      "answer": "REBA (Rapid Entire Body Assessment)",
+      "explanation": "REBA is validated for entire-body postures (including legs) in highly dynamic or unstable environments, whereas RULA is tailored for upper limbs in static, desk-based tasks."
+    },
+    {
+      "question": "In the NIOSH Lifting Equation, which multiplier is considered the most critical risk-modifier due to its exponential effect on L5-S1 intervertebral disc compression?",
+      "options": [
+        "Vertical Multiplier (VM)",
+        "Frequency Multiplier (FM)",
+        "Horizontal Multiplier (HM)",
+        "Coupling Multiplier (CM)"
+      ],
+      "answer": "Horizontal Multiplier (HM)",
+      "explanation": "The Horizontal Multiplier (10/H) represents the lever arm distance of the load from the spine. As this distance increases, the spinal moment arm and joint compression increase exponentially, severely dropping the Recommended Weight Limit."
+    },
+    {
+      "question": "At what frequency range does mechanical vibration of the human trunk induce resonance, leading to amplified shear stress on intervertebral discs and rapid muscle fatigue?",
+      "options": [
+        "1 to 3 Hz",
+        "4 to 8 Hz",
+        "12 to 16 Hz",
+        "25 to 30 Hz"
+      ],
+      "answer": "4 to 8 Hz",
+      "explanation": "The human trunk has a natural resonant frequency of 4-8 Hz. Exposure to whole-body vibration in this range amplifies mechanical loading, accelerating disc degeneration and postural muscle fatigue."
+    }
+  ],
+  "reference": [
+    "Norkin, P. K., & Levangie, P. K. (2011). Joint Structure and Function: A Comprehensive Analysis (5th ed.). F.A. Davis Company.",
+    "Chaffin, D. B., Andersson, G. B. J., & Martin, B. J. (2006). Occupational Biomechanics (4th ed.). Wiley-Interscience.",
+    "Houglum, P. A., & Bertoti, D. B. (2012). Brunnstrom's Clinical Kinesiology (6th ed.). F.A. Davis Company."
+  ]
+}

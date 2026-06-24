@@ -396,28 +396,28 @@
     "subject": "Exercise Therapy II",
     "unit": "Exercise Therapy II",
     "chapterId": "ex2_ch1",
-    "chapterName": "Passive Stretching & Flexibility"
-  },
-  {
-    "year": "2nd Year",
-    "subject": "Exercise Therapy II",
-    "unit": "Exercise Therapy II",
-    "chapterId": "ex2_ch2",
-    "chapterName": "Suspension Therapy"
-  },
-  {
-    "year": "2nd Year",
-    "subject": "Exercise Therapy II",
-    "unit": "Exercise Therapy II",
-    "chapterId": "ex2_ch3",
     "chapterName": "Goniometry Mechanics"
   },
   {
     "year": "2nd Year",
     "subject": "Exercise Therapy II",
     "unit": "Exercise Therapy II",
-    "chapterId": "ex2_ch4",
+    "chapterId": "ex2_ch2",
     "chapterName": "Manual Muscle Testing"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch3",
+    "chapterName": "Passive Stretching & Flexibility"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Exercise Therapy II",
+    "unit": "Exercise Therapy II",
+    "chapterId": "ex2_ch4",
+    "chapterName": "Suspension Therapy"
   },
   {
     "year": "2nd Year",
@@ -505,31 +505,248 @@
   },
   {
     "year": "2nd Year",
-    "subject": "Pathology, Microbiology & Pharmacology",
-    "unit": "Pathology, Microbiology & Pharmacology",
-    "chapterId": "pmp_ch1",
-    "chapterName": "Cell Injury & Wallerian Degeneration"
+    "subject": "Pathology",
+    "unit": "General Pathology",
+    "chapterId": "path_ch1",
+    "chapterName": "Cell Injury & Adaptation"
   },
   {
     "year": "2nd Year",
-    "subject": "Pathology, Microbiology & Pharmacology",
-    "unit": "Pathology, Microbiology & Pharmacology",
-    "chapterId": "pmp_ch2",
-    "chapterName": "Inflammation Stages & Repair"
+    "subject": "Pathology",
+    "unit": "General Pathology",
+    "chapterId": "path_ch2",
+    "chapterName": "Inflammation"
   },
   {
     "year": "2nd Year",
-    "subject": "Pathology, Microbiology & Pharmacology",
-    "unit": "Pathology, Microbiology & Pharmacology",
-    "chapterId": "pmp_ch3",
-    "chapterName": "Microbiology is Physio"
+    "subject": "Pathology",
+    "unit": "General Pathology",
+    "chapterId": "path_ch3",
+    "chapterName": "Healing and Repair"
   },
   {
     "year": "2nd Year",
-    "subject": "Pathology, Microbiology & Pharmacology",
-    "unit": "Pathology, Microbiology & Pharmacology",
-    "chapterId": "pmp_ch4",
-    "chapterName": "Pharmacology of Muscle & Pain Meds"
+    "subject": "Pathology",
+    "unit": "General Pathology",
+    "chapterId": "path_ch4",
+    "chapterName": "Hemodynamic Derangements"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology",
+    "unit": "General Pathology",
+    "chapterId": "path_ch5",
+    "chapterName": "Immunity & Hypersensitivity"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology",
+    "unit": "General Pathology",
+    "chapterId": "path_ch6",
+    "chapterName": "Neoplasia"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology",
+    "unit": "General Pathology",
+    "chapterId": "path_ch7",
+    "chapterName": "Nutritional Disorders"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology",
+    "unit": "Systemic Pathology",
+    "chapterId": "path_ch8",
+    "chapterName": "Blood Disorders"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology",
+    "unit": "Systemic Pathology",
+    "chapterId": "path_ch9",
+    "chapterName": "Blood Vessels"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology",
+    "unit": "Systemic Pathology",
+    "chapterId": "path_ch10",
+    "chapterName": "Disease of Heart"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology",
+    "unit": "Systemic Pathology",
+    "chapterId": "path_ch11",
+    "chapterName": "Respiratory System"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology",
+    "unit": "Systemic Pathology",
+    "chapterId": "path_ch12",
+    "chapterName": "Joint Disorders"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology",
+    "unit": "Systemic Pathology",
+    "chapterId": "path_ch13",
+    "chapterName": "Bone Disorders"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology",
+    "unit": "Systemic Pathology",
+    "chapterId": "path_ch14",
+    "chapterName": "Muscles"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pathology",
+    "unit": "Systemic Pathology",
+    "chapterId": "path_ch15",
+    "chapterName": "Nervous System"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Microbiology",
+    "unit": "Microbiology",
+    "chapterId": "micro_ch1",
+    "chapterName": "Introduction to Microbiology & Bacterial Morphology"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Microbiology",
+    "unit": "Microbiology",
+    "chapterId": "micro_ch2",
+    "chapterName": "Sterilization and Disinfection"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Microbiology",
+    "unit": "Microbiology",
+    "chapterId": "micro_ch3",
+    "chapterName": "Immunology & Hypersensitivity Basics"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Microbiology",
+    "unit": "Microbiology",
+    "chapterId": "micro_ch4",
+    "chapterName": "Systemic Bacteriology & Wound Infections"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Microbiology",
+    "unit": "Microbiology",
+    "chapterId": "micro_ch5",
+    "chapterName": "Virology & Viral Pathogens"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Microbiology",
+    "unit": "Microbiology",
+    "chapterId": "micro_ch6",
+    "chapterName": "Mycology & Fungal Infections"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Microbiology",
+    "unit": "Microbiology",
+    "chapterId": "micro_ch7",
+    "chapterName": "Parasitology & Parasitic Infections"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Microbiology",
+    "unit": "Microbiology",
+    "chapterId": "micro_ch8",
+    "chapterName": "Nosocomial Infections & Biomedical Waste Management"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pharmacology",
+    "unit": "Pharmacology",
+    "chapterId": "pharm_ch1",
+    "chapterName": "General Pharmacology"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pharmacology",
+    "unit": "Pharmacology",
+    "chapterId": "pharm_ch2",
+    "chapterName": "Autonomic Nervous System"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pharmacology",
+    "unit": "Pharmacology",
+    "chapterId": "pharm_ch3",
+    "chapterName": "Musculoskeletal System"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pharmacology",
+    "unit": "Pharmacology",
+    "chapterId": "pharm_ch4",
+    "chapterName": "Drugs Acting on Kidney"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pharmacology",
+    "unit": "Pharmacology",
+    "chapterId": "pharm_ch5",
+    "chapterName": "Cardiovascular System & Blood"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pharmacology",
+    "unit": "Pharmacology",
+    "chapterId": "pharm_ch6",
+    "chapterName": "Central Nervous System"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pharmacology",
+    "unit": "Pharmacology",
+    "chapterId": "pharm_ch7",
+    "chapterName": "Autacoids"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pharmacology",
+    "unit": "Pharmacology",
+    "chapterId": "pharm_ch8",
+    "chapterName": "Respiratory System"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pharmacology",
+    "unit": "Pharmacology",
+    "chapterId": "pharm_ch9",
+    "chapterName": "Gastrointestinal Tract"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pharmacology",
+    "unit": "Pharmacology",
+    "chapterId": "pharm_ch10",
+    "chapterName": "Hormones"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pharmacology",
+    "unit": "Pharmacology",
+    "chapterId": "pharm_ch11",
+    "chapterName": "Chemotherapy"
+  },
+  {
+    "year": "2nd Year",
+    "subject": "Pharmacology",
+    "unit": "Pharmacology",
+    "chapterId": "pharm_ch12",
+    "chapterName": "Geriatric Pharmacology"
   },
   {
     "year": "3rd Year",

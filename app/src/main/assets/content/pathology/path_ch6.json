@@ -1,0 +1,175 @@
+{
+  "subject": "Pathology",
+  "chapterId": "path_ch6",
+  "chapterName": "Neoplasia",
+  "definition": [
+    "Neoplasia: Literally means 'new growth'. A neoplasm (tumor) is an abnormal mass of tissue, the growth of which exceeds and is uncoordinated with that of the normal tissues, and persists in the same excessive manner after cessation of the stimuli which evoked the change.",
+    "Oncology: The study of tumors or neoplasms.",
+    "Cancer: The common term for all malignant tumors."
+  ],
+  "principle": [
+    "Benign vs. Malignant: Benign tumors remain localized, cannot spread to distant sites, and are generally amenable to local surgical removal. Malignant tumors can invade and destroy adjacent structures and spread to distant sites (metastasize) to cause death.",
+    "Nomenclature - Benign: Generally designated by attaching the suffix '-oma' to the cell type. E.g., Fibroma (fibrous tissue), Chondroma (cartilage), Adenoma (glandular epithelium).",
+    "Nomenclature - Malignant: Malignant tumors arising in solid mesenchymal tissues are called 'sarcomas' (e.g., fibrosarcoma, osteosarcoma). Those arising from epithelial cells are called 'carcinomas' (e.g., squamous cell carcinoma, adenocarcinoma).",
+    "Characteristics of Benign Tumors: Well-differentiated, slow growing, usually encapsulated, do not invade surrounding tissue, and do not metastasize.",
+    "Characteristics of Malignant Tumors: Lack of differentiation (anaplasia), rapid erratic growth, locally invasive (infiltrating surrounding tissue), and capable of metastasis.",
+    "Differentiation and Anaplasia: Differentiation refers to the extent to which neoplastic cells resemble their normal forebears morphologically and functionally. Lack of differentiation is called anaplasia, a hallmark of malignancy.",
+    "Metastasis: The spread of a tumor to sites that are physically discontinuous with the primary tumor. It is the most reliable feature that distinguishes malignant from benign tumors. Pathways of spread: seeding of body cavities, lymphatic spread (typical of carcinomas), and hematogenous spread (typical of sarcomas).",
+    "Carcinogenesis: The molecular basis of cancer involves nonlethal genetic damage (mutations). Key gene targets include: 1) Growth-promoting proto-oncogenes, 2) Growth-inhibiting tumor suppressor genes (e.g., p53, Rb), 3) Genes regulating apoptosis, and 4) Genes involved in DNA repair.",
+    "Carcinogens: Agents capable of causing cellular damage leading to cancer. Include chemical carcinogens (e.g., tobacco smoke, asbestos), radiant energy (UV rays, ionizing radiation), and oncogenic microbes (e.g., HPV, Epstein-Barr virus).",
+    "Grading and Staging: Grading is based on the degree of differentiation of the tumor cells and the number of mitoses. Staging is based on the size of the primary lesion, its extent of spread to regional lymph nodes, and the presence or absence of blood-borne metastases (e.g., TNM system). Staging is generally more clinically valuable than grading."
+  ],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Bone Metastases and Physiotherapy: Cancers of the prostate, breast, lung, thyroid, and kidney frequently metastasize to bone. Physiotherapists must be extremely cautious with manual therapy, stretching, and resistance training in these patients due to a high risk of pathologic fractures.",
+    "Cancer-Related Fatigue (CRF): CRF is one of the most common and distressing side effects of cancer and its treatment. Graded aerobic and resistance exercise programs are highly effective, evidence-based interventions to manage CRF.",
+    "Lymphedema Management: Secondary lymphedema often occurs after lymph node dissection or radiation (e.g., post-mastectomy). Physiotherapists trained in Complete Decongestive Therapy (CDT) play a primary role in its management.",
+    "Paraneoplastic Syndromes: Symptoms that cannot readily be explained by the local or distant spread of the tumor or by the elaboration of hormones indigenous to the tissue. Examples include hypercalcemia or neuropathies, which may present as musculoskeletal pain or weakness during PT evaluation.",
+    "Exercise Oncology: Physical activity is associated with reduced risk of several cancers (breast, colon) and improves survivorship outcomes. Physiotherapists design tailored exercise regimens to mitigate the toxicities of chemotherapy and radiation."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "Question: Define Neoplasia according to Willis. | Answer: An abnormal mass of tissue, the growth of which exceeds and is uncoordinated with that of normal tissues, and persists even after the cessation of the stimuli which evoked the change. | Examiner Key Points: Abnormal mass, uncoordinated/excessive growth, persists after stimulus ceases.",
+    "Question: What is the most reliable feature distinguishing a malignant from a benign tumor? | Answer: Metastasis. Benign tumors never metastasize. | Examiner Key Points: Metastasis.",
+    "Question: What is the difference between a carcinoma and a sarcoma? | Answer: Carcinoma is a malignant tumor of epithelial origin, whereas a sarcoma is a malignant tumor of mesenchymal (connective tissue) origin. | Examiner Key Points: Epithelial origin vs. Mesenchymal origin.",
+    "Question: Define anaplasia. | Answer: A lack of cellular differentiation, considered a hallmark of malignancy. Cells show pleomorphism, hyperchromatic nuclei, and increased/abnormal mitoses. | Examiner Key Points: Lack of differentiation, hallmark of malignancy.",
+    "Question: What are the three main pathways of cancer metastasis? | Answer: 1) Lymphatic spread (common for carcinomas), 2) Hematogenous spread (common for sarcomas), 3) Seeding of body cavities (e.g., peritoneal cavity). | Examiner Key Points: Lymphatic, hematogenous, body cavity seeding.",
+    "Question: Differentiate between tumor grading and staging. | Answer: Grading is a histological assessment based on the degree of cellular differentiation and mitosis. Staging is a clinical assessment based on tumor size, lymph node involvement, and distant metastasis (TNM system). | Examiner Key Points: Histological (differentiation) vs. Clinical (extent of spread).",
+    "Question: Name two common tumor suppressor genes. | Answer: p53 (the guardian of the genome) and Rb (retinoblastoma gene). | Examiner Key Points: p53, Rb.",
+    "Question: What is a teratoma? | Answer: A tumor containing recognizable mature or immature cells or tissues representative of more than one germ cell layer, and sometimes all three (ectoderm, mesoderm, endoderm). Often arises in ovaries or testes. | Examiner Key Points: Multiple germ layers, totipotent cells.",
+    "Question: List three differences between benign and malignant tumors. | Answer: Benign: Slow-growing, encapsulated, no metastasis. Malignant: Fast-growing, invasive, capable of metastasis. | Examiner Key Points: Growth rate, boundary/invasion, metastasis.",
+    "Question: Give an example of a viral carcinogen and the cancer it causes. | Answer: Human Papillomavirus (HPV) causes cervical cancer; Epstein-Barr Virus (EBV) causes Burkitt lymphoma. | Examiner Key Points: Matching a virus to its specific cancer."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following terms is used to describe a malignant tumor arising from mesenchymal (connective) tissue?",
+      "options": [
+        "Carcinoma",
+        "Adenoma",
+        "Sarcoma",
+        "Papilloma"
+      ],
+      "answer": "Sarcoma",
+      "explanation": "Malignant tumors arising in solid mesenchymal tissues (like bone, cartilage, fat, or muscle) are termed sarcomas (e.g., osteosarcoma, liposarcoma)."
+    },
+    {
+      "question": "Which of the following is the single most definitive criterion indicating that a neoplasm is malignant?",
+      "options": [
+        "Rapid rate of growth",
+        "Presence of a capsule",
+        "Lack of differentiation (Anaplasia)",
+        "Capacity to metastasize"
+      ],
+      "answer": "Capacity to metastasize",
+      "explanation": "Metastasis, the spread of a tumor to distant sites, unequivocally marks a tumor as malignant, as benign tumors never metastasize."
+    },
+    {
+      "question": "Which is the most common pathway for the initial dissemination of carcinomas?",
+      "options": [
+        "Hematogenous spread",
+        "Lymphatic spread",
+        "Direct seeding of body cavities",
+        "Perineural invasion"
+      ],
+      "answer": "Lymphatic spread",
+      "explanation": "While sarcomas typically favor hematogenous (blood) spread, carcinomas most frequently utilize lymphatic vessels for initial dissemination to regional lymph nodes."
+    },
+    {
+      "question": "A tumor that contains mature or immature tissues derived from more than one germ cell layer (e.g., hair, teeth, muscle, thyroid) is called a:",
+      "options": [
+        "Choristoma",
+        "Hamartoma",
+        "Teratoma",
+        "Melanoma"
+      ],
+      "answer": "Teratoma",
+      "explanation": "Teratomas originate from totipotential germ cells and can differentiate into varied tissues representing ectoderm, endoderm, and mesoderm."
+    },
+    {
+      "question": "In oncology, the TNM system is widely used. What does this system evaluate?",
+      "options": [
+        "Tumor grading based on cellular differentiation",
+        "Tumor staging based on size, node involvement, and metastasis",
+        "The specific genetic mutations causing the cancer",
+        "The histological origin of the neoplastic cells"
+      ],
+      "answer": "Tumor staging based on size, node involvement, and metastasis",
+      "explanation": "The TNM system is used for clinical Staging: T for primary Tumor size, N for regional lymph Node involvement, and M for distant Metastasis."
+    },
+    {
+      "question": "The p53 gene is frequently mutated in human cancers. What is its normal cellular function?",
+      "options": [
+        "It promotes uncontrolled cell division.",
+        "It stimulates angiogenesis in new tumors.",
+        "It acts as a tumor suppressor, arresting the cell cycle to allow DNA repair or inducing apoptosis.",
+        "It acts as an oncogene driving malignant transformation."
+      ],
+      "answer": "It acts as a tumor suppressor, arresting the cell cycle to allow DNA repair or inducing apoptosis.",
+      "explanation": "The p53 gene is a critical tumor suppressor gene ('guardian of the genome'). Its loss or mutation allows cells with damaged DNA to survive and divide."
+    },
+    {
+      "question": "A benign tumor of glandular epithelium is specifically termed a(n):",
+      "options": [
+        "Adenoma",
+        "Fibroma",
+        "Adenocarcinoma",
+        "Lipoma"
+      ],
+      "answer": "Adenoma",
+      "explanation": "An adenoma is a benign epithelial neoplasm that forms glandular patterns or is derived from glands. The malignant counterpart is an adenocarcinoma."
+    },
+    {
+      "question": "Lack of differentiation, a hallmark of malignant cells characterized by pleomorphism and hyperchromatic nuclei, is termed:",
+      "options": [
+        "Dysplasia",
+        "Metaplasia",
+        "Hyperplasia",
+        "Anaplasia"
+      ],
+      "answer": "Anaplasia",
+      "explanation": "Anaplasia means 'to form backward' and implies a dedifferentiation or loss of structural and functional differentiation of normal cells."
+    },
+    {
+      "question": "Which of the following cancers is strongly associated with Human Papillomavirus (HPV) infection?",
+      "options": [
+        "Lung carcinoma",
+        "Hepatocellular carcinoma",
+        "Cervical carcinoma",
+        "Gastric carcinoma"
+      ],
+      "answer": "Cervical carcinoma",
+      "explanation": "Certain high-risk strains of HPV (especially 16 and 18) are strongly implicated in the pathogenesis of cervical squamous cell carcinoma."
+    },
+    {
+      "question": "Why must physiotherapists exercise extreme caution when treating patients with advanced breast, lung, or prostate cancer?",
+      "options": [
+        "These cancers release neurotoxins causing immediate paralysis.",
+        "These cancers frequently metastasize to bone, increasing the risk of pathologic fractures during physical activity.",
+        "Exercise promotes the rapid spread of these specific cancers.",
+        "These cancers are highly contagious through skin contact."
+      ],
+      "answer": "These cancers frequently metastasize to bone, increasing the risk of pathologic fractures during physical activity.",
+      "explanation": "Prostate, breast, lung, thyroid, and kidney cancers have a high propensity to metastasize to bone, structurally weakening it and making it prone to fracture under normal mechanical stress."
+    }
+  ],
+  "reference": [
+    "Textbook of Pathology by Harsh Mohan",
+    "Robbins Basic Pathology",
+    "WBUHS BPT Pathology Syllabus"
+  ]
+}

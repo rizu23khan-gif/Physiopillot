@@ -1,0 +1,143 @@
+{
+  "subject": "Pathology",
+  "chapterId": "path_ch10",
+  "chapterName": "Disease of Heart",
+  "definition": [
+    "Cardiovascular Disorders: Diseases affecting the heart and blood vessels. Key conditions include Atherosclerosis, Ischemic Heart Disease (IHD), Hypertension, Rheumatic Heart Disease (RHD), and Congestive Heart Failure (CHF)."
+  ],
+  "principle": [
+    "Atherosclerosis: A chronic inflammatory and healing response of the arterial wall to endothelial injury, characterized by intimal lesions called atheromas (fibrofatty plaques) that protrude into vessel lumens.",
+    "Hypertension: Sustained elevation of systemic arterial blood pressure. Primary (essential) hypertension accounts for 90-95% of cases; secondary hypertension results from renal, endocrine, or vascular diseases.",
+    "Ischemic Heart Disease (IHD): A group of pathophysiologically related syndromes resulting from myocardial ischemia, most commonly due to coronary artery atherosclerosis. Includes angina pectoris, myocardial infarction, chronic IHD, and sudden cardiac death.",
+    "Myocardial Infarction (MI): Necrosis of heart muscle resulting from ischemia. Most are caused by acute thrombosis superimposed on a disrupted atherosclerotic plaque.",
+    "Rheumatic Fever and Rheumatic Heart Disease (RHD): An acute, immunologically mediated, multisystem inflammatory disease occurring after group A streptococcal pharyngitis. RHD is the cardiac manifestation, typically involving fibrotic valvular disease (especially mitral stenosis).",
+    "Congestive Heart Failure (CHF): A multisystem derangement occurring when the heart is unable to eject the blood delivered to it (systolic dysfunction) or cannot fill adequately (diastolic dysfunction), leading to inadequate tissue perfusion and fluid congestion."
+  ],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Cardiac Rehabilitation: Physiotherapy is central to post-MI and CHF rehabilitation. Programs must strictly adhere to monitored MET (Metabolic Equivalent) levels, starting with gentle mobilization and progressing to aerobic conditioning.",
+    "Vital Sign Monitoring: Therapists must rigorously monitor BP, HR, and perceived exertion (Borg scale) during exercise in patients with hypertension or IHD to prevent adverse cardiovascular events.",
+    "Peripheral Artery Disease (PAD): A manifestation of atherosclerosis in the lower extremities. Physiotherapy involves interval walking programs to promote collateral circulation and improve claudication distance.",
+    "DVT and Embolism: Patients with heart failure are at high risk for venous stasis and Deep Vein Thrombosis. Prophylactic mobility and recognition of DVT signs are critical physical therapy competencies."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "Question: Define atherosclerosis and its primary lesion. | Answer: A chronic inflammatory arterial disease characterized by atheromas (fibrofatty plaques) in the tunica intima that narrow the vessel lumen. | Examiner Key Points: Intimal lesion, atheroma, narrowing of lumen.",
+    "Question: Differentiate between angina pectoris and myocardial infarction. | Answer: Angina is reversible myocardial ischemia causing chest pain without necrosis. MI is irreversible ischemia leading to myocardial cell death (necrosis). | Examiner Key Points: Reversible vs Irreversible ischemia, Necrosis in MI.",
+    "Question: What is the most common cause of right-sided heart failure? | Answer: Left-sided heart failure. | Examiner Key Points: Left-sided failure backing up into the pulmonary and then right-sided circulation.",
+    "Question: Name the major Jones criteria for diagnosing Rheumatic Fever. | Answer: Migratory polyarthritis, pancarditis, subcutaneous nodules, erythema marginatum, and Sydenham chorea. | Examiner Key Points: Carditis, Arthritis, Chorea, Erythema, Nodules.",
+    "Question: Which cardiac valve is most frequently affected in Rheumatic Heart Disease? | Answer: The mitral valve, often leading to mitral stenosis. | Examiner Key Points: Mitral valve.",
+    "Question: What are the primary complications of a myocardial infarction? | Answer: Arrhythmias, cardiogenic shock, myocardial rupture, mural thrombosis, and congestive heart failure. | Examiner Key Points: Arrhythmias, Shock, Rupture.",
+    "Question: Explain the pathogenesis of essential hypertension. | Answer: It is multifactorial, involving genetic and environmental factors leading to increased cardiac output and/or increased total peripheral resistance (e.g., via altered sodium handling or sympathetic tone). | Examiner Key Points: Increased CO or peripheral resistance, multifactorial.",
+    "Question: How does left-sided heart failure present clinically? | Answer: Primarily with respiratory symptoms due to pulmonary congestion and edema, such as dyspnea on exertion, orthopnea, and paroxysmal nocturnal dyspnea. | Examiner Key Points: Pulmonary edema, Dyspnea, Orthopnea."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following is the initiating event in the pathogenesis of atherosclerosis according to the 'response to injury' hypothesis?",
+      "options": [
+        "Proliferation of smooth muscle cells",
+        "Endothelial cell injury or dysfunction",
+        "Accumulation of LDL cholesterol in the media",
+        "Thrombosis"
+      ],
+      "answer": "Endothelial cell injury or dysfunction",
+      "explanation": "Endothelial injury (due to shear stress, hyperlipidemia, toxins) increases permeability and leukocyte adhesion, initiating atheroma formation."
+    },
+    {
+      "question": "A patient presents with severe, crushing chest pain radiating to the left arm that is not relieved by rest or nitroglycerin. This presentation is most characteristic of:",
+      "options": [
+        "Stable angina pectoris",
+        "Prinzmetal angina",
+        "Myocardial infarction",
+        "Acute pericarditis"
+      ],
+      "answer": "Myocardial infarction",
+      "explanation": "Pain from an MI is typically severe, prolonged, and unresponsive to rest or nitroglycerin, unlike stable angina."
+    },
+    {
+      "question": "Rheumatic heart disease most commonly leads to chronic scarring and stenosis of which cardiac valve?",
+      "options": [
+        "Aortic valve",
+        "Tricuspid valve",
+        "Pulmonary valve",
+        "Mitral valve"
+      ],
+      "answer": "Mitral valve",
+      "explanation": "The mitral valve is involved in virtually all cases of chronic RHD, often presenting as a 'fish-mouth' or 'buttonhole' stenosis."
+    },
+    {
+      "question": "Which of the following is a classic symptom of left-sided heart failure?",
+      "options": [
+        "Peripheral pitting edema",
+        "Hepatomegaly",
+        "Orthopnea",
+        "Ascites"
+      ],
+      "answer": "Orthopnea",
+      "explanation": "Orthopnea (shortness of breath when lying flat) is caused by pulmonary congestion, a hallmark of left-sided heart failure. The other options are signs of right-sided failure."
+    },
+    {
+      "question": "Which laboratory marker is most sensitive and specific for detecting acute myocardial necrosis (MI)?",
+      "options": [
+        "Creatine kinase (CK-MB)",
+        "Myoglobin",
+        "Cardiac troponins (TnT, TnI)",
+        "Lactate dehydrogenase (LDH)"
+      ],
+      "answer": "Cardiac troponins (TnT, TnI)",
+      "explanation": "Cardiac specific troponins are highly sensitive and specific markers of myocardial injury and remain elevated for several days."
+    },
+    {
+      "question": "Cor pulmonale is defined as right ventricular hypertrophy and heart failure secondary to:",
+      "options": [
+        "Left ventricular failure",
+        "Aortic stenosis",
+        "Primary pulmonary hypertension or lung disease",
+        "Systemic hypertension"
+      ],
+      "answer": "Primary pulmonary hypertension or lung disease",
+      "explanation": "Cor pulmonale is right heart disease caused exclusively by primary disorders of the lung parenchyma or pulmonary vasculature."
+    },
+    {
+      "question": "The most common cause of sudden cardiac death in adults is:",
+      "options": [
+        "Massive pulmonary embolism",
+        "Rupture of an aortic aneurysm",
+        "Ischemic heart disease inducing a lethal arrhythmia",
+        "Acute rheumatic fever"
+      ],
+      "answer": "Ischemic heart disease inducing a lethal arrhythmia",
+      "explanation": "Sudden cardiac death is most often a consequence of lethal arrhythmias (like ventricular fibrillation) triggered by underlying ischemic heart disease."
+    },
+    {
+      "question": "In the context of hypertension, 'malignant hypertension' is characterized by:",
+      "options": [
+        "A slow, gradual rise in blood pressure over decades",
+        "A rapid, severe increase in blood pressure with organ damage (e.g., papilledema)",
+        "Hypertension caused solely by a pheochromocytoma",
+        "Hypertension that responds easily to single-drug therapy"
+      ],
+      "answer": "A rapid, severe increase in blood pressure with organ damage (e.g., papilledema)",
+      "explanation": "Malignant hypertension is a clinical emergency characterized by severe BP elevation (>180/120) with acute end-organ damage."
+    }
+  ],
+  "reference": [
+    "Textbook of Pathology by Harsh Mohan",
+    "Robbins Basic Pathology",
+    "WBUHS BPT Pathology Syllabus"
+  ]
+}

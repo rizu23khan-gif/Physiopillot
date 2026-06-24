@@ -1,42 +1,47 @@
 {
   "subject": "Biomechanics & Kinesiology",
   "chapterId": "bio_ch1",
-  "chapterName": "Force Vectors & Kinematic Chains",
+  "chapterName": "Kinematics",
   "definition": [
-    "Force: A vector quantity representing an action that alters or tends to alter the state of rest or motion of a body. Defined by magnitude, direction, point of application, and line of action/application.",
-    "Scalar Quantity: A quantity that is fully described by magnitude alone, such as mass, temperature, and speed.",
-    "Vector Quantity: A quantity that possesses both magnitude and direction, such as force, velocity, torque, and acceleration.",
-    "Resultant Force: A single vector that represents the combined net effect of two or more individual forces acting on a body system.",
-    "Torque (Moment of Force): The quantitative measure of the tendency of a force to cause rotation of a body about a specific axis. Mathematically, Torque = Force multiplied by the perpendicular distance (moment arm) from the line of action to the axis.",
-    "Moment Arm: The perpendicular distance from the axis of rotation to the line of action of the applied force vector.",
-    "Mechanical Advantage (MA): The ratio of the force exerted by a machine (rotational effort/torque) to the force applied to it (resistance), or the ratio of the effort arm to the resistance arm.",
-    "First-Class Lever: A lever system where the fulcrum (axis) is positioned between the effort force and the resistance force (applied weight) (E-F-R). Example: Atlanto-occipital joint.",
-    "Second-Class Lever: A lever system where the resistance force is positioned between the fulcrum and the effort force (F-R-E), ensuring mechanical advantage is always greater than 1. Example: Gastroc-soleus action in heel-raise.",
-    "Third-Class Lever: A lever system where the effort force is positioned between the fulcrum and the resistance force (F-E-R), ensuring mechanical advantage is always less than 1. This lever maximizes speed and range of motion. Example: Elbow joint flexion.",
-    "Anatomical Pulley: A bony prominence or soft-tissue structure that alters the direction of a muscle's pull, thereby increasing the angle of pull and enlarging the moment arm of that muscle to improve torque production. Example: The Patella.",
-    "Open Kinematic Chain (OKC): A kinematic segment configuration where the distal segment is completely free to move in space, producing isolated joint motions and non-predictable patterns in adjacent joints.",
-    "Closed Kinematic Chain (CKC): A kinematic segment configuration where the distal segment is fixed or stabilized against a surface, meaning motion at one joint dictates predictable, synchronous motion at all other joint segments in the chain."
+    "Kinematics: The branch of mechanics that describes the motion of a body or segment without regard to the forces or torques that cause or result from the motion.",
+    "Osteokinematics: The study of the gross movement of bones in space relative to the three cardinal planes of the body (sagittal, frontal, transverse) during joint movement.",
+    "Arthrokinematics: The study of the microscopic movements that occur between the articular surfaces of a joint during osteokinematic motions (roll, slide/glide, and spin).",
+    "Planes of Motion: Intersecting spatial dimensions in which osteokinematic movement occurs: Sagittal (divides body into left/right), Frontal/Coronal (divides body into front/back), and Transverse/Horizontal (divides body into upper/lower).",
+    "Axes of Motion: Imaginary pivots around which a bone rotates during movement: Mediolateral axis (perpendicular to Sagittal plane), Anteroposterior axis (perpendicular to Frontal plane), and Vertical/Longitudinal axis (perpendicular to Transverse plane).",
+    "Degrees of Freedom: The number of independent planes of angular motion permitted at a given joint, ranging from one (uniaxial, e.g., humeroulnar joint) to three (triaxial, e.g., glenohumeral joint).",
+    "Roll: An arthrokinematic motion in which multiple points along one rotating articular surface contact multiple points along another stationary articular surface, like a tire rolling on a road.",
+    "Glide (Slide): An arthrokinematic motion in which a single point on one sliding articular surface contacts multiple points on another articular surface, like a locked tire skidding on ice.",
+    "Spin: An arthrokinematic motion in which a single point on one rotating articular surface contacts a single point on another articular surface, rotating around a longitudinal axis.",
+    "Concave-Convex Rule: A fundamental rule of arthrokinematics stating that when a convex joint surface moves on a stable concave surface, roll and slide occur in opposite directions; conversely, when a concave surface moves on a stable convex surface, roll and slide occur in the same direction.",
+    "Open Kinematic Chain (OKC): A movement configuration where the distal segment of an extremity is free to move in space, allowing isolated joint movements and non-predictable adjacent joint patterns.",
+    "Closed Kinematic Chain (CKC): A movement configuration where the distal segment of an extremity is fixed or stabilized against a surface, forcing predictable, synchronized motion across all joint segments in the chain.",
+    "Goniometry: The clinical technique of measuring the angles of human joint ranges of motion using a specialized instrument (goniometer) aligned with anatomical bony landmarks.",
+    "End Feel: The quality of resistance felt by the clinician at the extreme end of passive range of motion, categorized as normal (soft, firm, hard) or abnormal/pathological (empty, boggy, springy block, or early/late muscle spasm).",
+    "Joint Play: The small, involuntary accessory movements (such as gliding, rolling, and spinning) that occur between joint surfaces during normal osteokinematic motion. It is not under voluntary control but is essential for pain-free joint function.",
+    "Close-Packed Position: The joint position where the articular surfaces are maximally congruent, the joint capsule and major ligaments are maximally taut, and the joint is locked and mechanically most stable.",
+    "Loose-Packed (Resting) Position: Any joint position other than the close-packed position; specifically, the position of maximum resting where the joint capsule and ligaments are most slack, allowing maximum joint play and greatest joint cavity volume.",
+    "Capsular Pattern: A specific, predictable pattern of proportionate limitation in joint range of motion (described by Cyriax) indicating that the entire joint capsule is involved, such as in arthritis or capsulitis."
   ],
   "principle": [
-    "Vector Resolution: The physical process of breaking down a single diagonal force vector into two perpendicular components: a rotatory component (normal to the segment, producing movement) and a translatatory component (parallel to the segment, producing compression/joint stability or distraction).",
-    "Parallelogram Law of Vectors: If two forces acting on a point are represented in magnitude and direction by two adjacent sides of a parallelogram, their resultant is represented by the diagonal passing through that point.",
-    "Levers and Static Equilibrium: For a lever system to remain in static equilibrium, the sum of all clockwise torques must exactly equal the sum of all counterclockwise torques (Net Torque = 0).",
-    "Anatomical Pulley Principle: By deflecting the tendon away from the joint axis, an anatomical pulley increases the perpendicular distance (moment arm). Since Torque = Force x Moment Arm, this allows the muscle to generate greater rotational torque with the same contractile force.",
-    "Closed Chain Mechanics: Loading a joint in CKC increases joint approximation, which in turn elevates joint stability, stimulates proprioceptors (GTOs and spindle endings), and encourages balanced co-contraction of agonists and antagonists."
+    "Cardinal Planes and Axes Relationship: Osteokinematic rotation always occurs within a plane of motion and around an axis that is perpendicularly oriented to that plane (e.g., flexion/extension occurs in the sagittal plane around a mediolateral axis).",
+    "Application of the Concave-Convex Rule: Understanding the direction of glide relative to roll is essential for manually restoring joint range of motion. For example, to restore shoulder abduction (convex humeral head moving on concave glenoid fossa), manual glide must be applied in the inferior direction (opposite of the superior osteokinematic roll).",
+    "Joint Constraint and Degrees of Freedom: The anatomical geometry of the joint surfaces and the arrangement of surrounding collateral ligaments dictate the joint's degrees of freedom and protect it from non-physiological translations.",
+    "Kinematic Chain Load Distribution: Closed kinematic chain movements distribute weight-bearing loads across multiple joint systems, evoking co-contraction of muscle groups and reducing shear stresses on individual ligaments.",
+    "End Feel Interpretation: Clinicians assess end feel to evaluate the physiological structures restricting joint movement. A hard end feel represents bone-to-bone contact, a firm end feel represents capsular or ligamentous tension, and a soft end feel represents soft tissue approximation.",
+    "Clinical Significance of Joint Play: Normal joint play is a prerequisite for full, pain-free osteokinematic movement. Loss of joint play (accessory motion) results in restricted active and passive range of motion, and attempting to force osteokinematic motion without restoring joint play causes pain and cartilage damage.",
+    "Application of Loose-Packed Position: Because the loose-packed position allows for maximum joint play and minimal capsular tension, it is the optimal position for clinical assessment of joint mobility and the application of manual joint mobilization techniques.",
+    "Characteristics of Close-Packed Position: In this mechanically stable position, joint cavity volume is minimized, and the joint cannot be easily distracted. It is the position most susceptible to injury from external forces due to the lack of 'give' in the taut capsuloligamentous structures.",
+    "Capsular Pattern Assessment (Cyriax Concept): Identifying a capsular pattern helps clinicians differentiate between total joint pathology (like osteoarthritis) and non-capsular lesions (like muscle strains). For example, the classic capsular pattern of the shoulder exhibits the greatest restriction in external rotation, followed by abduction, and then internal rotation."
   ],
   "equipment": [
-    "Isokinetic Dynamometer (e.g., Biodex) for torque and joint moment measurements.",
-    "Handheld Dynamometers for isometric force testing.",
-    "3D Force Platforms for ground reaction force vector recording."
+    "Universal Goniometer (360-degree and 180-degree variations) for measuring joint angles.",
+    "Inclinometers and Digital Goniometers for spine and extremity range of motion analysis.",
+    "Gravity-dependent goniometers (bubble inclinometers) for precise neck and trunk measurements."
   ],
   "parameters": {
-    "forceUnit": "Newton (N)",
-    "torqueUnit": "Newton-meter (Nm)",
-    "acceleration": "m/s^2",
-    "massUnit": "Kilogram (kg)",
-    "firstClassLeverMA": "Variable (greater than, equal to, or less than 1)",
-    "secondClassLeverMA": "Always greater than 1 (MA > 1)",
-    "thirdClassLeverMA": "Always less than 1 (MA < 1)"
+    "goniometerAlignment": "Stationary arm parallel to proximal bone axis, moving arm parallel to distal bone axis, fulcrum over joint axis.",
+    "goniometerError": "Acceptable clinical goniometry measurement error is typically +/- 5 degrees.",
+    "guniometerStandard": "Neutral-Zero Method (starting all joint range of motion measurements at 0 degrees)."
   },
   "physiologicalEffects": [],
   "indications": [],
@@ -53,208 +58,90 @@
   },
   "precautions": [],
   "clinicalPearls": [
-    "Most skeletal muscles in the human body work as part of third-class levers. While this requires the muscles to generate massive forces to overcome relatively small external resistances (due to short moment arms), it allows the human body to achieve great speed and large ranges of motion at distal limb segments.",
-    "The patella is a classic anatomical pulley. Patellectomy reduces the quadriceps moment arm by 30-50%, necessitating up to 50% more quadriceps force to achieve the final degrees of active knee extension.",
-    "When rehabilitating joint instabilities (such as ACL reconstruction), Closed Kinematic Chain (CKC) exercises are introduced early because joint co-contraction and axial axial compression shield the ligament against excessive shear forces, unlike Open Kinematic Chain (OKC) quadriceps isolation which causes major anterior tibial translation."
+    "Applying the concave-convex rule is the foundation of joint mobilization. When treating shoulder stiffness with inferior glides, you are physically facilitating inferior arthrokinematic sliding to allow the superior roll required for pain-free shoulder abduction.",
+    "An abnormal 'empty' end feel occurs when the patient restricts movement due to intense pain before any physical tissue resistance is encountered. This is highly suggestive of acute pathology like joint infection, acute bursitis, or underlying neoplasm.",
+    "In goniometric alignment, the fulcrum does not remain perfectly stationary over the joint axis throughout the entire range of motion because human joints are not perfect hinges; they have instant centers of rotation that shift dynamically.",
+    "Closed kinematic chain exercises (like squats) are highly functional because they mimic weight-bearing daily living activities, stimulate joint mechanoreceptors, and evoke coordinated co-contraction of the hamstring and quadriceps groups.",
+    "Normal firm end feels are produced by tension in joint capsules, ligaments, or muscles (e.g., knee extension or ankle dorsiflexion). An early firm end feel suggests joint contracture or adaptive shortening of these tissues."
   ],
   "clinicalProtocols": [],
   "vivaQuestions": [
-    "Question: Differentiate between concurrent and parallel force systems, providing an anatomical example for each. | Answer: In concurrent force systems, the lines of action of all forces meet at a single point (e.g., the clavicular, sternal, and costal fibers of the pectoralis major muscle). In parallel force systems, the lines of action are parallel but do not meet (e.g., the force system acting on a back-extension brace, or the hamstring forces on a posterior pelvic pull). | Examiner Key Points: Meeting points of force lines, parallel alignment, clinical examples. | Clinical Importance: Clinicians must understand concurrent systems to target specific sub-regions of large muscles and parallel systems to properly align orthotic three-point pressure systems.",
-    "Question: Define Mechanical Advantage (MA) and explain why third-class levers operate at a mechanical disadvantage. | Answer: Mechanical Advantage is the ratio of the effort arm length to the resistance arm length (MA = EA / RA). In third-class levers, the point of effort application lies between the fulcrum and resistance, making the effort arm shorter than the resistance arm (EA < RA). Therefore, MA is always less than 1, requiring the muscle to exert force greater than the actual load. | Examiner Key Points: Effort/resistance arm ratio, MA < 1, muscle force requirement. | Clinical Importance: Explains why muscles are highly susceptible to fatigue and microtrauma and outlines the need for biomechanically sound posture during heavy lifting.",
-    "Question: How does an anatomical pulley increase torque production without altering muscle tissue biology? | Answer: An anatomical pulley deflects the muscle's tendon further away from the joint's rotatory axis. This increases the perpendicular distance (moment arm) between the tendon line of pull and the joint axis. Because Torque is the product of muscle force and moment arm, a larger moment arm generates greater rotatory torque with zero increase in physiological muscle effort. | Examiner Key Points: Deflection of tendon, enlargement of moment arm, torque formula (F x MA). | Clinical Importance: Crucial for evaluating pathomechanics of the shoulder (bicipital groove) and knee (patella), where structural changes directly limit joint power.",
-    "Question: Explain the rotatory and translatory components of joint force vectors during muscle contraction. | Answer: When a muscle contracts at an angle to a bone, the force vector is resolved into a rotatory component (perpendicular to the bone segment, causing rotation/movement) and a translatory component (parallel to the bone axis). The translatory component can be stabilizing (directed toward the joint cavity, compressing it) or de-stabilizing/distracting (directed away from the joint cavity). | Examiner Key Points: Perpendicular vs parallel components, compression vs rotation, change with joint angle. | Clinical Importance: At narrow angles of pull (like biceps brachii in extension), the stabilizing/compressive component is massive, which protects the joint. As flexion progresses, the rotatory component dominates.",
-    "Question: What is a force couple, and can you provide a classic shoulder joint example? | Answer: A force couple consists of two parallel forces that are equal in magnitude but opposite in direction, acting on opposite sides of an axis to produce rotation. A classic pelvic/shoulder example is the deltoid and rotator cuff (supraspinatus, infraspinatus, subscapularis, teres minor). The deltoid pulls upward while the rotator cuff stabilizes and pulls downward and inward, creating humeral elevation without upward subluxation. | Examiner Key Points: Equal and opposite parallel forces, rotational outcome, deltoid-rotator cuff dynamic. | Clinical Importance: Rotator cuff weakness disrupts this force couple, allowing the deltoid to pull the humeral head superiorly, resulting in subacromial impingement syndrome.",
-    "Question: Differentiate Open Kinematic Chain (OKC) from Closed Kinematic Chain (CKC), highlighting joint Shear forces. | Answer: In OKC, the distal segment is completely free, allowing single-joint isolation (e.g., knee extension in sitting) which can generate high joint shear forces. In CKC, the distal segment is fixed to a surface (e.g., squatting), which forces multiple joints to move in a highly coordinated, predictable way, resulting in compressive forces that minimize shear. | Examiner Key Points: Distal segment status, isolation vs synchronization, shear vs compression forces. | Clinical Importance: Post-reconstruction protocols (e.g., ACL) utilize CKC early to exploit the safety of joint compression while minimizing damaging shear forces.",
-    "Question: Explain why the patella is considered the primary anatomical pulley of the lower limb. | Answer: The patella is a sesamoid bone that rides within the quadriceps tendon. It pushes the quadriceps tendon away from the knee joint axis of rotation, maintaining a larger moment arm throughout knee range of motion. Without it, the quadriceps tendon would lie closer to the axis, reducing mechanical torque potential. | Examiner Key Points: Patella function, moment arm enlargement, quadriceps efficiency. | Clinical Importance: Clinicians must expect up to a 50% deficit in active terminal knee extension torque in patients who have undergone a total patellectomy.",
-    "Question: Define Center of Gravity (COG) and describe its normal location in a standing human adult. | Answer: Center of Gravity is the specific point about which all the particles of a body or system are balanced, or the point through which the force of gravity acts. In a standard upright adult, the COG is located anterior to the second sacral vertebra (S2) level. | Examiner Key Points: Balanced mass point, gravity vector line, S2 level. | Clinical Importance: During assessment, any shift in body segments (e.g., carrying a heavy orthotic pack, scoliosis, pregnancy) systematically relocates the COG, forcing compensatory joint adjustments.",
-    "Question: Explain the relationship between the Center of Gravity, Base of Support, and Postural Stability. | Answer: To maintain static balance or postural stability, the vertical line projected from the COG (the Line of Gravity) must fall within the perimeter margins of the Base of Support (BOS). If the line of gravity shifts outside the BOS, balance is lost and a compensatory motor action or fall occurs. | Examiner Key Points: COG, Base of Support boundary, line of gravity location. | Clinical Importance: Therapeutic gait aids like crutches, walkers, or canes act primarily by expanding the BOS, giving the patient more safety margin before falling.",
-    "Question: What is a concurrent force system, and how does the human body utilize it for smooth scapulothoracic motion? | Answer: A concurrent force system is one where multiple force vectors meet at a common point. The scapulothoracic joint relies on the trapzius muscle fibers (upper, middle, lower trap segments) and serratus anterior. These muscle lines of action converge on the scapula to coordinate upward and downward rotation smoothly. | Examiner Key Points: Meeting point of vectors, trapezius segments direction, scapular upward rotation. | Clinical Importance: Weakness of lower traps disrupts the serratus/upper-trap concurrent vector balance, leading to scapular winging and shoulder range deficits."
+    "Question: State the Concave-Convex Rule and explain its clinical significance in manual joint mobilization. | Answer: The rule states that if a convex surface moves on a stable concave surface, roll and slide occur in opposite directions; if a concave surface moves on a stable convex surface, roll and slide occur in the same direction. It is clinically significant because manual glides must be applied in the direction of the slide (not the roll) to properly restore limited joint range of motion. | Examiner Key Points: Convex-on-concave vs concave-on-convex, direction of roll and slide, therapeutic application. | Clinical Importance: Guides the correct application direction of manual therapy joint mobilization techniques to minimize articular shear.",
+    "Question: Differentiate between normal and pathological end feels, giving a clear clinical example of each. | Answer: A normal end feel is the physiological restriction of a joint's motion (e.g., soft tissue approximation in elbow flexion, capsular firm in knee extension, bone-to-bone hard in elbow extension). A pathological end feel is abnormal (e.g., empty end feel due to severe pain, or a springy block indicating a torn meniscus blocking movement). | Examiner Key Points: Normal vs abnormal types, physical tissue limitations, clinical conditions. | Clinical Importance: Helps the clinician identify the restricting pathology, helping differentiate between articular, extra-articular, inflammatory, or mechanical blocks.",
+    "Question: Explain why human joints have changing 'instant centers of rotation' instead of static axes of rotation. | Answer: Human joint surfaces are not perfectly symmetrical spheres or cylinders, and their movement consists of combined rolling, sliding, and spinning rather than simple hinge rotation. Therefore, the axis of rotation shifts dynamically throughout the range of motion. | Examiner Key Points: Non-congruent surfaces, combination of roll/glide, instant center of rotation (ICR). | Clinical Importance: Explains why goniometric alignment requires aligning the moving arm with the long axis of the moving bone rather than focusing entirely on a fixed fulcrum.",
+    "Question: Define 'Degrees of Freedom' and list the degrees of freedom for the elbow joint vs. the hip joint. | Answer: Degrees of freedom refer to the number of independent planes of angular movement permitted at a joint. The humeroulnar (elbow) joint is a uniaxial hinge joint with 1 degree of freedom (flexion/extension in the sagittal plane). The hip joint is a triaxial ball-and-socket joint with 3 degrees of freedom (flexion/extension, abduction/adduction, and internal/external rotation). | Examiner Key Points: Plane definition, uniaxial vs triaxial, joint structural examples. | Clinical Importance: Guides rehabilitation progression, joint stabilization strategies, and assessment of complex multiaxial joint pathologies.",
+    "Question: How do Open Kinematic Chain (OKC) and Closed Kinematic Chain (CKC) exercises differ in terms of muscle activation and joint loading? | Answer: In OKC, the distal segment is free, allowing isolated single-joint movement and high shear forces. In CKC, the distal segment is fixed to a surface, creating multi-joint, coordinated movement that increases joint compression and stimulates co-contraction of agonist and antagonist muscles. | Examiner Key Points: Distal segment status, isolated vs coordinated movement, shear vs compressive loading. | Clinical Importance: Essential for structuring post-operative protocols (e.g., ACL reconstruction) where shear forces must be avoided in early healing phases.",
+    "Question: Describe the planes and axes of motion for hip abduction and adduction. | Answer: Hip abduction and adduction occur within the Frontal (Coronal) plane around an Anteroposterior (AP) axis that passes horizontally from front to back through the center of the femoral head. | Examiner Key Points: Frontal plane, AP axis, perpendicular orientation of plane and axis. | Clinical Importance: Crucial for accurate positioning of a patient and goniometer during pelvic and hip clinical assessments.",
+    "Question: What is an 'empty' end feel, and what does it indicate to a physiotherapist? | Answer: An empty end feel is a pathological restriction where the clinician cannot reach physical end-range resistance because the patient stops the movement due to intolerable pain. It indicates acute inflammation, joint infection, active bursitis, fracture, or neoplasm. | Examiner Key Points: Absence of physical barrier, pain-limited stop, serious underlying pathology. | Clinical Importance: Serves as a red flag, indicating that vigorous stretching or joint mobilization is strictly contraindicated.",
+    "Question: Explain the difference between osteokinematics and arthrokinematics. | Answer: Osteokinematics deals with the gross, visible movements of bone shafts in space (such as flexion or abduction). Arthrokinematics deals with the small, involuntary movements that occur between the opposing joint surfaces (such as rolling, gliding, and spinning). | Examiner Key Points: Bone movement vs joint surface movement, voluntary control vs accessory motion. | Clinical Importance: A joint must have normal arthrokinematics (accessory glide) to achieve pain-free, full osteokinematics (active range of motion).",
+    "Question: What are the three primary variables that influence joint Range of Motion (ROM)? | Answer: Joint range of motion is primarily influenced by: 1. Joint surface geometry and congruency. 2. Extensibility of periarticular connective tissues (capsule, ligaments, tendons). 3. Muscle bulk and flexibility of overlying musculotendinous units. | Examiner Key Points: Articular shape, ligamentous/capsular extensibility, muscle tension/bulk. | Clinical Importance: Directs the therapist's diagnostic tests to identify whether a movement restriction is capsular, muscular, or bony in origin.",
+    "Question: What is the neutral-zero method of goniometric measurement, and why is it standard? | Answer: The neutral-zero method defines the starting position for all joint range of motion measurements as 0 degrees, which corresponds to the anatomical position of the joint. It is standard to ensure consistent, reproducible communication of joint limitations among healthcare professionals. | Examiner Key Points: Anatomical starting position, 0-degree reference, standardization. | Clinical Importance: Prevents misinterpretation of clinical notes and ensures accurate tracking of patient recovery progress over time."
   ],
   "mcqs": [
     {
-      "question": "Which of the following physical variables is classified strictly as a scalar quantity?",
-      "options": ["Velocity", "Torque", "Force", "Mass"],
-      "answer": "Mass",
-      "explanation": "Mass is classified as a scalar quantity because it is fully described by magnitude and does not have a spatial direction, whereas force, torque, and velocity have direction."
+      "question": "Which plane divides the human body into left and right halves?",
+      "options": ["Sagittal Plane", "Frontal Plane", "Transverse Plane", "Oblique Plane"],
+      "answer": "Sagittal Plane",
+      "explanation": "The sagittal plane runs anteroposteriorly, dividing the body into left and right halves. Flexion and extension occur within this plane."
     },
     {
-      "question": "In resolving force vectors, the component of muscle force that acts perpendicularly to the moving bone segment is known as:",
-      "options": ["Stabilizing component", "Rotatory component", "Translatory component", "Centripetal component"],
-      "answer": "Rotatory component",
-      "explanation": "The rotatory component is perpendicular to the moving bone segment, and is directly responsible for producing rotational torque and joint movement."
+      "question": "Rotation in the transverse plane occurs around which axis of motion?",
+      "options": ["Anteroposterior Axis", "Mediolateral Axis", "Vertical (Longitudinal) Axis", "Frontal Axis"],
+      "answer": "Vertical (Longitudinal) Axis",
+      "explanation": "Movement in the transverse (horizontal) plane occurs around a vertical or longitudinal axis of motion (e.g., spinal rotation or hip internal/external rotation)."
     },
     {
-      "question": "A lever system in which the effort force is positioned between the fulcrum and the resistance is known as a:",
-      "options": ["First-class lever", "Second-class lever", "Third-class lever", "Fourth-class lever"],
-      "answer": "Third-class lever",
-      "explanation": "In a third-class lever, the effort force is positioned between the fulcrum and the resistance (F-E-R), maximizing speed and range of motion."
+      "question": "The glenohumeral joint is classified as having how many degrees of freedom?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answer": "Three",
+      "explanation": "The glenohumeral joint is a ball-and-socket joint that permits motion in all three cardinal planes (flexion/extension, abduction/adduction, internal/external rotation), giving it three degrees of freedom."
     },
     {
-      "question": "Which of the following joint actions in the human body represents a classic second-class lever?",
-      "options": ["Atlanto-occipital joint extension", "Elbow extension in push-ups", "Ankle plantarflexion in standing heel rise", "Elbow flexion during biceps curl"],
-      "answer": "Ankle plantarflexion in standing heel rise",
-      "explanation": "During a standing heel rise, the ball of the foot acts as the fulcrum, the body weight acting through the tibia is the resistance, and the Achilles tendon provides the effort force, forming a second-class lever (F-R-E)."
+      "question": "According to the concave-convex rule, when the convex femoral head moves on the stable concave acetabulum during hip abduction, what is the relation of roll and slide?",
+      "options": ["Roll and slide occur in the same direction", "Roll occurs without slide", "Roll and slide occur in opposite directions", "Slide occurs without roll"],
+      "answer": "Roll and slide occur in opposite directions",
+      "explanation": "Since the moving femoral head is a convex surface moving on a stable concave acetabular cup, the arthrokinematic roll and slide occur in opposite directions (roll occurs superiorly, slide occurs inferiorly)."
     },
     {
-      "question": "What happens to the mechanical advantage (MA) of a lever system if the effort arm is shorter than the resistance arm?",
-      "options": ["MA lies exactly at 1", "MA is always less than 1", "MA is always greater than 1", "MA is infinite"],
-      "answer": "MA is always less than 1",
-      "explanation": "MA = Effort Arm / Resistance Arm. If the effort arm is shorter than the resistance arm, the ratio is always less than 1."
+      "question": "Which of the following joint actions is a classic example of a closed kinematic chain (CKC) movement?",
+      "options": ["Seated leg extension on a machine", "A standing bodyweight squat", "A biceps curl with a dumbbell", "An active leg swing in side-lying"],
+      "answer": "A standing bodyweight squat",
+      "explanation": "In a squat, the feet are fixed to the ground (distal segment fixed), making it a closed kinematic chain movement that requires synchronized motion at the ankle, knee, and hip joints."
     },
     {
-      "question": "The primary biomechanical utility of an anatomical pulley in the human body is to:",
-      "options": ["Increase muscle fiber length", "Shift muscle force from stabilization to translation", "Increase the moment arm, thereby enhancing torque production", "Alter the joint from a third-class to a second-class lever"],
-      "answer": "Increase the moment arm, thereby enhancing torque production",
-      "explanation": "An anatomical pulley works by deflecting the line of tendon pull further from the axis of rotation, increasing the moment arm, which increases the torque for the same muscle force."
+      "question": "An abnormal end feel characterized by a bouncy, springy rebound before full range of motion is achieved is highly suggestive of:",
+      "options": ["Severe joint infection", "Osteophyte bone-to-bone block", "A displaced intra-articular structure, such as a meniscus tear", "An empty end feel"],
+      "answer": "A displaced intra-articular structure, such as a meniscus tear",
+      "explanation": "A springy block end feel is pathological and is caused by a mechanical block, typically a displaced piece of cartilage or meniscus, rebounding within the joint."
     },
     {
-      "question": "The anatomical pulley for the gracilis tendon as it courses posterior to the knee is the:",
-      "options": ["Medial femoral condyle", "Patella", "Tibial tuberosity", "Lateral meniscus"],
-      "answer": "Medial femoral condyle",
-      "explanation": "The medial condyle of the femur acts as an anatomical pulley, deflecting the gracilis tendon to expand its leverage around the knee axis."
+      "question": "Which goniometric landmark is typically used as the fulcrum for measuring knee flexion?",
+      "options": ["Greater trochanter of the femur", "Lateral epicondyle of the femur", "Lateral malleolus of the fibula", "Patella apex"],
+      "answer": "Lateral epicondyle of the femur",
+      "explanation": "To measure knee flexion and extension, the goniometer fulcrum is placed over the lateral epicondyle of the femur, with the arms aligned with the greater trochanter and lateral malleolus."
     },
     {
-      "question": "In which kinematic chain configuration is the distal segment of the extremity fixed to a stable surface?",
-      "options": ["Open Kinematic Chain", "Closed Kinematic Chain", "Frictional Kinematic Chain", "Dynamic Isokinetic Chain"],
-      "answer": "Closed Kinematic Chain",
-      "explanation": "In a Closed Kinematic Chain, the distal segment is fixed to a stable surface (e.g., ground/wall), forcing predictable, correlated motions in adjacent joints."
+      "question": "If a joint has an 'empty' end feel, the clinician must:",
+      "options": ["Apply vigorous passive stretching to break adhesions", "Apply grade IV manual joint oscillations", "Stop the movement immediately and refer for medical evaluation", "Use local heat to relax the muscular resistance"],
+      "answer": "Stop the movement immediately and refer for medical evaluation",
+      "explanation": "An empty end feel is a clinical red flag representing a severe acute inflammatory or structural lesion where pain prevents reaching end-range tissue resistance; further force is contraindicated."
     },
     {
-      "question": "Early ACL rehabilitation protocols prefer closed kinematic chain exercises over open because they:",
-      "options": ["Isolate the quadriceps muscle fully", "Increase anterior tibial translation shear forces", "Promote joint co-contraction and compressive loads to minimize shear", "Do not require active muscle activation"],
-      "answer": "Promote joint co-contraction and compressive loads to minimize shear",
-      "explanation": "CKC exercises engage joint co-contraction, which increases compression and reduces harmful anterior translation/tibial shear forces."
+      "question": "An arthrokinematic motion where multiple points on one surface contact multiple points on another surface is defined as:",
+      "options": ["Spin", "Slide", "Roll", "Shear"],
+      "answer": "Roll",
+      "explanation": "Roll is defined as the contact of multiple points on one articulating surface with multiple points on the opposing surface, similar to a wheel rolling on flat ground."
     },
     {
-      "question": "Which of the following is defined as the quantitative product of force magnitude and moment arm length?",
-      "options": ["Work", "Energy", "Torque", "Power"],
-      "answer": "Torque",
-      "explanation": "Torque (Moment of Force) is mathematically defined as the applied force vector multiplied by the perpendicular distance (moment arm) from the axis of rotation."
-    },
-    {
-      "question": "In static equilibrium, what must be the sum of all individual torques acting on a body?",
-      "options": ["Always positive", "Exactly zero", "Equal to mass times acceleration", "Equal to the body weight"],
-      "answer": "Exactly zero",
-      "explanation": "For a body to be in static rotational equilibrium, the sum of all clockwise torques must equal the counterclockwise torques, yielding a net sum of zero."
-    },
-    {
-      "question": "When a patient stands on tip-toes, the foot operates as which class of lever?",
-      "options": ["First class", "Second class", "Third class", "Fourth class"],
-      "answer": "Second class",
-      "explanation": "The ball of the foot functions as the fulcrum, the tibia transfers body weight as the resistance in the middle, and gastrocnemius-soleus provides effort on the heel."
-    },
-    {
-      "question": "When the line of pull of a muscle is parallel to the bone segment, what type of joint force dominates?",
-      "options": ["Rotatory force", "Translatory (stabilizing or distracting) force", "Shearing force", "Intra-articular friction"],
-      "answer": "Translatory (stabilizing or distracting) force",
-      "explanation": "When the muscle line of pull is parallel to the bone segment, the force acts along the bone line, making it a translatory force (either compressing or distracting the joint)."
-    },
-    {
-      "question": "If two concurrent force vectors of 10 N and 15 N act in the exact same direction along a straight line, what is the resultant force?",
-      "options": ["25 N", "5 N", "12.5 N", "150 N"],
-      "answer": "25 N",
-      "explanation": "For collinear vectors acting in the same direction, the resultant magnitude is the simple algebraic sum: 10 N + 15 N = 25 N."
-    },
-    {
-      "question": "The perpendicular line from the center of gravity of a standing human body to the ground is called the:",
-      "options": ["Center of Pressure", "Line of Gravity", "Resultant Reaction Line", "Postural Alignment Vector"],
-      "answer": "Line of Gravity",
-      "explanation": "The line of gravity (LOG) is the imaginary vertical line passing through the body's center of gravity toward the earth's surface."
-    },
-    {
-      "question": "Which muscle acts as a force couple with the upper trapezius and serratus anterior to rotate the scapula upward?",
-      "options": ["Rhomboids", "Levator scapulae", "Lower trapezius", "Pectoralis minor"],
-      "answer": "Lower trapezius",
-      "explanation": "The upper trapezius, lower trapezius, and serratus anterior act as a force couple to upwardly rotate the scapula during shoulder elevation."
-    },
-    {
-      "question": "A patient with a patellectomy will require how much excess effort from the quadriceps to achieve full knee extension?",
-      "options": ["No extra force", "10-20% less force", "30-50% more force", "100% less force"],
-      "answer": "30-50% more force",
-      "explanation": "Because patellectomy reduces the quadriceps moment arm by up to 50%, the muscle must generate about 30-50% more active force to achieve full extension."
-    },
-    {
-      "question": "Which of the following is an example of a first-class lever system in the human body?",
-      "options": ["Biceps brachii during elbow flexion", "Atlanto-occipital joint during head tilt", "Gastrocnemius lifting heels", "Iliopsoas during hip flexion"],
-      "answer": "Atlanto-occipital joint during head tilt",
-      "explanation": "In atlanto-occipital joint head tilt, the fulcrum (atlanto-occipital joint) is in the middle, the head mass is the resistance, and neck extensors provide the effort force."
-    },
-    {
-      "question": "Most lever systems of the human musculoskeletal system are designed for:",
-      "options": ["Mechanical advantage greater than 1", "Force magnification", "Maximum mechanical efficiency", "Range of motion and speed of movement"],
-      "answer": "Range of motion and speed of movement",
-      "explanation": "Most muscles act as third-class levers. Though mechanically inefficient (MA < 1), they maximize rotation speed and range of motion of the distal limbs."
-    },
-    {
-      "question": "The angle of pull of a muscle is defined as the angle between:",
-      "options": ["The muscle's line of pull and the longitudinal axis of the bone it inserts into", "The joint axis and the muscle belly", "The horizontal ground plane and the tendon", "The muscle fibers and tendon axis"],
-      "answer": "The muscle's line of pull and the longitudinal axis of the bone it inserts into",
-      "explanation": "The angle of pull is the angle formed between the muscle's pull vector and the longitudinal axis of the bone into which the muscle inserts."
-    },
-    {
-      "question": "As the angle of pull of a muscle on a bone increases towards 90 degrees, the rotatory force vector:",
-      "options": ["Decreases", "Increases, reaching maximum at 90 degrees", "Remains unchanged", "Becomes zero"],
-      "answer": "Increases, reaching maximum at 90 degrees",
-      "explanation": "The rotatory component is calculated as F * sin(theta). This component reaches its absolute maximum when the angle of pull is exactly 90 degrees (sin 90 = 1)."
-    },
-    {
-      "question": "A force system where the lines of action of all forces meet at a single point is termed a:",
-      "options": ["Parallel force system", "Concurrent force system", "Collinear force system", "Coplanar force system"],
-      "answer": "Concurrent force system",
-      "explanation": "A concurrent force system features different force lines of action that converge to, or diverge from, a single point."
-    },
-    {
-      "question": "What anatomical structure functions as the anatomical pulley for the obturator internus muscle?",
-      "options": ["Greater sciatic notch", "Lesser sciatic notch", "Ischial spine", "Femoral neck"],
-      "answer": "Lesser sciatic notch",
-      "explanation": "The obturator internus tendon hooks around the lesser sciatic notch, using it as an anatomical pulley to re-route its line of pull toward the femur."
-    },
-    {
-      "question": "Which of the following describes an Open Kinematic Chain exercise?",
-      "options": ["Squat", "Leg press", "Seated knee extension", "Push-up"],
-      "answer": "Seated knee extension",
-      "explanation": "Seated knee extension is an OKC exercise because the distal foot is free to move in space and doesn't affect adjacent joints."
-    },
-    {
-      "question": "For a standing subject, widening the stance increases postural stability because it:",
-      "options": ["Lowers the center of gravity", "Extends the moment arm of gravity", "Expands the base of support size", "Relocates the line of gravity anteriorly"],
-      "answer": "Expands the base of support size",
-      "explanation": "Widening the feet broadens the physical outer margins of the Base of Support, making it much harder for the Line of Gravity to fall outside."
-    },
-    {
-      "question": "Which of the following concepts is defined as the single theoretical point representing the balance of body mass in all axes?",
-      "options": ["Center of Pressure", "Center of Gravity", "Center of Mass", "Line of Gravity"],
-      "answer": "Center of Mass",
-      "explanation": "The Center of Mass (COM) is the point representing the unique location where the body's entire mass is perfectly centered."
-    },
-    {
-      "question": "The biomechanical advantage of closed-chain exercises over open-chain exercises in joint rehab is specifically:",
-      "options": ["Complete single agonist isolation", "High joint shearing forces with low compression", "Compression loading with agonist-antagonist co-contraction", "No coordination required"],
-      "answer": "Compression loading with agonist-antagonist co-contraction",
-      "explanation": "CKC exercises load joints axially, producing protective joint compression, eliciting proprioceptive feedback, and muscular co-contraction."
-    },
-    {
-      "question": "What type of lever is created during forearm flexion when the brachioradialis muscle drives the movement?",
-      "options": ["First-class lever", "Second-class lever", "Third-class lever", "No lever is formed"],
-      "answer": "Third-class lever",
-      "explanation": "Although the brachioradialis inserts distally (on the radial styloid), the effort is still applied between the elbow fulcrum and the hand resistance, retaining third-class lever mechanics."
-    },
-    {
-      "question": "In a parallel force system, two equal forces acting in opposite directions but separated by a distance are called:",
-      "options": ["Concurrent forces", "A force couple", "Collinear forces", "Equilibrium forces"],
-      "answer": "A force couple",
-      "explanation": "A force couple is formed by two equal and opposite parallel forces that act at a distance from each other to produce pure rotation."
-    },
-    {
-      "question": "Which of the following bones acts as an anatomical pulley to increase the mechanical advantage of the quadriceps?",
-      "options": ["Femoral condyle", "Patella", "Tibial tuberosity", "Fibula head"],
-      "answer": "Patella",
-      "explanation": "The patella acts as a classic anatomical pulley, holding the patellar tendon away from the joint center to increase the quadriceps moment arm."
+      "question": "Which joint in the human body is classified as a uniaxial hinge joint?",
+      "options": ["Humeroulnar joint", "Radiocarpal joint", "Subtalar joint", "Coxofemoral joint"],
+      "answer": "Humeroulnar joint",
+      "explanation": "The humeroulnar joint of the elbow is a uniaxial hinge joint that permits only flexion and extension within the sagittal plane around a mediolateral axis."
     }
   ],
   "reference": [
-    "Norkin & Levangie - Joint Structure and Function: A Comprehensive Analysis",
-    "Hamill & Knutzen - Biomechanical Basis of Human Movement",
-    "Susan Hall - Basic Biomechanics"
+    "Norkin, P. K., & Levangie, P. K. (2011). Joint Structure and Function: A Comprehensive Analysis (5th ed.). F.A. Davis Company.",
+    "Neumann, D. A. (2016). Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation (3rd ed.). Elsevier.",
+    "Houglum, P. A., & Bertoti, D. B. (2012). Brunnstrom's Clinical Kinesiology (6th ed.). F.A. Davis Company."
   ]
 }

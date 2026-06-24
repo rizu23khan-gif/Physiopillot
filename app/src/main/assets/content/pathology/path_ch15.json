@@ -1,0 +1,145 @@
+{
+  "subject": "Pathology",
+  "chapterId": "path_ch15",
+  "chapterName": "Nervous System",
+  "definition": [
+    "Nervous System Disorders: Pathologies affecting the Central Nervous System (brain and spinal cord) and Peripheral Nervous System. Includes cerebrovascular diseases, neurodegenerative diseases, demyelinating diseases, infections, and trauma."
+  ],
+  "principle": [
+    "Cerebrovascular Accident (CVA / Stroke): The clinical designation for a sudden-onset neurological deficit resulting from impaired cerebral blood flow. Can be Ischemic (85%, due to thrombosis or embolism) or Hemorrhagic (15%, due to ruptured vessels, often from hypertension).",
+    "Parkinson's Disease: A progressive neurodegenerative movement disorder caused by the loss of dopaminergic neurons in the substantia nigra of the basal ganglia. Characterized by resting tremor, bradykinesia, rigidity, and postural instability.",
+    "Multiple Sclerosis (MS): An autoimmune demyelinating disease of the Central Nervous System. CD4+ T cells attack myelin sheaths, creating plaques of demyelination in the white matter of the brain and spinal cord, disrupting signal conduction.",
+    "Guillain-Barré Syndrome (GBS): An acute, life-threatening autoimmune polyradiculoneuropathy of the Peripheral Nervous System. Often triggered by an infection, it causes rapidly ascending paralysis due to peripheral myelin destruction.",
+    "Alzheimer's Disease: The most common cause of dementia in older adults. Pathologically characterized by the accumulation of extracellular amyloid-beta plaques and intracellular neurofibrillary tangles (hyperphosphorylated tau protein) leading to cortical atrophy.",
+    "Meningitis: Inflammation of the leptomeninges (pia and arachnoid) and CSF within the subarachnoid space. Most commonly caused by bacterial infections (S. pneumoniae, N. meningitidis), presenting with fever, headache, and nuchal rigidity (stiff neck).",
+    "Peripheral Neuropathy: Damage to peripheral nerves, often causing a 'stocking-and-glove' distribution of sensory loss. Common causes include diabetes mellitus (diabetic neuropathy), alcoholism, and trauma.",
+    "Traumatic Brain Injury & Spinal Cord Injury: Physical damage leading to primary injury (immediate mechanical disruption) and secondary injury (edema, ischemia, excitotoxicity occurring hours to days later)."
+  ],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Stroke Rehabilitation: Understanding whether a stroke is ischemic or hemorrhagic dictates acute medical management, but post-acute PT focuses on neuroplasticity—using task-specific training to rebuild neural pathways for motor control.",
+    "Parkinson's Freezing: Patients with PD often experience 'freezing of gait'. Physiotherapists use external cues (auditory metronomes or visual lines on the floor) to bypass the damaged basal ganglia and utilize cortical pathways to initiate movement.",
+    "Multiple Sclerosis and Heat: Uhtoff's phenomenon is the worsening of MS neurological symptoms when the body gets overheated (e.g., hot weather, exercise, hot baths). PT must be conducted in cool environments to prevent symptom exacerbation.",
+    "GBS Progression: Guillain-Barré presents as an ascending paralysis. During the acute phase, respiratory muscle compromise is a medical emergency. PT during recovery focuses on preventing contractures and gradually retraining muscle strength as remyelination occurs."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "Question: What is the primary pathological mechanism causing an Ischemic Stroke? | Answer: An interruption of cerebral blood flow, most commonly due to a thrombus forming on a ruptured atherosclerotic plaque or an embolus lodging in a cerebral vessel. | Examiner Key Points: Interruption of blood flow, thrombus, embolus.",
+    "Question: Where is the primary neurodegeneration located in Parkinson's Disease? | Answer: There is a progressive loss of dopaminergic neurons in the substantia nigra pars compacta of the basal ganglia. | Examiner Key Points: Dopaminergic neurons, substantia nigra, basal ganglia.",
+    "Question: Differentiate Multiple Sclerosis (MS) from Guillain-Barré Syndrome (GBS) regarding the site of demyelination. | Answer: MS is an autoimmune demyelinating disease of the Central Nervous System (brain and spinal cord). GBS is an acute demyelinating disease of the Peripheral Nervous System. | Examiner Key Points: MS = CNS, GBS = PNS.",
+    "Question: What are the two microscopic hallmarks of Alzheimer's Disease? | Answer: Extracellular Amyloid-beta plaques and intracellular Neurofibrillary tangles (made of tau protein). | Examiner Key Points: Amyloid plaques, Neurofibrillary tangles.",
+    "Question: Name three classic clinical signs of bacterial meningitis. | Answer: Fever, severe headache, and nuchal rigidity (stiff neck). | Examiner Key Points: Fever, headache, nuchal rigidity.",
+    "Question: Explain the difference between primary and secondary brain injury. | Answer: Primary injury is the immediate mechanical damage (contusion, tearing) at the time of impact. Secondary injury is the subsequent cellular damage caused by ischemia, edema, and biochemical cascades over the following days. | Examiner Key Points: Immediate mechanical vs delayed ischemic/biochemical.",
+    "Question: What is a Transient Ischemic Attack (TIA)? | Answer: A temporary episode of neurologic dysfunction caused by focal brain ischemia, without acute infarction. Symptoms typically resolve fully within 24 hours. | Examiner Key Points: Temporary ischemia, no infarction, resolves <24 hrs.",
+    "Question: Describe the typical presentation pattern of diabetic peripheral neuropathy. | Answer: A distal, symmetrical polyneuropathy presenting as a 'stocking-and-glove' distribution of sensory loss, starting in the feet and progressing proximally. | Examiner Key Points: Distal, symmetrical, stocking-and-glove, sensory loss."
+  ],
+  "mcqs": [
+    {
+      "question": "The resting tremor, bradykinesia, rigidity, and postural instability seen in Parkinson's Disease are directly caused by a deficiency of which neurotransmitter?",
+      "options": [
+        "Acetylcholine",
+        "Serotonin",
+        "Dopamine",
+        "GABA"
+      ],
+      "answer": "Dopamine",
+      "explanation": "Parkinson's disease is caused by the degeneration of dopaminergic neurons in the substantia nigra, leading to a profound deficiency of dopamine in the basal ganglia motor circuits."
+    },
+    {
+      "question": "Which of the following diseases is characterized by autoimmune destruction of myelin sheaths exclusively within the Central Nervous System?",
+      "options": [
+        "Guillain-Barré Syndrome",
+        "Amyotrophic Lateral Sclerosis",
+        "Multiple Sclerosis",
+        "Myasthenia Gravis"
+      ],
+      "answer": "Multiple Sclerosis",
+      "explanation": "Multiple Sclerosis (MS) involves immune-mediated demyelination in the brain and spinal cord (CNS), unlike GBS which affects peripheral nerves."
+    },
+    {
+      "question": "An 80-year-old patient presents with sudden onset right-sided hemiplegia and aphasia. A CT scan shows no bleeding. The most likely diagnosis is:",
+      "options": [
+        "Hemorrhagic Stroke",
+        "Ischemic Stroke",
+        "Brain Tumor",
+        "Meningitis"
+      ],
+      "answer": "Ischemic Stroke",
+      "explanation": "The sudden onset of focal neurological deficits without hemorrhage on CT strongly points to an ischemic stroke (thrombosis or embolism)."
+    },
+    {
+      "question": "The presence of extracellular Amyloid-beta plaques and intracellular Neurofibrillary tangles in the cerebral cortex is the pathological hallmark of:",
+      "options": [
+        "Parkinson's Disease",
+        "Alzheimer's Disease",
+        "Huntington's Disease",
+        "Vascular Dementia"
+      ],
+      "answer": "Alzheimer's Disease",
+      "explanation": "These two protein aggregates are the defining microscopic features of Alzheimer's disease."
+    },
+    {
+      "question": "A patient develops rapidly progressive, symmetrical ascending weakness starting in the legs, two weeks after a gastrointestinal infection. The most likely diagnosis is:",
+      "options": [
+        "Multiple Sclerosis",
+        "Poliomyelitis",
+        "Guillain-Barré Syndrome",
+        "Muscular Dystrophy"
+      ],
+      "answer": "Guillain-Barré Syndrome",
+      "explanation": "GBS classically presents as an acute, post-infectious, ascending paralysis due to autoimmune peripheral nerve demyelination."
+    },
+    {
+      "question": "Which of the following describes a Transient Ischemic Attack (TIA)?",
+      "options": [
+        "A small brain hemorrhage that resolves with surgery.",
+        "A focal neurological deficit caused by ischemia that resolves completely within 24 hours without infarction.",
+        "A slow, progressive loss of cognitive function due to micro-infarcts.",
+        "A seizure caused by scar tissue from a previous stroke."
+      ],
+      "answer": "A focal neurological deficit caused by ischemia that resolves completely within 24 hours without infarction.",
+      "explanation": "A TIA is a temporary 'warning stroke' where blood flow is blocked just long enough to cause symptoms but not long enough to cause permanent cell death."
+    },
+    {
+      "question": "A patient complains of burning pain and loss of sensation in both feet and hands, resembling a 'stocking-and-glove' distribution. This is most characteristic of:",
+      "options": [
+        "Spinal cord injury at C5",
+        "Diabetic peripheral neuropathy",
+        "Stroke in the parietal lobe",
+        "Multiple Sclerosis"
+      ],
+      "answer": "Diabetic peripheral neuropathy",
+      "explanation": "Chronic hyperglycemia damages the longest peripheral nerves first, leading to distal symmetrical polyneuropathy (stocking-and-glove pattern)."
+    },
+    {
+      "question": "Nuchal rigidity (stiff neck), photophobia, headache, and fever are the classic clinical signs of:",
+      "options": [
+        "Meningitis",
+        "Encephalitis",
+        "Brain abscess",
+        "Subdural hematoma"
+      ],
+      "answer": "Meningitis",
+      "explanation": "These are signs of meningeal irritation, characteristic of acute bacterial or viral meningitis."
+    }
+  ],
+  "reference": [
+    "Textbook of Pathology by Harsh Mohan",
+    "Robbins Basic Pathology",
+    "WBUHS BPT Pathology Syllabus"
+  ]
+}

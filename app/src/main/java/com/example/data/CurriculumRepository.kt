@@ -20,7 +20,9 @@ object CurriculumRepository {
     val ELECTRO_II = "Electrotherapy II"
     val EXERCISE_II = "Exercise Therapy II"
     val BIOMECHANICS = "Biomechanics & Kinesiology"
-    val PATH_MICRO_PHARM = "Pathology, Microbiology & Pharmacology"
+    val PATHOLOGY = "Pathology"
+    val MICROBIOLOGY = "Microbiology"
+    val PHARMACOLOGY = "Pharmacology"
 
     // 3rd Year
     val GEN_MEDICINE = "General Medicine"
@@ -63,7 +65,9 @@ object CurriculumRepository {
         SubjectMetadata(ELECTRO_II, "Medium & high-frequency currents, therapeutic lasers, TENS and SWD parameters.", "2nd Year", Icons.Default.FlashOn, Color(0xFFD97706), "viva"),
         SubjectMetadata(EXERCISE_II, "Passive stretching, suspension therapy, traction, and goniometry mechanics.", "2nd Year", Icons.Default.FitnessCenter, Color(0xFF059669), "anatomy"),
         SubjectMetadata(BIOMECHANICS, "Force vectors, joint levers, osteokinematics, gait kinetics and posture.", "2nd Year", Icons.Default.TrendingUp, Color(0xFF0D9488), "anatomy"),
-        SubjectMetadata(PATH_MICRO_PHARM, "Wallerian degeneration, inflammation stages, microbes and drug action mechanisms.", "2nd Year", Icons.Default.Science, Color(0xFF9333EA), "viva"),
+        SubjectMetadata(PATHOLOGY, "Cell injury, Wallerian degeneration and inflammation stages.", "2nd Year", Icons.Default.Science, Color(0xFF9333EA), "viva"),
+        SubjectMetadata(MICROBIOLOGY, "Wound pathology, sterile handling, and hospital-acquired infections.", "2nd Year", Icons.Default.Science, Color(0xFF9333EA), "viva"),
+        SubjectMetadata(PHARMACOLOGY, "Drug action mechanisms, NSAIDs, skeletal muscle relaxants, and analgesics.", "2nd Year", Icons.Default.Science, Color(0xFF9333EA), "viva"),
 
         // 3rd Year
         SubjectMetadata(GEN_MEDICINE, "Systems pathophysiology, cardiovascular and respiratory medical syndromes.", "3rd Year", Icons.Default.MedicalServices, Color(0xFFEA580C), "viva"),
@@ -137,10 +141,20 @@ object CurriculumRepository {
                 val completed = currentVivaTopics.count { it.category == "Biomechanics" && completedSet.contains(it.id) }
                 Pair(completed, maxOf(total, 1))
             }
-            PATH_MICRO_PHARM -> {
-                val total = currentVivaTopics.count { it.category == "Pathology" || it.category == "Pharmacology" }
-                val completed = currentVivaTopics.count { (it.category == "Pathology" || it.category == "Pharmacology") && completedSet.contains(it.id) }
-                Pair(completed, maxOf(total, 2))
+            PATHOLOGY -> {
+                val total = currentVivaTopics.count { it.category == "Pathology" }
+                val completed = currentVivaTopics.count { it.category == "Pathology" && completedSet.contains(it.id) }
+                Pair(completed, maxOf(total, 1))
+            }
+            MICROBIOLOGY -> {
+                val total = currentVivaTopics.count { it.category == "Microbiology" }
+                val completed = currentVivaTopics.count { it.category == "Microbiology" && completedSet.contains(it.id) }
+                Pair(completed, maxOf(total, 1))
+            }
+            PHARMACOLOGY -> {
+                val total = currentVivaTopics.count { it.category == "Pharmacology" }
+                val completed = currentVivaTopics.count { it.category == "Pharmacology" && completedSet.contains(it.id) }
+                Pair(completed, maxOf(total, 1))
             }
             GEN_MEDICINE -> {
                 val baseTotal = 3

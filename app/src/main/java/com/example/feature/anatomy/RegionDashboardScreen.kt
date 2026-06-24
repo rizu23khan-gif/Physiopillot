@@ -38,10 +38,10 @@ import kotlinx.coroutines.launch
 // Maps a region name to its curriculum moduleId in SubjectChapterRepository
 fun getSubjectModuleIdForRegion(region: String): String {
     return when (region.lowercase()) {
-        "thorax" -> "anat_thorax"
-        "shoulder", "arm", "elbow", "hand" -> "anat_upper_limb"
-        "pelvis", "hip", "knee", "ankle", "foot" -> "anat_lower_limb"
-        "head", "neck" -> "anat_head_neck"
+        "thorax", "thoracic spine" -> "anat_thorax"
+        "shoulder", "arm", "elbow", "wrist", "hand" -> "anat_upper_limb"
+        "pelvis", "hip", "knee", "ankle", "foot", "lumber spine", "lumbar spine" -> "anat_lower_limb"
+        "head", "neck", "cervical spine" -> "anat_head_neck"
         else -> "anat_gen"
     }
 }
@@ -53,27 +53,27 @@ fun isAnatomyInRegion(anatomy: DetailedAnatomy, region: String): Boolean {
     val terms = anatomy.searchTerms.map { it.lowercase() }
     
     // Explicit list for Thorax
-    if (r == "thorax") {
+    if (r == "thorax" || r == "thoracic spine") {
         if (anatomy.id.startsWith("a_t")) return true
-        val thoraxTerms = listOf("thorax", "thoracic", "diaphragm", "respiratory", "lungs", "heart", "sternum", "ribs", "esophagus", "azygos", "intercostal")
+        val thoraxTerms = listOf("thorax", "thoracic", "diaphragm", "respiratory", "lungs", "heart", "sternum", "ribs", "esophagus", "azygos", "intercostal", "spine", "vertebra")
         return thoraxTerms.any { name.contains(it) || terms.any { t -> t.contains(it) } }
     }
     
     // Explicit list for Head/Neck
-    if (r == "head" || r == "neck") {
-        val hnTerms = listOf("head", "neck", "skull", "cervical", "spinal cord", "brain", "trapezius", "sternocleidomastoid", "platysma")
+    if (r == "head" || r == "neck" || r == "cervical spine") {
+        val hnTerms = listOf("head", "neck", "skull", "cervical", "spinal cord", "brain", "trapezius", "sternocleidomastoid", "platysma", "spine", "vertebra")
         return hnTerms.any { name.contains(it) || terms.any { t -> t.contains(it) } }
     }
     
     // Upper Limb match
-    if (r == "shoulder" || r == "arm" || r == "elbow" || r == "hand") {
-        val ulTerms = listOf("deltoid", "biceps", "triceps", "brachioradialis", "pronator", "supinator", "hand", "wrist", "finger", "shoulder", "scapula", "clavicle", "humerus", "radial", "ulnar", "median", "axillary", "pectoralis")
+    if (r == "shoulder" || r == "arm" || r == "elbow" || r == "hand" || r == "wrist") {
+        val ulTerms = listOf("deltoid", "biceps", "triceps", "brachioradialis", "pronator", "supinator", "hand", "wrist", "finger", "shoulder", "scapula", "clavicle", "humerus", "radial", "ulnar", "median", "axillary", "pectoralis", "carpal")
         return ulTerms.any { name.contains(it) || terms.any { t -> t.contains(it) } }
     }
 
     // Lower Limb match
-    if (r == "pelvis" || r == "hip" || r == "knee" || r == "ankle" || r == "foot") {
-        val llTerms = listOf("quadriceps", "hamstring", "gluteus", "gastrocnemius", "tibialis", "soleus", "femur", "tibia", "fibula", "foot", "toe", "sciatic", "patella", "hip", "knee", "ankle", "quad", "sartorius", "gracilis", "iliopsoas", "adductor")
+    if (r == "pelvis" || r == "hip" || r == "knee" || r == "ankle" || r == "foot" || r == "lumber spine" || r == "lumbar spine") {
+        val llTerms = listOf("quadriceps", "hamstring", "gluteus", "gastrocnemius", "tibialis", "soleus", "femur", "tibia", "fibula", "foot", "toe", "sciatic", "patella", "hip", "knee", "ankle", "quad", "sartorius", "gracilis", "iliopsoas", "adductor", "lumbar", "spine", "vertebra")
         return llTerms.any { name.contains(it) || terms.any { t -> t.contains(it) } }
     }
 

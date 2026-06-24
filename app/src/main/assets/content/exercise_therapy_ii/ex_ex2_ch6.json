@@ -13,7 +13,13 @@
     "Open-Packed (Resting) Position: The joint alignment where the joint capsule and ligaments are most relaxed, allowing the greatest amount of accessory joint play with minimum friction.",
     "Closed-Packed Position: The joint alignment where joint congruence is maximized, the capsule and ligaments are taut, and there is zero physical space for accessory movement.",
     "Maitland Grade System: A five-grade clinical continuum of passive oscillatory mobilization movements categorized by their amplitude and position within the joint range of motion.",
-    "Kaltenborn Traction System: A three-grade clinical manual sliding system based on progressively taking up periarticular tissue slack and stretching the joint capsule."
+    "Kaltenborn Traction System: A three-grade clinical manual sliding system based on progressively taking up periarticular tissue slack and stretching the joint capsule.",
+    "Physiological Motion: Active or passive osteokinematic movement of a bony segment in space (e.g., flexion, extension, abduction) that is under voluntary neuromuscular control and is visible externally. It differs from accessory motion (involuntary arthrokinematics like roll, slide, spin) which cannot be isolated actively by the patient but is biomechanically required for physiological motion. Clinically, goniometry measures physiological motion to map functional range, but joint mobilization targets accessory motion to resolve underlying mechanical blocks.",
+    "Loose-Packed Position: Also known interchangeably as the Open-Packed or Resting Position; the specific joint alignment where joint surface congruency is at its minimum and the surrounding capsule and ligaments are at their maximum physiological slack. Clinically, joint play is maximized in this position, making it the mandatory starting position to evaluate joint mobility, relieve acute pain, and perform initial mobilization glides with minimized articular surface shear or compression.",
+    "Pain-Dominant Condition: A highly irritable, acute or subacute joint pathology (e.g., acute adhesive capsulitis or synovitis) characterized by protective muscle guarding, sleep disruption, and pain elicited before or at the onset of tissue resistance (pain-before-resistance). Clinical guidelines recommend gentle Maitland Grade I and II passive oscillations to gate pain without mechanically stretching sensitive joint tissues.",
+    "Stiffness-Dominant Condition: A chronic, low-irritability joint pathology (e.g., chronic post-immobilization contractures or mature osteoarthritis) where range of motion is primarily restricted by tight capsule-ligamentous structures and pain is only provoked when stretching at the terminal limit of range (resistance-before-pain). Clinical guidelines recommend Maitland Grade III and IV oscillations (or Kaltenborn Grade III traction) to stretch tight tissues and permanently increase range.",
+    "Humeroulnar Joint Mobilization: Manual passive glides applied to the concave trochlear notch of the ulna moving on the convex trochlea of the humerus. Because it follows the concave surface rule, a distal-anterior traction-glide is used to improve elbow flexion, whereas a posterior glide is indicated to improve elbow extension.",
+    "Hip Joint Mobilization: Passive manual forces applied to the convex femoral head within the concave acetabulum of the pelvis. Since it follows the convex surface rule, a posterior glide (with hip flexed) increases flexion and internal rotation, an inferior glide increases flexion and abduction, and lateral distraction separates joint surfaces perpendicular to the treatment plane to relieve compression and pain."
   ],
   "principle": [
     "The Convex-Concave Rule (Moving Convex): If a convex bone surface is moving on a stable concave surface, the accessory glide of the convex bone occurs in the direction opposite to the osteokinematic movement.",
@@ -102,7 +108,9 @@
   "clinicalPearls": [
     "The treatment plane is an imaginary line lies parallel to the concave joint surface and moves with the concave segment. Direct your manual glides parallel to this plane, and distraction forces perpendicular to it.",
     "Always apply a Grade I traction first before performing any sliding glide. This unloads the joint cartilage, protecting joint surfaces from compressive friction forces during manual movement.",
-    "To improve shoulder abduction, apply an inferior glenohumeral glide. Because the humeral head is convex and moving on a stable concave glenoid, the accessory glide must occur opposite to the upward abduction movement (which is downward, i.e., inferior)."
+    "To improve shoulder abduction, apply an inferior glenohumeral glide. Because the humeral head is convex and moving on a stable concave glenoid, the accessory glide must occur opposite to the upward abduction movement (which is downward, i.e., inferior).",
+    "For humeroulnar joint mobilization, the concave trochlear notch moves on the convex trochlea. To improve elbow flexion, apply a distal-anterior traction-glide at a 45-degree angle to the ulnar shaft, which is in the same direction as the osteokinematic movement of flexion.",
+    "When mobilizing the hip, apply a lateral distraction force perpendicular to the treatment plane (laterally, posteriorly, and slightly inferiorly) to separate the convex femoral head from the deep concave acetabulum. This is highly effective for immediate pain relief and general joint play restoration in hip osteoarthritis."
   ],
   "clinicalProtocols": [
     {
@@ -111,6 +119,20 @@
       "electrodePlacement": "None",
       "frequency": "2 to 3 sessions per week, with reassessments",
       "purpose": "Aims to restore inferior accessory glenohumeral glide to facilitate dynamic abduction range of motion."
+    },
+    {
+      "condition": "Post-Immobilization Elbow Flexion Stiffness",
+      "position": "Supine, humeroulnar joint in open-packed resting posture (70 degrees of flexion, 10 degrees of supination), with humerus stabilized by a wedge or strap",
+      "electrodePlacement": "None (manual therapy joint setup)",
+      "frequency": "3 to 4 sets of 1-minute oscillations, 3 times per week",
+      "purpose": "Aims to apply a distal-anterior traction-glide to the humeroulnar joint parallel to the treatment plane to restore accessory joint play and facilitate physiological elbow flexion."
+    },
+    {
+      "condition": "Hypomobile Hip Osteoarthritis (Coxarthrosis)",
+      "position": "Supine, hip joint positioned in open-packed resting posture (30 degrees of flexion, 30 degrees of abduction, and slight external rotation)",
+      "electrodePlacement": "None (manual therapy joint setup)",
+      "frequency": "3 sets of 30-second sustained lateral distraction holds, twice weekly",
+      "purpose": "Apply a lateral and slightly inferior distraction force to separate the femoral head from the acetabulum to stretch the tight hip capsule, reduce compressive pain, and restore general range of motion."
     }
   ],
   "vivaQuestions": [
@@ -247,10 +269,15 @@
       "explanation": "Sustained or oscillatory traction forces must always be directed perpendicular (at a 90-degree angle) to the treatment plane."
     },
     {
-      "question": "To improve shoulder abduction, which accessory glide direction is indicated under the Convex-Concave rule?",
-      "options": ["Superior glide", "Inferior glide", "Anterior glide", "Posterior glide"],
-      "answer": "Inferior glide",
-      "explanation": "The humeral head is convex and moves opposite to abduction (superior), meaning the accessory glide must be applied inferiorly."
+      "question": "In Maitland's clinical classification, which of the following is a key characteristic of a 'Pain-Dominant' joint condition?",
+      "options": [
+        "Pain is elicited only when stretching tight tissues at the end of the available range",
+        "The joint has a hard, unyielding bone-on-bone end feel without muscular guarding",
+        "Pain is triggered before or at the onset of tissue resistance (pain-before-resistance)",
+        "The condition is chronic and requires aggressive Grade IV manual stretching"
+      ],
+      "answer": "Pain is triggered before or at the onset of tissue resistance (pain-before-resistance)",
+      "explanation": "Pain-dominant conditions are highly irritable and acute/subacute, characterized by pain elicited before or at the initial onset of physical tissue resistance. They are treated conservatively with Maitland Grade I or II oscillations to reduce nociceptive pain without stretching the tissue."
     },
     {
       "question": "Which of the following joints has a moving concave surface on a stable convex surface during knee extension?",

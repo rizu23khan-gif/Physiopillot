@@ -1,0 +1,275 @@
+{
+  "subject": "Microbiology",
+  "chapterId": "micro_ch7",
+  "chapterName": "Virology, Bloodborne Pathogens & Neuro-Infections",
+  "definition": [
+    "Poliovirus: A highly infectious enterovirus transmitted primarily via the fecal-oral route, which targets and destroys motor neurons in the anterior horn cells of the spinal cord, causing acute asymmetric flaccid paralysis.",
+    "Acute Flaccid Paralysis (AFP): A sudden onset of flaccid muscle weakness and loss of deep tendon reflexes in one or more limbs, characterized by sensory preservation and absence of spasticity.",
+    "Post-Polio Syndrome (PPS): A progressive neuromuscular condition occurring decades after acute paralytic polio, characterized by new onset of profound fatigue, joint pain, muscle weakness, and atrophy.",
+    "Human Immunodeficiency Virus (HIV): A retrovirus that targets CD4+ helper T-lymphocytes, leading to progressive cell-mediated immunodeficiency and susceptibility to opportunistic central nervous system infections (such as toxoplasmosis and cryptococcal meningitis).",
+    "Hepatitis B Virus (HBV): A highly infectious, double-stranded DNA bloodborne virus that causes acute and chronic hepatitis, cirrhosis, and hepatocellular carcinoma, presenting a severe occupational hazard for healthcare workers.",
+    "Rabies Virus: A bullet-shaped rhabdovirus transmitted through the saliva of infected animals, which travels retrogradely along peripheral nerves to cause fatal necrotizing encephalitis and pharyngeal spasms (hydrophobia).",
+    "Post-Exposure Prophylaxis (PEP): A time-sensitive, emergency medical intervention (antiretroviral therapy or vaccine/immunoglobulin) administered immediately following occupational or mucosal exposure to a bloodborne pathogen to prevent infection.",
+    "Aerosol Transmission: The dissemination of small droplet nuclei (less than 5 microns) that remain suspended in the air for long periods, presenting a high risk of respiratory viral transmission (e.g., Influenza, COVID-19) during airway clearance therapies."
+  ],
+  "principle": [
+    "POLIOVIRUS PATHO-MECHANISM & ANTERIOR HORN CELL DESTRUCTION: Poliovirus is a small, non-enveloped RNA virus belonging to the Enterovirus genus. Transmission occurs via the fecal-oral route. Following ingestion, the virus replicates in the mucosal cells of the pharynx and ileum, and tonsillar lymphatic tissue (Peyer's patches). It enters the bloodstream (primary viremia) and spreads to the reticuloendothelial system. In a small percentage of cases, secondary intense viremia leads to invasion of the central nervous system. The virus exhibits a selective tropism for motor neurons, specifically infecting and replicating within the anterior horn cells of the spinal cord (and brainstem motor nuclei). Viral replication causes cellular lysis, leading to lower motor neuron (LMN) cell death, muscle denervation, asymmetric flaccid paralysis, and muscular atrophy, with complete sensory preservation.",
+    "POST-POLIO SYNDROME (PPS) & AXONAL SPROUT SENESCENCE: Decades (30-40 years) after recovering from acute paralytic polio, up to 40% of survivors experience new flaccid weakness, fatigue, muscle pain, and joint deformities. This is not caused by viral reactivation. During recovery from the original infection, surviving anterior horn cells sprout collateral axonal terminals to re-innervate orphaned muscle fibers, creating 'giant motor units' (innervating up to ten times more muscle fibers than normal). Over decades of continuous physical activity, the metabolic demands of maintaining these massive axonal trees exceed the cell body's capacity. This leads to metabolic exhaustion, slow degeneration of terminal collateral sprouts (dieback), and progressive denervation of muscle fibers, manifesting as Post-Polio Syndrome. Physical therapy must strictly employ non-fatiguing exercises to avoid accelerating sprout loss.",
+    "HUMAN IMMUNODEFICIENCY VIRUS (HIV) & NEURO-AIDS: HIV is an enveloped, single-stranded RNA retrovirus that uses its gp120 envelope glycoprotein to bind to CD4 receptors on T-helper lymphocytes, macrophages, and microglial cells. Following entry, viral reverse transcriptase converts viral RNA into DNA, which integrates into the host genome. Active replication destroys CD4+ T-cells, severely impairing cell-mediated immunity. When CD4 levels fall below 200 cells/µL, the patient is diagnosed with AIDS and becomes highly susceptible to opportunistic pathogens. In the nervous system, microglial infection leads to HIV-Associated Dementia (HAD) and distal symmetrical polyneuropathy, causing balance impairments, motor weakness, and sensory deficits that require specialized neuro-rehabilitation.",
+    "HEPATITIS B (HBV) & C (HCV) - THE CLINICAL SURVIVORS: HBV is a partially double-stranded DNA virus, and HCV is an enveloped, single-stranded RNA virus. Both are bloodborne pathogens transmitted via parenteral routes (needles, splashes), sexual contact, or perinatally. HBV is exceptionally stable in the environment and can remain highly infectious in dried blood on clinical surfaces (such as treatment plinths, parallel bars, or traction straps) for up to 7 days, whereas HCV is slightly more fragile. Following infection, HBV integrates into host hepatocytes, potentially leading to chronic active hepatitis, cirrhosis, and primary liver cancer. The infectivity of HBV is up to 100 times greater than HIV, making pre-exposure vaccination an absolute, non-negotiable requirement for clinical posting safety.",
+    "RABIES PATHOGENESIS & RETROGRADE MOTOR TRANSPORT: Rabies is a zoonotic rhabdovirus transmitted via the bite or scratch of an infected mammal (dogs, bats). The virus initially replicates locally in skeletal muscle tissue at the bite site. It then binds to nicotinic acetylcholine receptors (nAChR) at the neuromuscular junction. The virus hijacks the host cell's retrograde transport machinery, utilizing dynein motor proteins to travel retrogradely along peripheral sensory or motor axons to the spinal cord dorsal root ganglion and the brainstem/limbic system at a rate of 12-24 mm per day. Upon reaching the CNS, it replicates massively, causing localized necrosis and fatal encephalitis. Clinical symptoms include hydrophobia (violent pharyngeal spasms triggered by drinking or seeing water due to brainstem nucleus irritation), extreme agitation, aerophobia, paralysis, and death.",
+    "RESPIRATORY VIRUS AEROSOL DYNAMICS & AIRWAY CLEARANCE PRECAUTIONS: Viruses such as Influenza and SARS-CoV-2 (COVID-19) replicate in the respiratory epithelium. Droplet transmission occurs via large droplets (> 5-10 microns) that settle rapidly, whereas aerosol transmission occurs via small droplet nuclei (< 5 microns) that remain suspended in the air. Chest physiotherapy techniques, particularly endotracheal suctioning, cough-induction, manual chest percussion, and vibration, are Aerosol-Generating Procedures (AGPs). These techniques forcefully expel high concentrations of viral particles into the immediate air, risking airborne transmission to the therapist. To prevent nosocomial spread, clinicians must perform AGPs in negative-pressure isolation rooms and wear fitted N95 respirators, eye protection, and fluid-resistant gowns.",
+    "POST-EXPOSURE PROPHYLAXIS (PEP) IMMUNOLOGY: Following an occupational needle-stick injury or mucosal splash involving HIV or HBV, the pathogen requires hours to days to cross local mucosal or subcutaneous barriers, infect target cells, and establish systemic replication. Antiretroviral PEP (a three-drug regimen for HIV) or post-exposure vaccination with immunoglobulin (for HBV) acts in this critical 'window period' to inhibit viral enzymes (such as reverse transcriptase and integrase) or neutralize free viral particles, preventing integration into the host genome. To achieve maximum efficacy, PEP must be initiated as soon as possible, strictly within 72 hours of exposure for HIV and within 24 hours for HBV.",
+    "CONCEPT BUILDER - THE COGNITIVE LIMITS OF PPS REHABILITATION: Why do standard strength training principles fail in Post-Polio Syndrome? In normal muscles, high-resistance exercise triggers micro-damage, leading to hypertrophy of muscle fibers. In PPS, however, the limiting factor is not the muscle fiber itself, but the severely overworked, giant motor neuron cell body. Forcing a giant motor unit to work against heavy resistance increases intracellular metabolic strain and oxidative stress beyond its physiological limits. This triggers 'neuronal burnout'—a rapid, irreversible dieback of terminal collateral sprouts. BPT students must understand that the target of PPS rehabilitation is conserving existing neural pathways, not building new muscle mass. The therapist's role is to modify activities, introduce orthoses, and prescribe submaximal, non-fatiguing exercises.",
+    "CONCEPT BUILDER - CYTOKINE INJURY VS. ALVEOLAR PERFUSION IN COVID-19 ARDS: In severe COVID-19 or Influenza, respiratory failure is driven by a hyper-inflammatory state known as a 'cytokine storm.' Viral replication in Type II alveolar pneumocytes triggers the release of massive amounts of IL-6, TNF-alpha, and IL-1. This causes marked endothelial damage and increased pulmonary capillary permeability. Protein-rich inflammatory exudate floods the alveoli, and microvascular microthrombi occlude the alveolar capillaries. This creates a severe ventilation-perfusion mismatch and massive shunting. BPT students must recognize that during this acute inflammatory exudation phase, vigorous manual chest physiotherapy (clapping and vibration) is strictly contraindicated, as it does not clear microthrombi or fluid-filled alveoli, and can worsen hypoxemia by increasing oxygen demand. Airway clearance is only indicated in the post-viral secretory phase where mucus plugging is present.",
+    "CONCEPT BUILDER - THE BIOLOGICAL MECHANISM OF HYDROPHOBIA: Why does rabies cause a fear of water? The virus has a specific tropism for the limbic system and brainstem nuclei, particularly the nucleus ambiguus, which controls the muscles of deglutition (swallowing) and respiration. Viral replication inside these nuclei induces severe hypersensitivity and reflex irritability. Any attempt to swallow liquids triggers violent, painful spasms of the diaphragmatic, laryngeal, and pharyngeal muscles. Over time, even the sensory stimulus of seeing water, hearing splashing, or feeling a draft of wind (aerophobia) triggers these reflex spasms. This painful association manifests as hydrophobia. The therapist must recognize these neurological signs as a clinical emergency requiring immediate isolation and palliative management."
+  ],
+  "equipment": [
+    "N95 Filtering Facepiece Respirator: Essential protective equipment designed to fit tightly to the face and filter out at least 95% of airborne particles and aerosols during chest physiotherapy.",
+    "Puncture-Resistant Sharps Container: Rigid, yellow plastic container utilized for the immediate, safe disposal of contaminated needles and clinical sharps at the point of care.",
+    "Fluid-Resistant Isolation Gown & Face Shield: Impervious barriers protecting the clinician's clothing, skin, and facial mucous membranes from splatters of infectious blood or respiratory secretions.",
+    "Pulse Oximeter and Vital Signs Monitor: Continuous monitoring devices used to assess oxygen saturation and cardiopulmonary stability in patients with acute neuromuscular respiratory failure.",
+    "Neutral Alignment Thermoplastic Splints: Orthotic devices used in the rehabilitation of chronic polio to prevent lower limb contractures and support weak muscles in functional alignments."
+  ],
+  "parameters": {
+    "AIDS Diagnostic CD4 Threshold": "< 200 cells/µL (Normal: 500-1500 cells/µL), indicating severe, life-threatening cell-mediated immunodeficiency.",
+    "Needle-Stick Transmission Risk - HBV": "~30% in unvaccinated individuals, reflecting extreme environmental stability and high viral load.",
+    "Needle-Stick Transmission Risk - HCV": "~3% following occupational exposure to infected blood.",
+    "Needle-Stick Transmission Risk - HIV": "~0.3% following occupational exposure to infected blood.",
+    "Poliovirus Incubation Period": "7 to 14 days (range: 3 to 35 days) from fecal-oral ingestion to onset of symptoms.",
+    "HIV PEP Initiation Window": "Must be initiated within 72 hours of exposure (ideally within 2 hours) and continued strictly for 28 days.",
+    "HBV Environmental Stability": "Survives in dried blood on clinical surfaces for up to 7 days at room temperature."
+  },
+  "physiologicalEffects": [
+    {
+      "effect": "LMN Degeneration and Flaccid Paralysis",
+      "frequency": "Acute paralytic phase of poliomyelitis (7-14 days)",
+      "mechanism": [
+        "Poliovirus replicates inside the cytoplasm of spinal anterior horn cells, shutting down host cell transcription.",
+        "Rapid viral assembly leads to cytopathic lysis of the lower motor neuron.",
+        "Loss of the motor unit deprives muscle fibers of trophic factors, causing flaccid paralysis and rapid denervation atrophy."
+      ]
+    },
+    {
+      "effect": "Retrograde Neurotransmission and Brainstem Hypersensitivity",
+      "frequency": "Active clinical phase of Rabies infection (1-3 months post-bite)",
+      "mechanism": [
+        "Rabies virus binds to nicotinic acetylcholine receptors at the motor endplate.",
+        "It travels retrogradely along peripheral nerves to the dorsal root ganglion and the spinal cord.",
+        "Massive replication in the brainstem nuclei (nucleus ambiguus) induces extreme reflex irritability, producing violent pharyngeal spasms during swallowing."
+      ]
+    },
+    {
+      "effect": "Immunological Depletion and Opportunistic Infection Susceptibility",
+      "frequency": "Late chronic stage of HIV infection (AIDS phase)",
+      "mechanism": [
+        "HIV gp120 binds to host CD4 receptors on T-helper cells, macrophages, and dendritic cells.",
+        "Intracellular replication and budding result in cell lysis and syncytium formation, depleting CD4+ T-cell levels.",
+        "Loss of helper T-cell signals halts cytotoxic T-cell and B-cell activation, destroying adaptive immunity."
+      ]
+    },
+    {
+      "effect": "Alveolar Endothelial Damage and Hypoxemia",
+      "frequency": "Acute phase of severe respiratory viral infections (Influenza/COVID-19)",
+      "mechanism": [
+        "Viral invasion of type II pneumocytes triggers local inflammatory pathways.",
+        "Release of IL-6 and TNF-alpha causes severe alveolar capillary endothelial damage and microvascular leakage.",
+        "Fibrinous exudate and protein-rich fluid accumulate in alveoli, causing ventilation-perfusion mismatch and acute respiratory distress syndrome (ARDS)."
+      ]
+    }
+  ],
+  "indications": [
+    "Subacute and chronic stages of poliomyelitis to facilitate muscle re-education, strengthen unaffected accessory muscle groups, prevent contractures, and prescribe functional orthoses.",
+    "Chronic stages of HIV/AIDS presenting with peripheral neuropathy, generalized muscle wasting, and cardiac deconditioning, to improve functional independence and endurance.",
+    "Post-acute secretory recovery phase of severe viral respiratory infections (Influenza or COVID-19) with documented mucus plugging, to promote airway clearance and improve lung compliance."
+  ],
+  "contraindications": {
+    "general": [
+      "Acute, febrile stage of poliomyelitis; any physical therapy, active movement, or muscle stretching is strictly contraindicated as physical exertion increases viral replication in anterior horn cells and worsens paralysis.",
+      "Suspected or symptomatic rabies infection (hydrophobia, severe agitation); physical therapy is completely contraindicated. The patient must be immediately isolated and provided with palliative comfort care.",
+      "Acute, untreated opportunistic infections in AIDS presenting with signs of central nervous system involvement (severe headache, focal motor signs, neck rigidity) until medically cleared."
+    ],
+    "local": [
+      "Aggressive passive stretching or manual therapy over limbs with severe joint contractures in chronic poliomyelitis to avoid pathological bone fractures or joint capsule rupture.",
+      "Vigorous chest percussion, vibration, or coughing maneuvers in patients with active pneumothorax, pulmonary embolism, or unstable rib fractures complicating acute viral pneumonia."
+    ]
+  },
+  "technique": {
+    "patientPreparation": [
+      "Verify the patient's infective status and transmission-based precautions (e.g., Airborne, Droplet, or Bloodborne precautions) from the medical chart before entering the patient's area.",
+      "Instruct the patient on hand hygiene and respiratory etiquette (wearing a surgical mask if tolerated), and explain the therapy procedure to minimize anxiety and maximize cooperation.",
+      "Measure baseline vital signs including oxygen saturation, heart rate, blood pressure, and body temperature to confirm cardiopulmonary stability prior to any therapeutic intervention."
+    ],
+    "apparatusPreparation": [
+      "Sanitize all clinic work surfaces and evaluation equipment (goniometers, reflex hammers) using 70% isopropyl alcohol or sodium hypochlorite solution.",
+      "Ensure a puncture-resistant, rigid yellow sharps container is securely mounted and positioned within arm's reach of the treatment area for safe sharps disposal.",
+      "Select and prepare the appropriate personal protective equipment (PPE) bundle, including fitted N95 respirators, sterile or non-sterile gloves, face shields, and fluid-resistant gowns."
+    ],
+    "skinPreparation": [
+      "Perform thorough clinical hand hygiene following the WHO 6-step hand wash technique using an alcohol gel or antimicrobial soap for at least 40-60 seconds.",
+      "Don PPE systematically outside the patient room: gown first, followed by the N95 respirator (conducting a user seal check), then the face shield/goggles, and finally the gloves drawn over the gown cuffs.",
+      "Inspect the clinician's hands for any cuts or abrasions, ensuring they are covered with waterproof dressings, and verify the patient's skin is dry and intact over areas planned for physical contact."
+    ],
+    "electrodePlacement": [
+      "In patients with known bloodborne pathogens (HIV, HBV, HCV), identify the positions of all indwelling intravenous lines, central lines, arterial lines, and urinary catheters.",
+      "Secure and stabilize these invasive lines prior to initiating any mobilization or passive range of motion to prevent accidental dislodgement, vascular tearing, or fluid splash.",
+      "If treating a ventilated patient with respiratory viral infections, ensure the ventilator circuit water traps are drained and lines are securely supported to prevent accidental condensation spray."
+    ],
+    "treatmentProcedure": [
+      "Perform the prescribed physical therapy intervention (e.g., progressive range of motion, airway clearance, or mobilization) using strict aseptic techniques and minimizing excessive patient fatigue.",
+      "Continuously monitor pulse oximetry and respiratory effort; immediately terminate the session if oxygen saturation drops below 90% or if signs of severe fatigue occur.",
+      "Dispose of all single-use contaminated items (catheters, suction lines, dressings) directly into the clinical yellow biohazard bin without generating aerosols.",
+      "Doff PPE systematically in the designated dirty anteroom: remove gloves first (the most contaminated item), followed by the gown, face shield, and finally the N95 respirator (by touching only the elastic straps), followed by immediate hand sanitization."
+    ]
+  },
+  "precautions": [
+    "Treat all human blood, body fluids, and purulent secretions as potentially infectious for bloodborne pathogens (HIV, HBV, HCV), regardless of documented culture results.",
+    "Never recap, bend, or break needles manually after use; immediately discard them into the yellow sharps container at the point of care.",
+    "Do not prescribe high-intensity, fatiguing exercises for patients with Post-Polio Syndrome; always use a non-fatiguing protocol to avoid permanent motor unit burnout.",
+    "Ensure a fitted N95 respirator is worn during all aerosol-generating chest physiotherapy procedures (suctioning, percussion) on patients with suspected or confirmed airborne viral pathogens.",
+    "Disinfect all shared physical therapy equipment (plinths, therapeutic balls, weights) with hospital-grade sodium hypochlorite solution immediately after every patient contact."
+  ],
+  "clinicalPearls": [
+    "Needle-stick Emergency First Aid: If you sustain a needle-stick injury from an infected source, never squeeze or suck the wound. Wash the site immediately under cold running water with soap, flush exposed mucosal membranes with sterile saline, and report to the emergency department within 72 hours (ideally within 2 hours) to start HIV/HBV Post-Exposure Prophylaxis (PEP).",
+    "Poliomyelitis Stretching Danger: Stretching paralyzed muscles during the acute or convalescent stage of poliomyelitis is a clinical sin. It stretches weak muscle fibers and accelerates joint instability. Keep joints positioned neutrally using lightweight splints.",
+    "Post-Polio Energy Preservation: Train your Post-Polio Syndrome patients like marathon runners, not sprinters. The golden rule is: 'If it hurts or fatigues you, you are destroying surviving motor units.' Keep exercises low-to-moderate and enforce strict rest intervals.",
+    "The N95 Suction Warning: Endotracheal suctioning is a high-risk aerosol-generating procedure that releases millions of viral particles into the air. Never perform suctioning without a fully sealed N95 mask, protective goggles, and a fluid-resistant gown.",
+    "HBV Surface Survival: Hepatitis B is up to 100 times more infectious than HIV. It can survive in dried blood on a therapy plinth or parallel bar for up to 7 days. Always disinfect clinical surfaces with a 1:10 dilution of sodium hypochlorite after every patient.",
+    "Hand Hygiene Failure Point: Wearing gloves is NOT a substitute for hand hygiene. Pathogens can migrate through micro-pores in latex or vinyl. Always perform the 6-step hand hygiene technique immediately after removing gloves."
+  ],
+  "clinicalProtocols": [
+    {
+      "condition": "Needle-Stick / Bloodborne Pathogen Exposure Protocol",
+      "position": "Standing at the hand-wash sink / eyewash station",
+      "electrodePlacement": "Not Applicable",
+      "frequency": "Immediate (within minutes of exposure)",
+      "purpose": "To physically remove and dilute bloodborne pathogens (HIV, HBV, HCV) from the exposure site, and secure rapid pharmacological post-exposure prophylaxis (PEP) within the critical 72-hour window."
+    },
+    {
+      "condition": "Standard PPE Donning Sequence for Aerosol-Generating Procedures",
+      "position": "Standing in the clean anteroom outside the isolation cubicle",
+      "electrodePlacement": "Not Applicable",
+      "frequency": "Prior to every respiratory physiotherapy session for infectious viral patients (e.g., COVID-19, Influenza)",
+      "purpose": "To establish a comprehensive physical barrier protecting the clinician's respiratory mucosa, conjunctiva, skin, and clothing from aerosolized viral particles."
+    },
+    {
+      "condition": "Non-Fatiguing Exercise Protocol for Post-Polio Syndrome",
+      "position": "Supine, side-lying, or sitting on a stable rehabilitation plinth",
+      "electrodePlacement": "Optional surface EMG over target muscles to monitor for early fatigue",
+      "frequency": "3 times per week, with 5-minute rest intervals every 10 minutes of active therapy",
+      "purpose": "To maintain functional muscle strength and endurance in surviving motor units without inducing metabolic overload, microstructural damage, or accelerated neuron burnout."
+    },
+    {
+      "condition": "WHO 5-Moments Hand Hygiene Workflow",
+      "position": "At the clinical handwashing sink or bedside alcohol gel dispenser",
+      "electrodePlacement": "Not Applicable",
+      "frequency": "1) Before touching a patient, 2) Before clean/aseptic procedures, 3) After body fluid exposure risk, 4) After touching a patient, 5) After touching patient surroundings",
+      "purpose": "To eliminate transient microbial flora from the therapist's hands, preventing the nosocomial transmission of bloodborne and respiratory viral pathogens."
+    }
+  ],
+  "vivaQuestions": [
+    "Question: Why does poliovirus cause flaccid paralysis instead of spastic paralysis, and why is sensation completely preserved? | Answer: Poliovirus selectively targets and destroys the anterior horn cells (lower motor neurons) of the spinal cord, resulting in a Lower Motor Neuron (LMN) lesion characterized by flaccid paralysis, muscle wasting, and areflexia. Sensation is completely preserved because the virus spares the posterior horn cells, sensory pathways, and peripheral sensory nerves. | Examiner Key Points: Anterior horn cell destruction, LMN lesion characteristics, sensory pathway sparing. | Clinical Importance: Helps the physiotherapist distinguish polio-related weakness from upper motor neuron lesions (where spasticity is present) and peripheral neuropathies (where sensory loss occurs).",
+    "Question: Explain the biological mechanism of Post-Polio Syndrome (PPS). What is the core rule for exercise prescription in these patients? | Answer: Post-Polio Syndrome is caused by the metabolic exhaustion of surviving 'giant motor units.' Following acute polio, surviving motor neurons sprout terminal collaterals to re-innervate denervated muscle fibers. Over 30-40 years, the metabolic strain on these single cell bodies leads to dieback of these sprouts, resulting in new weakness. The core exercise rule is a 'non-fatiguing protocol': exercise must be submaximal, must incorporate frequent rest intervals, and must never cause post-exercise pain or fatigue. | Examiner Key Points: Giant motor units, collateral sprout dieback, metabolic exhaustion, non-fatiguing exercise protocol. | Clinical Importance: Prevents therapists from over-exercising PPS patients, which would accelerate irreversible motor neuron loss.",
+    "Question: What is Post-Exposure Prophylaxis (PEP) for HIV, and what are the critical timelines for its administration following an occupational needle-stick injury? | Answer: HIV PEP is a short-term antiretroviral drug regimen (typically a 3-drug combination) administered to prevent HIV replication and integration following potential exposure. It is highly time-sensitive and must be initiated as soon as possible, strictly within 72 hours of exposure (ideally within 2 hours), and continued for a full 28-day course. | Examiner Key Points: Antiretroviral drug regimen, 72-hour critical window, 28-day duration. | Clinical Importance: Every clinical student and therapist must know that PEP is highly effective if started immediately, preventing life-threatening viral transmission.",
+    "Question: Compare the transmission risk and occupational hazard of Hepatitis B (HBV) versus HIV in a physiotherapy clinic. | Answer: Hepatitis B presents a significantly higher occupational risk than HIV. Following a needle-stick injury from an infected source, the transmission risk for HBV in an unvaccinated individual is approximately 30%, whereas the risk for HIV is only 0.3%. Furthermore, HBV is highly stable in dried blood, surviving on clinic surfaces (like plinths or parallel bars) for up to 7 days, whereas HIV is fragile and dies quickly outside the body. This underscores the absolute necessity of HBV vaccination for all healthcare workers. | Examiner Key Points: HBV transmission risk (30%) vs. HIV (0.3%), stability of HBV in dried blood (7 days), HBV vaccination. | Clinical Importance: Directs the clinic's sterilization and hygiene standards, emphasizing that HBV requires rigorous surface disinfection and vaccination.",
+    "Question: Why is Rabies virus infection considered 100% fatal once symptoms appear, and what is the biological mechanism of its transport within the body? | Answer: Once rabies symptoms appear, the virus has replicated in the central nervous system (limbic system and brainstem), causing irreversible, necrotizing encephalitis which is 100% fatal. The virus travels retrogradely from the bite site to the spinal cord and brain along peripheral sensory or motor axons, piggybacking on host dynein motor proteins at a rate of 12-24 mm per day. | Examiner Key Points: Fatal necrotizing encephalitis, retrograde axonal transport, dynein motor proteins, incubation correlation with distance. | Clinical Importance: Emphasizes that post-exposure prophylaxis (PEP) must be started immediately before the virus reaches the spinal cord; once neurological symptoms appear, no treatment can save the patient's life.",
+    "Question: What are the primary infection control responsibilities of a chest physiotherapist treating a patient with COVID-19 or Influenza on mechanical ventilation? | Answer: The chest physiotherapist must: 1) Wear complete PPE: N95 respirator (with seal check), face shield, fluid-resistant gown, and double gloves. 2) Minimize aerosol generation by using closed suctioning systems instead of open suctioning. 3) Disinfect the stethoscope and ventilator surfaces with 70% alcohol or sodium hypochlorite. 4) Conduct therapy in a negative pressure room or well-ventilated single isolation room to prevent airborne dissemination. | Examiner Key Points: Aerosol precautions, N95 respirator, closed suctioning, negative pressure room, surface disinfection. | Clinical Importance: Protects the physiotherapist and prevents the hospital from becoming a vector for respiratory viral transmission, especially during high-risk airway clearance techniques.",
+    "Question: Explain the biological rationale behind 'Universal Precautions.' Why are they applied even if a patient's medical chart has no infectious flags? | Answer: Universal Precautions are based on the principle that all human blood, body fluids, and secretions (except sweat) are treated as potentially infectious for bloodborne pathogens like HIV, HBV, and HCV. This is because many patients are asymptomatic carriers who are unaware of their status, or may be in the 'window period' of infection where diagnostic tests are false-negative. This clinical assumption protects healthcare workers from unrecognized exposure. | Examiner Key Points: Assumption of infection for all fluids, asymptomatic carrier state, window period, healthcare worker protection. | Clinical Importance: Eliminates selective precaution application, establishing a safe, standardized clinical environment where every patient is managed with the same high level of biosafety.",
+    "Question: What is the clinical significance of a CD4 T-cell count below 200 cells/µL in a patient with HIV, and how does this impact their neuro-rehabilitation? | Answer: A CD4 count below 200 cells/µL is the diagnostic threshold for AIDS, indicating profound cell-mediated immunodeficiency. The patient is highly susceptible to opportunistic neuro-infections such as Toxoplasma gondii brain abscesses, Cryptococcal meningitis, or Progressive Multifocal Leukoencephalopathy (PML). These infections present as acute focal neurological deficits (hemiplegia, ataxia, or cognitive impairment). During rehabilitation, the therapist must maintain strict isolation hygiene, monitor for new cognitive or sensory changes, and avoid fatigue-inducing exercise. | Examiner Key Points: AIDS threshold (<200 cells/µL), opportunistic neuro-infections, focal neurological deficits, infection control during PT. | Clinical Importance: Guides the therapist to adapt rehabilitation to protect a severely immunocompromised nervous system and recognize early red flags of opportunistic CNS infections."
+  ],
+  "mcqs": [
+    {
+      "question": "A 55-year-old patient who survived paralytic poliomyelitis in childhood presents with progressive muscle weakness, severe muscle fatigue, and joint pain in previously unaffected limbs. Which of the following biological processes is the primary driver of this clinical condition?",
+      "options": [
+        "Reactivation of dormant poliovirus inside the dorsal root ganglion",
+        "Metabolic exhaustion and dieback of terminal sprouts in giant motor units",
+        "Autoimmune destruction of myelin sheaths in the peripheral nerves",
+        "Chronic ischemic stroke affecting the primary motor cortex"
+      ],
+      "answer": "Metabolic exhaustion and dieback of terminal sprouts in giant motor units",
+      "explanation": "Post-Polio Syndrome is caused by the metabolic overload and eventual senescence of surviving motor neurons which sprouted axonal terminals to compensate for the initial loss. It is not caused by viral reactivation, autoimmune demyelination, or cortical ischemia."
+    },
+    {
+      "question": "While performing chest physiotherapy on a patient with viral pneumonia, you accidentally sustain a needle-stick injury from an unsheathed needle left on the bed. What is the immediate first-aid step you must perform?",
+      "options": [
+        "Squeeze the wound vigorously to express the contaminated blood",
+        "Suck the wound immediately to draw out any viral particles",
+        "Wash the area thoroughly under cold running water with soap without squeezing",
+        "Apply a tight tourniquet proximal to the puncture site to prevent systemic spread"
+      ],
+      "answer": "Wash the area thoroughly under cold running water with soap without squeezing",
+      "explanation": "The immediate first aid is to flush the wound under running water with soap. Squeezing or sucking is contraindicated as it can create a micro-vacuum that promotes deeper pathogen inoculation. Tourniquets are not indicated and can cause localized tissue ischemia."
+    },
+    {
+      "question": "Hepatitis B virus (HBV) possesses a significantly higher occupational risk for clinical physiotherapists than HIV. Which of the following statements correctly explains the virological basis of this risk?",
+      "options": [
+        "HBV is an enveloped RNA virus that mutates rapidly in the clinic",
+        "HBV can survive in dried blood on clinic surfaces for up to 7 days and has a transmission risk of ~30% following a needle-stick",
+        "HIV is highly resistant to standard chlorine-based disinfectants",
+        "HBV is transmitted primarily via the airborne route during chest physiotherapy"
+      ],
+      "answer": "HBV can survive in dried blood on clinic surfaces for up to 7 days and has a transmission risk of ~30% following a needle-stick",
+      "explanation": "HBV is highly stable in dried blood on clinical surfaces for up to a week. The transmission risk of HBV after an occupational needle-stick is ~30% in unvaccinated individuals, compared to only ~0.3% for HIV. HBV is a bloodborne DNA virus, not airborne."
+    },
+    {
+      "question": "The rabies virus travels from the site of an animal bite to the central nervous system through which of the following mechanisms?",
+      "options": [
+        "Hematogenous dissemination through the venous circulation",
+        "Retrograde axonal transport along peripheral nerves via dynein motor proteins",
+        "Anterograde axonal transport along sensory fibers via kinesin motor proteins",
+        "Lymphatic drainage into the thoracic duct and systemic circulation"
+      ],
+      "answer": "Retrograde axonal transport along peripheral nerves via dynein motor proteins",
+      "explanation": "The rabies virus binds to receptors at the neuromuscular junction and is transported retrogradely along the axon of peripheral nerves using dynein motor proteins. Anterograde transport (via kinesin) is used during late-stage dissemination from the CNS to salivary glands."
+    },
+    {
+      "question": "A physiotherapist is scheduled to perform chest physiotherapy and endotracheal suctioning on an ICU patient with acute respiratory failure due to Influenza. Which combination of personal protective equipment (PPE) is mandatory?",
+      "options": [
+        "Surgical mask, clean gloves, and plastic apron",
+        "N95 respirator (with seal check), face shield, fluid-resistant gown, and double gloves",
+        "Airborne isolation hood, sterile gown, and heavy utility gloves",
+        "Surgical mask, protective goggles, and cloth lab coat"
+      ],
+      "answer": "N95 respirator (with seal check), face shield, fluid-resistant gown, and double gloves",
+      "explanation": "Endotracheal suctioning is an Aerosol-Generating Procedure (AGP). For AGPs in patients with respiratory viral pathogens, an N95 respirator, face shield/goggles, fluid-resistant gown, and gloves are mandatory to prevent airborne and splash transmission."
+    },
+    {
+      "question": "A patient with HIV has a CD4+ T-cell count of 150 cells/µL and is referred for balance training. What diagnostic category does this CD4 level represent, and what clinical precaution is primary?",
+      "options": [
+        "Asymptomatic HIV; no special precautions are required",
+        "Severe immunosuppression (AIDS); implement strict contact/airborne hygiene to protect the patient from opportunistic infections",
+        "Mild immunodeficiency; avoid passive range of motion to prevent joint dislocation",
+        "Acute retroviral syndrome; isolate the patient to protect the clinician from droplet transmission"
+      ],
+      "answer": "Severe immunosuppression (AIDS); implement strict contact/airborne hygiene to protect the patient from opportunistic infections",
+      "explanation": "A CD4 count < 200 cells/µL indicates AIDS (severe immunodeficiency). The primary clinical precaution is protecting this highly vulnerable patient from nosocomial infections carried by the therapist or clinical equipment (reverse isolation/protective hygiene)."
+    },
+    {
+      "question": "What is the critical time window for initiating antiretroviral drugs for Post-Exposure Prophylaxis (PEP) following occupational exposure to HIV?",
+      "options": [
+        "Within 2 hours of exposure is ideal, and strictly within 72 hours",
+        "Within 7 days of exposure, once blood tests confirm seroconversion",
+        "Between 24 to 48 hours, after the patient's HIV viral load is confirmed",
+        "Within 24 hours of exposure only; PEP is completely ineffective after 1 day"
+      ],
+      "answer": "Within 2 hours of exposure is ideal, and strictly within 72 hours",
+      "explanation": "HIV PEP must be started as soon as possible, ideally within 2 hours, and is not recommended if initiated more than 72 hours after exposure, as the virus has likely integrated into host cells by that point."
+    },
+    {
+      "question": "Which of the following describes the correct order of DOFFING (removing) personal protective equipment (PPE) to minimize the risk of self-contamination?",
+      "options": [
+        "Gown, Mask, Gloves, Face Shield",
+        "Gloves, Gown, Face Shield, Mask (Respirator)",
+        "Mask (Respirator), Gloves, Gown, Face Shield",
+        "Face Shield, Mask, Gown, Gloves"
+      ],
+      "answer": "Gloves, Gown, Face Shield, Mask (Respirator)",
+      "explanation": "The gloves are the most heavily contaminated surfaces and are removed first. The gown is removed next, followed by the face shield/goggles. The respirator (mask) is always removed last (outside the patient room if possible) to protect the airway until the rest of the dirty PPE is discarded."
+    }
+  ],
+  "reference": [
+    "Ananthanarayan and Paniker's Textbook of Microbiology, 12th Edition (Re-edited by Reba Kanungo) - Chapters on Poliovirus, HIV, Hepatitis, and Rabies.",
+    "Essentials of Medical Microbiology by Apurba Sankar Sastry and Sandhya Bhat, 4th Edition - Viral Pathogens and Clinical Infection Control.",
+    "WHO Guidelines on Hand Hygiene in Health Care and CDC/OSHA Standards for Bloodborne Pathogen Exposure Prevention."
+  ]
+}

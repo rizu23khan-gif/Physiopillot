@@ -1,36 +1,43 @@
 {
   "subject": "Biomechanics & Kinesiology",
   "chapterId": "bio_ch2",
-  "chapterName": "Joint Biomechanics of Upper & Lower Limbs",
+  "chapterName": "Kinetics",
   "definition": [
-    "Scapulohumeral Rhythm: The synchronized and coordinated movement between the glenohumeral and scapulothoracic joints during shoulder abduction or flexion, taking place at an overall 2:1 ratio (2 degrees of glenohumeral movement for every 1 degree of scapular upward rotation).",
-    "Carrying Angle: The physiological acute angle formed between the longitudinal axis of the humerus and the extended forearm in the anatomical position, measuring approximately 5-10 degrees in males and 10-15 degrees in females.",
-    "Angle of Inclination (Hip): The frontal plane angle formed between the longitudinal axis of the femoral shaft and the long axis of the femoral neck, normally averaging between 125 and 130 degrees in adults.",
-    "Coxa Vara: A pathological reduction in the angle of inclination of the femoral neck to less than 120 degrees, which increases bending forces on the neck and reduces hip abductor efficiency.",
-    "Coxa Valga: A pathological increase in the angle of inclination of the femoral neck to greater than 135 degrees, which decreases bending moments but predisposes the hip to subluxation.",
-    "Angle of Femoral Anteversion: The transverse plane angle formed between the femoral neck axis and the transcondylar axis of the distal femur, normally between 12 and 15 degrees in adults.",
-    "Screw-Home Mechanism (Knee): The automatic, obligatory rotation that locks the knee joint during terminal extension (last 5 degrees), involving internal rotation of the femur on a fixed tibia (closed chain) or external rotation of the tibia on a free femur (open chain).",
-    "Power Grip: A forceful hand posture where the fingers flex around an object to hold it firmly against the palm, with thumb opposition providing counter-stabilization. Examples: cylindrical, spherical, and hook grips.",
-    "Precision Grip: A delicate hand posture where an object is pinched and manipulated between the tips of the fingers and the thumb, requiring fine motor control. Examples: tip-to-tip, pad-to-pad, and pad-to-side pinching.",
-    "Windlass Mechanism (Foot): The passive tightening of the plantar fascia (aponeurosis) resulting from dorsiflexion of the metatarsophalangeal (MTP) joints, which pulls the calcaneus toward the metatarsal heads to elevate and stabilize the medial longitudinal arch of the foot."
+    "Kinetics: The branch of mechanics that describes the effect of forces and torques on the body, explaining why motion occurs rather than just describing the motion itself.",
+    "Force: A push or pull that can produce, stop, or modify movement, represented as a vector with magnitude, direction, point of application, and line of action.",
+    "Torque: The product of a force and its moment arm, representing the rotational equivalent of linear force; it is the physical quantity that produces joint rotation.",
+    "Moment Arm: The perpendicular distance between the joint's axis of rotation and the force's line of action.",
+    "Lever: A simple machine consisting of a rigid bar (the bone) that rotates around a fulcrum or axis of rotation (the joint) to move a load against an applied force.",
+    "Mechanical Advantage (MA): The mechanical efficiency of a lever system, calculated as the ratio of the effort arm length to the resistance arm length (MA = EA / RA).",
+    "Center of Gravity (COG): The single hypothetical point in a body or system around which all forces of gravity or mass are perfectly balanced; in standing humans, it lies anterior to S2.",
+    "Line of Gravity (LOG): An imaginary vertical vector directed downward from the body's center of gravity toward the ground.",
+    "Base of Support (BOS): The area perimeter formed by the outer points of physical contact between a person's body segments and their support surface (such as the ground).",
+    "Stress: The internal resistance force generated per unit area within a biological tissue in response to an externally applied load or force (measured in Pascals or N/m^2).",
+    "Strain: The relative deformation or percentage change in a material's length or shape in response to an applied stress, expressed as a ratio of change in length to original length.",
+    "Young's Modulus (Elastic Modulus): A measure of a material's stiffness, defined as the slope of the elastic region on a stress-strain curve (Modulus = Stress / Strain).",
+    "Viscoelasticity: A biological property of tissues that exhibit both viscous (fluid-like, time-dependent) and elastic (solid-like) behaviors when subjected to mechanical loading.",
+    "Creep: A viscoelastic property characterized by a slow, progressive increase in strain (deformation) over time when a biological tissue is subjected to a constant, sustained stress or load.",
+    "Stress Relaxation: A viscoelastic property characterized by a progressive decrease in internal stress over time when a biological tissue is held at a constant strain (stretched to a fixed length).",
+    "Hysteresis: The loss of mechanical energy (typically dissipated as heat) during a loading and unloading cycle of a viscoelastic tissue, demonstrated by the loop area between loading and unloading curves."
   ],
   "principle": [
-    "Scapular Upward Rotation Force Couple: The coordinated co-activation of the upper trapezius, lower trapezius, and serratus anterior muscles, which acts to rotate the scapula upwardly during shoulder elevation while maintaining joint center alignment.",
-    "Knee Locking and Unlocking: The popliteus muscle acts as the key to unlock the screw-home mechanism of the knee. To initiate flexion from full extension, the popliteus contracts to rotate the femur externally relative to the fixed tibia in a closed kinetic chain.",
-    "Trabecular Systems of the Hip: The internal architecture of the femur is organized into distinct compressive and tensile trabecular systems to resist the high bending and weight-bearing forces transmitted through the femoral neck.",
-    "Windlass Effect in Gait: During terminal stance, terminal heel rise forces the MTP joints into passive hyperextension, tightening the plantar fascia. This mechanically raises the arch, turning the foot into a rigid lever for efficient propulsion."
+    "Newton's First Law (Inertia): A body remains at rest or in constant linear/rotational velocity unless acted upon by an unbalanced external force or torque.",
+    "Newton's Second Law (Acceleration): The acceleration of a body is directly proportional to the net force acting on it, in the direction of the force, and inversely proportional to its mass (F = ma, or T = Ia for rotation).",
+    "Newton's Third Law (Action-Reaction): For every active force exerted by one body on another, there is an equal and opposite reaction force exerted by the second body on the first.",
+    "Three Classes of Levers: Levers are classified by relative positions of fulcrum (F), effort (E), and resistance (R): First Class (E-F-R) has variable MA; Second Class (F-R-E) always has MA > 1 (force magnifier); Third Class (F-E-R) always has MA < 1 (speed and distance magnifier).",
+    "Conditions of Static Equilibrium: For a joint or body segment to remain at rest, the sum of all linear forces (Net F = 0) and the sum of all rotational torques (Net T = 0) acting on it must equal zero.",
+    "Stress-Strain Curve Mechanics: Biological tissues transition through distinct mechanical zones under load: Elastic Region (temporary deformation), Yield Point (transition to permanent damage), Plastic Region (permanent deformation), and Ultimate Failure Point (tissue rupture)."
   ],
   "equipment": [
-    "Plumb line, standard manual goniometers, and electronic inclinometers for limb segment tracking."
+    "Handheld Dynamometers and Force Plates for recording muscle and ground reaction force vectors.",
+    "Mechanical testing systems (e.g., Instron) for analyzing stress, strain, and material properties of tissues.",
+    "Pressure mapping platforms for measuring the distribution of force across the base of support."
   ],
   "parameters": {
-    "scapulohumeralRatio": "2:1 glenohumeral to scapulothoracic rotation",
-    "normalCarryingAngleMales": "5 to 10 degrees",
-    "normalCarryingAngleFemales": "10 to 15 degrees",
-    "normalHipInclinationAngle": "125 degrees",
-    "coxaVaraAngle": "Less than 120 degrees",
-    "coxaValgaAngle": "Greater than 135 degrees",
-    "normalFemoralAnteversion": "12 to 15 degrees"
+    "forceUnit": "Newton (N)",
+    "stressUnit": "Pascal (Pa) or Newtons per square meter (N/m^2)",
+    "torqueUnit": "Newton-meter (Nm)",
+    "strainUnit": "Dimensionless ratio (often expressed as % change in length)"
   },
   "physiologicalEffects": [],
   "indications": [],
@@ -47,208 +54,90 @@
   },
   "precautions": [],
   "clinicalPearls": [
-    "A patient showing excess femoral anteversion ('toe-in' posture) will rotate their hip internally to center the femoral head in the acetabulum during standing. Conversely, retroversion forces a compensatory foot-out/external rotation posture during dynamic gait.",
-    "In patients with severe shoulder impingement, the natural 2:1 scapulohumeral rhythm is often disrupted and reversed, with the scapula elevating excessively early in the range. Restoring serratus anterior and lower trapezius strength is crucial to recover normal scapular rhythm.",
-    "Cubitus valgus (increase in carrying angle) can lead to delayed ulnar nerve neuropathy due to chronic traction forces as the ulnar nerve passes posterior to the medial epicondyle of the humerus."
+    "Third-class levers dominate the human musculoskeletal system. Because their mechanical advantage is always less than 1, our muscles must contract with forces many times greater than the weight of the objects we lift, placing massive compressive loads across joint surfaces.",
+    "The clinical practice of progressive sustained stretching exploits the viscoelastic property of creep. Sustained low-load tension allows tissues to reorganize and lengthen without triggering the protective stretch reflex, making it superior to rapid, ballistic stretching.",
+    "Splinting a joint at a fixed position to reduce joint contractures relies on stress relaxation. Over hours or days, the internal tension within the shortened tissue progressively decays, allowing gradual structural remodeling without tissue tearing.",
+    "To maximize postural stability in patients with balance deficits (such as ataxia or hemiplegia), physiotherapists train them to widen their base of support (BOS) and lower their center of gravity (COG), ensuring the line of gravity (LOG) has a wider safety margin within the BOS boundaries.",
+    "Repetitive tissue loading within the plastic region of the stress-strain curve without adequate recovery leads to micro-failure or cumulative microtrauma, which clinically manifests as stress fractures, tendinopathies, or chronic ligamentous laxity."
   ],
   "clinicalProtocols": [],
   "vivaQuestions": [
-    "Question: Detail the scapulohumeral rhythm during shoulder abduction, stating the relative joint contributions. | Answer: The overall ratio of glenohumeral (GH) to scapulothoracic (ST) movement during shoulder abduction is 2:1. For the full 180 degrees of abduction, approximately 120 degrees occurs at the GH joint, while 60 degrees occurs via upward rotation at the ST joint. This includes 30 degrees of clavicular elevation at the sternoclavicular (SC) joint and 30 degrees of rotation at the acromioclavicular (AC) joint. | Examiner Key Points: 2:1 ratio, 120 degrees GH, 60 degrees ST, roles of SC and AC joints. | Clinical Importance: Clinicians must assess early scapular shrug markers to identify rotator cuff pathology or serratus weakness inhibiting normal scapulohumeral rhythm.",
-    "Question: What is the 'Carrying Angle' of the elbow, and what are the pathological states associated with its deviation? | Answer: The carrying angle is a physiological valgus angle of 5-15 degrees formed by the longitudinal axes of the humerus and ulna, which is more pronounced in females. Deviations include Cubitus Valgus (increased angle, often tractioning the ulnar nerve) and Cubitus Varus (decreased or reversed angle, also known as 'gunstock deformity' commonly resulting from malunited supracondylar fractures). | Examiner Key Points: Normal range, male vs female, cubitus valgus vs cubitus varus, supracondylar fracture link. | Clinical Importance: Essential to prevent ulnar nerve neuropraxia and evaluate cosmetic and mechanical alignment post supracondylar humeral fracture repair.",
-    "Question: Contrast Coxa Vara and Coxa Valga in terms of hip abductor muscle efficiency and femoral neck stress. | Answer: Coxa Vara is an angle of inclination less than 120 degrees. It increases the abductor moment arm (enhancing muscle efficiency) but increases shear and bending forces on the femoral neck, raising fracture risk. Coxa Valga is an angle greater than 135 degrees. It decreases the abductor moment arm (reducing abductor efficiency and causing limping) but lowers bending stress on the neck. | Examiner Key Points: Angle values, abductor moment arm length, bending shear stresses, fracture vs subluxation risk. | Clinical Importance: Helps therapists interpret Trendelenburg signs and select appropriate weight-bearing levels for hip dysplasia and developmental impairments.",
-    "Question: Explain the 'Screw-Home Mechanism' of the knee and specify how the knee is 'unlocked' to initiate flexion. | Answer: The Screw-Home Mechanism refers to the compulsory external tibial rotation during the final 5 degrees of knee extension (closed chain: internal femoral rotation) that locks the knee into its stable, close-packed configuration. The popliteus muscle acts as the key to unlock the joint by contracting to rotate the femur externally (closed chain) or rotate the tibia internally (open chain) before knee flexion can occur. | Examiner Key Points: Rotation details, close-packed locking, role of popliteus in unlocking flexion. | Clinical Importance: Inability to unlock or lock the knee securely leads to instability and tracking syndromes, requiring popliteus and hamstring mobility work.",
-    "Question: Describe the 'Windlass Mechanism' of the foot and its function during the heel-off phase of gait. | Answer: The Windlass Mechanism occurs when hyperextension of the metatarsophalangeal (MTP) joints (during late stance/heel rise) pulls the plantar fascia taut around the metatarsal heads. This traction forces the calcaneus close to the metatarsals, raising the medial longitudinal arch, which provides a rigid structural lever for propulsion. | Examiner Key Points: MTP extension, tension in plantar fascia, arch elevation, rigid lever transition. | Clinical Importance: Dysfunction of the Windlass mechanism (due to plantar fasciitis or hallux rigidus) compromises propulsion mechanics and increases loading stress on the metatarsals.",
-    "Question: What is femoral anteversion, and what compensation is typically observed in children with increased anteversion? | Answer: Femoral anteversion is a forward rotation of the femoral head relative to the distal femoral condyles, normally 12-15 degrees. An increased anteversion angle (> 20 degrees) presents as hip internal rotation, clinically causing a 'toe-in' gait posture ('pigeon-toed') as the child walks to functionally keep the femoral head centered inside the acetabulum. | Examiner Key Points: Anteversion angle definition, 12-15 degree normal, internal rotation compensation, 'toe-in' profile. | Clinical Importance: Essential for identifying gait abnormalities and deciding when to implement hip-strengthening rotations rather than correcting the feet.",
-    "Question: Differentiate between power grips and precision grips of the hand, providing examples of each. | Answer: Power grips require force and involve isometric finger flexion to wrap around an object, stabilizing it against the palm (e.g., cylindrical grip on a hammer or spherical grip on a ball). Precision grips involve fine, precise thumb-and-finger tip coordination without necessarily contacting the palm (e.g., three-jaw chuck or tip-to-tip pinch). | Examiner Key Points: Finger-palm force, precision fingertip control, examples of both. | Clinical Importance: Clinicians use grip types to design occupational therapy interventions for nerve suture recoveries or arthritic hands.",
-    "Question: Explain how the patella acts as a physiological spacer to optimize quadriceps muscle performance. | Answer: The patella is a sesamoid bone that functions as a spacer by pushing the patellar tendon further from the knee's axis of rotation. This increases the perpendicular moment arm of the quadriceps muscle, which increases the extension torque generated without requiring the muscle to exert extra force. | Examiner Key Points: Spacer function, moment arm enlargement, patellar tracking, extensor lag. | Clinical Importance: Essential to prevent extensor lag post patellar fracture or knee arthroplasty, where optimal patellofemoral alignment must be restored.",
-    "Question: Describe the trabecular system of the hip and state the area highly susceptible to fracture. | Answer: The hip joint contains primary compressive, secondary compressive, primary tensile, and secondary tensile trabecular lines that reinforce the bone where stresses are greatest. In the middle of these crossing trabecular lines lies Ward's Triangle, an area of low density that is highly susceptible to fracture in osteoporotic bones. | Examiner Key Points: Compression vs tensile trabecular lines, Ward's Triangle, low density. | Clinical Importance: Recognizing the biomechanical vulnerability of Ward's Triangle helps therapists choose safe weight-bearing protocols for elderly patients.",
-    "Question: Explain the biomechanics of the meniscus in weight transmission and joint nutrition within the knee. | Answer: The menisci are wedge-shaped fibrocartilaginous structures that increase joint congruency and distribute up to 50-70% of joint compressive forces across the tibia, reducing stress concentration. They also act as a wedge to guide fluid, facilitating joint lubrication and cartilage nutrition. | Examiner Key Points: fibrocartilage wedge, load distribution, force reduction, joint nutrition. | Clinical Importance: Meniscal tears or meniscectomy double the stress of weight-bearing on tibial cartilage, leading to rapid osteoarthritic changes."
+    "Question: Explain why third-class levers are mechanically inefficient, and discuss why the human body is primarily constructed of them. | Answer: Third-class levers have the effort force applied between the fulcrum and the resistance, meaning the effort arm is always shorter than the resistance arm, resulting in a Mechanical Advantage (MA) of less than 1. The human body uses them because they maximize the speed of movement and range of motion of the distal limb segment, allowing humans to move quickly and efficiently in space. | Examiner Key Points: Effort arm < resistance arm, MA < 1, speed and ROM advantage. | Clinical Importance: Explains why muscles undergo high stress and fatigue easily during heavy lifting, requiring ergonomic movement strategies.",
+    "Question: Compare the viscoelastic behaviors of creep and stress relaxation. | Answer: Creep is the progressive increase in tissue deformation (strain) over time under a constant, sustained stress or load. Stress relaxation is the progressive decay in internal tension (stress) over time when a tissue is held at a constant, fixed length (strain). | Examiner Key Points: Constant load vs constant length, progressive deformation vs decay of internal tension. | Clinical Importance: Creep explains why low-load, long-duration stretching is effective, while stress relaxation explains why serial casting successfully treats rigid joint contractures.",
+    "Question: Draw or describe the stress-strain curve of a ligament and define the 'elastic' vs. 'plastic' regions. | Answer: The curve shows strain on the X-axis and stress on the Y-axis. The elastic region is the initial linear zone where the tissue deforms under load but returns to its original length when the load is removed. The plastic region is the zone beyond the yield point where tissue fibers undergo permanent microscopic tearing; it will not return to its original length. | Examiner Key Points: X-axis strain, Y-axis stress, yield point, permanent deformation. | Clinical Importance: Grade I ligament sprains occur in the elastic region, Grade II sprains extend into the plastic region, and Grade III sprains represent complete mechanical failure (rupture).",
+    "Question: What is hysteresis, and what is its physiological purpose in articular cartilage? | Answer: Hysteresis is the loss of energy (as heat) during a loading and unloading cycle of a viscoelastic material. In articular cartilage, hysteresis acts as a critical shock-absorber, protecting underlying subchondral bone from high-velocity impact forces. | Examiner Key Points: Energy loss as heat, loading-unloading difference, shock absorption. | Clinical Importance: Explains how normal joint loading absorbs mechanical shocks, and why degenerated osteoarthritic cartilage fails to protect the subchondral bone, leading to joint pain.",
+    "Question: Explain Newton's Third Law using a patient performing a standing vertical jump as an example. | Answer: Newton's Third Law is the law of action-reaction. When a patient jumps, they exert a downward force against the floor (Action). The floor simultaneously exerts an equal and opposite upward force against the feet (Reaction/Ground Reaction Force), which propels the body upward into the air. | Examiner Key Points: Action and reaction vectors, equal magnitude, opposite direction, ground reaction force. | Clinical Importance: Ground reaction forces (GRF) are crucial in gait analysis, orthotic design, and understanding joint stress during high-impact sports.",
+    "Question: Define Center of Gravity (COG) and explain how its position changes in a pregnant woman. | Answer: COG is the unique point where all parts of the body's mass are perfectly balanced. In a pregnant woman, the progressive weight gain in the anterior abdomen shifts the COG anteriorly. To maintain balance, the woman must hyperextend her lumbar spine (lumbar lordosis), shifting the upper trunk backward to align the line of gravity over her base of support. | Examiner Key Points: Mass balance point, anterior shift, lumbar lordosis compensation. | Clinical Importance: Explains the high prevalence of mechanical low back pain during pregnancy and guides the prescription of safe postural core exercises.",
+    "Question: What is Young's Modulus, and how does it differ between cortical bone and articular cartilage? | Answer: Young's Modulus measures a material's stiffness (Stress/Strain ratio). Cortical bone has a high Young's Modulus (steep slope) because it is highly rigid and resists deformation. Articular cartilage has a low Young's Modulus (shallow slope) because it is highly compliant and deforms easily to absorb forces. | Examiner Key Points: Stress/Strain ratio, stiffness index, bone vs cartilage properties. | Clinical Importance: Helps therapists understand structural limitations, guiding weight-bearing progression after bone fractures vs cartilage injuries.",
+    "Question: Explain the mechanical advantage of a second-class lever, and provide an anatomical example. | Answer: In a second-class lever, the resistance lies between the fulcrum and the effort, making the effort arm always longer than the resistance arm (MA > 1). This acts as a force magnifier. An anatomical example is rising onto the ball of the foot, where the metatarsophalangeal joint is the fulcrum, the body weight is the resistance, and the Achilles tendon provides the effort force. | Examiner Key Points: Resistance in the middle, MA > 1, gastrocnemius standing calf raise. | Clinical Importance: Demonstrates how the calf muscles can lift the entire body weight with minimal muscular effort, exploiting high mechanical advantage.",
+    "Question: How does an anatomical pulley like the patella alter the quadriceps force vector? | Answer: The patella displaces the quadriceps tendon anteriorly away from the knee joint's rotational axis, which increases the angle of pull and enlarges the quadriceps moment arm. This allows the quadriceps to generate the required knee extension torque with significantly less contractile force. | Examiner Key Points: Anterior displacement of tendon, moment arm enlargement, force vector alteration. | Clinical Importance: Explains why patellar pathomechanics or patellectomy causes a massive deficit in knee extension strength, predisposing the joint to instability.",
+    "Question: Explain how the relationship between the Line of Gravity (LOG) and the Base of Support (BOS) determines standing balance. | Answer: Stand balance is maintained as long as the vertical line of gravity (LOG) projected downward from the body's center of gravity falls within the perimeter margins of the base of support (BOS). If the LOG moves outside the BOS boundary, balance is lost and a fall or compensatory movement occurs. | Examiner Key Points: LOG, BOS boundaries, stability limits. | Clinical Importance: Balance training focuses on teaching patients with ataxia or hemiplegia to broaden their feet (expanding BOS) or use assistive aids like canes to keep the LOG stable."
   ],
   "mcqs": [
     {
-      "question": "What is the normal overall ratio of glenohumeral movement to scapulothoracic movement during shoulder abduction?",
-      "options": ["1:1 ratio", "2:1 ratio", "3:1 ratio", "1:2 ratio"],
-      "answer": "2:1 ratio",
-      "explanation": "During shoulder abduction, for every 2 degrees of glenohumeral movement, there is 1 degree of scapulothoracic upward rotation, representing the classic 2:1 scapulohumeral rhythm."
+      "question": "Which of Newton's laws of motion states that force is equal to mass multiplied by acceleration (F = ma)?",
+      "options": ["First Law", "Second Law", "Third Law", "Law of Gravitation"],
+      "answer": "Second Law",
+      "explanation": "Newton's Second Law of Motion states that the acceleration of a body is directly proportional to the net force acting on it and inversely proportional to its mass, represented mathematically as Force = mass * acceleration (F=ma)."
     },
     {
-      "question": "Which muscle acts as the key to 'unlock' the screw-home mechanism of the knee to initiate knee flexion?",
-      "options": ["Rectus Femoris", "Biceps Femoris", "Popliteus", "Gastrocnemius"],
-      "answer": "Popliteus",
-      "explanation": "The popliteus muscle unlocks the knee by rotating the femur externally on the fixed tibia (in closed chain) or rotating the tibia internally (in open chain) to initiate flexion."
+      "question": "A lever system where the fulcrum is positioned between the effort force and the resistance load is classified as a:",
+      "options": ["First-class lever", "Second-class lever", "Third-class lever", "Fourth-class lever"],
+      "answer": "First-class lever",
+      "explanation": "A first-class lever features the fulcrum in the center between the effort and the resistance (E-F-R). A classic human example is the atlanto-occipital joint."
     },
     {
-      "question": "A pathological reduction in the angle of inclination of the femoral neck to less than 120 degrees is called:",
-      "options": ["Coxa Valga", "Coxa Vara", "Femoral Anteversion", "Femoral Retroversion"],
-      "answer": "Coxa Vara",
-      "explanation": "Coxa vara is defined as a decrease in the angle of inclination between the femoral neck and shaft to less than 120 degrees."
+      "question": "Which class of lever system always operates with a Mechanical Advantage of less than one (MA < 1)?",
+      "options": ["First-class", "Second-class", "Third-class", "None of the above"],
+      "answer": "Third-class",
+      "explanation": "In a third-class lever, the effort force is located between the fulcrum and the resistance (F-E-R). Because the effort arm is always shorter than the resistance arm, the mechanical advantage is always less than one."
     },
     {
-      "question": "What is the normal carrying angle of the elbow in adult females?",
-      "options": ["0 to 5 degrees", "5 to 10 degrees", "10 to 15 degrees", "20 to 25 degrees"],
-      "answer": "10 to 15 degrees",
-      "explanation": "Adult females typically have a larger carrying angle than males, which normally measures around 10-15 degrees of physiological valgus."
+      "question": "The progressive deformation of a ligament over time under a constant, sustained load is a viscoelastic property known as:",
+      "options": ["Stress Relaxation", "Creep", "Hysteresis", "Young's Modulus"],
+      "answer": "Creep",
+      "explanation": "Creep is the slow, progressive deformation (strain increase) that occurs over time in a viscoelastic tissue when it is subjected to a constant, sustained stress."
     },
     {
-      "question": "Which of the following hand grips is classified strictly as a precision grip?",
-      "options": ["Cylindrical grip", "Spherical grip", "Hook grip", "Pulp-to-pulp (pad-to-pad) pinch"],
-      "answer": "Pulp-to-pulp (pad-to-pad) pinch",
-      "explanation": "Pulp-to-pulp (pad-to-pad) pinch is a precision grip, as it relies on coordinate tip manipulation without palm contact, unlike cylindrical, spherical, and hook grips."
+      "question": "When a stretched tendon is held at a constant length, the internal tension within the tissue slowly decreases over time. This property is known as:",
+      "options": ["Creep", "Young's Modulus", "Stress Relaxation", "Anisotropy"],
+      "answer": "Stress Relaxation",
+      "explanation": "Stress relaxation is the time-dependent decay in internal stress (tension) when a viscoelastic tissue is held at a constant, fixed strain or length."
     },
     {
-      "question": "What mechanism describes the passive elevation of the medial longitudinal arch by dorsiflexing the hallux?",
-      "options": ["Screw-Home Mechanism", "Windlass Mechanism", "Buckle Mechanism", "Gait Traction Mechanism"],
-      "answer": "Windlass Mechanism",
-      "explanation": "The Windlass Mechanism describes the passive shortening and elevation of the medial longitudinal arch caused by dorsiflexing the MTP joint, which pulls the plantar fascia taut."
+      "question": "The slope of the linear elastic region on a tissue's stress-strain curve represents which material property?",
+      "options": ["Ductility", "Viscosity", "Young's Modulus (Stiffness)", "Ultimate Tensile Strength"],
+      "answer": "Young's Modulus (Stiffness)",
+      "explanation": "The slope of the elastic region on a stress-strain curve represents Young's Modulus, which is the quantitative measure of a material's stiffness (Stress/Strain)."
     },
     {
-      "question": "An angle of femoral neck anteversion that is significantly greater than 20 degrees is clinically associated with:",
-      "options": ["Out-toeing gait", "In-toeing ('pigeon-toed') gait", "Genu varum", "Genu valgum"],
-      "answer": "In-toeing ('pigeon-toed') gait",
-      "explanation": "Aggressive femoral anteversion causes the child to rotate their hip internally during standing and walking, presenting as an in-toeing or 'pigeon-toed' posture."
+      "question": "What is the primary mechanical function of the patella at the knee joint?",
+      "options": ["To lock the knee in full extension", "To reduce friction between the quadriceps and tibia", "To increase the moment arm of the quadriceps muscle", "To alter the knee joint from a hinge to a saddle joint"],
+      "answer": "To increase the moment arm of the quadriceps muscle",
+      "explanation": "The patella acts as an anatomical pulley. It pushes the quadriceps tendon away from the joint's axis of rotation, which increases the moment arm and dramatically improves torque production."
     },
     {
-      "question": "Loss of the patella reduces overall knee extension torque specifically because of a:",
-      "options": ["Decrease in the moment arm of the quadriceps muscle", "Loss of quadriceps muscle tissue mass", "Increase in friction of the patellar tendon", "Change in the joint's axis of rotation"],
-      "answer": "Decrease in the moment arm of the quadriceps muscle",
-      "explanation": "Removing the patella brings the quadriceps tendon closer to the rotation axis, significantly decreasing its moment arm and reducing extension torque."
+      "question": "In a standing adult human, where is the Center of Gravity (COG) normally located?",
+      "options": ["Just inferior to the xiphoid process", "Slightly anterior to the second sacral vertebra (S2)", "Directly between the hip joints", "Slightly posterior to the third lumbar vertebra (L3)"],
+      "answer": "Slightly anterior to the second sacral vertebra (S2)",
+      "explanation": "In a normal standing adult, the body's center of gravity is located in the midline of the pelvis, slightly anterior to the second sacral vertebra (S2)."
     },
     {
-      "question": "Which area of the femoral neck is most vulnerable to fractures due to low trabecular density?",
-      "options": ["Ward's Triangle", "Femoral head center", "Greater trochanter tip", "Shaft junction"],
-      "answer": "Ward's Triangle",
-      "explanation": "Ward's Triangle is an area within the femoral neck where primary and secondary trabecular lines do not overlap securely, making it vulnerable to osteoporotic fractures."
+      "question": "What is the mechanical effect of widening a patient's feet (stance) during balance training?",
+      "options": ["It lowers the Center of Gravity", "It increases the Line of Gravity velocity", "It expands the Base of Support", "It increases joint shearing forces"],
+      "answer": "It expands the Base of Support",
+      "explanation": "Widening the stance expands the base of support (BOS), which makes it much harder for the line of gravity to fall outside the BOS perimeter, thereby improving postural stability."
     },
     {
-      "question": "What structural deformity is characterized by an acute inward bending of the carrying angle, known as gunstock deformity?",
-      "options": ["Cubitus Valgus", "Cubitus Varus", "Genu Varum", "Genu Valgum"],
-      "answer": "Cubitus Varus",
-      "explanation": "Cubitus varus is a deformity where the carrying angle is reduced or reversed, leading to a medial deviation of the forearm ('gunstock deformity')."
-    },
-    {
-      "question": "The three bones of the shoulder complex that articulate to form the main functional joints are:",
-      "options": ["Humerus, Scapula, Sternum", "Humerus, Scapula, Clavicle", "Clavicle, Sternum, Ribs", "Humerus, Radius, Ulna"],
-      "answer": "Humerus, Scapula, Clavicle",
-      "explanation": "The shoulder pelvic complex is composed of the humerus, scapula, and clavicle which form the sternoclavicular, acromioclavicular, glenohumeral, and scapulothoracic joints."
-    },
-    {
-      "question": "Which ligament is the primary static stabilizer preventing anterior translation of the tibia on the femur?",
-      "options": ["Posterior Cruciate Ligament", "Anterior Cruciate Ligament", "Medial Collateral Ligament", "Lateral Collateral Ligament"],
-      "answer": "Anterior Cruciate Ligament",
-      "explanation": "The anterior cruciate ligament (ACL) is the primary static restraint preventing anterior displacement of the tibia relative to the femur."
-    },
-    {
-      "question": "What frontal plane hip angle is associated with coxa valga?",
-      "options": ["Less than 100 degrees", "Exactly 120 degrees", "Greater than 135-140 degrees", "Only 90 degrees"],
-      "answer": "Greater than 135-140 degrees",
-      "explanation": "Coxa valga refers to an increased angle of inclination between the femoral neck and shaft of greater than 135-140 degrees."
-    },
-    {
-      "question": "During closed-chain knee extension, the femur template must rotate in which direction on the stable tibia?",
-      "options": ["Rotates externally", "Rotates internally", "Slides laterally only", "Tilted posteriorly"],
-      "answer": "Rotates internally",
-      "explanation": "To lock the knee in terminal extension in a closed kinetic chain, the femur rotates internally relative to the fixed tibia."
-    },
-    {
-      "question": "What is the primary function of the glenoid labrum in the shoulder complex?",
-      "options": ["Acts as a primary lever to elevate the arm", "Deepens the glenoid fossa to increase joint stability", "Synthesizes synovial fluid for cartilage", "Maintains AC joint congruency"],
-      "answer": "Deepens the glenoid fossa to increase joint stability",
-      "explanation": "The glenoid labrum is a fibrocartilage ring that deepens the shallow glenoid cavity of the scapula by approximately 50%, enhancing stability without limiting mobility."
-    },
-    {
-      "question": "The normal alignment of the scapula on the thorax typically rests between which ribs?",
-      "options": ["1st to 5th ribs", "2nd to 7th ribs", "4th to 8th ribs", "6th to 10th ribs"],
-      "answer": "2nd to 7th ribs",
-      "explanation": "In normal individuals, the scapula rests flat against the postero-lateral aspect of the thorax between the 2nd and 7th ribs."
-    },
-    {
-      "question": "What muscle force couple elevates the arm and downwardly retracts the humeral head to prevent subacromial impingement?",
-      "options": ["Trapezius and Rhomboids", "Deltoid and Rotator Cuff muscles", "Pectoralis major and Latissimus dorsi", "Biceps and Triceps"],
-      "answer": "Deltoid and Rotator Cuff muscles",
-      "explanation": "The deltoid pulls the humerus upward, while the rotator cuff muscles (infraspinatus, subscapularis, teres minor) pull the humeral head down and in, preventing superior migration."
-    },
-    {
-      "question": "Which muscle is the primary upward rotator of the scapula during shoulder abduction?",
-      "options": ["Pectoralis major", "Serratus Anterior", "Levator Scapulae", "Latissimus Dorsi"],
-      "answer": "Serratus Anterior",
-      "explanation": "The serratus anterior, along with upper and lower trapezius, acts as an upward rotator force couple. Serratus anterior is the strongest upward rotator."
-    },
-    {
-      "question": "Cubitus valgus deformity at the elbow increases tension stress on which nerve?",
-      "options": ["Radial Nerve", "Median Nerve", "Ulnar Nerve", "Musculocutaneous Nerve"],
-      "answer": "Ulnar Nerve",
-      "explanation": "Cubitus valgus increases the distance the ulnar nerve must travel as it passes around the medial epicondyle, exposing it to chronic traction forces."
-    },
-    {
-      "question": "The primary static stabilizer preventing valgus stress at the elbow joint is the:",
-      "options": ["Annular Ligament", "Radial Collateral Ligament", "Ulnar Collateral Ligament (Medial)", "Interosseous Membrane"],
-      "answer": "Ulnar Collateral Ligament (Medial)",
-      "explanation": "The ulnar collateral ligament (also known as the medial collateral ligament of the elbow) is the primary static stabilizer against valgus stress."
-    },
-    {
-      "question": "A patient holding a heavy suitcase by the handle uses what type of power grip?",
-      "options": ["Cylindrical grip", "Spherical grip", "Hook grip", "Lateral pinch"],
-      "answer": "Hook grip",
-      "explanation": "Carrying a suitcase or briefcase handle primarily requires a hook grip, which involves static flexion of the fingers with minimal thumb involvement."
-    },
-    {
-      "question": "Which carpal bone acts as the keystone of the proximal transverse arch of the hand?",
-      "options": ["Scaphoid", "Capitate", "Lunate", "Trapezoid"],
-      "answer": "Capitate",
-      "explanation": "Anatomically, the capitate bone acts as the mechanical structural keystone of the deep proximal transverse arch of the wrist and hand."
-    },
-    {
-      "question": "At the hip, what is the biomechanical consequence of Coxa Vara?",
-      "options": ["Reduces abductor muscle leverage", "Increases shear stress across the femoral neck", "Decreases the risk of slip of femoral epiphysis", "Reduces femoral neck moment arms"],
-      "answer": "Increases shear stress across the femoral neck",
-      "explanation": "Coxa vara reduces the angle of inclination, putting the femoral neck in a more horizontal position, which significantly increases shear and bending forces."
-    },
-    {
-      "question": "In femoral retroversion, the angle of femoral torsion is typically:",
-      "options": ["Greater than 30 degrees", "Between 12 and 15 degrees", "Significantly less than 12 degrees", "Exactly 45 degrees"],
-      "answer": "Significantly less than 12 degrees",
-      "explanation": "Femoral retroversion is defined as a pathological decrease in the normal angle of femoral torsion to less than 10-12 degrees."
-    },
-    {
-      "question": "The dynamic locking mechanism of the patella is controlled dynamically by which muscle fibers?",
-      "options": ["Vastus lateralis", "Vastus Medialis Oblique (VMO)", "Rectus Femoris", "Gluteus Medius"],
-      "answer": "Vastus Medialis Oblique (VMO)",
-      "explanation": "The Vastus Medialis Oblique (VMO) fibres pull medially, resisting the lateral subluxation forces on the patella during knee extension."
-    },
-    {
-      "question": "Which of the following ligaments of the knee is specifically taut in full knee flexion?",
-      "options": ["Posterior Cruciate Ligament", "Anterior Cruciate Ligament", "Medial Collateral Ligament", "Anterolateral Ligament"],
-      "answer": "Posterior Cruciate Ligament",
-      "explanation": "The Posterior Cruciate Ligament (PCL) contains fibers that tighten during flexion, functioning as the primary restraint to posterior tibial displacement."
-    },
-    {
-      "question": "An anatomical feature that distinguishes the medial meniscus from the lateral meniscus is that the medial meniscus is:",
-      "options": ["Highly mobile", "Circular shaped", "Attached firmly to the medial collateral ligament", "Larger and thicker on the inner edge"],
-      "answer": "Attached firmly to the medial collateral ligament",
-      "explanation": "The medial meniscus is 'C' shaped and is firmly tethered to the medial collateral ligament (MCL), making it less mobile and more prone to injury."
-    },
-    {
-      "question": "Which arch of the foot is primarily supported dynamically by the tibialis posterior tendon?",
-      "options": ["Lateral Longitudinal Arch", "Medial Longitudinal Arch", "Transverse Metatarsal Arch", "Proximal Tarsal Arch"],
-      "answer": "Medial Longitudinal Arch",
-      "explanation": "The Medial Longitudinal Arch is supported dynamically by the tibialis posterior muscle tendon, which acts as a primary active stabilizer."
-    },
-    {
-      "question": "The primary biomechanical role of the meniscus in the knee is to:",
-      "options": ["Facilitate active tibial axial rotation", "Provide insertion points for the popliteus", "Increase joint congruency and distribute compression load", "Prevent patellar tracking deviations"],
-      "answer": "Increase joint congruency and distribute compression load",
-      "explanation": "The menisci act as shock absorbers by spreading compressive forces over a wider surface area of the tibia, which reduces stress on cartilage."
-    },
-    {
-      "question": "Which of the following hand postures is used to hold a pen during writing?",
-      "options": ["Tip-to-tip pinch", "Hook grip", "Dynamic tripod (three-jaw chuck precision grip)", "Spherical grasp"],
-      "answer": "Dynamic tripod (three-jaw chuck precision grip)",
-      "explanation": "Holding a pen uses the dynamic tripod posture (three-jaw chuck pinch), which involves the thumb, index, and middle fingers coordinating fine adjustments."
+      "question": "The loss of energy as heat during a cycle of loading and unloading of articular cartilage is known as:",
+      "options": ["Creep", "Hysteresis", "Plastic deformation", "Elastic recovery"],
+      "answer": "Hysteresis",
+      "explanation": "Hysteresis is the difference in the amount of strain energy stored during loading versus released during unloading. This energy difference is lost as heat and represents the tissue's shock-absorbing capacity."
     }
   ],
   "reference": [
-    "Norkin & Levangie - Joint Structure and Function: A Comprehensive Analysis",
-    "Susan Hall - Basic Biomechanics",
-    "Hamill & Knutzen - Biomechanical Basis of Human Movement"
+    "Norkin, P. K., & Levangie, P. K. (2011). Joint Structure and Function: A Comprehensive Analysis (5th ed.). F.A. Davis Company.",
+    "Mow, V. C., & Huiskes, R. (2005). Basic Orthopaedic Biomechanics and Mechano-Biology (3rd ed.). Lippincott Williams & Wilkins.",
+    "Hamill, J., & Knutzen, K. M. (2008). Biomechanical Basis of Human Movement (3rd ed.). Lippincott Williams & Wilkins."
   ]
 }

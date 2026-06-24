@@ -1,38 +1,38 @@
 {
   "subject": "Biomechanics & Kinesiology",
   "chapterId": "bio_ch4",
-  "chapterName": "Postural Mechanical Analysis",
+  "chapterName": "Muscle Activity & Strength",
   "definition": [
-    "Posture: The structural alignment and relative positioning of body segments in space at any given moment, maintained via balanced neuromuscular activity.",
-    "Line of Gravity (LOG): The imaginary vertical vector projected directly from the body's center of mass center downward toward the earth's base support plane.",
-    "Postural Sway: The normal, continuous micro-oscillations of the body's center of mass centered over the base of support during static, quiet standing.",
-    "Sway Envelope: The path boundary within which the body's center of mass can safely shift during quiet standing without losing balance, normally averaging 12 degrees anteriorly/posteriorly and 16 degrees laterally.",
-    "Forward Head Posture (FHP): A postural misalignment characterized by the anterior positioning of the cervical spine, placing the external auditory meatus anterior to the plumb line.",
-    "Kyphosis-Lordosis Posture: A postural fault presenting with an increased thoracic kyphosis and increased lumbar lordosis, accompanied by an anterior pelvic tilt.",
-    "Sway-Back Posture: A postural deviation where the pelvis shifts anteriorly relative to the ankles, resulting in hip hyperextension, a posterior pelvic tilt, and a compensatory thoracic kyphosis.",
-    "Flat-Back Posture: A postural deviation characterized by a loss of the normal sagittal curve of the lumbar spine, resulting in a flat lumbar appearance and posterior pelvic tilt.",
-    "Scoliosis: A pathological, three-dimensional spinal deformity featuring lateral curvature in the frontal plane, rotational deformity in the transverse plane, and sagittal plane alterations.",
-    "Upper Crossed Syndrome: A muscular imbalance pattern defined by Vladimir Janda, characterized by tight upper trapezius, levator scapulae, and pectorals, paired with weak deep neck flexors and middle/lower trapezius/serratus anterior.",
-    "Lower Crossed Syndrome: A muscular imbalance pattern characterized by tight hip flexors and lumbar extensors, paired with weak rectus abdominis, gluteus maximus, and gluteus medius."
+    "Length-Tension Relationship: The physical relationship between a muscle's sarcomere length and the total tension it can produce, consisting of active tension (cross-bridge overlap) and passive tension (elastic connective tissue stretch).",
+    "Force-Velocity Relationship: The relationship between the velocity of a muscle's contraction and the maximum force it can generate; force decreases as concentric contraction velocity increases, whereas force increases as eccentric contraction velocity increases.",
+    "Concentric Contraction: An active muscle contraction where the tension generated exceeds the external resistance, causing the muscle fibers to shorten and the joint angle to change.",
+    "Eccentric Contraction: An active muscle contraction where the tension generated is less than the external resistance, causing the muscle to actively lengthen as it controls the joint movement.",
+    "Isometric Contraction: An active muscle contraction where the muscle generates tension without any visible change in muscle length or joint angle.",
+    "Active Insufficiency: A state where a multi-joint muscle is shortened across all the joints it crosses simultaneously, placing it at a highly disadvantageous point on the length-tension curve where it is unable to generate sufficient active tension.",
+    "Passive Insufficiency: A state where a multi-joint muscle is stretched across all the joints it crosses simultaneously, reaching its physical limit of extensibility and restricting further joint movement.",
+    "Agonist (Prime Mover): A muscle or muscle group that is directly responsible for producing a specific joint movement.",
+    "Antagonist: A muscle or muscle group that possesses the opposite anatomical action to the agonist, which must relax and lengthen to allow the movement to occur.",
+    "Synergist: A muscle that contracts simultaneously with the agonist to assist in producing the movement or to eliminate unwanted secondary joint actions.",
+    "Neutralizer: A specific muscle that contracts to rule out or neutralize an unwanted movement or secondary action produced by the agonist or synergist.",
+    "Fixator (Stabilizer): A muscle that contracts isometrically to anchor or stabilize a proximal bone or segment, providing a firm base from which a distal muscle can exert force.",
+    "Reciprocal Inhibition: A spinal cord reflex mechanism where the activation of an agonist muscle's motor neurons triggers simultaneous sensory-mediated inhibition and relaxation of the antagonist muscle's motor neurons."
   ],
   "principle": [
-    "Plumb Line Alignment Principle: In an ideal static posture, the plumb line (representing the Line of Gravity) passes through key anatomical landmarks: posterior to the mastoid process, through the shoulder joint, anterior to the S2 vertebra, slightly posterior to the hip joint, slightly anterior to the knee, and slightly anterior to the lateral malleolus.",
-    "Gravitational Torque and Muscle Activity: When the Line of Gravity falls distance from a joint axis, it creates a gravitational torque that tends to bend or rotate that joint. To maintain upright equilibrium, an equal and opposite muscle torque (often tonic or passive) must be generated.",
-    "Janda's Reciprocal Inhibition: Chronic muscle shortness or tightness in helper muscle groups (e.g., iliopsoas) leads to neurological reciprocal inhibition of their functional antagonists (e.g., gluteus maximus), reinforcing a state of muscle imbalance.",
-    "Postural Stability Mechanical Formula: Stability is maximized when: 1) The base of support is large, 2) The center of mass is kept low, and 3) The line of gravity falls close to the center of the base of support."
+    "Sliding Filament Theory and Active Tension: Active muscle tension is directly proportional to the number of active actin-myosin cross-bridge overlaps. At optimal resting length (2.0 to 2.2 micrometers per sarcomere), cross-bridge overlap is maximized, producing peak active force.",
+    "Passive Tension Contribution: When a muscle is stretched beyond its resting length, non-contractile structural proteins (such as titin and connective tissue sheaths like epimysium) are stretched, generating passive elastic tension that contributes to total muscle force.",
+    "Concentric Force-Velocity Mechanics: During concentric shortening, actin-myosin cross-bridges must attach and detach rapidly. At higher velocities, fewer cross-bridges have time to attach simultaneously, resulting in lower force production.",
+    "Eccentric Force-Velocity Mechanics: During eccentric lengthening, the external load forcibly detaches active cross-bridges. This mechanical breaking, combined with passive tissue tension, allows the muscle to generate peak forces at high lengthening velocities.",
+    "Multijoint Insufficiency: The total range of a multi-joint muscle is typically less than the combined range of all joints it crosses. It is limited actively by shortening (active insufficiency) and passively by stretching (passive insufficiency)."
   ],
   "equipment": [
-    "Standard Plumb Line and Postural Assessment Chart grids.",
-    "Swaymeters and computerized posturography systems (Center of Pressure tracking).",
-    "Electronic inclinometers for spinal curve measurements."
+    "Isokinetic Dynamometers for recording force-velocity and torque-angle curves.",
+    "Handheld Dynamometers for measuring peak isometric force.",
+    "Surface Electromyography (sEMG) to monitor agonist-antagonist co-contraction and reciprocal inhibition."
   ],
   "parameters": {
-    "idealLineAnkleLandmark": "Slightly anterior to lateral malleolus",
-    "idealLineKneeLandmark": "Slightly anterior to patella axis (projected)",
-    "idealLineHipLandmark": "Slightly posterior to hip joint center",
-    "idealLineSpineLandmark": "Anterior to S2 vertebra",
-    "swayEnvelopeSagittalPath": "12 degrees total travel",
-    "swayEnvelopeFrontalPath": "16 degrees total travel"
+    "optimalSarcomereLength": "2.0 to 2.2 micrometers for peak active force.",
+    "eccentricPeakForce": "Can be up to 120-140% of maximum isometric force.",
+    "velocityRelationship": "Concentric force decreases hyperbolically as velocity increases."
   },
   "physiologicalEffects": [],
   "indications": [],
@@ -49,208 +49,110 @@
   },
   "precautions": [],
   "clinicalPearls": [
-    "At the ankle joint, the Line of Gravity passes slightly anterior to the joint axis, creating a continuous dorsiflexion torque. To prevent the body from falling forward, the soleus muscle (primarily slow-twitch type I fibers) is tonically active to generate a resisting plantarflexion torque.",
-    "In Forward Head Posture, for every inch the head is displaced anteriorly, the relative mechanical loading on the cervical extensors increases by approximately 10 pounds, leading to chronic myofascial trigger points in the upper trapezius and suboccipitals.",
-    "Structural scoliosis can be clinically differentiated from functional (non-structural) scoliosis using Adam's Forward Bend Test. In structural scoliosis, the lateral curvature persists when the patient bends forward, and a 'rib hump' appears due to vertebral rotation. In functional scoliosis, the curve disappears."
+    "To test the true strength of a multi-joint muscle, place it at its optimal resting length. For example, to test the gastrocnemius, perform ankle plantarflexion with the knee extended, which stretches the muscle proximally to prevent active insufficiency.",
+    "Eccentric contractions are highly efficient. They require fewer motor units and less ATP than concentric contractions to generate the same force, but they produce high mechanical stress, making them the primary cause of delayed onset muscle soreness (DOMS).",
+    "To clinically evaluate passive insufficiency of the hamstrings (Straight Leg Raise test), the knee must be kept fully extended as the hip is flexed. If hip flexion increases significantly when the knee is bent, the hamstrings are passively insufficient.",
+    "The clinical phenomenon of 'tenodesis grasp' in C6 quadriplegic patients exploits passive insufficiency. As they actively extend their wrist, the passive tension in the paralyzed finger flexor muscles automatically pulls the fingers into a functional grip.",
+    "During rapid, high-load resistance training, ensuring proper fixation is critical. If a patient's core stabilizers (fixators) are weak, the biceps brachii will pull the shoulder forward instead of isolating elbow flexion, leading to poor form and potential injury."
   ],
   "clinicalProtocols": [],
   "vivaQuestions": [
-    "Question: Describe the passage of the Line of Gravity relative to joint axes in ideal upright standing. | Answer: In ideal standing alignment, the Line of Gravity passes: 1) Behind the mastoid process, 2) Through the glenohumeral joint center, 3) Anterior to the S2 vertebra, 4) Slightly posterior to the hip joint axis (creating extension torque), 5) Slightly anterior to the knee joint knee axis (creating extension torque), and 6) Slightly anterior to the ankle lateral malleolus (creating dorsiflexion torque). | Examiner Key Points: Landmarks listing, relative positions (anterior/posterior) to hip, knee, ankle axes, resulting torques. | Clinical Importance: Clinicians use these reference landmarks during plumb-line analysis to identify structural deviations and specify which muscle groups are working or fatigued.",
-    "Question: Explain Vladimir Janda's Upper Crossed Syndrome, listing the specific tight and weak muscle groups. | Answer: Upper Crossed Syndrome is a postural muscular imbalance. The tight muscles include the upper trapezius, levator scapulae, and pectoralis major/minor. The weak/inhibited muscles include the deep neck flexors (longus colli, longus capitis), lower trapezius, middle trapezius, and serratus anterior. | Examiner Key Points: Tight muscles list, weak muscles list, postural presentation (rounded shoulders, forward forward head). | Clinical Importance: Guides therapists to stretch the tight pectorals and upper traps while strengthening the deep neck flexors and lower traps, rather than treating localized neck pain alone.",
-    "Question: What is Janda's Lower Crossed Syndrome, and how does it relate to pelvic tilt? | Answer: Lower Crossed Syndrome involves muscle imbalances in the lower segment. The tight muscles include the hip flexors (iliopsoas, rectus femoris) and lumbar extensors (erector spinae). The weak/inhibited muscles include the rectus abdominis, gluteus maximus, and gluteus medius. This imbalance pulls the pelvis into an increased anterior pelvic tilt, leading to facet joint compression and lordosis. | Examiner Key Points: Muscle groups (tight hip flexors/lumbar extensors, weak abs/gluteals), anterior pelvic tilt. | Clinical Importance: Relieving chronic low back pain requires active core strengthening and stretching of tight hip flexors to restore normal pelvic tilt.",
-    "Question: How do you clinically differentiate between structural and functional scoliosis? | Answer: Differentiate using Adam's Forward Bend Test. The patient is asked to bend forward from the waist. In structural scoliosis, the lateral spinal curve remains visible and a rotatory 'rib hump' appears on the convex side due to fixed vertebral rotation. In functional (non-structural) scoliosis, the curve disappears completely and no hump is present. | Examiner Key Points: Adam's Forward Bend Test, persistence vs correction of curve, rib hump presence. | Clinical Importance: Structural scoliosis may require bracing or surgery, whereas functional scoliosis is corrected by addressing muscle imbalances or leg-length discrepancies.",
-    "Question: Why is the soleus muscle continuously active during quiet standing, and what torque is it resisting? | Answer: The Line of Gravity passes slightly anterior to the lateral malleolus, which creates a constant gravitational dorsiflexion moment (torque) that threatens to tip the body forward. To counteract this, the soleus muscle maintains tonic contractile activity, creating a plantarflexion moment that maintains upright ankle balance. | Examiner Key Points: Line of gravity position anterior to ankle, dorsiflexion moment, soleus tonic contraction. | Clinical Importance: Soleus dysfunction or fatigue leads to postural instability, increasing fall risk in neurologically impaired or geriatric patients.",
-    "Question: Describe the postural presentation of a 'Sway-Back' posture, including the pelvis status. | Answer: In Sway-Back posture, the pelvis shifts anteriorly and tilts posteriorly relative to the ankles. This shifts the hips into hyperextension, flattens the lumbar curve, and causes a compensatory increase in thoracic kyphosis and forward head posture to keep the center of gravity over the feet. | Examiner Key Points: Anterior pelvic translation, posterior pelvic tilt, hip hyporextension, kyphosis. | Clinical Importance: Clinicians must strengthen the hip flexors and upper back extensors while avoiding core exercises that flatten the spine further.",
-    "Question: Why does pregnancy or abdominal obesity lead to an anterior pelvic tilt and increased lumbar lordosis? | Answer: The accumulation of weight anteriorly in the pelvic-abdominal region shifts the body's center of mass forward, moving the line of gravity anteriorly. To prevent falling forward, the body compensates by tilting the pelvis anteriorly and increasing lumbar lordosis, which projects the upper trunk backward. | Examiner Key Points: Anterior shift of center of mass, compensatory lumbar lordosis, anterior pelvic tilt. | Clinical Importance: Helps physical therapists design safe maternal exercises focusing on pelvic tilts and back extensor stretching.",
-    "Question: Explain the relationship between posture, muscle fatigue, and ligamentous strain in 'Flat-Back' posture. | Answer: Flat-Back posture involves a loss of the normal shock-absorbing lumbar lordosis, flattening the spine. This places the joints in a flexed posture, loading the posterior longitudinal ligament and joint capsules. Without spinal curves to distribute forces, spinal muscles fatigue and ligaments must absorb shear stresses, leading to chronic low back pain. | Examiner Key Points: Flattened lumbar curve, ligamentous loading, posterior longitudinal ligament strain. | Clinical Importance: Rehabilitation must focus on restoring lumbar mobility and retraining lumbar lordosis through pelvic tilt exercises.",
-    "Question: What is Forward Head Posture (FHP), and what muscles are chronically overloaded? | Answer: FHP is the anterior translation of the head, placing the external auditory meatus anterior to the plumb line. This increases the gravitational moment arm of head weight, overloading the posterior cervical extensors (upper trapezius, levator scapulae, splenius capitis, and suboccipitals) which contract chronically to keep the eyes horizontal. | Examiner Key Points: Auditory meatus position, moment arm increase, overloading of cervical extensors. | Clinical Importance: Chronically tight suboccipitals can compress the greater occipital nerve, causing cervicogenic headaches.",
-    "Question: Define 'postural sway' and 'sway envelope' during quiet standing. | Answer: Postural sway refers to the micro-movements of the center of mass over the base of support during quiet standing. The sway envelope is the maximum angular path (approx 12 deg sagittal, 16 deg coronal) within which the center of mass can shift without the person losing balance or taking a step. | Examiner Key Points: Center of mass adjustments, sway envelope angles, balance limits. | Clinical Importance: Vestibular or balance rehabilitation aims to expand the sway envelope and improve foot center of pressure control."
+    "Question: Describe the Length-Tension relationship of a skeletal muscle, distinguishing between active and passive tension curves. | Answer: The length-tension relationship shows how muscle tension varies with length. Active tension is generated by actin-myosin cross-bridge cycling and forms an inverted U-shape, peaking at optimal resting length (maximum overlap). Passive tension is generated by stretching non-contractile connective tissues (titin, fascia) and rises exponentially as the muscle is stretched beyond resting length. Total tension is the sum of active and passive tension. | Examiner Key Points: Inverted-U active curve, exponential passive curve, resting length, cross-bridge overlap, titin contribution. | Clinical Importance: Explains why muscles are weakest when excessively shortened or stretched, guiding the therapist in positioning joints during strength testing.",
+    "Question: Explain the Force-Velocity relationship for both concentric and eccentric contractions. | Answer: During concentric contractions, force and velocity are inversely related; as the shortening velocity increases, maximum force decreases hyperbolically because cross-bridges cannot form quickly enough. During eccentric contractions, force and velocity are directly related; as lengthening velocity increases, force increases and plateaus (up to 1.4 times isometric force) because the mechanical force required to break cross-bridges is added to the passive tissue tension. | Examiner Key Points: Inverse concentric relationship, direct/plateau eccentric relationship, cross-bridge attachment kinetics, mechanical break. | Clinical Importance: Guides speed-specific training, explaining why eccentric exercises are highly effective for hypertrophy but induce greater muscle soreness.",
+    "Question: Define Active Insufficiency and provide a clear anatomical example in the lower extremity. | Answer: Active insufficiency occurs in a multi-joint muscle when it is shortened across all the joints it crosses simultaneously, placing the muscle at such a short length on the length-tension curve that it cannot generate sufficient contractile force. A classic example is the hamstrings: if a patient attempts terminal knee flexion while the hip is fully hyperextended, they will experience a sudden drop in knee flexion force or cramping. | Examiner Key Points: Multi-joint muscle, fully shortened, poor tension generation, hip hyperextension + knee flexion example. | Clinical Importance: Guides the therapist to avoid placing target muscles in active insufficiency during manual muscle testing (MMT) to prevent false-negative weakness findings.",
+    "Question: Define Passive Insufficiency and explain the clinical concept of Tenodesis using a C6 spinal cord injury patient. | Answer: Passive insufficiency occurs when a multi-joint muscle is stretched across all its joints simultaneously, reaching its physical limit of extensibility and restricting joint range of motion. C6 spinal cord injury patients exploit this: they lack active finger flexion but have active wrist extension. When they actively extend their wrist, passive insufficiency of the long finger flexors (stretched across the wrist) pulls the fingers into a passive flexion, creating a functional grip (tenodesis grasp). | Examiner Key Points: Fully stretched multi-joint muscle, range limitation, tenodesis grasp mechanism, wrist extension/finger flexion. | Clinical Importance: Allows therapists to preserve long finger flexor tightness in quadriplegics to maintain functional grasp capabilities.",
+    "Question: Explain the physiological role of Reciprocal Inhibition during movement, and give a clinical example. | Answer: Reciprocal inhibition is a spinal reflex where motor impulses stimulating an agonist muscle (e.g., biceps brachii) simultaneously send inhibitory signals via interneurons to relax the antagonist muscle (e.g., triceps brachii). This prevents the antagonist from resisting the agonist's movement, ensuring smooth and efficient joint motion. | Examiner Key Points: Agonist excitation, interneuron-mediated antagonist inhibition, reflex loop, smooth movement. | Clinical Importance: Inhibited or impaired reciprocal inhibition leads to co-contraction and joint stiffness, a common feature in spastic cerebral palsy or stroke.",
+    "Question: What is a muscle synergist, and how does a neutralizer differ from a fixator? | Answer: A synergist is any muscle that contracts to assist the agonist in producing movement. A neutralizer is a specific muscle that contracts to eliminate an unwanted secondary action of the agonist (e.g., pronator teres neutralizing the supinating action of the biceps during elbow flexion). A fixator is a muscle that contracts isometrically to anchor or stabilize a proximal bone, creating a solid base for distal movements (e.g., middle trapezius stabilizing the scapula during shoulder movements). | Examiner Key Points: Synergist definition, neutralizer vs fixator, anatomical examples. | Clinical Importance: Explains why weakness in stabilizer muscles leads to compensatory movements and pathomechanical joint strain.",
+    "Question: Why do eccentric contractions generate more tension than concentric contractions with less ATP consumption? | Answer: During eccentric contraction, the muscle is actively resisting lengthening, meaning the external force physically breaks the actin-myosin cross-bridges rather than sliding them chemically. This mechanical detachment does not require ATP to break the bond, and the passive elastic tension of non-contractile proteins (titin, collagen) is added to the active tension, yielding high forces at a low metabolic cost. | Examiner Key Points: Mechanical cross-bridge rupture, passive tension contribution, lower ATP usage. | Clinical Importance: Explains why eccentric training is highly effective for eccentric muscle strengthening and tendon rehabilitation (e.g., Achilles tendinopathy).",
+    "Question: How does the rectus femoris exhibit active and passive insufficiency during clinical evaluation? | Answer: The rectus femoris is a two-joint muscle crossing the hip and knee. It exhibits active insufficiency during combined hip flexion and knee extension (e.g., a straight leg raise), where it becomes too short to produce peak knee extension torque. It exhibits passive insufficiency during combined hip extension and knee flexion (e.g., Ely's test), where its extreme tightness limits knee flexion range. | Examiner Key Points: Rectus femoris, active (hip flex/knee extend), passive (hip extend/knee flex). | Clinical Importance: Helps the clinician design specific tests to isolate rectus femoris tightness from hip flexor or quadriceps weakness.",
+    "Question: What is delayed onset muscle soreness (DOMS), and which type of contraction is primarily responsible for it? | Answer: DOMS is muscle pain, stiffness, and tenderness that peaks 24 to 72 hours after unaccustomed physical activity. It is primarily caused by eccentric contractions, which generate high localized mechanical stresses on the sarcolemma and extracellular matrix, leading to microscopic tissue damage and subsequent inflammatory healing. | Examiner Key Points: Peak 24-72 hours, mechanical microtrauma, eccentric contraction. | Clinical Importance: Educating patients about DOMS after initiating eccentric loading protocols is crucial for maintaining compliance and managing expectations.",
+    "Question: Why is a muscle weakest at its extremely shortened and extremely lengthened ranges of motion? | Answer: At an extremely shortened length, actin and myosin filaments overlap and interfere with each other, and the Z-discs compress the myosin, preventing further cross-bridge formation. At an extremely lengthened length, the actin and myosin filaments are pulled too far apart, leaving very few overlapping sites for cross-bridges to form. In both states, active force-generating capacity is minimized. | Examiner Key Points: Extreme shortening (filament overlap/compression), extreme lengthening (insufficient actin-myosin overlap). | Clinical Importance: Guides the therapist to strengthen muscles in their mid-range before progressing to end-range strengthening."
   ],
   "mcqs": [
     {
-      "question": "In ideal upright posture, the relative position of the Line of Gravity (LOG) to the ankle joint axis is:",
-      "options": ["Directly through the lateral malleolus", "Slightly anterior to the lateral malleolus", "Slightly posterior to the lateral malleolus", "Medial to the medial malleolus"],
-      "answer": "Slightly anterior to the lateral malleolus",
-      "explanation": "In an ideal posture, the LOG passes slightly anterior to the lateral malleolus of the ankle, creating a continuous external dorsiflexion moment."
+      "question": "The active tension generated by a muscle fiber reaches its absolute peak when the sarcomere length is:",
+      "options": [
+        "Fully shortened, causing maximum Z-disc compression",
+        "At its optimal resting length, maximizing actin-myosin cross-bridge overlap",
+        "Fully stretched, maximizing passive connective tissue tension",
+        "Unrelated to the sarcomere length"
+      ],
+      "answer": "At its optimal resting length, maximizing actin-myosin cross-bridge overlap",
+      "explanation": "Active tension relies on cross-bridge cycling. It reaches its peak at optimal resting length (typically 2.0 to 2.2 micrometers) where there is a maximum number of overlapping actin-myosin sites."
     },
     {
-      "question": "Which of the following postural faults features an increased lumbar lordosis, increased thoracic kyphosis, and an anterior pelvic tilt?",
-      "options": ["Flat-Back Posture", "Sway-Back Posture", "Kyphosis-Lordosis Posture", "Military Posture"],
-      "answer": "Kyphosis-Lordosis Posture",
-      "explanation": "Kyphosis-lordosis posture is characterized by an increase in both sagittal curves of the spine (thoracic kyphosis and lumbar lordosis), combined with an anterior pelvic tilt."
+      "question": "According to the force-velocity relationship, as the velocity of a concentric contraction increases, the maximum force the muscle can generate:",
+      "options": ["Increases linearly", "Decreases", "Remains constant", "Increases exponentially"],
+      "answer": "Decreases",
+      "explanation": "For concentric contractions, force is inversely related to velocity; as the shortening velocity increases, the maximum force decreases because cross-bridges do not have sufficient time to attach."
     },
     {
-      "question": "The continuous micro-oscillations of the body's center of mass during quiet, static standing are termed:",
-      "options": ["Dynamic equilibrium", "Postural sway", "Ataxic oscillation", "Linear translation"],
-      "answer": "Postural sway",
-      "explanation": "Postural sway describes the small, natural adjustments of the center of mass over the base of support during static standing."
+      "question": "Which type of muscle contraction is characterized by active lengthening under load, generating high forces at a low metabolic cost?",
+      "options": ["Isometric Contraction", "Concentric Contraction", "Eccentric Contraction", "Isokinetic Contraction"],
+      "answer": "Eccentric Contraction",
+      "explanation": "Eccentric contractions occur as a muscle actively lengthens to control an external load. They generate higher forces at lower metabolic costs because mechanical tension is added to the active tension."
     },
     {
-      "question": "According to Janda's Upper Crossed Syndrome, which of the following muscles is typically weak/inhibited?",
-      "options": ["Pectoralis Major", "Levator Scapulae", "Upper Trapezius", "Deep Cervical Flexors"],
-      "answer": "Deep Cervical Flexors",
-      "explanation": "In Upper Crossed Syndrome, the deep cervical flexors (and lower stabilizers of the scapula) are weak, while the pectorals and upper neck extensors are tight."
+      "question": "Active insufficiency of a multi-joint muscle is characterized by:",
+      "options": [
+        "Inability to actively shorten further, leading to decreased force generation",
+        "Inability to stretch further, limiting passive joint range of motion",
+        "Continuous high contractile tension at short lengths",
+        "A sudden increase in ATP consumption"
+      ],
+      "answer": "Inability to actively shorten further, leading to decreased force generation",
+      "explanation": "Active insufficiency occurs when a multi-joint muscle is shortened over all its joints simultaneously, leaving it too short to generate effective active contractile force."
     },
     {
-      "question": "In Janda's Lower Crossed Syndrome, which muscular imbalance pair is typically present?",
-      "options": ["Tight abductors and weak adductors", "Tight hip flexors and weak gluteals", "Tight hamstrings and weak quadriceps", "Tight abdominals and weak lumbar extensors"],
-      "answer": "Tight hip flexors and weak gluteals",
-      "explanation": "Lower Crossed Syndrome involves tight hip flexors (iliopsoas, rectus femoris) and lumbar extensors paired with weak deep abdominals and gluteus maximus/medius."
+      "question": "Passive insufficiency of the long finger flexor muscles can be clinically demonstrated by which of the following actions?",
+      "options": [
+        "Wrist flexion and finger extension",
+        "Active wrist extension causing passive finger flexion (Tenodesis)",
+        "Passive wrist flexion allowing full finger extension",
+        "None of the above"
+      ],
+      "answer": "Active wrist extension causing passive finger flexion (Tenodesis)",
+      "explanation": "Active wrist extension stretches the long finger flexor tendons over the wrist joint. This passive tension forces the fingers to flex passively, a classic demonstration of passive insufficiency (tenodesis grasp)."
     },
     {
-      "question": "Which clinical assessment test is used to differentiate between structural and functional scoliosis?",
-      "options": ["Trendelenburg Test", "Adam's Forward Bend Test", "Thomas Test", "Ely's Test"],
-      "answer": "Adam's Forward Bend Test",
-      "explanation": "Adam's Forward Bend Test is the diagnostic standard; curves in structural scoliosis persist on bending and show a rib hump, while functional curves disappear."
+      "question": "A muscle that contracts to eliminate an unwanted joint action produced by the prime mover is classified as a:",
+      "options": ["Agonist", "Neutralizer", "Fixator", "Antagonist"],
+      "answer": "Neutralizer",
+      "explanation": "A neutralizer is a muscle that contracts to prevent or eliminate an unwanted secondary movement or action generated by the agonist or prime mover."
     },
     {
-      "question": "The tonic postural muscle activity that prevents the body from falling forward due to ankle gravitational torque is provided by:",
-      "options": ["Tibialis Anterior", "Soleus", "Rectus Femoris", "Biceps Femoris"],
-      "answer": "Soleus",
-      "explanation": "Since the LOG falls anterior to the ankle, creating a dorsiflexion moment, the soleus maintains tonic plantarflexor activity to pull the body back toward equilibrium."
+      "question": "During elbow flexion, the biceps brachii acts as the prime mover, while the middle trapezius and rhomboids contract to hold the scapula stable. The middle trapezius and rhomboids are acting as:",
+      "options": ["Antagonists", "Neutralizers", "Fixators (Stabilizers)", "Synergists"],
+      "answer": "Fixators (Stabilizers)",
+      "explanation": "Fixators are muscles that contract isometrically to anchor or stabilize a proximal bone (the scapula in this case), creating a stable base from which the distal muscles can work."
     },
     {
-      "question": "A posture characterized by an anterior displacement of the pelvis, hip hyperextension, posterior pelvic tilt, and thoracic kyphosis is:",
-      "options": ["Flat-Back Posture", "Sway-Back Posture", "Kyphosis-Lordosis Posture", "Scoliotic Posture"],
-      "answer": "Sway-Back Posture",
-      "explanation": "Sway-back posture is characterized by anterior pelvic translation, a posterior pelvic tilt, hip hyperextension, a long kyphosis, and a forward head."
+      "question": "Which neural mechanism causes the antagonist muscle to relax when the agonist muscle is actively contracted?",
+      "options": ["Autogenic Inhibition", "Reciprocal Inhibition", "Stretch Reflex", "Gamma Bias Loop"],
+      "answer": "Reciprocal Inhibition",
+      "explanation": "Reciprocal inhibition is a spinal cord reflex where excitation of an agonist's motor neurons triggers simultaneous inhibitory interneurons to relax the antagonist muscle's motor neurons."
     },
     {
-      "question": "In Forward Head Posture, the external auditory meatus is positioned:",
-      "options": ["Directly on the ideal plumb line", "Posterior to the ideal plumb line", "Anterior to the ideal plumb line", "Inferior to the shoulder axis"],
-      "answer": "Anterior to the ideal plumb line",
-      "explanation": "Forward head posture is defined by the head translating anteriorly, which positions the external auditory meatus anterior to the plumb line."
+      "question": "Delayed Onset Muscle Soreness (DOMS) is most severely induced by which of the following?",
+      "options": [
+        "High-velocity concentric training",
+        "High-tension eccentric training",
+        "Sustained isometric holds in the mid-range",
+        "Passive static stretching"
+      ],
+      "answer": "High-tension eccentric training",
+      "explanation": "Eccentric contractions generate massive localized mechanical stresses per active motor unit, leading to microtrauma in muscle fibers and structural proteins, which triggers DOMS."
     },
     {
-      "question": "An anterior pelvic tilt is biomechanically produced by co-contraction of which tight muscle groups?",
-      "options": ["Abdominals and Hamstrings", "Hip Flexors and Lumbar Extensors", "Gluteals and Quadriceps", "Obliques and Adductors"],
-      "answer": "Hip Flexors and Lumbar Extensors",
-      "explanation": "An anterior pelvic tilt is produced by tight hip flexors pulling down on the pelvis and tight lumbar extensors pulling up on the posterior pelvis."
-    },
-    {
-      "question": "In structural scoliosis, a prominent rib hump appears on:",
-      "options": ["The concave side of the spinal curvature", "The convex side of the spinal curvature", "The anterior neck region", "Both sides of the spine equally"],
-      "answer": "The convex side of the spinal curvature",
-      "explanation": "Fixed vertebral rotation in structural scoliosis rotates the vertebral bodies toward the convexity, pushing the ribs backward on that side to form a rib hump."
-    },
-    {
-      "question": "Which of the following ligaments of the hip is put on stretch and provides static stability in Sway-Back hyper-extended hips?",
-      "options": ["Iliofemoral Ligament (Y-ligament of Bigelow)", "Ligamentum Teres", "Ischiofemoral Ligament", "Pubofemoral Ligament"],
-      "answer": "Iliofemoral Ligament (Y-ligament of Bigelow)",
-      "explanation": "The iliofemoral ligament is the strongest ligament in the hip, stretching during extension and stabilizing hyperextended hips in sway-back posture."
-    },
-    {
-      "question": "Loss of normal lumbar lordosis is a defining feature of which postural deviation?",
-      "options": ["Kyphosis-Lordosis Posture", "Flat-Back Posture", "Forward Head Posture", "Genu Recurvatum"],
-      "answer": "Flat-Back Posture",
-      "explanation": "Flat-back posture is defined by a flattened lumbar spine, representing a reduction or complete loss of normal lumbar lordosis, combined with a posterior pelvic tilt."
-    },
-    {
-      "question": "In lower crossed syndrome, reciprocal inhibition from hyper-tonic hip flexors leads to the weakness/inhabitation of:",
-      "options": ["Gluteus Maximus", "Erector Spinae", "Rectus Femoris", "Tensor Fasciae Latae"],
-      "answer": "Gluteus Maximus",
-      "explanation": "Tight, overactive hip flexors neurally inhibit their primary antagonists, the gluteus maximus, leading to gluteal weakness and dysfunction."
-    },
-    {
-      "question": "In Adam's Forward Bend Test, the rib hump becomes prominent specifically due to:",
-      "options": ["Lateral tilting of the pelvis", "Fixed vertebral rotation in the transverse plane", "Tightness of the iliocostalis muscle", "A leg length discrepancy"],
-      "answer": "Fixed vertebral rotation in the transverse plane",
-      "explanation": "Structural scoliosis involves lateral curvature paired with horizontal vertebral rotation, which rotates the ribs posteriorly on the convex side of the curve."
-    },
-    {
-      "question": "The lateral postural plumb line boundary within which a quiet standing adult can sway without losing balance is called the:",
-      "options": ["Convexity curve", "Postural limit of stability", "Sway envelope", "Center of pressure boundary"],
-      "answer": "Sway envelope",
-      "explanation": "The sway envelope defines the boundaries of postural sway (about 12 degrees sagittal and 16 degrees frontal) when maintaining upright balance."
-    },
-    {
-      "question": "An abnormally large kyphosis of the thoracic spine is commonly termed:",
-      "options": ["Swayback", "Round back or hunchback", "Flatback", "Scoliotic curve"],
-      "answer": "Round back or hunchback",
-      "explanation": "An increased thoracic kyphosis presents as a rounded upper back, often accompanied by forward head posture and rounded shoulders."
-    },
-    {
-      "question": "Which muscular imbalance is associated with Vladimir Janda's Upper Crossed Syndrome?",
-      "options": ["Tight sternocleidomastoid and weak pectorals", "Tight upper trapezius and weak deep neck flexors", "Tight rhomboids and weak levator scapulae", "Tight serratus anterior and weak subscapularis"],
-      "answer": "Tight upper trapezius and weak deep neck flexors",
-      "explanation": "Upper Crossed Syndrome pairs tight upper trapezius and levator scapulae with weak deep neck flexors and lower scapular stabilizers."
-    },
-    {
-      "question": "In quiet standing, the Line of Gravity passes slightly posterior to which of the following joints?",
-      "options": ["Ankle Joint", "Knee Joint", "Hip Joint", "Subtalar Joint"],
-      "answer": "Hip Joint",
-      "explanation": "The ideal line of gravity passes slightly posterior to the hip joint axis, producing a passive extension torque stabilized by the anterior joint capsule."
-    },
-    {
-      "question": "For a patient presenting with an anterior pelvic tilt, the most appropriate therapeutic intervention targets:",
-      "options": ["Stretching the abdominals and strengthening the hip flexors", "Stretching the hip flexors and strengthening the gluteals/abdominals", "Strengthening the erector spinae and stretching the gluteus maximus", "Strengthening the quadriceps and stretching of the hamstrings"],
-      "answer": "Stretching the hip flexors and strengthening the gluteals/abdominals",
-      "explanation": "Correcting anterior pelvic tilt requires lengthening tight muscles (hip flexors, lumbar extensors) and strengthening weak muscles (gluteals, abdominals)."
-    },
-    {
-      "question": "Rounded shoulders deformity is primarily characterized by:",
-      "options": ["Scapular retraction", "Protraction and anterior tilting of the scapula", "Permanent elevation of the clavicle", "Lateral rotation of the humerus"],
-      "answer": "Protraction and anterior tilting of the scapula",
-      "explanation": "Rounded shoulders features tight pectoralis minor and serratus muscle fibers, which pull the scapulae into protraction, downward rotation, and anterior tilting."
-    },
-    {
-      "question": "Which of the following describes structural scoliosis?",
-      "options": ["The curve disappears during Adam's bend test", "The lateral curve is highly flexible and caused by muscle spasms", "The spinal curvature is fixed and accompanied by rib hump on forward bending", "It is usually resolved by treating leg length discrepancies"],
-      "answer": "The spinal curvature is fixed and accompanied by rib hump on forward bending",
-      "explanation": "Structural scoliosis is a fixed, non-reducible deformity of the spine with transverse plane vertebral rotation, producing a prominent rib hump."
-    },
-    {
-      "question": "In flat-back posture, the pelvis is positioned in an abnormal:",
-      "options": ["Anterior pelvic tilt", "Posterior pelvic tilt", "Lateral pelvic tilt", "Rotary tilt"],
-      "answer": "Posterior pelvic tilt",
-      "explanation": "Flat-back posture is characterized by a flattened lumbar lordosis and a posterior pelvis tilt, rotating the pelvis backward."
-    },
-    {
-      "question": "The sagittal plane sway envelope of a standing healthy adult typically spans an anterior-posterior angle of:",
-      "options": ["4 degrees", "8 degrees", "12 degrees", "24 degrees"],
-      "answer": "12 degrees",
-      "explanation": "In normal individuals, the front-to-back limits of postural sway (the sagittal sway envelope) span an angle of approximately 12 degrees."
-    },
-    {
-      "question": "A frontal plane postural deviation where the knees are bent abnormally outward is medically termed:",
-      "options": ["Genu Valgum", "Genu Varum", "Genu Recurvatum", "Coxa Vara"],
-      "answer": "Genu Varum",
-      "explanation": "Genu varum (bow-legs) is a frontal-plane deformity where the knees project excessively lateral/outward, bowing the lower limbs."
-    },
-    {
-      "question": "Genu valgum (knock-knees) is a frontal-plane postural deviation where the knees:",
-      "options": ["Project backward excessively", "Project inward toward each other", "Project outward away from each other", "Rotate externally"],
-      "answer": "Project inward toward each other",
-      "explanation": "Genu valgum is a medial alignment deviation of the knees, causing them to touch or angle inward ('knock-knees')."
-    },
-    {
-      "question": "Postural instability in the sagittal plane is highly elevated when:",
-      "options": ["The line of gravity falls slightly anterior to S2", "The line of gravity shifts outside the boundaries of the base of support", "The center of mass shifts inferiorly", "The base of support is widened"],
-      "answer": "The line of gravity shifts outside the boundaries of the base of support",
-      "explanation": "Static balance is compromised when the vertical line of gravity moves outside the margins of the Base of Support, triggering a corrective step or fall."
-    },
-    {
-      "question": "Which of the following muscles is a primary target to strengthen in Upper Crossed Syndrome?",
-      "options": ["Upper Trapezius", "Levator Scapulae", "Middle and Lower Trapezius", "Pectoralis Major"],
-      "answer": "Middle and Lower Trapezius",
-      "explanation": "In Upper Crossed Syndrome, the middle and lower trapezius (and serratus anterior) are lengthened and weak, necessitating strength work to retrain retraction."
-    },
-    {
-      "question": "In quiet standing, the ideal Line of Gravity passes slightly anterior to which joint axis?",
-      "options": ["Hip joint joint axis", "Knee joint axis and ankle ankle axis", "Cervical spine joints", "None of the above"],
-      "answer": "Knee joint axis and ankle ankle axis",
-      "explanation": "To maintain passive stability, the ideal LOG passes slightly anterior to the knee joint center and ankle joint center."
-    },
-    {
-      "question": "What is the primary visual cue of scoliosis seen from a posterior view?",
-      "options": ["Abnormal pelvic rotation only", "Asymmetric shoulder heights, scapular prominence, and waist crease asymmetry", "Loss of cervical alignment", "Severe lordosis"],
-      "answer": "Asymmetric shoulder heights, scapular prominence, and waist crease asymmetry",
-      "explanation": "Posterior assessment of structural scoliosis reveal clear asymmetry in shoulder heights, scapular angles, pelvic heights, and lateral waist creases."
+      "question": "Passive tension in a skeletal muscle is primarily generated by stretching which structural protein?",
+      "options": ["Actin", "Myosin", "Titin", "Troponin"],
+      "answer": "Titin",
+      "explanation": "Titin is a massive elastic structural protein in sarcomeres that behaves like a molecular spring, generating passive tension when the muscle is stretched beyond its resting length."
     }
   ],
   "reference": [
-    "Norkin & Levangie - Joint Structure and Function: A Comprehensive Analysis",
-    "Hamill & Knutzen - Biomechanical Basis of Human Movement",
-    "Susan Hall - Basic Biomechanics"
+    "Neumann, D. A. (2016). Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation (3rd ed.). Elsevier.",
+    "Houglum, P. A., & Bertoti, D. B. (2012). Brunnstrom's Clinical Kinesiology (6th ed.). F.A. Davis Company.",
+    "Norkin, P. K., & Levangie, P. K. (2011). Joint Structure and Function: A Comprehensive Analysis (5th ed.). F.A. Davis Company."
   ]
 }

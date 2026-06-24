@@ -1,0 +1,233 @@
+{
+  "subject": "Biomechanics & Kinesiology",
+  "chapterId": "bio_ch8",
+  "chapterName": "Head, Neck, Trunk & Posture",
+  "definition": [
+    "Vertebral Column: A flexible, segmented biomechanical pillar consisting of 33 vertebrae (24 articulating), serving to protect the spinal cord, transmit weight from the head and trunk to the pelvis, and provide mobility for the head and torso.",
+    "Cervical Spine: The most mobile region of the vertebral column, consisting of an atypical upper cervical spine (occiput-C1-C2) specializing in rotation, and a typical lower cervical spine (C3-C7) facilitating flexion, extension, and coupled lateral flexion.",
+    "Thoracic Spine: The least mobile region of the true spine, characterized by long downward-pointing spinous processes and costal facets for rib articulations, forming a rigid protective cage for cardiopulmonary organs.",
+    "Lumbar Spine: The massive, load-bearing region of the lower spine, characterized by large vertebral bodies and sagittal-plane facet joints that permit significant flexion and extension while strongly resisting rotation.",
+    "Intervertebral Disc (IVD): A specialized fibrocartilaginous joint between vertebral bodies, consisting of a central gelatinous fluid-retaining core (Nucleus Pulposus) surrounded by concentric layers of tough fibrocartilage (Anulus Fibrosus).",
+    "Pelvic Girdle: A rigid osteoarticular ring formed by the sacrum and paired innominate bones (ilium, ischium, pubis), functioning as the keystone arch that transfers body weight from the axial skeleton to the lower extremities.",
+    "Anterior Pelvic Tilt: A sagittal plane movement where the anterior superior iliac spines (ASIS) move anteriorly and inferiorly, resulting in an obligatory increase in lumbar lordosis to maintain the head over the sacrum.",
+    "Posterior Pelvic Tilt: A sagittal plane movement where the ASIS move posteriorly and superiorly, resulting in a flattening or decrease of the natural lumbar lordosis.",
+    "Pump Handle Motion: The biomechanical elevation of the upper ribs (Ribs 1-6) during inspiration, which moves the sternum upward and forward, primarily increasing the anteroposterior (A-P) diameter of the thoracic cavity.",
+    "Bucket Handle Motion: The biomechanical elevation of the lower ribs (Ribs 7-10) during inspiration, which swings the lateral rib shafts upward and outward, primarily increasing the transverse (lateral) diameter of the thoracic cavity.",
+    "Temporomandibular Joint (TMJ): A bilateral, synovial, modified hinge joint separated by an articular disc into an upper compartment (for translation) and a lower compartment (for rotation), governing jaw mechanics.",
+    "Posture: The composite dynamic or static alignment of the various body segments relative to each other and to gravity, optimizing biomechanical efficiency and minimizing stress on supporting tissues.",
+    "Line of Gravity (LOG): An imaginary vertical plumb line passing through the body's center of gravity (anterior to S2). In ideal posture, it passes through the mastoid process, anterior to the second sacral vertebra, slightly posterior to the hip joint, and slightly anterior to the knee and ankle joints.",
+    "Forward Head Posture (Uppers Crossed Syndrome): A common postural deviation characterized by lower cervical flexion, upper cervical (suboccipital) hyperextension, protracted scapulae, and tight suboccipital/pectoral muscles combined with weak deep neck flexors/rhomboids.",
+    "Sway-Back Posture: A postural deviation characterized by a posterior displacement of the upper trunk, a forward shift of the pelvis (relative to the feet), hyperextension of the hips and knees, and a flattening of the lower lumbar lordosis, which places heavy reliance on passive ligamentous tension (iliofemoral ligament) for stability.",
+    "Flat-Back Posture: A postural deviation characterized by a posterior pelvic tilt, decreased lumbar lordosis (flattened lower back), and hip extension, reducing the spine's shock-absorbing capacity and predisposing the intervertebral discs to high compressive loading.",
+    "Fryette's Laws of Spinal Motion: Three biomechanical rules governing spinal kinematics: Law I states that in neutral spine, lateral flexion and rotation occur in opposite directions; Law II states that in non-neutral spine (flexion/extension), lateral flexion and rotation occur in the same direction; Law III states that movement in any one plane reduces available motion in the other two planes.",
+    "Cobb Angle: The standard radiographic measurement used to quantify the magnitude of lateral spinal curvature in scoliosis, calculated by drawing lines parallel to the superior endplate of the upper end-vertebra and the inferior endplate of the lower end-vertebra of the curve.",
+    "TMJ Close-Packed Position: The position of maximum congruency of the temporomandibular joint, occurring when the teeth are tightly clenched, presenting maximum resistance to external forces and zero joint play.",
+    "TMJ Loose-Packed (Resting) Position: The resting posture of the jaw, characterized by the mouth being slightly open, lips together, and teeth not in contact (freeway space of 2-4 mm), maximizing joint play and minimizing joint stress.",
+    "TMJ Capsular Pattern: The characteristic restriction pattern of the temporomandibular joint capsule, presenting as a severe limitation of mouth opening (mandibular depression) with a deviation to the affected side during attempt."
+  ],
+  "principle": [
+    "Facet Joint Orientation: Spinal regional mobility is dictated by the spatial orientation of the zygapophyseal (facet) joints. Cervical facets are angled at 45 degrees, allowing movement in all planes. Thoracic facets lie primarily in the frontal plane, favoring lateral flexion but restricted by ribs. Lumbar facets lie in the sagittal plane, favoring large amplitude flexion/extension but heavily blocking axial rotation.",
+    "Coupled Spinal Motions: Due to facet geometry and intact spinal ligaments, certain spinal motions cannot occur in isolation. In the cervical and lumbar spine, lateral flexion is mechanically coupled with axial rotation (Fryette's Laws), meaning the vertebrae automatically rotate when bent to the side.",
+    "Disc Loading Mechanics (Hydrostatic Principle): The nucleus pulposus acts as an incompressible fluid ball. During spinal flexion, the anterior anulus compresses and the nucleus deforms posteriorly, stretching the posterior anulus. Extension reverses this, pushing the nucleus anteriorly.",
+    "Spinal Rotation and Disc Vulnerability: During axial rotation, only half of the oblique annular fibers are taut while the other half become slack. This means the intervertebral disc loses 50% of its mechanical resistance to shear during twisting, making combined flexion and rotation the most dangerous mechanism for disc herniation.",
+    "Sacroiliac Force Transmission: The sacrum acts as an inverted keystone suspended by massive interosseous and sacroiliac ligaments. Weight from the lumbar spine pushes the sacral base anteriorly and inferiorly (nutation), tightening the ligaments and perfectly locking the pelvis for weight-bearing stability.",
+    "TMJ Arthrokinematics of Mouth Opening: Opening the jaw involves a highly synchronized two-phase motion. The initial phase is pure rotation of the mandibular condyle within the lower joint compartment. The second phase is anterior translation of the condyle and disc complex together down the articular eminence in the upper compartment.",
+    "Respiratory Biomechanics: Normal quiet inspiration is driven primarily by the active downward contraction of the diaphragm dome, creating negative intrathoracic pressure. Expiration at rest is a purely passive process driven by the elastic recoil of the lungs and relaxation of the diaphragm.",
+    "Rib Angle Orientation: The axis of rotation of the ribs changes from the upper to lower thorax. Upper ribs have a coronal axis (favoring sagittal pump-handle motion), while lower ribs have a sagittal axis (favoring coronal bucket-handle motion).",
+    "Pathomechanics of Sway-Back Posture: The forward shift of the pelvis in sway-back posture places the hip joints in extreme hyperextension. This allows the body weight vector to fall posterior to the hip joints, loading the non-contractile iliofemoral ligament (Y-ligament of Bigelow) which passively stabilizes the pelvis, leading to gluteal and abdominal muscle atrophy over time.",
+    "Application of Fryette's Laws: According to Fryette's first law, when any segment of the thoracic or lumbar spine is in a neutral (non-flexed, non-extended) position, lateral flexion and rotation occur in opposite directions (e.g., sidebending right causes rotation left). According to the second law, when the spine is in a non-neutral position (flexion or extension), lateral flexion and rotation occur to the same side (e.g., sidebending right during flexion causes rotation right).",
+    "Biomechanics of Scoliotic Rib Hump: In structural scoliosis, lateral deviation is accompanied by an obligatory vertebral rotation where the vertebral body rotates toward the side of convexity. This rotation forces the spinous process toward the concavity, which pushes the rib cage on the convex side posteriorly and superiorly, creating the visible 'rib hump' during forward bending.",
+    "TMJ Arthrokinematic Restrictions: Under a TMJ capsular pattern, unilateral tightness of the joint capsule limits anterior translation in the upper joint compartment during jaw opening. Since translation is restricted on the affected side but continues normally on the unaffected side, the mandible deviates toward the tight/affected side at the end of mouth opening."
+  ],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Most intervertebral disc prolapses occur in the posterolateral direction because the posterior longitudinal ligament (PLL) tapers and becomes very narrow in the lower lumbar spine, leaving the posterolateral corners of the anulus fibrosus structurally unsupported.",
+    "When a patient presents with 'Forward Head Posture', they must hold their upper cervical spine (occiput on C1) in extreme extension to keep their eyes level with the horizon, which chronically shortens the suboccipital muscles and commonly triggers cervicogenic headaches.",
+    "In TMJ dysfunction, an early 'click' upon opening indicates an anteriorly displaced articular disc being recaptured by the condyle. A reciprocal late 'click' upon closing indicates the condyle slipping back off the posterior edge of the disc.",
+    "During clinical lifting, holding a weight far away from the body drastically increases the external moment arm, which requires the erector spinae muscles to contract with immense force, leading to dangerously high compressive loads on the lumbar discs.",
+    "Structural scoliosis is named by the side of the spinal convexity. The vertebral bodies rotate toward the convex side, which pushes the ribs posteriorly on that side, creating the classic 'rib hump' seen during the Adam's Forward Bend Test.",
+    "When evaluating TMJ dysfunction, if a patient presents with unilateral capsular restriction, their jaw will deviate toward the restricted side during mouth opening due to the failure of that condyle to slide anteriorly. Testing the loose-packed position (mouth slightly open) is crucial to assess early accessory joint play without clenching stress.",
+    "In individuals with flat-back or sway-back postures, standard lumbar extension mobilization should be performed with caution. While sway-back presents with a flat lower lumbar spine, the upper lumbar or thoreolumbar segments are often hypermobile, requiring segment-specific stabilization rather than global flexibility exercises."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "Question: Explain how the orientation of the zygapophyseal (facet) joints dictates the permitted movements in the cervical, thoracic, and lumbar spine. | Answer: Cervical facets are oriented at 45 degrees between frontal and horizontal planes, permitting free motion in all directions. Thoracic facets are mainly in the frontal plane, which would permit lateral flexion, but they are restricted by the rib cage. Lumbar facets are aligned in the sagittal plane, which heavily favors flexion and extension but almost completely physically blocks axial rotation. | Examiner Key Points: Cervical 45 deg, Thoracic frontal, Lumbar sagittal; relation to specific permitted/blocked motions. | Clinical Importance: Guides manual therapy techniques; trying to forcefully rotate a lumbar segment pushes against bone and risks facet fracture.",
+    "Question: What happens to the nucleus pulposus during lumbar flexion and extension? | Answer: Due to hydrostatic mechanics, compressive loads on one side of the disc push the gelatinous nucleus to the opposite side. During lumbar flexion, the anterior anulus compresses, pushing the nucleus pulposus posteriorly. During lumbar extension, the posterior anulus compresses, pushing the nucleus anteriorly. | Examiner Key Points: Hydrostatic deformation, flexion pushes posterior, extension pushes anterior. | Clinical Importance: Forms the basis of McKenzie extension exercises for posterolateral disc bulges, using extension to mechanically centralize the disc material.",
+    "Question: Describe the mechanism of a posterolateral intervertebral disc herniation. | Answer: The anulus fibrosus is weakest posterolaterally because the posterior longitudinal ligament (PLL) narrows significantly in the lower lumbar spine. Combined movements of lumbar flexion and rotation place immense shear stress on the annular fibers, tearing them and allowing the pressurized nucleus to bulge or herniate backward and laterally, often impinging on the exiting nerve root. | Examiner Key Points: Flexion + rotation mechanism, narrowed PLL, posterolateral vulnerability, nerve root impingement. | Clinical Importance: Explains the classic presentation of sciatica and guides ergonomic lifting advice (avoid bending and twisting simultaneously).",
+    "Question: Differentiate between the Pump Handle and Bucket Handle motions of the rib cage. | Answer: Pump Handle motion occurs primarily in the upper ribs (1-6) rotating around a coronal axis, elevating the sternum upward and forward to increase the anteroposterior (A-P) diameter of the chest. Bucket Handle motion occurs primarily in the lower ribs (7-10) rotating around a sagittal axis, swinging the lateral rib shafts upward and outward to increase the transverse diameter of the chest. | Examiner Key Points: Upper ribs/A-P diameter/sternal lift vs Lower ribs/transverse diameter/lateral swing. | Clinical Importance: Essential for understanding respiratory mechanics and diagnosing specific rib restrictions in patients with COPD or thoracic stiffness.",
+    "Question: What is coupled motion in the spine, and what dictates it? | Answer: Coupled motion is a biomechanical phenomenon where movement in one plane cannot occur without an obligatory, simultaneous movement in another plane. For example, lateral flexion of the cervical spine is automatically accompanied by axial rotation. It is dictated by the geometry/angulation of the facet joints, the integrity of the intervertebral discs, and the tension in spinal ligaments. | Examiner Key Points: Obligatory simultaneous multi-plane motion, facet geometry, ligamentous tension, Fryette's Laws. | Clinical Importance: Allows physiotherapists to utilize specific three-dimensional positioning to optimally 'lock' or mobilize specific spinal segments.",
+    "Question: Describe the ideal alignment of the Line of Gravity (LOG) in the sagittal plane. | Answer: In ideal posture, the LOG passes through the mastoid process of the temporal bone, anterior to the second sacral vertebra (S2), slightly posterior to the center of the hip joint, slightly anterior to the center of the knee joint, and slightly anterior to the lateral malleolus. | Examiner Key Points: Mastoid, anterior to S2, posterior to hip, anterior to knee, anterior to ankle. | Clinical Importance: This specific alignment minimizes muscular energy expenditure by utilizing passive ligamentous tension (e.g., iliofemoral ligament, posterior knee capsule) to maintain standing balance.",
+    "Question: Explain the pathomechanics of Forward Head Posture (Upper Crossed Syndrome). | Answer: Forward Head Posture involves excessive translation of the head anterior to the LOG. This increases the flexion moment on the lower cervical spine. To keep the eyes horizontal, the upper cervical spine (suboccipital region) must hyperextend. Over time, the suboccipital, upper trapezius, and pectoral muscles become adaptively shortened, while the deep neck flexors and lower scapular stabilizers become lengthened and weak. | Examiner Key Points: Lower cervical flexion, upper cervical extension, muscle imbalances (tight vs weak), Upper Crossed pattern. | Clinical Importance: A primary driver of chronic neck pain, cervicogenic headaches, and TMJ dysfunction, requiring specific postural re-education.",
+    "Question: Describe the two-phase biomechanics of temporomandibular joint (TMJ) opening. | Answer: The first phase of jaw opening (early phase) involves pure rotation of the mandibular condyle against the inferior surface of the articular disc within the lower joint compartment. The second phase (late phase) involves anterior translation of both the condyle and the disc together down the slope of the articular eminence within the upper joint compartment. | Examiner Key Points: Lower compartment rotation (early), Upper compartment anterior translation (late). | Clinical Importance: If a patient cannot translate the condyle (e.g., disc stuck), their mouth opening will be severely limited to only the rotational component (approx 20-25mm).",
+    "Question: What are the biomechanical effects of an Anterior Pelvic Tilt on the lumbar spine and hip joints? | Answer: In an anterior pelvic tilt, the ASIS moves downward and forward. Biomechanically, this pulls the lumbar spine into increased lordosis (extension), increasing compressive loads on the posterior facet joints. Simultaneously, the anterior tilt places the hip joints into relative flexion. | Examiner Key Points: ASIS down/forward, increased lumbar lordosis, facet compression, relative hip flexion. | Clinical Importance: Commonly caused by tight hip flexors and weak abdominals (Lower Crossed Syndrome), leading to facet joint irritation and mechanical low back pain.",
+    "Question: How does the Sacroiliac Joint (SIJ) achieve stability during weight bearing? | Answer: The SIJ is stabilized by both 'Form Closure' (the interlocking congruent shape of the sacral and iliac articular surfaces) and 'Force Closure' (dynamic compression generated by the massive interosseous ligaments and the contraction of surrounding muscles like the gluteus maximus, latissimus dorsi, and core stabilizers). Weight-bearing naturally drives the sacrum into nutation, which tightly locks the joint ligaments. | Examiner Key Points: Form closure (anatomy), Force closure (ligaments/muscles), Nutation locking mechanism. | Clinical Importance: Post-partum patients with lax ligaments lose force closure, requiring external SI belts and intense core stabilization to prevent pelvic pain.",
+    "Question: Compare the biomechanical pathomechanics of Flat-Back and Sway-Back postures on the lumbar spine. | Answer: In Flat-Back Posture, a posterior pelvic tilt reduces or reverses the normal lumbar lordosis, shifting loads anteriorly onto the vertebral bodies and intervertebral discs, reducing shock absorption. In Sway-Back Posture, there is a posterior displacement of the upper trunk and an anterior translation of the pelvis, flattening the lower lumbar curve but hyperextending the hips and knees, creating severe shear stress at the lumbosacral junction while relying heavily on passive ligamentous tension (iliofemoral ligament) rather than muscular support. | Examiner Key Points: Flat-back (posterior pelvic tilt, global lordosis reduction, disc compression) vs Sway-back (anterior pelvic drift, lower flat back, hyperextended hips/knees, ligament loading). | Clinical Importance: Crucial for specifying different muscle energy and stabilization protocols (e.g., strengthening hip flexors/lumbar extensors for flat-back, vs. strengthening core/gluteals and stretching hamstrings for sway-back).",
+    "Question: Explain Fryette's First and Second Laws of spinal motion with examples. | Answer: Fryette's First Law states that when the spine is in neutral, lateral flexion (sidebending) and rotation occur in opposite directions (e.g., sidebending right in thoracic spine causes rotation left). Fryette's Second Law states that when the spine is non-neutral (actively flexed or extended), lateral flexion and rotation occur in the same direction (e.g., sidebending right during lumbar flexion causes rotation right). | Examiner Key Points: Law I (Neutral = opposite sidebending/rotation), Law II (Non-neutral = same sidebending/rotation). | Clinical Importance: Underpins the diagnosis of spinal somatic dysfunctions and directs the precise three-dimensional setup for manual facet mobilization.",
+    "Question: What is the clinical significance of the Cobb Angle, and how is it measured? | Answer: The Cobb angle is the gold standard radiographic measure used to diagnose and monitor scoliosis. It is measured by identifying the most tilted upper and lower end-vertebrae of the curve. Lines are drawn along the superior endplate of the upper vertebra and the inferior endplate of the lower vertebra; the angle of intersection of these lines (or perpendicular lines) defines the Cobb angle. A curve >10 degrees confirms scoliosis. | Examiner Key Points: Scoliosis diagnosis, end-vertebrae selection, endplate lines, >10 degrees threshold. | Clinical Importance: Dictates treatment progression (e.g., monitoring for <20 deg, bracing for 25-45 deg, surgery consideration for >40-45 deg)."
+  ],
+  "mcqs": [
+    {
+      "question": "Which region of the vertebral column has facet joints oriented primarily in the sagittal plane, strongly favoring flexion and extension while severely restricting axial rotation?",
+      "options": [
+        "Upper Cervical Spine",
+        "Lower Cervical Spine",
+        "Thoracic Spine",
+        "Lumbar Spine"
+      ],
+      "answer": "Lumbar Spine",
+      "explanation": "The lumbar facet (zygapophyseal) joints are vertically aligned in the sagittal plane. This allows for massive degrees of flexion and extension but physically blocks rotation, protecting the intervertebral discs from twisting shear forces."
+    },
+    {
+      "question": "During active spinal flexion, the nucleus pulposus of the intervertebral disc is biomechanically forced in which direction?",
+      "options": [
+        "Anteriorly",
+        "Posteriorly",
+        "Laterally",
+        "Inferiorly into the vertebral body"
+      ],
+      "answer": "Posteriorly",
+      "explanation": "Flexion compresses the anterior portion of the anulus fibrosus. Because the nucleus acts hydrostatically, this anterior compression pushes the gelatinous nucleus posteriorly, stretching the posterior annular fibers."
+    },
+    {
+      "question": "The primary biomechanical mechanism that elevates the sternum and increases the anteroposterior (A-P) diameter of the chest during inspiration is termed:",
+      "options": [
+        "Bucket Handle Motion",
+        "Pump Handle Motion",
+        "Caliper Motion",
+        "Piston Motion"
+      ],
+      "answer": "Pump Handle Motion",
+      "explanation": "Pump handle motion primarily occurs in the upper ribs (1-6). Their coronal axis of rotation causes them to swing upward and forward, lifting the sternum and expanding the A-P depth of the thorax."
+    },
+    {
+      "question": "In ideal standing posture, the Line of Gravity (LOG) passes:",
+      "options": [
+        "Anterior to the hip joint and posterior to the knee joint",
+        "Posterior to the hip joint and anterior to the knee joint",
+        "Directly through the center of all major limb joints",
+        "Posterior to the mastoid process and anterior to the sternum"
+      ],
+      "answer": "Posterior to the hip joint and anterior to the knee joint",
+      "explanation": "The ideal LOG falls slightly posterior to the hip joint (relying on the tight anterior iliofemoral ligament for stability) and slightly anterior to the knee joint (locking the knee into extension passively)."
+    },
+    {
+      "question": "A patient with severe Forward Head Posture will typically demonstrate which of the following mechanical adaptations?",
+      "options": [
+        "Upper cervical flexion and lower cervical extension",
+        "Upper cervical extension and lower cervical flexion",
+        "Global cervical spine flexion",
+        "Global cervical spine extension"
+      ],
+      "answer": "Upper cervical extension and lower cervical flexion",
+      "explanation": "To maintain a horizontal gaze while the head is translated forward (lower cervical flexion), the patient must chronically hyperextend the upper cervical spine (occiput on C1), leading to shortened suboccipital muscles."
+    },
+    {
+      "question": "Most intervertebral disc herniations occur in the posterolateral direction because:",
+      "options": [
+        "The anterior longitudinal ligament is extremely weak",
+        "The anulus fibrosus is thickest posteriorly",
+        "The posterior longitudinal ligament narrows significantly in the lower lumbar spine",
+        "The nucleus pulposus is located in the anterior third of the disc"
+      ],
+      "answer": "The posterior longitudinal ligament narrows significantly in the lower lumbar spine",
+      "explanation": "The posterior longitudinal ligament (PLL) tapers to a thin band in the lower lumbar spine, leaving the posterolateral corners of the disc without central ligamentous reinforcement, making it the path of least resistance for herniation."
+    },
+    {
+      "question": "During the initial (early) phase of opening the mouth, the primary arthrokinematic motion occurring at the Temporomandibular Joint (TMJ) is:",
+      "options": [
+        "Anterior translation in the upper compartment",
+        "Rotation of the condyle in the lower compartment",
+        "Posterior gliding of the articular disc",
+        "Lateral deviation of the mandible"
+      ],
+      "answer": "Rotation of the condyle in the lower compartment",
+      "explanation": "Jaw opening occurs in two phases. The first 20-25mm of opening involves pure rotation (hinging) of the mandibular condyle against the disc within the lower joint compartment."
+    },
+    {
+      "question": "Which of the following joint positions represents a 'Coupled Motion' defined by spinal biomechanics?",
+      "options": [
+        "Pure flexion without any translation",
+        "Lateral flexion accompanied by obligatory axial rotation",
+        "Extension accompanied by rib depression",
+        "Anterior pelvic tilt accompanied by hip abduction"
+      ],
+      "answer": "Lateral flexion accompanied by obligatory axial rotation",
+      "explanation": "Due to facet joint angulation, ligaments, and disc mechanics, lateral flexion of the spine is physically coupled with axial rotation; the vertebrae automatically twist when bending to the side."
+    },
+    {
+      "question": "An anterior pelvic tilt biomechanically forces the lumbar spine into:",
+      "options": [
+        "Increased flexion (flattened back)",
+        "Increased lordosis (extension)",
+        "Lateral deviation (scoliosis)",
+        "Decreased compressive loading"
+      ],
+      "answer": "Increased lordosis (extension)",
+      "explanation": "When the pelvis tilts anteriorly, the sacral base tips forward. To keep the head aligned over the pelvis, the lumbar spine must compensate by increasing its lordotic curve (extension), which compresses the posterior facet joints."
+    },
+    {
+      "question": "The atlanto-axial joint (C1-C2) is biomechanically specialized to provide 50% of the cervical spine's total range of motion in which plane?",
+      "options": [
+        "Sagittal (Flexion/Extension)",
+        "Frontal (Lateral Flexion)",
+        "Transverse (Axial Rotation)",
+        "Coronal (Abduction/Adduction)"
+      ],
+      "answer": "Transverse (Axial Rotation)",
+      "explanation": "The articulation between the atlas (C1) and the dens of the axis (C2) forms a pivot joint uniquely specialized for horizontal plane movement, providing approximately 50% of total cervical axial rotation."
+    },
+    {
+      "question": "According to Fryette's Second Law of spinal motion, when a vertebral segment is in a non-neutral position (flexed or extended), sidebending and rotation will occur in:",
+      "options": [
+        "Opposite directions",
+        "The same direction",
+        "The transverse plane only",
+        "None of the above"
+      ],
+      "answer": "The same direction",
+      "explanation": "Fryette's Second Law specifies that when the spine is non-neutral (actively flexed or extended), sidebending and rotation of a vertebra occur in the same direction (to the same side)."
+    },
+    {
+      "question": "Which of the following postural deviations is characterized by a posterior pelvic tilt, a flattened lower back, and hip extension?",
+      "options": [
+        "Kyphotic-Lordotic Posture",
+        "Sway-Back Posture",
+        "Flat-Back Posture",
+        "Military Posture"
+      ],
+      "answer": "Flat-Back Posture",
+      "explanation": "Flat-Back Posture features a posterior pelvic tilt, decreased/flattened lumbar lordosis, and extended hip joints, which diminishes the shock-absorbing curvature of the spine."
+    },
+    {
+      "question": "During the structural scoliosis lateral bend test, a prominent posterior rib hump on the right side indicates that:",
+      "options": [
+        "The vertebral bodies have rotated to the left",
+        "The vertebral bodies have rotated to the right (convex side)",
+        "There is unilateral spasm of the left quadratus lumborum",
+        "The spinous processes have rotated to the right"
+      ],
+      "answer": "The vertebral bodies have rotated to the right (convex side)",
+      "explanation": "In structural scoliosis, the vertebral bodies rotate toward the convex side of the curve (in this case, the right), forcing the ribs on that side to push posteriorly and superiorly, creating the rib hump."
+    }
+  ],
+  "reference": [
+    "Norkin, P. K., & Levangie, P. K. (2011). Joint Structure and Function: A Comprehensive Analysis (5th ed.). F.A. Davis Company.",
+    "Neumann, D. A. (2016). Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation (3rd ed.). Elsevier.",
+    "Houglum, P. A., & Bertoti, D. B. (2012). Brunnstrom's Clinical Kinesiology (6th ed.). F.A. Davis Company."
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "subject": "Pathology",
+  "chapterId": "path_ch5",
+  "chapterName": "Immunity & Hypersensitivity",
+  "definition": [
+    "Immunity: The protection against infectious agents and other foreign substances. It is divided into Innate (natural/native) immunity and Adaptive (acquired/specific) immunity.",
+    "Hypersensitivity: An exaggerated or inappropriate immune response to an antigen (allergen) that results in tissue damage and disease.",
+    "Autoimmunity: A breakdown in immune tolerance resulting in an immune response directed against the body's own tissues.",
+    "Genetic and Chromosomal Disorders: Pathological conditions caused by abnormalities in genetic material (DNA or chromosomes). Chromosomal disorders involve alterations in chromosome number or structure, whereas gene disorders are caused by mutations in single genes."
+  ],
+  "principle": [
+    "Innate Immunity: The first line of defense, non-specific, lacking memory. Mediated by physical barriers (skin, mucosa), phagocytes (neutrophils, macrophages), natural killer (NK) cells, and circulating proteins (complement system).",
+    "Adaptive Immunity: Highly specific, possesses immunological memory, and improves with repeated exposure. Mediated by lymphocytes (T cells and B cells) and their products.",
+    "Humoral Immunity: A branch of adaptive immunity mediated by B lymphocytes, which differentiate into plasma cells to produce antibodies (Immunoglobulins: IgG, IgA, IgM, IgE, IgD). It defends against extracellular microbes.",
+    "Cell-Mediated Immunity: A branch of adaptive immunity mediated by T lymphocytes (CD4+ Helper T cells and CD8+ Cytotoxic T cells). It defends against intracellular microbes (e.g., viruses, mycobacteria) and tumors.",
+    "Type I Hypersensitivity (Immediate): An IgE-mediated response where allergen binds to IgE on mast cells, causing degranulation (release of histamine). Examples: Anaphylaxis, bronchial asthma, allergic rhinitis.",
+    "Type II Hypersensitivity (Antibody-Mediated): IgG or IgM antibodies bind to antigens on cell surfaces or extracellular matrix, leading to cell destruction via phagocytosis or complement activation. Examples: Autoimmune hemolytic anemia, Goodpasture syndrome, Myasthenia gravis.",
+    "Type III Hypersensitivity (Immune Complex-Mediated): Antigen-antibody (IgG/IgM) complexes form in the circulation and deposit in tissues (vessels, kidneys, joints), triggering complement activation and acute inflammation. Examples: Systemic lupus erythematosus (SLE), Rheumatoid arthritis, Post-streptococcal glomerulonephritis.",
+    "Type IV Hypersensitivity (Cell-Mediated/Delayed): T cell-mediated rather than antibody-mediated. Sensitized CD4+ T cells secrete cytokines activating macrophages, or CD8+ T cells directly kill target cells. Examples: Contact dermatitis, Tuberculin test, Multiple sclerosis, Type 1 Diabetes.",
+    "Immunodeficiency Diseases: Conditions where the immune system is defective, leading to increased susceptibility to infections. Primary (congenital) e.g., SCID. Secondary (acquired) e.g., AIDS caused by HIV.",
+    "Systemic Lupus Erythematosus (SLE): The prototype of a systemic autoimmune disease, characterized by the production of numerous autoantibodies (especially Antinuclear Antibodies - ANAs) and widespread immune complex deposition.",
+    "Chromosomal and Single Gene Disorders: Major chromosomal disorders include: 1) Down Syndrome (Trisomy 21): The most common chromosomal cause of intellectual disability, resulting from an extra copy of chromosome 21. 2) Turner Syndrome (45,XO): Caused by partial or complete absence of an X chromosome in females, presenting with short stature and ovarian dysgenesis. 3) Klinefelter Syndrome (47,XXY): Caused by an extra X chromosome in males, presenting with hypogonadism and gynecomastia. Single gene disorders include: 1) Hemophilia: An X-linked recessive bleeding disorder caused by deficiencies of coagulation factor VIII (Hemophilia A) or IX (Hemophilia B). 2) Sickle Cell Disease: An autosomal recessive disorder caused by a point mutation in the beta-globin gene, resulting in abnormal hemoglobin S (HbS) and chronic hemolytic anemia.",
+    "Clinical Features and Musculoskeletal Pathophysiology of Down Syndrome: From a physical therapy perspective, Down Syndrome presents with key musculoskeletal impairments: 1) Generalized Hypotonia: Low muscle tone that delays motor milestones and reduces postural control. 2) Ligamentous Laxity: Generalized weakness of ligaments and connective tissue. 3) Joint Hypermobility: Increased range of motion due to hypotonia and laxity. 4) Developmental Delay: Retarded motor, cognitive, and sensory-motor development, requiring early intervention.",
+    "Atlantoaxial Instability (AAI) in Down Syndrome: AAI refers to excessive mobility or laxity at the articulation between the first and second cervical vertebrae (atlas and axis), occurring in 10-30% of individuals with Down Syndrome. Increased laxity of the transverse ligament poses a severe risk of subluxation, potentially compressing the upper spinal cord and causing quadriplegia, respiratory arrest, or death. Critical clinical precautions dictate that high-velocity cervical manipulations, forced flexion/extension exercises, and contact sports are strictly contraindicated. Symmetrical radiographic screening or neurological clinical assessments are vital prerequisites prior to prescribing any gymnastic or high-risk therapeutic activities."
+  ],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "indications": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Rheumatoid Arthritis (RA) and Type III Hypersensitivity: RA involves immune complexes depositing in joints. Physiotherapists must adapt treatments during acute flares (focusing on pain relief and preventing deformity) versus remission phases (focusing on strengthening and ROM).",
+    "Exercise and Immune Function: Moderate exercise enhances immune function and reduces susceptibility to infection, while overtraining can temporarily suppress the immune system, increasing the risk of upper respiratory tract infections.",
+    "Contact Dermatitis (Type IV): Therapists must be aware of potential Type IV reactions to topical creams, massage oils, or even latex gloves. Reactions are delayed, appearing 24-48 hours after exposure.",
+    "Autoimmune Myopathies: Conditions like polymyositis or dermatomyositis involve immune-mediated muscle destruction. Rehabilitation requires careful monitoring of fatigue and gradual progression of exercise to avoid exacerbating muscle damage.",
+    "Guillain-Barr\u00e9 Syndrome: An acute, often post-infectious, autoimmune polyneuropathy where the immune system attacks peripheral nerve myelin. Physical therapy is crucial for recovery of motor function once the acute phase stabilizes.",
+    "Down Syndrome and Atlantoaxial Instability (AAI) Screening: When assessing a pediatric patient with Down Syndrome for physical therapy, always screen for red flag signs of atlantoaxial subluxation before starting any program involving neck movement, tumbling, or active play. Red flags include gait changes, neck pain, limited neck mobility, hyperreflexia, clonus, or sensory-motor deficits in the limbs. If any of these are present, immediately refer the patient for cervical radiographs (flexion-extension views) and defer neck movements."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "Question: Differentiate between innate and adaptive immunity. | Answer: Innate immunity is rapid, non-specific, and lacks memory (e.g., skin, neutrophils). Adaptive immunity is slower, highly specific, and possesses memory (e.g., T and B lymphocytes). | Examiner Key Points: Specificity, memory, timing, cell types.",
+    "Question: Name the five classes of immunoglobulins. | Answer: IgG, IgA, IgM, IgE, and IgD. | Examiner Key Points: GAMED.",
+    "Question: Describe the mechanism of Type I hypersensitivity. | Answer: It is an immediate reaction mediated by IgE antibodies bound to mast cells. Upon re-exposure, the allergen cross-links IgE, causing mast cell degranulation and release of histamine. | Examiner Key Points: IgE, mast cells, histamine release.",
+    "Question: Give two examples of Type II hypersensitivity. | Answer: Myasthenia gravis, Autoimmune hemolytic anemia, Goodpasture syndrome, Rheumatic fever. | Examiner Key Points: Any two valid examples of antibody-mediated cytotoxicity.",
+    "Question: Explain Type III hypersensitivity. | Answer: Immune complexes (antigen-antibody) form in the circulation and deposit in tissues (vessels, joints, kidneys), activating complement and causing acute inflammation and tissue damage. | Examiner Key Points: Immune complexes, deposition, complement activation.",
+    "Question: Why is Type IV hypersensitivity called 'delayed type'? | Answer: Because it takes 24 to 48 hours for the sensitized T cells to secrete cytokines, recruit macrophages, and produce a visible inflammatory response (e.g., Tuberculin reaction). | Examiner Key Points: T cell mediated, 24-48 hour delay, macrophage recruitment.",
+    "Question: What is the underlying mechanism in Myasthenia Gravis? | Answer: It is a Type II hypersensitivity where autoantibodies block or destroy acetylcholine receptors at the neuromuscular junction, leading to muscle weakness. | Examiner Key Points: Autoantibodies, acetylcholine receptors, neuromuscular junction.",
+    "Question: Which immune cells are primarily targeted by the Human Immunodeficiency Virus (HIV)? | Answer: CD4+ Helper T cells. | Examiner Key Points: CD4+ T cells.",
+    "Question: Define autoimmunity. | Answer: A failure of the immune system to recognize 'self', leading to an immune response directed against the body's own tissues and organs. | Examiner Key Points: Loss of self-tolerance, attack on own tissues.",
+    "Question: What role do CD8+ T cells play? | Answer: They are cytotoxic T cells that directly kill infected cells (like those harboring viruses) and tumor cells. | Examiner Key Points: Cytotoxic, kill infected/tumor cells.",
+    "Question: What is Atlantoaxial Instability (AAI) in Down Syndrome, and what are its critical implications for physical therapy? | Answer: Atlantoaxial Instability (AAI) is an abnormal increase in mobility at the joint between the atlas (C1) and axis (C2) vertebrae, found in 10-30% of patients with Down Syndrome due to ligamentous laxity. It poses a risk of spinal cord compression, which can lead to cervical myelopathy, quadriplegia, or death. For a physiotherapist, cervical manipulations, somersaults, and high-velocity neck exercises are strictly contraindicated. Pre-intervention neurological screening and lateral cervical x-rays are vital. | Examiner Key Points: C1-C2 hypermobility, ligamentous laxity, risk of spinal cord compression, contraindicated cervical manipulation/somersaults, screening importance. | Clinical Importance: Prevents catastrophic cervical spinal cord injury during therapeutic exercise or physical activity.",
+    "Question: Contrast Down Syndrome, Turner Syndrome, and Klinefelter Syndrome in terms of karyotype and primary clinical features. | Answer: Down Syndrome is Trisomy 21 (47,XX/XY,+21), characterized by intellectual disability, hypotonia, flat facial profile, and ligamentous laxity. Turner Syndrome is a female disorder with a 45,XO karyotype, presenting with short stature, webbed neck, and ovarian dysgenesis. Klinefelter Syndrome is a male disorder with a 47,XXY karyotype, presenting with hypogonadism, tall stature, and gynecomastia. | Examiner Key Points: Karyotypes (Trisomy 21, 45,XO, 47,XXY), gender-specific features, short vs. tall stature, cognitive/musculoskeletal differences. | Clinical Importance: Informs the physical therapist of specific systemic comorbidities and growth patterns associated with these chromosomal conditions."
+  ],
+  "mcqs": [
+    {
+      "question": "Which class of immunoglobulin is primarily involved in Type I hypersensitivity reactions, such as allergic asthma?",
+      "options": [
+        "IgA",
+        "IgG",
+        "IgM",
+        "IgE"
+      ],
+      "answer": "IgE",
+      "explanation": "IgE antibodies bind to mast cells and basophils. When an allergen cross-links these IgE molecules, it triggers degranulation and the release of mediators like histamine."
+    },
+    {
+      "question": "Which of the following is a classic example of a Type IV (cell-mediated) hypersensitivity reaction?",
+      "options": [
+        "Anaphylactic shock",
+        "Contact dermatitis (e.g., poison ivy)",
+        "Systemic lupus erythematosus",
+        "Hemolytic disease of the newborn"
+      ],
+      "answer": "Contact dermatitis (e.g., poison ivy)",
+      "explanation": "Contact dermatitis is a delayed-type (Type IV) hypersensitivity mediated by T cells, not antibodies. Reactions occur 24-48 hours after exposure."
+    },
+    {
+      "question": "Type III hypersensitivity is characterized by tissue damage resulting from:",
+      "options": [
+        "IgE-mediated mast cell degranulation",
+        "Cytotoxic T-cell mediated cell lysis",
+        "Deposition of circulating antigen-antibody complexes",
+        "Direct binding of IgG to cell surface antigens"
+      ],
+      "answer": "Deposition of circulating antigen-antibody complexes",
+      "explanation": "Type III involves immune complexes forming in the blood and depositing in tissues (like joints or kidneys), initiating an inflammatory response."
+    },
+    {
+      "question": "In Myasthenia Gravis, autoantibodies target acetylcholine receptors at the neuromuscular junction. This is an example of which type of hypersensitivity?",
+      "options": [
+        "Type I",
+        "Type II",
+        "Type III",
+        "Type IV"
+      ],
+      "answer": "Type II",
+      "explanation": "Type II hypersensitivity involves antibodies (IgG or IgM) binding directly to target cell surface antigens, altering function or causing cell destruction."
+    },
+    {
+      "question": "Which of the following cells are the central mediators of humoral immunity?",
+      "options": [
+        "B lymphocytes",
+        "CD8+ T lymphocytes",
+        "Macrophages",
+        "Natural Killer (NK) cells"
+      ],
+      "answer": "B lymphocytes",
+      "explanation": "B lymphocytes are responsible for humoral immunity. They differentiate into plasma cells which secrete antibodies."
+    },
+    {
+      "question": "The primary role of CD4+ T helper cells is to:",
+      "options": [
+        "Directly lyse virus-infected cells",
+        "Produce and secrete immunoglobulins",
+        "Phagocytose bacteria",
+        "Secrete cytokines that regulate other immune cells"
+      ],
+      "answer": "Secrete cytokines that regulate other immune cells",
+      "explanation": "CD4+ T cells are 'helper' cells that secrete cytokines to activate B cells, macrophages, and CD8+ T cells, orchestrating the immune response."
+    },
+    {
+      "question": "Systemic Lupus Erythematosus (SLE) is widely considered the prototype for which category of disease?",
+      "options": [
+        "Primary immunodeficiency",
+        "Systemic autoimmune disease",
+        "IgE-mediated allergy",
+        "Organ-specific autoimmune disease"
+      ],
+      "answer": "Systemic autoimmune disease",
+      "explanation": "SLE is a classic systemic autoimmune disease characterized by a vast array of autoantibodies (especially ANAs) affecting multiple organ systems."
+    },
+    {
+      "question": "Which cell type is a key component of the innate immune system and acts as a professional phagocyte?",
+      "options": [
+        "Plasma cell",
+        "Neutrophil",
+        "Cytotoxic T cell",
+        "Memory B cell"
+      ],
+      "answer": "Neutrophil",
+      "explanation": "Neutrophils (along with macrophages) are primary phagocytes of the innate immune system, acting rapidly and non-specifically against pathogens."
+    },
+    {
+      "question": "A positive Tuberculin (Mantoux) skin test peaks at 48-72 hours. This delay is characteristic of which type of immune response?",
+      "options": [
+        "Immediate hypersensitivity",
+        "Immune complex disease",
+        "Delayed-type (Type IV) hypersensitivity",
+        "Antibody-dependent cellular cytotoxicity"
+      ],
+      "answer": "Delayed-type (Type IV) hypersensitivity",
+      "explanation": "The tuberculin test is the classic clinical demonstration of Type IV hypersensitivity, requiring time for T cells to migrate and secrete cytokines."
+    },
+    {
+      "question": "Which immunoglobulin is the only one capable of crossing the placenta, providing passive immunity to the fetus?",
+      "options": [
+        "IgA",
+        "IgM",
+        "IgG",
+        "IgE"
+      ],
+      "answer": "IgG",
+      "explanation": "IgG is the most abundant immunoglobulin in serum and is unique in its ability to cross the placenta to confer maternal immunity to the fetus."
+    },
+    {
+      "question": "A 4-year-old child with Down Syndrome is referred to pediatric physiotherapy. Which of the following neck-related interventions or exercises is strictly contraindicated due to the risk of spinal cord compression?",
+      "options": [
+        "Passive range of motion of the ankles",
+        "Somersaults and manual cervical spine traction",
+        "Prone neck extension exercises on a Swiss ball",
+        "Sitting core-stabilization exercises"
+      ],
+      "answer": "Somersaults and manual cervical spine traction",
+      "explanation": "Due to the high prevalence of Atlantoaxial Instability (AAI) in Down Syndrome caused by transverse ligament laxity, high-velocity movements, somersaults, forced neck flexion/extension, and manual cervical manipulation/traction are strictly contraindicated to prevent catastrophic upper spinal cord injury."
+    },
+    {
+      "question": "Which of the following karyotypes is associated with Turner Syndrome, a genetic condition presenting with short stature, webbed neck, and ovarian dysgenesis?",
+      "options": [
+        "47,XXY",
+        "45,XO",
+        "47,XX,+21",
+        "46,XY,5p-"
+      ],
+      "answer": "45,XO",
+      "explanation": "Turner Syndrome is a female chromosomal disorder characterized by a complete or partial monosomy of the X chromosome, represented by the 45,XO karyotype. 47,XXY is Klinefelter Syndrome and 47,XX,+21 is Down Syndrome."
+    }
+  ],
+  "reference": [
+    "Textbook of Pathology by Harsh Mohan",
+    "Robbins Basic Pathology",
+    "WBUHS BPT Pathology Syllabus"
+  ]
+}

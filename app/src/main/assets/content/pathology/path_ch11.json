@@ -1,0 +1,145 @@
+{
+  "subject": "Pathology",
+  "chapterId": "path_ch11",
+  "chapterName": "Respiratory System",
+  "definition": [
+    "Respiratory Disorders: Pathological conditions affecting the organs and tissues that make gas exchange possible, including conditions of the upper respiratory tract, trachea, bronchi, bronchioles, alveoli, and pleura."
+  ],
+  "principle": [
+    "Chronic Obstructive Pulmonary Disease (COPD): A group of progressive lung diseases characterized by irreversible airflow limitation. Primarily includes Emphysema and Chronic Bronchitis.",
+    "Emphysema: Permanent enlargement of air spaces distal to the terminal bronchioles, accompanied by the destruction of their walls without significant fibrosis. Leads to hyperinflation and decreased gas exchange surface area.",
+    "Chronic Bronchitis: Clinically defined as a persistent productive cough for at least 3 consecutive months in at least 2 consecutive years. Characterized by hypertrophy of mucus-secreting glands in the trachea and bronchi.",
+    "Bronchial Asthma: A chronic inflammatory disorder of the airways characterized by episodic, reversible bronchoconstriction, airway hyper-responsiveness, and excessive mucus production, often triggered by allergens.",
+    "Bronchiectasis: Permanent dilation of bronchi and bronchioles caused by destruction of the muscle and elastic supporting tissue, resulting from or associated with chronic necrotizing infections. Presents with copious foul-smelling sputum.",
+    "Pneumonia: Acute inflammation of the lung parenchyma, usually caused by bacterial (e.g., Streptococcus pneumoniae) or viral infections. Can be classified anatomically as lobar pneumonia or bronchopneumonia.",
+    "Tuberculosis (TB): A chronic granulomatous infectious disease caused by Mycobacterium tuberculosis. Primary TB often involves the mid/lower lung zones (Ghon complex), while secondary (reactivation) TB typically favors the lung apices.",
+    "Restrictive Lung Diseases: A category of diseases characterized by reduced expansion of lung parenchyma and decreased total lung capacity. Examples include Idiopathic Pulmonary Fibrosis, pneumoconioses (occupational dust diseases), and chest wall deformities."
+  ],
+  "equipment": [],
+  "parameters": {},
+  "physiologicalEffects": [],
+  "contraindications": {
+    "general": [],
+    "local": []
+  },
+  "technique": {
+    "patientPreparation": [],
+    "apparatusPreparation": [],
+    "skinPreparation": [],
+    "electrodePlacement": [],
+    "treatmentProcedure": []
+  },
+  "precautions": [],
+  "clinicalPearls": [
+    "Airway Clearance Techniques: Physiotherapists use postural drainage, percussion, and vibration to clear copious secretions, especially crucial for patients with Bronchiectasis and Cystic Fibrosis.",
+    "Breathing Retraining in COPD: Patients with emphysema (hyperinflated lungs, flat diaphragm) benefit significantly from pursed-lip breathing and diaphragmatic training to reduce the work of breathing and prevent airway collapse during expiration.",
+    "Asthma vs. COPD: Unlike COPD, asthma features reversible airway obstruction. Physiotherapists must ensure patients have their bronchodilators available during exercise therapy to manage exercise-induced asthma.",
+    "Pulmonary Rehabilitation: Essential for chronic lung conditions to improve exercise tolerance. Monitoring oxygen saturation (SpO2) during exertion is mandatory to prevent severe hypoxemia."
+  ],
+  "clinicalProtocols": [],
+  "vivaQuestions": [
+    "Question: Define Chronic Bronchitis clinically. | Answer: A persistent productive cough for at least 3 consecutive months in at least 2 consecutive years, in the absence of any other identifiable cause. | Examiner Key Points: Productive cough, 3 months, 2 consecutive years.",
+    "Question: What is the main anatomical difference between emphysema and chronic bronchitis? | Answer: Emphysema is defined by structural destruction of alveolar walls and enlarged air spaces, whereas chronic bronchitis is defined by mucosal inflammation and mucus gland hypertrophy in the bronchi. | Examiner Key Points: Alveolar destruction (emphysema) vs Bronchial mucus gland hypertrophy (bronchitis).",
+    "Question: Describe the Ghon complex in Tuberculosis. | Answer: The hallmark of primary TB, consisting of a peripheral parenchymal granulomatous lesion (Ghon focus) and involved enlarged regional hilar lymph nodes. | Examiner Key Points: Parenchymal lesion + Hilar lymphadenopathy.",
+    "Question: What is Bronchiectasis and its classic clinical presentation? | Answer: Permanent dilation of airways due to chronic necrotizing infections. It presents classically with chronic cough producing copious amounts of foul-smelling, purulent sputum. | Examiner Key Points: Permanent dilation, chronic infection, foul-smelling copious sputum.",
+    "Question: Differentiate between Obstructive and Restrictive lung diseases based on lung volumes. | Answer: Obstructive diseases are characterized by limitation of airflow (reduced FEV1/FVC ratio) and often increased lung volumes (hyperinflation). Restrictive diseases are characterized by reduced expansion of lung parenchyma and decreased total lung capacity (TLC). | Examiner Key Points: Airflow limitation/hyperinflation (Obstructive) vs Reduced TLC/expansion (Restrictive).",
+    "Question: Mention two major complications of lobar pneumonia. | Answer: Abscess formation, empyema, organization (fibrosis), and bacteremic dissemination. | Examiner Key Points: Any two valid complications.",
+    "Question: What is the pathogenesis of atopic (allergic) asthma? | Answer: It is a Type I IgE-mediated hypersensitivity reaction to environmental allergens, leading to mast cell degranulation, bronchospasm, and chronic airway inflammation. | Examiner Key Points: Type I hypersensitivity, IgE, mast cells, bronchospasm.",
+    "Question: Name two occupational lung diseases (Pneumoconioses). | Answer: Coal worker's pneumoconiosis, Silicosis, Asbestosis. | Examiner Key Points: Silicosis, Asbestosis, Coal worker's."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following conditions is anatomically characterized by the permanent enlargement of air spaces distal to the terminal bronchioles accompanied by destruction of their walls?",
+      "options": [
+        "Chronic Bronchitis",
+        "Bronchial Asthma",
+        "Emphysema",
+        "Bronchiectasis"
+      ],
+      "answer": "Emphysema",
+      "explanation": "This is the classic anatomical definition of Emphysema, contrasting with the clinical definition of Chronic Bronchitis."
+    },
+    {
+      "question": "A 10-year-old boy presents with episodic wheezing and shortness of breath triggered by pollen. The pathogenesis involves IgE-mediated mast cell degranulation. The most likely diagnosis is:",
+      "options": [
+        "Atopic Asthma",
+        "Cystic Fibrosis",
+        "Primary Tuberculosis",
+        "Lobar Pneumonia"
+      ],
+      "answer": "Atopic Asthma",
+      "explanation": "Atopic asthma is a classic Type I hypersensitivity reaction triggered by environmental allergens."
+    },
+    {
+      "question": "Which of the following is considered a Restrictive lung disease?",
+      "options": [
+        "Emphysema",
+        "Idiopathic Pulmonary Fibrosis",
+        "Chronic Bronchitis",
+        "Bronchiectasis"
+      ],
+      "answer": "Idiopathic Pulmonary Fibrosis",
+      "explanation": "IPF causes widespread fibrosis of the lung interstitium, preventing the lungs from expanding fully, characteristic of restrictive disease."
+    },
+    {
+      "question": "Secondary (Reactivation) Tuberculosis most characteristically localizes to which part of the lung?",
+      "options": [
+        "Lower lobes bilaterally",
+        "Apices of the upper lobes",
+        "Hilum of the lung",
+        "Pleural space"
+      ],
+      "answer": "Apices of the upper lobes",
+      "explanation": "Reactivation TB typically favors the apices (top) of the lungs, likely due to the higher oxygen tension in those regions favoring mycobacterial growth."
+    },
+    {
+      "question": "A patient expectorates a large cupful of foul-smelling, purulent sputum every morning. A CT scan shows permanently dilated bronchi extending to the pleura. This describes:",
+      "options": [
+        "Lobar Pneumonia",
+        "Pulmonary Embolism",
+        "Emphysema",
+        "Bronchiectasis"
+      ],
+      "answer": "Bronchiectasis",
+      "explanation": "Bronchiectasis involves irreversible dilation of bronchi due to chronic necrotizing infections, classically presenting with copious foul sputum."
+    },
+    {
+      "question": "The combination of a peripheral lung parenchymal lesion and enlarged caseating hilar lymph nodes in a child previously unexposed to M. tuberculosis is called the:",
+      "options": [
+        "Aschoff body",
+        "Ghon complex",
+        "Asteroid body",
+        "Caseous granuloma"
+      ],
+      "answer": "Ghon complex",
+      "explanation": "The Ghon complex is the pathognomonic lesion of Primary Pulmonary Tuberculosis."
+    },
+    {
+      "question": "A patient with long-standing severe COPD is at highest risk of developing which of the following cardiac complications?",
+      "options": [
+        "Left ventricular hypertrophy",
+        "Mitral valve prolapse",
+        "Cor Pulmonale (Right ventricular failure)",
+        "Aortic dissection"
+      ],
+      "answer": "Cor Pulmonale (Right ventricular failure)",
+      "explanation": "Chronic hypoxemia in COPD causes pulmonary vasoconstriction and pulmonary hypertension, which eventually leads to right heart failure (Cor Pulmonale)."
+    },
+    {
+      "question": "Which phase of lobar pneumonia is characterized by a firm, liver-like exudation of red blood cells, neutrophils, and fibrin into the alveolar spaces?",
+      "options": [
+        "Congestion",
+        "Red Hepatization",
+        "Gray Hepatization",
+        "Resolution"
+      ],
+      "answer": "Red Hepatization",
+      "explanation": "Red hepatization occurs when the alveoli are packed with RBCs, neutrophils, and fibrin, giving the lung a gross appearance similar to the liver."
+    }
+  ],
+  "reference": [
+    "Textbook of Pathology by Harsh Mohan",
+    "Robbins Basic Pathology",
+    "WBUHS BPT Pathology Syllabus"
+  ]
+}

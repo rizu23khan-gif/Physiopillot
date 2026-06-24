@@ -15,13 +15,19 @@
     "Hemiplegic Gait: A central walking deviation where the patient tilts their pelvis upward and abducts (circumducts) the spastic lower limb in a wide lateral arc to clear the toes.",
     "Parkinsonian Gait: A neurological gait marked by high rigidity, forward-flexed trunk, absent arm swing, and short, rapid, shuffling steps (festination).",
     "Antalgic Gait: A self-protective walking style where the patient dramatically shortens the stance phase on the painful limb to minimize joint loading.",
-    "Foot Drop (Equinus) Gait: A gait marked by an inability to actively dorsiflex the ankle, forcing excessive knee and hip flexion (high steppage) to clear the toes during swing."
+    "Foot Drop (Equinus) Gait: A gait marked by an inability to actively dorsiflex the ankle, forcing excessive knee and hip flexion (high steppage) to clear the toes during swing.",
+    "Gait Velocity: The distance traveled by an individual per unit of time, typically measured in meters per second (m/s). Normal adult velocity values range between approximately 1.2 to 1.4 m/s, serving as a critical indicator of functional mobility, community independence, and overall health status.",
+    "Step Width (Base of Support): The lateral distance measured between the midpoint of the heel of one foot and the midpoint of the heel of the opposite foot during consecutive steps. The normal average value ranges between 5 to 10 cm (2 to 4 inches), and an increased step width is a key biomechanical adaptation to improve lateral stability and postural balance.",
+    "Single Support: The period within the gait cycle when only one foot is in contact with the ground, representing approximately 40% of the total cycle for each limb. It corresponds to the swing phase of the opposite limb, bearing the entire body weight and representing the phase of greatest vertical postural instability.",
+    "Center of Pressure (COP): The theoretical point of application of the net Ground Reaction Force (GRF) vector acting on the plantar surface of the foot. Its normal trajectory progresses sequentially from the lateral heel at initial contact, through the midfoot, over the medial forefoot, and terminates at the hallux (great toe) during push-off."
   ],
   "principle": [
     "Six Determinants of Gait: Human walking minimizes metabolic energy expenditure by smoothing out vertical and lateral center of mass (COM) fluctuations. This is achieved via: pelvic rotation, pelvic tilt, knee flexion/extension at stance, ankle mechanics, foot mechanics, and lateral pelvic displacement.",
     "Ground Reaction Force Tracking: During walking, the vertical GRF vector exhibits a characteristic 'double-bump' curve. The first peak occurs at loading response (impact absorption) and the second peak occurs at terminal stance (active push-off).",
     "Anatomic Joint Rockers of Stance: Forward momentum during the stance phase is maintained smoothly via three successive mechanical rockers: the heel rocker (initial contact), the ankle rocker (mid-stance), and the forefoot rocker (terminal pre-swing).",
-    "Kinetic Energy Transfer Model: Bipedal walking operates like an inverted pendulum, transferring potential energy (at high points of stance) into kinetic energy (during forward acceleration), maximizing fuel efficiency."
+    "Kinetic Energy Transfer Model: Bipedal walking operates like an inverted pendulum, transferring potential energy (at high points of stance) into kinetic energy (during forward acceleration), maximizing fuel efficiency.",
+    "Rancho Los Amigos vs Traditional Terminology Mapping: Standardizing gait descriptions requires mapping traditional terms to Rancho Los Amigos (RLA) phases: Heel Strike maps to Initial Contact; Foot Flat maps to Loading Response; Mid Stance maps to Mid Stance; Heel Off maps to Terminal Stance; and Toe Off maps to Pre-Swing. RLA terminology is preferred clinically because it describes the functional tasks and progressive weight-bearing demands rather than static anatomical positions.",
+    "Stair Negotiation Biomechanics: Stair ascent and descent demand distinct muscle activation patterns. During stair ascent, propulsion is driven by concentric contractions of the lower limb muscles to overcome gravity and lift the body's mass. Key drivers include concentric quadriceps (knee extension), concentric gluteus maximus (hip extension), and concentric plantarflexors (calf push-off). During stair descent, control is managed by eccentric contractions of the quadriceps (graduated knee flexion) and eccentric contraction of the soleus (controlled tibia advancement over the ankle) to absorb impact forces and stabilize posture."
   ],
   "equipment": [
     "Standardized parallel bars with full-length posture mirrors.",
@@ -105,7 +111,8 @@
   "clinicalPearls": [
     "To distinguish between a compensated and uncompensated Trendelenburg gait, look at the trunk. In an uncompensated gait, the pelvis drops on the opposite swing side. In a compensated gait, the patient leans their trunk laterally over the weak hip to move the center of mass over the pivot point, hiding the pelvic drop.",
     "Double support completely disappears during running. In walking, double support represents 20% of the cycle, but as speed increases to a run, a 'float phase' (where both feet are off the ground) replaces double support.",
-    "When a stroke patient presents with circumduction during swing (swinging the leg outward in a wide semicircle), do not just analyze the hip. The root cause is often a lack of knee flexion (stiff knee) or ankle foot drop, forcing circumduction to achieve vertical clearance."
+    "When a stroke patient presents with circumduction during swing (swinging the leg outward in a wide semicircle), do not just analyze the hip. The root cause is often a lack of knee flexion (stiff knee) or ankle foot drop, forcing circumduction to achieve vertical clearance.",
+    "Gait velocity is often called the sixth vital sign. Walking speeds below 0.8 m/s indicate reduced community ambulation capacity, while speeds below 0.6 m/s are associated with increased fall risk and functional dependence."
   ],
   "clinicalProtocols": [
     {
@@ -126,7 +133,9 @@
     "Question: What is an Antalgic Gait and how is it characterized? | Answer: An antalgic gait is a pain-induced walking deviation. It is characterized by a major reduction in the weight-bearing stance phase duration on the affected painful limb, matched by a highly accelerated swing phase on the healthy limb as the patient tries to get their weight off the painful leg fast. | Examiner Key Points: Pain-induced, reduced stance phase on painful leg, rapid swing on healthy leg. | Clinical Importance: Reflects severe joint or tissue loading pain, directing orthotic unloading or gait devices.",
     "Question: What are the Six Determinants of Gait and what is their mechanical goal? | Answer: The six determinants are: 1. Pelvic rotation. 2. Pelvic tilt. 3. Knee flexion in stance. 4. Ankle mechanics. 5. Foot mechanics. 6. Lateral pelvic displacement. Their combined mechanical goal is to minimize the vertical and lateral displacement amplitude of the body's center of mass to under 2 inches, reducing metabolic energy expenditure during walking. | Examiner Key Points: Rotation/tilt of pelvis, knee flexion, ankle/foot mechanics, lateral displacement, center of mass tracking. | Clinical Importance: Assists clinicians in repairing specific movement components to maximize walking efficiency.",
     "Question: Explain how a Foot Drop (Equinus) Gait alters walking mechanics and the safety compensations used. | Answer: In foot drop, complete weakness of the ankle dorsiflexors (Tibialis Anterior) prevents the foot from clearing the ground during the swing phase. To compensate and prevent tripping, the patient increases hip flexion and knee flexion (high-steppage gait) to lift the dropping toes over the floor. | Examiner Key Points: Weak ankle dorsiflexors, toe drag, compensatory high-steppage (hip/knee flexion). | Clinical Importance: Indicates Common Peroneal Nerve palsy, L4-L5 radiculopathy, or direct muscle tear.",
-    "Question: Outline the primary clinical principles of Gait Re-education. | Answer: Gait re-education is built on 1. Normalizing spatial/temporal parameters (symmetry, cadence). 2. Maximizing weight transfers and pelvic control. 3. Correcting specific joint rock Mechanics (heel-to-toe roll). 4. Progressing from supportive parallel bars to open walkway settings. 5. Utilizing appropriate biomechanical assistive devices (orthotics, canes) to ensure safety. | Examiner Key Points: Symmetry, joint rockers, weight-bearing shifts, progressive environments, assistive safety. | Clinical Importance: Underpins the logical approach to safely rebuilding independent and biomechanically efficient walking."
+    "Question: Outline the primary clinical principles of Gait Re-education. | Answer: Gait re-education is built on 1. Normalizing spatial/temporal parameters (symmetry, cadence). 2. Maximizing weight transfers and pelvic control. 3. Correcting specific joint rock Mechanics (heel-to-toe roll). 4. Progressing from supportive parallel bars to open walkway settings. 5. Utilizing appropriate biomechanical assistive devices (orthotics, canes) to ensure safety. | Examiner Key Points: Symmetry, joint rockers, weight-bearing shifts, progressive environments, assistive safety. | Clinical Importance: Underpins the logical approach to safely rebuilding independent and biomechanically efficient walking.",
+    "Question: Differentiate Traditional Gait Terminology and Rancho Los Amigos Terminology, mapping their corresponding phases. | Answer: Traditional terminology is based on specific, static points of contact, whereas Rancho Los Amigos (RLA) terminology focuses on functional divisions or dynamic phases of walking. The mapping corresponds as follows: Heel Strike maps to Initial Contact; Foot Flat maps to Loading Response; Mid Stance maps to Mid Stance; Heel Off maps to Terminal Stance; and Toe Off maps to Pre-Swing. | Examiner Key Points: Point-of-time (Traditional) vs functional-period (RLA), phase-by-phase mapping (Heel Strike to Initial Contact, Foot Flat to Loading Response, Mid Stance to Mid Stance, Heel Off to Terminal Stance, Toe Off to Pre-Swing). | Clinical Importance: RLA terminology is preferred clinically because it aligns gait assessment with functional tasks (weight acceptance, single limb support, limb advancement) rather than just anatomical events.",
+    "Question: Explain the biomechanical and muscle activation differences between stair ascent and stair descent. | Answer: Stair ascent relies primarily on concentric contractions of the lower limb muscles to overcome gravity and lift the body's mass. Key drivers include concentric quadriceps (knee extension), concentric gluteus maximus (hip extension), and concentric plantarflexors (calf push-off). Conversely, stair descent is a controlled lowering activity relying on eccentric muscle contractions to absorb shock. Key controllers are eccentric quadriceps (graduated knee flexion) and eccentric soleus/gastrocnemius (controlling forward tibial translation). | Examiner Key Points: Concentric ascent (propulsion) vs eccentric descent (controlled deceleration), muscle roles (quadriceps and gluteals for ascent; quadriceps and soleus for descent), energy absorption. | Clinical Importance: Patients with quadriceps weakness or knee pain (e.g., patellofemoral pain syndrome) often present with significantly more difficulty and pain during stair descent than ascent due to the high eccentric demands."
   ],
   "mcqs": [
     {
@@ -308,6 +317,39 @@
       "options": ["The basal ganglia", "The spinal dorsal horn", "The dorsal column systems", "The lumbar sympathetic chain"],
       "answer": "The basal ganglia",
       "explanation": "The basal ganglia play a key role in regularizing walking rhythms, modulating automated movements, and coordinating arm swings."
+    },
+    {
+      "question": "Traditional gait terminology of 'Foot Flat' directly corresponds to which of the following Rancho Los Amigos (RLA) terminology phases?",
+      "options": [
+        "Initial Contact",
+        "Loading Response",
+        "Mid Stance",
+        "Pre-Swing"
+      ],
+      "answer": "Loading Response",
+      "explanation": "In gait terminology mapping, traditional 'Foot Flat' corresponds to the Rancho Los Amigos 'Loading Response' phase, which represents the initial double-support period."
+    },
+    {
+      "question": "During stair descent, what is the primary contraction type of the quadriceps muscle group to control gravity-induced knee flexion?",
+      "options": [
+        "Concentric",
+        "Eccentric",
+        "Isometric",
+        "Isokinetic"
+      ],
+      "answer": "Eccentric",
+      "explanation": "The quadriceps muscle group undergoes eccentric (lengthening) contraction during stair descent to control knee flexion and absorb the shock of body descent."
+    },
+    {
+      "question": "Which of the following describes the normal progression pathway of the Center of Pressure (COP) along the plantar surface of the foot during the stance phase of walking?",
+      "options": [
+        "Medial heel → lateral midfoot → hallux",
+        "Lateral heel → medial forefoot → hallux",
+        "Central midfoot → lateral malleolus → calcaneus",
+        "Toe tips → transverse arch → medial calcaneus"
+      ],
+      "answer": "Lateral heel → medial forefoot → hallux",
+      "explanation": "The Center of Pressure (COP) pathway normally progresses from the lateral heel at initial contact, rolls forward across the midfoot to the medial forefoot, and exits via the hallux (great toe) during terminal push-off."
     }
   ],
   "reference": [

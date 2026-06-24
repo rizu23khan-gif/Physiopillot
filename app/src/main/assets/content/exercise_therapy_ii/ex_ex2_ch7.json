@@ -13,13 +13,18 @@
     "Frenkel's Exercises: A progressive series of deliberate, rhythmic, slow-tempo exercises performed under high visual concentration, designed to retrain coordination in sensory ataxia.",
     "Cerebellar Ataxia: A coordination impairment marked by kinetic tremors, dysmetria, dysdiadochokinesia, and dyssynergia due to damage to the cerebellar processing networks.",
     "Sensory (Tabetic) Ataxia: An uncoordinated gait and movement style caused by disruption of the dorsal columns of the spinal cord, resulting in loss of conscious proprioceptive feedback.",
-    "Limit of Stability: The maximum boundary perimeter over which a person can intentionally lean their center of mass in any direction without losing balance or changing their base of support."
+    "Limit of Stability: The maximum boundary perimeter over which a person can intentionally lean their center of mass in any direction without losing balance or changing their base of support.",
+    "Center of Gravity (COG): The theoretical biomechanical point in space where the body's entire mass or weight is considered concentrated. While Center of Mass (COM) refers to the average position of the physical matter, COG specifically represents the point of application of the net gravitational force vector. Clinically, managing the vertical alignment of COG over the base of support (BOS) is the primary objective of balance and postural stability training.",
+    "Line of Gravity (LOG): The vertical line passing downward through the body's Center of Gravity (COG) to the ground. In an ideal upright posture, its normal sagittal pathway passes through the mastoid region, the shoulder region, slightly anterior to S2, posterior to the hip axis, slightly anterior to the knee axis, and slightly anterior to the lateral malleolus.",
+    "Vestibular Ataxia: A coordination impairment caused by lesions or dysfunction in the vestibular system (such as the semicircular canals, vestibular nerve, or vestibular nuclei). It presents clinically with a staggering gait, head tilting, vertigo, nystagmus, and a tendency to sway or fall toward the side of the lesion, which differentiates it from cerebellar ataxia (marked by dysmetria and kinetic tremor) and sensory ataxia (marked by conscious proprioceptive loss and a positive Romberg sign)."
   ],
   "principle": [
     "Tri-Sensory Integration Model: Human postural control relies upon continuous, overlapping sensory cues from the vestibular system (head acceleration), the visual system (horizontal tracking), and the somatosensory system (proprioceptive joint and pressure sensors).",
     "Postural Adjustment Strategies: Dynamic balance corrections over a fixed base of support are managed sequentially by three distinct mechanical strategies: the ankle strategy (small sways), the hip strategy (larger rapid sways), and the stepping strategy (when limits of stability are exceeded).",
     "Reciprocal Innervatory Feedforward: Motor coordination operates via precise anticipatory feedforward muscle activations combined with feedback correction loops, ensuring optimal agonist-antagonist timing.",
-    "Visual Compensatory Feedback: In cases of somatosensory proprioceptive deficits (e.g., sensory ataxia), the central nervous system can utilize focused visual tracking as a primary substitute feedback source to regulate alignment."
+    "Visual Compensatory Feedback: In cases of somatosensory proprioceptive deficits (e.g., sensory ataxia), the central nervous system can utilize focused visual tracking as a primary substitute feedback source to regulate alignment.",
+    "Equilibrium Coordination Tests: Standardized clinical assessments used to evaluate postural control, balance, and whole-body coordination during upright, weight-bearing activities. Examples include the Romberg Test, Sharpened Romberg, Tandem Walking, and Marching in Place (Fukuda's test), all of which assess a patient's integration of sensory inputs to maintain their vertical projection over their base of support.",
+    "Non-Equilibrium Coordination Tests: Standardized clinical assessments designed to isolate and evaluate fine motor control, limb trajectory precision, and joint coordination without challenging upright standing balance or weight-bearing posture. Examples include Finger-to-Nose, Finger-to-Finger, Heel-to-Shin, Finger Tapping, and rapid alternating movements (pronations/supinations), focusing purely on localized motor cortex and cerebellar integration."
   ],
   "equipment": [
     "Pneumatic balance pads, wobble boards, and air-filled stability discs.",
@@ -103,7 +108,8 @@
   "clinicalPearls": [
     "Never allow an ataxic patient to train in a state of high fatigue. Frenkel's exercises require intense mental concentration; practicing while fatigued reinforces chaotic motor patterns and delays neural coordination recovery.",
     "The Romberg test is not a cerebellar test. A positive Romberg (standing stable with eyes open, but swaying/falling immediately upon closing eyes) indicates sensory proprioceptive ataxia (dorsal column disease), where vision was compensating for lost joint inputs.",
-    "When training the ankle strategy, ensure the patient sways from the ankles like a rigid pendulum. If they flex their hips or bend their knees, they are substituting with a hip strategy, bypassing the ankle reflex loop."
+    "When training the ankle strategy, ensure the patient sways from the ankles like a rigid pendulum. If they flex their hips or bend their knees, they are substituting with a hip strategy, bypassing the ankle reflex loop.",
+    "Non-equilibrium tests isolate limb coordination deficits, whereas equilibrium tests challenge integration of visual, vestibular, and somatosensory systems during upright posture."
   ],
   "clinicalProtocols": [
     {
@@ -124,7 +130,9 @@
     "Question: Explain the concept of the 'Limit of Stability' (LOS). | Answer: The Limit of Stability is the maximum angular boundary perimeter over which an individual can shift or lean their center of mass in any direction without losing balance, stepping, or altering their current base of support. In normal adults, this is approximately 12 degrees anteroposteriorly and 16 degrees laterally. | Examiner Key Points: Maximum lean boundary, no stepping, center of mass tracking, angular boundaries. | Clinical Importance: Loss of stability limits directly correlates with high geriatric falls and requires specific tilt training.",
     "Question: Why do patients with sensory ataxia present with a characteristic 'Stamping' gait? | Answer: Because of the loss of conscious proprioceptive sensory pathways (dorsal columns), the patient cannot sense where their feet are in space relative to the floor. They lift their feet unnecessarily high (high-stepping) and stamp their heel hard against the ground to generate a hyper-audible acoustic and vibrations cue that compensates for the lost physical joint sensation. | Examiner Key Points: Proprioception loss, high-stepping, hard stamping, acoustic/vibration feedback. | Clinical Importance: Explains the patient's movement compensations, allowing targeted sensory re-education.",
     "Question: What are the three sensory inputs that regulate human posture and how do you assess each in balance? | Answer: The three inputs are: 1. Vision (assessed by eyes open vs closed). 2. Somatosensory/Proprioception (assessed by standing on a firm vs soft foam surface). 3. Vestibular (assessed by tilting or moving the head while standing). Testing is completed using the Clinical Test of Sensory Interaction on Balance (CTSIB). | Examiner Key Points: Visual, Somatosensory, Vestibular, firm vs foam surfaces, eyes open vs closed. | Clinical Importance: Pinpoints which sensory channel is impaired, guide customized balance training programs.",
-    "Question: How does cognitive dual-tasking affect postural control, and why is it included in late-stage balance training? | Answer: Postural control is not purely automatic; it demands cognitive resources. When a patient performs a secondary cognitive task (e.g., subtracting numbers), cognitive bandwidth is divided, which often increases postural sway. It is trained in the late-stages because real-world walking and balance occur in dual-task environments, making this level of training crucial for community safety. | Examiner Key Points: Cognitive resources, divided bandwidth, increased sway, real-world simulation/generalization. | Clinical Importance: Crucial for determining real-world discharge readiness and predicting risk of fall in communities."
+    "Question: How does cognitive dual-tasking affect postural control, and why is it included in late-stage balance training? | Answer: Postural control is not purely automatic; it demands cognitive resources. When a patient performs a secondary cognitive task (e.g., subtracting numbers), cognitive bandwidth is divided, which often increases postural sway. It is trained in the late-stages because real-world walking and balance occur in dual-task environments, making this level of training crucial for community safety. | Examiner Key Points: Cognitive resources, divided bandwidth, increased sway, real-world simulation/generalization. | Clinical Importance: Crucial for determining real-world discharge readiness and predicting risk of fall in communities.",
+    "Question: Differentiate between Equilibrium and Non-Equilibrium Coordination Tests, providing clinical examples of each. | Answer: Equilibrium coordination tests assess postural control, static and dynamic balance, and whole-body coordination during upright, weight-bearing activities (e.g., Romberg Test, Sharpened Romberg, Tandem Walking, and Fukuda's Marching in Place). Non-equilibrium coordination tests evaluate fine motor control, limb trajectory, and rapid alternating movements without challenging upright standing balance or weight-bearing posture (e.g., Finger-to-Nose, Finger-to-Finger, Heel-to-Shin, Finger Tapping, and rapid alternating pronation/supination). | Examiner Key Points: Weight-bearing balance (equilibrium) vs isolated limb coordination (non-equilibrium), examples (Romberg vs Finger-to-Nose), sensory integration versus localized cerebellar testing. | Clinical Importance: Enables the clinician to pinpoint whether motor uncoordination stems from a balance system integration issue or a pure localized cerebellar/limb motor deficit.",
+    "Question: Define the Line of Gravity (LOG) and describe its normal sagittal pathway through the human body in ideal posture. | Answer: The Line of Gravity (LOG) is the vertical vector passing downward from the body's Center of Gravity (COG) to the ground. In ideal standing posture, its normal sagittal pathway passes through: 1. The mastoid process, 2. Posterior to the cervical spine, 3. Through the shoulder joint axis, 4. Anterior to the thoracic spine, 5. Posterior to the lumbar spine, 6. Slightly anterior to S2 (sacral promontory), 7. Posterior to the hip joint axis, 8. Slightly anterior to the knee joint axis, and 9. Slightly anterior to the lateral malleolus. | Examiner Key Points: Vertical projection from COG, sagittal pathway landmarks (mastoid, shoulder, S2 anterior, hip posterior, knee anterior, lateral malleolus anterior). | Clinical Importance: Provides a standardized biomechanical reference to evaluate postural deviations, joint moments, and balance abnormalities in clinical gait analysis."
   ],
   "mcqs": [
     {
@@ -306,6 +314,28 @@
       "options": ["Hip extension and ankle plantarflexion", "Knee flexion, hip flexion, and ankle dorsiflexion", "Single-leg standing holds", "Rapid sideward stepping moves"],
       "answer": "Knee flexion, hip flexion, and ankle dorsiflexion",
       "explanation": "The suspensory strategy lowers the body's center of mass by flexing the knees, hips, and ankles simultaneously, stabilizing balance in complex dynamic tasks."
+    },
+    {
+      "question": "Which of the following clinical assessments is classified as a Non-Equilibrium Coordination Test?",
+      "options": [
+        "The Romberg Test",
+        "Tandem Walking",
+        "Heel-to-Shin Test",
+        "Fukuda Marching in Place Test"
+      ],
+      "answer": "Heel-to-Shin Test",
+      "explanation": "The Heel-to-Shin test is a non-equilibrium coordination test because it assesses isolated limb coordination and trajectory precision without challenging or requiring upright weight-bearing balance."
+    },
+    {
+      "question": "In an ideal standing posture, which of the following correctly describes the pathway of the sagittal Line of Gravity (LOG) relative to the hip and knee joint axes?",
+      "options": [
+        "Anterior to the hip joint axis and posterior to the knee joint axis",
+        "Posterior to the hip joint axis and slightly anterior to the knee joint axis",
+        "Directly through the center of S2 and posterior to the lateral malleolus",
+        "Anterior to the mastoid process and posterior to the shoulder joint"
+      ],
+      "answer": "Posterior to the hip joint axis and slightly anterior to the knee joint axis",
+      "explanation": "In normal ideal posture, the sagittal Line of Gravity (LOG) passes posterior to the hip joint axis of rotation (creating an extension moment) and slightly anterior to the knee joint axis of rotation (creating an extension moment)."
     }
   ],
   "reference": [
