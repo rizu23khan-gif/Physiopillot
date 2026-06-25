@@ -1,59 +1,63 @@
 {
-  "subject": "Anatomy",
-  "chapterId": "anat_ch31",
-  "chapterName": "Nerves and Blood Vessels of Lower Limb",
-  "definition": [
-    "Chapter Overview: This chapter integrates the vascular, lymphatic, and nervous networks supplying the lower extremity. It concentrates on the Lumbar and Sacral Plexus systems, key nerves (Femoral, Obturator, Sciatic, Tibial, Common Peroneal), major arterial trees, and terminal venous systems (Great and Small Saphenous Veins).",
-    "Lumbar Plexus: Formed by the anterior rami of L1-L4 nerve roots inside the psoas major muscle, branching into the femoral and obturator nerves.",
-    "Sacral Plexus: Formed by the lumbosacral trunk (L4-L5) and anterior rami of S1-S4 nerve roots on the piriformis, branching into the superior/inferior gluteal and sciatic nerves.",
-    "Arterial Systems: The external iliac artery continues as the femoral artery, which transitions to the popliteal artery, bifurcating into the anterior tibial (becomes dorsalis pedis) and posterior tibial arteries."
-  ],
-  "principle": [
-    "Motor-Sensory Dermatomyotomal Framework: Segments from L1 to S3 coordinate lower limb function. Knowledge of specific root testing is essential for spinal lesion diagnosis.",
-    "Venous Return Mechanics: Superficial venous networks run inside superficial fascia, draining into thick deep subfascial veins through perforated valves (perforating veins), running against gravity when calf muscles contract."
-  ],
-  "equipment": [
-    "Neurovascular lower limb charts",
-    "Dermatome mapping reference sheets",
-    "Handheld pocket Doppler for peripheral artery assessments"
-  ],
-  "parameters": {
-    "DorsalisPedisPulsePoint": "Palpated on the dorsum of the foot, immediately lateral to the tendon of extensor hallucis longus.",
-    "SaphenousCutaneousTerritory": "Medial side of the leg and foot down to the level of the first metatarsophalangeal joint."
+  "metadata": {
+    "chapterId": "anat_ch31",
+    "title": "Nerves and Blood Vessels of Lower Limb",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "version": "1.0",
+    "lastUpdated": "2026-06-25",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": [],
+    "status": "published"
   },
-  "physiologicalEffects": [],
-  "indications": [],
-  "contraindications": {
-    "general": [],
-    "local": []
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [
+      "Chapter Overview: This chapter integrates the vascular, lymphatic, and nervous networks supplying the lower extremity. It concentrates on the Lumbar and Sacral Plexus systems, key nerves (Femoral, Obturator, Sciatic, Tibial, Common Peroneal), major arterial trees, and terminal venous systems (Great and Small Saphenous Veins).",
+      "Lumbar Plexus: Formed by the anterior rami of L1-L4 nerve roots inside the psoas major muscle, branching into the femoral and obturator nerves.",
+      "Sacral Plexus: Formed by the lumbosacral trunk (L4-L5) and anterior rami of S1-S4 nerve roots on the piriformis, branching into the superior/inferior gluteal and sciatic nerves.",
+      "Arterial Systems: The external iliac artery continues as the femoral artery, which transitions to the popliteal artery, bifurcating into the anterior tibial (becomes dorsalis pedis) and posterior tibial arteries."
+    ],
+    "coreConcepts": [
+      "Motor-Sensory Dermatomyotomal Framework: Segments from L1 to S3 coordinate lower limb function. Knowledge of specific root testing is essential for spinal lesion diagnosis.",
+      "Venous Return Mechanics: Superficial venous networks run inside superficial fascia, draining into thick deep subfascial veins through perforated valves (perforating veins), running against gravity when calf muscles contract."
+    ],
+    "equipment": [
+      "Neurovascular lower limb charts",
+      "Dermatome mapping reference sheets",
+      "Handheld pocket Doppler for peripheral artery assessments"
+    ]
   },
-  "technique": {
-    "patientPreparation": [],
-    "apparatusPreparation": [],
-    "skinPreparation": [],
-    "electrodePlacement": [],
-    "treatmentProcedure": ["Key investigative signs of safe saphenous harvesting include locating the nerve to prevent iatrogenic nerve damage during varicose vein strip surgeries."]
+  "clinicalCorrelations": {
+    "pearls": [
+      "DVT and Pulmonary Embolism: Deep Vein Thrombosis (DVT) occurs in the deep sinuses of the calf. Sloughed clots migrate via the IVC to the right heart, obstructing the pulmonary trunk, presenting as acute, high-mortality dyspnea and thoracic chest pain.",
+      "Sciatica: Compression of the sciatic nerve roots (frequently L5 or S1 by a herniated disc) causes shooting, burning pain traveling from the buttock, down the posterior thigh, and into the leg and foot.",
+      "Intermittent Claudication: Painful cramping in the calf muscles during walking, relieved by rest. It results from peripheral arterial disease (PAD), which limits arterial inflow during muscle exertion."
+    ],
+    "precautions": [],
+    "indications": [],
+    "contraindications": {
+      "general": [],
+      "local": []
+    },
+    "technique": {
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": [
+        "Key investigative signs of safe saphenous harvesting include locating the nerve to prevent iatrogenic nerve damage during varicose vein strip surgeries."
+      ]
+    },
+    "protocols": [],
+    "physiologicalEffects": []
   },
-  "precautions": [],
-  "clinicalPearls": [
-    "DVT and Pulmonary Embolism: Deep Vein Thrombosis (DVT) occurs in the deep sinuses of the calf. Sloughed clots migrate via the IVC to the right heart, obstructing the pulmonary trunk, presenting as acute, high-mortality dyspnea and thoracic chest pain.",
-    "Sciatica: Compression of the sciatic nerve roots (frequently L5 or S1 by a herniated disc) causes shooting, burning pain traveling from the buttock, down the posterior thigh, and into the leg and foot.",
-    "Intermittent Claudication: Painful cramping in the calf muscles during walking, relieved by rest. It results from peripheral arterial disease (PAD), which limits arterial inflow during muscle exertion."
-  ],
-  "vivaQuestions": [
-    "Question: Where does the Sciatic nerve divide, what are its root values, and what branches does it give off? | Answer: Sourced from L4, L5, S1, S2, and S3. It typically divides at the upper apex of the popliteal fossa into the Tibial Nerve and Common Peroneal (Fibular) Nerve. | Examiner Key Points: L4-S3 roots, Tibial and Common Peroneal branches, popliteal bifurcation. | Clinical Importance: Sciatic nerve compression triggers sciatica pain.",
-    "Question: Compare the origins, courses, and termination points of the Great and Small Saphenous Veins. | Answer: Great Saphenous Vein: Originates at the medial end of the dorsal venous arch, ascends in front of the medial malleolus, up the medial leg and thigh, and terminates in the femoral vein at the saphenous opening. Small Saphenous Vein: Originates at the lateral end of the arch, passes behind the lateral malleolus, up the calf midline, and drains into the popliteal vein in the popliteal fossa. | Examiner Key Points: Great medial/anterior, Small lateral/posterior; femoral vs popliteal terminations. | Clinical Importance: Standard lines for bypass graft harvests.",
-    "Question: Where is the Dorsalis Pedis artery pulse palpated and what is its parent vessel? | Answer: Palpated on the dorsum of the foot, just lateral to the tendon of Extensor Hallucis Longus (EHL). It is the direct continuation of the Anterior Tibial Artery. | Examiner Key Points: Lateral to EHL tendon, dorsum of foot, continuation of anterior tibial. | Clinical Importance: Absence of pulse indicates Peripheral Arterial Disease (PAD).",
-    "Question: What is the clinical sign and pathology of Sciatica?| Answer: Radiating sciatic pain descending from the lumbar spine/gluteal area down the postero-lateral extremity, most commonly caused by L5/S1 disc herniations compression.| Examiner Key Points: Radiating pain path, L5/S1 disc protrusion.| Clinical Importance: Confirmed clinically using the Straight Leg Raise (SLR) test.",
-    "Question: Detail the composition and root values of the Femoral Nerve.| Answer: Formed by the posterior divisions of the ventral rami of L2, L3, and L4 spinal nerves of the lumbar plexus.| Examiner Key Points: Posterior divisions, L2-L4 roots.| Clinical Importance: Innervates hip flexors and knee extensors.",
-    "Question: Contrast the superficial and deep peroneal nerves.| Answer: Superficial peroneal: supplies lateral compartment evertors and dorsal foot skin. Deep peroneal: supplies anterior compartment dorsiflexors and 1st web space skin.| Examiner Key Points: Superficial lateral/sensory, Deep anterior/1st web space.| Clinical Importance: Isolated deep peroneal nerve damage blocks dorsiflexion while keeping eversion intact.",
-    "Question: Describe the sensory block zone of the Saphenous Nerve.| Answer: Supplies cutaneous sensation to the medial aspect of the leg, ankle, and medial border of the foot.| Examiner Key Points: Medial leg/foot down to 1st MTP joint.| Clinical Importance: Prone to injury during saphenous vein stripping, leaving medial ankle numbness.",
-    "Question: Explain the pathology of Deep Vein Thrombosis (DVT).| Answer: Clot formation inside deep veins of the calf/thigh favored by Virchow’s triad (stasis, hypercoagulability, endothelial injury).| Examiner Key Points: Virchow's triad, deep leg veins, pulmonary embolism threat.| Clinical Importance: Presents with calf swelling, warmth, and a positive Homan's sign.",
-    "Question: Where is the posterior tibial artery pulse palpated?| Answer: Positoned midway between the tendon of calcaneus and the posterior margin of the medial malleolus.| Examiner Key Points: Posterior to medial malleolus, anterior to Achilles.| Clinical Importance: Auxiliary site for checking lower extremity peripheral circulation.",
-    "Question: What are pelvic perforating veins and what occurs when their valves become incompetent? | Answer: Veins that pierce the deep fascia to connect superficial and deep veins. Incompetent valves allow blood to flow backward from deep to superficial, causing Varicose Veins.| Examiner Key Points: Perforating veins, retro-flow, varicose veins.| Clinical Importance: Leads to venous stasis ulcers in the lower leg."
-  ],
+  "clinicalCases": [],
   "mcqs": [
     {
+      "id": "mcq_anat_ch31_001",
       "question": "The Sciatic nerve arises from which spinal nerve segments of the sacral plexus?",
       "options": [
         "L1 to L4",
@@ -65,6 +69,7 @@
       "explanation": "The massive sciatic nerve is formed by the ventral rami of spinal nerves L4 through S3."
     },
     {
+      "id": "mcq_anat_ch31_002",
       "question": "Which of the following blood vessels represents the direct distal continuation of the anterior tibial artery?",
       "options": [
         "Dorsalis pedis artery",
@@ -76,6 +81,7 @@
       "explanation": "The anterior tibial artery crosses the ankle joint to become the dorsalis pedis artery."
     },
     {
+      "id": "mcq_anat_ch31_003",
       "question": "The Great Saphenous vein originates from which aspect of the foot and drains into which vein?",
       "options": [
         "Medial aspect of dorsal venous arch; drains into Femoral vein",
@@ -87,6 +93,7 @@
       "explanation": "Great Saphenous vein arises medially, runs anterior to the medial malleolus, and terminates in the deep femoral vein."
     },
     {
+      "id": "mcq_anat_ch31_004",
       "question": "The Small Saphenous vein terminates by draining into which of the following vessels?",
       "options": [
         "Femoral vein",
@@ -98,6 +105,7 @@
       "explanation": "The small saphenous vein travels up the back of the leg to empty into the popliteal vein behind the knee."
     },
     {
+      "id": "mcq_anat_ch31_005",
       "question": "Which nerve is at high risk of damage during surgical removal or vein stripping of the Great Saphenous vein?",
       "options": [
         "Common peroneal nerve",
@@ -109,6 +117,7 @@
       "explanation": "The saphenous nerve accompanies the great saphenous vein in the leg, making it vulnerable to injury during stripping procedures."
     },
     {
+      "id": "mcq_anat_ch31_006",
       "question": "The femoral nerve is formed by which division of the ventral rami of L2-L4?",
       "options": [
         "Posterior divisions",
@@ -120,6 +129,7 @@
       "explanation": "The lumbar plexus divides; the posterior divisions of L2-L4 form the femoral nerve, while the anterior divisions form the obturator nerve."
     },
     {
+      "id": "mcq_anat_ch31_007",
       "question": "Where is the pulse of the posterior tibial artery best palpated?",
       "options": [
         "Behind the medial malleolus, anterior to the calcaneal tendon",
@@ -131,6 +141,7 @@
       "explanation": "The posterior tibial artery runs superficially through the tarsal tunnel, making its pulse palpable postero-inferior to the medial malleolus."
     },
     {
+      "id": "mcq_anat_ch31_008",
       "question": "The obturator nerve arises from which divisions of the ventral rami L2-L4?",
       "options": [
         "Anterior divisions",
@@ -142,6 +153,7 @@
       "explanation": "The anterior divisions of L2, L3, and L4 unite to form the obturator nerve."
     },
     {
+      "id": "mcq_anat_ch31_009",
       "question": "Which major nerve roots compile sensory input testing standardly for the S1 dermatome in general clinic orthopedics?",
       "options": [
         "Lateral side of the foot and little toe",
@@ -153,6 +165,7 @@
       "explanation": "The S1 dermatome covers the lateral margin of the foot and the pinky (5th) toe."
     },
     {
+      "id": "mcq_anat_ch31_010",
       "question": "The L4 dermatome corresponds primarily to which cutaneous sensory field?",
       "options": [
         "Medial side of the leg and medial malleolus",
@@ -164,6 +177,7 @@
       "explanation": "The L4 dermatome tracks across the patella down the medial leg and shin."
     },
     {
+      "id": "mcq_anat_ch31_011",
       "question": "Dorsiflexor muscles of the leg belong to which segment testing levels primarily?",
       "options": [
         "L4-L5",
@@ -175,6 +189,7 @@
       "explanation": "Ankle dorsiflexion (tibialis anterior) is standardly used to test the functional strength of L4-L5 nerve roots."
     },
     {
+      "id": "mcq_anat_ch31_012",
       "question": "The Achilles tendon reflex primarily tests which spinal cord reflex level?",
       "options": [
         "S1-S2",
@@ -186,6 +201,7 @@
       "explanation": "Tapping the Achilles tendon elicits the plantarflexion reflex dependent on intact S1-S2 roots."
     },
     {
+      "id": "mcq_anat_ch31_013",
       "question": "Varicose veins are caused by incompetent valves in which category of lower limb veins?",
       "options": [
         "Perforating and superficial veins",
@@ -197,6 +213,7 @@
       "explanation": "Incompetence in the valves of perforating veins allows high-pressure deep blood to engorge superficial veins, causing tortuous varicosities."
     },
     {
+      "id": "mcq_anat_ch31_014",
       "question": "The femoral artery passes through the adductor hiatus to continue as which artery?",
       "options": [
         "Popliteal artery",
@@ -208,6 +225,7 @@
       "explanation": "The femoral artery enters the popliteal fossa through the adductor magnus hiatus, changing its name to popliteal artery."
     },
     {
+      "id": "mcq_anat_ch31_015",
       "question": "Which nerve accompanies the small saphenous vein along the posterior leg?",
       "options": [
         "Sural nerve",
@@ -219,6 +237,7 @@
       "explanation": "The sural nerve travels alongside the small saphenous vein downstream, supplying the lateral foot skin."
     },
     {
+      "id": "mcq_anat_ch31_016",
       "question": "Unilateral painful swelling of the calf, warm to touch, in a patient post-bedrest is highly suggestive of:",
       "options": [
         "Deep Vein Thrombosis (DVT)",
@@ -230,6 +249,7 @@
       "explanation": "DVT presents as acute calf tenderness, swelling, heat, and tenderness following structural venous stasis."
     },
     {
+      "id": "mcq_anat_ch31_017",
       "question": "Which of the following nerves is a branch of the lumbar plexus rather than the sacral plexus?",
       "options": [
         "Femoral nerve",
@@ -241,6 +261,7 @@
       "explanation": "The femoral nerve arises from L2-L4 of the lumbar plexus; the others arise from the sacral plexus."
     },
     {
+      "id": "mcq_anat_ch31_018",
       "question": "The nerve to the piriformis muscle arises from which sacral segments?",
       "options": [
         "S1, S2",
@@ -252,6 +273,7 @@
       "explanation": "Direct branches from S1 and S2 rami supply the surrounding piriformis muscle."
     },
     {
+      "id": "mcq_anat_ch31_019",
       "question": "Which pelvic nerve represents the primary motor supply to the external urethral and anal sphincters?",
       "options": [
         "Pudendal nerve",
@@ -263,6 +285,7 @@
       "explanation": "The pudendal nerve (S2, S3, S4) supplies the perineal skin, external genitalia, and voluntary urogenital/anal sphincters."
     },
     {
+      "id": "mcq_anat_ch31_020",
       "question": "The posterior tibial artery divides into which terminal branches beneath the flexor retinaculum of the ankle?",
       "options": [
         "Medial and lateral plantar arteries",
@@ -274,6 +297,7 @@
       "explanation": "The posterior tibial artery enters the planter aspect of the foot, splitting into medial and lateral plantar arteries."
     },
     {
+      "id": "mcq_anat_ch31_021",
       "question": "The dorsalis pedis artery terminates by joining which vascular structure in the sole of the foot?",
       "options": [
         "Deep plantar arch",
@@ -285,6 +309,7 @@
       "explanation": "The first perforating branch of dorsalis pedis joins the lateral plantar artery to form the deep plantar arch."
     },
     {
+      "id": "mcq_anat_ch31_022",
       "question": "The peroneus (fibular) artery is standardly a branch of which of the following?",
       "options": [
         "Posterior tibial artery",
@@ -296,6 +321,7 @@
       "explanation": "The peroneal artery is the largest branch of the posterior tibial artery, supplying the lateral leg."
     },
     {
+      "id": "mcq_anat_ch31_023",
       "question": "Which of the following describes the Straight Leg Raise (SLR) test?",
       "options": [
         "Stretches the sciatic nerve and its roots to check for disk herniation irritation",
@@ -307,6 +333,7 @@
       "explanation": "An SLR (Lasegue's Test) stretches the sciatic nerve, triggering radiating pain if nerve roots are compressed by a disc."
     },
     {
+      "id": "mcq_anat_ch31_024",
       "question": "The L5 dermatome is key for exploring sensations on which region of the lower limb?",
       "options": [
         "Dorsum of foot and great toe",
@@ -318,6 +345,7 @@
       "explanation": "The L5 dermatome covers the anterolateral leg and the dorsum of the foot, especially the big toe."
     },
     {
+      "id": "mcq_anat_ch31_025",
       "question": "The L3 dermatome is clinically mapped across which area?",
       "options": [
         "Anterior thigh, passing just above and across the patella",
@@ -329,6 +357,7 @@
       "explanation": "Dermatome L3 tracks obliquely across the anterior interface of the thigh and knee cap."
     },
     {
+      "id": "mcq_anat_ch31_026",
       "question": "Which of the following nerves is responsible for the knee extension movement tested by knee jerk reflex?",
       "options": [
         "Femoral nerve",
@@ -340,6 +369,7 @@
       "explanation": "Knee extension is driven by the quadriceps muscles, which are innervated by the L2-L4 femoral nerve."
     },
     {
+      "id": "mcq_anat_ch31_027",
       "question": "What is the consequence of complete damage to the tibial nerve in the popliteal fossa?",
       "options": [
         "Inability to plantarflex the ankle and lose sole sensation",
@@ -351,6 +381,7 @@
       "explanation": "Tibial nerve damage paralyses calf plantarflexors and destroys plantar sensory feedback (calcaneal/plantar branches)."
     },
     {
+      "id": "mcq_anat_ch31_028",
       "question": "Varicose veins of the leg are treated standardly with which non-surgical physical therapy intervention?",
       "options": [
         "Graduated compression stockings",
@@ -362,6 +393,7 @@
       "explanation": "Compression stockings support the muscle pump and external walls, preventing venous pooling and stasis."
     },
     {
+      "id": "mcq_anat_ch31_029",
       "question": "The femoral vein lies in which relation to the femoral artery at the groin level?",
       "options": [
         "Immediately medial to the artery",
@@ -373,6 +405,7 @@
       "explanation": "At the femoral groin crease, the order from lateral to medial is Nerve, Artery, Vein (NAV)."
     },
     {
+      "id": "mcq_anat_ch31_030",
       "question": "A patient complaining of burning calf pain induced by walking that is instantly relieved by resting has symptoms resembling:",
       "options": [
         "Intermittent claudication",
@@ -384,8 +417,90 @@
       "explanation": "Claudication is ischemic muscle pain from peripheral arterial disease, flared by active metabolic load and settled by rest."
     }
   ],
-  "reference": [
+  "flashcards": [],
+  "viva": [
+    {
+      "id": "viva_anat_ch31_001",
+      "question": "Where does the Sciatic nerve divide, what are its root values, and what branches does it give off?",
+      "answer": "Sourced from L4, L5, S1, S2, and S3. It typically divides at the upper apex of the popliteal fossa into the Tibial Nerve and Common Peroneal (Fibular) Nerve.",
+      "keyPoints": "L4-S3 roots, Tibial and Common Peroneal branches, popliteal bifurcation.",
+      "clinicalImportance": "Sciatic nerve compression triggers sciatica pain."
+    },
+    {
+      "id": "viva_anat_ch31_002",
+      "question": "Compare the origins, courses, and termination points of the Great and Small Saphenous Veins.",
+      "answer": "Great Saphenous Vein: Originates at the medial end of the dorsal venous arch, ascends in front of the medial malleolus, up the medial leg and thigh, and terminates in the femoral vein at the saphenous opening. Small Saphenous Vein: Originates at the lateral end of the arch, passes behind the lateral malleolus, up the calf midline, and drains into the popliteal vein in the popliteal fossa.",
+      "keyPoints": "Great medial/anterior, Small lateral/posterior; femoral vs popliteal terminations.",
+      "clinicalImportance": "Standard lines for bypass graft harvests."
+    },
+    {
+      "id": "viva_anat_ch31_003",
+      "question": "Where is the Dorsalis Pedis artery pulse palpated and what is its parent vessel?",
+      "answer": "Palpated on the dorsum of the foot, just lateral to the tendon of Extensor Hallucis Longus (EHL). It is the direct continuation of the Anterior Tibial Artery.",
+      "keyPoints": "Lateral to EHL tendon, dorsum of foot, continuation of anterior tibial.",
+      "clinicalImportance": "Absence of pulse indicates Peripheral Arterial Disease (PAD)."
+    },
+    {
+      "id": "viva_anat_ch31_004",
+      "question": "What is the clinical sign and pathology of Sciatica?| Answer: Radiating sciatic pain descending from the lumbar spine/gluteal area down the postero-lateral extremity, most commonly caused by L5/S1 disc herniations compression.| Examiner Key Points: Radiating pain path, L5/S1 disc protrusion.| Clinical Importance: Confirmed clinically using the Straight Leg Raise (SLR) test.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch31_005",
+      "question": "Detail the composition and root values of the Femoral Nerve.| Answer: Formed by the posterior divisions of the ventral rami of L2, L3, and L4 spinal nerves of the lumbar plexus.| Examiner Key Points: Posterior divisions, L2-L4 roots.| Clinical Importance: Innervates hip flexors and knee extensors.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch31_006",
+      "question": "Contrast the superficial and deep peroneal nerves.| Answer: Superficial peroneal: supplies lateral compartment evertors and dorsal foot skin. Deep peroneal: supplies anterior compartment dorsiflexors and 1st web space skin.| Examiner Key Points: Superficial lateral/sensory, Deep anterior/1st web space.| Clinical Importance: Isolated deep peroneal nerve damage blocks dorsiflexion while keeping eversion intact.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch31_007",
+      "question": "Describe the sensory block zone of the Saphenous Nerve.| Answer: Supplies cutaneous sensation to the medial aspect of the leg, ankle, and medial border of the foot.| Examiner Key Points: Medial leg/foot down to 1st MTP joint.| Clinical Importance: Prone to injury during saphenous vein stripping, leaving medial ankle numbness.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch31_008",
+      "question": "Explain the pathology of Deep Vein Thrombosis (DVT).| Answer: Clot formation inside deep veins of the calf/thigh favored by Virchow’s triad (stasis, hypercoagulability, endothelial injury).| Examiner Key Points: Virchow's triad, deep leg veins, pulmonary embolism threat.| Clinical Importance: Presents with calf swelling, warmth, and a positive Homan's sign.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch31_009",
+      "question": "Where is the posterior tibial artery pulse palpated?| Answer: Positoned midway between the tendon of calcaneus and the posterior margin of the medial malleolus.| Examiner Key Points: Posterior to medial malleolus, anterior to Achilles.| Clinical Importance: Auxiliary site for checking lower extremity peripheral circulation.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch31_010",
+      "question": "What are pelvic perforating veins and what occurs when their valves become incompetent?",
+      "answer": "Veins that pierce the deep fascia to connect superficial and deep veins. Incompetent valves allow blood to flow backward from deep to superficial, causing Varicose Veins.| Examiner Key Points: Perforating veins, retro-flow, varicose veins.| Clinical Importance: Leads to venous stasis ulcers in the lower leg.",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    }
+  ],
+  "pyqs": [],
+  "references": [
     "B.D. Chaurasia's Human Anatomy, Volume II - Lower Limb, Chapter 9: Nerves and Blood Vessels.",
     "Vishram Singh - Textbook of Anatomy: Lower Limb (Volume 2, Chapter on Vessels and Nerves of Lower Extremity)"
-  ]
+  ],
+  "subjectExtensions": {
+    "anatomy": {
+      "parameters": {
+        "DorsalisPedisPulsePoint": "Palpated on the dorsum of the foot, immediately lateral to the tendon of extensor hallucis longus.",
+        "SaphenousCutaneousTerritory": "Medial side of the leg and foot down to the level of the first metatarsophalangeal joint."
+      }
+    }
+  }
 }

@@ -1,0 +1,2001 @@
+[
+  {
+    "id": "anat_ch1",
+    "name": "Introduction to Anatomy & Osteology",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch10",
+    "name": "Forearm",
+    "subject": "Anatomy",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "anat_ch11",
+    "name": "Elbow & Radio-ulnar Joints",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch12",
+    "name": "Hand",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch13",
+    "name": "Joints & Movements of Hand",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch14",
+    "name": "Major Nerves of Upper Limb",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch15",
+    "name": "Introduction to Thorax and Thoracic Cage",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch16",
+    "name": "Bones and Joints of the Thorax",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch17",
+    "name": "Thoracic Wall and Mechanism of Respiration",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch18",
+    "name": "Pleural Cavities",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch19",
+    "name": "Lungs (Pulmones)",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch2",
+    "name": "Introduction to Upper Limb",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch20",
+    "name": "Mediastinum",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch21",
+    "name": "Pericardium and Heart",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch24",
+    "name": "Thoracic Duct, Azygos and Hemiazygos Veins, and Thoracic Sympathetic Trunks",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch25",
+    "name": "Bones of Lower Limb",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch26",
+    "name": "Anterior Compartment of Thigh & Femoral Triangle",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch27",
+    "name": "Gluteal Region & Medial Thigh",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch28",
+    "name": "Posterior Thigh & Popliteal Fossa",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch29",
+    "name": "Knee Joint & Leg Compartments",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch3",
+    "name": "Bones of Upper Limb",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch30",
+    "name": "Ankle, Foot & Arches of Foot",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch31",
+    "name": "Nerves and Blood Vessels of Lower Limb",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch32",
+    "name": "Skull and Cranial Cavity",
+    "subject": "Anatomy",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "anat_ch4",
+    "name": "Pectoral Region",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch5",
+    "name": "Axilla",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch6",
+    "name": "Back & Scapular Region",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch7",
+    "name": "Shoulder Joint Complex",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch8",
+    "name": "Cutaneous Innervation, Venous Drainage & Lymphatics",
+    "subject": "Anatomy",
+    "score": 95,
+    "completeness": 95,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "anat_ch9",
+    "name": "Arm",
+    "subject": "Anatomy",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "bio_ch1",
+    "name": "Kinematics",
+    "subject": "Biomechanics & Kinesiology",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "bio_ch10",
+    "name": "Knee Complex",
+    "subject": "Biomechanics & Kinesiology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "bio_ch11",
+    "name": "Ankle & Foot Complex",
+    "subject": "Biomechanics & Kinesiology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "bio_ch12",
+    "name": "Gait Analysis",
+    "subject": "Biomechanics & Kinesiology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "bio_ch13",
+    "name": "Ergonomics & Occupational Health",
+    "subject": "Biomechanics & Kinesiology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "bio_ch2",
+    "name": "Kinetics",
+    "subject": "Biomechanics & Kinesiology",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "bio_ch3",
+    "name": "Movement System",
+    "subject": "Biomechanics & Kinesiology",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "bio_ch4",
+    "name": "Muscle Activity & Strength",
+    "subject": "Biomechanics & Kinesiology",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "bio_ch5",
+    "name": "Shoulder Complex",
+    "subject": "Biomechanics & Kinesiology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "bio_ch6",
+    "name": "Elbow & Forearm Complex",
+    "subject": "Biomechanics & Kinesiology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "bio_ch7",
+    "name": "Wrist & Hand Complex",
+    "subject": "Biomechanics & Kinesiology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "bio_ch8",
+    "name": "Head, Neck, Trunk & Posture",
+    "subject": "Biomechanics & Kinesiology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "bio_ch9",
+    "name": "Pelvis & Hip Complex",
+    "subject": "Biomechanics & Kinesiology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "el1_ch1",
+    "name": "Fundamentals of Biophysics & Currents",
+    "subject": "Electrotherapy I",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "el1_ch2",
+    "name": "Direct & Galvanic Currents",
+    "subject": "Electrotherapy I",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "el1_ch3",
+    "name": "Faradic & Pulsed Currents",
+    "subject": "Electrotherapy I",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "el1_ch4",
+    "name": "Introductory Electro-Diagnostics",
+    "subject": "Electrotherapy I",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "et2_ift",
+    "name": "Interferential Therapy (IFT)",
+    "subject": "Electrotherapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "el2_ch10",
+    "name": "Nerve Conduction Velocity (NCV)",
+    "subject": "Electrotherapy II",
+    "score": 50,
+    "completeness": 50,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing concepts (principles)",
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "el2_ch11",
+    "name": "Therapeutic Traction",
+    "subject": "Electrotherapy II",
+    "score": 50,
+    "completeness": 50,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing concepts (principles)",
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "el2_ch2",
+    "name": "Transcutaneous Electrical Nerve Stimulation (TENS)",
+    "subject": "Electrotherapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "el2_ch3",
+    "name": "Russian Current",
+    "subject": "Electrotherapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "el2_ch4",
+    "name": "Shortwave Diathermy (SWD)",
+    "subject": "Electrotherapy II",
+    "score": 50,
+    "completeness": 50,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing concepts (principles)",
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "el2_ch5",
+    "name": "Microwave Diathermy (MWD)",
+    "subject": "Electrotherapy II",
+    "score": 50,
+    "completeness": 50,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing concepts (principles)",
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "el2_ch6",
+    "name": "LASER Therapy",
+    "subject": "Electrotherapy II",
+    "score": 50,
+    "completeness": 50,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing concepts (principles)",
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "el2_ch7",
+    "name": "Therapeutic Ultrasound (US)",
+    "subject": "Electrotherapy II",
+    "score": 50,
+    "completeness": 50,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing concepts (principles)",
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "el2_ch8",
+    "name": "Biofeedback",
+    "subject": "Electrotherapy II",
+    "score": 50,
+    "completeness": 50,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing concepts (principles)",
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "el2_ch9",
+    "name": "Electromyography (EMG)",
+    "subject": "Electrotherapy II",
+    "score": 50,
+    "completeness": 50,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing concepts (principles)",
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "ex1_ch1",
+    "name": "Mechanical Principles & Skeletal Levers",
+    "subject": "Exercise Therapy I",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "ex1_ch2",
+    "name": "Range of Motion (ROM) Exercise",
+    "subject": "Exercise Therapy I",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "ex1_ch3",
+    "name": "Joint Movements & Starting Positions",
+    "subject": "Exercise Therapy I",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing viva content"
+    ]
+  },
+  {
+    "id": "ex1_ch4",
+    "name": "Introductory Therapeutic Massage",
+    "subject": "Exercise Therapy I",
+    "score": 90,
+    "completeness": 90,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing viva content"
+    ]
+  },
+  {
+    "id": "ex1_ch5",
+    "name": "Relaxation Techniques",
+    "subject": "Exercise Therapy I",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "ex1_ch6",
+    "name": "Group Muscle Actions & Muscle Work",
+    "subject": "Exercise Therapy I",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "ex2_ch1",
+    "name": "Goniometry Mechanics",
+    "subject": "Exercise Therapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "ex2_ch10",
+    "name": "Hydrotherapy",
+    "subject": "Exercise Therapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "ex2_ch11",
+    "name": "Posture & Corrective Exercise",
+    "subject": "Exercise Therapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "ex2_ch12",
+    "name": "Proprioceptive Neuromuscular Facilitation",
+    "subject": "Exercise Therapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "ex2_ch2",
+    "name": "Manual Muscle Testing",
+    "subject": "Exercise Therapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "ex2_ch3",
+    "name": "Passive Stretching & Flexibility",
+    "subject": "Exercise Therapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "ex2_ch4",
+    "name": "Suspension Therapy",
+    "subject": "Exercise Therapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "ex2_ch5",
+    "name": "Progressive Resistance Exercise",
+    "subject": "Exercise Therapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "ex2_ch6",
+    "name": "Peripheral Joint Mobilization",
+    "subject": "Exercise Therapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "ex2_ch7",
+    "name": "Balance & Coordination Training",
+    "subject": "Exercise Therapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "ex2_ch8",
+    "name": "Gait Analysis & Training",
+    "subject": "Exercise Therapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "ex2_ch9",
+    "name": "Crutch Walking & Ambulation Aids",
+    "subject": "Exercise Therapy II",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "micro_ch1",
+    "name": "Introduction to Microbiology & Bacterial Morphology",
+    "subject": "Microbiology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "micro_ch2",
+    "name": "Sterilization and Disinfection",
+    "subject": "Microbiology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "micro_ch3",
+    "name": "Immunology & Hypersensitivity Basics",
+    "subject": "Microbiology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "micro_ch4",
+    "name": "Systemic Bacteriology & Wound Infections",
+    "subject": "Microbiology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "micro_ch5",
+    "name": "Virology & Viral Pathogens",
+    "subject": "Microbiology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "micro_ch6",
+    "name": "Mycology & Fungal Infections",
+    "subject": "Microbiology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "micro_ch7",
+    "name": "Virology, Bloodborne Pathogens & Neuro-Infections",
+    "subject": "Microbiology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "micro_ch8",
+    "name": "Nosocomial Infections & Biomedical Waste Management",
+    "subject": "Microbiology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "path_ch1",
+    "name": "Cell Injury & Adaptation",
+    "subject": "Pathology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch10",
+    "name": "Disease of Heart",
+    "subject": "Pathology",
+    "score": 69,
+    "completeness": 69,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch11",
+    "name": "Respiratory System",
+    "subject": "Pathology",
+    "score": 69,
+    "completeness": 69,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch12",
+    "name": "Joint Disorders",
+    "subject": "Pathology",
+    "score": 69,
+    "completeness": 69,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch13",
+    "name": "Bone Disorders",
+    "subject": "Pathology",
+    "score": 69,
+    "completeness": 69,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch14",
+    "name": "Muscle Disorders",
+    "subject": "Pathology",
+    "score": 69,
+    "completeness": 69,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch15",
+    "name": "Nervous System",
+    "subject": "Pathology",
+    "score": 69,
+    "completeness": 69,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch2",
+    "name": "Inflammation",
+    "subject": "Pathology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch3",
+    "name": "Healing and Repair",
+    "subject": "Pathology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch4",
+    "name": "Hemodynamic Derangements",
+    "subject": "Pathology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch5",
+    "name": "Immunity & Hypersensitivity",
+    "subject": "Pathology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch6",
+    "name": "Neoplasia",
+    "subject": "Pathology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch7",
+    "name": "Nutritional Disorders",
+    "subject": "Pathology",
+    "score": 92,
+    "completeness": 92,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": [
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch8",
+    "name": "Blood Disorders",
+    "subject": "Pathology",
+    "score": 69,
+    "completeness": 69,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "path_ch9",
+    "name": "Blood Vessels",
+    "subject": "Pathology",
+    "score": 69,
+    "completeness": 69,
+    "alignment": "High",
+    "accuracy": "Moderate",
+    "ptRelevance": "Moderate",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Major Revision Needed",
+    "justification": "Significant gaps in clinical application, assessment questions, or therapeutic integration.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs",
+      "Missing physiotherapy integration",
+      "Missing safety information"
+    ]
+  },
+  {
+    "id": "pharm_ch1",
+    "name": "General Pharmacology",
+    "subject": "Pharmacology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "pharm_ch10",
+    "name": "Hormones & Endocrine Pharmacology",
+    "subject": "Pharmacology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "pharm_ch11",
+    "name": "Chemotherapy & Anti-Infective Pharmacology",
+    "subject": "Pharmacology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "pharm_ch12",
+    "name": "Geriatric Pharmacology",
+    "subject": "Pharmacology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "pharm_ch2",
+    "name": "Autonomic Nervous System Pharmacology",
+    "subject": "Pharmacology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "pharm_ch3",
+    "name": "Musculoskeletal System",
+    "subject": "Pharmacology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "pharm_ch4",
+    "name": "Drugs Acting on Kidney",
+    "subject": "Pharmacology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "pharm_ch5",
+    "name": "Cardiovascular System & Blood",
+    "subject": "Pharmacology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "pharm_ch6",
+    "name": "Central Nervous System Pharmacology",
+    "subject": "Pharmacology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "pharm_ch7",
+    "name": "Blood Pharmacology, Anticoagulants, Antiplatelets & Thromboembolic Disorders",
+    "subject": "Pharmacology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "pharm_ch8",
+    "name": "Respiratory System",
+    "subject": "Pharmacology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "pharm_ch9",
+    "name": "Immunopharmacology, Vaccines, Topical Agents & Wound Healing Pharmacology",
+    "subject": "Pharmacology",
+    "score": 80,
+    "completeness": 80,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "Low",
+    "classification": "Minor Revision Needed",
+    "justification": "Core content is solid but requires additional assessment items or minor clinical updates.",
+    "missing": [
+      "Missing viva content",
+      "Missing MCQs"
+    ]
+  },
+  {
+    "id": "phys_ch1",
+    "name": "General Cell Physiology",
+    "subject": "Physiology",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "phys_ch2",
+    "name": "Neuromuscular Physiology",
+    "subject": "Physiology",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "phys_ch3",
+    "name": "Cardiovascular & Respiratory Systems",
+    "subject": "Physiology",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  },
+  {
+    "id": "phys_ch4",
+    "name": "Nervous System & Reflex Arcs",
+    "subject": "Physiology",
+    "score": 100,
+    "completeness": 100,
+    "alignment": "High",
+    "accuracy": "High",
+    "ptRelevance": "High",
+    "readability": "High",
+    "examReadiness": "High",
+    "classification": "Production Ready",
+    "justification": "Content is comprehensive, meets assessment standards, and contains robust clinical correlation.",
+    "missing": []
+  }
+]

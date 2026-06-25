@@ -1,62 +1,66 @@
 {
-  "subject": "Anatomy",
-  "chapterId": "anat_ch11",
-  "chapterName": "Elbow & Radio-ulnar Joints",
-  "definition": [
-    "Elbow Joint Complex: A composite synovial joint combining three articulations in a single joint cavity: 1) Humeroulnar joint (synovial hinge joint between humerus trochlea and ulnar trochlear notch), 2) Humeroradial joint (synovial hinge/ball-and-socket joint between humerus capitulum and radial head fovea), and 3) Proximal Radioulnar joint (synovial pivot joint).",
-    "Radio-ulnar Joints: Comprise three distinct junctions uniting the radius and ulna: Proximal (Pivot, head of radius in radial notch of ulna, secured by annular ligament), Middle (Syndesmosis, formed by the obliquely bound fiber bundles of the Interosseous Membrane), and Distal (Pivot, head of ulna in ulnar notch of radius, secured by the Triangular Fibrocartilage Complex (TFCC)). These joints allow forearm pronation and supination."
-  ],
-  "principle": [
-    "Articular Surfaces and Capsule: The humerus trochlea and trochlear notch of the ulna dominate the hinge mechanism. The fibrous capsule is thin anteriorly and posteriorly to permit free flexion-extension but is reinforced laterally and medially by strong collateral ligaments.",
-    "Ulnar Collateral Ligament (UCL / Medial Collateral): A powerful, tripartite ligament stabilizing the elbow against valgus stress. Composed of: 1) Anterior band (strongest, cord-like from medial epicondyle to sublime tubercle of coronoid process), 2) Posterior band (fan-like to olecranon), and 3) Transverse (oblique) band (Coopers ligament).",
-    "Radial Collateral and Annular Ligaments: The Radial Collateral Ligament (RCL) extends from the lateral epicondyle and blends with the Annular Ligament. The Annular Ligament forms a circular loop osseofibrous collar around the neck and head of the radius, holding it firmly in the ulnar notch without restricting its rotary motion during pronation and supination.",
-    "Interosseous Membrane and Force Transduction: A robust fibrous sheet of collagen bundles running downwards and medially from the radius to the ulna. It serves as a muscle attachment surface and actively absorbs compressional shocks from the hand, transferring up to 80% of loading forces from the radius to the larger proximal ulna."
-  ],
-  "equipment": [
-    "Humeroulnar Articulation (Hinge joint permitting flexion and extension)",
-    "Humeroradial Articulation (Pivot-conforming interface with capitulum)",
-    "Ulnar Collateral Ligament (Three distinct bands protecting against valgus stress)",
-    "Radial Collateral Ligament (Resensors lateral varus strain vectors)",
-    "Annular Ligament (Secures head of radius within ulnar radial notch)",
-    "Proximal Radioulnar Joint (Pivot interface permitting forearm rotation)",
-    "Distal Radioulnar Joint (Triangular fibrocartilage articular disc interface)",
-    "Interosseous Membrane (Transfers axial loads from radius to ulna)"
-  ],
-  "parameters": {},
-  "physiologicalEffects": [],
-  "indications": [],
-  "contraindications": {
-    "general": [],
-    "local": []
+  "metadata": {
+    "chapterId": "anat_ch11",
+    "title": "Elbow & Radio-ulnar Joints",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "version": "1.0",
+    "lastUpdated": "2026-06-25",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": [],
+    "status": "published"
   },
-  "technique": {
-    "patientPreparation": [],
-    "apparatusPreparation": [],
-    "skinPreparation": [],
-    "electrodePlacement": [],
-    "treatmentProcedure": []
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [
+      "Elbow Joint Complex: A composite synovial joint combining three articulations in a single joint cavity: 1) Humeroulnar joint (synovial hinge joint between humerus trochlea and ulnar trochlear notch), 2) Humeroradial joint (synovial hinge/ball-and-socket joint between humerus capitulum and radial head fovea), and 3) Proximal Radioulnar joint (synovial pivot joint).",
+      "Radio-ulnar Joints: Comprise three distinct junctions uniting the radius and ulna: Proximal (Pivot, head of radius in radial notch of ulna, secured by annular ligament), Middle (Syndesmosis, formed by the obliquely bound fiber bundles of the Interosseous Membrane), and Distal (Pivot, head of ulna in ulnar notch of radius, secured by the Triangular Fibrocartilage Complex (TFCC)). These joints allow forearm pronation and supination."
+    ],
+    "coreConcepts": [
+      "Articular Surfaces and Capsule: The humerus trochlea and trochlear notch of the ulna dominate the hinge mechanism. The fibrous capsule is thin anteriorly and posteriorly to permit free flexion-extension but is reinforced laterally and medially by strong collateral ligaments.",
+      "Ulnar Collateral Ligament (UCL / Medial Collateral): A powerful, tripartite ligament stabilizing the elbow against valgus stress. Composed of: 1) Anterior band (strongest, cord-like from medial epicondyle to sublime tubercle of coronoid process), 2) Posterior band (fan-like to olecranon), and 3) Transverse (oblique) band (Coopers ligament).",
+      "Radial Collateral and Annular Ligaments: The Radial Collateral Ligament (RCL) extends from the lateral epicondyle and blends with the Annular Ligament. The Annular Ligament forms a circular loop osseofibrous collar around the neck and head of the radius, holding it firmly in the ulnar notch without restricting its rotary motion during pronation and supination.",
+      "Interosseous Membrane and Force Transduction: A robust fibrous sheet of collagen bundles running downwards and medially from the radius to the ulna. It serves as a muscle attachment surface and actively absorbs compressional shocks from the hand, transferring up to 80% of loading forces from the radius to the larger proximal ulna."
+    ],
+    "equipment": [
+      "Humeroulnar Articulation (Hinge joint permitting flexion and extension)",
+      "Humeroradial Articulation (Pivot-conforming interface with capitulum)",
+      "Ulnar Collateral Ligament (Three distinct bands protecting against valgus stress)",
+      "Radial Collateral Ligament (Resensors lateral varus strain vectors)",
+      "Annular Ligament (Secures head of radius within ulnar radial notch)",
+      "Proximal Radioulnar Joint (Pivot interface permitting forearm rotation)",
+      "Distal Radioulnar Joint (Triangular fibrocartilage articular disc interface)",
+      "Interosseous Membrane (Transfers axial loads from radius to ulna)"
+    ]
   },
-  "precautions": [],
-  "clinicalPearls": [
-    "Pulled Elbow (Nursemaid's Elbow): In young children under 5 years, sudden traction or a upward pull on a fully pronated forearm can slip the small, underdeveloped head of the radius out from beneath the annular ligament. The annular ligament becomes trapped between the head of the radius and the capitulum, causing severe pain and keeping the arm semi-flexed and pronated.",
-    "Student's Elbow (Olecranon Bursitis): The subcutaneous olecranon bursa is located superficially over the tip of the elbow and is highly susceptible to friction-induced inflammation. Repetitive weight-bearing rest on the elbow (such as students studying) or sudden direct trauma causes severe fluid accumulation and swelling over the posterior elbow.",
-    "Elbow Carrying Angle and Deformities: With the elbow extended and forearm supinated, the long axis of the arm and forearm form an angle of 10 to 15 degrees in males and up to 15 to 20 degrees in females. This is the carrying angle, which prevents the forearm from hitting the pelvis during walking. Deviations include cubitus valgus (increased angle) and cubitus varus (decreased angle 'gunstock deformity', common after poorly consolidated supracondylar fractures)."
-  ],
-  "clinicalProtocols": [],
-  "vivaQuestions": [
-    "Question: What anatomical structures form and secure the 'carrying angle' of the elbow? | Answer: The carrying angle is formed by the oblique orientation of the trochlear groove of the humerus, which points downwards and laterally, making the ulnar notch tilt. This angle disappears during elbow flexion and pronation. | Examiner Key Points: Oblique trochlea, supination/extension presentation, 10-15 degrees in men, 15-20 in women. | Clinical Importance: Valgus deviations (cubitus valgus) can tract the ulnar nerve behind the medial epicondyle, causing tardy ulnar nerve palsy.",
-    "Question: Explain the mechanism of 'pulled elbow' and name the ligament trapped in this condition. | Answer: A 'pulled elbow' (Nursemaid's elbow) occurs when sudden upward traction is applied to a pronated forearm in a young child. This pulls the small radial head down through the annular ligament, which slips and becomes trapped between the radius and the capitulum of the humerus. | Examiner Key Points: Annular ligament traction, young child, pronation, trapped tissue. | Clinical Importance: Reduction is achieved by gentle supination of the flexed elbow, which pops the radial head back.",
-    "Question: Describe the three bands of the Ulnar Collateral Ligament (UCL) of the elbow. | Answer: The UCL consists of: 1) Anterior band (cord-like, medial epicondyle to sublime tubercle of coronoid process, key block against valgus stress), 2) Posterior band (fan-like, medial epicondyle to olecranon margin), and 3) Transverse oblique band (runs humerus-to-humerus across ulnar notch). | Examiner Key Points: Anterior, posterior, and transverse bands, sublime tubercle of ulna. | Clinical Importance: Pitchers and throwing athletes often rupture the anterior band, requiring Tommy John ligament reconstruction.",
-    "Question: What is the dynamic relationship between the pronator teres, brachioradialis, and the proximal radioulnar joint? | Answer: The proximal radioulnar joint is a pivot joint allowing pronation and supination. Pronator teres cross-pulls the radius medially to pronate, whilst Brachioradialis brings the forearm back into a mid-prone position from either full supination or full pronation. | Examiner Key Points: Forearm pivot joint, pronator teres action, brachioradialis mid-prone restore. | Clinical Importance: Crucial for planning selective muscle retraining in neurologically impaired patients.",
-    "Question: Describe the Interosseous Membrane of the forearm and state its function in force transmission. | Answer: The interosseous membrane is a dense fibrous sheet whose collagen fibers run obliquely downwards and medially from the radius to the ulna. It binds the radius and ulna together, increases area for muscle origin, and transmits axial loading forces from the radius (hand-wrist interface) to the stable ulna (elbow interface). | Examiner Key Points: Fibers run down and medially, radius-to-ulna load transmission. | Clinical Importance: Prevents upward displacement of the radius during heavy push activities, protecting humeroradial articular cartilage.",
-    "Question: Differentiate the primary muscles responsible for supination against resistance versus unresisted supination. | Answer: Unresisted supination of the extended forearm is performed slowly by the Supinator muscle alone. Supination against resistance or with a flexed elbow is powered by the Biceps Brachii, which pulls on its insertion at the radial tuberosity. | Examiner Key Points: Supinator vs Biceps brachii, elbow position, resistance factors. | Clinical Importance: Explains why patients with musculocutaneous nerve injury cannot supinate against resistance but can slowly turn their palm up.",
-    "Question: What is Student's Elbow, and where is the fluid accumulation located anatomically? | Answer: Student's Elbow (olecranon bursitis) is an inflammation of the subcutaneous olecranon bursa, located within the superficial fascia directly overlying the olecranon process of the ulna. It is caused by chronic friction or direct mechanical trauma. | Examiner Key Points: Subcutaneous olecranon bursa, chronic friction. | Clinical Importance: Easily distinguished from joint effusion because the swelling is localized superficially over the ulna tip.",
-    "Question: Describe the boundaries and functional components of the Distal Radioulnar Joint. | Answer: The distal radioulnar joint is a uniaxial pivot synovial joint formed by the ulnar notch of the radius, the rounded head of the ulna, and a horizontal articular disc (triangular fibrocartilage) that separates the ulnar head from the carpal bones. | Examiner Key Points: Ulnar head, ulnar notch of radius, horizontal articular disc (TFCC). | Clinical Importance: Damage to this joint's TFCC disc causes severe wrist pain and instability during pronation/supination.",
-    "Question: Why do supracondylar fractures of the humerus often lead to a 'gunstock' cubitus varus deformity? | Answer: Supracondylar fractures are common pediatric injuries. Malunion or tilting of the distal fragment medially alters the distal articular plane of the humerus, collapsing the carrying angle and turning the forearm inward (cubitus varus, giving a gunstock appearance). | Examiner Key Points: Distal fragment medial tilting, pediatric supracondylar fracture, carrying angle collapse. | Clinical Importance: Primarily cosmetic but requires expert surgical alignment to avoid restricted movement ranges.",
-    "Question: Which nerve can be palpated directly behind the medial epicondyle of the humerus at the elbow joint? | Answer: The Ulnar Nerve. It descends behind the medial epicondyle into the cubital tunnel, where it is highly vulnerable to compression, traction, and direct posterior epicondylar impacts. | Examiner Key Points: Ulnar nerve, medial epicondyle, cubital tunnel. | Clinical Importance: Direct compression causes tingling radiating down the medial forearm into the 4th and 5th fingers (funny bone sensation)."
-  ],
+  "clinicalCorrelations": {
+    "pearls": [
+      "Pulled Elbow (Nursemaid's Elbow): In young children under 5 years, sudden traction or a upward pull on a fully pronated forearm can slip the small, underdeveloped head of the radius out from beneath the annular ligament. The annular ligament becomes trapped between the head of the radius and the capitulum, causing severe pain and keeping the arm semi-flexed and pronated.",
+      "Student's Elbow (Olecranon Bursitis): The subcutaneous olecranon bursa is located superficially over the tip of the elbow and is highly susceptible to friction-induced inflammation. Repetitive weight-bearing rest on the elbow (such as students studying) or sudden direct trauma causes severe fluid accumulation and swelling over the posterior elbow.",
+      "Elbow Carrying Angle and Deformities: With the elbow extended and forearm supinated, the long axis of the arm and forearm form an angle of 10 to 15 degrees in males and up to 15 to 20 degrees in females. This is the carrying angle, which prevents the forearm from hitting the pelvis during walking. Deviations include cubitus valgus (increased angle) and cubitus varus (decreased angle 'gunstock deformity', common after poorly consolidated supracondylar fractures)."
+    ],
+    "precautions": [],
+    "indications": [],
+    "contraindications": {
+      "general": [],
+      "local": []
+    },
+    "technique": {
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": []
+    },
+    "protocols": [],
+    "physiologicalEffects": []
+  },
+  "clinicalCases": [],
   "mcqs": [
     {
+      "id": "mcq_anat_ch11_001",
       "question": "Which of the following three joints are enclosed within a single articulation cavity at the elbow?",
       "options": [
         "Humeroulnar, Humeroradial, and Proximal Radioulnar",
@@ -68,6 +72,7 @@
       "explanation": "The elbow joint is a complex composite synovial joint where the humeroulnar, humeroradial, and proximal radioulnar articulations share a single joint capsule and synovial membrane."
     },
     {
+      "id": "mcq_anat_ch11_002",
       "question": "Which band of the ulnar collateral ligament is considered the strongest and represents the primary stabilizer against valgus stress?",
       "options": [
         "Posterior band",
@@ -79,6 +84,7 @@
       "explanation": "The anterior band of the UCL is cord-like, running from the medial epicondyle to the sublime tubercle of the coronoid process, forming the primary barrier to valgus elbow strain."
     },
     {
+      "id": "mcq_anat_ch11_003",
       "question": "Which ligament forms a loop around the head of the radius to hold it in the radial notch of the ulna?",
       "options": [
         " radial collateral ligament",
@@ -90,6 +96,7 @@
       "explanation": "The annular ligament forms a fibrous cuff around the radial head and neck, attaching to both margins of the radial notch of the ulna to allow pivot rotation."
     },
     {
+      "id": "mcq_anat_ch11_004",
       "question": "At which radio-ulnar joint does the Triangular Fibrocartilage Complex (TFCC) reside as the primary stabilizer?",
       "options": [
         "Proximal radioulnar joint",
@@ -101,6 +108,7 @@
       "explanation": "The TFCC provides major structural stability to the distal radioulnar joint, securing the ulnar notch of the distal radius to the head of the ulna."
     },
     {
+      "id": "mcq_anat_ch11_005",
       "question": " Forearm pronation and supination occur primarily at which of the following joints?",
       "options": [
         "Humeroulnar and humeroradial joints",
@@ -112,6 +120,7 @@
       "explanation": "Pronation and supination are rotational movements occurring simultaneously at the pivot synovial proximal and distal radioulnar joints."
     },
     {
+      "id": "mcq_anat_ch11_006",
       "question": "The direction of fibers in the interosseous membrane of the forearm from the radius is:",
       "options": [
         "Directly horizontal",
@@ -123,6 +132,7 @@
       "explanation": "Interosseous membrane fibers run downwards and medially from the radius to the ulna, which allows the membrane to transfer axial forces from the radius to the stable ulna."
     },
     {
+      "id": "mcq_anat_ch11_007",
       "question": "What is the primary muscle of supination when the elbow is extended with no resistance?",
       "options": [
         "Biceps brachii",
@@ -134,6 +144,7 @@
       "explanation": "The Supinator muscle is the primary driver of slow, unresisted supination regardless of the elbow joint angle."
     },
     {
+      "id": "mcq_anat_ch11_008",
       "question": "Which nerve enters the forearm by passing between the two heads of the supinator muscle?",
       "options": [
         "Ulnar nerve",
@@ -145,6 +156,7 @@
       "explanation": "The deep branch of the radial nerve (posterior interosseous nerve) pierces the supinator muscle and runs between its superficial and deep heads to reach the posterior compartment of the forearm."
     },
     {
+      "id": "mcq_anat_ch11_009",
       "question": "A 3-year-old child presents with a 'pulled elbow'. What biological factor makes kids highly susceptible to this injury?",
       "options": [
         "Extremely loose wrist ligaments",
@@ -156,6 +168,7 @@
       "explanation": "In young kids, the radial head is nearly the same diameter as the shaft. The annular ligament can easily slip over it during sudden longitudinal traction."
     },
     {
+      "id": "mcq_anat_ch11_010",
       "question": "What is the typical carrying angle of the elbow in adult females?",
       "options": [
         "0 to 5 degrees",
@@ -167,6 +180,7 @@
       "explanation": "Adult females typically have a larger carrying angle (15-20 degrees) compared to males (10-15 degrees) due to a wider pelvis and reciprocal structural alignment."
     },
     {
+      "id": "mcq_anat_ch11_011",
       "question": "Student's elbow refers to acute or chronic inflammatory swelling of which bursa?",
       "options": [
         "Subacromial bursa",
@@ -178,6 +192,7 @@
       "explanation": "The subcutaneous olecranon bursa lies superfically between the skin and the olecranon process, making it highly susceptible to irritation from pressure and friction."
     },
     {
+      "id": "mcq_anat_ch11_012",
       "question": "A deformity characterized by an abnormally decreased carrying angle, turning the forearm inward, is termed:",
       "options": [
         "Cubitus valgus",
@@ -189,6 +204,7 @@
       "explanation": "Cubitus varus is a medial deviation of the forearm axis relative to the arm, resulting in a decreased or reversed carrying angle (gunstock deformity)."
     },
     {
+      "id": "mcq_anat_ch11_013",
       "question": "Which of the following serves as the primary motor muscle for active forearm pronation?",
       "options": [
         "Brachioradialis",
@@ -200,6 +216,7 @@
       "explanation": "Forearm pronation is primarily driven by Pronator Quadratus (key initiator) and supplemented by Pronator Teres (activated during rapid or resisted pronation)."
     },
     {
+      "id": "mcq_anat_ch11_014",
       "question": "Which nerve is at high risk of stretch injury behind the elbow due to severe 'cubitus valgus' deformity?",
       "options": [
         "Radial nerve",
@@ -211,6 +228,7 @@
       "explanation": "Increase of the carrying angle (cubitus valgus) elongates the path of the ulnar nerve behind the medial epicondyle, leading to progressive friction and tardy ulnar nerve palsy."
     },
     {
+      "id": "mcq_anat_ch11_015",
       "question": "During a baseball pitch, which elbow structure resists the massive valgus force applied at late cocking?",
       "options": [
         "Radial collateral ligament",
@@ -222,6 +240,7 @@
       "explanation": "Throwing a baseball places intense valgus stress on the medial elbow, loading the anterior band of the Ulnar Collateral Ligament to its mechanical limits."
     },
     {
+      "id": "mcq_anat_ch11_016",
       "question": "Which ligamentous structure prevents downward displacement of the radius from the elbow joint?",
       "options": [
         "Annular ligament and obliquely bound cords",
@@ -233,6 +252,7 @@
       "explanation": "Slippage of the radius downward is mechanical resisted by the annular ligament and the oblique cord that runs from the ulnar tuberosity to the radius."
     },
     {
+      "id": "mcq_anat_ch11_017",
       "question": "The humeroradial joint behaves structurally as which class of joint?",
       "options": [
         "Pure hinge",
@@ -244,6 +264,7 @@
       "explanation": "The head of the radius has a concave cup gliding over the sphere of the capitulum, resembling a ball-and-socket hinge, but mechanically locked into parallel rotation by the superior radioulnar joint."
     },
     {
+      "id": "mcq_anat_ch11_018",
       "question": "Which of the following muscles can initiate forearm flexion starting from a position of full pronation?",
       "options": [
         "Supinator",
@@ -255,6 +276,7 @@
       "explanation": "Brachioradialis runs along the lateral forearm and can initiate flexion of the extended elbow, especially when the forearm is pronated."
     },
     {
+      "id": "mcq_anat_ch11_019",
       "question": "What structure separates the head of the ulna from the triquetral carpal bone at the wrist?",
       "options": [
         "Flexor retinaculum",
@@ -266,6 +288,7 @@
       "explanation": "The horizontal triangular articular disc completely excludes the head of the ulna from directly participating in the radiocarpal wrist articulation."
     },
     {
+      "id": "mcq_anat_ch11_020",
       "question": "The biceps brachii tendon inserts into which bony landmark of the radius?",
       "options": [
         "radial styloid process",
@@ -277,6 +300,7 @@
       "explanation": "The biceps brachii tendon inserts primarily into the rough posterior aspect of the radial tuberosity, with a bursa buffering the anterior aspect."
     },
     {
+      "id": "mcq_anat_ch11_021",
       "question": "Tommy John surgery describes the clinical reconstruction of which ligament?",
       "options": [
         "Annular ligament",
@@ -288,6 +312,7 @@
       "explanation": "Tommy John surgery is a tendon graft reconstruction of the medial/ulnar collateral ligament of the elbow, frequently ruptured in baseball pitchers."
     },
     {
+      "id": "mcq_anat_ch11_022",
       "question": "Which muscle inserts on the coronoid process of the ulna to produce elbow flexion?",
       "options": [
         "Biceps brachii",
@@ -299,6 +324,7 @@
       "explanation": "The Brachialis muscle inserts into the anterior surface of the ulnar coronoid process and the ulnar tuberosity."
     },
     {
+      "id": "mcq_anat_ch11_023",
       "question": "Which of the following does NOT originate from the medial epicondyle of the humerus?",
       "options": [
         "Pronator teres",
@@ -310,6 +336,7 @@
       "explanation": "Brachioradialis arises from the upper two-thirds of the lateral supracondylar ridge of the humerus, not the medial epicondyle (common flexor origin)."
     },
     {
+      "id": "mcq_anat_ch11_024",
       "question": "Which muscle's tendon divides the elbow joint collateral ligaments laterally?",
       "options": [
         "Supinator",
@@ -321,6 +348,7 @@
       "explanation": "The radial collateral ligament blends with the annular ligament and is crossed superficially by the extensor carpi radialis brevis and common extensor origins."
     },
     {
+      "id": "mcq_anat_ch11_025",
       "question": "What motion is limited or painful in a patient suffering from distal radioulnar joint instability?",
       "options": [
         "Elbow flexion-extension",
@@ -332,6 +360,7 @@
       "explanation": "Since the distal radioulnar joint is a pivot joint specifically for forearm rotation, any localized injury or TFCC tear limits or causes pain during pronation and supination."
     },
     {
+      "id": "mcq_anat_ch11_026",
       "question": "Which nerve is at risk in anterior dislocations of the elbow joint?",
       "options": [
         "Radial nerve",
@@ -343,6 +372,7 @@
       "explanation": "During severe anterior elbow dislocations or supracondylar fractures, the median nerve and/or brachial artery can be compressed against the osseous margins."
     },
     {
+      "id": "mcq_anat_ch11_027",
       "question": "Which carpal bone does the distal end of the radius directly articulate with at the wrist?",
       "options": [
         "Capitate",
@@ -354,6 +384,7 @@
       "explanation": "The inferior articular surface of the radius has two facets that articulate directly with the scaphoid laterally and lunate medially."
     },
     {
+      "id": "mcq_anat_ch11_028",
       "question": "In kids, the sublime tubercle is a critical landmark indicating the attachment of which band of the UCL?",
       "options": [
         "Anterior band",
@@ -365,6 +396,7 @@
       "explanation": "The sublime tubercle of the ulna provides the stable insertion point for the anterior band of the ulnar collateral ligament."
     },
     {
+      "id": "mcq_anat_ch11_029",
       "question": "Forearm pronation is primarily a movement where which bone rotates around the other?",
       "options": [
         "The radius rotates around the ulna",
@@ -376,6 +408,7 @@
       "explanation": "During pronation, the proximal radial head rotates within the annular ligament collar, while the distal end of the radius arches anteriorly over the stationary head of the ulna."
     },
     {
+      "id": "mcq_anat_ch11_030",
       "question": "Which structure directly prevents the humerus from slipping backward over the ulna during active extension?",
       "options": [
         "Annular ligament",
@@ -387,9 +420,88 @@
       "explanation": "The osseous locking mechanism of the olecranon process nesting completely inside the olecranon fossa limits hyperextension and prevents posterior subluxation."
     }
   ],
-  "reference": [
+  "flashcards": [],
+  "viva": [
+    {
+      "id": "viva_anat_ch11_001",
+      "question": "What anatomical structures form and secure the 'carrying angle' of the elbow?",
+      "answer": "The carrying angle is formed by the oblique orientation of the trochlear groove of the humerus, which points downwards and laterally, making the ulnar notch tilt. This angle disappears during elbow flexion and pronation.",
+      "keyPoints": "Oblique trochlea, supination/extension presentation, 10-15 degrees in men, 15-20 in women.",
+      "clinicalImportance": "Valgus deviations (cubitus valgus) can tract the ulnar nerve behind the medial epicondyle, causing tardy ulnar nerve palsy."
+    },
+    {
+      "id": "viva_anat_ch11_002",
+      "question": "Explain the mechanism of 'pulled elbow' and name the ligament trapped in this condition.",
+      "answer": "A 'pulled elbow' (Nursemaid's elbow) occurs when sudden upward traction is applied to a pronated forearm in a young child. This pulls the small radial head down through the annular ligament, which slips and becomes trapped between the radius and the capitulum of the humerus.",
+      "keyPoints": "Annular ligament traction, young child, pronation, trapped tissue.",
+      "clinicalImportance": "Reduction is achieved by gentle supination of the flexed elbow, which pops the radial head back."
+    },
+    {
+      "id": "viva_anat_ch11_003",
+      "question": "Describe the three bands of the Ulnar Collateral Ligament (UCL) of the elbow.",
+      "answer": "The UCL consists of: 1) Anterior band (cord-like, medial epicondyle to sublime tubercle of coronoid process, key block against valgus stress), 2) Posterior band (fan-like, medial epicondyle to olecranon margin), and 3) Transverse oblique band (runs humerus-to-humerus across ulnar notch).",
+      "keyPoints": "Anterior, posterior, and transverse bands, sublime tubercle of ulna.",
+      "clinicalImportance": "Pitchers and throwing athletes often rupture the anterior band, requiring Tommy John ligament reconstruction."
+    },
+    {
+      "id": "viva_anat_ch11_004",
+      "question": "What is the dynamic relationship between the pronator teres, brachioradialis, and the proximal radioulnar joint?",
+      "answer": "The proximal radioulnar joint is a pivot joint allowing pronation and supination. Pronator teres cross-pulls the radius medially to pronate, whilst Brachioradialis brings the forearm back into a mid-prone position from either full supination or full pronation.",
+      "keyPoints": "Forearm pivot joint, pronator teres action, brachioradialis mid-prone restore.",
+      "clinicalImportance": "Crucial for planning selective muscle retraining in neurologically impaired patients."
+    },
+    {
+      "id": "viva_anat_ch11_005",
+      "question": "Describe the Interosseous Membrane of the forearm and state its function in force transmission.",
+      "answer": "The interosseous membrane is a dense fibrous sheet whose collagen fibers run obliquely downwards and medially from the radius to the ulna. It binds the radius and ulna together, increases area for muscle origin, and transmits axial loading forces from the radius (hand-wrist interface) to the stable ulna (elbow interface).",
+      "keyPoints": "Fibers run down and medially, radius-to-ulna load transmission.",
+      "clinicalImportance": "Prevents upward displacement of the radius during heavy push activities, protecting humeroradial articular cartilage."
+    },
+    {
+      "id": "viva_anat_ch11_006",
+      "question": "Differentiate the primary muscles responsible for supination against resistance versus unresisted supination.",
+      "answer": "Unresisted supination of the extended forearm is performed slowly by the Supinator muscle alone. Supination against resistance or with a flexed elbow is powered by the Biceps Brachii, which pulls on its insertion at the radial tuberosity.",
+      "keyPoints": "Supinator vs Biceps brachii, elbow position, resistance factors.",
+      "clinicalImportance": "Explains why patients with musculocutaneous nerve injury cannot supinate against resistance but can slowly turn their palm up."
+    },
+    {
+      "id": "viva_anat_ch11_007",
+      "question": "What is Student's Elbow, and where is the fluid accumulation located anatomically?",
+      "answer": "Student's Elbow (olecranon bursitis) is an inflammation of the subcutaneous olecranon bursa, located within the superficial fascia directly overlying the olecranon process of the ulna. It is caused by chronic friction or direct mechanical trauma.",
+      "keyPoints": "Subcutaneous olecranon bursa, chronic friction.",
+      "clinicalImportance": "Easily distinguished from joint effusion because the swelling is localized superficially over the ulna tip."
+    },
+    {
+      "id": "viva_anat_ch11_008",
+      "question": "Describe the boundaries and functional components of the Distal Radioulnar Joint.",
+      "answer": "The distal radioulnar joint is a uniaxial pivot synovial joint formed by the ulnar notch of the radius, the rounded head of the ulna, and a horizontal articular disc (triangular fibrocartilage) that separates the ulnar head from the carpal bones.",
+      "keyPoints": "Ulnar head, ulnar notch of radius, horizontal articular disc (TFCC).",
+      "clinicalImportance": "Damage to this joint's TFCC disc causes severe wrist pain and instability during pronation/supination."
+    },
+    {
+      "id": "viva_anat_ch11_009",
+      "question": "Why do supracondylar fractures of the humerus often lead to a 'gunstock' cubitus varus deformity?",
+      "answer": "Supracondylar fractures are common pediatric injuries. Malunion or tilting of the distal fragment medially alters the distal articular plane of the humerus, collapsing the carrying angle and turning the forearm inward (cubitus varus, giving a gunstock appearance).",
+      "keyPoints": "Distal fragment medial tilting, pediatric supracondylar fracture, carrying angle collapse.",
+      "clinicalImportance": "Primarily cosmetic but requires expert surgical alignment to avoid restricted movement ranges."
+    },
+    {
+      "id": "viva_anat_ch11_010",
+      "question": "Which nerve can be palpated directly behind the medial epicondyle of the humerus at the elbow joint?",
+      "answer": "The Ulnar Nerve. It descends behind the medial epicondyle into the cubital tunnel, where it is highly vulnerable to compression, traction, and direct posterior epicondylar impacts.",
+      "keyPoints": "Ulnar nerve, medial epicondyle, cubital tunnel.",
+      "clinicalImportance": "Direct compression causes tingling radiating down the medial forearm into the 4th and 5th fingers (funny bone sensation)."
+    }
+  ],
+  "pyqs": [],
+  "references": [
     "Chaurasia, B. D. (2020). Human Anatomy: Regional and Applied, Volume 1 (Upper Limb and Thorax). CBS Publishers.",
     "Gray, H. (2020). Gray's Anatomy: The Anatomical Basis of Clinical Practice (42nd ed.). Elsevier.",
     "Magee, D. J. (2014). Orthopedic Physical Assessment. Elsevier Health Sciences."
-  ]
+  ],
+  "subjectExtensions": {
+    "anatomy": {
+      "parameters": {}
+    }
+  }
 }

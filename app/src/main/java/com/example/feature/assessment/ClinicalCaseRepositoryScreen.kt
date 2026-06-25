@@ -48,7 +48,9 @@ fun ClinicalCaseRepositoryScreen(navController: NavController) {
     val allCases = caseListState.value
     
     // Load special tests for connection
-    val specialTestsList = remember { loadSpecialTests(context) }
+    val specialTestsList by androidx.compose.runtime.produceState(initialValue = emptyList<com.example.feature.assessment.SpecialTestModel>()) {
+        value = loadSpecialTests(context)
+    }
     
     // Search and Filters
     var searchQuery by remember { mutableStateOf(com.example.data.ContentRepo.lastViewedClinicalCaseQuery ?: "") }

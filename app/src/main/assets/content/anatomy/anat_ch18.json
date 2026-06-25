@@ -1,240 +1,503 @@
 {
-  "subject": "Anatomy",
-  "chapterId": "anat_ch18",
-  "chapterName": "Pleural Cavities",
-  "definition": [
-    "Chapter Overview: This chapter details the pleural membranes (visceral and parietal), pleural cavities, and the recesses of the pleura.",
-    "Definition of Pleura: A serous membrane lined by simple squamous epithelium (mesothelium) that envelopes each lung.",
-    "Pleural Cavity: The potential space between the visceral pleura (covering the lung surface) and the parietal pleura (lining the cavity walls)."
-  ],
-  "principle": [
-    "Parietal Pleura Divisions: Classified into cervical (cupula), costal, diaphragmatic, and mediastinal pleura based on the structures it lines.",
-    "Visceral Pleura: Adheres closely to all surfaces of the lung, including the interlobar fissures. It receives its blood supply from bronchial vessels.",
-    "Pleural Recesses: Important potential spaces that allow for lung expansion during deep inspiration: include the costodiaphragmatic recess (largest, clinically significant) and costomediastinal recess."
-  ],
-  "equipment": [
-    "Thorax cross-section model",
-    "Aspiration syringes (simulated thoracocentesis gear)",
-    "Pleural cavity diagrams"
-  ],
-  "parameters": {
-    "PleuralFluidVolume": "Generally 10 ml to 15 ml in healthy adults",
-    "CostodiaphragmaticRecessExtent": "Extends from 8th to 10th rib midaxillary"
+  "metadata": {
+    "chapterId": "anat_ch18",
+    "title": "Pleural Cavities",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "version": "1.0",
+    "lastUpdated": "2026-06-25",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": [],
+    "status": "published"
   },
-  "physiologicalEffects": [],
-  "indications": [],
-  "contraindications": {
-    "general": [],
-    "local": []
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [
+      "Chapter Overview: This chapter details the pleural membranes (visceral and parietal), pleural cavities, and the recesses of the pleura.",
+      "Definition of Pleura: A serous membrane lined by simple squamous epithelium (mesothelium) that envelopes each lung.",
+      "Pleural Cavity: The potential space between the visceral pleura (covering the lung surface) and the parietal pleura (lining the cavity walls)."
+    ],
+    "coreConcepts": [
+      "Parietal Pleura Divisions: Classified into cervical (cupula), costal, diaphragmatic, and mediastinal pleura based on the structures it lines.",
+      "Visceral Pleura: Adheres closely to all surfaces of the lung, including the interlobar fissures. It receives its blood supply from bronchial vessels.",
+      "Pleural Recesses: Important potential spaces that allow for lung expansion during deep inspiration: include the costodiaphragmatic recess (largest, clinically significant) and costomediastinal recess."
+    ],
+    "equipment": [
+      "Thorax cross-section model",
+      "Aspiration syringes (simulated thoracocentesis gear)",
+      "Pleural cavity diagrams"
+    ]
   },
-  "technique": {
-    "patientPreparation": [],
-    "apparatusPreparation": [],
-    "skinPreparation": [],
-    "electrodePlacement": [],
-    "treatmentProcedure": []
+  "clinicalCorrelations": {
+    "pearls": [
+      "Pneumothorax: Presence of air in the pleural cavity, which can cause lung collapse.",
+      "Pleural Effusion: Accumulation of excess fluid in the pleural cavity, typically pooling first in the costodiaphragmatic recesses."
+    ],
+    "precautions": [],
+    "indications": [],
+    "contraindications": {
+      "general": [],
+      "local": []
+    },
+    "technique": {
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": []
+    },
+    "protocols": [],
+    "physiologicalEffects": []
   },
-  "precautions": [],
-  "clinicalPearls": [
-    "Pneumothorax: Presence of air in the pleural cavity, which can cause lung collapse.",
-    "Pleural Effusion: Accumulation of excess fluid in the pleural cavity, typically pooling first in the costodiaphragmatic recesses."
-  ],
-  "vivaQuestions": [
-    "Question: Differentiate between visceral and parietal pleura regarding nerve supply and pain sensitivity. | Answer: Visceral pleura is supplied by autonomic nerves and is insensitive to general pain. Parietal pleura is supplied by somatic nerves (intercostal and phrenic nerves) and is highly sensitive to localized pain. | Examiner Key Points: Visceral autonomic / parietal somatic, localized chest wall pain vs referred pain. | Clinical Importance: Inflammation of parietal pleura (pleurisy) causes sharp, localized, respiration-dependent chest pain.",
-    "Question: What is the costodiaphragmatic recess and where is it clinically accessed during thoracocentesis? | Answer: It is the largest pleural recess, located inferiorly between costal and diaphragmatic parietal pleura. Fluid pools here in upright patients; it is safely accessed in the 8th or 9th intercostal space midaxillary line. | Examiner Key Points: Costal-diaphragmatic boundary, 8th/9th intercostal space, midaxillary line. | Clinical Importance: Primary site for tapping pleural fluid.",
-    "Question: What is the cervical pleura (cupula) and which structure protects it?| Answer: The portion of parietal pleura that projects through the superior thoracic aperture into the root of the neck. It is protected by the suprapleural membrane (Sibson's fascia).| Examiner Key Points: Cupula, root of neck, Sibson's fascia protection.| Clinical Importance: Accurate placement of central paths must avoid puncturing the cupula to prevent accidental pneumothorax.",
-    "Question: Explain the pulmonary ligament.| Answer: A bilayered fold of mediastinal pleura extending downwards from the lung root, hanging loose near the esophagus.| Examiner Key Points: Double layer of mediastinal pleura, lung hilum margin.| Clinical Importance: Provides dead space for the expansion of pulmonary veins during heavy physical activity.",
-    "Question: What is the source of blood supply to the parietal and visceral pleura?| Answer: Parietal pleura is supplied by systemic arteries (intercostal, internal thoracic, and musculophrenic branches). Visceral pleura is supplied by the bronchial arteries (vessels of pulmonary parenchyma).| Examiner Key Points: Systemic arteries for parietal, bronchial arteries for visceral.| Clinical Importance: Explains why parietal pleura inflammation is so tied to chest wall vascular issues.",
-    "Question: Name the two major recesses of the pleural cavity and their roles.| Answer: Costodiaphragmatic recess and costomediastinal recess. They serve as reserve spaces for lungs to expand during deep inspiration.| Examiner Key Points: Costodiaphragmatic, costomediastinal recesses.| Clinical Importance: Costodiaphragmatic recess fluid pooling is the direct sign of pleural effusion on radiographs.",
-    "Question: Explain the somatic sensory nerve fields of the parietal pleura.| Answer: Costal pleura is innervated by intercostal nerves. Mediastinal and central diaphragmatic pleura are innervated by the phrenic nerve.| Examiner Key Points: Costal intercostal, mediastinal phrenic.| Clinical Importance: Diaphragmatic pleurisy refers pain to the neck and shoulder via the C3-C5 dermatomes.",
-    "Question: What is hemothorax and where does blood accumulate?| Answer: Accumulation of blood within the pleural cavity, pooling predominantly in the costodiaphragmatic recess standardly.| Examiner Key Points: Blood in pleural cavity, pooling in costodiaphragmatic recess.| Clinical Importance: Requires urgent thoracocentesis or chest tube placement.",
-    "Question: Describe the histological composition of the pleural lining.| Answer: Simple squamous epithelium (mesothelium) supported by a thin layer of vascular connective tissue.| Examiner Key Points: Mesothelium, squamous cells, serous fluid lubrication.| Clinical Importance: Friction rub heard via stethoscope represents loss of smooth epithelium glide.",
-    "Question: What maintains the lungs in an expanded state within the cavities? | Answer: The negative intrapleural pressure (vacuum draft) relative to atmospheric pressure.| Examiner Key Points: Negative intrapleural pressure, vacuum hook.| Clinical Importance: Air entering breaks the vacuum, causing immediate lung collapse."
-  ],
+  "clinicalCases": [],
   "mcqs": [
     {
+      "id": "mcq_anat_ch18_001",
       "question": "Which nerve supplies the mediastinal and central diaphragmatic parietal pleura with somatic sensory fibers?",
-      "options": ["Vagus nerve", "Phrenic nerve", "Sympathetic trunk", "Intercostal nerves"],
+      "options": [
+        "Vagus nerve",
+        "Phrenic nerve",
+        "Sympathetic trunk",
+        "Intercostal nerves"
+      ],
       "answer": "Phrenic nerve",
       "explanation": "The phrenic nerve provides somatic sensation to the mediastinal pleura and the central part of the diaphragmatic pleura."
     },
     {
+      "id": "mcq_anat_ch18_002",
       "question": "Where does fluid accumulation primarily pool first in the pleural cavity when a patient is in an upright position?",
-      "options": ["Suprapleural membrane", "Costomediastinal recess", "Costodiaphragmatic recess", "Apex of pleural sac"],
+      "options": [
+        "Suprapleural membrane",
+        "Costomediastinal recess",
+        "Costodiaphragmatic recess",
+        "Apex of pleural sac"
+      ],
       "answer": "Costodiaphragmatic recess",
       "explanation": "In an erect posture, pleural fluid gravimetrically pools in the lowest point, the costodiaphragmatic recess."
     },
     {
+      "id": "mcq_anat_ch18_003",
       "question": "The pleural cavity is a potential space situated between which of the following layers?",
-      "options": ["Visceral and parietal pleura", "Visceral pleura and lung parenchyma", "Parietal pleura and endothoracic fascia", "Endothoracic fascia and ribs"],
+      "options": [
+        "Visceral and parietal pleura",
+        "Visceral pleura and lung parenchyma",
+        "Parietal pleura and endothoracic fascia",
+        "Endothoracic fascia and ribs"
+      ],
       "answer": "Visceral and parietal pleura",
       "explanation": "The pleural cavity is the potential capillary space separating the visceral and parietal pleural layers."
     },
     {
+      "id": "mcq_anat_ch18_004",
       "question": "Which of the following structures represents a fold of pleura extending downwards from the root of the lung?",
-      "options": ["Pulmonary ligament", "Sibson's fascia", "Endothoracic fascia", "Suspensory ligament"],
+      "options": [
+        "Pulmonary ligament",
+        "Sibson's fascia",
+        "Endothoracic fascia",
+        "Suspensory ligament"
+      ],
       "answer": "Pulmonary ligament",
       "explanation": "The pulmonary ligament is a double-layered fold of mediastinal pleura hanging below the hili."
     },
     {
+      "id": "mcq_anat_ch18_005",
       "question": "Which of the following arteries directly supplies the visceral pleura?",
-      "options": ["Bronchial arteries", "Internal thoracic artery", "Musculophrenic artery", "Intercostal arteries"],
+      "options": [
+        "Bronchial arteries",
+        "Internal thoracic artery",
+        "Musculophrenic artery",
+        "Intercostal arteries"
+      ],
       "answer": "Bronchial arteries",
       "explanation": "The visceral pleura receives its arterial blood supply from the bronchial arteries, similar to the lung parenchyma."
     },
     {
+      "id": "mcq_anat_ch18_006",
       "question": "Pleurisy (pleuritis) painful sensations are carried entirely by nerves innervating which layer?",
-      "options": ["Parietal pleura", "Visceral pleura", "Lung parenchyma", "Alveolar wall"],
+      "options": [
+        "Parietal pleura",
+        "Visceral pleura",
+        "Lung parenchyma",
+        "Alveolar wall"
+      ],
       "answer": "Parietal pleura",
       "explanation": "Pleuritic pain is transmitted solely by somatic nerves supplying the highly sensitive parietal pleura."
     },
     {
+      "id": "mcq_anat_ch18_007",
       "question": "Which nerve supplies the costal portion of the parietal pleura?",
-      "options": ["Intercostal nerves", "Phrenic nerve", "Vagus nerve", "Splanchnic nerves"],
+      "options": [
+        "Intercostal nerves",
+        "Phrenic nerve",
+        "Vagus nerve",
+        "Splanchnic nerves"
+      ],
       "answer": "Intercostal nerves",
       "explanation": "The costal parietal pleura is innervated by the somatic intercostal nerves of corresponding spaces."
     },
     {
+      "id": "mcq_anat_ch18_008",
       "question": "At which level in the midaxillary line does the costodiaphragmatic recess of the pleura reach its lowest extent?",
-      "options": ["10th rib", "8th rib", "12th rib", "6th rib"],
+      "options": [
+        "10th rib",
+        "8th rib",
+        "12th rib",
+        "6th rib"
+      ],
       "answer": "10th rib",
       "explanation": "In the midaxillary line, the inferior limit of the pleura extends down to the tenth rib, while the lung only reaches the eighth rib."
     },
     {
+      "id": "mcq_anat_ch18_009",
       "question": "The presence of air within the pleural cavity is clinically termed a:",
-      "options": ["Pneumothorax", "Hemothorax", "Chylothorax", "Empyema"],
+      "options": [
+        "Pneumothorax",
+        "Hemothorax",
+        "Chylothorax",
+        "Empyema"
+      ],
       "answer": "Pneumothorax",
       "explanation": "Pneumothorax refers to the leakage of air into the pleural space, which disrupts negative pressure and collapses the lung."
     },
     {
+      "id": "mcq_anat_ch18_010",
       "question": "Which anatomical structure protects the dome of pleura (cupula) in the root of the neck?",
-      "options": ["Suprapleural membrane", "Clavicle", "Scalenus anterior", "Sternal posture"],
+      "options": [
+        "Suprapleural membrane",
+        "Clavicle",
+        "Scalenus anterior",
+        "Sternal posture"
+      ],
       "answer": "Suprapleural membrane",
       "explanation": "The suprapleural membrane (Sibson's fascia) arches over the cervical dome of pleura, protecting it."
     },
     {
+      "id": "mcq_anat_ch18_011",
       "question": "In the midclavicular line, the inferior margin of the pleura extends down to which rib level?",
-      "options": ["8th rib", "6th rib", "10th rib", "4th rib"],
+      "options": [
+        "8th rib",
+        "6th rib",
+        "10th rib",
+        "4th rib"
+      ],
       "answer": "8th rib",
       "explanation": "The pleural margin crosses the midclavicular line at the level of the 8th rib, whereas the lung crosses at the 6th rib."
     },
     {
+      "id": "mcq_anat_ch18_012",
       "question": "Along the midaxillary line, the inferior margin of the lung lies at which rib level, compared to the pleura at the 10th rib?",
-      "options": ["8th rib", "6th rib", "10th rib", "12th rib"],
+      "options": [
+        "8th rib",
+        "6th rib",
+        "10th rib",
+        "12th rib"
+      ],
       "answer": "8th rib",
       "explanation": "In the midaxillary line, the lung margin is indexable to the 8th rib, leaving a 2-rib recess space above the 10th-rib pleural border."
     },
     {
+      "id": "mcq_anat_ch18_013",
       "question": "Along the side of the vertebral column posteriorly, the pleural margin reaches which level?",
-      "options": ["12th rib", "10th rib", "8th rib", "L2 vertebra"],
+      "options": [
+        "12th rib",
+        "10th rib",
+        "8th rib",
+        "L2 vertebra"
+      ],
       "answer": "12th rib",
       "explanation": "Posteriorly, the pleural reflection extends down to the neck of the 12th rib."
     },
     {
+      "id": "mcq_anat_ch18_014",
       "question": "The pleural cavity contains approximately how many milliliters of serous fluid in normal conditions?",
-      "options": ["10 to 15 ml", "100 to 150 ml", "1 to 2 ml", "50 to 80 ml"],
+      "options": [
+        "10 to 15 ml",
+        "100 to 150 ml",
+        "1 to 2 ml",
+        "50 to 80 ml"
+      ],
       "answer": "10 to 15 ml",
       "explanation": "A very thin film of fluid (10 to 15 ml in total) lubricates the inter-pleural glidings."
     },
     {
+      "id": "mcq_anat_ch18_015",
       "question": "Inflammation of the diaphragmatic pleura can refer pain to which dermatomal region?",
-      "options": ["C3-C5 (Shoulder/Neck)", "T4-T5 (Sternum)", "T10 (Umbilicus)", "L1 (Inguinal groove)"],
+      "options": [
+        "C3-C5 (Shoulder/Neck)",
+        "T4-T5 (Sternum)",
+        "T10 (Umbilicus)",
+        "L1 (Inguinal groove)"
+      ],
       "answer": "C3-C5 (Shoulder/Neck)",
       "explanation": "Centrally, diaphragmatic pleura is innervated by the phrenic nerve (C3-C5), producing referred pain to the shoulder tip."
     },
     {
+      "id": "mcq_anat_ch18_016",
       "question": "Accumulation of pus in the pleural cavity is called:",
-      "options": ["Empyema", "Chylothorax", "Pleurisy effusion", "Hydrothorax"],
+      "options": [
+        "Empyema",
+        "Chylothorax",
+        "Pleurisy effusion",
+        "Hydrothorax"
+      ],
       "answer": "Empyema",
       "explanation": "Empyema is defined as a collection of purulent fluid (pus) within the pleural cavity."
     },
     {
+      "id": "mcq_anat_ch18_017",
       "question": "A thoracocentesis for fluid extraction is safely performed at which aspect of the intercostal space?",
-      "options": ["Upper border of the rib below", "Lower border of the rib above", "Precise middle of the space", "Immediately posterior to the angle"],
+      "options": [
+        "Upper border of the rib below",
+        "Lower border of the rib above",
+        "Precise middle of the space",
+        "Immediately posterior to the angle"
+      ],
       "answer": "Upper border of the rib below",
       "explanation": "Needle introduction must glide over the upper border of the bottom rib to protect the neurovascular bundle in the upper rib's costal groove."
     },
     {
+      "id": "mcq_anat_ch18_018",
       "question": "Which of the following structures lies immediately lateral to the mediastinal pleura?",
-      "options": ["Pleural cavity", "Heart", "Esophagus", "Trachea"],
+      "options": [
+        "Pleural cavity",
+        "Heart",
+        "Esophagus",
+        "Trachea"
+      ],
       "answer": "Pleural cavity",
       "explanation": "The pleural cavity separates the mediastinal parietal pleura from the visceral pleura covering the lung medial surface."
     },
     {
+      "id": "mcq_anat_ch18_019",
       "question": "The visceral pleura transition to the parietal pleura occurs at which anatomical site?",
-      "options": ["Root of the lung (hilum)", "Apex of the lung", "Costal angles", "Diaphragmatic margin"],
+      "options": [
+        "Root of the lung (hilum)",
+        "Apex of the lung",
+        "Costal angles",
+        "Diaphragmatic margin"
+      ],
       "answer": "Root of the lung (hilum)",
       "explanation": "Visceral pleura reflects to become parietal pleura around the root of the lung (hilum) and pulmonary ligament."
     },
     {
+      "id": "mcq_anat_ch18_020",
       "question": "In a tension pneumothorax, the mediastinum shifts in which direction?",
-      "options": ["To the opposite (contralateral) side", "To the same (ipsilateral) side", "Directly anteriorly", "Directly posteriorly"],
+      "options": [
+        "To the opposite (contralateral) side",
+        "To the same (ipsilateral) side",
+        "Directly anteriorly",
+        "Directly posteriorly"
+      ],
       "answer": "To the opposite (contralateral) side",
       "explanation": "Accumulating air pressure in a tension pneumothorax bends the mediastinum away from the injured side."
     },
     {
+      "id": "mcq_anat_ch18_021",
       "question": "Which of the following is correct regarding the costomediastinal recess?",
-      "options": ["It is larger on the left side than the right", "It is larger on the right side", "It is absent on the left side", "It is only found during deep expiration"],
+      "options": [
+        "It is larger on the left side than the right",
+        "It is larger on the right side",
+        "It is absent on the left side",
+        "It is only found during deep expiration"
+      ],
       "answer": "It is larger on the left side than the right",
       "explanation": "Because of the cardiac notch on the left lung, the left costomediastinal pleural recess is significantly larger."
     },
     {
+      "id": "mcq_anat_ch18_022",
       "question": "Which membrane covers the internal surface of the thoracic wall and limits the parietal pleura?",
-      "options": ["Endothoracic fascia", "Deep cervical fascia", "Sibson's membrane", "Transversus sheet"],
+      "options": [
+        "Endothoracic fascia",
+        "Deep cervical fascia",
+        "Sibson's membrane",
+        "Transversus sheet"
+      ],
       "answer": "Endothoracic fascia",
       "explanation": "The endothoracic fascia is a thin connective tissue sheet linking the parietal pleura to the chest wall."
     },
     {
+      "id": "mcq_anat_ch18_023",
       "question": "Lymphatic drainage of the parietal pleura goes primarily into which lymph nodes?",
-      "options": ["Intercostal and parasternal nodes", "Bronchopulmonary nodes", "Tracheobronchial nodes", "Axillary nodes"],
+      "options": [
+        "Intercostal and parasternal nodes",
+        "Bronchopulmonary nodes",
+        "Tracheobronchial nodes",
+        "Axillary nodes"
+      ],
       "answer": "Intercostal and parasternal nodes",
       "explanation": "As a chest wall structure, parietal pleura drains to systemic chest-wall lymph nodes like intercostal and parasternal nodes."
     },
     {
+      "id": "mcq_anat_ch18_024",
       "question": "The visceral pleura lymphatic vessels drain into:",
-      "options": ["Bronchopulmonary (hilar) lymph nodes", "Internal thoracic nodes", "Axillary lymph nodes", "Cervical lymph nodes"],
+      "options": [
+        "Bronchopulmonary (hilar) lymph nodes",
+        "Internal thoracic nodes",
+        "Axillary lymph nodes",
+        "Cervical lymph nodes"
+      ],
       "answer": "Bronchopulmonary (hilar) lymph nodes",
       "explanation": "Visceral pleura lymphatic lines merge with the deep pulmonary plexus, draining into bronchopulmonary nodes."
     },
     {
+      "id": "mcq_anat_ch18_025",
       "question": "Which of the following describes the costal pleura?",
-      "options": ["Lines the inner surface of ribs and intercostal muscles", "Covers the apex of lung", "Lines the mediastinal boundaries", "Covers the diaphragmatic dome"],
+      "options": [
+        "Lines the inner surface of ribs and intercostal muscles",
+        "Covers the apex of lung",
+        "Lines the mediastinal boundaries",
+        "Covers the diaphragmatic dome"
+      ],
       "answer": "Lines the inner surface of ribs and intercostal muscles",
       "explanation": "Costal pleura is the extensive somatic portion lining the ribs, costal cartilages, and intercostal muscles."
     },
     {
+      "id": "mcq_anat_ch18_026",
       "question": "The cervical pleura extends upwards into the root of the neck for about what distance above the medial third of the clavicle?",
-      "options": ["2.5 cm to 3.5 cm", "10 cm", "0.5 cm", "5 cm"],
+      "options": [
+        "2.5 cm to 3.5 cm",
+        "10 cm",
+        "0.5 cm",
+        "5 cm"
+      ],
       "answer": "2.5 cm to 3.5 cm",
       "explanation": "The cervical dome of pleura rises about 2.5 cm to 3.5 cm above the medial third of the clavicle level."
     },
     {
+      "id": "mcq_anat_ch18_027",
       "question": "Which of the following cell types forms the mesothelial lining of the pleura?",
-      "options": ["Simple squamous epithelial cells", "Stratified cuboidal cells", "Pseudostratified ciliated cells", "Simple columnar cells"],
+      "options": [
+        "Simple squamous epithelial cells",
+        "Stratified cuboidal cells",
+        "Pseudostratified ciliated cells",
+        "Simple columnar cells"
+      ],
       "answer": "Simple squamous epithelial cells",
       "explanation": "Mesothelium is composed of simple squamous squamous epithelial cells specialized for friction reduction."
     },
     {
+      "id": "mcq_anat_ch18_028",
       "question": "What is the primary diagnostic sign of pleurisy on auscultation?",
-      "options": ["Pleural friction rub", "Vesicular breath sounds", "Stridor", "Wheezing"],
+      "options": [
+        "Pleural friction rub",
+        "Vesicular breath sounds",
+        "Stridor",
+        "Wheezing"
+      ],
       "answer": "Pleural friction rub",
       "explanation": "Inflamed rough pleural surfaces sliding against each other create a characteristic dry grating sound called a friction rub."
     },
     {
+      "id": "mcq_anat_ch18_029",
       "question": "Which of the following conditions is characterized by lymph/chyle leaking into the pleural cavern?",
-      "options": ["Chylothorax", "Hemothorax", "Pyothorax", "Fibrothorax"],
+      "options": [
+        "Chylothorax",
+        "Hemothorax",
+        "Pyothorax",
+        "Fibrothorax"
+      ],
       "answer": "Chylothorax",
       "explanation": "Chylothorax is the presence of lymphatic chyle in the pleural cavity, usually from thoracic duct rupture."
     },
     {
+      "id": "mcq_anat_ch18_030",
       "question": "The bronchial artery blood which supplies the visceral pleura drains into which veins?",
-      "options": ["Pulmonary veins", "Azygos veins", "Internal thoracic veins", "Superior vena cava directly"],
+      "options": [
+        "Pulmonary veins",
+        "Azygos veins",
+        "Internal thoracic veins",
+        "Superior vena cava directly"
+      ],
       "answer": "Pulmonary veins",
       "explanation": "Venous blood from the visceral pleura drains into the pulmonary veins, mixing a small amount of deoxygenated blood with oxygenated."
     }
   ],
-  "reference": [
+  "flashcards": [],
+  "viva": [
+    {
+      "id": "viva_anat_ch18_001",
+      "question": "Differentiate between visceral and parietal pleura regarding nerve supply and pain sensitivity.",
+      "answer": "Visceral pleura is supplied by autonomic nerves and is insensitive to general pain. Parietal pleura is supplied by somatic nerves (intercostal and phrenic nerves) and is highly sensitive to localized pain.",
+      "keyPoints": "Visceral autonomic / parietal somatic, localized chest wall pain vs referred pain.",
+      "clinicalImportance": "Inflammation of parietal pleura (pleurisy) causes sharp, localized, respiration-dependent chest pain."
+    },
+    {
+      "id": "viva_anat_ch18_002",
+      "question": "What is the costodiaphragmatic recess and where is it clinically accessed during thoracocentesis?",
+      "answer": "It is the largest pleural recess, located inferiorly between costal and diaphragmatic parietal pleura. Fluid pools here in upright patients; it is safely accessed in the 8th or 9th intercostal space midaxillary line.",
+      "keyPoints": "Costal-diaphragmatic boundary, 8th/9th intercostal space, midaxillary line.",
+      "clinicalImportance": "Primary site for tapping pleural fluid."
+    },
+    {
+      "id": "viva_anat_ch18_003",
+      "question": "What is the cervical pleura (cupula) and which structure protects it?| Answer: The portion of parietal pleura that projects through the superior thoracic aperture into the root of the neck. It is protected by the suprapleural membrane (Sibson's fascia).| Examiner Key Points: Cupula, root of neck, Sibson's fascia protection.| Clinical Importance: Accurate placement of central paths must avoid puncturing the cupula to prevent accidental pneumothorax.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch18_004",
+      "question": "Explain the pulmonary ligament.| Answer: A bilayered fold of mediastinal pleura extending downwards from the lung root, hanging loose near the esophagus.| Examiner Key Points: Double layer of mediastinal pleura, lung hilum margin.| Clinical Importance: Provides dead space for the expansion of pulmonary veins during heavy physical activity.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch18_005",
+      "question": "What is the source of blood supply to the parietal and visceral pleura?| Answer: Parietal pleura is supplied by systemic arteries (intercostal, internal thoracic, and musculophrenic branches). Visceral pleura is supplied by the bronchial arteries (vessels of pulmonary parenchyma).| Examiner Key Points: Systemic arteries for parietal, bronchial arteries for visceral.| Clinical Importance: Explains why parietal pleura inflammation is so tied to chest wall vascular issues.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch18_006",
+      "question": "Name the two major recesses of the pleural cavity and their roles.| Answer: Costodiaphragmatic recess and costomediastinal recess. They serve as reserve spaces for lungs to expand during deep inspiration.| Examiner Key Points: Costodiaphragmatic, costomediastinal recesses.| Clinical Importance: Costodiaphragmatic recess fluid pooling is the direct sign of pleural effusion on radiographs.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch18_007",
+      "question": "Explain the somatic sensory nerve fields of the parietal pleura.| Answer: Costal pleura is innervated by intercostal nerves. Mediastinal and central diaphragmatic pleura are innervated by the phrenic nerve.| Examiner Key Points: Costal intercostal, mediastinal phrenic.| Clinical Importance: Diaphragmatic pleurisy refers pain to the neck and shoulder via the C3-C5 dermatomes.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch18_008",
+      "question": "What is hemothorax and where does blood accumulate?| Answer: Accumulation of blood within the pleural cavity, pooling predominantly in the costodiaphragmatic recess standardly.| Examiner Key Points: Blood in pleural cavity, pooling in costodiaphragmatic recess.| Clinical Importance: Requires urgent thoracocentesis or chest tube placement.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch18_009",
+      "question": "Describe the histological composition of the pleural lining.| Answer: Simple squamous epithelium (mesothelium) supported by a thin layer of vascular connective tissue.| Examiner Key Points: Mesothelium, squamous cells, serous fluid lubrication.| Clinical Importance: Friction rub heard via stethoscope represents loss of smooth epithelium glide.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch18_010",
+      "question": "What maintains the lungs in an expanded state within the cavities?",
+      "answer": "The negative intrapleural pressure (vacuum draft) relative to atmospheric pressure.| Examiner Key Points: Negative intrapleural pressure, vacuum hook.| Clinical Importance: Air entering breaks the vacuum, causing immediate lung collapse.",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    }
+  ],
+  "pyqs": [],
+  "references": [
     "B.D. Chaurasia - Human Anatomy (Volume 1: Upper Limb and Thorax, Section on Pleura)",
     "Vishram Singh - Textbook of Anatomy: Upper Limb and Thorax (Volume 1, Chapter on Pleura and Pleural Cavities)"
-  ]
+  ],
+  "subjectExtensions": {
+    "anatomy": {
+      "parameters": {
+        "PleuralFluidVolume": "Generally 10 ml to 15 ml in healthy adults",
+        "CostodiaphragmaticRecessExtent": "Extends from 8th to 10th rib midaxillary"
+      }
+    }
+  }
 }

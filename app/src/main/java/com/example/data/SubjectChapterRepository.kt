@@ -124,7 +124,12 @@ object SubjectChapterRepository {
                 SubjectChapter("phys_ch1", "General Cell Physiology", 1, "Membrane transport, active and passive conduction, action potentials."),
                 SubjectChapter("phys_ch2", "Neuromuscular Physiology", 2, "Motor units, EMG basics, sliding filament theory, muscle fatigue."),
                 SubjectChapter("phys_ch3", "Cardiovascular & Respiratory Systems", 3, "Cardiac cycle, oxygen dissociation curve, pulmonary compliance."),
-                SubjectChapter("phys_ch4", "Nervous System & Reflex Arcs", 4, "Sensory receptors, synaptic transmission, stretch and deep tendon reflexes.")
+                SubjectChapter("phys_ch4", "Nervous System & Reflex Arcs", 4, "Sensory receptors, synaptic transmission, stretch and deep tendon reflexes."),
+                SubjectChapter("phys_ch5", "Hematology & Immunology", 5, "Composition and functions of blood, hemopoiesis, hemoglobin, blood grouping, hemostasis, and immune responses."),
+                SubjectChapter("phys_ch6", "Gastrointestinal System & Metabolism", 6, "Functional anatomy, enteric nervous system, motility, secretions, digestion/absorption, energy balance, BMR, SDA, RQ, obesity, starvation, and exercise metabolism in physical rehabilitation."),
+                SubjectChapter("phys_ch7", "Renal Physiology & Excretion", 7, "Glomerular filtration, countercurrent mechanism, micturition reflex, and renal regulation of acid-base balance."),
+                SubjectChapter("phys_ch8", "Endocrine & Reproductive Physiology", 8, "Hormonal feedback loops, insulin pathways, calcium homeostasis, and reproductive cycles."),
+                SubjectChapter("phys_ch9", "Applied Exercise Physiology", 9, "VO2 max, oxygen debt, energy pathways, muscle fatigue, thermoregulation, and cardiovascular response to exercise.")
             )
         ),
         "electrotherapy_i" to SubjectModel(

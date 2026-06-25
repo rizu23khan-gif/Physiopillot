@@ -34,6 +34,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
+import kotlinx.coroutines.launch
 import com.example.data.*
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -50,8 +51,13 @@ fun ChapterDetailScreen(
             ?: subject?.modules?.flatMap { it.chapters }?.find { it.chapterId == chapterId }
     }
 
-    val chapterContent = remember(chapterId) {
-        ChapterContentRepository.loadChapterContent(context, chapterId)
+    var isLoading by remember { mutableStateOf(true) }
+    var chapterContent by remember { mutableStateOf<InteractiveChapterContent?>(null) }
+
+    LaunchedEffect(chapterId) {
+        isLoading = true
+        chapterContent = ChapterContentRepository.loadChapterContentSuspended(context, chapterId)
+        isLoading = false
     }
 
     if (subject == null || chapter == null) {
@@ -120,234 +126,65 @@ fun ChapterDetailScreen(
                     navigationIconContentColor = MaterialTheme.colorScheme.onSurface
                 )
             )
+        },
+        bottomBar = {
+            if (!isLoading && chapterContent != null) {
+                ChapterBottomNavigation(
+                    subject = subject,
+                    currentChapterId = chapterId,
+                    themeColor = themeColor,
+                    navController = navController
+                )
+            }
         }
     ) { paddingValues ->
-        if (chapterContent != null) {
+        if (isLoading) {
+            Box(
+                modifier = Modifier
+                    .fillMaxSize()
+                    .padding(paddingValues),
+                contentAlignment = Alignment.Center
+            ) {
+                CircularProgressIndicator(color = themeColor)
+            }
+        } else if (chapterContent != null) {
             RichChapterContent(
                 paddingValues = paddingValues,
-                content = chapterContent,
+                content = chapterContent!!,
                 themeColor = themeColor,
                 navController = navController,
                 subject = subject
             )
         } else {
-            // Standard original placeholder
-            LazyColumn(
+            // Graceful Error for Missing / Malformed JSON
+            Box(
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(paddingValues)
-                    .background(MaterialTheme.colorScheme.background),
-                contentPadding = PaddingValues(16.dp),
-                verticalArrangement = Arrangement.spacedBy(16.dp)
+                    .padding(paddingValues),
+                contentAlignment = Alignment.Center
             ) {
-                // 1. Chapter Title Card
-                item {
-                    Card(
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .shadow(2.dp, shape = RoundedCornerShape(18.dp)),
-                        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
-                        border = BorderStroke(1.dp, themeColor.copy(alpha = 0.15f)),
-                        shape = RoundedCornerShape(18.dp)
-                    ) {
-                        Column(modifier = Modifier.padding(20.dp)) {
-                            Row(verticalAlignment = Alignment.CenterVertically) {
-                                Box(
-                                    modifier = Modifier
-                                        .size(36.dp)
-                                        .background(themeColor.copy(alpha = 0.15f), CircleShape),
-                                    contentAlignment = Alignment.Center
-                                ) {
-                                    Text(
-                                        text = chapter.index.toString(),
-                                        color = themeColor,
-                                        fontWeight = FontWeight.Bold,
-                                        fontSize = 14.sp
-                                    )
-                                }
-                                Spacer(modifier = Modifier.width(12.dp))
-                                Text(
-                                    text = "CHAPTER DETAILS",
-                                    style = MaterialTheme.typography.labelLarge,
-                                    fontWeight = FontWeight.Bold,
-                                    color = themeColor
-                                )
-                            }
-                            Spacer(modifier = Modifier.height(14.dp))
-                            Text(
-                                text = chapter.title,
-                                style = MaterialTheme.typography.titleLarge,
-                                fontWeight = FontWeight.ExtraBold,
-                                color = MaterialTheme.colorScheme.onSurface
-                            )
-                            if (chapter.description.isNotEmpty()) {
-                                Spacer(modifier = Modifier.height(8.dp))
-                                Text(
-                                    text = chapter.description,
-                                    style = MaterialTheme.typography.bodyMedium,
-                                    color = MaterialTheme.colorScheme.onSurfaceVariant,
-                                    lineHeight = 20.sp
-                                )
-                            }
-                        }
-                    }
-                }
-
-                // Placeholder warning
-                item {
-                    Card(
-                        modifier = Modifier.fillMaxWidth(),
-                        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
-                        border = BorderStroke(1.dp, MaterialTheme.colorScheme.outline.copy(alpha = 0.08f)),
-                        shape = RoundedCornerShape(16.dp)
-                    ) {
-                        Column(
-                            modifier = Modifier
-                                .fillMaxWidth()
-                                .padding(20.dp),
-                            horizontalAlignment = Alignment.CenterHorizontally
-                        ) {
-                            Box(
-                                modifier = Modifier
-                                    .background(MaterialTheme.colorScheme.primaryContainer, CircleShape)
-                                    .padding(12.dp)
-                            ) {
-                                Icon(
-                                    imageVector = Icons.Default.MenuBook,
-                                    contentDescription = "Textbook Reading",
-                                    tint = MaterialTheme.colorScheme.onPrimaryContainer,
-                                    modifier = Modifier.size(32.dp)
-                                )
-                            }
-                            Spacer(modifier = Modifier.height(14.dp))
-                            Text(
-                                text = "Syllabus Integration Underway",
-                                style = MaterialTheme.typography.titleMedium,
-                                fontWeight = FontWeight.Bold,
-                                color = MaterialTheme.colorScheme.onSurface,
-                                textAlign = TextAlign.Center
-                            )
-                            Spacer(modifier = Modifier.height(6.dp))
-                            Text(
-                                text = "Detailed learning modules, diagnostic simulations, and illustrated study sheets for '${chapter.title}' are currently being prepared as part of the next master curriculum update.",
-                                style = MaterialTheme.typography.bodySmall,
-                                color = MaterialTheme.colorScheme.onSurfaceVariant,
-                                textAlign = TextAlign.Center,
-                                lineHeight = 18.sp
-                            )
-                            Spacer(modifier = Modifier.height(16.dp))
-                            HorizontalDivider(color = MaterialTheme.colorScheme.outline.copy(alpha = 0.06f))
-                            Spacer(modifier = Modifier.height(16.dp))
-                            Text(
-                                text = "RECOMMENDED READING FOR THIS TOPIC",
-                                style = MaterialTheme.typography.labelSmall,
-                                fontWeight = FontWeight.Bold,
-                                color = themeColor
-                            )
-                            Spacer(modifier = Modifier.height(6.dp))
-                            Text(
-                                text = "📚 Primary: ${subject.primaryTextbook}\n📖 Secondary: ${subject.secondaryTextbook}",
-                                style = MaterialTheme.typography.bodySmall,
-                                color = MaterialTheme.colorScheme.onSurface,
-                                fontWeight = FontWeight.Medium,
-                                lineHeight = 18.sp,
-                                textAlign = TextAlign.Center
-                            )
-                        }
-                    }
-                }
-
-                // Practice links
-                item {
-                    Column {
-                        Text(
-                            text = "EXAM & PRACTICE SUITE",
-                            style = MaterialTheme.typography.labelMedium,
-                            fontWeight = FontWeight.Bold,
-                            color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.6f),
-                            modifier = Modifier.padding(start = 4.dp, bottom = 8.dp)
-                        )
-                        Row(
-                            modifier = Modifier.fillMaxWidth(),
-                            horizontalArrangement = Arrangement.spacedBy(12.dp)
-                        ) {
-                            Card(
-                                modifier = Modifier
-                                    .weight(1f)
-                                    .height(140.dp),
-                                onClick = { navController.navigate("viva_generator") },
-                                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
-                                border = BorderStroke(1.dp, MaterialTheme.colorScheme.outline.copy(alpha = 0.12f)),
-                                shape = RoundedCornerShape(16.dp)
-                            ) {
-                                Column(
-                                    modifier = Modifier
-                                        .fillMaxSize()
-                                        .padding(14.dp),
-                                    horizontalAlignment = Alignment.CenterHorizontally,
-                                    verticalArrangement = Arrangement.Center
-                                ) {
-                                    Box(
-                                        modifier = Modifier
-                                            .background(Color(0xFFFEF3C7), CircleShape)
-                                            .padding(8.dp)
-                                    ) {
-                                        Icon(
-                                            imageVector = Icons.Default.RecordVoiceOver,
-                                            contentDescription = "Viva",
-                                            tint = Color(0xFFD97706),
-                                            modifier = Modifier.size(20.dp)
-                                        )
-                                    }
-                                    Spacer(modifier = Modifier.height(10.dp))
-                                    Text(
-                                        text = "Viva Practice",
-                                        style = MaterialTheme.typography.titleSmall,
-                                        fontWeight = FontWeight.Bold,
-                                        color = MaterialTheme.colorScheme.onSurface
-                                    )
-                                }
-                            }
-
-                            Card(
-                                modifier = Modifier
-                                    .weight(1f)
-                                    .height(140.dp),
-                                onClick = { navController.navigate("viva") },
-                                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
-                                border = BorderStroke(1.dp, MaterialTheme.colorScheme.outline.copy(alpha = 0.12f)),
-                                shape = RoundedCornerShape(16.dp)
-                            ) {
-                                Column(
-                                    modifier = Modifier
-                                        .fillMaxSize()
-                                        .padding(14.dp),
-                                    horizontalAlignment = Alignment.CenterHorizontally,
-                                    verticalArrangement = Arrangement.Center
-                                ) {
-                                    Box(
-                                        modifier = Modifier
-                                            .background(Color(0xFFEFF6FF), CircleShape)
-                                            .padding(8.dp)
-                                    ) {
-                                        Icon(
-                                            imageVector = Icons.Default.CheckCircle,
-                                            contentDescription = "MCQ",
-                                            tint = Color(0xFF2563EB),
-                                            modifier = Modifier.size(20.dp)
-                                        )
-                                    }
-                                    Spacer(modifier = Modifier.height(10.dp))
-                                    Text(
-                                        text = "MCQ Diagnostic",
-                                        style = MaterialTheme.typography.titleSmall,
-                                        fontWeight = FontWeight.Bold,
-                                        color = MaterialTheme.colorScheme.onSurface
-                                    )
-                                }
-                            }
-                        }
-                    }
+                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    Icon(
+                        imageVector = Icons.Default.Description,
+                        contentDescription = "Content Missing",
+                        tint = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.5f),
+                        modifier = Modifier.size(64.dp)
+                    )
+                    Spacer(modifier = Modifier.height(16.dp))
+                    Text(
+                        text = "Content Unavailable",
+                        style = MaterialTheme.typography.titleMedium,
+                        fontWeight = FontWeight.Bold,
+                        color = MaterialTheme.colorScheme.onSurface
+                    )
+                    Spacer(modifier = Modifier.height(8.dp))
+                    Text(
+                        text = "The educational content for this chapter is missing or being updated.",
+                        style = MaterialTheme.typography.bodyMedium,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        textAlign = TextAlign.Center,
+                        modifier = Modifier.padding(horizontal = 32.dp)
+                    )
                 }
             }
         }
@@ -366,7 +203,7 @@ fun RichChapterContent(
     val isModality = subject.subjectId in listOf("electrotherapy_i", "electrotherapy_ii", "exercise_therapy_i", "exercise_therapy_ii")
     val physiologyTitle = if (isModality) "Physiology" else "Concepts"
     var selectedTab by remember { mutableStateOf(0) }
-    val tabTitles = if (isAnatomy) listOf("Theory", "Clinical App", "Exam Prep") else listOf("Theory", physiologyTitle, "Clinical App", "Exam Prep")
+    val tabTitles = if (isAnatomy) listOf("Theory", "Concepts", "Clinical App", "Exam Prep") else listOf("Theory", physiologyTitle, "Clinical App", "Exam Prep")
 
     Column(
         modifier = Modifier
@@ -443,119 +280,52 @@ fun IndexedChapterPane(
 fun TheoryTabContent(content: InteractiveChapterContent, themeColor: Color, isAnatomy: Boolean = false) {
     Column(verticalArrangement = Arrangement.spacedBy(16.dp)) {
         // 1. Definition Card
-        Card(
-            modifier = Modifier.fillMaxWidth(),
-            colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
-            border = BorderStroke(1.dp, themeColor.copy(alpha = 0.15f)),
-            shape = RoundedCornerShape(16.dp)
-        ) {
-            Column(modifier = Modifier.padding(16.dp)) {
-                Row(verticalAlignment = Alignment.CenterVertically) {
-                    Box(
-                        modifier = Modifier
-                            .background(themeColor.copy(alpha = 0.12f), CircleShape)
-                            .padding(8.dp)
-                    ) {
-                        Icon(
-                            imageVector = Icons.Default.MenuBook,
-                            contentDescription = "Definition",
-                            tint = themeColor,
-                            modifier = Modifier.size(20.dp)
-                        )
-                    }
-                    Spacer(modifier = Modifier.width(12.dp))
-                    Text(
-                        text = if (isAnatomy) "DEFINITION & OVERVIEW" else "THERAPEUTIC DEFINITION",
-                        style = MaterialTheme.typography.titleSmall,
-                        fontWeight = FontWeight.Bold,
-                        color = themeColor
-                    )
-                }
-                Spacer(modifier = Modifier.height(14.dp))
-                content.definition.forEach { paragraph ->
-                    Row(
-                        modifier = Modifier.padding(bottom = 10.dp),
-                        verticalAlignment = Alignment.Top
-                    ) {
+        if (content.definition.isNotEmpty()) {
+            Card(
+                modifier = Modifier.fillMaxWidth(),
+                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
+                border = BorderStroke(1.dp, themeColor.copy(alpha = 0.15f)),
+                shape = RoundedCornerShape(16.dp)
+            ) {
+                Column(modifier = Modifier.padding(16.dp)) {
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Box(
+                            modifier = Modifier
+                                .background(themeColor.copy(alpha = 0.12f), CircleShape)
+                                .padding(8.dp)
+                        ) {
+                            Icon(
+                                imageVector = Icons.Default.MenuBook,
+                                contentDescription = "Definition",
+                                tint = themeColor,
+                                modifier = Modifier.size(20.dp)
+                            )
+                        }
+                        Spacer(modifier = Modifier.width(12.dp))
                         Text(
-                            text = "✦",
-                            color = themeColor,
-                            modifier = Modifier.padding(end = 8.dp),
-                            fontWeight = FontWeight.Bold
-                        )
-                        Text(
-                            text = paragraph,
-                            style = MaterialTheme.typography.bodyMedium,
-                            lineHeight = 22.sp,
-                            color = MaterialTheme.colorScheme.onSurface
+                            text = if (isAnatomy) "DEFINITION & OVERVIEW" else "DEFINITION",
+                            style = MaterialTheme.typography.titleSmall,
+                            fontWeight = FontWeight.Bold,
+                            color = themeColor
                         )
                     }
-                }
-            }
-        }
-
-        // 2. Working Principle Card
-        Card(
-            modifier = Modifier.fillMaxWidth(),
-            colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.2f)),
-            border = BorderStroke(1.dp, MaterialTheme.colorScheme.outline.copy(alpha = 0.1f)),
-            shape = RoundedCornerShape(16.dp)
-        ) {
-            Column(modifier = Modifier.padding(16.dp)) {
-                Row(verticalAlignment = Alignment.CenterVertically) {
-                    Box(
-                        modifier = Modifier
-                            .background(MaterialTheme.colorScheme.primary.copy(alpha = 0.1f), CircleShape)
-                            .padding(8.dp)
-                    ) {
-                        Icon(
-                            imageVector = Icons.Default.ElectricBolt,
-                            contentDescription = "Biophysics Principle",
-                            tint = MaterialTheme.colorScheme.primary,
-                            modifier = Modifier.size(20.dp)
-                        )
-                    }
-                    Spacer(modifier = Modifier.width(12.dp))
-                    Text(
-                        text = if (isAnatomy) "IMPORTANT STRUCTURES" else "BIOPHYSICS & PRINCIPLE",
-                        style = MaterialTheme.typography.titleSmall,
-                        fontWeight = FontWeight.Bold,
-                        color = MaterialTheme.colorScheme.primary
-                    )
-                }
-                Spacer(modifier = Modifier.height(14.dp))
-                content.principle.forEachIndexed { idx, step ->
-                    Card(
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .padding(bottom = 8.dp),
-                        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
-                        shape = RoundedCornerShape(10.dp),
-                        border = BorderStroke(1.dp, MaterialTheme.colorScheme.outline.copy(alpha = 0.05f))
-                    ) {
+                    Spacer(modifier = Modifier.height(14.dp))
+                    content.definition.forEach { paragraph ->
                         Row(
-                            modifier = Modifier.padding(12.dp),
+                            modifier = Modifier.padding(bottom = 10.dp),
                             verticalAlignment = Alignment.Top
                         ) {
-                            Box(
-                                modifier = Modifier
-                                    .size(24.dp)
-                                    .background(themeColor.copy(alpha = 0.1f), CircleShape),
-                                contentAlignment = Alignment.Center
-                            ) {
-                                Text(
-                                    text = (idx + 1).toString(),
-                                    fontSize = 11.sp,
-                                    fontWeight = FontWeight.Bold,
-                                    color = themeColor
-                                )
-                            }
-                            Spacer(modifier = Modifier.width(12.dp))
                             Text(
-                                text = step,
+                                text = "✦",
+                                color = themeColor,
+                                modifier = Modifier.padding(end = 8.dp),
+                                fontWeight = FontWeight.Bold
+                            )
+                            Text(
+                                text = paragraph,
                                 style = MaterialTheme.typography.bodyMedium,
-                                color = MaterialTheme.colorScheme.onSurface,
-                                lineHeight = 20.sp
+                                lineHeight = 22.sp,
+                                color = MaterialTheme.colorScheme.onSurface
                             )
                         }
                     }
@@ -563,76 +333,149 @@ fun TheoryTabContent(content: InteractiveChapterContent, themeColor: Color, isAn
             }
         }
 
-        // 3. Required Equipment Checklist
-        Card(
-            modifier = Modifier.fillMaxWidth(),
-            colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
-            border = BorderStroke(1.dp, MaterialTheme.colorScheme.outline.copy(alpha = 0.12f)),
-            shape = RoundedCornerShape(16.dp)
-        ) {
-            Column(modifier = Modifier.padding(16.dp)) {
-                Row(verticalAlignment = Alignment.CenterVertically) {
-                    Box(
-                        modifier = Modifier
-                            .background(Color(0xFFE2E8F0), CircleShape)
-                            .padding(8.dp)
-                    ) {
-                        Icon(
-                            imageVector = Icons.Default.Handyman,
-                            contentDescription = "Equipment",
-                            tint = Color(0xFF475569),
-                            modifier = Modifier.size(20.dp)
+        // 2. Working Principle Card
+        if (content.principle.isNotEmpty()) {
+            Card(
+                modifier = Modifier.fillMaxWidth(),
+                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.2f)),
+                border = BorderStroke(1.dp, MaterialTheme.colorScheme.outline.copy(alpha = 0.1f)),
+                shape = RoundedCornerShape(16.dp)
+            ) {
+                Column(modifier = Modifier.padding(16.dp)) {
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Box(
+                            modifier = Modifier
+                                .background(MaterialTheme.colorScheme.primary.copy(alpha = 0.1f), CircleShape)
+                                .padding(8.dp)
+                        ) {
+                            Icon(
+                                imageVector = Icons.Default.ElectricBolt,
+                                contentDescription = "Biophysics Principle",
+                                tint = MaterialTheme.colorScheme.primary,
+                                modifier = Modifier.size(20.dp)
+                            )
+                        }
+                        Spacer(modifier = Modifier.width(12.dp))
+                        Text(
+                            text = if (isAnatomy) "IMPORTANT STRUCTURES" else "CORE CONCEPTS",
+                            style = MaterialTheme.typography.titleSmall,
+                            fontWeight = FontWeight.Bold,
+                            color = MaterialTheme.colorScheme.primary
                         )
                     }
-                    Spacer(modifier = Modifier.width(12.dp))
-                    Text(
-                        text = if (isAnatomy) "SYSTEMS & COMPONENTS" else "APPARATUS & CLINICAL GEAR",
-                        style = MaterialTheme.typography.titleSmall,
-                        fontWeight = FontWeight.Bold,
-                        color = Color(0xFF475569)
-                    )
-                }
-                Spacer(modifier = Modifier.height(14.dp))
-                
-                // Represent as stylish checklist grid
-                Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
-                    content.equipment.chunked(2).forEach { rowItems ->
-                        Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                            rowItems.forEach { item ->
-                                Row(
+                    Spacer(modifier = Modifier.height(14.dp))
+                    content.principle.forEachIndexed { idx, step ->
+                        Card(
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .padding(bottom = 8.dp),
+                            colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
+                            shape = RoundedCornerShape(10.dp),
+                            border = BorderStroke(1.dp, MaterialTheme.colorScheme.outline.copy(alpha = 0.05f))
+                        ) {
+                            Row(
+                                modifier = Modifier.padding(12.dp),
+                                verticalAlignment = Alignment.Top
+                            ) {
+                                Box(
                                     modifier = Modifier
-                                        .weight(1f)
-                                        .background(
-                                            MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.3f),
-                                            RoundedCornerShape(8.dp)
-                                        )
-                                        .border(
-                                            1.dp,
-                                            MaterialTheme.colorScheme.outline.copy(alpha = 0.05f),
-                                            RoundedCornerShape(8.dp)
-                                        )
-                                        .padding(10.dp),
-                                    verticalAlignment = Alignment.CenterVertically
+                                        .size(24.dp)
+                                        .background(themeColor.copy(alpha = 0.1f), CircleShape),
+                                    contentAlignment = Alignment.Center
                                 ) {
-                                    Icon(
-                                        imageVector = Icons.Default.Check,
-                                        contentDescription = "Ready",
-                                        tint = themeColor,
-                                        modifier = Modifier.size(16.dp)
-                                    )
-                                    Spacer(modifier = Modifier.width(8.dp))
                                     Text(
-                                        text = item,
-                                        style = MaterialTheme.typography.bodySmall,
-                                        fontWeight = FontWeight.Medium,
-                                        color = MaterialTheme.colorScheme.onSurface,
-                                        maxLines = 1,
-                                        overflow = TextOverflow.Ellipsis
+                                        text = (idx + 1).toString(),
+                                        fontSize = 11.sp,
+                                        fontWeight = FontWeight.Bold,
+                                        color = themeColor
                                     )
                                 }
+                                Spacer(modifier = Modifier.width(12.dp))
+                                Text(
+                                    text = step,
+                                    style = MaterialTheme.typography.bodyMedium,
+                                    color = MaterialTheme.colorScheme.onSurface,
+                                    lineHeight = 20.sp
+                                )
                             }
-                            if (rowItems.size == 1) {
-                                Spacer(modifier = Modifier.weight(1f))
+                        }
+                    }
+                }
+            }
+        }
+
+        // 3. Required Equipment Checklist
+        if (content.equipment.isNotEmpty()) {
+            Card(
+                modifier = Modifier.fillMaxWidth(),
+                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
+                border = BorderStroke(1.dp, MaterialTheme.colorScheme.outline.copy(alpha = 0.12f)),
+                shape = RoundedCornerShape(16.dp)
+            ) {
+                Column(modifier = Modifier.padding(16.dp)) {
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Box(
+                            modifier = Modifier
+                                .background(Color(0xFFE2E8F0), CircleShape)
+                                .padding(8.dp)
+                        ) {
+                            Icon(
+                                imageVector = Icons.Default.Handyman,
+                                contentDescription = "Equipment",
+                                tint = Color(0xFF475569),
+                                modifier = Modifier.size(20.dp)
+                            )
+                        }
+                        Spacer(modifier = Modifier.width(12.dp))
+                        Text(
+                            text = if (isAnatomy) "SYSTEMS & COMPONENTS" else "EQUIPMENT & TOOLS",
+                            style = MaterialTheme.typography.titleSmall,
+                            fontWeight = FontWeight.Bold,
+                            color = Color(0xFF475569)
+                        )
+                    }
+                    Spacer(modifier = Modifier.height(14.dp))
+                    
+                    // Represent as stylish checklist grid
+                    Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                        content.equipment.chunked(2).forEach { rowItems ->
+                            Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                                rowItems.forEach { item ->
+                                    Row(
+                                        modifier = Modifier
+                                            .weight(1f)
+                                            .background(
+                                                MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.3f),
+                                                RoundedCornerShape(8.dp)
+                                            )
+                                            .border(
+                                                1.dp,
+                                                MaterialTheme.colorScheme.outline.copy(alpha = 0.05f),
+                                                RoundedCornerShape(8.dp)
+                                            )
+                                            .padding(10.dp),
+                                        verticalAlignment = Alignment.CenterVertically
+                                    ) {
+                                        Icon(
+                                            imageVector = Icons.Default.Check,
+                                            contentDescription = "Ready",
+                                            tint = themeColor,
+                                            modifier = Modifier.size(16.dp)
+                                        )
+                                        Spacer(modifier = Modifier.width(8.dp))
+                                        Text(
+                                            text = item,
+                                            style = MaterialTheme.typography.bodySmall,
+                                            fontWeight = FontWeight.Medium,
+                                            color = MaterialTheme.colorScheme.onSurface,
+                                            maxLines = 1,
+                                            overflow = TextOverflow.Ellipsis
+                                        )
+                                    }
+                                }
+                                if (rowItems.size == 1) {
+                                    Spacer(modifier = Modifier.weight(1f))
+                                }
                             }
                         }
                     }
@@ -654,7 +497,7 @@ fun getSectionTitles(subjectId: String): Map<String, String> {
             "contraindications" to "RED FLAGS & SAFETY"
         )
         "pharmacology" -> mapOf(
-            "parameters" to "DRUG FACTS",
+            "parameters" to "KEY DRUG CONCEPTS",
             "effects" to "HOW THE DRUG WORKS",
             "indications" to "WHEN IT IS USED",
             "contraindications" to "WHEN TO AVOID"
@@ -683,13 +526,17 @@ fun getSectionTitles(subjectId: String): Map<String, String> {
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
 fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color, subjectId: String) {
-    val titles = getSectionTitles(subjectId)
+    var selectedLevel by remember { mutableStateOf(1) } // 1: Exam Def, 2: Simple Analogy, 3: Clinical Reasoning
+    val (level1, level2, level3) = remember(content.chapterId) {
+        ClinicalEducationEngine.getThreeLevelExplanation(content.chapterId, content.chapterName, content.subject, content.definition)
+    }
+
     Column(verticalArrangement = Arrangement.spacedBy(16.dp)) {
-        // 1. Technical Parameters Table
+        // 1. 3-Level Concept Explainer
         Card(
             modifier = Modifier.fillMaxWidth(),
             colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
-            border = BorderStroke(1.dp, themeColor.copy(alpha = 0.15f)),
+            border = BorderStroke(1.dp, themeColor.copy(alpha = 0.25f)),
             shape = RoundedCornerShape(16.dp)
         ) {
             Column(modifier = Modifier.padding(16.dp)) {
@@ -700,145 +547,158 @@ fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color, 
                             .padding(8.dp)
                     ) {
                         Icon(
-                            imageVector = Icons.Default.Settings,
-                            contentDescription = "Parameters",
+                            imageVector = Icons.Default.MenuBook,
+                            contentDescription = "Three Level Learning",
                             tint = themeColor,
                             modifier = Modifier.size(20.dp)
                         )
                     }
                     Spacer(modifier = Modifier.width(12.dp))
-                    Text(
-                        text = titles["parameters"] ?: "THERAPEUTIC PARAMETERS",
-                        style = MaterialTheme.typography.titleSmall,
-                        fontWeight = FontWeight.Bold,
-                        color = themeColor
-                    )
+                    Column {
+                        Text(
+                            text = "3-LEVEL CONCEPT EXPLAINER",
+                            style = MaterialTheme.typography.labelMedium,
+                            fontWeight = FontWeight.Bold,
+                            color = themeColor
+                        )
+                        Text(
+                            text = "Standardized BPT Curriculum Mastery",
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant
+                        )
+                    }
                 }
-                Spacer(modifier = Modifier.height(14.dp))
                 
-                content.parameters.forEach { (key, value) ->
-                    Column(modifier = Modifier.padding(bottom = 12.dp)) {
-                        Row(
-                            modifier = Modifier.fillMaxWidth(),
-                            horizontalArrangement = Arrangement.SpaceBetween,
-                            verticalAlignment = Alignment.CenterVertically
+                Spacer(modifier = Modifier.height(16.dp))
+                
+                // Tabs / Chips Row
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.spacedBy(8.dp)
+                ) {
+                    listOf(
+                        1 to "Level 1: Exam Def",
+                        2 to "Level 2: Simple Analogy",
+                        3 to "Level 3: Clinical Practice"
+                    ).forEach { (level, title) ->
+                        val isSelected = selectedLevel == level
+                        Box(
+                            modifier = Modifier
+                                .weight(1f)
+                                .background(
+                                    if (isSelected) themeColor else MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.3f),
+                                    RoundedCornerShape(8.dp)
+                                )
+                                .border(
+                                    1.dp,
+                                    if (isSelected) themeColor else MaterialTheme.colorScheme.outline.copy(alpha = 0.12f),
+                                    RoundedCornerShape(8.dp)
+                                )
+                                .clickable { selectedLevel = level }
+                                .padding(vertical = 8.dp),
+                            contentAlignment = Alignment.Center
                         ) {
                             Text(
-                                text = key.replaceFirstChar { it.uppercase() }
-                                    .replace(Regex("(?<=[a-z])(?=[A-Z])"), " "),
-                                style = MaterialTheme.typography.bodyMedium,
+                                text = title,
+                                style = MaterialTheme.typography.labelSmall,
+                                fontWeight = FontWeight.Bold,
+                                color = if (isSelected) Color.White else MaterialTheme.colorScheme.onSurfaceVariant,
+                                textAlign = TextAlign.Center
+                            )
+                        }
+                    }
+                }
+                
+                Spacer(modifier = Modifier.height(16.dp))
+                
+                // Explainer content box
+                Box(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .animateContentSize()
+                        .background(
+                            themeColor.copy(alpha = 0.04f),
+                            RoundedCornerShape(12.dp)
+                        )
+                        .border(
+                            1.dp,
+                            themeColor.copy(alpha = 0.08f),
+                            RoundedCornerShape(12.dp)
+                        )
+                        .padding(14.dp)
+                ) {
+                    val explanationText = when (selectedLevel) {
+                        1 -> level1
+                        2 -> level2
+                        else -> level3
+                    }
+                    Text(
+                        text = explanationText,
+                        style = MaterialTheme.typography.bodyMedium,
+                        lineHeight = 22.sp,
+                        color = MaterialTheme.colorScheme.onSurface
+                    )
+                }
+            }
+        }
+
+        // 2. Subject-Specific Concept Cards
+        val cards = remember(content.chapterId, subjectId) {
+            ClinicalEducationEngine.getSubjectLayout(content.chapterId, subjectId, content)
+        }
+        
+        cards.forEach { card ->
+            if (card.content.isNotEmpty()) {
+                Card(
+                    modifier = Modifier.fillMaxWidth(),
+                    colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
+                    border = BorderStroke(1.dp, MaterialTheme.colorScheme.outline.copy(alpha = 0.12f)),
+                    shape = RoundedCornerShape(16.dp)
+                ) {
+                    Column(modifier = Modifier.padding(16.dp)) {
+                        Row(verticalAlignment = Alignment.CenterVertically) {
+                            Box(
+                                modifier = Modifier
+                                    .background(themeColor.copy(alpha = 0.1f), CircleShape)
+                                    .padding(8.dp)
+                            ) {
+                                Icon(
+                                    imageVector = card.icon,
+                                    contentDescription = card.title,
+                                    tint = themeColor,
+                                    modifier = Modifier.size(20.dp)
+                                )
+                            }
+                            Spacer(modifier = Modifier.width(12.dp))
+                            Text(
+                                text = card.title.uppercase(),
+                                style = MaterialTheme.typography.titleSmall,
                                 fontWeight = FontWeight.Bold,
                                 color = MaterialTheme.colorScheme.onSurface
                             )
-                            Box(
-                                modifier = Modifier
-                                    .background(themeColor.copy(alpha = 0.1f), RoundedCornerShape(6.dp))
-                                    .padding(horizontal = 8.dp, vertical = 4.dp)
-                            ) {
-                                Text(
-                                    text = if (value.length > 25) "Details Below" else value,
-                                    fontSize = 12.sp,
-                                    color = themeColor,
-                                    fontWeight = FontWeight.Bold
-                                )
-                            }
                         }
-                        if (value.length > 25) {
-                            Text(
-                                text = value,
-                                style = MaterialTheme.typography.bodySmall,
-                                color = MaterialTheme.colorScheme.onSurfaceVariant,
-                                modifier = Modifier.padding(top = 2.dp, start = 4.dp)
-                            )
-                        }
-                        Spacer(modifier = Modifier.height(8.dp))
-                        HorizontalDivider(color = MaterialTheme.colorScheme.outline.copy(alpha = 0.05f))
-                    }
-                }
-            }
-        }
-
-        // 2. Biological Physiological Effects Card
-        Card(
-            modifier = Modifier.fillMaxWidth(),
-            colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
-            border = BorderStroke(1.dp, MaterialTheme.colorScheme.outline.copy(alpha = 0.12f)),
-            shape = RoundedCornerShape(16.dp)
-        ) {
-            Column(modifier = Modifier.padding(16.dp)) {
-                Row(verticalAlignment = Alignment.CenterVertically) {
-                    Box(
-                        modifier = Modifier
-                            .background(Color(0xFFECFDF5), CircleShape)
-                            .padding(8.dp)
-                    ) {
-                        Icon(
-                            imageVector = Icons.Default.Favorite,
-                            contentDescription = "Physiological Effects",
-                            tint = Color(0xFF059669),
-                            modifier = Modifier.size(20.dp)
-                        )
-                    }
-                    Spacer(modifier = Modifier.width(12.dp))
-                    Text(
-                        text = titles["effects"] ?: "PHYSIOLOGICAL EFFECTS",
-                        style = MaterialTheme.typography.titleSmall,
-                        fontWeight = FontWeight.Bold,
-                        color = Color(0xFF059669)
-                    )
-                }
-                Spacer(modifier = Modifier.height(14.dp))
-                
-                content.physiologicalEffects.forEach { effectModel ->
-                    Card(
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .padding(bottom = 12.dp),
-                        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.2f)),
-                        shape = RoundedCornerShape(12.dp),
-                        border = BorderStroke(1.dp, Color(0xFF059669).copy(alpha = 0.12f))
-                    ) {
-                        Column(modifier = Modifier.padding(14.dp)) {
+                        Spacer(modifier = Modifier.height(12.dp))
+                        
+                        card.content.forEach { line ->
                             Row(
-                                modifier = Modifier.fillMaxWidth(),
-                                horizontalArrangement = Arrangement.SpaceBetween,
-                                verticalAlignment = Alignment.CenterVertically
+                                modifier = Modifier
+                                    .fillMaxWidth()
+                                    .padding(bottom = 8.dp),
+                                verticalAlignment = Alignment.Top
                             ) {
                                 Text(
-                                    text = effectModel.effect,
-                                    style = MaterialTheme.typography.titleMedium,
-                                    fontWeight = FontWeight.ExtraBold,
-                                    color = MaterialTheme.colorScheme.onSurface
+                                    text = "•",
+                                    color = themeColor,
+                                    modifier = Modifier.padding(end = 8.dp),
+                                    fontWeight = FontWeight.Bold,
+                                    style = MaterialTheme.typography.titleMedium
                                 )
-                                Badge(containerColor = Color(0xFF059669)) {
-                                    Text(
-                                        text = effectModel.frequency,
-                                        modifier = Modifier.padding(horizontal = 6.dp, vertical = 2.dp),
-                                        color = Color.White,
-                                        fontWeight = FontWeight.Bold,
-                                        fontSize = 10.sp
-                                    )
-                                }
-                            }
-                            Spacer(modifier = Modifier.height(8.dp))
-                            effectModel.mechanism.forEach { mech ->
-                                Row(
-                                    modifier = Modifier.padding(bottom = 4.dp),
-                                    verticalAlignment = Alignment.CenterVertically
-                                ) {
-                                    Icon(
-                                        imageVector = Icons.Default.ArrowRight,
-                                        contentDescription = "Mechanism",
-                                        tint = Color(0xFF059669),
-                                        modifier = Modifier.size(18.dp)
-                                    )
-                                    Spacer(modifier = Modifier.width(4.dp))
-                                    Text(
-                                        text = mech,
-                                        style = MaterialTheme.typography.bodyMedium,
-                                        color = MaterialTheme.colorScheme.onSurfaceVariant
-                                    )
-                                }
+                                Text(
+                                    text = line,
+                                    style = MaterialTheme.typography.bodyMedium,
+                                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                    lineHeight = 20.sp
+                                )
                             }
                         }
                     }
@@ -846,155 +706,183 @@ fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color, 
             }
         }
 
-        // 3. Clinical Indications Checklist
+        // 3. Memory Zone & Exam Pearls Card
+        val mz = remember(content.chapterId) {
+            ClinicalEducationEngine.getMemoryZone(content.chapterId, content.chapterName)
+        }
+        
         Card(
             modifier = Modifier.fillMaxWidth(),
-            colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
-            border = BorderStroke(1.dp, Color(0xFF2563EB).copy(alpha = 0.15f)),
+            colors = CardDefaults.cardColors(containerColor = Color(0xFFFAF5FF)), // Soft purple theme for Memory Zone
+            border = BorderStroke(1.dp, Color(0xFFE9D5FF)),
             shape = RoundedCornerShape(16.dp)
         ) {
             Column(modifier = Modifier.padding(16.dp)) {
                 Row(verticalAlignment = Alignment.CenterVertically) {
                     Box(
                         modifier = Modifier
-                            .background(Color(0xFFEFF6FF), CircleShape)
+                            .background(Color(0xFFF3E8FF), CircleShape)
                             .padding(8.dp)
                     ) {
                         Icon(
-                            imageVector = Icons.Default.CheckCircle,
-                            contentDescription = "Indications",
-                            tint = Color(0xFF2563EB),
+                            imageVector = Icons.Default.Psychology,
+                            contentDescription = "Memory Zone",
+                            tint = Color(0xFF9333EA),
                             modifier = Modifier.size(20.dp)
                         )
                     }
                     Spacer(modifier = Modifier.width(12.dp))
+                    Column {
+                        Text(
+                            text = "MEMORY ZONE & HIGH-YIELD PEARLS",
+                            style = MaterialTheme.typography.labelMedium,
+                            fontWeight = FontWeight.ExtraBold,
+                            color = Color(0xFF7E22CE)
+                        )
+                        Text(
+                            text = "Clinical Mnemonics & Exam Revision",
+                            style = MaterialTheme.typography.bodySmall,
+                            color = Color(0xFF9333EA)
+                        )
+                    }
+                }
+                
+                Spacer(modifier = Modifier.height(16.dp))
+                
+                // Mnemonic Box
+                Column(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .background(Color.White, RoundedCornerShape(10.dp))
+                        .border(1.dp, Color(0xFFF3E8FF), RoundedCornerShape(10.dp))
+                        .padding(12.dp)
+                ) {
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Icon(
+                            imageVector = Icons.Default.VpnKey,
+                            contentDescription = "Mnemonic",
+                            tint = Color(0xFFD97706),
+                            modifier = Modifier.size(16.dp)
+                        )
+                        Spacer(modifier = Modifier.width(8.dp))
+                        Text(
+                            text = "ACTIVE MNEMONIC",
+                            style = MaterialTheme.typography.labelSmall,
+                            fontWeight = FontWeight.Bold,
+                            color = Color(0xFFD97706)
+                        )
+                    }
+                    Spacer(modifier = Modifier.height(6.dp))
                     Text(
-                        text = titles["indications"] ?: "CLINICAL INDICATIONS",
-                        style = MaterialTheme.typography.titleSmall,
+                        text = mz.mnemonic,
+                        style = MaterialTheme.typography.bodyMedium,
                         fontWeight = FontWeight.Bold,
-                        color = Color(0xFF2563EB)
+                        color = MaterialTheme.colorScheme.onSurface
                     )
                 }
-                Spacer(modifier = Modifier.height(14.dp))
-                content.indications.forEach { ind ->
+                
+                Spacer(modifier = Modifier.height(16.dp))
+                
+                // Frequently Confused Concepts
+                Column(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .background(Color(0xFFFEF2F2), RoundedCornerShape(10.dp))
+                        .border(1.dp, Color(0xFFFEE2E2), RoundedCornerShape(10.dp))
+                        .padding(12.dp)
+                ) {
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Icon(
+                            imageVector = Icons.Default.Warning,
+                            contentDescription = "Common Confusion",
+                            tint = Color(0xFFDC2626),
+                            modifier = Modifier.size(16.dp)
+                        )
+                        Spacer(modifier = Modifier.width(8.dp))
+                        Text(
+                            text = "STUDENT CONFUSION CLEARER",
+                            style = MaterialTheme.typography.labelSmall,
+                            fontWeight = FontWeight.Bold,
+                            color = Color(0xFFDC2626)
+                        )
+                    }
+                    Spacer(modifier = Modifier.height(6.dp))
+                    Text(
+                        text = mz.frequentlyConfused.first.uppercase(),
+                        style = MaterialTheme.typography.labelSmall,
+                        fontWeight = FontWeight.ExtraBold,
+                        color = Color(0xFFB91C1C)
+                    )
+                    Spacer(modifier = Modifier.height(2.dp))
+                    Text(
+                        text = mz.frequentlyConfused.second,
+                        style = MaterialTheme.typography.bodySmall,
+                        color = MaterialTheme.colorScheme.onSurface
+                    )
+                }
+
+                Spacer(modifier = Modifier.height(16.dp))
+                
+                // High-Yield Viva Points
+                Text(
+                    text = "HIGH-YIELD VIVA CHEAT SHEET",
+                    style = MaterialTheme.typography.labelSmall,
+                    color = Color(0xFF7E22CE),
+                    fontWeight = FontWeight.ExtraBold,
+                    modifier = Modifier.padding(bottom = 6.dp)
+                )
+                mz.vivaPoints.forEach { point ->
                     Row(
                         modifier = Modifier
                             .fillMaxWidth()
-                            .padding(bottom = 8.dp)
-                            .background(Color(0xFFF8FAFC), RoundedCornerShape(8.dp))
-                            .border(1.dp, Color(0xFFEFF6FF), RoundedCornerShape(8.dp))
-                            .padding(10.dp),
-                        verticalAlignment = Alignment.CenterVertically
+                            .padding(bottom = 6.dp),
+                        verticalAlignment = Alignment.Top
                     ) {
                         Icon(
-                            imageVector = Icons.Default.Check,
-                            contentDescription = "Indicated Condition",
-                            tint = Color(0xFF10B981),
-                            modifier = Modifier.size(18.dp)
+                            imageVector = Icons.Default.QuestionAnswer,
+                            contentDescription = "Viva Question",
+                            tint = Color(0xFF9333EA),
+                            modifier = Modifier.size(14.dp).padding(top = 2.dp)
                         )
-                        Spacer(modifier = Modifier.width(10.dp))
+                        Spacer(modifier = Modifier.width(8.dp))
                         Text(
-                            text = ind,
-                            style = MaterialTheme.typography.bodyMedium,
-                            fontWeight = FontWeight.Bold,
+                            text = point,
+                            style = MaterialTheme.typography.bodySmall,
                             color = MaterialTheme.colorScheme.onSurface
                         )
                     }
                 }
-            }
-        }
-
-        // 4. Warning & Contraindications Card (High Contrast Caution)
-        Card(
-            modifier = Modifier.fillMaxWidth(),
-            colors = CardDefaults.cardColors(containerColor = Color(0xFFFEF2F2)),
-            border = BorderStroke(1.dp, Color(0xFFFCA5A5)),
-            shape = RoundedCornerShape(16.dp)
-        ) {
-            Column(modifier = Modifier.padding(16.dp)) {
-                Row(verticalAlignment = Alignment.CenterVertically) {
-                    Box(
+                
+                Spacer(modifier = Modifier.height(12.dp))
+                
+                // Exam Pearls
+                Text(
+                    text = "EXAM GOLDEN PEARLS",
+                    style = MaterialTheme.typography.labelSmall,
+                    color = Color(0xFF7E22CE),
+                    fontWeight = FontWeight.ExtraBold,
+                    modifier = Modifier.padding(bottom = 6.dp)
+                )
+                mz.examPearls.forEach { pearl ->
+                    Row(
                         modifier = Modifier
-                            .background(Color(0xFFFEE2E2), CircleShape)
-                            .padding(8.dp)
+                            .fillMaxWidth()
+                            .padding(bottom = 4.dp),
+                        verticalAlignment = Alignment.CenterVertically
                     ) {
                         Icon(
-                            imageVector = Icons.Default.HealthAndSafety,
-                            contentDescription = "Contraindications",
-                            tint = Color(0xFFDC2626),
-                            modifier = Modifier.size(20.dp)
+                            imageVector = Icons.Default.Star,
+                            contentDescription = "Exam Pearl",
+                            tint = Color(0xFFD97706),
+                            modifier = Modifier.size(14.dp)
                         )
-                    }
-                    Spacer(modifier = Modifier.width(12.dp))
-                    Text(
-                        text = titles["contraindications"] ?: "CONTRAINDICATIONS & SAFETY",
-                        style = MaterialTheme.typography.titleSmall,
-                        fontWeight = FontWeight.Bold,
-                        color = Color(0xFFB91C1C)
-                    )
-                }
-                
-                Spacer(modifier = Modifier.height(14.dp))
-                
-                // General Warnings
-                Text(
-                    text = "GENERAL CONTRAINDICATIONS",
-                    style = MaterialTheme.typography.labelSmall,
-                    color = Color(0xFF991B1B),
-                    fontWeight = FontWeight.Bold,
-                    modifier = Modifier.padding(start = 2.dp, bottom = 6.dp)
-                )
-                FlowRow(
-                    modifier = Modifier.fillMaxWidth(),
-                    horizontalArrangement = Arrangement.spacedBy(6.dp),
-                    verticalArrangement = Arrangement.spacedBy(6.dp)
-                ) {
-                    content.contraindications.general.forEach { item ->
-                        Box(
-                            modifier = Modifier
-                                .background(Color.White, RoundedCornerShape(6.dp))
-                                .border(1.dp, Color(0xFFFEE2E2), RoundedCornerShape(6.dp))
-                                .padding(horizontal = 8.dp, vertical = 4.dp)
-                        ) {
-                            Text(
-                                text = item,
-                                fontSize = 11.sp,
-                                color = Color(0xFF991B1B),
-                                fontWeight = FontWeight.Medium
-                            )
-                        }
-                    }
-                }
-
-                Spacer(modifier = Modifier.height(16.dp))
-
-                // Local Warnings
-                Text(
-                    text = "LOCAL CONTRAINDICATIONS",
-                    style = MaterialTheme.typography.labelSmall,
-                    color = Color(0xFF991B1B),
-                    fontWeight = FontWeight.Bold,
-                    modifier = Modifier.padding(start = 2.dp, bottom = 6.dp)
-                )
-                FlowRow(
-                    modifier = Modifier.fillMaxWidth(),
-                    horizontalArrangement = Arrangement.spacedBy(6.dp),
-                    verticalArrangement = Arrangement.spacedBy(6.dp)
-                ) {
-                    content.contraindications.local.forEach { item ->
-                        Box(
-                            modifier = Modifier
-                                .background(Color(0xFFFEF2F2), RoundedCornerShape(6.dp))
-                                .border(1.dp, Color(0xFFFCA5A5), RoundedCornerShape(6.dp))
-                                .padding(horizontal = 8.dp, vertical = 4.dp)
-                        ) {
-                            Text(
-                                text = item,
-                                fontSize = 11.sp,
-                                color = Color(0xFFB91C1C),
-                                fontWeight = FontWeight.Bold
-                            )
-                        }
+                        Spacer(modifier = Modifier.width(8.dp))
+                        Text(
+                            text = pearl,
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                            fontWeight = FontWeight.Medium
+                        )
                     }
                 }
             }
@@ -1168,55 +1056,57 @@ fun ClinicalTabContent(content: InteractiveChapterContent, themeColor: Color, is
         } // Close if (!isAnatomy)
 
         // Clinical Pearls (Amber Highlight)
-        Card(
-            modifier = Modifier.fillMaxWidth(),
-            colors = CardDefaults.cardColors(containerColor = Color(0xFFFFFBEB)),
-            border = BorderStroke(1.dp, Color(0xFFFDE68A)),
-            shape = RoundedCornerShape(16.dp)
-        ) {
-            Column(modifier = Modifier.padding(16.dp)) {
-                Row(verticalAlignment = Alignment.CenterVertically) {
-                    Box(
-                        modifier = Modifier
-                            .background(Color(0xFFFEF3C7), CircleShape)
-                            .padding(8.dp)
-                    ) {
-                        Icon(
-                            imageVector = Icons.Default.Lightbulb,
-                            contentDescription = "Clinical Pearls",
-                            tint = Color(0xFFD97706),
-                            modifier = Modifier.size(20.dp)
+        if (content.clinicalPearls.isNotEmpty()) {
+            Card(
+                modifier = Modifier.fillMaxWidth(),
+                colors = CardDefaults.cardColors(containerColor = Color(0xFFFFFBEB)),
+                border = BorderStroke(1.dp, Color(0xFFFDE68A)),
+                shape = RoundedCornerShape(16.dp)
+            ) {
+                Column(modifier = Modifier.padding(16.dp)) {
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Box(
+                            modifier = Modifier
+                                .background(Color(0xFFFEF3C7), CircleShape)
+                                .padding(8.dp)
+                        ) {
+                            Icon(
+                                imageVector = Icons.Default.Lightbulb,
+                                contentDescription = "Clinical Pearls",
+                                tint = Color(0xFFD97706),
+                                modifier = Modifier.size(20.dp)
+                            )
+                        }
+                        Spacer(modifier = Modifier.width(12.dp))
+                        Text(
+                            text = "CLINICAL PEARLS & TIPS",
+                            style = MaterialTheme.typography.titleSmall,
+                            fontWeight = FontWeight.Bold,
+                            color = Color(0xFFB45309)
                         )
                     }
-                    Spacer(modifier = Modifier.width(12.dp))
-                    Text(
-                        text = "CLINICAL PEARLS & TIPS",
-                        style = MaterialTheme.typography.titleSmall,
-                        fontWeight = FontWeight.Bold,
-                        color = Color(0xFFB45309)
-                    )
-                }
-                Spacer(modifier = Modifier.height(12.dp))
-                content.clinicalPearls.forEach { pearl ->
-                    Row(
-                        modifier = Modifier.padding(bottom = 8.dp),
-                        verticalAlignment = Alignment.Top
-                    ) {
-                        Icon(
-                            imageVector = Icons.Default.Star,
-                            contentDescription = "Pearl",
-                            tint = Color(0xFFF59E0B),
-                            modifier = Modifier
-                                .size(16.dp)
-                                .padding(top = 2.dp)
-                        )
-                        Spacer(modifier = Modifier.width(8.dp))
-                        Text(
-                            text = pearl,
-                            style = MaterialTheme.typography.bodyMedium,
-                            color = Color(0xFF78350F),
-                            lineHeight = 20.sp
-                        )
+                    Spacer(modifier = Modifier.height(12.dp))
+                    content.clinicalPearls.forEach { pearl ->
+                        Row(
+                            modifier = Modifier.padding(bottom = 8.dp),
+                            verticalAlignment = Alignment.Top
+                        ) {
+                            Icon(
+                                imageVector = Icons.Default.Star,
+                                contentDescription = "Pearl",
+                                tint = Color(0xFFF59E0B),
+                                modifier = Modifier
+                                    .size(16.dp)
+                                    .padding(top = 2.dp)
+                            )
+                            Spacer(modifier = Modifier.width(8.dp))
+                            Text(
+                                text = pearl,
+                                style = MaterialTheme.typography.bodyMedium,
+                                color = Color(0xFF78350F),
+                                lineHeight = 20.sp
+                            )
+                        }
                     }
                 }
             }
@@ -1373,26 +1263,28 @@ fun ExamPrepTabContent(
         OralVivaCard(vivaQuestions = content.vivaQuestions, themeColor = themeColor)
 
         // 3. Recommended Readings References block
-        Card(
-            modifier = Modifier.fillMaxWidth(),
-            colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.4f)),
-            shape = RoundedCornerShape(12.dp)
-        ) {
-            Column(modifier = Modifier.padding(16.dp)) {
-                Text(
-                    text = "ACADEMIC BIBLIOGRAPHY",
-                    style = MaterialTheme.typography.labelSmall,
-                    fontWeight = FontWeight.Bold,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant
-                )
-                Spacer(modifier = Modifier.height(6.dp))
-                content.reference.forEach { ref ->
+        if (content.reference.isNotEmpty()) {
+            Card(
+                modifier = Modifier.fillMaxWidth(),
+                colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.4f)),
+                shape = RoundedCornerShape(12.dp)
+            ) {
+                Column(modifier = Modifier.padding(16.dp)) {
                     Text(
-                        text = "• $ref",
-                        style = MaterialTheme.typography.bodySmall,
-                        color = MaterialTheme.colorScheme.onSurface,
-                        fontWeight = FontWeight.Medium
+                        text = "ACADEMIC BIBLIOGRAPHY",
+                        style = MaterialTheme.typography.labelSmall,
+                        fontWeight = FontWeight.Bold,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant
                     )
+                    Spacer(modifier = Modifier.height(6.dp))
+                    content.reference.forEach { ref ->
+                        Text(
+                            text = "• $ref",
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurface,
+                            fontWeight = FontWeight.Medium
+                        )
+                    }
                 }
             }
         }
@@ -1827,6 +1719,111 @@ fun OralVivaCard(
                         }
                     }
                 }
+            }
+        }
+    }
+}
+
+@Composable
+fun ChapterBottomNavigation(
+    subject: SubjectModel,
+    currentChapterId: String,
+    themeColor: Color,
+    navController: NavController
+) {
+    val context = LocalContext.current
+    val scope = rememberCoroutineScope()
+    var isMarkedComplete by remember { mutableStateOf(false) }
+
+    val allChapters = remember(subject) {
+        if (subject.chapters.isNotEmpty()) subject.chapters else subject.modules.flatMap { it.chapters }
+    }
+    
+    val currentIndex = remember(allChapters, currentChapterId) {
+        allChapters.indexOfFirst { it.chapterId == currentChapterId }
+    }
+    
+    val previousChapter = if (currentIndex > 0) allChapters[currentIndex - 1] else null
+    val nextChapter = if (currentIndex in 0 until allChapters.lastIndex) allChapters[currentIndex + 1] else null
+
+    BottomAppBar(
+        containerColor = MaterialTheme.colorScheme.surface,
+        contentPadding = PaddingValues(horizontal = 16.dp, vertical = 8.dp),
+        tonalElevation = 8.dp
+    ) {
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.SpaceBetween,
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            // Previous Chapter
+            IconButton(
+                onClick = {
+                    previousChapter?.let {
+                        navController.navigate("chapter/${subject.subjectId}/${it.chapterId}") {
+                            popUpTo("chapter/${subject.subjectId}/$currentChapterId") { inclusive = true }
+                        }
+                    }
+                },
+                enabled = previousChapter != null
+            ) {
+                Icon(
+                    imageVector = Icons.Default.NavigateBefore,
+                    contentDescription = "Previous Chapter",
+                    tint = if (previousChapter != null) themeColor else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.3f)
+                )
+            }
+
+            // Mark Complete
+            Button(
+                onClick = {
+                    isMarkedComplete = !isMarkedComplete
+                    scope.launch(kotlinx.coroutines.Dispatchers.IO) {
+                        com.example.data.ProgressManager.toggleTopicCompletion(
+                            context = context,
+                            topicId = currentChapterId,
+                            isCompleted = isMarkedComplete,
+                            type = "chapter",
+                            title = allChapters.getOrNull(currentIndex)?.title ?: "Chapter",
+                            subject = subject.title,
+                            year = subject.year
+                        )
+                    }
+                },
+                colors = ButtonDefaults.buttonColors(
+                    containerColor = if (isMarkedComplete) Color(0xFF10B981) else themeColor
+                ),
+                shape = RoundedCornerShape(20.dp)
+            ) {
+                Icon(
+                    imageVector = if (isMarkedComplete) Icons.Default.Check else Icons.Default.TaskAlt,
+                    contentDescription = null,
+                    modifier = Modifier.size(18.dp)
+                )
+                Spacer(modifier = Modifier.width(8.dp))
+                Text(
+                    text = if (isMarkedComplete) "Completed" else "Mark Complete",
+                    fontWeight = FontWeight.Bold,
+                    fontSize = 13.sp
+                )
+            }
+
+            // Next Chapter
+            IconButton(
+                onClick = {
+                    nextChapter?.let {
+                        navController.navigate("chapter/${subject.subjectId}/${it.chapterId}") {
+                            popUpTo("chapter/${subject.subjectId}/$currentChapterId") { inclusive = true }
+                        }
+                    }
+                },
+                enabled = nextChapter != null
+            ) {
+                Icon(
+                    imageVector = Icons.Default.NavigateNext,
+                    contentDescription = "Next Chapter",
+                    tint = if (nextChapter != null) themeColor else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.3f)
+                )
             }
         }
     }

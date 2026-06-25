@@ -119,7 +119,9 @@ fun SearchScreen(navController: NavHostController) {
     val mcqsState = dao.getAllVivaMcqs().collectAsState(initial = emptyList())
     val vivaTopicsState = dao.getAllVivaTopics().collectAsState(initial = emptyList())
     val clinicalCasesState = dao.getAllClinicalCases().collectAsState(initial = emptyList())
-    val specialTests = remember { loadSpecialTests(context) }
+    val specialTests by androidx.compose.runtime.produceState(initialValue = emptyList<SpecialTestModel>()) {
+        value = loadSpecialTests(context)
+    }
 
     val anatomies = if (anatomiesState.value.isNotEmpty()) anatomiesState.value else ContentRepo.initialAnatomies
     val mcqs = if (mcqsState.value.isNotEmpty()) mcqsState.value else ContentRepo.initialVivaQuestions

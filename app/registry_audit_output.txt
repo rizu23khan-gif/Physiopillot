@@ -1,0 +1,13 @@
+=== REGISTRY CONSISTENCY AUDIT LOG ===
+SubjectChapterRepository total chapters: 161
+ChapterContentRepository.registry total chapters: 124
+chapter_registry.json total chapters: 161
+chapter_registry.json duplicates found: None
+RetentionRepository.kt total keys: 124
+SubjectChapterRepository duplicates: None
+SubjectChapterRepository IDs missing asset mapping: [med_ch1, med_ch2, med_ch3, surg_ch1, surg_ch2, surg_ch3, neu3_ch1, neu3_ch2, neu3_ch3, ast3_ch1, ast3_ch2, ast3_ch3, res_ch1, res_ch2, res_ch3, ort4_ch1, ort4_ch2, ort4_ch3, obs4_ch1, obs4_ch2, obs4_ch3, pmd4_ch1, pmd4_ch2, pmd4_ch3, neu4_ch1, neu4_ch2, neu4_ch3, eth_ch1, eth_ch2, pos_ch1, pos_ch2, cas_ch1, cas_ch2, doc_ch1, doc_ch2, hsp_ch1, hsp_ch2]
+ChapterContentRepository IDs unreachable from UI syllabus: []
+SubjectChapterRepository IDs missing from chapter_registry.json: []
+chapter_registry.json IDs missing from SubjectChapterRepository: []
+Invalid asset paths: None
+=== END REGISTRY CONSISTENCY AUDIT LOG ===

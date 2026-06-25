@@ -140,7 +140,9 @@ fun RegionDashboardScreen(navController: NavHostController, region: String) {
     }
 
     // Load special tests
-    val specialTests = remember { loadSpecialTests(context) }
+    val specialTests by androidx.compose.runtime.produceState(initialValue = emptyList<com.example.feature.assessment.SpecialTestModel>()) {
+        value = loadSpecialTests(context)
+    }
 
     // Navigation chapters lookup
     val moduleId = getSubjectModuleIdForRegion(region)

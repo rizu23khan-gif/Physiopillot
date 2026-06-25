@@ -1,62 +1,66 @@
 {
-  "subject": "Anatomy",
-  "chapterId": "anat_ch14",
-  "chapterName": "Major Nerves of Upper Limb",
-  "definition": [
-    "Brachial Plexus: A highly complex somatic nerve network formed by the union of the anterior (ventral) rami of the lower four cervical nerves (C5, C6, C7, C8) and the first thoracic nerve (T1). It provides motor, sensory, and sympathetic innervation to the entire scapular region and upper limb.",
-    "Major Peripheral Nerves: The terminal branches of the brachial plexus that course through the upper limb: 1) Musculocutaneous, 2) Axillary, 3) Radial, 4) Median, and 5) Ulnar nerves. Each nerve has a specific motor and sensory distribution whose injury manifests as distinct clinical motor dysfunctions and sensory deficits (deformities)."
-  ],
-  "principle": [
-    "Brachial Plexus Architecture: Organized sequentially into: 1) Roots (anterior rami in the neck), 2) Trunks (C5-C6 form Upper, C7 forms Middle, C8-T1 form Lower), 3) Divisions (each trunk splits into anterior and posterior), 4) Cords (named by relationship to axillary artery: Lateral, Medial, Posterior), and 5) Branches (terminal nerves).",
-    "Musculocutaneous and Axillary Nerves: Musculocutaneous Nerve (C5-C7 lateral cord) supplies the anterior arm flexors and ends as the lateral cutaneous nerve of the forearm. Axillary Nerve (C5-C6 posterior cord) curls around the surgical neck of the humerus to supply the Deltoid and Teres Minor, and the skin over the lower deltoid (regimental badge area).",
-    "Radial and Median Nerves: Radial Nerve (C5-T1 posterior cord) supplies all extensor muscles of the elbow, wrist, and digits, and provides posterior cutaneous sensation. Median Nerve (C5-T1 lateral/medial cords joint) descends through the arm to supply the anterior forearm pronators and flexors, thenar muscles, and lateral 3.5 digits.",
-    "Ulnar Nerve (The 'Musician's Nerve'): Arising from the Medial Cord (C8-T1), it courses behind the medial epicondyle and down the medial forearm to supply most of the intrinsic muscles of the hand (interossei, hypothenars, medial two lumbricals, adductor pollicis), handling meticulous finger coordination."
-  ],
-  "equipment": [
-    "Roots of Brachial Plexus (Anterior rami of C5, C6, C7, C8, and T1)",
-    "Upper, Middle, and Lower Trunks (Organized in the posterior triangle of neck)",
-    "Anterior and Posterior Divisions (Passing beneath the clavicle bone)",
-    "Medial, Lateral, and Posterior Cords (Enclosing the axillary artery in axilla)",
-    "Axillary Nerve (Supplies deltoid and teres minor, testing C5-C6 roots)",
-    "Radial Nerve (Courses postero-laterally to supply extensors, testing C5-T1)",
-    "Median Nerve (Passes through carpal tunnel to supply thenar, testing C5-T1)",
-    "Ulnar Nerve (Passes through Guyon's canal to supply intrinsics, testing C8-T1)"
-  ],
-  "parameters": {},
-  "physiologicalEffects": [],
-  "indications": [],
-  "contraindications": {
-    "general": [],
-    "local": []
+  "metadata": {
+    "chapterId": "anat_ch14",
+    "title": "Major Nerves of Upper Limb",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "version": "1.0",
+    "lastUpdated": "2026-06-25",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": [],
+    "status": "published"
   },
-  "technique": {
-    "patientPreparation": [],
-    "apparatusPreparation": [],
-    "skinPreparation": [],
-    "electrodePlacement": [],
-    "treatmentProcedure": []
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [
+      "Brachial Plexus: A highly complex somatic nerve network formed by the union of the anterior (ventral) rami of the lower four cervical nerves (C5, C6, C7, C8) and the first thoracic nerve (T1). It provides motor, sensory, and sympathetic innervation to the entire scapular region and upper limb.",
+      "Major Peripheral Nerves: The terminal branches of the brachial plexus that course through the upper limb: 1) Musculocutaneous, 2) Axillary, 3) Radial, 4) Median, and 5) Ulnar nerves. Each nerve has a specific motor and sensory distribution whose injury manifests as distinct clinical motor dysfunctions and sensory deficits (deformities)."
+    ],
+    "coreConcepts": [
+      "Brachial Plexus Architecture: Organized sequentially into: 1) Roots (anterior rami in the neck), 2) Trunks (C5-C6 form Upper, C7 forms Middle, C8-T1 form Lower), 3) Divisions (each trunk splits into anterior and posterior), 4) Cords (named by relationship to axillary artery: Lateral, Medial, Posterior), and 5) Branches (terminal nerves).",
+      "Musculocutaneous and Axillary Nerves: Musculocutaneous Nerve (C5-C7 lateral cord) supplies the anterior arm flexors and ends as the lateral cutaneous nerve of the forearm. Axillary Nerve (C5-C6 posterior cord) curls around the surgical neck of the humerus to supply the Deltoid and Teres Minor, and the skin over the lower deltoid (regimental badge area).",
+      "Radial and Median Nerves: Radial Nerve (C5-T1 posterior cord) supplies all extensor muscles of the elbow, wrist, and digits, and provides posterior cutaneous sensation. Median Nerve (C5-T1 lateral/medial cords joint) descends through the arm to supply the anterior forearm pronators and flexors, thenar muscles, and lateral 3.5 digits.",
+      "Ulnar Nerve (The 'Musician's Nerve'): Arising from the Medial Cord (C8-T1), it courses behind the medial epicondyle and down the medial forearm to supply most of the intrinsic muscles of the hand (interossei, hypothenars, medial two lumbricals, adductor pollicis), handling meticulous finger coordination."
+    ],
+    "equipment": [
+      "Roots of Brachial Plexus (Anterior rami of C5, C6, C7, C8, and T1)",
+      "Upper, Middle, and Lower Trunks (Organized in the posterior triangle of neck)",
+      "Anterior and Posterior Divisions (Passing beneath the clavicle bone)",
+      "Medial, Lateral, and Posterior Cords (Enclosing the axillary artery in axilla)",
+      "Axillary Nerve (Supplies deltoid and teres minor, testing C5-C6 roots)",
+      "Radial Nerve (Courses postero-laterally to supply extensors, testing C5-T1)",
+      "Median Nerve (Passes through carpal tunnel to supply thenar, testing C5-T1)",
+      "Ulnar Nerve (Passes through Guyon's canal to supply intrinsics, testing C8-T1)"
+    ]
   },
-  "precautions": [],
-  "clinicalPearls": [
-    "Erb-Duchenne Palsy (C5-C6 Upper Trunk Injury): Commonly caused by traction forces separating the neck and shoulder (e.g., birth injury, falling on neck). Paralyzed muscles (Deltoid, Biceps, Brachialis, Brachioradialis, Supinator) place the limb in the classic 'Waiter's tip' or 'Porter's tip' deformity: arm hanging at the side, medially rotated shoulder, and extended, pronated elbow.",
-    "Klumpke's Palsy (C8-T1 Lower Trunk Injury): Caused by hyperextension/uncontrolled upward arm pulling (e.g., catching a tree branch during a fall). Paralyzes all intrinsic hand muscles (interossei and lumbricals), resulting in a complete claw hand deformity and anesthesia along the medial aspect of the arm and forearm.",
-    "The Ulnar Paradox: High-level lesions of the ulnar nerve at the elbow produce 'less' clawing of the ring and little fingers compared to low-level lesions at the wrist. This is because high-level lesions paralyze the medial half of the Flexor Digitorum Profundus (FDP) tendon, removing the active flexion force pulling on the DIP joints, whereas low-level lesions retain FDP contraction, pulling the quiet joints into severe clawing."
-  ],
-  "clinicalProtocols": [],
-  "vivaQuestions": [
-    "Question: What is Erb's Point, and what happens when it is damaged? | Answer: Erb's Point is a site on the upper trunk of the Brachial Plexus where six nerves meet: the anterior rami of C5 and C6, the suprascapular nerve, nerve to subclavius, and the anterior/posterior divisions of the upper trunk. Damage here (Erb's Palsy) results in a C5-C6 upper trunk lesion, yielding the 'Waiter's tip' deformity. | Examiner Key Points: Six nerves meeting point, Upper trunk, C5-C6, Waiter's tip deformity. | Clinical Importance: Directs orthopedic physical therapy, infant positioning, and passive stretching protocols.",
-    "Question: Describe the 'Waiter's tip' deformity of Erb's Palsy and name the paralyzed muscles. | Answer: The affected upper limb hangs adducted at the side, medially rotated at the shoulder, with the elbow fully extended and pronated ('porter's tip' position). Paralyzed muscles include the Deltoid, Biceps Brachii, Brachioradialis, Supraspinatus, Infraspinatus, and Supinator. | Examiner Key Points: Adducted, medially rotated shoulder, extended, pronated elbow; Deltoid/Biceps/Supinator paralysis. | Clinical Importance: Focuses rehab on maintaining passive range of motion to prevent adduction and medial rotation contractures.",
-    "Question: What is Klumpke's Palsy, and how does it clinically present? | Answer: Klumpke's Palsy is a lower trunk Brachial Plexus lesion (C8-T1), caused by hyperabduction hyper-traction of the arm. It paralyzes all intrinsic muscles of the hand (interossei and lumbricals), resulting in a complete claw hand deformity, along with sensory loss on the medial forearm and hand (ulnar border). | Examiner Key Points: C8-T1 lower trunk lesion, complete claw hand, ulnar sensory loss. | Clinical Importance: Leads to severe functional grasp deficits, requiring active-assisted exercises and claw-blocking splints.",
-    "Question: Explain the concept of the 'Ulnar Paradox' in clinical terms. | Answer: The Ulnar Paradox states that a high lesion of the ulnar nerve (at the elbow) results in a *less* severe clawing deformity of the ring and little fingers than a low lesion (at the wrist). A high lesion paralyzes the Flexor Digitorum Profundus (medial 1/2) along with the intrinsics, meaning there is no active flexion pull on the interphalangeal joints, making clawing less prominent. | Examiner Key Points: High elbow lesion vs low wrist lesion, FDP medial half involvement, clawing severity. | Clinical Importance: Helps therapists interpret the progression of nerve regeneration; as the nerve heals, the deformity can look worse (increased clawing) before it improves.",
-    "Question: Identify the nerve and spinal roots damaged in Saturday Night Palsy and states its sensory-motor deficits. | Answer: sábado night palsy is a Radial Nerve compression injury in the arm/spiral groove (roots C5-T1). It causes complete wrist drop (paralysis of wrist and finger extensors) and sensory loss on the dorsum of the first web space, but spares the triceps if the lesion is below the axillary branches. | Examiner Key Points: Radial nerve, spiral groove, wrist drop, first web space sensory loss, triceps spared. | Clinical Importance: Guides physical therapy splinting (dynamic wrist-extension splint) to keep fingers functional during recovery.",
-    "Question: What is the sensory map of the hand and fingers for Median, Ulnar, and Radial nerves? | Answer: 1) Median Nerve: Palmar surface of lateral 3.5 digits and their underlying nail beds. 2) Ulnar Nerve: Medial 1.5 digits on both palmar and dorsal surfaces. 3) Radial Nerve: Lateral 2/3 of the dorsum of the hand and proximal portions of lateral 3.5 digits. | Examiner Key Points: Median lateral 3.5 palmar, Ulnar medial 1.5, Radial lateral 3.5 dorsal. | Clinical Importance: Guides precise diagnostic sensory testing to localize nerve entrapments.",
-    "Question: What is 'pointing index' (pointing hand/Hand of Benediction) and when does it occur? | Answer: When a patient is asked to make a tight fist, the index and middle fingers remain extended while the ring and little fingers flex. This occurs in high Median Nerve lesions due to paralysis of the lateral half of Flexor Digitorum Profundus and the Flexor Digitorum Superficialis. | Examiner Key Points: Fisting attempt, index/middle remain extended, high median lesion. | Clinical Importance: Distinct from permanent ulnar clawing because pointing benediction is only visible during active fisting attempts.",
-    "Question: Describe wrist drop and name the nerve and muscle groups involved. | Answer: Wrist drop is the inability to actively extend the wrist joint and fingers, leaving the hand hanging flaccidly in flexion. It is caused by paralysis of the wrist and finger extensor muscles (such as extensor carpi radialis, extensor carpi ulnaris, extensor digitorum) due to a Radial Nerve lesion. | Examiner Key Points: Inability to extend wrist/digits, radial nerve lesion, forearm extensors. | Clinical Importance: Requires splinting to prevent contracture of the opposing flexor muscles.",
-    "Question: Which nerve and root are tested by checking the 'abduction of digits' and what is this test called? | Answer: Digit abduction tests the Interossei (dorsal), innervated by the deep branch of the Ulnar Nerve (C8-T1). Clinically assessed using the card test (resisting pull of a paper card between the extended fingers). | Examiner Key Points: Dorsal interossei, ulnar nerve, card test. | Clinical Importance: Standard test for ulnar nerve neuropathy.",
-    "Question: What is 'winged scapula' and which nerve and muscle are compromised? | Answer: Winging of the scapula is a prominence of the medial border of the scapula. It is caused by injury to the Long Thoracic Nerve of Bell (C5, C6, C7), paralyzing the Serratus Anterior muscle, which holds the scapula flat against the thoracic wall. | Examiner Key Points: Long thoracic nerve, serratus anterior, medial scapular winging. | Clinical Importance: The patient cannot push forward with the arm or perform shoulder elevation above horizontal."
-  ],
+  "clinicalCorrelations": {
+    "pearls": [
+      "Erb-Duchenne Palsy (C5-C6 Upper Trunk Injury): Commonly caused by traction forces separating the neck and shoulder (e.g., birth injury, falling on neck). Paralyzed muscles (Deltoid, Biceps, Brachialis, Brachioradialis, Supinator) place the limb in the classic 'Waiter's tip' or 'Porter's tip' deformity: arm hanging at the side, medially rotated shoulder, and extended, pronated elbow.",
+      "Klumpke's Palsy (C8-T1 Lower Trunk Injury): Caused by hyperextension/uncontrolled upward arm pulling (e.g., catching a tree branch during a fall). Paralyzes all intrinsic hand muscles (interossei and lumbricals), resulting in a complete claw hand deformity and anesthesia along the medial aspect of the arm and forearm.",
+      "The Ulnar Paradox: High-level lesions of the ulnar nerve at the elbow produce 'less' clawing of the ring and little fingers compared to low-level lesions at the wrist. This is because high-level lesions paralyze the medial half of the Flexor Digitorum Profundus (FDP) tendon, removing the active flexion force pulling on the DIP joints, whereas low-level lesions retain FDP contraction, pulling the quiet joints into severe clawing."
+    ],
+    "precautions": [],
+    "indications": [],
+    "contraindications": {
+      "general": [],
+      "local": []
+    },
+    "technique": {
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": []
+    },
+    "protocols": [],
+    "physiologicalEffects": []
+  },
+  "clinicalCases": [],
   "mcqs": [
     {
+      "id": "mcq_anat_ch14_001",
       "question": "Which cervical and thoracic spinal nerve anterior rami unite to form the Brachial Plexus?",
       "options": [
         "C1 to C4 only",
@@ -68,6 +72,7 @@
       "explanation": "The Brachial Plexus is formed by the anterior rami of C5, C6, C7, C8, and T1 nerve roots, with occasional small contributions from C4 or T2."
     },
     {
+      "id": "mcq_anat_ch14_002",
       "question": "Which of the following trunks of the brachial plexus is formed by the union of the C5 and C6 nerve roots?",
       "options": [
         "Upper trunk",
@@ -79,6 +84,7 @@
       "explanation": "The C5 and C6 nerve roots join together to form the Upper (superior) trunk of the brachial plexus."
     },
     {
+      "id": "mcq_anat_ch14_003",
       "question": "The three posterior divisions of the Upper, Middle, and Lower trunks of the brachial plexus unite to form which structure?",
       "options": [
         "Lateral cord",
@@ -90,6 +96,7 @@
       "explanation": "The posterior divisions of all three trunks unite to form the Posterior cord of the Brachial Plexus."
     },
     {
+      "id": "mcq_anat_ch14_004",
       "question": "Damage to the upper trunk of the Brachial Plexus (C5-C6) produces which of the following classic clinical presentations?",
       "options": [
         "Claw hand deformity",
@@ -101,6 +108,7 @@
       "explanation": "Injury to the upper trunk (Erb's Palsy) results in C5-C6 deficit, holding the arm in an adducted, medially rotated shoulder, and extended, pronated elbow stance (waiter's tip)."
     },
     {
+      "id": "mcq_anat_ch14_005",
       "question": "What nerve roots are damaged in Klumpke's Palsy, resulting in a complete claw hand?",
       "options": [
         "C5, C6",
@@ -112,6 +120,7 @@
       "explanation": "Klumpke's Palsy is caused by injury to the lower trunk of the brachial plexus, primarily affecting the C8 and T1 nerve roots."
     },
     {
+      "id": "mcq_anat_ch14_006",
       "question": "Which nerve arises directly from the posterior cord of the brachial plexus and winds around the surgical neck of the humerus?",
       "options": [
         "Radial nerve",
@@ -123,6 +132,7 @@
       "explanation": "The Axillary nerve departs from the posterior cord (retaining C5-C6 fibers) and passes through the quadrangular space, circling the surgical neck of the humerus."
     },
     {
+      "id": "mcq_anat_ch14_007",
       "question": "A fracture of the surgical neck of the humerus runs a high risk of damaging which nerve and artery pair?",
       "options": [
         "Radial nerve and Profunda brachii artery",
@@ -134,6 +144,7 @@
       "explanation": "The axillary nerve and posterior circumflex humeral vessels wrap around the surgical neck of the humerus and are easily injured here during fractures or anterior dislocations."
     },
     {
+      "id": "mcq_anat_ch14_008",
       "question": "Which peripheral nerve of the upper limb originates as the direct terminal continuation of the lateral cord of the Brachial Plexus?",
       "options": [
         "Musculocutaneous nerve",
@@ -145,6 +156,7 @@
       "explanation": "The musculocutaneous nerve carries C5-C7 fibers and emerges as the terminal continuation of the lateral cord."
     },
     {
+      "id": "mcq_anat_ch14_009",
       "question": "Paralysis of the Serratus Anterior muscle leading to 'winged scapula' is caused by damage to which nerve?",
       "options": [
         "Suprascapular nerve",
@@ -156,6 +168,7 @@
       "explanation": "The Long Thoracic Nerve (C5-C7 ventral rami) innervates the Serratus Anterior. Injury to this nerve leads to winging of the scapula."
     },
     {
+      "id": "mcq_anat_ch14_010",
       "question": "Which nerve provides sensory innervation to the skin of the lateral forearm via its lateral cutaneous forearm branch?",
       "options": [
         "Radial nerve",
@@ -167,6 +180,7 @@
       "explanation": "After supplying the anterior brachium muscles, the musculocutaneous nerve emerges lateral to the biceps tendon as the lateral cutaneous nerve of the forearm."
     },
     {
+      "id": "mcq_anat_ch14_011",
       "question": "Saturday Night Palsy is a compression injury that primarily blocks which nerve?",
       "options": [
         "Median nerve",
@@ -178,6 +192,7 @@
       "explanation": "Saturday Night Palsy is caused by compression of the radial nerve against the humeral shaft, leading to temporary or persistent extensor paralysis (wrist drop)."
     },
     {
+      "id": "mcq_anat_ch14_012",
       "question": "An anterior dislocation of the Lunate bone into the carpal tunnel is most likely to compress which nerve?",
       "options": [
         "Radial nerve",
@@ -189,6 +204,7 @@
       "explanation": "The median nerve is transit-locked within the osteofibrous carpal tunnel and is compressed by space-occupying lesions like a dislocated lunate."
     },
     {
+      "id": "mcq_anat_ch14_013",
       "question": "If a patient cannot abduct their thumb but has normal sensation, which nerve is pathological?",
       "options": [
         "Ulnar nerve deep branch",
@@ -200,6 +216,7 @@
       "explanation": "The recurrent motor branch of the median nerve innervates the thenar muscles (Abductor Pollicis Brevis and Opponens Pollicis) and does not contain cutaneous sensory fibers."
     },
     {
+      "id": "mcq_anat_ch14_014",
       "question": "The sensory loss associated with carpal tunnel syndrome is typically localized to which aspect of the hand?",
       "options": [
         "Entire palmar surface of the hand",
@@ -211,6 +228,7 @@
       "explanation": "Median nerve compression inside the carpal tunnel compromises digital sensory branches, causing paresthesia on the palmar lateral 3.5 digits (thumb, index, middle, and radial half of ring finger)."
     },
     {
+      "id": "mcq_anat_ch14_015",
       "question": "Why is the central palm sensation typically spared in carpal tunnel syndrome?",
       "options": [
         "The palm skin is supplied by the Ulnar nerve",
@@ -222,6 +240,7 @@
       "explanation": "The palmar cutaneous branch of the median nerve arises about 5 cm proximal to the wrist and passes superficial to the flexor retinaculum, sparing central palm sensation."
     },
     {
+      "id": "mcq_anat_ch14_016",
       "question": "Which clinical deformity is characterized by wasting of the thenar eminence, flat thumb base, and loss of opposition?",
       "options": [
         "Claw hand deformity",
@@ -233,6 +252,7 @@
       "explanation": "Ape hand deformity is caused by median nerve lesions, yielding severe atrophy of thenar muscles which rotates the thumb into flat extension alignment."
     },
     {
+      "id": "mcq_anat_ch14_017",
       "question": "Which nerve enters the palm through Guyon's canal running superficial to the flexor retinaculum?",
       "options": [
         "Ulnar nerve",
@@ -244,6 +264,7 @@
       "explanation": "The ulnar nerve enters the hand by passing through a separate superficial osteofibrous canal at the wrist called Guyon's canal."
     },
     {
+      "id": "mcq_anat_ch14_018",
       "question": "The 'Ulnar Paradox' explains why a lesion of the ulnar nerve *at the elbow* causes:",
       "options": [
         "More severe clawing of digits 4 and 5 compared to a lesion at the wrist",
@@ -255,6 +276,7 @@
       "explanation": "A high lesion of the ulnar nerve paralyzes the Flexor Digitorum Profundus muscle, reducing the flexion force on the DIP joints, making finger clawing look less severe."
     },
     {
+      "id": "mcq_anat_ch14_019",
       "question": "Which nerve innervates all of the dorsal and palmar interosseous muscles of the hand?",
       "options": [
         "Recurrent branch of median nerve",
@@ -266,6 +288,7 @@
       "explanation": "All intrinsic palmar and dorsal interossei muscles (responsible for finger abduction and adduction) are supplied by the deep branch of the ulnar nerve (C8-T1)."
     },
     {
+      "id": "mcq_anat_ch14_020",
       "question": "A patient cannot make a tight fist. Their index and middle fingers remain extended while the medial digits flex. This is called:",
       "options": [
         "Claw hand deformity",
@@ -277,6 +300,7 @@
       "explanation": "The Hand of Benediction is an active sign of median nerve lesion. Attempted fist-making fails relative to digits 2 and 3 due to paralysis of FDS/lateral FDP."
     },
     {
+      "id": "mcq_anat_ch14_021",
       "question": "Clinical testing of the 'regimental badge area' over the lateral shoulder skin specifically assesses which nerve?",
       "options": [
         "Suprascapular nerve",
@@ -288,6 +312,7 @@
       "explanation": "The superior lateral cutaneous nerve of the arm, a branch of the axillary nerve, innervates the skin over the lower part of the deltoid muscle (regimental badge area)."
     },
     {
+      "id": "mcq_anat_ch14_022",
       "question": "Which of the following nerves acts on the posterior interosseous nerve to supply posterior forearm muscles?",
       "options": [
         "Median nerve",
@@ -299,6 +324,7 @@
       "explanation": "The radial nerve deep branch continues as the posterior interosseous nerve, innervating the extensor muscles of the posterior forearm."
     },
     {
+      "id": "mcq_anat_ch14_023",
       "question": "Under Hilton's Law, the nerve supplying the musculature that moves a joint also supplies branches to which anatomical features?",
       "options": [
         "The joint capsule and the overlying skin",
@@ -310,6 +336,7 @@
       "explanation": "Hilton's law states that the nerve supplying a muscle that moves a joint also supplies sensory branches to the joint capsule and the overlying skin."
     },
     {
+      "id": "mcq_anat_ch14_024",
       "question": "Which cord of the brachial plexus is formed as a direct continuation of the anterior division of the middle trunk?",
       "options": [
         "Medial cord",
@@ -321,6 +348,7 @@
       "explanation": "The anterior divisions of the upper and middle trunks unite to form the lateral cord of the brachial plexus."
     },
     {
+      "id": "mcq_anat_ch14_025",
       "question": "A patient fails Froment's Sign test because they must flex their thumb IP joint to hold a piece of paper. This indicates paralysis of which muscle?",
       "options": [
         "Flexor pollicis longus",
@@ -332,6 +360,7 @@
       "explanation": "Froment's sign tests Adductor Pollicis (Ulnar nerve). Weakness here forces the patient to recruit Flexor Pollicis Longus (Median nerve, thumb IP flexor) to hold the paper."
     },
     {
+      "id": "mcq_anat_ch14_026",
       "question": "Erb's point is a critical site of the brachial plexus located on which component?",
       "options": [
         "Lower trunk",
@@ -343,6 +372,7 @@
       "explanation": "Erb's point is situated on the Upper Trunk of the brachial plexus, where six nerve paths converge."
     },
     {
+      "id": "mcq_anat_ch14_027",
       "question": "Which cord of the brachial plexus gives rise to the medial root of the median nerve?",
       "options": [
         "Lateral cord",
@@ -354,6 +384,7 @@
       "explanation": "The median nerve is formed by branches from the medial cord (carrying C8-T1 fibers) and lateral cord (carrying C5-C7 fibers)."
     },
     {
+      "id": "mcq_anat_ch14_028",
       "question": "Which muscle is supplied by the Musculocutaneous Nerve and facilitates arm adduction and shoulder glenohumeral flexion?",
       "options": [
         "Deltoid",
@@ -365,6 +396,7 @@
       "explanation": "Coracobrachialis is supplied by the musculocutaneous nerve, acting as an accessory adductor and flexor of the glenohumeral joint."
     },
     {
+      "id": "mcq_anat_ch14_029",
       "question": "A wrist-extension splint is a standard physical therapy device designed to manage lesions of which nerve?",
       "options": [
         "Median nerve",
@@ -376,6 +408,7 @@
       "explanation": "A radial nerve lesion causes wrist drop. Extensor splinting is essential to maintain wrist extension so the fingers can still produce grip flexion."
     },
     {
+      "id": "mcq_anat_ch14_030",
       "question": "The ulnar nerve arises as a direct terminal branch of which component of the brachial plexus?",
       "options": [
         "Medial cord",
@@ -387,9 +420,88 @@
       "explanation": "The ulnar nerve is derived from the Medial Cord (C8-T1), passing medially down the arm to enter the forearm behind the medial epicondyle."
     }
   ],
-  "reference": [
+  "flashcards": [],
+  "viva": [
+    {
+      "id": "viva_anat_ch14_001",
+      "question": "What is Erb's Point, and what happens when it is damaged?",
+      "answer": "Erb's Point is a site on the upper trunk of the Brachial Plexus where six nerves meet: the anterior rami of C5 and C6, the suprascapular nerve, nerve to subclavius, and the anterior/posterior divisions of the upper trunk. Damage here (Erb's Palsy) results in a C5-C6 upper trunk lesion, yielding the 'Waiter's tip' deformity.",
+      "keyPoints": "Six nerves meeting point, Upper trunk, C5-C6, Waiter's tip deformity.",
+      "clinicalImportance": "Directs orthopedic physical therapy, infant positioning, and passive stretching protocols."
+    },
+    {
+      "id": "viva_anat_ch14_002",
+      "question": "Describe the 'Waiter's tip' deformity of Erb's Palsy and name the paralyzed muscles.",
+      "answer": "The affected upper limb hangs adducted at the side, medially rotated at the shoulder, with the elbow fully extended and pronated ('porter's tip' position). Paralyzed muscles include the Deltoid, Biceps Brachii, Brachioradialis, Supraspinatus, Infraspinatus, and Supinator.",
+      "keyPoints": "Adducted, medially rotated shoulder, extended, pronated elbow; Deltoid/Biceps/Supinator paralysis.",
+      "clinicalImportance": "Focuses rehab on maintaining passive range of motion to prevent adduction and medial rotation contractures."
+    },
+    {
+      "id": "viva_anat_ch14_003",
+      "question": "What is Klumpke's Palsy, and how does it clinically present?",
+      "answer": "Klumpke's Palsy is a lower trunk Brachial Plexus lesion (C8-T1), caused by hyperabduction hyper-traction of the arm. It paralyzes all intrinsic muscles of the hand (interossei and lumbricals), resulting in a complete claw hand deformity, along with sensory loss on the medial forearm and hand (ulnar border).",
+      "keyPoints": "C8-T1 lower trunk lesion, complete claw hand, ulnar sensory loss.",
+      "clinicalImportance": "Leads to severe functional grasp deficits, requiring active-assisted exercises and claw-blocking splints."
+    },
+    {
+      "id": "viva_anat_ch14_004",
+      "question": "Explain the concept of the 'Ulnar Paradox' in clinical terms.",
+      "answer": "The Ulnar Paradox states that a high lesion of the ulnar nerve (at the elbow) results in a *less* severe clawing deformity of the ring and little fingers than a low lesion (at the wrist). A high lesion paralyzes the Flexor Digitorum Profundus (medial 1/2) along with the intrinsics, meaning there is no active flexion pull on the interphalangeal joints, making clawing less prominent.",
+      "keyPoints": "High elbow lesion vs low wrist lesion, FDP medial half involvement, clawing severity.",
+      "clinicalImportance": "Helps therapists interpret the progression of nerve regeneration; as the nerve heals, the deformity can look worse (increased clawing) before it improves."
+    },
+    {
+      "id": "viva_anat_ch14_005",
+      "question": "Identify the nerve and spinal roots damaged in Saturday Night Palsy and states its sensory-motor deficits.",
+      "answer": "sábado night palsy is a Radial Nerve compression injury in the arm/spiral groove (roots C5-T1). It causes complete wrist drop (paralysis of wrist and finger extensors) and sensory loss on the dorsum of the first web space, but spares the triceps if the lesion is below the axillary branches.",
+      "keyPoints": "Radial nerve, spiral groove, wrist drop, first web space sensory loss, triceps spared.",
+      "clinicalImportance": "Guides physical therapy splinting (dynamic wrist-extension splint) to keep fingers functional during recovery."
+    },
+    {
+      "id": "viva_anat_ch14_006",
+      "question": "What is the sensory map of the hand and fingers for Median, Ulnar, and Radial nerves?",
+      "answer": "1) Median Nerve: Palmar surface of lateral 3.5 digits and their underlying nail beds. 2) Ulnar Nerve: Medial 1.5 digits on both palmar and dorsal surfaces. 3) Radial Nerve: Lateral 2/3 of the dorsum of the hand and proximal portions of lateral 3.5 digits.",
+      "keyPoints": "Median lateral 3.5 palmar, Ulnar medial 1.5, Radial lateral 3.5 dorsal.",
+      "clinicalImportance": "Guides precise diagnostic sensory testing to localize nerve entrapments."
+    },
+    {
+      "id": "viva_anat_ch14_007",
+      "question": "What is 'pointing index' (pointing hand/Hand of Benediction) and when does it occur?",
+      "answer": "When a patient is asked to make a tight fist, the index and middle fingers remain extended while the ring and little fingers flex. This occurs in high Median Nerve lesions due to paralysis of the lateral half of Flexor Digitorum Profundus and the Flexor Digitorum Superficialis.",
+      "keyPoints": "Fisting attempt, index/middle remain extended, high median lesion.",
+      "clinicalImportance": "Distinct from permanent ulnar clawing because pointing benediction is only visible during active fisting attempts."
+    },
+    {
+      "id": "viva_anat_ch14_008",
+      "question": "Describe wrist drop and name the nerve and muscle groups involved.",
+      "answer": "Wrist drop is the inability to actively extend the wrist joint and fingers, leaving the hand hanging flaccidly in flexion. It is caused by paralysis of the wrist and finger extensor muscles (such as extensor carpi radialis, extensor carpi ulnaris, extensor digitorum) due to a Radial Nerve lesion.",
+      "keyPoints": "Inability to extend wrist/digits, radial nerve lesion, forearm extensors.",
+      "clinicalImportance": "Requires splinting to prevent contracture of the opposing flexor muscles."
+    },
+    {
+      "id": "viva_anat_ch14_009",
+      "question": "Which nerve and root are tested by checking the 'abduction of digits' and what is this test called?",
+      "answer": "Digit abduction tests the Interossei (dorsal), innervated by the deep branch of the Ulnar Nerve (C8-T1). Clinically assessed using the card test (resisting pull of a paper card between the extended fingers).",
+      "keyPoints": "Dorsal interossei, ulnar nerve, card test.",
+      "clinicalImportance": "Standard test for ulnar nerve neuropathy."
+    },
+    {
+      "id": "viva_anat_ch14_010",
+      "question": "What is 'winged scapula' and which nerve and muscle are compromised?",
+      "answer": "Winging of the scapula is a prominence of the medial border of the scapula. It is caused by injury to the Long Thoracic Nerve of Bell (C5, C6, C7), paralyzing the Serratus Anterior muscle, which holds the scapula flat against the thoracic wall.",
+      "keyPoints": "Long thoracic nerve, serratus anterior, medial scapular winging.",
+      "clinicalImportance": "The patient cannot push forward with the arm or perform shoulder elevation above horizontal."
+    }
+  ],
+  "pyqs": [],
+  "references": [
     "Chaurasia, B. D. (2020). Human Anatomy: Regional and Applied, Volume 1 (Upper Limb and Thorax). CBS Publishers.",
     "Gray, H. (2020). Gray's Anatomy: The Anatomical Basis of Clinical Practice (42nd ed.). Elsevier.",
     "Magee, D. J. (2014). Orthopedic Physical Assessment. Elsevier Health Sciences."
-  ]
+  ],
+  "subjectExtensions": {
+    "anatomy": {
+      "parameters": {}
+    }
+  }
 }

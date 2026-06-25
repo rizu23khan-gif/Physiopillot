@@ -1,64 +1,68 @@
 {
-  "subject": "Anatomy",
-  "chapterId": "anat_ch6",
-  "chapterName": "Back & Scapular Region",
-  "definition": [
-    "Chapter Overview: This chapter details the musculature and critical spaces of the back and scapular region, defining the robust connection between the axial skeleton and upper limb, emphasizing dynamic shoulder stability.",
-    "Definition: The back and scapular region covers the posterior aspect of the thorax, anchored heavily by layers of stabilizing muscles serving to precisely align the glenoid cavity for optimal arm motion.",
-    "Surface Anatomy & Boundaries: Spans vertically from the prominent vertebra prominens (C7) down to the 12th rib margin. It is bounded medially by the vertebral column and laterally by the axilla and arm.",
-    "Fascial Layers: The deep fascia adheres strongly to the vertebral spines, extending laterally over the musculature. The supraspinous, infraspinous, and remarkably strong subscapular fasciae compartmentalize the scapular muscles."
-  ],
-  "principle": [
-    "Trapezius Muscle: A large, triangular muscle. Origin: Medial third of superior nuchal line, external occipital protuberance, ligamentum nuchae, C7-T12 spines. Insertion: Lateral third of clavicle, acromion, and crest of scapular spine. Nerve: Spinal accessory nerve (CN XI). Actions: Upper fibers elevate, middle retract, lower depress. Together, upper and lower fibers forcibly rotate the scapula outwards for full arm abduction.",
-    "Latissimus Dorsi Muscle: A massive 'climbing' muscle. Origin: Lower 6 thoracic spines, lumbar fascia, iliac crest, inferior angle of scapula. Insertion: Floor of bicipital groove of humerus. Nerve: Thoracodorsal nerve (C6-C8). Actions: Powerful adductor, extensor, and medial rotator of the upper limb.",
-    "Levator Scapulae & Rhomboids: Levator Scapulae (from C1-C4 transverse processes to upper medial scapular border) elevates the scapula. Rhomboid Minor and Major (originating from C7-T5 spines, inserting along the medial border of scapula) primarily retract the scapula securely against the posterior thoracic wall, innervated jointly by the dorsal scapular nerve.",
-    "Rotator Cuff (SITS): Supraspinatus initiates abduction (0-15 degrees; suprascapular nerve). Infraspinatus laterally rotates (suprascapular nerve). Teres Minor laterally rotates (axillary nerve). Subscapularis strongly medially rotates (upper and lower subscapular nerves). Collectively, their tendinous insertions dynamically grasp and stabilize the large head of the humerus within the extremely shallow glenoid cavity."
-  ],
-  "equipment": [
-    "Scapular Anastomosis: Crucial collateral arterial network established securely on the dorsal and costal surfaces of the scapula. It inextricably links the first part of the subclavian artery (via the Suprascapular and Deep branch of the Transverse Cervical artery) with the third part of the axillary artery (via the Circumflex Scapular branch of the subscapular artery).",
-    "Quadrangular Space: Bounded strictly by teres minor / capsule (above), teres major (below), long head of triceps (medially), and surgical neck of humerus (laterally). It critically transmits the Axillary Nerve and the Posterior Circumflex Humeral artery.",
-    "Upper Triangular Space: Bounded natively by the teres minor (above), teres major (below), and long head of triceps (laterally). It explicitly transmits the Circumflex Scapular vessels looping around the lateral scapular border.",
-    "Lower Triangular Space: Bounded by the teres major (above), the medial border of the humeral shaft (laterally), and the long head of the triceps (medially). It famously transmits the Radial Nerve and the Profunda Brachii artery spiraling posteriorly towards the arm.",
-    "Functional Scapulohumeral Rhythm: Pure unrestricted glenohumeral motion produces only about 120 degrees of arm abduction. The remaining 60 degrees is achieved exclusively through scapular lateral rotation, occurring in a strict 2:1 physiological ratio (2 degrees of humeral movement for every 1 degree of scapular movement)."
-  ],
-  "parameters": {},
-  "physiologicalEffects": [],
-  "indications": [],
-  "contraindications": {
-    "general": [],
-    "local": []
+  "metadata": {
+    "chapterId": "anat_ch6",
+    "title": "Back & Scapular Region",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "version": "1.0",
+    "lastUpdated": "2026-06-25",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": [],
+    "status": "published"
   },
-  "technique": {
-    "patientPreparation": [],
-    "apparatusPreparation": [],
-    "skinPreparation": [],
-    "electrodePlacement": [],
-    "treatmentProcedure": []
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [
+      "Chapter Overview: This chapter details the musculature and critical spaces of the back and scapular region, defining the robust connection between the axial skeleton and upper limb, emphasizing dynamic shoulder stability.",
+      "Definition: The back and scapular region covers the posterior aspect of the thorax, anchored heavily by layers of stabilizing muscles serving to precisely align the glenoid cavity for optimal arm motion.",
+      "Surface Anatomy & Boundaries: Spans vertically from the prominent vertebra prominens (C7) down to the 12th rib margin. It is bounded medially by the vertebral column and laterally by the axilla and arm.",
+      "Fascial Layers: The deep fascia adheres strongly to the vertebral spines, extending laterally over the musculature. The supraspinous, infraspinous, and remarkably strong subscapular fasciae compartmentalize the scapular muscles."
+    ],
+    "coreConcepts": [
+      "Trapezius Muscle: A large, triangular muscle. Origin: Medial third of superior nuchal line, external occipital protuberance, ligamentum nuchae, C7-T12 spines. Insertion: Lateral third of clavicle, acromion, and crest of scapular spine. Nerve: Spinal accessory nerve (CN XI). Actions: Upper fibers elevate, middle retract, lower depress. Together, upper and lower fibers forcibly rotate the scapula outwards for full arm abduction.",
+      "Latissimus Dorsi Muscle: A massive 'climbing' muscle. Origin: Lower 6 thoracic spines, lumbar fascia, iliac crest, inferior angle of scapula. Insertion: Floor of bicipital groove of humerus. Nerve: Thoracodorsal nerve (C6-C8). Actions: Powerful adductor, extensor, and medial rotator of the upper limb.",
+      "Levator Scapulae & Rhomboids: Levator Scapulae (from C1-C4 transverse processes to upper medial scapular border) elevates the scapula. Rhomboid Minor and Major (originating from C7-T5 spines, inserting along the medial border of scapula) primarily retract the scapula securely against the posterior thoracic wall, innervated jointly by the dorsal scapular nerve.",
+      "Rotator Cuff (SITS): Supraspinatus initiates abduction (0-15 degrees; suprascapular nerve). Infraspinatus laterally rotates (suprascapular nerve). Teres Minor laterally rotates (axillary nerve). Subscapularis strongly medially rotates (upper and lower subscapular nerves). Collectively, their tendinous insertions dynamically grasp and stabilize the large head of the humerus within the extremely shallow glenoid cavity."
+    ],
+    "equipment": [
+      "Scapular Anastomosis: Crucial collateral arterial network established securely on the dorsal and costal surfaces of the scapula. It inextricably links the first part of the subclavian artery (via the Suprascapular and Deep branch of the Transverse Cervical artery) with the third part of the axillary artery (via the Circumflex Scapular branch of the subscapular artery).",
+      "Quadrangular Space: Bounded strictly by teres minor / capsule (above), teres major (below), long head of triceps (medially), and surgical neck of humerus (laterally). It critically transmits the Axillary Nerve and the Posterior Circumflex Humeral artery.",
+      "Upper Triangular Space: Bounded natively by the teres minor (above), teres major (below), and long head of triceps (laterally). It explicitly transmits the Circumflex Scapular vessels looping around the lateral scapular border.",
+      "Lower Triangular Space: Bounded by the teres major (above), the medial border of the humeral shaft (laterally), and the long head of the triceps (medially). It famously transmits the Radial Nerve and the Profunda Brachii artery spiraling posteriorly towards the arm.",
+      "Functional Scapulohumeral Rhythm: Pure unrestricted glenohumeral motion produces only about 120 degrees of arm abduction. The remaining 60 degrees is achieved exclusively through scapular lateral rotation, occurring in a strict 2:1 physiological ratio (2 degrees of humeral movement for every 1 degree of scapular movement)."
+    ]
   },
-  "precautions": [],
-  "clinicalPearls": [
-    "Winged Scapula & Scapular Dyskinesis: Paralysis of the serratus anterior violently disrupts medial scapular stabilization, causing 'winging'—where the medial border dramatically protrudes backwards upon forward pushing. Dyskinesis universally describes abnormal scapular kinematics frequently generating secondary shoulder impingement.",
-    "Rotator Cuff Tears: The supraspinatus tendon is unequivocally the most frequently torn tendon in the human body, frequently due to a chronic avascular 'critical zone' near its insertion. Clinically confirmed via a dramatically positive 'Drop Arm Test'.",
-    "Shoulder Impingement Syndrome: Commonly occurs when the supraspinatus tendon is pathologically pinched against the rigid overlying coracoacromial arch during extreme abduction movements. Often requires rigorous scapular stabilization physical therapy.",
-    "Suprascapular Nerve Entrapment: Pathologically compressed at precisely the sharp suprascapular notch ( beneath the transverse scapular ligament), producing insidious, isolated severe atrophy of both the supraspinatus and infraspinatus muscles.",
-    "Trapezius Paralysis: Often resulting from accidental iatrogenic injury to the superficial Spinal Accessory nerve during surgical lymph node biopsies in the posterior cervical triangle, characterized by a visible shoulder droop and absolute inability to shrug against resistance.",
-    "Scapular Excursion & Physiotherapy: The unyielding rhythm of the scapula is fundamental for overhead athletes. Aggressive mobilizations must physically unbind a tightly bound subscapularis or shortened pectoralis minor to successfully restore the vital 2:1 scapulohumeral climbing rhythm."
-  ],
-  "clinicalProtocols": [],
-  "vivaQuestions": [
-    "Question: Identify and fully detail the exact origin and extensive insertion points of the trapezius muscle. | Answer: Origin: Occipital bone, nuchal ligament, spinous processes C7-T12. Insertion: Lateral third of clavicle, acromion, and spine of scapula. | Examiner Key Points: Extensive spinal origin. | Clinical Importance: Primary elevator and upward rotator of the scapula.",
-    "Question: What specific nerve provides motor supply to the trapezius, and how is it tested clinically? | Answer: The spinal accessory nerve (Cranial Nerve XI). Tested by having the patient shrug shoulders against resistance. | Examiner Key Points: Spinal accessory nerve. | Clinical Importance: Cranial nerve exam test.",
-    "Question: Describe the precise anatomical boundaries of the quadrangular space of the scapular region. | Answer: Superiorly: Teres minor. Inferiorly: Teres major. Medially: Long head of triceps. Laterally: Surgical neck of humerus. | Examiner Key Points: Teres minor above, major below. | Clinical Importance: Axillary nerve and posterior circumflex artery pass here.",
-    "Question: Identify the distinct muscular group constituting the functional 'rotator cuff'. | Answer: Supraspinatus, Infraspinatus, Teres minor, and Subscapularis (SITS muscles). | Examiner Key Points: Stabilize glenohumeral joint. | Clinical Importance: Tears commonly occur here, leading to shoulder instability.",
-    "Question: Which singular rotator cuff muscle surprisingly acts as a powerful medial rotator instead of a lateral rotator? | Answer: The Subscapularis muscle acts as a medial rotator, inserting into the lesser tubercle. | Examiner Key Points: Only medial rotator in cuff. | Clinical Importance: Evaluated by the 'lift-off' clinical test.",
-    "Question: Define the complete origin, specific attachment point, and clinical assessment for the Latissimus Dorsi. | Answer: Origin: T7-L5 spinous processes, iliac crest. Insertion: Floor of intertubercular sulcus. Assessed by arm extension and adduction against resistance. | Examiner Key Points: Broad back muscle inserting anteriorly. | Clinical Importance: Major muscle used in climbing and swimming.",
-    "Question: Explain the 'Triangle of Auscultation' – its boundaries and its clinical relevance. | Answer: Bounded by the trapezius medially, latissimus dorsi inferiorly, and medial border of the scapula laterally. | Examiner Key Points: Thin layer of back musculature. | Clinical Importance: Optimal site on back for listening to respiratory lung sounds.",
-    "Question: Describe the boundaries and contents of the triangular space in the scapular region. | Answer: Bounded superiorly by the teres minor, inferiorly by the teres major, and laterally by the long head of the triceps brachii. It contains the circumflex scapular artery. | Examiner Key Points: Teres minor, teres major, long head of triceps; circumflex scapular artery. | Clinical Importance: Forms an essential collateral vascular channel around the scapula.",
-    "Question: Explain the anatomical basis of scapulohumeral rhythm and the contribution of muscles of the scapular region to it. | Answer: Scapulohumeral rhythm describes the 2:1 ratio of humeral abduction to scapular upward rotation. The first 30 degrees of abduction are purely glenohumeral, after which every 2 degrees of abduction is paired with 1 degree of scapular upward rotation. This rotation is driven by a force couple of upper and lower trapezius with the serratus anterior. | Examiner Key Points: 2:1 ratio, upper/lower trapezius and serratus anterior force couple. | Clinical Importance: Disruption (e.g., in trapezius or serratus anterior fatigue/palsy) results in scapular dyskinesis and secondary impingement.",
-    "Question: What is the clinical significance of the scapular anastomosis, and which arteries participate in its formation? | Answer: It is a vital vascular network on the dorsal and ventral surfaces of the scapula that ensures collateral circulation to the upper limb if the subclavian or axillary artery is compressed or ligated. It is formed by: 1) Suprascapular artery, 2) Circumflex scapular branch of the subscapular artery, and 3) Deep branch of the transverse cervical artery (dorsal scapular artery). | Examiner Key Points: Collateral flow, suprascapular, circumflex scapular, dorsal scapular. | Clinical Importance: Protects the limb from distal ischemia during proximal arterial compromise."
-  ],
+  "clinicalCorrelations": {
+    "pearls": [
+      "Winged Scapula & Scapular Dyskinesis: Paralysis of the serratus anterior violently disrupts medial scapular stabilization, causing 'winging'—where the medial border dramatically protrudes backwards upon forward pushing. Dyskinesis universally describes abnormal scapular kinematics frequently generating secondary shoulder impingement.",
+      "Rotator Cuff Tears: The supraspinatus tendon is unequivocally the most frequently torn tendon in the human body, frequently due to a chronic avascular 'critical zone' near its insertion. Clinically confirmed via a dramatically positive 'Drop Arm Test'.",
+      "Shoulder Impingement Syndrome: Commonly occurs when the supraspinatus tendon is pathologically pinched against the rigid overlying coracoacromial arch during extreme abduction movements. Often requires rigorous scapular stabilization physical therapy.",
+      "Suprascapular Nerve Entrapment: Pathologically compressed at precisely the sharp suprascapular notch ( beneath the transverse scapular ligament), producing insidious, isolated severe atrophy of both the supraspinatus and infraspinatus muscles.",
+      "Trapezius Paralysis: Often resulting from accidental iatrogenic injury to the superficial Spinal Accessory nerve during surgical lymph node biopsies in the posterior cervical triangle, characterized by a visible shoulder droop and absolute inability to shrug against resistance.",
+      "Scapular Excursion & Physiotherapy: The unyielding rhythm of the scapula is fundamental for overhead athletes. Aggressive mobilizations must physically unbind a tightly bound subscapularis or shortened pectoralis minor to successfully restore the vital 2:1 scapulohumeral climbing rhythm."
+    ],
+    "precautions": [],
+    "indications": [],
+    "contraindications": {
+      "general": [],
+      "local": []
+    },
+    "technique": {
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": []
+    },
+    "protocols": [],
+    "physiologicalEffects": []
+  },
+  "clinicalCases": [],
   "mcqs": [
     {
+      "id": "mcq_anat_ch6_001",
       "question": "Which large functional muscle is definitively responsible for actively initiating the first 15 degrees of arm abduction?",
       "options": [
         "Deltoid",
@@ -69,6 +73,7 @@
       "answer": "Supraspinatus"
     },
     {
+      "id": "mcq_anat_ch6_002",
       "question": "The powerful Latissimus Dorsi muscle famously inserts into the specific anatomical region known as the:",
       "options": [
         "Lesser tubercle of humerus",
@@ -79,6 +84,7 @@
       "answer": "Floor of the bicipital groove"
     },
     {
+      "id": "mcq_anat_ch6_003",
       "question": "Which massive muscle group provides the extensive primary motor supply strictly through the spinal root of the accessory nerve?",
       "options": [
         "Trapezius",
@@ -89,6 +95,7 @@
       "answer": "Trapezius"
     },
     {
+      "id": "mcq_anat_ch6_004",
       "question": "A classically confirmed 'winged scapula' is virtually always the direct clinical consequence of paralysis affecting the:",
       "options": [
         "Trapezius",
@@ -99,6 +106,7 @@
       "answer": "Serratus anterior"
     },
     {
+      "id": "mcq_anat_ch6_005",
       "question": "Which specific nerve uniquely innervates the critical rhomboid major and minor muscles?",
       "options": [
         "Suprascapular nerve",
@@ -109,6 +117,7 @@
       "answer": "Dorsal scapular nerve"
     },
     {
+      "id": "mcq_anat_ch6_006",
       "question": "The essential quadrangular space critically transmits the axillary nerve along with the closely accompanying:",
       "options": [
         "Anterior circumflex humeral artery",
@@ -119,6 +128,7 @@
       "answer": "Posterior circumflex humeral artery"
     },
     {
+      "id": "mcq_anat_ch6_007",
       "question": "The anatomical superior boundary of the quadrangular space is rigidly formed natively by the paired:",
       "options": [
         "Teres major",
@@ -129,6 +139,7 @@
       "answer": "Teres minor and Subscapularis"
     },
     {
+      "id": "mcq_anat_ch6_008",
       "question": "Which of the following dynamically stabilizing muscles is NOT officially categorized anatomically as part of the rotator cuff?",
       "options": [
         "Supraspinatus",
@@ -139,6 +150,7 @@
       "answer": "Teres major"
     },
     {
+      "id": "mcq_anat_ch6_009",
       "question": "The radial nerve and the large profunda brachii artery spirally navigate outward exactly through which specific space?",
       "options": [
         "Quadrangular space",
@@ -149,6 +161,7 @@
       "answer": "Lower triangular space"
     },
     {
+      "id": "mcq_anat_ch6_010",
       "question": "The prominent upper triangular space transmits essentially only one major vascular structure naturally, known exactly as the:",
       "options": [
         "Suprascapular artery",
@@ -159,6 +172,7 @@
       "answer": "Circumflex scapular artery"
     },
     {
+      "id": "mcq_anat_ch6_011",
       "question": "The specific thoracodorsal nerve runs down the posterior axillary wall to powerfully innervate which exact muscle?",
       "options": [
         "Teres major",
@@ -169,6 +183,7 @@
       "answer": "Latissimus dorsi"
     },
     {
+      "id": "mcq_anat_ch6_012",
       "question": "The 'Triangle of Auscultation' is definitively bounded superomedially strictly by the inferior lateral border of the:",
       "options": [
         "Latissimus dorsi",
@@ -179,6 +194,7 @@
       "answer": "Trapezius"
     },
     {
+      "id": "mcq_anat_ch6_013",
       "question": "A complete avulsion or traumatic injury natively exactly at the deep suprascapular notch will explicitly cause intense paralysis to:",
       "options": [
         "Supraspinatus only",
@@ -189,6 +205,7 @@
       "answer": "Both Supraspinatus and Infraspinatus"
     },
     {
+      "id": "mcq_anat_ch6_014",
       "question": "In the standard 2:1 calculated ratio defining the exact Scapulohumeral Rhythm, 180 degrees of total arm abduction realistically involves how many degrees natively from pure scapular rotation?",
       "options": [
         "30 degrees",
@@ -199,6 +216,7 @@
       "answer": "60 degrees"
     },
     {
+      "id": "mcq_anat_ch6_015",
       "question": "The critical Subscapularis muscle famously acts aggressively to perform which specific rotational glenohumeral movement?",
       "options": [
         "Lateral rotation",
@@ -209,6 +227,7 @@
       "answer": "Medial rotation"
     },
     {
+      "id": "mcq_anat_ch6_016",
       "question": "Which uniquely situated muscle famously originates firmly directly from the transverse processes natively found strictly within the C1-C4 cervical vertebrae?",
       "options": [
         "Trapezius",
@@ -219,6 +238,7 @@
       "answer": "Levator scapulae"
     },
     {
+      "id": "mcq_anat_ch6_017",
       "question": "The distinct anatomical rule strictly dictates that the suprascapular nerve effectively travels natively strictly:",
       "options": [
         "Over the superior transverse scapular ligament",
@@ -229,6 +249,7 @@
       "answer": "Under the superior transverse scapular ligament"
     },
     {
+      "id": "mcq_anat_ch6_018",
       "question": "The 'Drop arm test' is considered historically and clinically highly specific largely for evaluating native macroscopic tears situated directly within the:",
       "options": [
         "Deltoid tendon",
@@ -239,6 +260,7 @@
       "answer": "Supraspinatus tendon"
     },
     {
+      "id": "mcq_anat_ch6_019",
       "question": "Which of the following closely associated arteries essentially never actively participates natively directly within the expansive scapular anastomosis?",
       "options": [
         "Suprascapular artery",
@@ -249,6 +271,7 @@
       "answer": "Anterior circumflex humeral artery"
     },
     {
+      "id": "mcq_anat_ch6_020",
       "question": "Which thick muscle natively absolutely forcefully depresses the raised shoulder point acting largely jointly with the pectoralis minor?",
       "options": [
         "Latissimus dorsi",
@@ -259,6 +282,7 @@
       "answer": "Lower fibers of Trapezius"
     },
     {
+      "id": "mcq_anat_ch6_021",
       "question": "A patient visibly exhibiting a completely dropped shoulder combined strictly with significant weakness in forcibly powerfully shrugging upwards most predictably suffers from paralysis of the:",
       "options": [
         "Levator scapulae",
@@ -269,6 +293,7 @@
       "answer": "Trapezius"
     },
     {
+      "id": "mcq_anat_ch6_022",
       "question": "The 'Triangle of Petit' (lumbar triangle) structurally involves which specific underlying crest acting securely directly forming its lower baseline?",
       "options": [
         "Inferior lateral crest of scapula",
@@ -279,6 +304,7 @@
       "answer": "Iliac crest"
     },
     {
+      "id": "mcq_anat_ch6_023",
       "question": "Which of the meticulously listed critical muscles is essentially formally completely missing from actively participating within establishing the direct boundary limits representing the natively exact Quadrangular space?",
       "options": [
         "Teres minor",
@@ -289,6 +315,7 @@
       "answer": "Latissimus dorsi"
     },
     {
+      "id": "mcq_anat_ch6_024",
       "question": "Which uniquely massive muscle effectively universally acts clinically primarily precisely as the strongest native extensor dynamically powering the shoulder joint?",
       "options": [
         "Pectoralis major",
@@ -299,6 +326,7 @@
       "answer": "Latissimus dorsi"
     },
     {
+      "id": "mcq_anat_ch6_025",
       "question": "The specific anatomical insertion territory officially housing the broad Latissimus dorsi tendon effectively rests structurally precisely situated strictly laterally immediately against the origin area of which muscular head?",
       "options": [
         "Long head of biceps",
@@ -309,6 +337,7 @@
       "answer": "Medial head of triceps"
     },
     {
+      "id": "mcq_anat_ch6_026",
       "question": "Identify universally the most frequently affected muscle tendon reliably resulting clinically representing classic 'Shoulder Impingement Syndrome':",
       "options": [
         "Infraspinatus",
@@ -319,6 +348,7 @@
       "answer": "Supraspinatus"
     },
     {
+      "id": "mcq_anat_ch6_027",
       "question": "Which critical muscle anatomically strictly physically separates natively segregating the Upper Triangular space vertically away securely from the precisely located Lower Triangular space?",
       "options": [
         "Teres minor",
@@ -329,6 +359,7 @@
       "answer": "Teres major"
     },
     {
+      "id": "mcq_anat_ch6_028",
       "question": "Which explicit branch of the profound Subscapular artery fundamentally functions heavily precisely wrapping itself dynamically around creating essentially the expansive lateral scapular boundary?",
       "options": [
         "Suprascapular artery",
@@ -339,6 +370,7 @@
       "answer": "Circumflex scapular artery"
     },
     {
+      "id": "mcq_anat_ch6_029",
       "question": "The prominent Teres Major natively receives its primary profound neurological command strictly via the explicitly descending fibers representing the:",
       "options": [
         "Upper subscapular nerve",
@@ -349,6 +381,7 @@
       "answer": "Lower subscapular nerve"
     },
     {
+      "id": "mcq_anat_ch6_030",
       "question": "The entire expansive deep fascial sleeve extensively enveloping the dense supraspinatus belly powerfully seamlessly mechanically connects itself natively strictly terminating intimately securely against the:",
       "options": [
         "Coracoid process",
@@ -359,8 +392,87 @@
       "answer": "Greater tubercle of humerus"
     }
   ],
-  "reference": [
+  "flashcards": [],
+  "viva": [
+    {
+      "id": "viva_anat_ch6_001",
+      "question": "Identify and fully detail the exact origin and extensive insertion points of the trapezius muscle.",
+      "answer": "Origin: Occipital bone, nuchal ligament, spinous processes C7-T12. Insertion: Lateral third of clavicle, acromion, and spine of scapula.",
+      "keyPoints": "Extensive spinal origin.",
+      "clinicalImportance": "Primary elevator and upward rotator of the scapula."
+    },
+    {
+      "id": "viva_anat_ch6_002",
+      "question": "What specific nerve provides motor supply to the trapezius, and how is it tested clinically?",
+      "answer": "The spinal accessory nerve (Cranial Nerve XI). Tested by having the patient shrug shoulders against resistance.",
+      "keyPoints": "Spinal accessory nerve.",
+      "clinicalImportance": "Cranial nerve exam test."
+    },
+    {
+      "id": "viva_anat_ch6_003",
+      "question": "Describe the precise anatomical boundaries of the quadrangular space of the scapular region.",
+      "answer": "Superiorly: Teres minor. Inferiorly: Teres major. Medially: Long head of triceps. Laterally: Surgical neck of humerus.",
+      "keyPoints": "Teres minor above, major below.",
+      "clinicalImportance": "Axillary nerve and posterior circumflex artery pass here."
+    },
+    {
+      "id": "viva_anat_ch6_004",
+      "question": "Identify the distinct muscular group constituting the functional 'rotator cuff'.",
+      "answer": "Supraspinatus, Infraspinatus, Teres minor, and Subscapularis (SITS muscles).",
+      "keyPoints": "Stabilize glenohumeral joint.",
+      "clinicalImportance": "Tears commonly occur here, leading to shoulder instability."
+    },
+    {
+      "id": "viva_anat_ch6_005",
+      "question": "Which singular rotator cuff muscle surprisingly acts as a powerful medial rotator instead of a lateral rotator?",
+      "answer": "The Subscapularis muscle acts as a medial rotator, inserting into the lesser tubercle.",
+      "keyPoints": "Only medial rotator in cuff.",
+      "clinicalImportance": "Evaluated by the 'lift-off' clinical test."
+    },
+    {
+      "id": "viva_anat_ch6_006",
+      "question": "Define the complete origin, specific attachment point, and clinical assessment for the Latissimus Dorsi.",
+      "answer": "Origin: T7-L5 spinous processes, iliac crest. Insertion: Floor of intertubercular sulcus. Assessed by arm extension and adduction against resistance.",
+      "keyPoints": "Broad back muscle inserting anteriorly.",
+      "clinicalImportance": "Major muscle used in climbing and swimming."
+    },
+    {
+      "id": "viva_anat_ch6_007",
+      "question": "Explain the 'Triangle of Auscultation' – its boundaries and its clinical relevance.",
+      "answer": "Bounded by the trapezius medially, latissimus dorsi inferiorly, and medial border of the scapula laterally.",
+      "keyPoints": "Thin layer of back musculature.",
+      "clinicalImportance": "Optimal site on back for listening to respiratory lung sounds."
+    },
+    {
+      "id": "viva_anat_ch6_008",
+      "question": "Describe the boundaries and contents of the triangular space in the scapular region.",
+      "answer": "Bounded superiorly by the teres minor, inferiorly by the teres major, and laterally by the long head of the triceps brachii. It contains the circumflex scapular artery.",
+      "keyPoints": "Teres minor, teres major, long head of triceps; circumflex scapular artery.",
+      "clinicalImportance": "Forms an essential collateral vascular channel around the scapula."
+    },
+    {
+      "id": "viva_anat_ch6_009",
+      "question": "Explain the anatomical basis of scapulohumeral rhythm and the contribution of muscles of the scapular region to it.",
+      "answer": "Scapulohumeral rhythm describes the 2:1 ratio of humeral abduction to scapular upward rotation. The first 30 degrees of abduction are purely glenohumeral, after which every 2 degrees of abduction is paired with 1 degree of scapular upward rotation. This rotation is driven by a force couple of upper and lower trapezius with the serratus anterior.",
+      "keyPoints": "2:1 ratio, upper/lower trapezius and serratus anterior force couple.",
+      "clinicalImportance": "Disruption (e.g., in trapezius or serratus anterior fatigue/palsy) results in scapular dyskinesis and secondary impingement."
+    },
+    {
+      "id": "viva_anat_ch6_010",
+      "question": "What is the clinical significance of the scapular anastomosis, and which arteries participate in its formation?",
+      "answer": "It is a vital vascular network on the dorsal and ventral surfaces of the scapula that ensures collateral circulation to the upper limb if the subclavian or axillary artery is compressed or ligated. It is formed by: 1) Suprascapular artery, 2) Circumflex scapular branch of the subscapular artery, and 3) Deep branch of the transverse cervical artery (dorsal scapular artery).",
+      "keyPoints": "Collateral flow, suprascapular, circumflex scapular, dorsal scapular.",
+      "clinicalImportance": "Protects the limb from distal ischemia during proximal arterial compromise."
+    }
+  ],
+  "pyqs": [],
+  "references": [
     "B.D. Chaurasia – Human Anatomy Volume 1 (Upper Limb & Thorax), Eighth Edition",
     "Vishram Singh – Textbook of Anatomy Upper Limb and Thorax, Third Edition"
-  ]
+  ],
+  "subjectExtensions": {
+    "anatomy": {
+      "parameters": {}
+    }
+  }
 }

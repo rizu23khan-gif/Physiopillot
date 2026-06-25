@@ -1,240 +1,503 @@
 {
-  "subject": "Anatomy",
-  "chapterId": "anat_ch21",
-  "chapterName": "Pericardium and Heart",
-  "definition": [
-    "Chapter Overview: This chapter is dedicated to the structure, borders, surfaces, internal chambers, and vascular supply of the heart and its protective pericardium.",
-    "Pericardium: A double-walled fibroserous sac that encloses the heart and the roots of the great vessels.",
-    "The Heart: The muscular organ that pumps blood through the cardiovascular system, featuring four chambers and distinct surface markings."
-  ],
-  "principle": [
-    "Pericardium Layers: Comprises an outer fibrous pericardium and an inner serous pericardium (divided into parietal and visceral/epicardium layers).",
-    "Chambers and Borders: Features the right atrium (receives deoxygenated blood from SVC/IVC), right ventricle (pumps to pulmonary trunk), left atrium (receives oxygenated blood from pulmonary veins), and left ventricle (thickest walls, pumps to aorta).",
-    "Blood Supply: Coronary arteries (left and right) arise from the ascending aorta and run in the sulci. Venous drainage is handled primarily by the coronary sinus."
-  ],
-  "equipment": [
-    "Heart anatomy model",
-    "ECG electrode positioning reference",
-    "Stethoscope for cardiac auscultation checkpoints"
-  ],
-  "parameters": {
-    "HeartWeight": "250g to 350g",
-    "PericardialFluid": "15 ml to 50 ml of serous fluid"
+  "metadata": {
+    "chapterId": "anat_ch21",
+    "title": "Pericardium and Heart",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "version": "1.0",
+    "lastUpdated": "2026-06-25",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": [],
+    "status": "published"
   },
-  "physiologicalEffects": [],
-  "indications": [],
-  "contraindications": {
-    "general": [],
-    "local": []
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [
+      "Chapter Overview: This chapter is dedicated to the structure, borders, surfaces, internal chambers, and vascular supply of the heart and its protective pericardium.",
+      "Pericardium: A double-walled fibroserous sac that encloses the heart and the roots of the great vessels.",
+      "The Heart: The muscular organ that pumps blood through the cardiovascular system, featuring four chambers and distinct surface markings."
+    ],
+    "coreConcepts": [
+      "Pericardium Layers: Comprises an outer fibrous pericardium and an inner serous pericardium (divided into parietal and visceral/epicardium layers).",
+      "Chambers and Borders: Features the right atrium (receives deoxygenated blood from SVC/IVC), right ventricle (pumps to pulmonary trunk), left atrium (receives oxygenated blood from pulmonary veins), and left ventricle (thickest walls, pumps to aorta).",
+      "Blood Supply: Coronary arteries (left and right) arise from the ascending aorta and run in the sulci. Venous drainage is handled primarily by the coronary sinus."
+    ],
+    "equipment": [
+      "Heart anatomy model",
+      "ECG electrode positioning reference",
+      "Stethoscope for cardiac auscultation checkpoints"
+    ]
   },
-  "technique": {
-    "patientPreparation": [],
-    "apparatusPreparation": [],
-    "skinPreparation": [],
-    "electrodePlacement": [],
-    "treatmentProcedure": []
+  "clinicalCorrelations": {
+    "pearls": [
+      "Cardiac Tamponade: Accumulation of fluid or blood in the pericardial cavity compresses the heart, severely restricting venous return and cardiac output.",
+      "Apex beat: Palped in the left 5th intercostal space, roughly 9 cm from the midsternal line, indicating the apex of the left ventricle."
+    ],
+    "precautions": [],
+    "indications": [],
+    "contraindications": {
+      "general": [],
+      "local": []
+    },
+    "technique": {
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": []
+    },
+    "protocols": [],
+    "physiologicalEffects": []
   },
-  "precautions": [],
-  "clinicalPearls": [
-    "Cardiac Tamponade: Accumulation of fluid or blood in the pericardial cavity compresses the heart, severely restricting venous return and cardiac output.",
-    "Apex beat: Palped in the left 5th intercostal space, roughly 9 cm from the midsternal line, indicating the apex of the left ventricle."
-  ],
-  "vivaQuestions": [
-    "Question: What are the layers of the pericardium and what is cardiac tamponade? | Answer: The outer is the fibrous layer, and the inner is the serous layer (parietal and visceral). Cardiac tamponade is compression of the heart due to rapid fluid accumulation in the pericardial space. | Examiner Key Points: Fibrous vs serous, fluid accumulation, heart compression. | Clinical Importance: Is a life-threatening medical emergency requiring pericardiocentesis.",
-    "Question: Describe the anatomical location and surface markings of the apex of the heart. | Answer: Located at the lower-left border, formed by the left ventricle. It lies in the left 5th intercostal space, about 9 cm from the midsternal line. | Examiner Key Points: Left ventricle, 5th intercostal space, 9cm from midline. | Clinical Importance: Apex beat location is evaluated for cardiac cardiomegaly or shifting.",
-    "Question: What are the main branches of the right coronary artery and what do they supply?| Answer: Node branches (SA and AV nodal), right marginal artery, and posterior interventricular artery. It supplies the right atrium, most of the right ventricle, the SA node (60%), and AV node (80%).| Examiner Key Points: SA/AV nodal branches, posterior interventricular, right ventricle supply.| Clinical Importance: Occlusion often leads to severe cardiac arrhythmias and heart blocks.",
-    "Question: Describe the branches of the left coronary artery.| Answer: Anterior interventricular (LAD - Left Anterior Descending) and circumflex arteries.| Examiner Key Points: LAD, circumflex, supplies left ventricle.| Clinical Importance: Left anterior descending artery is the most common site of myocardial infarction (the 'widowmaker').",
-    "Question: What is the coronary sinus and where does it drain?| Answer: The largest vein of the heart, located in the posterior coronary sulcus. It drains into the right atrium, between the IVC opening and the tricuspid valve.| Examiner Key Points: Posterior coronary sulcus, drains into right atrium.| Clinical Importance: Standard access point for cardiac pacing electrophysiology.",
-    "Question: Compare the internal features of the right atrium and right ventricle.| Answer: Right atrium features the crista terminalis, musculi pectinati, and fossa ovalis. Right ventricle features trabeculae carneae, papillary muscles, and chordae tendineae.| Examiner Key Points: Pectinati vs trabeculae carneae, papillary muscles, chordae.| Clinical Importance: Papillary muscle rupture leads to acute tricuspid/mitral valve regurgitation.",
-    "Question: Explain the transverse and oblique sinuses of the pericardium.| Answer: Transverse sinus: space posterior to ascending aorta and pulmonary trunk, anterior to SVC. Oblique sinus: blind pouch posterior to the left atrium.| Examiner Key Points: Transverse posterior to aorta, Oblique posterior to left atrium.| Clinical Importance: Transverse sinus allows surgeons to clamp major outflow trunks during bypass.",
-    "Question: Describe the conducting system of the heart in sequence.| Answer: SA node (pacemaker) in right atrium, AV node, Bundle of His, right and left bundle branches, and Purkinje fibers in ventricular walls.| Examiner Key Points: SA, AV, His, Bundles, Purkinje sequential path.| Clinical Importance: Critical for synchronized muscular pumping.",
-    "Question: Name the cardiac valves and their surface auscultation sites.| Answer: Aortic valve: 2nd right intercostal space. Pulmonary valve: 2nd left intercostal space. Tricuspid valve: 5th left intercostal margin. Mitral valve: 5th left intercostal space, midclavicular line.| Examiner Key Points: Auscultation positions differ from anatomic projection.| Clinical Importance: Crucial for target cardiac murmur evaluations.",
-    "Question: What is Beck's Triad in cardiac tamponade? | Answer: Hypotension, muffled/distant heart sounds, and jugular venous distension (JVD).| Examiner Key Points: Low BP, muffled sounds, distended neck veins.| Clinical Importance: Direct clinical indicator of life-threatening pericardial effusion."
-  ],
+  "clinicalCases": [],
   "mcqs": [
     {
+      "id": "mcq_anat_ch21_001",
       "question": "Which chamber of the heart has the thickest muscular wall?",
-      "options": ["Right atrium", "Right ventricle", "Left atrium", "Left ventricle"],
+      "options": [
+        "Right atrium",
+        "Right ventricle",
+        "Left atrium",
+        "Left ventricle"
+      ],
       "answer": "Left ventricle",
       "explanation": "The left ventricle has walls 3 times thicker than the right, necessary to generate high systemic blood pressures."
     },
     {
+      "id": "mcq_anat_ch21_002",
       "question": "The coronary sinus, which drains venous blood from the heart muscles, empties into which chamber?",
-      "options": ["Right atrium", "Right ventricle", "Left atrium", "Left ventricle"],
+      "options": [
+        "Right atrium",
+        "Right ventricle",
+        "Left atrium",
+        "Left ventricle"
+      ],
       "answer": "Right atrium",
       "explanation": "Venous blood from cardiac tissue streams through the coronary sinus directly into the right atrium."
     },
     {
+      "id": "mcq_anat_ch21_003",
       "question": "Which artery is a direct branch of the left coronary artery?",
-      "options": ["Anterior interventricular (LAD) artery", "Posterior interventricular artery", "Right marginal artery", "SA nodal artery"],
+      "options": [
+        "Anterior interventricular (LAD) artery",
+        "Posterior interventricular artery",
+        "Right marginal artery",
+        "SA nodal artery"
+      ],
       "answer": "Anterior interventricular (LAD) artery",
       "explanation": "The left coronary artery divides into the circumflex and the left anterior descending (LAD) arteries."
     },
     {
+      "id": "mcq_anat_ch21_004",
       "question": "The fossa ovalis, a relic of fetal circulation, is located in which cardiac structure?",
-      "options": ["Interatrial septum of right atrium", "Interventricular septum", "Apex of left ventricle", "Coronary sinus valve"],
+      "options": [
+        "Interatrial septum of right atrium",
+        "Interventricular septum",
+        "Apex of left ventricle",
+        "Coronary sinus valve"
+      ],
       "answer": "Interatrial septum of right atrium",
       "explanation": "The fossa ovalis is an oval depression found in the interatrial septum of the right atrium."
     },
     {
+      "id": "mcq_anat_ch21_005",
       "question": "Where is the SA node, the pacemaker of the heart, anatomically located?",
-      "options": ["At the junction of the SVC and right atrium", "In the interventricular septum", "At the base of the mitral valve", "In the left atrium wall"],
+      "options": [
+        "At the junction of the SVC and right atrium",
+        "In the interventricular septum",
+        "At the base of the mitral valve",
+        "In the left atrium wall"
+      ],
       "answer": "At the junction of the SVC and right atrium",
       "explanation": "The sinoatrial (SA) node is situated subepicardially in the upper right atrium close to the SVC opening."
     },
     {
+      "id": "mcq_anat_ch21_006",
       "question": "Which heart valve prevents backflow of blood into the left ventricle?",
-      "options": ["Aortic valve", "Pulmonary valve", "Mitral (bicuspid) valve", "Tricuspid valve"],
+      "options": [
+        "Aortic valve",
+        "Pulmonary valve",
+        "Mitral (bicuspid) valve",
+        "Tricuspid valve"
+      ],
       "answer": "Aortic valve",
       "explanation": "The semilunar aortic valve closes during ventricular diastole to prevent blood from backflowing into the left ventricle."
     },
     {
+      "id": "mcq_anat_ch21_007",
       "question": "A cardiac specialist auscultates the mitral valve at which of the following locations?",
-      "options": ["Left 5th intercostal space, midclavicular line", "Right 2nd intercostal space", "Left 2nd intercostal space", "Lower left sternal border"],
+      "options": [
+        "Left 5th intercostal space, midclavicular line",
+        "Right 2nd intercostal space",
+        "Left 2nd intercostal space",
+        "Lower left sternal border"
+      ],
       "answer": "Left 5th intercostal space, midclavicular line",
       "explanation": "The mitral valve apex murmur is heard best at the left 5th intercostal space, midclavicular line."
     },
     {
+      "id": "mcq_anat_ch21_008",
       "question": "Which of the following layers corresponds to the visceral layer of the serous pericardium?",
-      "options": ["Epicardium", "Myocardium", "Endocardium", "Fibrous pericardium"],
+      "options": [
+        "Epicardium",
+        "Myocardium",
+        "Endocardium",
+        "Fibrous pericardium"
+      ],
       "answer": "Epicardium",
       "explanation": "The visceral layer of the serous pericardium is tightly bound to the heart's outer surface, forming the epicardium."
     },
     {
+      "id": "mcq_anat_ch21_009",
       "question": "Pectinate muscles (musculi pectinati) are prominent structural features of which cardiac region?",
-      "options": ["Right and left atria", "Right and left ventricles", "Papillary attachments", "Auscultation angles"],
+      "options": [
+        "Right and left atria",
+        "Right and left ventricles",
+        "Papillary attachments",
+        "Auscultation angles"
+      ],
       "answer": "Right and left atria",
       "explanation": "Musculi pectinati are parallel ridges of muscle found inside the atria (predominantly right atrium anterior walls and auricles)."
     },
     {
+      "id": "mcq_anat_ch21_010",
       "question": "Which artery is commonly referred to in clinical practice as the 'widowmaker' due to high fatality upon occlusion?",
-      "options": ["Anterior interventricular (LAD)", "Posterior interventricular", "Right coronary", "Left circumflex"],
+      "options": [
+        "Anterior interventricular (LAD)",
+        "Posterior interventricular",
+        "Right coronary",
+        "Left circumflex"
+      ],
       "answer": "Anterior interventricular (LAD)",
       "explanation": "Occlusion of the Left Anterior Descending (LAD) artery deprives the left ventricle anterior wall, often leading to cardiogenic shock."
     },
     {
+      "id": "mcq_anat_ch21_011",
       "question": "What is the normal volume of serous fluid in the pericardial cavity under healthy conditions?",
-      "options": ["15 to 50 ml", "100 to 150 ml", "1 to 2 ml", "200 to 250 ml"],
+      "options": [
+        "15 to 50 ml",
+        "100 to 150 ml",
+        "1 to 2 ml",
+        "200 to 250 ml"
+      ],
       "answer": "15 to 50 ml",
       "explanation": "The narrow pericardial space holds about 15 to 50 ml of lubricating serous fluid."
     },
     {
+      "id": "mcq_anat_ch21_012",
       "question": "Chordae tendineae connect papillary muscles to which of the following structures?",
-      "options": ["Cusps of tricuspid and mitral valves", "Aortic semilunar cusps", "Trabeculae carneae", "Interventricular wall"],
+      "options": [
+        "Cusps of tricuspid and mitral valves",
+        "Aortic semilunar cusps",
+        "Trabeculae carneae",
+        "Interventricular wall"
+      ],
       "answer": "Cusps of tricuspid and mitral valves",
       "explanation": "Chordae tendineae tether the free margins of the atrioventricular (tricuspid/mitral) valve leaflets to the papillary muscles."
     },
     {
+      "id": "mcq_anat_ch21_013",
       "question": "The AV node is situated in which of the following areas of the right atrium?",
-      "options": ["Lower part of the interatrial septum", "At the junction of the IVC", "Within the fossa ovalis recess", "Close to the eparterial line"],
+      "options": [
+        "Lower part of the interatrial septum",
+        "At the junction of the IVC",
+        "Within the fossa ovalis recess",
+        "Close to the eparterial line"
+      ],
       "answer": "Lower part of the interatrial septum",
       "explanation": "The atrioventricular (AV) node lies in the Koch's triangle, on the lower right atrium's interatrial septum."
     },
     {
+      "id": "mcq_anat_ch21_014",
       "question": "Which of the following nerves carries parasympathetic fibers to slow the heart rate?",
-      "options": ["Vagus nerve", "Phrenic nerve", "Sympathetic cardiac branch", "Recurrent laryngeal nerve"],
+      "options": [
+        "Vagus nerve",
+        "Phrenic nerve",
+        "Sympathetic cardiac branch",
+        "Recurrent laryngeal nerve"
+      ],
       "answer": "Vagus nerve",
       "explanation": "The vagus nerve (CN X) releases acetylcholine to retard pacemaker depolarization, slowing the heart rate."
     },
     {
+      "id": "mcq_anat_ch21_015",
       "question": "The transverse pericardial sinus is situated immediately posterior to which structures?",
-      "options": ["Ascending aorta and pulmonary trunk", "Superior vena cava", "Left atrium", "Pulmonary veins"],
+      "options": [
+        "Ascending aorta and pulmonary trunk",
+        "Superior vena cava",
+        "Left atrium",
+        "Pulmonary veins"
+      ],
       "answer": "Ascending aorta and pulmonary trunk",
       "explanation": "The transverse sinus lies behind the ascending aorta and pulmonary trunk outflow tract."
     },
     {
+      "id": "mcq_anat_ch21_016",
       "question": "The posterolateral surface (or base) of the heart is formed mainly by which chamber?",
-      "options": ["Left atrium", "Right atrium", "Left ventricle", "Right ventricle"],
+      "options": [
+        "Left atrium",
+        "Right atrium",
+        "Left ventricle",
+        "Right ventricle"
+      ],
       "answer": "Left atrium",
       "explanation": "The anatomical base (posterior aspect) of the heart is formed primarily by the left atrium."
     },
     {
+      "id": "mcq_anat_ch21_017",
       "question": "Which coronary artery is typically dominant in about 70-80% of human hearts, supplying the posterior interventricular artery?",
-      "options": ["Right coronary artery", "Left coronary artery", "Circumflex artery", "Left anterior descending artery"],
+      "options": [
+        "Right coronary artery",
+        "Left coronary artery",
+        "Circumflex artery",
+        "Left anterior descending artery"
+      ],
       "answer": "Right coronary artery",
       "explanation": "Right cardiac dominance occurs when the PDA (Posterior Descending Artery) arises from the right coronary artery."
     },
     {
+      "id": "mcq_anat_ch21_018",
       "question": "The anterior interventricular groove contains which of the following blood vessels?",
-      "options": ["LAD artery and great cardiac vein", "Circumflex artery", "Middle cardiac vein", "Right coronary artery"],
+      "options": [
+        "LAD artery and great cardiac vein",
+        "Circumflex artery",
+        "Middle cardiac vein",
+        "Right coronary artery"
+      ],
       "answer": "LAD artery and great cardiac vein",
       "explanation": "The great cardiac vein ascends along the anterior interventricular groove alongside the LAD artery."
     },
     {
+      "id": "mcq_anat_ch21_019",
       "question": "The posterior interventricular groove contains which corresponding vein?",
-      "options": ["Middle cardiac vein", "Great cardiac vein", "Small cardiac vein", "Anterior cardiac vein"],
+      "options": [
+        "Middle cardiac vein",
+        "Great cardiac vein",
+        "Small cardiac vein",
+        "Anterior cardiac vein"
+      ],
       "answer": "Middle cardiac vein",
       "explanation": "The middle cardiac vein travels with the posterior interventricular artery (PDA) along the back of the heart."
     },
     {
+      "id": "mcq_anat_ch21_020",
       "question": "The right marginal artery is typically accompanied by which cardiac vein?",
-      "options": ["Small cardiac vein", "Great cardiac vein", "Middle cardiac vein", "Coronary sinus"],
+      "options": [
+        "Small cardiac vein",
+        "Great cardiac vein",
+        "Middle cardiac vein",
+        "Coronary sinus"
+      ],
       "answer": "Small cardiac vein",
       "explanation": "The small cardiac vein courses along the lower right margin with the right marginal artery."
     },
     {
+      "id": "mcq_anat_ch21_021",
       "question": "Which part of the serous pericardium is fused directly to the fibrous pericardium?",
-      "options": ["Parietal layer", "Visceral layer", "Myocardial layer", "Epicardium"],
+      "options": [
+        "Parietal layer",
+        "Visceral layer",
+        "Myocardial layer",
+        "Epicardium"
+      ],
       "answer": "Parietal layer",
       "explanation": "The parietal layer of serous pericardium is intimately fused to the interior of the tough fibrous pericardium."
     },
     {
+      "id": "mcq_anat_ch21_022",
       "question": "A critical fluid collection in the pericardium that compromises cardiac output is called:",
-      "options": ["Cardiac Tamponade", "Pericarditis", "Angina pectoris", "Myocardial infarction"],
+      "options": [
+        "Cardiac Tamponade",
+        "Pericarditis",
+        "Angina pectoris",
+        "Myocardial infarction"
+      ],
       "answer": "Cardiac Tamponade",
       "explanation": "Cardiac Tamponade occurs when accumulation of fluid in the stiff pericardial sac compresses the chambers, halting inflow."
     },
     {
+      "id": "mcq_anat_ch21_023",
       "question": "The apex beat (apex of the heart) is formed completely by which chamber?",
-      "options": ["Left ventricle", "Right ventricle", "Left atrium", "Right atrium"],
+      "options": [
+        "Left ventricle",
+        "Right ventricle",
+        "Left atrium",
+        "Right atrium"
+      ],
       "answer": "Left ventricle",
       "explanation": "The lower-left tip (apex) of the heart is formed entirely by the apex of the left ventricle."
     },
     {
+      "id": "mcq_anat_ch21_024",
       "question": "The moderator band (septomarginal trabecula) is found consistently inside which chamber?",
-      "options": ["Right ventricle", "Left ventricle", "Right atrium", "Left atrium"],
+      "options": [
+        "Right ventricle",
+        "Left ventricle",
+        "Right atrium",
+        "Left atrium"
+      ],
       "answer": "Right ventricle",
       "explanation": "The moderator band spans from the interventricular septum to the anterior papillary muscle in the right ventricle, carrying the right bundle branch."
     },
     {
+      "id": "mcq_anat_ch21_025",
       "question": "The smooth outflow part of the right ventricle leading into the pulmonary trunk is called the:",
-      "options": ["Infundibulum (conus arteriosus)", "Vestibule", "Sinus venarum", "Auricle"],
+      "options": [
+        "Infundibulum (conus arteriosus)",
+        "Vestibule",
+        "Sinus venarum",
+        "Auricle"
+      ],
       "answer": "Infundibulum (conus arteriosus)",
       "explanation": "The smooth superior outflow path of the right ventricle is the infundibulum."
     },
     {
+      "id": "mcq_anat_ch21_026",
       "question": "The smooth posterior part of the right atrium which receives the great veins is termed:",
-      "options": ["Sinus venarum", "Pectinate wall", "Crista terminalis", "Fossa ovalis"],
+      "options": [
+        "Sinus venarum",
+        "Pectinate wall",
+        "Crista terminalis",
+        "Fossa ovalis"
+      ],
       "answer": "Sinus venarum",
       "explanation": "The sinus venarum of the right atrium receives the superior and inferior venae cavae."
     },
     {
+      "id": "mcq_anat_ch21_027",
       "question": "How many papillary muscles are typically found inside the left ventricle?",
-      "options": ["Two", "Three", "Four", "None"],
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "None"
+      ],
       "answer": "Two",
       "explanation": "The left ventricle contains two prominent papillary muscles (anterior and posterior) securing the mitral valve."
     },
     {
+      "id": "mcq_anat_ch21_028",
       "question": "What separates the smooth and rough internal portions of the right atrium?",
-      "options": ["Crista terminalis", "Interatrial septum", "Fossa ovalis", "Tricuspid valve"],
+      "options": [
+        "Crista terminalis",
+        "Interatrial septum",
+        "Fossa ovalis",
+        "Tricuspid valve"
+      ],
       "answer": "Crista terminalis",
       "explanation": "The crista terminalis is the internal C-shaped muscular ridge dividing the rough musculi pectinati from the smooth sinus venarum."
     },
     {
+      "id": "mcq_anat_ch21_029",
       "question": "Which of the following valves contains three cusps except one?",
-      "options": ["Mitral valve", "Aortic valve", "Pulmonary valve", "Tricuspid valve"],
+      "options": [
+        "Mitral valve",
+        "Aortic valve",
+        "Pulmonary valve",
+        "Tricuspid valve"
+      ],
       "answer": "Mitral valve",
       "explanation": "The mitral (bicuspid) valve has only two cusps, while aortic, pulmonary, and tricuspid valves have three."
     },
     {
+      "id": "mcq_anat_ch21_030",
       "question": "Which of the following arteries is the primary source of supply to the SA node in approximately 60% of individuals?",
-      "options": ["Right coronary artery", "Left circumflex artery", "Left anterior descending", "Posterior interventricular artery"],
+      "options": [
+        "Right coronary artery",
+        "Left circumflex artery",
+        "Left anterior descending",
+        "Posterior interventricular artery"
+      ],
       "answer": "Right coronary artery",
       "explanation": "The nodal branch supplying the Sinoatrial node arises from the right coronary artery in 60% of people."
     }
   ],
-  "reference": [
+  "flashcards": [],
+  "viva": [
+    {
+      "id": "viva_anat_ch21_001",
+      "question": "What are the layers of the pericardium and what is cardiac tamponade?",
+      "answer": "The outer is the fibrous layer, and the inner is the serous layer (parietal and visceral). Cardiac tamponade is compression of the heart due to rapid fluid accumulation in the pericardial space.",
+      "keyPoints": "Fibrous vs serous, fluid accumulation, heart compression.",
+      "clinicalImportance": "Is a life-threatening medical emergency requiring pericardiocentesis."
+    },
+    {
+      "id": "viva_anat_ch21_002",
+      "question": "Describe the anatomical location and surface markings of the apex of the heart.",
+      "answer": "Located at the lower-left border, formed by the left ventricle. It lies in the left 5th intercostal space, about 9 cm from the midsternal line.",
+      "keyPoints": "Left ventricle, 5th intercostal space, 9cm from midline.",
+      "clinicalImportance": "Apex beat location is evaluated for cardiac cardiomegaly or shifting."
+    },
+    {
+      "id": "viva_anat_ch21_003",
+      "question": "What are the main branches of the right coronary artery and what do they supply?| Answer: Node branches (SA and AV nodal), right marginal artery, and posterior interventricular artery. It supplies the right atrium, most of the right ventricle, the SA node (60%), and AV node (80%).| Examiner Key Points: SA/AV nodal branches, posterior interventricular, right ventricle supply.| Clinical Importance: Occlusion often leads to severe cardiac arrhythmias and heart blocks.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch21_004",
+      "question": "Describe the branches of the left coronary artery.| Answer: Anterior interventricular (LAD - Left Anterior Descending) and circumflex arteries.| Examiner Key Points: LAD, circumflex, supplies left ventricle.| Clinical Importance: Left anterior descending artery is the most common site of myocardial infarction (the 'widowmaker').",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch21_005",
+      "question": "What is the coronary sinus and where does it drain?| Answer: The largest vein of the heart, located in the posterior coronary sulcus. It drains into the right atrium, between the IVC opening and the tricuspid valve.| Examiner Key Points: Posterior coronary sulcus, drains into right atrium.| Clinical Importance: Standard access point for cardiac pacing electrophysiology.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch21_006",
+      "question": "Compare the internal features of the right atrium and right ventricle.| Answer: Right atrium features the crista terminalis, musculi pectinati, and fossa ovalis. Right ventricle features trabeculae carneae, papillary muscles, and chordae tendineae.| Examiner Key Points: Pectinati vs trabeculae carneae, papillary muscles, chordae.| Clinical Importance: Papillary muscle rupture leads to acute tricuspid/mitral valve regurgitation.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch21_007",
+      "question": "Explain the transverse and oblique sinuses of the pericardium.| Answer: Transverse sinus: space posterior to ascending aorta and pulmonary trunk, anterior to SVC. Oblique sinus: blind pouch posterior to the left atrium.| Examiner Key Points: Transverse posterior to aorta, Oblique posterior to left atrium.| Clinical Importance: Transverse sinus allows surgeons to clamp major outflow trunks during bypass.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch21_008",
+      "question": "Describe the conducting system of the heart in sequence.| Answer: SA node (pacemaker) in right atrium, AV node, Bundle of His, right and left bundle branches, and Purkinje fibers in ventricular walls.| Examiner Key Points: SA, AV, His, Bundles, Purkinje sequential path.| Clinical Importance: Critical for synchronized muscular pumping.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch21_009",
+      "question": "Name the cardiac valves and their surface auscultation sites.| Answer: Aortic valve: 2nd right intercostal space. Pulmonary valve: 2nd left intercostal space. Tricuspid valve: 5th left intercostal margin. Mitral valve: 5th left intercostal space, midclavicular line.| Examiner Key Points: Auscultation positions differ from anatomic projection.| Clinical Importance: Crucial for target cardiac murmur evaluations.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch21_010",
+      "question": "What is Beck's Triad in cardiac tamponade?",
+      "answer": "Hypotension, muffled/distant heart sounds, and jugular venous distension (JVD).| Examiner Key Points: Low BP, muffled sounds, distended neck veins.| Clinical Importance: Direct clinical indicator of life-threatening pericardial effusion.",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    }
+  ],
+  "pyqs": [],
+  "references": [
     "B.D. Chaurasia - Human Anatomy (Volume 1: Upper Limb and Thorax, Section on Pericardium and Heart)",
     "Vishram Singh - Textbook of Anatomy: Upper Limb and Thorax (Volume 1, Chapter on Heart)"
-  ]
+  ],
+  "subjectExtensions": {
+    "anatomy": {
+      "parameters": {
+        "HeartWeight": "250g to 350g",
+        "PericardialFluid": "15 ml to 50 ml of serous fluid"
+      }
+    }
+  }
 }

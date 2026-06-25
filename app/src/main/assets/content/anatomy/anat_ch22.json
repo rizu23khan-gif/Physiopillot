@@ -1,240 +1,503 @@
 {
-  "subject": "Anatomy",
-  "chapterId": "anat_ch22",
-  "chapterName": "Superior Vena Cava, Aorta, Pulmonary Trunk, and Thymus",
-  "definition": [
-    "Chapter Overview: This chapter outlines the major blood vessels of the superior and middle mediastinum and covers the thymus gland.",
-    "Superior Vena Cava (SVC): A large, valveless vein that carries deoxygenated blood from the upper half of the body to the right atrium.",
-    "Aorta: The major systemic arterial trunk, consisting of the ascending aorta, aortic arch, and descending aorta in the thorax."
-  ],
-  "principle": [
-    "SVC Formation: Formed by the union of the right and left brachiocephalic veins at the level of the 1st right costal cartilage.",
-    "Aortic Arch Branches: Arch of the aorta gives off three main branches (from anterior to posterior): 1) Brachiocephalic artery, 2) Left common carotid artery, and 3) Left subclavian artery.",
-    "Thymus: A primary lymphoid organ situated in the anterior portion of the superior mediastinum. It is highly active in children but undergoes post-puberty fatty involution."
-  ],
-  "equipment": [
-    "Great vessels anatomical model",
-    "Thymus gland development charts",
-    "X-ray slides of mediastinal widening"
-  ],
-  "parameters": {
-    "SVCLength": "Approx. 7 cm in adults",
-    "AorticArchLevel": "Starts and ends at the T4-T5 sternal angle level"
+  "metadata": {
+    "chapterId": "anat_ch22",
+    "title": "Superior Vena Cava, Aorta, Pulmonary Trunk, and Thymus",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "version": "1.0",
+    "lastUpdated": "2026-06-25",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": [],
+    "status": "published"
   },
-  "physiologicalEffects": [],
-  "indications": [],
-  "contraindications": {
-    "general": [],
-    "local": []
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [
+      "Chapter Overview: This chapter outlines the major blood vessels of the superior and middle mediastinum and covers the thymus gland.",
+      "Superior Vena Cava (SVC): A large, valveless vein that carries deoxygenated blood from the upper half of the body to the right atrium.",
+      "Aorta: The major systemic arterial trunk, consisting of the ascending aorta, aortic arch, and descending aorta in the thorax."
+    ],
+    "coreConcepts": [
+      "SVC Formation: Formed by the union of the right and left brachiocephalic veins at the level of the 1st right costal cartilage.",
+      "Aortic Arch Branches: Arch of the aorta gives off three main branches (from anterior to posterior): 1) Brachiocephalic artery, 2) Left common carotid artery, and 3) Left subclavian artery.",
+      "Thymus: A primary lymphoid organ situated in the anterior portion of the superior mediastinum. It is highly active in children but undergoes post-puberty fatty involution."
+    ],
+    "equipment": [
+      "Great vessels anatomical model",
+      "Thymus gland development charts",
+      "X-ray slides of mediastinal widening"
+    ]
   },
-  "technique": {
-    "patientPreparation": [],
-    "apparatusPreparation": [],
-    "skinPreparation": [],
-    "electrodePlacement": [],
-    "treatmentProcedure": []
+  "clinicalCorrelations": {
+    "pearls": [
+      "Coarctation of Aorta: Congenital narrowing of the aorta, often leading to collateral circulation through intercostal arteries, causing rib-notching visible on chest radiographs.",
+      "SVC Syndrome: Compression of the SVC (often by lymphadenopathy or bronchogenic carcinoma) leads to swelling and venous congestion of the head, neck, and upper limbs."
+    ],
+    "precautions": [],
+    "indications": [],
+    "contraindications": {
+      "general": [],
+      "local": []
+    },
+    "technique": {
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": []
+    },
+    "protocols": [],
+    "physiologicalEffects": []
   },
-  "precautions": [],
-  "clinicalPearls": [
-    "Coarctation of Aorta: Congenital narrowing of the aorta, often leading to collateral circulation through intercostal arteries, causing rib-notching visible on chest radiographs.",
-    "SVC Syndrome: Compression of the SVC (often by lymphadenopathy or bronchogenic carcinoma) leads to swelling and venous congestion of the head, neck, and upper limbs."
-  ],
-  "vivaQuestions": [
-    "Question: Name the three major branches arising from the arch of the aorta in anatomical sequence. | Answer: The brachiocephalic trunk, the left common carotid artery, and the left subclavian artery. | Examiner Key Points: Brachiocephalic trunk, left common carotid, left subclavian. | Clinical Importance: Crucial for evaluating upper limb and cerebral circulation.",
-    "Question: What veins unite to form the superior vena cava, and where does this union occur? | Answer: It is formed by the union of the right and left brachiocephalic veins at the level of the lower border of the 1st right costal cartilage. | Examiner Key Points: Right and left brachiocephalic veins, 1st right costal cartilage. | Clinical Importance: Target zone for central venous catheters.",
-    "Question: Describe the course and divisions of the pulmonary trunk.| Answer: Originates from the infundibulum of the right ventricle, ascends obliquely backwards to the left, and divides beneath the arch of the aorta (at T5) into right and left pulmonary arteries.| Examiner Key Points: Infundibulum origin, T5 division, right and left pulmonary arteries.| Clinical Importance: Site where deep vein emboli obstruct outflow, forming high-mortality pulmonary embolisms.",
-    "Question: What is the ligamentum arteriosum and what was its fetal precursor?| Answer: A fibrous ligament connecting the inferior aspect of the aortic arch to the left pulmonary artery. It is the remnant of the fetal ductus arteriosus.| Examiner Key Points: Remnant of ductus arteriosus, links aorta arch and left pulmonary artery.| Clinical Importance: Failure of fetal closure leads to Patent Ductus Arteriosus (PDA) producing a machinery-like murmur.",
-    "Question: What is Coarctation of the Aorta and what rib sign does it produce on X-rays?| Answer: Congenital narrowing of the aortic lumen distal to the left subclavian origin. It diverts blood through subclavian-intercostal arteries. Under high flow, enlarged intercostal arteries erode the lower margins of ribs, producing 'rib-notching'.| Examiner Key Points: Lumen narrowing, intercostal collaterals, rib-notching on radiographs.| Clinical Importance: Clinically presents as disparate hypertension in arms but weak lower limb femoral pulses.",
-    "Question: Explain SVC Syndrome.| Answer: Venous hypertension of the upper body caused by obstruction of the superior vena cava, usually resulting from mediastinal tumor compression. Presents as facial edema, headaches, and distended collateral veins.| Examiner Key Points: Upper body venous hypertension, face congestion, pleural/face edema.| Clinical Importance: Prompt local radiation therapy is essential to prevent permanent cerebral congestion.",
-    "Question: Describe the anatomical origin, course, and drainage of the azygos vein.| Answer: Formed by the union of the right ascending lumbar and right subcostal veins (at L1-L2), ascends through the aortic opening (T12), and arches over the right lung root to drain into the SVC at T4.| Examiner Key Points: Ascending lumbar/subcostal origin, arches over right lung root, SVC drain.| Clinical Importance: Serves as a vital collateral pathway bridging the IVC and SVC.",
-    "Question: Explain the functional role of the thymus gland and its aging process.| Answer: It is a primary lymphoid organ where T-lymphocytes mature. It is highly active and large in early childhood, but undergoes fatty involution after puberty.| Examiner Key Points: T-lymphocyte maturation, fatty involution post-puberty.| Clinical Importance: Thymomas in adults can trigger myasthenia gravis.",
-    "Question: What is the ascending aorta's origin, length, and branches?| Answer: Arises from the left ventricle base, is about 5 cm long, and gives off only the left and right coronary arteries from its sinuses.| Examiner Key Points: Left ventricle origin, coronary arteries are the only branches.| Clinical Importance: Site of high-risk ascending aortic aneurysms.",
-    "Question: Where does the descending thoracic aorta begin and end in the thorax? | Answer: Begins at the T4-T5 disc level (lower boundary of superior mediastinum) and ends at the aortic opening of the diaphragm at T12.| Examiner Key Points: Begins at T4/T5, ends at T12.| Clinical Importance: Rupture during deceleration traumatic accidents is frequently fatal."
-  ],
+  "clinicalCases": [],
   "mcqs": [
     {
+      "id": "mcq_anat_ch22_001",
       "question": "Which branch is the first to arise from the arch of the aorta?",
-      "options": ["Left common carotid artery", "Left subclavian artery", "Brachiocephalic trunk", "Right common carotid artery"],
+      "options": [
+        "Left common carotid artery",
+        "Left subclavian artery",
+        "Brachiocephalic trunk",
+        "Right common carotid artery"
+      ],
       "answer": "Brachiocephalic trunk",
       "explanation": "The first branch of the arch of the aorta, from right to left, is the brachiocephalic trunk."
     },
     {
+      "id": "mcq_anat_ch22_002",
       "question": "At what vertebral level does the arch of the aorta begin and end?",
-      "options": ["T2", "T4-T5", "T8", "T12"],
+      "options": [
+        "T2",
+        "T4-T5",
+        "T8",
+        "T12"
+      ],
       "answer": "T4-T5",
       "explanation": "The arch of the aorta begins as a continuation of the ascending aorta at the sternal angle of Louis (T4-T5) and ends at the same level posteriorly."
     },
     {
+      "id": "mcq_anat_ch22_003",
       "question": "Which of the following veins drains directly into the superior vena cava?",
-      "options": ["Azygos vein", "Hemiazygos vein", "Left subclavian vein", "Great saphenous vein"],
+      "options": [
+        "Azygos vein",
+        "Hemiazygos vein",
+        "Left subclavian vein",
+        "Great saphenous vein"
+      ],
       "answer": "Azygos vein",
       "explanation": "The azygos vein runs anteriorly to empty directly into the posterior aspect of the superior vena cava."
     },
     {
+      "id": "mcq_anat_ch22_004",
       "question": "The superior vena cava is formed by the confluence of which veins?",
-      "options": ["Left and right brachiocephalic veins", "Left and right internal jugular veins", "Left and right subclavian veins", "Azygos and hemiazygos veins"],
-      "answer": "Left and " + "right brachiocephalic veins",
+      "options": [
+        "Left and right brachiocephalic veins",
+        "Left and right internal jugular veins",
+        "Left and right subclavian veins",
+        "Azygos and hemiazygos veins"
+      ],
+      "answer": "Left and right brachiocephalic veins",
       "explanation": "The union of the left and right brachiocephalic veins forms the superior vena cava."
     },
     {
+      "id": "mcq_anat_ch22_005",
       "question": "The ligamentum arteriosum is an anatomical remnant of which fetal structure?",
-      "options": ["Ductus arteriosus", "Ductus venosus", "Foramen ovale", "Umbilical vein"],
+      "options": [
+        "Ductus arteriosus",
+        "Ductus venosus",
+        "Foramen ovale",
+        "Umbilical vein"
+      ],
       "answer": "Ductus arteriosus",
       "explanation": "During fetal development, the ductus arteriosus shunts blood bypassively from the pulmonary artery to the aorta; it fibroses into the ligamentum arteriosum."
     },
     {
+      "id": "mcq_anat_ch22_006",
       "question": "Where does the superior vena cava empty its deoxygenated blood?",
-      "options": ["Right atrium", "Right ventricle", "Left atrium", "Superior mediastinum"],
+      "options": [
+        "Right atrium",
+        "Right ventricle",
+        "Left atrium",
+        "Superior mediastinum"
+      ],
       "answer": "Right atrium",
       "explanation": "The SVC terminates by opening in the upper posterolateral aspect of the right atrium."
     },
     {
+      "id": "mcq_anat_ch22_007",
       "question": "Which of the following is correct regarding the thymus gland?",
-      "options": ["It is a primary lymphoid organ", "It reaches its maximum relative size after puberty", "It lies in the posterior mediastinum", "It secretes thyroid hormones"],
+      "options": [
+        "It is a primary lymphoid organ",
+        "It reaches its maximum relative size after puberty",
+        "It lies in the posterior mediastinum",
+        "It secretes thyroid hormones"
+      ],
       "answer": "It is a primary lymphoid organ",
       "explanation": "The thymus is a primary lymphoid organ critical for T-cell differentiation, undergoing fatty involution after puberty."
     },
     {
+      "id": "mcq_anat_ch22_008",
       "question": "Which branch of the aortic arch supplies the right side of the head, neck, and right upper limb?",
-      "options": ["Brachiocephalic trunk", "Left common carotid", "Left subclavian", "Right common carotid directly"],
+      "options": [
+        "Brachiocephalic trunk",
+        "Left common carotid",
+        "Left subclavian",
+        "Right common carotid directly"
+      ],
       "answer": "Brachiocephalic trunk",
       "explanation": "The brachiocephalic trunk bifurcates into the right common carotid and right subclavian arteries."
     },
     {
+      "id": "mcq_anat_ch22_009",
       "question": "An aortic dissection distal to the left subclavian origin is classified in Stanford system as:",
-      "options": ["Type B", "Type A", "Type I", "Type II"],
+      "options": [
+        "Type B",
+        "Type A",
+        "Type I",
+        "Type II"
+      ],
       "answer": "Type B",
       "explanation": "Stanford Type B dissections involve the descending aorta exclusively (distal to the left subclavian artery origin)."
     },
     {
+      "id": "mcq_anat_ch22_010",
       "question": "What is the normal length of the superior vena cava in adults?",
-      "options": ["7 cm", "15 cm", "3 cm", "25 cm"],
+      "options": [
+        "7 cm",
+        "15 cm",
+        "3 cm",
+        "25 cm"
+      ],
       "answer": "7 cm",
       "explanation": "The superior vena cava measures approximately 7 cm (around 3 inches) in length."
     },
     {
+      "id": "mcq_anat_ch22_011",
       "question": "The pulmonary trunk arises from which area of the heart?",
-      "options": ["Conus arteriosus of right ventricle", "Infundibulum of left ventricle", "Apex of right atrium", "Left atrium base"],
+      "options": [
+        "Conus arteriosus of right ventricle",
+        "Infundibulum of left ventricle",
+        "Apex of right atrium",
+        "Left atrium base"
+      ],
       "answer": "Conus arteriosus of right ventricle",
       "explanation": "The pulmonary trunk emerges from the conus arteriosus (infundibulum) of the right ventricle."
     },
     {
+      "id": "mcq_anat_ch22_012",
       "question": "Where does the pulmonary trunk bifurcate into right and left pulmonary arteries?",
-      "options": ["T5 level, below the aortic arch", "T8 level", "T10 level", "Thoracic inlet level"],
+      "options": [
+        "T5 level, below the aortic arch",
+        "T8 level",
+        "T10 level",
+        "Thoracic inlet level"
+      ],
       "answer": "T5 level, below the aortic arch",
       "explanation": "The bifurcation of the pulmonary trunk occurs at the level of the T5 vertebra, just below and to the left of the aortic arch."
     },
     {
+      "id": "mcq_anat_ch22_013",
       "question": "Which structure lies immediately to the right of the ascending aorta?",
-      "options": ["Superior vena cava", "Left atrium", "Pulmonary trunk", "Trachea"],
+      "options": [
+        "Superior vena cava",
+        "Left atrium",
+        "Pulmonary trunk",
+        "Trachea"
+      ],
       "answer": "Superior vena cava",
       "explanation": "In the middle mediastinum, the superior vena cava lies immediately to the right of the ascending aorta."
     },
     {
+      "id": "mcq_anat_ch22_014",
       "question": "In chest radiographs of patients with Coarctation of the Aorta, 'rib-notching' is caused by expansion of which arteries?",
-      "options": ["Posterior intercostal arteries", "Anterior intercostal arteries", "Internal thoracic arteries", "Bronchial arteries"],
+      "options": [
+        "Posterior intercostal arteries",
+        "Anterior intercostal arteries",
+        "Internal thoracic arteries",
+        "Bronchial arteries"
+      ],
       "answer": "Posterior intercostal arteries",
       "explanation": "Enlarged posterior intercostal arteries carrying collateral blood flow cause erode bony grooves, creating rib notches."
     },
     {
+      "id": "mcq_anat_ch22_015",
       "question": "The descending thoracic aorta passes through the diaphragm along with which of the following?",
-      "options": ["Thoracic duct", "Esophagus", "Phrenic nerve", "Vagus nerve"],
+      "options": [
+        "Thoracic duct",
+        "Esophagus",
+        "Phrenic nerve",
+        "Vagus nerve"
+      ],
       "answer": "Thoracic duct",
       "explanation": "The aortic opening at T12 transmits the aorta, the thoracic duct, and the azygos vein."
     },
     {
+      "id": "mcq_anat_ch22_016",
       "question": "Which of the following describes Stanford Type A aortic dissection?",
-      "options": ["Involves the ascending aorta", "Involves only descending aorta", "Occurs only in the abdominal cavity", "Never requires surgical repair"],
+      "options": [
+        "Involves the ascending aorta",
+        "Involves only descending aorta",
+        "Occurs only in the abdominal cavity",
+        "Never requires surgical repair"
+      ],
       "answer": "Involves the ascending aorta",
       "explanation": "Stanford Type A dissections involve the ascending aorta and are treated as surgical emergencies."
     },
     {
+      "id": "mcq_anat_ch22_017",
       "question": "A tumor compressing the SVC leads to engorgement and distension of which veins?",
-      "options": ["Jugular veins", "Femoral veins", "Iliac veins", "Saphenous veins"],
+      "options": [
+        "Jugular veins",
+        "Femoral veins",
+        "Iliac veins",
+        "Saphenous veins"
+      ],
       "answer": "Jugular veins",
       "explanation": "Obstruction of the superior vena cava impairs upper body drainage, dilating the jugular and subclavian vein paths."
     },
     {
+      "id": "mcq_anat_ch22_018",
       "question": "Which of the following vessels is completely valveless?",
-      "options": ["Superior vena cava", "Internal jugular vein", "Femoral vein", "Great saphenous vein"],
+      "options": [
+        "Superior vena cava",
+        "Internal jugular vein",
+        "Femoral vein",
+        "Great saphenous vein"
+      ],
       "answer": "Superior vena cava",
       "explanation": "The superior vena cava and the brachiocephalic veins are valveless vessels."
     },
     {
+      "id": "mcq_anat_ch22_019",
       "question": "The right pulmonary artery is situated in which relation to the ascending aorta?",
-      "options": ["Passes posterior to ascending aorta", "Passes anterior to ascending aorta", "Passes superior to arch of aorta", "Passes inferior to heart"],
+      "options": [
+        "Passes posterior to ascending aorta",
+        "Passes anterior to ascending aorta",
+        "Passes superior to arch of aorta",
+        "Passes inferior to heart"
+      ],
       "answer": "Passes posterior to ascending aorta",
       "explanation": "The right pulmonary artery runs horizontally to the right, passing posterior to the ascending aorta and SVC to reach the right hilum."
     },
     {
+      "id": "mcq_anat_ch22_020",
       "question": "The left common carotid artery arises as which branch of the arch of the aorta?",
-      "options": ["Second branch", "First branch", "Third branch", "Fourth branch"],
+      "options": [
+        "Second branch",
+        "First branch",
+        "Third branch",
+        "Fourth branch"
+      ],
       "answer": "Second branch",
       "explanation": "The branches of the aortic arch from right to left are: 1) Brachiocephalic trunk, 2) Left common carotid, and 3) Left subclavian."
     },
     {
+      "id": "mcq_anat_ch22_021",
       "question": "What is the relation of the arch of the aorta to the trachea?",
-      "options": ["Arches over the left main bronchus, anterior and lateral to trachea", "Arches posterior to trachea", "Lies directly right of the trachea", "Passes inferior to tracheal bifurcation"],
+      "options": [
+        "Arches over the left main bronchus, anterior and lateral to trachea",
+        "Arches posterior to trachea",
+        "Lies directly right of the trachea",
+        "Passes inferior to tracheal bifurcation"
+      ],
       "answer": "Arches over the left main bronchus, anterior and lateral to trachea",
       "explanation": "The arch of the aorta starts anteriorly, curves backward on the left side of the trachea, and crosses over the left main bronchus."
     },
     {
+      "id": "mcq_anat_ch22_022",
       "question": "At what vertebral level does the superior vena cava begin, behind the first right costal cartilage?",
-      "options": ["T3", "T4", "T6", "T8"],
+      "options": [
+        "T3",
+        "T4",
+        "T6",
+        "T8"
+      ],
       "answer": "T3",
       "explanation": "The SVC begins at the level of the lower border of the first costal cartilage (corresponds to T3 level) and ends at T4 where it reaches the atrium."
     },
     {
+      "id": "mcq_anat_ch22_023",
       "question": "The thymus gland is primarily supplied by branches from which arterial system?",
-      "options": ["Internal thoracic and inferior thyroid arteries", "Coronary arteries", "Bronchial arteries", "Vertebral arteries"],
+      "options": [
+        "Internal thoracic and inferior thyroid arteries",
+        "Coronary arteries",
+        "Bronchial arteries",
+        "Vertebral arteries"
+      ],
       "answer": "Internal thoracic and inferior thyroid arteries",
       "explanation": "The thyroid and internal thoracic arteries supply the thymus gland lobes."
     },
     {
+      "id": "mcq_anat_ch22_024",
       "question": "Which lymphoid hormone, secreted by epithelial cells of the thymus, regulates T-cell development?",
-      "options": ["Thymosin", "Thyroxine", "Thrombopoietin", "Calcitonin"],
+      "options": [
+        "Thymosin",
+        "Thyroxine",
+        "Thrombopoietin",
+        "Calcitonin"
+      ],
       "answer": "Thymosin",
       "explanation": "Thymosin is a major polypeptide hormone secreted by the thymus that promotes immune function and T-lymphocyte maturation."
     },
     {
+      "id": "mcq_anat_ch22_025",
       "question": "Which structure lies posterior to the superior vena cava terminal part?",
-      "options": ["Right main bronchus", "Ascending aorta", "Thymus", "Manubrium"],
+      "options": [
+        "Right main bronchus",
+        "Ascending aorta",
+        "Thymus",
+        "Manubrium"
+      ],
       "answer": "Right main bronchus",
       "explanation": "The terminal half of the SVC is located in the middle mediastinum anterior to the right main bronchus."
     },
     {
+      "id": "mcq_anat_ch22_026",
       "question": "The left superior intercostal vein drains into which vessel?",
-      "options": ["Left brachiocephalic vein", "Azygos vein", "Hemiazygos vein", "Superior vena cava directly"],
+      "options": [
+        "Left brachiocephalic vein",
+        "Azygos vein",
+        "Hemiazygos vein",
+        "Superior vena cava directly"
+      ],
       "answer": "Left brachiocephalic vein",
       "explanation": "On the left side, the left superior intercostal vein drains into the left brachiocephalic vein."
     },
     {
+      "id": "mcq_anat_ch22_027",
       "question": "Where does the ascending aorta begin, at the level of the lower border of the third left costal cartilage?",
-      "options": ["Left ventricle outlet vestibule", "Right ventricle", "Aortic arch", "Pulmonary bifurcation"],
+      "options": [
+        "Left ventricle outlet vestibule",
+        "Right ventricle",
+        "Aortic arch",
+        "Pulmonary bifurcation"
+      ],
       "answer": "Left ventricle outlet vestibule",
       "explanation": "The ascending aorta starts at the aortic orifice at the base of the left ventricle."
     },
     {
+      "id": "mcq_anat_ch22_028",
       "question": "The right subclavian artery is a direct branch of which vessel?",
-      "options": ["Brachiocephalic trunk", "Arch of aorta", "Right common carotid", "Vertebral artery"],
+      "options": [
+        "Brachiocephalic trunk",
+        "Arch of aorta",
+        "Right common carotid",
+        "Vertebral artery"
+      ],
       "answer": "Brachiocephalic trunk",
       "explanation": "The brachiocephalic trunk bifurcates behind the right sternoclavicular joint into the right common carotid and right subclavian arteries."
     },
     {
+      "id": "mcq_anat_ch22_029",
       "question": "The descending thoracic aorta gives off which of the following branches to the chest walls?",
-      "options": ["Posterior intercostal arteries", "Anterior intercostal arteries", "Internal thoracic arteries", "Coronary arteries"],
+      "options": [
+        "Posterior intercostal arteries",
+        "Anterior intercostal arteries",
+        "Internal thoracic arteries",
+        "Coronary arteries"
+      ],
       "answer": "Posterior intercostal arteries",
       "explanation": "The descending aorta gives off the 3rd to 11th posterior intercostal arteries on both sides."
     },
     {
+      "id": "mcq_anat_ch22_030",
       "question": "Which of the following structures lies anterior to the brachiocephalic artery's origin?",
-      "options": ["Left brachiocephalic vein", "Trachea", "Esophagus", "Right vagus nerve"],
+      "options": [
+        "Left brachiocephalic vein",
+        "Trachea",
+        "Esophagus",
+        "Right vagus nerve"
+      ],
       "answer": "Left brachiocephalic vein",
       "explanation": "The left brachiocephalic vein crosses horizontally in front of the origin of the brachiocephalic artery."
     }
   ],
-  "reference": [
+  "flashcards": [],
+  "viva": [
+    {
+      "id": "viva_anat_ch22_001",
+      "question": "Name the three major branches arising from the arch of the aorta in anatomical sequence.",
+      "answer": "The brachiocephalic trunk, the left common carotid artery, and the left subclavian artery.",
+      "keyPoints": "Brachiocephalic trunk, left common carotid, left subclavian.",
+      "clinicalImportance": "Crucial for evaluating upper limb and cerebral circulation."
+    },
+    {
+      "id": "viva_anat_ch22_002",
+      "question": "What veins unite to form the superior vena cava, and where does this union occur?",
+      "answer": "It is formed by the union of the right and left brachiocephalic veins at the level of the lower border of the 1st right costal cartilage.",
+      "keyPoints": "Right and left brachiocephalic veins, 1st right costal cartilage.",
+      "clinicalImportance": "Target zone for central venous catheters."
+    },
+    {
+      "id": "viva_anat_ch22_003",
+      "question": "Describe the course and divisions of the pulmonary trunk.| Answer: Originates from the infundibulum of the right ventricle, ascends obliquely backwards to the left, and divides beneath the arch of the aorta (at T5) into right and left pulmonary arteries.| Examiner Key Points: Infundibulum origin, T5 division, right and left pulmonary arteries.| Clinical Importance: Site where deep vein emboli obstruct outflow, forming high-mortality pulmonary embolisms.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch22_004",
+      "question": "What is the ligamentum arteriosum and what was its fetal precursor?| Answer: A fibrous ligament connecting the inferior aspect of the aortic arch to the left pulmonary artery. It is the remnant of the fetal ductus arteriosus.| Examiner Key Points: Remnant of ductus arteriosus, links aorta arch and left pulmonary artery.| Clinical Importance: Failure of fetal closure leads to Patent Ductus Arteriosus (PDA) producing a machinery-like murmur.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch22_005",
+      "question": "What is Coarctation of the Aorta and what rib sign does it produce on X-rays?| Answer: Congenital narrowing of the aortic lumen distal to the left subclavian origin. It diverts blood through subclavian-intercostal arteries. Under high flow, enlarged intercostal arteries erode the lower margins of ribs, producing 'rib-notching'.| Examiner Key Points: Lumen narrowing, intercostal collaterals, rib-notching on radiographs.| Clinical Importance: Clinically presents as disparate hypertension in arms but weak lower limb femoral pulses.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch22_006",
+      "question": "Explain SVC Syndrome.| Answer: Venous hypertension of the upper body caused by obstruction of the superior vena cava, usually resulting from mediastinal tumor compression. Presents as facial edema, headaches, and distended collateral veins.| Examiner Key Points: Upper body venous hypertension, face congestion, pleural/face edema.| Clinical Importance: Prompt local radiation therapy is essential to prevent permanent cerebral congestion.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch22_007",
+      "question": "Describe the anatomical origin, course, and drainage of the azygos vein.| Answer: Formed by the union of the right ascending lumbar and right subcostal veins (at L1-L2), ascends through the aortic opening (T12), and arches over the right lung root to drain into the SVC at T4.| Examiner Key Points: Ascending lumbar/subcostal origin, arches over right lung root, SVC drain.| Clinical Importance: Serves as a vital collateral pathway bridging the IVC and SVC.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch22_008",
+      "question": "Explain the functional role of the thymus gland and its aging process.| Answer: It is a primary lymphoid organ where T-lymphocytes mature. It is highly active and large in early childhood, but undergoes fatty involution after puberty.| Examiner Key Points: T-lymphocyte maturation, fatty involution post-puberty.| Clinical Importance: Thymomas in adults can trigger myasthenia gravis.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch22_009",
+      "question": "What is the ascending aorta's origin, length, and branches?| Answer: Arises from the left ventricle base, is about 5 cm long, and gives off only the left and right coronary arteries from its sinuses.| Examiner Key Points: Left ventricle origin, coronary arteries are the only branches.| Clinical Importance: Site of high-risk ascending aortic aneurysms.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch22_010",
+      "question": "Where does the descending thoracic aorta begin and end in the thorax?",
+      "answer": "Begins at the T4-T5 disc level (lower boundary of superior mediastinum) and ends at the aortic opening of the diaphragm at T12.| Examiner Key Points: Begins at T4/T5, ends at T12.| Clinical Importance: Rupture during deceleration traumatic accidents is frequently fatal.",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    }
+  ],
+  "pyqs": [],
+  "references": [
     "B.D. Chaurasia - Human Anatomy (Volume 1: Upper Limb and Thorax, Section on Great Vessels and Thymus)",
     "Vishram Singh - Textbook of Anatomy: Upper Limb and Thorax (Volume 1, Chapter on Large Vessels of Thorax)"
-  ]
+  ],
+  "subjectExtensions": {
+    "anatomy": {
+      "parameters": {
+        "SVCLength": "Approx. 7 cm in adults",
+        "AorticArchLevel": "Starts and ends at the T4-T5 sternal angle level"
+      }
+    }
+  }
 }

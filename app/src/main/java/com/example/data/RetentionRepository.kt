@@ -79,12 +79,16 @@ class RetentionRepository(
                 "et2_ift", "el2_ch2", "el2_ch3", "el2_ch4", "el2_ch5", "el2_ch6", "el2_ch7", "el2_ch8", "el2_ch9", "el2_ch10", "el2_ch11",
                 "anat_ch1", "anat_ch2", "anat_ch3", "anat_ch4", "anat_ch5", "anat_ch6", "anat_ch7", "anat_ch8", "anat_ch9", "anat_ch10",
                 "anat_ch11", "anat_ch12", "anat_ch13", "anat_ch14", "anat_ch15", "anat_ch16", "anat_ch17", "anat_ch18", "anat_ch19", "anat_ch20",
-                "anat_ch21", "anat_ch22", "anat_ch23", "anat_ch24", "anat_ch25", "anat_ch26", "anat_ch27", "anat_ch28", "anat_ch29", "anat_ch30", "anat_ch31",
-                "phys_ch1", "phys_ch2", "phys_ch3", "phys_ch4",
+                "anat_ch21", "anat_ch22", "anat_ch23", "anat_ch24", "anat_ch25", "anat_ch26", "anat_ch27", "anat_ch28", "anat_ch29", "anat_ch30",
+                "anat_ch31", "anat_ch32", "anat_ch33", "anat_ch34",
+                "phys_ch1", "phys_ch2", "phys_ch3", "phys_ch4", "phys_ch5", "phys_ch6", "phys_ch7", "phys_ch8", "phys_ch9",
                 "ex1_ch1", "ex1_ch2", "ex1_ch3", "ex1_ch4", "ex1_ch5", "ex1_ch6",
                 "el1_ch1", "el1_ch2", "el1_ch3", "el1_ch4",
-                "bio_ch1", "bio_ch2", "bio_ch3", "bio_ch4",
-                "ex2_ch1", "ex2_ch2", "ex2_ch3", "ex2_ch4", "ex2_ch5", "ex2_ch6", "ex2_ch7", "ex2_ch8", "ex2_ch9", "ex2_ch10", "ex2_ch11", "ex2_ch12"
+                "bio_ch1", "bio_ch2", "bio_ch3", "bio_ch4", "bio_ch5", "bio_ch6", "bio_ch7", "bio_ch8", "bio_ch9", "bio_ch10", "bio_ch11", "bio_ch12", "bio_ch13",
+                "ex2_ch1", "ex2_ch2", "ex2_ch3", "ex2_ch4", "ex2_ch5", "ex2_ch6", "ex2_ch7", "ex2_ch8", "ex2_ch9", "ex2_ch10", "ex2_ch11", "ex2_ch12",
+                "path_ch1", "path_ch2", "path_ch3", "path_ch4", "path_ch5", "path_ch6", "path_ch7", "path_ch8", "path_ch9", "path_ch10", "path_ch11", "path_ch12", "path_ch13", "path_ch14", "path_ch15",
+                "micro_ch1", "micro_ch2", "micro_ch3", "micro_ch4", "micro_ch5", "micro_ch6", "micro_ch7", "micro_ch8",
+                "pharm_ch1", "pharm_ch2", "pharm_ch3", "pharm_ch4", "pharm_ch5", "pharm_ch6", "pharm_ch7", "pharm_ch8", "pharm_ch9", "pharm_ch10", "pharm_ch11", "pharm_ch12"
             )
 
             for (chapterId in chapterKeys) {
@@ -95,6 +99,9 @@ class RetentionRepository(
                     chapterId.startsWith("el") || chapterId.startsWith("et") -> "Electrotherapy"
                     chapterId.startsWith("bio") -> "Biomechanics"
                     chapterId.startsWith("anat") -> "Anatomy"
+                    chapterId.startsWith("path") -> "Pathology"
+                    chapterId.startsWith("micro") -> "Microbiology"
+                    chapterId.startsWith("pharm") -> "Pharmacology"
                     else -> "General"
                 }
 

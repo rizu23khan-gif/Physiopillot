@@ -1,68 +1,112 @@
 {
-  "subject": "Anatomy",
-  "chapterId": "anat_ch32",
-  "chapterName": "Skull and Cranial Cavity",
-  "definition": [
-    "The skull is the bony skeleton of the head containing 22 bones (8 cranial and 14 facial).",
-    "It protects the brain and sensory structures, provides attachment for muscle mechanics, and houses the pathways of CRITICAL cranial nerves."
-  ],
-  "principle": [
-    "Cranial bones articulation via fibrous sutures (coronal, sagittal, lambdoid).",
-    "The cranial cavity includes the anterior, middle, and posterior cranial fossae, each carrying vital blood structures and nerve roots."
-  ],
-  "equipment": [
-    "Anatomical plastic skull models",
-    "Netter's anatomy atlas with transverse section profiles"
-  ],
-  "parameters": {
-    "Cranial Bones Count": "8 bones (Frontal, Parietal (2), Temporal (2), Occipital, Sphenoid, Ethmoid)",
-    "Facial Bones Count": "14 bones (Nasal, Lacrimal, Palatine, Inferior nasal concha, Vomer, Maxilla, Zygomatic, Mandible)",
-    "Critical Sutures": "Fibrous joint articulations that fuse with age"
+  "metadata": {
+    "chapterId": "anat_ch32",
+    "title": "Skull and Cranial Cavity",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "version": "1.0",
+    "lastUpdated": "2026-06-25",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": [],
+    "status": "published"
   },
-  "physiologicalEffects": [
-    {
-      "effect": "Brain Protection",
-      "frequency": "Continuous mechanical defense",
-      "mechanism": [
-        "Skeletal rigidity absorbs external kinetic impact.",
-        "Meningeal sheets and cerebrospinal fluid distribute pressure gradients uniformly."
-      ]
-    }
-  ],
-  "indications": [
-    "Study of traumatic brain injuries (TBI) and temporal bone fractures",
-    "Pathology of cranial nerve entrapment syndromes"
-  ],
-  "contraindications": {
-    "general": ["Cranial palpation in acute basilar fractures", "Unstable cervical traction"]
-  },
-  "technique": {
-    "treatmentProcedure": [
-      "Analyze the margins of the orbit and nasal aperture.",
-      "Trace the path of cranial nerve VII through the stylo-mastoid foramen.",
-      "Audit temporal bone attachments of masseter and temporalis muscle networks."
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [
+      "The skull is the bony skeleton of the head containing 22 bones (8 cranial and 14 facial).",
+      "It protects the brain and sensory structures, provides attachment for muscle mechanics, and houses the pathways of CRITICAL cranial nerves."
+    ],
+    "coreConcepts": [
+      "Cranial bones articulation via fibrous sutures (coronal, sagittal, lambdoid).",
+      "The cranial cavity includes the anterior, middle, and posterior cranial fossae, each carrying vital blood structures and nerve roots."
+    ],
+    "equipment": [
+      "Anatomical plastic skull models",
+      "Netter's anatomy atlas with transverse section profiles"
     ]
   },
-  "precautions": [
-    "Avoid applying excessive compressive pressure to infant fontanelles during palpation drills."
-  ],
-  "clinicalPearls": [
-    "The Pterion is the weakest point on the lateral skull wall, where temporal, frontal, parietal, and sphenoid bones meet. It overlies the middle meningeal artery; trauma here can trigger rapid epidural hematoma."
-  ],
-  "vivaQuestions": [
-    "Name the bones meeting at the Pterion and the underlying vascular risk. | temporal, frontal, parietal, and sphenoid bones; middle meningeal artery risk.",
-    "Which cranial nerve traverses the cribriform plate of the ethmoid? | Olfactory nerve (CN I)."
-  ],
+  "clinicalCorrelations": {
+    "pearls": [
+      "The Pterion is the weakest point on the lateral skull wall, where temporal, frontal, parietal, and sphenoid bones meet. It overlies the middle meningeal artery; trauma here can trigger rapid epidural hematoma."
+    ],
+    "precautions": [
+      "Avoid applying excessive compressive pressure to infant fontanelles during palpation drills."
+    ],
+    "indications": [
+      "Study of traumatic brain injuries (TBI) and temporal bone fractures",
+      "Pathology of cranial nerve entrapment syndromes"
+    ],
+    "contraindications": {
+      "general": [
+        "Cranial palpation in acute basilar fractures",
+        "Unstable cervical traction"
+      ]
+    },
+    "technique": {
+      "treatmentProcedure": [
+        "Analyze the margins of the orbit and nasal aperture.",
+        "Trace the path of cranial nerve VII through the stylo-mastoid foramen.",
+        "Audit temporal bone attachments of masseter and temporalis muscle networks."
+      ]
+    },
+    "protocols": [],
+    "physiologicalEffects": [
+      {
+        "effect": "Brain Protection",
+        "frequency": "Continuous mechanical defense",
+        "mechanism": [
+          "Skeletal rigidity absorbs external kinetic impact.",
+          "Meningeal sheets and cerebrospinal fluid distribute pressure gradients uniformly."
+        ]
+      }
+    ]
+  },
+  "clinicalCases": [],
   "mcqs": [
     {
+      "id": "mcq_anat_ch32_001",
       "question": "Which bone forms the posterior floor of the cranial cavity?",
-      "options": ["Occipital", "Sphenoid", "Temporal", "Frontal"],
+      "options": [
+        "Occipital",
+        "Sphenoid",
+        "Temporal",
+        "Frontal"
+      ],
       "answer": "Occipital",
       "explanation": "The occipital bone forms the base of the skull posteriorly and houses the posterior cranial fossa."
     }
   ],
-  "reference": [
+  "flashcards": [],
+  "viva": [
+    {
+      "id": "viva_anat_ch32_001",
+      "question": "Name the bones meeting at the Pterion and the underlying vascular risk. temporal, frontal, parietal, and sphenoid bones; middle meningeal artery risk.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch32_002",
+      "question": "Which cranial nerve traverses the cribriform plate of the ethmoid? Olfactory nerve (CN I).",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    }
+  ],
+  "pyqs": [],
+  "references": [
     "Chaurasia B.D. Textbook of Anatomy - Vol 3 (Head, Neck & Brain)",
     "Gray's Anatomy for Students - Section 8"
-  ]
+  ],
+  "subjectExtensions": {
+    "anatomy": {
+      "parameters": {
+        "Cranial Bones Count": "8 bones (Frontal, Parietal (2), Temporal (2), Occipital, Sphenoid, Ethmoid)",
+        "Facial Bones Count": "14 bones (Nasal, Lacrimal, Palatine, Inferior nasal concha, Vomer, Maxilla, Zygomatic, Mandible)",
+        "Critical Sutures": "Fibrous joint articulations that fuse with age"
+      }
+    }
+  }
 }

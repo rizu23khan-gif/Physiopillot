@@ -46,8 +46,8 @@ data class SpecialTestModel(
     val contraindications: List<String> = emptyList()
 )
 
-fun loadSpecialTests(context: Context): List<SpecialTestModel> {
-    return try {
+suspend fun loadSpecialTests(context: Context): List<SpecialTestModel> = kotlinx.coroutines.withContext(kotlinx.coroutines.Dispatchers.IO) {
+    try {
         val text = context.assets.open("special_tests.json").bufferedReader().use { it.readText() }
         Json { ignoreUnknownKeys = true }.decodeFromString<List<SpecialTestModel>>(text)
     } catch (e: Exception) {
@@ -75,7 +75,9 @@ fun getCategoriesForTest(testId: String): List<String> {
 @Composable
 fun SpecialTestRepositoryScreen(navController: NavController) {
     val context = LocalContext.current
-    val allTests = remember { loadSpecialTests(context) }
+    val allTests by androidx.compose.runtime.produceState(initialValue = emptyList<SpecialTestModel>()) {
+        value = loadSpecialTests(context)
+    }
     
     var searchQuery by remember { mutableStateOf(com.example.data.ContentRepo.lastViewedSpecialTestQuery ?: "") }
     var selectedCategory by remember { mutableStateOf("All Tests") }

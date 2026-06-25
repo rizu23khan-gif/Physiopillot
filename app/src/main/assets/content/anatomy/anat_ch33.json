@@ -1,70 +1,114 @@
 {
-  "subject": "Anatomy",
-  "chapterId": "anat_ch33",
-  "chapterName": "Cervical Spine & Vertebrae",
-  "definition": [
-    "The cervical spine consists of seven vertebrae (C1-C7) forming the bony framework of the neck.",
-    "It supports the skull, allows dynamic multi-axial neck range of motion, and houses the ascending/descending spinal tract networks."
-  ],
-  "principle": [
-    "Atypical vertebrae include C1 (Atlas - no vertebral body or spinous process) and C2 (Axis - carries the dens/odontoid process of vertebral body extension).",
-    "Typical vertebrae (C3-C6) have bifid spinous processes, triangular vertebral foramina, and foramina transversaria carrying vertebral arteries.",
-    "C7 (Vertebra prominens) features a long, non-bifid spinous process that sits as the primary anatomical projection at the base of neck."
-  ],
-  "equipment": [
-    "Plastified cervical vertebrae column replicas",
-    "Pressure biofeedback goniometer for neck ROM"
-  ],
-  "parameters": {
-    "Vertebrae Count": "7 (C1 to C7)",
-    "Nerve Roots Count": "8 cervical nerve roots (C1-C8 emerging above respective bone segments, save C8)",
-    "Atlanto-Occipital Joint Type": "Condylar synovial joint (Primary 'Yes' flexion/extension node)",
-    "Atlanto-Axial Joint Type": "Pivot synovial joint (Primary 'No' rotation node)"
+  "metadata": {
+    "chapterId": "anat_ch33",
+    "title": "Cervical Spine & Vertebrae",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "version": "1.0",
+    "lastUpdated": "2026-06-25",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": [],
+    "status": "published"
   },
-  "physiologicalEffects": [
-    {
-      "effect": "Vertebral Artery Guidance",
-      "frequency": "Dynamic mechanical alignment",
-      "mechanism": [
-        "Vertebral arteries run through C6-C1 transverse foramina to enter the cranial cavity.",
-        "Smooth bony margins prevent arterial occlusion during dynamic cervical movement."
-      ]
-    }
-  ],
-  "indications": [
-    "Evaluation of cervical radiculopathy (disc herniations / osteophytic spurs)",
-    "Whiplash hyperextension rehabilitation tracking"
-  ],
-  "contraindications": {
-    "general": ["High-velocity cervical thrust manipulation in vertebral-basilar insufficiency (VBI)", "Incompetent transverse ligament of C1"]
-  },
-  "technique": {
-    "treatmentProcedure": [
-      "Palpate the prominent spinous process of C7.",
-      "Grasp and palpate the transverse processes of the Atlas (C1) between the mastoid process and mandible ramus.",
-      "Verify cervical rotation ROM centering axis over the crown of head."
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [
+      "The cervical spine consists of seven vertebrae (C1-C7) forming the bony framework of the neck.",
+      "It supports the skull, allows dynamic multi-axial neck range of motion, and houses the ascending/descending spinal tract networks."
+    ],
+    "coreConcepts": [
+      "Atypical vertebrae include C1 (Atlas - no vertebral body or spinous process) and C2 (Axis - carries the dens/odontoid process of vertebral body extension).",
+      "Typical vertebrae (C3-C6) have bifid spinous processes, triangular vertebral foramina, and foramina transversaria carrying vertebral arteries.",
+      "C7 (Vertebra prominens) features a long, non-bifid spinous process that sits as the primary anatomical projection at the base of neck."
+    ],
+    "equipment": [
+      "Plastified cervical vertebrae column replicas",
+      "Pressure biofeedback goniometer for neck ROM"
     ]
-  ],
-  "precautions": [
-    "Perform the vertebral artery test (Hallpike/VBI check) prior to any end-range cervical rotation manual drills."
-  ],
-  "clinicalPearls": [
-    "The transverse ligament of the atlas holds the odontoid process of C2 against the anterior arch of C1. Injury here (e.g., in rheumatoid arthritis or high force trauma) triggers atlanto-axial subluxation and fatal spinal cord compression."
-  ],
-  "vivaQuestions": [
-    "Which cervical vertebrae does not have a vertebral body or a spinous process? | Atlas (C1).",
-    "What structures pass through the cervical transversarium foramina? | Vertebral artery, vertebral vein, and sympathetic plexus."
-  ],
+  },
+  "clinicalCorrelations": {
+    "pearls": [
+      "The transverse ligament of the atlas holds the odontoid process of C2 against the anterior arch of C1. Injury here (e.g., in rheumatoid arthritis or high force trauma) triggers atlanto-axial subluxation and fatal spinal cord compression."
+    ],
+    "precautions": [
+      "Perform the vertebral artery test (Hallpike/VBI check) prior to any end-range cervical rotation manual drills."
+    ],
+    "indications": [
+      "Evaluation of cervical radiculopathy (disc herniations / osteophytic spurs)",
+      "Whiplash hyperextension rehabilitation tracking"
+    ],
+    "contraindications": {
+      "general": [
+        "High-velocity cervical thrust manipulation in vertebral-basilar insufficiency (VBI)",
+        "Incompetent transverse ligament of C1"
+      ]
+    },
+    "technique": {
+      "treatmentProcedure": [
+        "Palpate the prominent spinous process of C7.",
+        "Grasp and palpate the transverse processes of the Atlas (C1) between the mastoid process and mandible ramus.",
+        "Verify cervical rotation ROM centering axis over the crown of head."
+      ]
+    },
+    "protocols": [],
+    "physiologicalEffects": [
+      {
+        "effect": "Vertebral Artery Guidance",
+        "frequency": "Dynamic mechanical alignment",
+        "mechanism": [
+          "Vertebral arteries run through C6-C1 transverse foramina to enter the cranial cavity.",
+          "Smooth bony margins prevent arterial occlusion during dynamic cervical movement."
+        ]
+      }
+    ]
+  },
+  "clinicalCases": [],
   "mcqs": [
     {
+      "id": "mcq_anat_ch33_001",
       "question": "Which cervical joint is primarily responsible for the rotation of the head (the 'No' movement)?",
-      "options": ["Atlanto-axial joint", "Atlanto-occipital joint", "C3-C4 facet joint", "Symphysis pubis"],
+      "options": [
+        "Atlanto-axial joint",
+        "Atlanto-occipital joint",
+        "C3-C4 facet joint",
+        "Symphysis pubis"
+      ],
       "answer": "Atlanto-axial joint",
       "explanation": "The atlanto-axial pivot joint allows extensive rotation of the skull, which produces approximately 50-60% of total neck rotation range."
     }
   ],
-  "reference": [
+  "flashcards": [],
+  "viva": [
+    {
+      "id": "viva_anat_ch33_001",
+      "question": "Which cervical vertebrae does not have a vertebral body or a spinous process? Atlas (C1).",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    },
+    {
+      "id": "viva_anat_ch33_002",
+      "question": "What structures pass through the cervical transversarium foramina? Vertebral artery, vertebral vein, and sympathetic plexus.",
+      "answer": "",
+      "keyPoints": "",
+      "clinicalImportance": ""
+    }
+  ],
+  "pyqs": [],
+  "references": [
     "Norkin & Levangie's Joint Structure and Function - Chapter 4 (The Vertebral Column)",
     "Chaurasia B.D. Textbook of Anatomy - Vol 3"
-  ]
+  ],
+  "subjectExtensions": {
+    "anatomy": {
+      "parameters": {
+        "Vertebrae Count": "7 (C1 to C7)",
+        "Nerve Roots Count": "8 cervical nerve roots (C1-C8 emerging above respective bone segments, save C8)",
+        "Atlanto-Occipital Joint Type": "Condylar synovial joint (Primary 'Yes' flexion/extension node)",
+        "Atlanto-Axial Joint Type": "Pivot synovial joint (Primary 'No' rotation node)"
+      }
+    }
+  }
 }

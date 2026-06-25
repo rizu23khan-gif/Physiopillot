@@ -3,6 +3,10 @@ package com.example.data
 import android.content.Context
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
+import kotlinx.serialization.json.JsonElement
+import kotlinx.serialization.json.jsonObject
+import kotlinx.serialization.json.jsonPrimitive
+import kotlinx.serialization.json.jsonArray
 import java.io.InputStream
 
 @Serializable
@@ -43,6 +47,106 @@ data class ChapterMCQ(
     val answer: String,
     val explanation: String = ""
 )
+
+@Serializable
+data class PucsMetadata(
+    val chapterId: String,
+    val title: String,
+    val subject: String,
+    val keywords: List<String> = emptyList(),
+    val tags: List<String> = emptyList()
+)
+
+@Serializable
+data class PucsTheory(
+    val definitions: List<String> = emptyList(),
+    val coreConcepts: List<String> = emptyList(),
+    val equipment: List<String> = emptyList()
+)
+
+@Serializable
+data class PucsClinicalCorrelations(
+    val pearls: List<String> = emptyList(),
+    val precautions: List<String> = emptyList(),
+    val indications: List<String> = emptyList(),
+    val contraindications: Contraindications = Contraindications(),
+    val technique: Technique = Technique(),
+    val protocols: List<ClinicalProtocol> = emptyList(),
+    val physiologicalEffects: List<JsonElement> = emptyList()
+)
+
+@Serializable
+data class PucsVivaQuestion(
+    val id: String = "",
+    val question: String,
+    val answer: String,
+    val keyPoints: String = "",
+    val clinicalImportance: String = ""
+)
+
+@Serializable
+data class PucsAnatomyExtension(
+    val parameters: Map<String, String> = emptyMap()
+)
+
+@Serializable
+data class PucsSubjectExtensions(
+    val anatomy: PucsAnatomyExtension? = null
+)
+
+@Serializable
+data class PucsChapter(
+    val metadata: PucsMetadata,
+    val theory: PucsTheory = PucsTheory(),
+    val clinicalCorrelations: PucsClinicalCorrelations = PucsClinicalCorrelations(),
+    val mcqs: List<ChapterMCQ> = emptyList(),
+    val viva: List<PucsVivaQuestion> = emptyList(),
+    val references: List<String> = emptyList(),
+    val subjectExtensions: PucsSubjectExtensions? = null
+) {
+    fun toInteractiveChapterContent(): InteractiveChapterContent {
+        val vivaFormatted = viva.map { 
+            "Question: ${it.question} | Answer: ${it.answer} | Examiner Key Points: ${it.keyPoints} | Clinical Importance: ${it.clinicalImportance}"
+        }
+        return InteractiveChapterContent(
+            subject = metadata.subject,
+            chapterId = metadata.chapterId,
+            chapterName = metadata.title,
+            definition = theory.definitions,
+            principle = theory.coreConcepts,
+            equipment = theory.equipment,
+            parameters = subjectExtensions?.anatomy?.parameters ?: emptyMap(),
+            physiologicalEffects = clinicalCorrelations.physiologicalEffects.mapNotNull { element ->
+                try {
+                    if (element is kotlinx.serialization.json.JsonObject) {
+                        PhysiologicalEffect(
+                            effect = element["effect"]?.jsonPrimitive?.content ?: "",
+                            frequency = element["frequency"]?.jsonPrimitive?.content ?: "",
+                            mechanism = element["mechanism"]?.jsonArray?.map { it.jsonPrimitive.content } ?: emptyList()
+                        )
+                    } else {
+                        PhysiologicalEffect(
+                            effect = element.jsonPrimitive.content,
+                            frequency = "",
+                            mechanism = emptyList()
+                        )
+                    }
+                } catch (e: Exception) {
+                    null
+                }
+            },
+            indications = clinicalCorrelations.indications,
+            contraindications = clinicalCorrelations.contraindications,
+            technique = clinicalCorrelations.technique,
+            precautions = clinicalCorrelations.precautions,
+            clinicalPearls = clinicalCorrelations.pearls,
+            clinicalProtocols = clinicalCorrelations.protocols,
+            vivaQuestions = vivaFormatted,
+            mcqs = mcqs,
+            reference = references
+        )
+    }
+}
 
 @Serializable
 data class InteractiveChapterContent(
@@ -121,6 +225,11 @@ object ChapterContentRepository {
         "phys_ch2" to "content/physiology/phys_ch2.json",
         "phys_ch3" to "content/physiology/phys_ch3.json",
         "phys_ch4" to "content/physiology/phys_ch4.json",
+        "phys_ch5" to "content/physiology/phys_ch5.json",
+        "phys_ch6" to "content/physiology/phys_ch6.json",
+        "phys_ch7" to "content/physiology/phys_ch7.json",
+        "phys_ch8" to "content/physiology/phys_ch8.json",
+        "phys_ch9" to "content/physiology/phys_ch9.json",
         "ex1_ch1" to "content/exercise_therapy_1/ex_ex1_ch1.json",
         "ex1_ch2" to "content/exercise_therapy_1/ex_ex1_ch2.json",
         "ex1_ch3" to "content/exercise_therapy_1/ex_ex1_ch3.json",
@@ -199,14 +308,71 @@ object ChapterContentRepository {
         "pharm_ch12" to "content/pharmacology/pharm_ch12.json"
     )
 
+    private val cache = android.util.LruCache<String, InteractiveChapterContent>(30)
+
     fun loadChapterContent(context: Context, chapterId: String): InteractiveChapterContent? {
+        synchronized(cache) {
+            val cached = cache.get(chapterId)
+            if (cached != null) return cached
+        }
         val assetPath = registry[chapterId] ?: return null
-        return try {
+        val content = try {
             val jsonString = context.assets.open(assetPath).bufferedReader().use { it.readText() }
-            json.decodeFromString<InteractiveChapterContent>(jsonString)
+            try {
+                json.decodeFromString<InteractiveChapterContent>(jsonString)
+            } catch (e: Exception) {
+                try {
+                    json.decodeFromString<PucsChapter>(jsonString).toInteractiveChapterContent()
+                } catch (e2: Exception) {
+                    e.printStackTrace()
+                    e2.printStackTrace()
+                    null
+                }
+            }
         } catch (e: Exception) {
             e.printStackTrace()
             null
         }
+        if (content != null) {
+            synchronized(cache) {
+                cache.put(chapterId, content)
+            }
+        }
+        return content
+    }
+
+    suspend fun loadChapterContentSuspended(context: Context, chapterId: String): InteractiveChapterContent? = kotlinx.coroutines.withContext(kotlinx.coroutines.Dispatchers.IO) {
+        synchronized(cache) {
+            val cached = cache.get(chapterId)
+            if (cached != null) return@withContext cached
+        }
+        val assetPath = registry[chapterId] ?: return@withContext null
+        val content = try {
+            val jsonString = context.assets.open(assetPath).bufferedReader().use { it.readText() }
+            try {
+                json.decodeFromString<InteractiveChapterContent>(jsonString)
+            } catch (e: Exception) {
+                try {
+                    json.decodeFromString<PucsChapter>(jsonString).toInteractiveChapterContent()
+                } catch (e2: Exception) {
+                    e.printStackTrace()
+                    e2.printStackTrace()
+                    null
+                }
+            }
+        } catch (e: Exception) {
+            e.printStackTrace()
+            null
+        }
+        if (content != null) {
+            synchronized(cache) {
+                cache.put(chapterId, content)
+            }
+        }
+        content
+    }
+
+    fun getChapterContentFlow(context: Context, chapterId: String): kotlinx.coroutines.flow.Flow<InteractiveChapterContent?> = kotlinx.coroutines.flow.flow {
+        emit(loadChapterContentSuspended(context, chapterId))
     }
 }
