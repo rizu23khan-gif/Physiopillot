@@ -1,0 +1,9 @@
+{
+  "totalAssetsScanned": 0,
+  "missingMediaCount": 0,
+  "oversizedMediaCount": 0,
+  "invalidExtensionsCount": 0,
+  "missingMedia": [],
+  "oversizedMedia": [],
+  "invalidExtensions": []
+}

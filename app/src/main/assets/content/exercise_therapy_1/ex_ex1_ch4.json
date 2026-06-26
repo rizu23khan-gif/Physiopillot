@@ -1,473 +1,384 @@
 {
-  "subject": "Exercise Therapy I",
-  "chapterId": "ex1_ch4",
-  "chapterName": "Introductory Therapeutic Massage",
-  "definition": [
-    "Therapeutic Massage: The systematic and scientific manual manipulation of the soft tissues of the body for the purpose of promoting health, facilitating circulation, reducing muscular tension, modulating pain, and accelerating tissue healing.",
-    "Effleurage: A slow, rhythmic, soothing stroking manipulation performed with the flat of the palm or fingers, always directed centripetally (towards the heart) to promote venous and lymphatic return.",
-    "Petrissage: A group of dynamic soft tissue manipulations featuring squeezing, rolling, kneading, wringing, and picking up of muscles, applied to improve mobility, stretch tissue fibers, and increase local blood circulation.",
-    "Tapotement (Percussion): Rapid, rhythmic striking movements (hacking, clapping, beating, tapping) applied to stimulate nervous system endings, increase muscle tone, and expectorate pulmonary secretions.",
-    "Friction: Deep, localized strokes applied with the finger pulp or thumb, moving the skin over deep structures in circular or transverse directions to break down scan-tissue adhesions and chronic inflammation.",
-    "Lubricant (Medium): A hypoallergenic oil, lotion, gel, or powder applied to the patient's skin before massage to minimize friction, protect skin integrity, and ensure smooth manual gliding.",
-    "Therapist Body Mechanics: The practice of placing and moving the therapist's body (postural alignment, wide stance, weight shifts) to generate manual force efficiently while preventing physical injury and joint strain."
-  ],
-  "principle": [
-    "Mechanical vs Reflex Mechanisms: Massage acts mechanically by physically compressing and stretching soft structures, directly mobilizing venous blood, lymphatic fluid, and tissue restrictions. It acts reflexively by stimulating mechanoreceptors, which triggers autonomic relaxation and inhibits pathway pain signals.",
-    "Centripetal Direction Principle: Stroking manipulations like effleurage must always be performed in a centripetal direction (moving towards the heart), aligning with the flow of venous valves and superficial lymphatic vessels to avoid vascular congestion or valve strain.",
-    "Somatic and Physiological Effects: Massage stimulates cutaneous vasodilation to increase local microcirculation, enhances connective tissue extensibility, decreases muscular resting tension, and shifts autonomic nervous activity from sympathetic (fight-or-flight) to parasympathetic (rest-and-digest).",
-    "Principles of Friction Massage: Deep transverse (Cyriax) friction is applied perpendicular to the direction of muscle, tendon, or ligament fibers. It is designed to create local hyperemia, modulate inflammatory pain, and align healing collagen fibrils along functional stress lines.",
-    "Ergonomic Force Generation: The massage therapist should avoid generating stroke force solely from their small upper extremity muscles. Instead, they should stand in a stride stance, keeping joints aligned, and shift their body weight forward from the pelvis as they apply pressure.",
-    "Professional Draping and Boundary Safety: Draping involves placing linens or towels over the patient to expose only the specific anatomical region being massaged. This secures patient warmth, respects professional boundaries, and provides psychological comfort, allowing full relaxation."
-  ],
-  "equipment": [
-    "Adjustable Massage Table: A specialized padded therapy couch equipped with a face cutout (crescent headrest) and height adjustment controls to accommodate joint therapist ergonomics.",
-    "Hypoallergenic Massage Oils and Lotions: Friction-reducing media such as mineral oil, sweet almond oil, or fragrance-free lotions chosen to protect sensitive skin.",
-    "Bolsters and Pillows: Supportive anatomical foam rollers used under the knees, ankles, or head to optimize comfortable resting postures and promote complete muscle relaxation."
-  ],
-  "parameters": {
-    "effleurageStrokeDirection": "Centripetal (Towards the heart, following venous flow)",
-    "massageStrokesMajorClasses": "Stroking (Effleurage), Compression (Petrissage), Percussion (Tapotement), Friction, Vibration/Shaking",
-    "deepFrictionStrokeDirection": "Transverse (Perpendicular to target fiber directions)",
-    "petrissageStrokeSpeed": "Slow, rhythmic, and deeply sustained",
-    "tapotementStrokeFrequency": "Rapid, brisk, and alternating rhythmic impacts"
-  },
-  "physiologicalEffects": [
-    {
-      "effect": "Enhanced Venous and Lymphatic Return",
-      "frequency": "Continuous",
-      "mechanism": [
-        "Centripetal effleurage strokes generate progressive manual compression along parallel veins.",
-        "Pushes stagnant blood and lymphatic fluid forward through one-way vascular valves.",
-        "Significantly decreases localized interstitial edema, improves swelling, and enhances venous circulation."
-      ]
+    "metadata": {
+        "chapterId": "",
+        "title": "",
+        "subject": "",
+        "keywords": [],
+        "tags": []
     },
-    {
-      "effect": "Reduction of Muscle Hypertonicity",
-      "frequency": "Intermittent",
-      "mechanism": [
-        "Petrissage and kneading stretching of muscle spindles triggers sensory signals.",
-        "Suppresses excessive alpha motor neuron discharge in the spinal cord.",
-        "Releases myofascial tightness, decreases resting muscle tone, and relieves painful muscle spasms."
-      ]
-    }
-  ],
-  "indications": [
-    "Subacute and chronic stages of joint muscular strain, sprains, or soft tissue shortening.",
-    "Reduction of regional edema, localized chronic fluid swelling, and post-traumatic joint stiffness.",
-    "Management of chronic myofascial pain, localized trigger points, and stress-related tension."
-  ],
-  "contraindications": {
-    "general": [
-      "Known acute deep vein thrombosis (DVT) or thrombophlebitis, where manual pressure could dislodge a blood clot, causing a pulmonary embolism.",
-      "Severe, unmanaged congestive heart failure, where pushing fluids centripitally could overload a failing heart.",
-      "High, uncontrolled systemic fever or widespread infectious conditions."
+    "theory": {
+        "definitions": [],
+        "coreConcepts": [],
+        "equipment": []
+    },
+    "clinicalCorrelations": {
+        "pearls": [],
+        "precautions": [],
+        "indications": [],
+        "contraindications": {
+            "general": [],
+            "local": []
+        },
+        "technique": {
+            "patientPreparation": [],
+            "apparatusPreparation": [],
+            "skinPreparation": [],
+            "electrodePlacement": [],
+            "treatmentProcedure": []
+        },
+        "protocols": [],
+        "physiologicalEffects": []
+    },
+    "subjectExtensions": {
+        "anatomy": {
+            "parameters": {}
+        }
+    },
+    "clinicalCases": [],
+    "mcqs": [
+        {
+            "question": "Which major class of therapeutic massage features slow, rhythmic, sweeping strokes directed towards the heart?",
+            "options": [
+                "Petrissage",
+                "Effleurage",
+                "Tapotement",
+                "Transverse Friction"
+            ],
+            "answer": "Effleurage",
+            "explanation": "Effleurage is a rhythmic stroking manipulation that must always follow a centripetal direction to support venous and lymphatic drainage back to the heart."
+        },
+        {
+            "question": "Which massage manipulation involves squeezing, rolling, kneading, and lifting muscle tissue dynamically?",
+            "options": [
+                "Effleurage",
+                "Petrissage",
+                "Tapotement",
+                "Vibration"
+            ],
+            "answer": "Petrissage",
+            "explanation": "Petrissage involves various compression strokes like kneading, lifting, and squeezing to address deep muscle layers."
+        },
+        {
+            "question": "Which of the following is an absolute, general contraindication for performing centripetal massage strokes?",
+            "options": [
+                "Chronic muscular neck tension",
+                "Acute deep vein thrombosis (DVT)",
+                "Subacute ankle sprain",
+                "Chronic tension headaches"
+            ],
+            "answer": "Acute deep vein thrombosis (DVT)",
+            "explanation": "Centripetal massage is strictly contraindicated in acute DVT because the physical pressure could dislodge the blood clot, leading to a life-threatening pulmonary embolism."
+        },
+        {
+            "question": "Which massage technique applies friction perpendicularly across the longitudinal orientation of tendon or ligament fibers?",
+            "options": [
+                "Effleurage",
+                "Deep transverse friction (Cyriax method)",
+                "Hacking tapotement",
+                "Skin rolling petrissage"
+            ],
+            "answer": "Deep transverse friction (Cyriax method)",
+            "explanation": "Deep transverse friction is applied perpendicular (at right angles) to the direction of target fibers to mobilize scar tissue and help align collagen fibrils."
+        },
+        {
+            "question": "What is the primary reflex physiological effect of light, soothing effleurage massage on the autonomic nervous system?",
+            "options": [
+                "Stimulates sympathetic flight responses",
+                "Triggers rapid musculoskeletal stretch reflexes",
+                "Shifts the balance towards parasympathetic relaxation",
+                "Increases dynamic alpha motor neuron output"
+            ],
+            "answer": "Shifts the balance towards parasympathetic relaxation",
+            "explanation": "Light effleurage stimulates low-threshold cutaneous mechanoreceptors, which triggers reflex parasympathetic dominance, lowering heart rate and relaxing the patient."
+        },
+        {
+            "question": "Which tapotement sub-technique is executed with fingers and hands curved to form a pocket, creating a hollow, popping sound upon contact?",
+            "options": [
+                "Hacking",
+                "Clapping (Cupping)",
+                "Pounding",
+                "Tapping"
+            ],
+            "answer": "Clapping (Cupping)",
+            "explanation": "Clapping (or cupping) uses hands shaped like cups to trap air, creating hollow impacts that help mobilize lung secretions."
+        },
+        {
+            "question": "To perform deep transverse or circular friction effectively, which of the following practices should the therapist implement?",
+            "options": [
+                "Apply a large amount of slippery massage oil to slide over the skin",
+                "Ensure the therapist's fingers move over the skin without deep grip",
+                "Friction the skin over deep structures, keeping fingers and skin moving together",
+                "Perform the strokes at a very rapid, high-frequency pace"
+            ],
+            "answer": "Friction the skin over deep structures, keeping fingers and skin moving together",
+            "explanation": "In deep friction massage, the therapist's fingers must grip the skin and slide it directly over underlying structures to break tissue adhesions; sliding over the skin with oil is incorrect."
+        },
+        {
+            "question": "Which of the following is a key anatomical danger zone where deep, forceful massage strokes must be strictly avoided?",
+            "options": [
+                "Gastrocnemius belly",
+                "Upper trapezius ridge",
+                "Carotid triangle (anterior neck)",
+                "Gluteus maximus region"
+            ],
+            "answer": "Carotid triangle (anterior neck)",
+            "explanation": "The anterior cervical carotid triangle contains key vascular and nervous structures, including the carotid artery and sinus, making it a critical danger zone."
+        },
+        {
+            "question": "For a patient presenting with acute, severe congestive heart failure (CHF), performing centripetal massage is avoided because it can:",
+            "options": [
+                "Cause severe skin abrasions",
+                "Trigger hyperactive knee jerk reflexes",
+                "Overload the failing heart by suddenly increasing venous return",
+                "Trigger acute dehydration"
+            ],
+            "answer": "Overload the failing heart by suddenly increasing venous return",
+            "explanation": "Pushing fluid centripitally increases venous blood return, which can overwhelm a failing heart and precipitate acute pulmonary edema."
+        },
+        {
+            "question": "To practice optimal body mechanics, a massage therapist should generate force for deep strokes by:",
+            "options": [
+                "Using only wrist flexor muscle contraction",
+                "Standing in a wide stride stance and shifting weight forward from the pelvis",
+                "Bending forward extensively from the low back",
+                "Hyper-extending the elbows completely"
+            ],
+            "answer": "Standing in a wide stride stance and shifting weight forward from the pelvis",
+            "explanation": "Therapists must generate force by shifting their overall body weight from their pelvic center, which protects their arm and wrist joints from strain."
+        },
+        {
+            "question": "Prior to starting any massage session, what is the primary purpose of performing a skin inspection?",
+            "options": [
+                "To check if the patient has a tan",
+                "To identify local contraindications such as infections, wounds, or rashes",
+                "To measure subcutaneous fat thickness",
+                "To choose between oil and cream media"
+            ],
+            "answer": "To identify local contraindications such as infections, wounds, or rashes",
+            "explanation": "A thorough skin inspection is essential to identify local contraindications like cuts, burns, or infectious rashes that require local modifications for safety."
+        },
+        {
+            "question": "Which massage stroke is typically used to conclude a therapeutic massage session, soothing the patient and drying excess lubricant?",
+            "options": [
+                "Hacking tapotement",
+                "Deep transverse friction",
+                "Light centripetal effleurage",
+                "Intense muscular wringing"
+            ],
+            "answer": "Light centripetal effleurage",
+            "explanation": "Sessions typically close with light, soothing effleurage to ease the nervous system, followed by removal of excess medium with a dry towel."
+        },
+        {
+            "question": "The mechanical mobilization of venous blood and lymph by massage strokes directly helps to decrease",
+            "options": [
+                "Systemic metabolic acidosis",
+                "Localized inflammatory edema and swelling",
+                "Goniometric joint angles",
+                "Cardiorespiratory vital capacity"
+            ],
+            "answer": "Localized inflammatory edema and swelling",
+            "explanation": "Massage physically compresses blood and lymph vessels, encouraging the flow of interstitial fluid and directly reducing swelling."
+        },
+        {
+            "question": "Which of the following sub-techniques of petrissage involves grasping tissues with both hands and twisting them in opposite directions?",
+            "options": [
+                "Kneading",
+                "Wringing",
+                "Skin rolling",
+                "Picking up"
+            ],
+            "answer": "Wringing",
+            "explanation": "Wringing is a petrissage compression manipulation where muscles are lifted and wrung between both hands moving in opposite directions."
+        },
+        {
+            "question": "Deep friction massage applied perpendicular to fibers is highly indicated for treating which of the following conditions?",
+            "options": [
+                "Acute skin burns",
+                "Chronic bicipital tendinitis/tendinopathy",
+                "Septic joint arthritis",
+                "Acute muscle trigger point spasticity"
+            ],
+            "answer": "Chronic bicipital tendinitis/tendinopathy",
+            "explanation": "Deep transverse friction is widely indicated for chronic tendon pathologies to mobilize adhesions and align new collagen."
+        },
+        {
+            "question": "What is the primary function of professional drapes (towels and linens) during a therapeutic massage session?",
+            "options": [
+                "To clean up spilled massage oils",
+                "To maintain joint range of motion",
+                "To preserve patient modesty, keep them warm, and support psychological comfort",
+                "To cover up goniometric landmarks"
+            ],
+            "answer": "To preserve patient modesty, keep them warm, and support psychological comfort",
+            "explanation": "Sufficient draping is vital to protect patient modesty, assure thermal warmth, and build the physical trust needed for complete relaxation."
+        },
+        {
+            "question": "How should a massage therapist prepare a therapeutic oil medium before applying it to a patient's back?",
+            "options": [
+                "Pour cold oil directly onto the patient's skin",
+                "Heat the oil to boiling temperatures in a microwave",
+                "Warm the lubricant by rubbing it between the therapist's own palms",
+                "Dilute the oil with sterile water"
+            ],
+            "answer": "Warm the lubricant by rubbing it between the therapist's own palms",
+            "explanation": "Lubricants should always be warmed in the therapist's palms first to prevent an unpleasant, sudden cold shock response, which causes muscle guarding."
+        },
+        {
+            "question": "The clinical term 'tapotement' is derived from a French root meaning:",
+            "options": [
+                "To knead deeply",
+                "To sweep or stroke",
+                "To tap or strike rhythmically",
+                "To vibrate gently"
+            ],
+            "answer": "To tap or strike rhythmically",
+            "explanation": "Tapotement originates from the French 'taper', which translates to hitting, tapping, or percussion striking."
+        },
+        {
+            "question": "A localized hyperirritable spot within a taut band of skeletal muscle that refers pain is known as a:",
+            "options": [
+                "Tendon sheath adhesion",
+                "Trigger point",
+                "Fibrocystic nodule",
+                "Subluxation axis"
+            ],
+            "answer": "Trigger point",
+            "explanation": "Myofascial trigger points are highly tender spots within taut bands of muscle that refer pain to predictable anatomical regions under pressure."
+        },
+        {
+            "question": "Which massage strokes should be avoided over a patient with a hyperactive spastic hemiplegic limb, to prevent worsening spasticity?",
+            "options": [
+                "Light effleurage",
+                "Brisk, rhythmic tapotement (percussion)",
+                "Sustained diagonal compression",
+                "Gentle circular stroking"
+            ],
+            "answer": "Brisk, rhythmic tapotement (percussion)",
+            "explanation": "Brisk tapping or percussion strikes can stimulate hyper-excitable muscle spindles, triggering stretch reflexes and worsening spastic tone."
+        },
+        {
+            "question": "What type of muscle contraction occurs in the therapist's forearms to stabilize their hands during sustained ischemic compression treatment?",
+            "options": [
+                "Eccentric lengthening",
+                "Dynamic concentric work",
+                "Static isometric contraction",
+                "Isokinetic acceleration"
+            ],
+            "answer": "Static isometric contraction",
+            "explanation": "Sustaining direct holding pressure on a trigger point involves isometric contraction of the therapist's forearm and hand musculature."
+        },
+        {
+            "question": "Which of the following is considered a key local contraindication for therapeutic massage of the ankle region?",
+            "options": [
+                "Unremarkable chronic ankle sprain",
+                "Active, localized bacterial skin infection (cellulitis)",
+                "History of ankle reconstruction 5 years ago",
+                "Unremarkable plantar fascia soreness"
+            ],
+            "answer": "Active, localized bacterial skin infection (cellulitis)",
+            "explanation": "Massaging over local cellulitis can spread the bacterial infection to deeper tissues and the bloodstream, making it a strict local contraindication."
+        },
+        {
+            "question": "An anatomical region containing superficial nerves or blood vessels that can be damaged by deep massage is termed an:",
+            "options": [
+                "Adhesion plane",
+                "Anatomical danger zone (endangerment site)",
+                "Active trigger point area",
+                "Ischemic compartment"
+            ],
+            "answer": "Anatomical danger zone (endangerment site)",
+            "explanation": "Endangerment sites contain fragile nerves, blood vessels, or glands close to the surface, demanding extreme caution or avoidance during deep massage."
+        },
+        {
+            "question": "Which of the following is a key physiological effect of massage on the respiratory system?",
+            "options": [
+                "Increasing lung vital capacity directly",
+                "Helping to mobilize and clear bronchial secretions using chest clapping",
+                "Accelerating asthma recovery instantly",
+                "Decompressing the intercostal joint capsules"
+            ],
+            "answer": "Helping to mobilize and clear bronchial secretions using chest clapping",
+            "explanation": "Physical chest percussion (cupped-hand clapping) creates resonance waves that loosen sticky mucus from bronchial walls, facilitating expectoration."
+        },
+        {
+            "question": "Which sub-techniques are categorized under classification of 'Petrissage'?",
+            "options": [
+                "Hacking and clapping",
+                "Circular and longitudinal sliding strokes",
+                "Kneading, wringing, rolling, and picking up",
+                "Fine fine shaking vibrations"
+            ],
+            "answer": "Kneading, wringing, rolling, and picking up",
+            "explanation": "Petrissage is an umbrella group containing dynamic tissue compressions, notably kneading, wringing, skin rolling, and muscle picking up."
+        },
+        {
+            "question": "Deep transverse friction massage is also widely referred to in clinical literature as:",
+            "options": [
+                "Swedish massage friction",
+                "Cyriax friction",
+                "Myofascial trigger compression",
+                "Tappan vibration"
+            ],
+            "answer": "Cyriax friction",
+            "explanation": "Deep transverse friction was developed and popularized by Dr. James Cyriax, hence the name Cyriax friction."
+        },
+        {
+            "question": "To perform massage safely on a patient with fragile, thin skin (such as an elderly patient on anticoagulants), the therapist should:",
+            "options": [
+                "Apply deep petrissage to build tissue thickness",
+                "Use light effleurage strokes with careful monitoring, avoiding deep friction",
+                "Replace the massage medium with a dry powder",
+                "Avoid all skin contact completely"
+            ],
+            "answer": "Use light effleurage strokes with careful monitoring, avoiding deep friction",
+            "explanation": "Fragile skin is vulnerable to bruising and tears; the therapist should modify pressure to light effleurage and closely monitor skin changes."
+        },
+        {
+            "question": "Which mechanical stroke serves to mobilize superficial tissues over deeper layers and is performed without any medium to allow maximum grip?",
+            "options": [
+                "Skin rolling",
+                "Gliding effleurage",
+                "Hacking percussion",
+                "Vibrational shaking"
+            ],
+            "answer": "Skin rolling",
+            "explanation": "Skin rolling is a petrissage technique where skin is gripped and rolled over deep structures, requiring sufficient skin grip, which is lost if excess oil is used."
+        },
+        {
+            "question": "Which of the following is a mechanical effect of deep massage on the muscle tissues?",
+            "options": [
+                "Facilitating metabolic lactic acid synthesis",
+                "Breaking up microscopic cross-links and soft tissue adhesions",
+                "Decreasing motor unit recruiting rates",
+                "Decompressing the vestibular mechanoreceptors"
+            ],
+            "answer": "Breaking up microscopic cross-links and soft tissue adhesions",
+            "explanation": "Manual deep tissue work mechanically shears and stretches microscopic cross-links and adhesions, improving muscle fiber glide."
+        },
+        {
+            "question": "A patient with a history of nut allergies requires massage. What precautions should the physical therapist take regarding lubricants?",
+            "options": [
+                "Use standard cold-pressed almond oil anyway",
+                "Perform the massage without any lubricant",
+                "Use a hypoallergenic mineral oil or synthetic lotion cream",
+                "Apply local anesthetics instead"
+            ],
+            "answer": "Use a hypoallergenic mineral oil or synthetic lotion cream",
+            "explanation": "To prevent allergic reactions, therapists should use a hypoallergenic synthetic lotion or mineral oil, avoiding nut-based products (like almond or peanut oils)."
+        },
+        {
+            "question": "The rhythm of a therapeutic massage stroke designed to produce a sedating, relaxing effect should be:",
+            "options": [
+                "Extremely rapid and unpredictable",
+                "Slow, rhythmic, and continuous",
+                "Brisk and percussive",
+                "Intermittent with sudden deep thrusts"
+            ],
+            "answer": "Slow, rhythmic, and continuous",
+            "explanation": "Slow, rhythmic, and continuous strokes (especially effleurage and gentle kneading) soothe the nervous system, promoting reflex relaxation."
+        }
     ],
-    "local": [
-      "Avoid massaging areas with active open wounds, acute burns, local abscesses, or unknown skin lesions.",
-      "Do not perform deep massage over acute, unstable bone fractures or acute local joint infections."
-    ]
-  },
-  "technique": {
-    "patientPreparation": [
-      "Explain the massage goals and the need for skin exposure, obtaining informed consent before proceeding.",
-      "Assist the patient onto the massage table and place bolsters (e.g. under the ankles in prone) to ensure total muscle relaxation.",
-      "Drape the patient professional with towels, exposing only the target region."
-    ],
-    "apparatusPreparation": [
-      "Adjust the height of the massage table so the therapist's hands rest level with their hips, enabling efficient body-weight transfer.",
-      "Warm the therapeutic medium in your hands before applying it to the patient's skin."
-    ],
-    "skinPreparation": [
-      "Inspect the skin area thoroughly for acute cuts, bruises, infections, or severe local varicose veins."
-    ],
-    "electrodePlacement": [],
-    "treatmentProcedure": [
-      "Apply warmed medium with light, sweeping effleurage to distribute the lubricant and help the patient adapt to your touch.",
-      "Progress to petrissage manipulations, using kneading, wringing, or rolling strokes to address deep musculature.",
-      "If treating chronic tendon lesions, apply transverse friction strokes with deep fingertip pressure perpendicular to fibers.",
-      "Conclude the session with light, soothing effleurage directed centripitally, then dry excess oil from the skin."
-    ]
-  },
-  "precautions": [
-    "Avoid applying heavy downward pressure over anatomical danger zones, including the anterior neck (carotid triangle), axial fossa, cubital fossa, and popliteal fossa.",
-    "Ensure client comfort and respect boundaries throughout the session."
-  ],
-  "clinicalPearls": [
-    "Effleurage is the most vital introductory and concluding massage stroke. It serves as an exploratory tool to evaluate tissue temperature, texture, and muscle wrapping, while preparing the patient's nervous system for deeper work.",
-    "Deep transverse friction (Cyriax) is highly uncomfortable but effective. Educate the patient that the localized friction is designed to restart the inflammatory response in chronic, stalled tendonitis (tendinosis), helping to break down disorganized scar tissue and promote healthy collagen repair.",
-    "Therapist longevity is built on body mechanics. Never use 'thumb-only' pressure for deep work; instead, back your thumb with your fingers and shift your whole body weight from your pelvis to project force, sparing your small joints from overuse injury."
-  ],
-  "clinicalProtocols": [
-    {
-      "condition": "Chronic Achilles Tendinopathy",
-      "position": "Prone on table with feet hanging off the edge to put the tendon in minor stretch",
-      "electrodePlacement": "",
-      "frequency": "Perform for 5 to 10 minutes, 3 times weekly",
-      "purpose": "Apply localized deep transverse cross-friction perpendicular to the Achilles tendon fibers to break up scar tissue adhesions and align collagen fibrils"
-    }
-  ],
-  "vivaQuestions": [
-    "Question: Define therapeutic massage and classify its primary manual manipulations. | Answer: Therapeutic massage is the systematic, scientific manual manipulation of the body's soft tissues for healing and health promotion. Its primary manipulations are classified into five major groups: 1) Stroking (Effleurage), 2) Compression (Petrissage, which includes kneading, squeezing, rolling, and wringing), 3) Percussion (Tapotement, which includes hacking, clapping, beating, and tapping), 4) Deep Friction (circular and transverse), and 5) Shaking and Vibrations. | Examiner Key Points: Accurate scientific definition, list of all five major classes, sub-strokes of each. | Clinical Importance: Establishes a standard professional taxonomy to design and log clinical massage interventions."
-  ],
-  "mcqs": [
-    {
-      "question": "Which major class of therapeutic massage features slow, rhythmic, sweeping strokes directed towards the heart?",
-      "options": [
-        "Petrissage",
-        "Effleurage",
-        "Tapotement",
-        "Transverse Friction"
-      ],
-      "answer": "Effleurage",
-      "explanation": "Effleurage is a rhythmic stroking manipulation that must always follow a centripetal direction to support venous and lymphatic drainage back to the heart."
-    }
-  ],
-  "vivaQuestions_upgraded": [
-    "Question: Explain the physiological differences between the mechanical and reflex effects of therapeutic massage. | Answer: Mechanical effects are produced by direct physical forces applied to tissues: compressing veins to speed venous return, mobilizing stagnant lymph to reduce swelling, stretching muscle fibers, and mechanically breaking down scar tissue adhesions. Reflex effects are mediated by the nervous system: stimulating cutaneous tactile receptors to decrease sympathetic arousal, trigger vasodilating reflexes, and block pain pathways (via the gate control theory) in the spinal cord, leading to system-wide relaxation. | Examiner Key Points: Mechanical (direct force, fluid/tissue mobility) vs Reflex (neural network, autonomic shifts, pain gate) differences. | Clinical Importance: Helps therapists select specific strokes (such as light effleurage for reflex pain relief vs deep petrissage for mechanical tissue mobility).",
-    "Question: Differentiate clearly between the techniques and clinical purposes of Effleurage and Petrissage. | Answer: Effleurage consists of slow, light-to-moderate pressure sweeping strokes over large surface areas using flat hands directed centripetally. Its purpose is to spread oil, evaluate tissues, promote venous/lymph return, and relax the patient. Petrissage consists of deep compression manipulations (kneading, rolling, wringing, picking up) that compress and distort muscle tissue. Its purpose is to mobilize restricted muscle fibers, release deep adhesions, and increase arterial microcirculation. | Examiner Key Points: Light flat-hand strokes vs deep twisting tissue compression, distinct physiological therapeutic targets. | Clinical Importance: Establishes the progression of a session, starting with effleurage and moving deeper with petrissage.",
-    "Question: Under what conditions is a centripetal massage stroke strictly contraindicated, and why? | Answer: Centripetal massage strokes (which push fluids toward the heart) are strictly contraindicated in: 1) Acute deep vein thrombosis (DVT) or thrombophlebitis, because the mechanical stroke could dislodge a thrombus, causing a fatal pulmonary embolism, 2) Severe, unmanaged Congestive Heart Failure (CHF), because promoting fluid return could overload the ventricles and cause acute pulmonary edema, and 3) Acute local cellulitis or skin infections, to prevent spreading the pathogen into the systemic circulation. | Examiner Key Points: DVT embolization risk, CHF fluid overload physics, septic infection spread pathways. | Clinical Importance: Essential safety screens that prevent life-threatening complications during physical therapy.",
-    "Question: What is deep transverse friction massage (Cyriax method) and what are its mechanical goals? | Answer: Deep transverse friction is a localized, deep massage technique applied perpendicular (transverse) to the longitudinal direction of tendon, ligament, or muscle fibers using a finger or thumb. Its mechanical goals are: 1) To prevent or break up pathological scar tissue adhesions between fibers, 2) To stimulate local hyperemia and restart healing in chronic stalled inflammatory lesions, and 3) To help align newly synthesized collagen fibers along functional stress lines. | Examiner Key Points: Deep perpendicular application, fiber friction, tendon/ligament targets, scar tissue reduction. | Clinical Importance: Used as a primary non-surgical intervention for supraspinatus, tennis elbow, and Achilles tendinopathy.",
-    "Question: Define Tapotement and list its common sub-techniques. When is tapotement clinically indicated or avoided? | Answer: Tapotement consists of rapid, alternating brisk striking movements applied to tissues. Sub-techniques include: Hacking (using the ulnar border of the hand), Clapping (using cupped hands), Beating/Pounding (using loosely closed fists), and Tapping (using fingertips). It is indicated for: 1) Stimulating sluggish muscles, 2) Improving local skin perfusion, and 3) Expectorating secretions in chest physical therapy (cupping). It is avoided over spastic muscles (as it triggers the stretch reflex, worsening spasm), bone prominences, and acute injuries. | Examiner Key Points: Alternating brisk strikes, hacking/clapping/beating sub-classes, chest therapy, avoidance in spastic limbs. | Clinical Importance: Restores lung hygiene in cystic fibrosis while stimulating muscle tone in flaccid hemiplegic limb arcs.",
-    "Question: Explain the importance of therapist body mechanics during massage and describe three key posture rules. | Answer: Proper body mechanics are vital to protect the therapist from chronic muscle fatigue and repetitive joint injuries (such as thumb or wrist arthritis). Three key posture rules are: 1) Maintain a wide, stable stride stance with knees slightly bent, 2) Keep the spine in neutral vertical alignment, avoiding excessive forward trunk bending from the waist, and 3) Shift your body weight forward from the back foot and pelvis to apply stroke pressure, rather than relying solely on shoulder or hand muscular strength. | Examiner Key Points: Ergonomic injury prevention, wide stride base, pelvic weight transfer, avoiding wrist hyper-flexion. | Clinical Importance: Doubles the clinical longevity of a practicing massage therapist by preventing musculoskeletal burnout.",
-    "Question: What are the primary rules for inspecting skin and draping patients prior to initiating soft-tissue massage? | Answer: Prior to massage, the therapist must: 1) Inspect the skin thoroughly under good lighting for open wounds, deep rashes, bruising, active infections, or severe varicose veins, which are local contraindications, and 2) Ensure professional draping by covering the patient with clean towels or linens, uncovering only the specific anatomical area being massaged. Draping preserves the patient's modesty, maintains body warmth, and provides a secure, therapeutic environment. | Examiner Key Points: Skin inspection checklist, local infection checks, modular towel drapes, patient modesty/warmth. | Clinical Importance: Protects the patient from cross-contamination and builds a trust-based clinical setting.",
-    "Question: Discuss the indications, techniques, and precautions of using massage media (lubricants) in clinical practice. | Answer: Massage media (oils, creams, powders, or gels) are indicated to reduce skin friction, allowing the therapist's hands to slide smoothly over tissues without causing pain or epidermal abrasions. Techniques include: using hypoallergenic, fragrance-free products and always warming the medium in your hands before contact. Precautions include: checking for history of nut or skin allergies, avoiding excessive oil which prevents deep tissue grip during petrissage, and drying the patient's skin with a towel after treatment. | Examiner Key Points: Friction reduction, warming lubricant, allergy checks, adjusting oil amount for grip. | Clinical Importance: Enhances client comfort and lets therapists transition smoothly between light and deep maneuvers.",
-    "Question: What is a trigger point, and how does the therapist locate and treat it using manual ischemic compression? | Answer: A trigger point is a hyperirritable focus within a tight band of skeletal muscle fiber, which is painful on compression and can refer pain, tenderness, and autonomic phenomena to distant areas. The therapist locates it by passing their fingers perpendicular across muscles to find a taut band and a highly tender nodule. Treatment involves applying sustained, direct digital pressure (ischemic compression) for 30 to 90 seconds until the trigger point releases and referred pain subsides. | Examiner Key Points: Myofascial hyperirritable spot, taut band search, ischemic compression process, referred pain patterns. | Clinical Importance: Key skill for resolving chronic neck pain, headaches, and low-back myofascial restrictions."
-  ],
-  "mcqs": [
-    {
-      "question": "Which massage manipulation involves squeezing, rolling, kneading, and lifting muscle tissue dynamically?",
-      "options": [
-        "Effleurage",
-        "Petrissage",
-        "Tapotement",
-        "Vibration"
-      ],
-      "answer": "Petrissage",
-      "explanation": "Petrissage involves various compression strokes like kneading, lifting, and squeezing to address deep muscle layers."
-    },
-    {
-      "question": "Which of the following is an absolute, general contraindication for performing centripetal massage strokes?",
-      "options": [
-        "Chronic muscular neck tension",
-        "Acute deep vein thrombosis (DVT)",
-        "Subacute ankle sprain",
-        "Chronic tension headaches"
-      ],
-      "answer": "Acute deep vein thrombosis (DVT)",
-      "explanation": "Centripetal massage is strictly contraindicated in acute DVT because the physical pressure could dislodge the blood clot, leading to a life-threatening pulmonary embolism."
-    },
-    {
-      "question": "Which massage technique applies friction perpendicularly across the longitudinal orientation of tendon or ligament fibers?",
-      "options": [
-        "Effleurage",
-        "Deep transverse friction (Cyriax method)",
-        "Hacking tapotement",
-        "Skin rolling petrissage"
-      ],
-      "answer": "Deep transverse friction (Cyriax method)",
-      "explanation": "Deep transverse friction is applied perpendicular (at right angles) to the direction of target fibers to mobilize scar tissue and help align collagen fibrils."
-    },
-    {
-      "question": "What is the primary reflex physiological effect of light, soothing effleurage massage on the autonomic nervous system?",
-      "options": [
-        "Stimulates sympathetic flight responses",
-        "Triggers rapid musculoskeletal stretch reflexes",
-        "Shifts the balance towards parasympathetic relaxation",
-        "Increases dynamic alpha motor neuron output"
-      ],
-      "answer": "Shifts the balance towards parasympathetic relaxation",
-      "explanation": "Light effleurage stimulates low-threshold cutaneous mechanoreceptors, which triggers reflex parasympathetic dominance, lowering heart rate and relaxing the patient."
-    },
-    {
-      "question": "Which tapotement sub-technique is executed with fingers and hands curved to form a pocket, creating a hollow, popping sound upon contact?",
-      "options": [
-        "Hacking",
-        "Clapping (Cupping)",
-        "Pounding",
-        "Tapping"
-      ],
-      "answer": "Clapping (Cupping)",
-      "explanation": "Clapping (or cupping) uses hands shaped like cups to trap air, creating hollow impacts that help mobilize lung secretions."
-    },
-    {
-      "question": "To perform deep transverse or circular friction effectively, which of the following practices should the therapist implement?",
-      "options": [
-        "Apply a large amount of slippery massage oil to slide over the skin",
-        "Ensure the therapist's fingers move over the skin without deep grip",
-        "Friction the skin over deep structures, keeping fingers and skin moving together",
-        "Perform the strokes at a very rapid, high-frequency pace"
-      ],
-      "answer": "Friction the skin over deep structures, keeping fingers and skin moving together",
-      "explanation": "In deep friction massage, the therapist's fingers must grip the skin and slide it directly over underlying structures to break tissue adhesions; sliding over the skin with oil is incorrect."
-    },
-    {
-      "question": "Which of the following is a key anatomical danger zone where deep, forceful massage strokes must be strictly avoided?",
-      "options": [
-        "Gastrocnemius belly",
-        "Upper trapezius ridge",
-        "Carotid triangle (anterior neck)",
-        "Gluteus maximus region"
-      ],
-      "answer": "Carotid triangle (anterior neck)",
-      "explanation": "The anterior cervical carotid triangle contains key vascular and nervous structures, including the carotid artery and sinus, making it a critical danger zone."
-    },
-    {
-      "question": "For a patient presenting with acute, severe congestive heart failure (CHF), performing centripetal massage is avoided because it can:",
-      "options": [
-        "Cause severe skin abrasions",
-        "Trigger hyperactive knee jerk reflexes",
-        "Overload the failing heart by suddenly increasing venous return",
-        "Trigger acute dehydration"
-      ],
-      "answer": "Overload the failing heart by suddenly increasing venous return",
-      "explanation": "Pushing fluid centripitally increases venous blood return, which can overwhelm a failing heart and precipitate acute pulmonary edema."
-    },
-    {
-      "question": "To practice optimal body mechanics, a massage therapist should generate force for deep strokes by:",
-      "options": [
-        "Using only wrist flexor muscle contraction",
-        "Standing in a wide stride stance and shifting weight forward from the pelvis",
-        "Bending forward extensively from the low back",
-        "Hyper-extending the elbows completely"
-      ],
-      "answer": "Standing in a wide stride stance and shifting weight forward from the pelvis",
-      "explanation": "Therapists must generate force by shifting their overall body weight from their pelvic center, which protects their arm and wrist joints from strain."
-    },
-    {
-      "question": "Prior to starting any massage session, what is the primary purpose of performing a skin inspection?",
-      "options": [
-        "To check if the patient has a tan",
-        "To identify local contraindications such as infections, wounds, or rashes",
-        "To measure subcutaneous fat thickness",
-        "To choose between oil and cream media"
-      ],
-      "answer": "To identify local contraindications such as infections, wounds, or rashes",
-      "explanation": "A thorough skin inspection is essential to identify local contraindications like cuts, burns, or infectious rashes that require local modifications for safety."
-    },
-    {
-      "question": "Which massage stroke is typically used to conclude a therapeutic massage session, soothing the patient and drying excess lubricant?",
-      "options": [
-        "Hacking tapotement",
-        "Deep transverse friction",
-        "Light centripetal effleurage",
-        "Intense muscular wringing"
-      ],
-      "answer": "Light centripetal effleurage",
-      "explanation": "Sessions typically close with light, soothing effleurage to ease the nervous system, followed by removal of excess medium with a dry towel."
-    },
-    {
-      "question": "The mechanical mobilization of venous blood and lymph by massage strokes directly helps to decrease",
-      "options": [
-        "Systemic metabolic acidosis",
-        "Localized inflammatory edema and swelling",
-        "Goniometric joint angles",
-        "Cardiorespiratory vital capacity"
-      ],
-      "answer": "Localized inflammatory edema and swelling",
-      "explanation": "Massage physically compresses blood and lymph vessels, encouraging the flow of interstitial fluid and directly reducing swelling."
-    },
-    {
-      "question": "Which of the following sub-techniques of petrissage involves grasping tissues with both hands and twisting them in opposite directions?",
-      "options": [
-        "Kneading",
-        "Wringing",
-        "Skin rolling",
-        "Picking up"
-      ],
-      "answer": "Wringing",
-      "explanation": "Wringing is a petrissage compression manipulation where muscles are lifted and wrung between both hands moving in opposite directions."
-    },
-    {
-      "question": "Deep friction massage applied perpendicular to fibers is highly indicated for treating which of the following conditions?",
-      "options": [
-        "Acute skin burns",
-        "Chronic bicipital tendinitis/tendinopathy",
-        "Septic joint arthritis",
-        "Acute muscle trigger point spasticity"
-      ],
-      "answer": "Chronic bicipital tendinitis/tendinopathy",
-      "explanation": "Deep transverse friction is widely indicated for chronic tendon pathologies to mobilize adhesions and align new collagen."
-    },
-    {
-      "question": "What is the primary function of professional drapes (towels and linens) during a therapeutic massage session?",
-      "options": [
-        "To clean up spilled massage oils",
-        "To maintain joint range of motion",
-        "To preserve patient modesty, keep them warm, and support psychological comfort",
-        "To cover up goniometric landmarks"
-      ],
-      "answer": "To preserve patient modesty, keep them warm, and support psychological comfort",
-      "explanation": "Sufficient draping is vital to protect patient modesty, assure thermal warmth, and build the physical trust needed for complete relaxation."
-    },
-    {
-      "question": "How should a massage therapist prepare a therapeutic oil medium before applying it to a patient's back?",
-      "options": [
-        "Pour cold oil directly onto the patient's skin",
-        "Heat the oil to boiling temperatures in a microwave",
-        "Warm the lubricant by rubbing it between the therapist's own palms",
-        "Dilute the oil with sterile water"
-      ],
-      "answer": "Warm the lubricant by rubbing it between the therapist's own palms",
-      "explanation": "Lubricants should always be warmed in the therapist's palms first to prevent an unpleasant, sudden cold shock response, which causes muscle guarding."
-    },
-    {
-      "question": "The clinical term 'tapotement' is derived from a French root meaning:",
-      "options": [
-        "To knead deeply",
-        "To sweep or stroke",
-        "To tap or strike rhythmically",
-        "To vibrate gently"
-      ],
-      "answer": "To tap or strike rhythmically",
-      "explanation": "Tapotement originates from the French 'taper', which translates to hitting, tapping, or percussion striking."
-    },
-    {
-      "question": "A localized hyperirritable spot within a taut band of skeletal muscle that refers pain is known as a:",
-      "options": [
-        "Tendon sheath adhesion",
-        "Trigger point",
-        "Fibrocystic nodule",
-        "Subluxation axis"
-      ],
-      "answer": "Trigger point",
-      "explanation": "Myofascial trigger points are highly tender spots within taut bands of muscle that refer pain to predictable anatomical regions under pressure."
-    },
-    {
-      "question": "Which massage strokes should be avoided over a patient with a hyperactive spastic hemiplegic limb, to prevent worsening spasticity?",
-      "options": [
-        "Light effleurage",
-        "Brisk, rhythmic tapotement (percussion)",
-        "Sustained diagonal compression",
-        "Gentle circular stroking"
-      ],
-      "answer": "Brisk, rhythmic tapotement (percussion)",
-      "explanation": "Brisk tapping or percussion strikes can stimulate hyper-excitable muscle spindles, triggering stretch reflexes and worsening spastic tone."
-    },
-    {
-      "question": "What type of muscle contraction occurs in the therapist's forearms to stabilize their hands during sustained ischemic compression treatment?",
-      "options": [
-        "Eccentric lengthening",
-        "Dynamic concentric work",
-        "Static isometric contraction",
-        "Isokinetic acceleration"
-      ],
-      "answer": "Static isometric contraction",
-      "explanation": "Sustaining direct holding pressure on a trigger point involves isometric contraction of the therapist's forearm and hand musculature."
-    },
-    {
-      "question": "Which of the following is considered a key local contraindication for therapeutic massage of the ankle region?",
-      "options": [
-        "Unremarkable chronic ankle sprain",
-        "Active, localized bacterial skin infection (cellulitis)",
-        "History of ankle reconstruction 5 years ago",
-        "Unremarkable plantar fascia soreness"
-      ],
-      "answer": "Active, localized bacterial skin infection (cellulitis)",
-      "explanation": "Massaging over local cellulitis can spread the bacterial infection to deeper tissues and the bloodstream, making it a strict local contraindication."
-    },
-    {
-      "question": "An anatomical region containing superficial nerves or blood vessels that can be damaged by deep massage is termed an:",
-      "options": [
-        "Adhesion plane",
-        "Anatomical danger zone (endangerment site)",
-        "Active trigger point area",
-        "Ischemic compartment"
-      ],
-      "answer": "Anatomical danger zone (endangerment site)",
-      "explanation": "Endangerment sites contain fragile nerves, blood vessels, or glands close to the surface, demanding extreme caution or avoidance during deep massage."
-    },
-    {
-      "question": "Which of the following is a key physiological effect of massage on the respiratory system?",
-      "options": [
-        "Increasing lung vital capacity directly",
-        "Helping to mobilize and clear bronchial secretions using chest clapping",
-        "Accelerating asthma recovery instantly",
-        "Decompressing the intercostal joint capsules"
-      ],
-      "answer": "Helping to mobilize and clear bronchial secretions using chest clapping",
-      "explanation": "Physical chest percussion (cupped-hand clapping) creates resonance waves that loosen sticky mucus from bronchial walls, facilitating expectoration."
-    },
-    {
-      "question": "Which sub-techniques are categorized under classification of 'Petrissage'?",
-      "options": [
-        "Hacking and clapping",
-        "Circular and longitudinal sliding strokes",
-        "Kneading, wringing, rolling, and picking up",
-        "Fine fine shaking vibrations"
-      ],
-      "answer": "Kneading, wringing, rolling, and picking up",
-      "explanation": "Petrissage is an umbrella group containing dynamic tissue compressions, notably kneading, wringing, skin rolling, and muscle picking up."
-    },
-    {
-      "question": "Deep transverse friction massage is also widely referred to in clinical literature as:",
-      "options": [
-        "Swedish massage friction",
-        "Cyriax friction",
-        "Myofascial trigger compression",
-        "Tappan vibration"
-      ],
-      "answer": "Cyriax friction",
-      "explanation": "Deep transverse friction was developed and popularized by Dr. James Cyriax, hence the name Cyriax friction."
-    },
-    {
-      "question": "To perform massage safely on a patient with fragile, thin skin (such as an elderly patient on anticoagulants), the therapist should:",
-      "options": [
-        "Apply deep petrissage to build tissue thickness",
-        "Use light effleurage strokes with careful monitoring, avoiding deep friction",
-        "Replace the massage medium with a dry powder",
-        "Avoid all skin contact completely"
-      ],
-      "answer": "Use light effleurage strokes with careful monitoring, avoiding deep friction",
-      "explanation": "Fragile skin is vulnerable to bruising and tears; the therapist should modify pressure to light effleurage and closely monitor skin changes."
-    },
-    {
-      "question": "Which mechanical stroke serves to mobilize superficial tissues over deeper layers and is performed without any medium to allow maximum grip?",
-      "options": [
-        "Skin rolling",
-        "Gliding effleurage",
-        "Hacking percussion",
-        "Vibrational shaking"
-      ],
-      "answer": "Skin rolling",
-      "explanation": "Skin rolling is a petrissage technique where skin is gripped and rolled over deep structures, requiring sufficient skin grip, which is lost if excess oil is used."
-    },
-    {
-      "question": "Which of the following is a mechanical effect of deep massage on the muscle tissues?",
-      "options": [
-        "Facilitating metabolic lactic acid synthesis",
-        "Breaking up microscopic cross-links and soft tissue adhesions",
-        "Decreasing motor unit recruiting rates",
-        "Decompressing the vestibular mechanoreceptors"
-      ],
-      "answer": "Breaking up microscopic cross-links and soft tissue adhesions",
-      "explanation": "Manual deep tissue work mechanically shears and stretches microscopic cross-links and adhesions, improving muscle fiber glide."
-    },
-    {
-      "question": "A patient with a history of nut allergies requires massage. What precautions should the physical therapist take regarding lubricants?",
-      "options": [
-        "Use standard cold-pressed almond oil anyway",
-        "Perform the massage without any lubricant",
-        "Use a hypoallergenic mineral oil or synthetic lotion cream",
-        "Apply local anesthetics instead"
-      ],
-      "answer": "Use a hypoallergenic mineral oil or synthetic lotion cream",
-      "explanation": "To prevent allergic reactions, therapists should use a hypoallergenic synthetic lotion or mineral oil, avoiding nut-based products (like almond or peanut oils)."
-    },
-    {
-      "question": "The rhythm of a therapeutic massage stroke designed to produce a sedating, relaxing effect should be:",
-      "options": [
-        "Extremely rapid and unpredictable",
-        "Slow, rhythmic, and continuous",
-        "Brisk and percussive",
-        "Intermittent with sudden deep thrusts"
-      ],
-      "answer": "Slow, rhythmic, and continuous",
-      "explanation": "Slow, rhythmic, and continuous strokes (especially effleurage and gentle kneading) soothe the nervous system, promoting reflex relaxation."
-    }
-  ],
-  "reference": [
-    "Fritz - Mosby's Fundamentals of Therapeutic Massage, 6th Edition",
-    "Tappan & Benjamin - Tappan's Handbook of Healing Massage Therapy, 5th Edition",
-    "Dena Gardiner - The Principles of Exercise Therapy, 4th Edition"
-  ]
+    "viva": [],
+    "flashcards": [],
+    "references": []
 }

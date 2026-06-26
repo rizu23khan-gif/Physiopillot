@@ -1,0 +1,1063 @@
+[
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch1",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch2",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "normalized formatting only",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 10,
+      "normalized formatting only": 1,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch3",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "normalized formatting only",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 10,
+      "normalized formatting only": 1,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch4",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "normalized formatting only",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 10,
+      "normalized formatting only": 1,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch5",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "normalized formatting only",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 10,
+      "normalized formatting only": 1,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch6",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "normalized formatting only",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 10,
+      "normalized formatting only": 1,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch7",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch8",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch9",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch10",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch11",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch12",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch13",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch14",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch15",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch16",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch17",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch18",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch19",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch20",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch21",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch22",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch23",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch24",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch25",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch26",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch27",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch28",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch29",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch30",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch31",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch32",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch33",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Anatomy",
+    "chapterId": "anat_ch34",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Physiology",
+    "chapterId": "phys_ch4",
+    "fields_comparison": {
+      "metadata": "newly generated",
+      "chapterId": "preserved exactly",
+      "chapterName": "normalized formatting only",
+      "subject": "preserved exactly",
+      "definition": "normalized formatting only",
+      "principle": "normalized formatting only",
+      "equipment": "normalized formatting only",
+      "indications": "preserved exactly",
+      "precautions": "preserved exactly",
+      "clinicalPearls": "preserved exactly",
+      "clinicalProtocols": "preserved exactly",
+      "contraindications": "preserved exactly",
+      "technique": "preserved exactly",
+      "physiologicalEffects": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "vivaQuestions": "normalized formatting only",
+      "reference": "normalized formatting only"
+    },
+    "counts": {
+      "preserved exactly": 10,
+      "normalized formatting only": 6,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 1
+    },
+    "fidelity_percentage": 94.11764705882352
+  },
+  {
+    "subject": "Electrotherapy I",
+    "chapterId": "el1_ch1",
+    "fields_comparison": {
+      "metadata": "newly generated",
+      "chapterId": "preserved exactly",
+      "chapterName": "normalized formatting only",
+      "subject": "preserved exactly",
+      "definition": "normalized formatting only",
+      "principle": "normalized formatting only",
+      "equipment": "normalized formatting only",
+      "indications": "preserved exactly",
+      "precautions": "preserved exactly",
+      "clinicalPearls": "preserved exactly",
+      "clinicalProtocols": "preserved exactly",
+      "contraindications": "preserved exactly",
+      "technique": "preserved exactly",
+      "physiologicalEffects": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "vivaQuestions": "normalized formatting only",
+      "reference": "normalized formatting only"
+    },
+    "counts": {
+      "preserved exactly": 10,
+      "normalized formatting only": 6,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 1
+    },
+    "fidelity_percentage": 94.11764705882352
+  },
+  {
+    "subject": "Electrotherapy II",
+    "chapterId": "el2_ch2",
+    "fields_comparison": {
+      "metadata": "newly generated",
+      "chapterId": "preserved exactly",
+      "chapterName": "normalized formatting only",
+      "subject": "preserved exactly",
+      "definition": "normalized formatting only",
+      "principle": "normalized formatting only",
+      "equipment": "normalized formatting only",
+      "indications": "preserved exactly",
+      "precautions": "preserved exactly",
+      "clinicalPearls": "preserved exactly",
+      "clinicalProtocols": "preserved exactly",
+      "contraindications": "preserved exactly",
+      "technique": "preserved exactly",
+      "physiologicalEffects": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "vivaQuestions": "normalized formatting only",
+      "reference": "normalized formatting only"
+    },
+    "counts": {
+      "preserved exactly": 10,
+      "normalized formatting only": 6,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 1
+    },
+    "fidelity_percentage": 94.11764705882352
+  },
+  {
+    "subject": "Biomechanics",
+    "chapterId": "bio_ch1",
+    "fields_comparison": {
+      "metadata": "preserved exactly",
+      "references": "preserved exactly",
+      "learningObjectives": "preserved exactly",
+      "flashcards": "preserved exactly",
+      "theory": "preserved exactly",
+      "subjectExtensions": "preserved exactly",
+      "clinicalCorrelations": "preserved exactly",
+      "pyqs": "preserved exactly",
+      "clinicalCases": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "viva": "preserved exactly"
+    },
+    "counts": {
+      "preserved exactly": 11,
+      "normalized formatting only": 0,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 0
+    },
+    "fidelity_percentage": 100.0
+  },
+  {
+    "subject": "Pathology",
+    "chapterId": "path_ch1",
+    "fields_comparison": {
+      "metadata": "newly generated",
+      "chapterId": "preserved exactly",
+      "chapterName": "normalized formatting only",
+      "subject": "preserved exactly",
+      "definition": "normalized formatting only",
+      "principle": "normalized formatting only",
+      "equipment": "normalized formatting only",
+      "indications": "preserved exactly",
+      "precautions": "preserved exactly",
+      "clinicalPearls": "preserved exactly",
+      "clinicalProtocols": "preserved exactly",
+      "contraindications": "preserved exactly",
+      "technique": "preserved exactly",
+      "physiologicalEffects": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "vivaQuestions": "normalized formatting only",
+      "reference": "normalized formatting only"
+    },
+    "counts": {
+      "preserved exactly": 10,
+      "normalized formatting only": 6,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 1
+    },
+    "fidelity_percentage": 94.11764705882352
+  },
+  {
+    "subject": "Pharmacology",
+    "chapterId": "pharm_ch1",
+    "fields_comparison": {
+      "metadata": "newly generated",
+      "chapterId": "preserved exactly",
+      "chapterName": "normalized formatting only",
+      "subject": "preserved exactly",
+      "definition": "normalized formatting only",
+      "principle": "normalized formatting only",
+      "equipment": "normalized formatting only",
+      "indications": "preserved exactly",
+      "precautions": "preserved exactly",
+      "clinicalPearls": "preserved exactly",
+      "clinicalProtocols": "preserved exactly",
+      "contraindications": "preserved exactly",
+      "technique": "preserved exactly",
+      "physiologicalEffects": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "vivaQuestions": "normalized formatting only",
+      "reference": "normalized formatting only"
+    },
+    "counts": {
+      "preserved exactly": 10,
+      "normalized formatting only": 6,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 1
+    },
+    "fidelity_percentage": 94.11764705882352
+  },
+  {
+    "subject": "Microbiology",
+    "chapterId": "micro_ch1",
+    "fields_comparison": {
+      "metadata": "newly generated",
+      "chapterId": "preserved exactly",
+      "chapterName": "normalized formatting only",
+      "subject": "preserved exactly",
+      "definition": "normalized formatting only",
+      "principle": "normalized formatting only",
+      "equipment": "normalized formatting only",
+      "indications": "preserved exactly",
+      "precautions": "preserved exactly",
+      "clinicalPearls": "preserved exactly",
+      "clinicalProtocols": "preserved exactly",
+      "contraindications": "preserved exactly",
+      "technique": "preserved exactly",
+      "physiologicalEffects": "preserved exactly",
+      "mcqs": "preserved exactly",
+      "vivaQuestions": "normalized formatting only",
+      "reference": "normalized formatting only"
+    },
+    "counts": {
+      "preserved exactly": 10,
+      "normalized formatting only": 6,
+      "modified": 0,
+      "lost": 0,
+      "newly generated": 1
+    },
+    "fidelity_percentage": 94.11764705882352
+  }
+]

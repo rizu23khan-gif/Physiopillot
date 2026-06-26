@@ -1,342 +1,373 @@
 {
-  "subject": "Exercise Therapy II",
-  "chapterId": "ex2_ch6",
-  "chapterName": "Peripheral Joint Mobilization",
-  "definition": [
-    "Peripheral Joint Mobilization: Manual therapy techniques consisting of passive, skilled oscillatory or sustained traction forces applied to joint surfaces to restore accessory motion.",
-    "Arthrokinematics: The minute, involuntary movement of joint surfaces relative to one another, comprising roll, glide (slide), and spin.",
-    "Osteokinematics: The visible, voluntary movement of long bony segments in space, described in planes of motion (e.g., flexion, abduction, rotation).",
-    "Roll: Arthrokinematic motion where new points on one moving joint surface contact new points on the opposing stationary joint surface, resembling a tire rolling on asphalt.",
-    "Glide (Slide): Arthrokinematic motion where a single point on one moving joint surface contacts new points on the opposing stationary joint surface, resembling a locked tire skidding on ice.",
-    "Spin: Arthrokinematic motion where a moving joint surface rotates around a stationary longitudinal mechanical axis on the opposing surface, resembling a spinning top.",
-    "Convex-Concave Rule: A biomechanical guideline stating that the direction of accessory glide depends on whether the moving joint surface is convex or concave.",
-    "Open-Packed (Resting) Position: The joint alignment where the joint capsule and ligaments are most relaxed, allowing the greatest amount of accessory joint play with minimum friction.",
-    "Closed-Packed Position: The joint alignment where joint congruence is maximized, the capsule and ligaments are taut, and there is zero physical space for accessory movement.",
-    "Maitland Grade System: A five-grade clinical continuum of passive oscillatory mobilization movements categorized by their amplitude and position within the joint range of motion.",
-    "Kaltenborn Traction System: A three-grade clinical manual sliding system based on progressively taking up periarticular tissue slack and stretching the joint capsule.",
-    "Physiological Motion: Active or passive osteokinematic movement of a bony segment in space (e.g., flexion, extension, abduction) that is under voluntary neuromuscular control and is visible externally. It differs from accessory motion (involuntary arthrokinematics like roll, slide, spin) which cannot be isolated actively by the patient but is biomechanically required for physiological motion. Clinically, goniometry measures physiological motion to map functional range, but joint mobilization targets accessory motion to resolve underlying mechanical blocks.",
-    "Loose-Packed Position: Also known interchangeably as the Open-Packed or Resting Position; the specific joint alignment where joint surface congruency is at its minimum and the surrounding capsule and ligaments are at their maximum physiological slack. Clinically, joint play is maximized in this position, making it the mandatory starting position to evaluate joint mobility, relieve acute pain, and perform initial mobilization glides with minimized articular surface shear or compression.",
-    "Pain-Dominant Condition: A highly irritable, acute or subacute joint pathology (e.g., acute adhesive capsulitis or synovitis) characterized by protective muscle guarding, sleep disruption, and pain elicited before or at the onset of tissue resistance (pain-before-resistance). Clinical guidelines recommend gentle Maitland Grade I and II passive oscillations to gate pain without mechanically stretching sensitive joint tissues.",
-    "Stiffness-Dominant Condition: A chronic, low-irritability joint pathology (e.g., chronic post-immobilization contractures or mature osteoarthritis) where range of motion is primarily restricted by tight capsule-ligamentous structures and pain is only provoked when stretching at the terminal limit of range (resistance-before-pain). Clinical guidelines recommend Maitland Grade III and IV oscillations (or Kaltenborn Grade III traction) to stretch tight tissues and permanently increase range.",
-    "Humeroulnar Joint Mobilization: Manual passive glides applied to the concave trochlear notch of the ulna moving on the convex trochlea of the humerus. Because it follows the concave surface rule, a distal-anterior traction-glide is used to improve elbow flexion, whereas a posterior glide is indicated to improve elbow extension.",
-    "Hip Joint Mobilization: Passive manual forces applied to the convex femoral head within the concave acetabulum of the pelvis. Since it follows the convex surface rule, a posterior glide (with hip flexed) increases flexion and internal rotation, an inferior glide increases flexion and abduction, and lateral distraction separates joint surfaces perpendicular to the treatment plane to relieve compression and pain."
-  ],
-  "principle": [
-    "The Convex-Concave Rule (Moving Convex): If a convex bone surface is moving on a stable concave surface, the accessory glide of the convex bone occurs in the direction opposite to the osteokinematic movement.",
-    "The Convex-Concave Rule (Moving Concave): If a concave bone surface is moving on a stable convex surface, the accessory glide of the concave bone occurs in the same direction as the osteokinematic movement.",
-    "Somatic Pain Regulation: Small-amplitude passive oscillations stimulate low-threshold mechanoreceptors (Type I and II), which dynamically inhibit or 'gate' nociceptive pain signals entering the spinal dorsal horn.",
-    "Synovial Fluid Nutrition: Gentle traction and gliding pump synovial fluid across the articular cartilage, facilitating high nutrient delivery to chondrocytes in the absence of weight bearing."
-  ],
-  "equipment": [
-    "High-density foam-covered treatment table.",
-    "Adjustable stabilization belts and dynamic mobilization straps.",
-    "Local wedge blocks and soft support pads to isolate bony segments.",
-    "Manual goniometer to track progressive gains in accessory range."
-  ],
-  "parameters": {
-    "intensity": "Maitland Grade I and II for pain management; Grade III and IV for stretching joint capsules",
-    "duration": "Apply oscillatory glides at a rate of 2 to 3 oscillations per second, held for 1 to 2 minutes per set",
-    "frequency": "2 to 3 sessions per week to allow local ligamentous tissue remodeling without causing chronic inflammation",
-    "repetitions": "3 to 4 sets per specific joint restriction direction per session, separated by assessment checks"
-  },
-  "physiologicalEffects": [
-    {
-      "effect": "Joint Capsule and Tissue Extensibility",
-      "frequency": "During Grade III/IV sustained stretching sets",
-      "mechanism": [
-        "Sustained mechanical tension deforms cross-links in collagenous capsule networks.",
-        "Triggers plastic tissue creep, elongating tightened periarticular tissues."
-      ]
+    "metadata": {
+        "chapterId": "",
+        "title": "",
+        "subject": "",
+        "keywords": [],
+        "tags": []
     },
-    {
-      "effect": "Nociceptive Blocking Reflex",
-      "frequency": "During and immediately after Grade I/II oscillations",
-      "mechanism": [
-        "Involves high-frequency activation of somatic joint mechanoreceptors.",
-        "Triggers presynaptic inhibition of painful myelinated nociceptors inside the spinal medulla (Gate Control Theory)."
-      ]
-    }
-  ],
-  "indications": [
-    "Reversible joint hypomobility resulting from prolonged immobilization or casting.",
-    "Diffuse joint stiffness and capsular contraction patterns (e.g., adhesive capsulitis of the shoulder).",
-    "Localized subacute joint pain and muscle guarding limiting movement.",
-    "Functional joint subluxation or mechanical maltracking."
-  ],
-  "contraindications": {
-    "general": [
-      "Severe generalized osteoporosis making bone segments highly vulnerable to fracture under manual force.",
-      "Active bone tumors, localized bone malignancies, or metastatic bone diseases.",
-      "Systemic infectious arthritis or uncontrolled acute osteomyelitis."
+    "theory": {
+        "definitions": [],
+        "coreConcepts": [],
+        "equipment": []
+    },
+    "clinicalCorrelations": {
+        "pearls": [],
+        "precautions": [],
+        "indications": [],
+        "contraindications": {
+            "general": [],
+            "local": []
+        },
+        "technique": {
+            "patientPreparation": [],
+            "apparatusPreparation": [],
+            "skinPreparation": [],
+            "electrodePlacement": [],
+            "treatmentProcedure": []
+        },
+        "protocols": [],
+        "physiologicalEffects": []
+    },
+    "subjectExtensions": {
+        "anatomy": {
+            "parameters": {}
+        }
+    },
+    "clinicalCases": [],
+    "mcqs": [
+        {
+            "question": "Which rule states that when a convex joint surface is moving on a stable concave surface, the accessory glide occurs opposite to the bone segment's movement?",
+            "options": [
+                "Convex-Concave Rule",
+                "Sherrington's Law",
+                "Wolff's Law",
+                "Davis's Law"
+            ],
+            "answer": "Convex-Concave Rule",
+            "explanation": "The Convex-Concave Rule dictate that convex surface movements trigger accessory glides in the direction opposite to the osteokinematic movement."
+        },
+        {
+            "question": "Which of the following describes the arthrokinematic motion of 'Roll'?",
+            "options": [
+                "A single point on one surface contacts new points on the opposing surface",
+                "New points on one surface contact new points on the opposing surface",
+                "The bone rotates around a stationary longitudinal axis",
+                "Two joint surfaces completely pull apart from each other"
+            ],
+            "answer": "New points on one surface contact new points on the opposing surface",
+            "explanation": "Roll occurs when new points on one moving joint surface contact new, matching points on the opposing stationary joint surface."
+        },
+        {
+            "question": "Which of the following describes the arthrokinematic motion of 'Glide' (Slide)?",
+            "options": [
+                "New points contact new points on opposing surfaces",
+                "A single point contacts new points on the opposing joint surface",
+                "The segment rotates around a vertical joint axis",
+                "The joint capsule goes completely slack"
+            ],
+            "answer": "A single point contacts new points on the opposing joint surface",
+            "explanation": "Glide (Slide) occurs when a single point on one moving joint surface contacts new, progressive points on the opposing stationary joint surface."
+        },
+        {
+            "question": "Which joint alignment is characterized by maximum joint congruency, taut ligaments, and zero physical space for accessory joint play?",
+            "options": [
+                "Open-packed position",
+                "Closed-packed position",
+                "Resting position",
+                "Anatomical zero position"
+            ],
+            "answer": "Closed-packed position",
+            "explanation": "In the closed-packed position, joint congruence is fully maximized, periarticular ligaments are extremely taut, and accessory movement is locked."
+        },
+        {
+            "question": "Which Maitland mobilization grade is defined as small-amplitude oscillations performed at the beginning of the available range of motion?",
+            "options": [
+                "Grade I",
+                "Grade II",
+                "Grade III",
+                "Grade IV"
+            ],
+            "answer": "Grade I",
+            "explanation": "Maitland Grade I consists of small-amplitude, rapid passive oscillations delivered at the very beginning of the available range."
+        },
+        {
+            "question": "Which Maitland mobilization grade is characterized by large-amplitude oscillations going up to and slightly past the limit of resistance?",
+            "options": [
+                "Grade I",
+                "Grade II",
+                "Grade III",
+                "Grade IV"
+            ],
+            "answer": "Grade III",
+            "explanation": "Maitland Grade III features large-amplitude passive oscillations designed to go up to and stress the limit of resistance, stretching tissue."
+        },
+        {
+            "question": "Maitland Grade V mobilization is physically characterized by what type of movement?",
+            "options": [
+                "Large-amplitude sustained stretch",
+                "High-velocity, low-amplitude (HVLA) thrust manipulation",
+                "High-frequency, large-amplitude vibration",
+                "Submaximal muscle isometric hold"
+            ],
+            "answer": "High-velocity, low-amplitude (HVLA) thrust manipulation",
+            "explanation": "Maitland Grade V is high-velocity, low-amplitude (HVLA) thrust manipulation delivered past the physiological limit but within the anatomical boundary."
+        },
+        {
+            "question": "According to the Kaltenborn system, Grade II traction is defined as:",
+            "options": [
+                "Slight tension that loosens joint surfaces without separating them",
+                "Traction that takes up capsular slack and tightens periarticular tissues",
+                "Sustained stretch that elongates joint capsule and ligaments",
+                "High-velocity thrust"
+            ],
+            "answer": "Traction that takes up capsular slack and tightens periarticular tissues",
+            "explanation": "Kaltenborn Grade II traction applies enough sustained force to take up the joint capsule slack, tightening the periarticular tissues."
+        },
+        {
+            "question": "In which position should joint mobilization techniques always be initiated to maximize safety and joint space?",
+            "options": [
+                "Closed-packed position",
+                "Open-packed (resting) position",
+                "Anatomical hyperextension",
+                "Terminal active extension position"
+            ],
+            "answer": "Open-packed (resting) position",
+            "explanation": "Mobilizations are initialized in the open-packed position because capsular laxity is maximized, minimizing friction on articular cartilage."
+        },
+        {
+            "question": "To improve glenohumeral joint abduction, what direction of accessory glide must the clinician apply?",
+            "options": [
+                "Superior glide",
+                "Inferior glide",
+                "Anterior glide",
+                "Posterior glide"
+            ],
+            "answer": "Inferior glide",
+            "explanation": "According to the convex-concave rule, the humeral head is convex and moves opposite to abduction (superior), requiring an inferior glide."
+        },
+        {
+            "question": "To improve glenohumeral joint external rotation, which DIRECTION of accessory glide is biomechanically indicated?",
+            "options": [
+                "Superior glide",
+                "Anterior glide",
+                "Posterior glide",
+                "Inferior distraction only"
+            ],
+            "answer": "Anterior glide",
+            "explanation": "In external rotation, the convex humeral head rolls posteriorly and slides anteriorly on the stable concave glenoid fossa, indicating an anterior glide."
+        },
+        {
+            "question": "Which of the following is an absolute local contraindication to performing joint mobilization?",
+            "options": [
+                "Subacute muscle guarding",
+                "Post-immobilization joint stiffness",
+                "Uncontrolled infectious arthritis in the target joint",
+                "Mild, chronic articular crepitus"
+            ],
+            "answer": "Uncontrolled infectious arthritis in the target joint",
+            "explanation": "Infectious arthritis is a strict contraindication as mechanical mobilization can spread pathogens trans-articularly, worsening infection."
+        },
+        {
+            "question": "Which anatomical structure monitors joint mechanical changes and is stimulated by Grade I/II oscillations to block pain signals?",
+            "options": [
+                "Anatomical mechanoreceptors",
+                "Golgi Tendon Organs",
+                "Muscle spindles",
+                "Type IV nociceptive nerve fibers"
+            ],
+            "answer": "Anatomical mechanoreceptors",
+            "explanation": "Joint mechanoreceptors (Type I and II) located in the capsule are stimulated by passive oscillations, triggering the Gate Control mechanism."
+        },
+        {
+            "question": "The treatment plane is an imaginary plane that is always defined as:",
+            "options": [
+                "Parallel to the convex joint surface",
+                "Parallel to the concave joint surface",
+                "Perpendicular to the concave joint surface",
+                "Passing through the distal anatomical muscle belly"
+            ],
+            "answer": "Parallel to the concave joint surface",
+            "explanation": "The treatment plane is a stationary biomechanical plane that lies parallel to the concave joint surface and passes through the joint line."
+        },
+        {
+            "question": "In Kaltenborn's grading system, Grade III sustained traction is primarily used to:",
+            "options": [
+                "Relieve acute localized pain",
+                "Loose joint surfaces slightly",
+                "Stretch the joint capsule to increase hypomobile joint play",
+                "Stimulate superficial mechanoreceptors"
+            ],
+            "answer": "Stretch the joint capsule to increase hypomobile joint play",
+            "explanation": "Grade III sustained traction applies enough force to stretch the joint capsule and periarticular tissues, targeting chronic joint stiffness."
+        },
+        {
+            "question": "If a concave joint surface moves on a stable convex surface, the accessory glide occurs in which direction relative to the osteokinematic movement?",
+            "options": [
+                "In the opposite direction",
+                "In the same direction",
+                "Perpendicular to the treatment plane",
+                "Rotated 45 degrees outward"
+            ],
+            "answer": "In the same direction",
+            "explanation": "According to the convex-concave rule, when a concave surface moves on a stable convex surface, the glide occurs in the same direction as the bony motion."
+        },
+        {
+            "question": "What is the primary open-packed (resting) position for the glenohumeral joint?",
+            "options": [
+                "Full abduction and external rotation",
+                "55 degrees of abduction, 30 degrees of horizontal adduction",
+                "90 degrees of flexion and neutral rotation",
+                "Adduction and full internal rotation"
+            ],
+            "answer": "55 degrees of abduction, 30 degrees of horizontal adduction",
+            "explanation": "The standard open-packed resting position for the glenohumeral joint is 55 degrees of abduction and 30 degrees of horizontal adduction."
+        },
+        {
+            "question": "Which Maitland joint mobilization grade represents passive small-amplitude oscillations delivered at the physical limit of joint resistance?",
+            "options": [
+                "Grade I",
+                "Grade II",
+                "Grade III",
+                "Grade IV"
+            ],
+            "answer": "Grade IV",
+            "explanation": "Grade IV consists of small-amplitude, passive oscillations delivered directly at the end-range of available motion, stretching stiff tissues."
+        },
+        {
+            "question": "Which of the following is a physical property of the closed-packed position?",
+            "options": [
+                "Capsular structures are at maximum slack",
+                "Joint play is fully maximized",
+                "Articular surface congruency is fully maximized",
+                "Joint is in its resting standard alignment"
+            ],
+            "answer": "Articular surface congruency is fully maximized",
+            "explanation": "In a closed-packed position, joint surface congruency is at its absolute maximum, and the joint is locked with taut capsular ligaments."
+        },
+        {
+            "question": "When performing traction on a joint, the manual force must be applied in which direction relative to the treatment plane?",
+            "options": [
+                "Parallel to the treatment plane",
+                "Perpendicular to the treatment plane",
+                "At a 45-degree angle",
+                "Following the spiral axis of the muscle"
+            ],
+            "answer": "Perpendicular to the treatment plane",
+            "explanation": "Sustained or oscillatory traction forces must always be directed perpendicular (at a 90-degree angle) to the treatment plane."
+        },
+        {
+            "question": "In Maitland's clinical classification, which of the following is a key characteristic of a 'Pain-Dominant' joint condition?",
+            "options": [
+                "Pain is elicited only when stretching tight tissues at the end of the available range",
+                "The joint has a hard, unyielding bone-on-bone end feel without muscular guarding",
+                "Pain is triggered before or at the onset of tissue resistance (pain-before-resistance)",
+                "The condition is chronic and requires aggressive Grade IV manual stretching"
+            ],
+            "answer": "Pain is triggered before or at the onset of tissue resistance (pain-before-resistance)",
+            "explanation": "Pain-dominant conditions are highly irritable and acute/subacute, characterized by pain elicited before or at the initial onset of physical tissue resistance. They are treated conservatively with Maitland Grade I or II oscillations to reduce nociceptive pain without stretching the tissue."
+        },
+        {
+            "question": "Which of the following joints has a moving concave surface on a stable convex surface during knee extension?",
+            "options": [
+                "The patellofemoral joint",
+                "The tibiofemoral joint (tibia moving on femur)",
+                "The glenohumeral joint",
+                "The talocrural joint"
+            ],
+            "answer": "The tibiofemoral joint (tibia moving on femur)",
+            "explanation": "In the tibiofemoral joint (tibia moving on femur), the concave tibial plateaus move on the convex femoral condyles, meaning glide occurs in the same direction."
+        },
+        {
+            "question": "To improve knee extension in a patient with a hypomobile tibiofemoral joint (tibia moving on femur), in which direction should the tibia be mobilized?",
+            "options": [
+                "Posterior glide",
+                "Anterior glide",
+                "Inferior traction only",
+                "Medial rotation glide"
+            ],
+            "answer": "Anterior glide",
+            "explanation": "During knee extension, the concave tibia moves anteriorly on the convex femur. The concave surface rule dictates that glide occurs in the same direction, hence anterior glide."
+        },
+        {
+            "question": "When a bony segment rotates around a stationary longitudinal mechanical axis on an opposing joint surface, this is called:",
+            "options": [
+                "Roll",
+                "Glide",
+                "Spin",
+                "Traction"
+            ],
+            "answer": "Spin",
+            "explanation": "Spin is the arthrokinematic movement where one joint surface rotates around a stationary longitudinal mechanical joint axis."
+        },
+        {
+            "question": "Maitland Grades I and II are primarily selected in clinical rehabilitation to target:",
+            "options": [
+                "Severe joint capsule contracture",
+                "Acute joint pain and protective muscle guarding",
+                "Fibrous adhesions inside the capsule",
+                "Post-fracture bony block anomalies"
+            ],
+            "answer": "Acute joint pain and protective muscle guarding",
+            "explanation": "Grades I and II oscillations are low-amplitude movements designed to inhibit nociceptors and gate pain without stretching the joint capsule."
+        },
+        {
+            "question": "If post-mobilization joint pain persists for longer than 24 hours, the clinician should:",
+            "options": [
+                "Increase mobilization amplitude to Grade IV in the next session",
+                "Discontinue all active physical therapy permanently",
+                "Reduce the intensity or grade of mobilization in the next session",
+                "Apply deep tissue friction over the joint line"
+            ],
+            "answer": "Reduce the intensity or grade of mobilization in the next session",
+            "explanation": "Persistent soreness of over 24 hours suggests excessive tissue inflammation or strain, indicating a clinical need to reduce mobilization dosage."
+        },
+        {
+            "question": "Which of the following describes joint distraction?",
+            "options": [
+                "Applying slide forces parallel to the treatment plane",
+                "Separation of joint surfaces perpendicular to the treatment plane",
+                "Rotating the bone segment externally",
+                "Applying high-speed compression"
+            ],
+            "answer": "Separation of joint surfaces perpendicular to the treatment plane",
+            "explanation": "Joint distraction is defined as the separation of adjacent joint surfaces perpendicular (90 degrees) to the treatment plane."
+        },
+        {
+            "question": "When mobilizing the wrist (radiocarpal joint), the convex carpal bones move on the concave radius. To improve wrist flexion, the therapist applies what direction of glide?",
+            "options": [
+                "Anterior (palmar) glide",
+                "Posterior (dorsal) glide",
+                "Ulnar deviation glide",
+                "Radial deviation glide"
+            ],
+            "answer": "Posterior (dorsal) glide",
+            "explanation": "To improve wrist flexion (osteokinematic palmar movement), the convex carpals must slide opposite, indicating a posterior (dorsal) accessory glide."
+        },
+        {
+            "question": "Which of the following is a physical hazard of performing high-grade joint mobilizations on patients undergoing prolonged systemic corticosteroid therapy?",
+            "options": [
+                "Accelerated muscle hypertrophy",
+                "Severe collagenous structure and bone fragility leading to injury",
+                "Somatic nerve conduction inhibition",
+                "Synovial fluid evaporation"
+            ],
+            "answer": "Severe collagenous structure and bone fragility leading to injury",
+            "explanation": "Corticosteroids degrade collagen matrix density and induce osteopenia, making cartilage, bone, and capsules vulnerable to injury under heavy manual force."
+        },
+        {
+            "question": "According to the convex-concave rule, which of the following joints has a moving convex surface moving on a stable concave surface during ankle dorsiflexion?",
+            "options": [
+                "The radioulnar joint",
+                "The talocrural joint (talus moving on tibia/fibula mortise)",
+                "The humeroulnar joint",
+                "The proximal interphalangeal joint"
+            ],
+            "answer": "The talocrural joint (talus moving on tibia/fibula mortise)",
+            "explanation": "In the talocrural joint, the convex dome of the talus moves within the stable concave tibiofibular mortise. During dorsiflexion (anterior osteokinematic), the talus glides posteriorly."
+        }
     ],
-    "local": [
-      "Severe joint hypermobility, subluxation, or structural instability.",
-      "Acute unhealed fracture or unstable epiphyseal plate lines close to the joint.",
-      "Acute rheumatoid arthritis flare-up or severe local joint swelling (gout attack)."
-    ]
-  },
-  "technique": {
-    "patientPreparation": [
-      "Explain the mobilization procedure, emphasizing that the treatment should not be painful.",
-      "Position the patient in a comfortable, supported position with the joint placed in its open-packed resting alignment.",
-      "Drape the patient appropriately to expose the target joint joint line clearly."
-    ],
-    "apparatusPreparation": [
-      "Calibrate the treatment plinth height to preserve ergonomic therapist body mechanics.",
-      "Secure stabilization belts or place a heavy wedge block beneath the proximal bone segment to prevent motion."
-    ],
-    "skinPreparation": [
-      "Evaluate skin over manual contacts to ensure there are no open lesions or unhealed scars."
-    ],
-    "electrodePlacement": [],
-    "treatmentProcedure": [
-      "1. Securely grasp the proximal bone segment close to the joint line to serve as a stable anchor.",
-      "2. Grasp the distal bone segment as close to the joint line as possible to minimize leverage bending forces.",
-      "3. Apply a gentle Grade I traction force (Kaltenborn 'Loosen' grade) perpendicular to the joint plane to reduce articular friction.",
-      "4. Determine the direction of restricted accessory movement using the Convex-Concave rule.",
-      "5. For pain relief: Introduce Maitland Grade I or II passive oscillations at a speed of 2 to 3 beats per second.",
-      "6. For capsules stiffness: Move the distal segment up to the point of mechanical capsule resistance, then apply Maitland Grade III or IV oscillations.",
-      "7. Maintain the chosen manual direction (transverse glide or distraction) parallel or perpendicular to the treatment plane.",
-      "8. Re-evaluate the patient's active pain-free range of motion immediately after completing the set."
-    ]
-  },
-  "precautions": [
-    "Do not force a joint beyond its anatomical limits or allow sharp pain to occur during mobilization.",
-    "Monitor for inflammatory rebound; if post-mobilization soreness persists for more than 24 hours, decrease the grade or intensity.",
-    "Avoid applying excessive manual force in patients on prolonged corticosteroid therapy due to high connective tissue fragility."
-  ],
-  "clinicalPearls": [
-    "The treatment plane is an imaginary line lies parallel to the concave joint surface and moves with the concave segment. Direct your manual glides parallel to this plane, and distraction forces perpendicular to it.",
-    "Always apply a Grade I traction first before performing any sliding glide. This unloads the joint cartilage, protecting joint surfaces from compressive friction forces during manual movement.",
-    "To improve shoulder abduction, apply an inferior glenohumeral glide. Because the humeral head is convex and moving on a stable concave glenoid, the accessory glide must occur opposite to the upward abduction movement (which is downward, i.e., inferior).",
-    "For humeroulnar joint mobilization, the concave trochlear notch moves on the convex trochlea. To improve elbow flexion, apply a distal-anterior traction-glide at a 45-degree angle to the ulnar shaft, which is in the same direction as the osteokinematic movement of flexion.",
-    "When mobilizing the hip, apply a lateral distraction force perpendicular to the treatment plane (laterally, posteriorly, and slightly inferiorly) to separate the convex femoral head from the deep concave acetabulum. This is highly effective for immediate pain relief and general joint play restoration in hip osteoarthritis."
-  ],
-  "clinicalProtocols": [
-    {
-      "condition": "Capsular Shoulder Stiffness (Adhesive Capsulitis)",
-      "position": "Supine, with the glenohumeral joint positioned in its open-packed resting posture (55 degrees of abduction, 30 degrees of horizontal adduction)",
-      "electrodePlacement": "None",
-      "frequency": "2 to 3 sessions per week, with reassessments",
-      "purpose": "Aims to restore inferior accessory glenohumeral glide to facilitate dynamic abduction range of motion."
-    },
-    {
-      "condition": "Post-Immobilization Elbow Flexion Stiffness",
-      "position": "Supine, humeroulnar joint in open-packed resting posture (70 degrees of flexion, 10 degrees of supination), with humerus stabilized by a wedge or strap",
-      "electrodePlacement": "None (manual therapy joint setup)",
-      "frequency": "3 to 4 sets of 1-minute oscillations, 3 times per week",
-      "purpose": "Aims to apply a distal-anterior traction-glide to the humeroulnar joint parallel to the treatment plane to restore accessory joint play and facilitate physiological elbow flexion."
-    },
-    {
-      "condition": "Hypomobile Hip Osteoarthritis (Coxarthrosis)",
-      "position": "Supine, hip joint positioned in open-packed resting posture (30 degrees of flexion, 30 degrees of abduction, and slight external rotation)",
-      "electrodePlacement": "None (manual therapy joint setup)",
-      "frequency": "3 sets of 30-second sustained lateral distraction holds, twice weekly",
-      "purpose": "Apply a lateral and slightly inferior distraction force to separate the femoral head from the acetabulum to stretch the tight hip capsule, reduce compressive pain, and restore general range of motion."
-    }
-  ],
-  "vivaQuestions": [
-    "Question: State the five grades of the Maitland Oscillation Classification. | Answer: Grade I: Small-amplitude oscillations at the beginning of the range. Grade II: Large-amplitude oscillations within the range (not reaching resistance). Grade III: Large-amplitude oscillations up to and slightly past the limit of resistance. Grade IV: Small-amplitude oscillations at the limit of resistance. Grade V: High-velocity, low-amplitude (HVLA) thrust manipulation at the anatomical boundary. | Examiner Key Points: Amplitude (small vs large), position in range (beginning, within, at limit). | Clinical Importance: Grades I-II are neurophysiological (gating pain), whereas III-IV are mechanical (stretching connective tissue).",
-    "Question: State the three grades of the Kaltenborn sustained traction system. | Answer: Grade I (Loosen): Small traction force that neutralizes joint compression without separating joint surfaces. Grade II (Tighten): Sustained traction that takes up the joint capsule slack and tightens periarticular tissues. Grade III (Stretch): Sustained traction that stretches the joint capsule and deep ligamentous structures to increase mobility. | Examiner Key Points: Loosen (no separation), Tighten (slack taken up), Stretch (capsule elongated). | Clinical Importance: Calibrates the exact mechanical traction force applied to hypomobile joints safely.",
-    "Question: Explain the biomechanical difference between Arthrokinematics and Osteokinematics. | Answer: Osteokinematics refers to the voluntary rotary movement of long bones in space around a joint axis (e.g., flexion, extension, abduction). Arthrokinematics refers to the involuntary, passive, accessory movements occurring between the adjacent joint surfaces inside the capsule, specifically roll, glide (slide), and spin. | Examiner Key Points: Voluntary vs involuntary, bone movement vs joint surface movement, roll/glide/spin. | Clinical Importance: Normal voluntary osteokinematic movement cannot occur without healthy, unrestricted arthrokinematic joint play.",
-    "Question: State the Convex-Concave Rule and explain how it dictates manual shoulder mobilization. | Answer: The rule states that if the moving joint surface is convex (like the humeral head), the accessory glide occurs opposite to the osteokinematic movement. If the moving joint surface is concave, the glide occurs in the same direction. For the shoulder, to improve abduction (the convex humerus moves upward), we apply a downward (inferior) accessory glide. | Examiner Key Points: Moving convex (opposite glide) vs moving concave (same direction glide), humeral head/glenoid relationship. | Clinical Importance: Prevents joint cartilage impingement by aligning manual forces with natural accessory motion.",
-    "Question: What is the treatment plane, and how is it defined? | Answer: The treatment plane is an imaginary biomechanical plane that lies parallel to the concave joint surface and passes directly through the joint space. It remains stationary on the stable concave segment, but moves dynamically if the concave segment is the moving bone. | Examiner Key Points: Parallel to concave surface, passes through joint line, perpendicular to traction force. | Clinical Importance: All mobilization glides must be applied parallel to this treatment plane, and traction must be applied perpendicular to it.",
-    "Question: Differentiate between a closed-packed position and an open-packed resting position of a joint. | Answer: In a closed-packed position, joint surfaces are maximally congruent, the joint capsule and ligaments are completely taut, and there is zero accessory movement possible. In an open-packed (resting) position, joint congruence is minimized, capsular structures are relaxed, and joint play is maximized. | Examiner Key Points: Maximum vs minimum congruence, taut vs lax capsule, zero vs maximum joint play. | Clinical Importance: Joint mobilization must always be initiated in the open-packed position to protect joint surfaces and maximize capsule slack.",
-    "Question: Why is a Grade I traction force applied before performing any accessory gliding mobilization? | Answer: Grade I traction separates articular surfaces slightly, neutralizing normal compressive forces. This eliminates friction and mechanical shear stress on articular cartilage, making the subsequent gliding movement smoother, safer, and less painful. | Examiner Key Points: Surface separation, compression neutralization, friction elimination. | Clinical Importance: Underpins basic manual therapy safety, preventing cartilage damage during mobilization.",
-    "Question: How do Maitland joint mobilization oscillations reduce joint pain based on the Gate Control Theory? | Answer: Low-amplitude passive oscillations (Grades I and II) stimulate low-threshold mechanoreceptors (Type I and II) inside the joint capsule and skin. This high sensory impulse activates inhibitory interneurons in the dorsal horn of the spinal cord, blocking or 'gating' slower nociceptive pain signals from passing to the brain. | Examiner Key Points: Mechanoreceptors, Type I-II fibers, dorsal horn interneurons, blocking pain signals. | Clinical Importance: Allows pain relief without pharmacological intervention, enabling earlier active rehabilitation.",
-    "Question: Describe how you would mobilize the glenohumeral joint to improve flexion and internal rotation. | Answer: To improve shoulder flexion and internal rotation, place the patient supine and apply a posterior accessory glide to the humeral head. According to the convex-concave rule, as the convex humeral head rotates internally, the accessory glide must occur in the opposite direction (posteriorly). | Examiner Key Points: Supine positioning, posterior glide direction, moving convex rule. | Clinical Importance: Crucial for managing early capsular patterns of shoulder stiffness.",
-    "Question: What is joint effusion, and why is it a relative contraindication to stretching but a candidate for Grade I oscillations? | Answer: Joint effusion is the abnormal buildup of synovial fluid inside the joint capsule, which increases pressure and triggers nociceptive pain. Stretching or high-grade mobilizations are contraindicated because they further strain the already distended capsule. However, Grade I oscillations are indicated because they do not stretch the capsule, but help manage pain and pump fluid to assist with swelling drainage. | Examiner Key Points: Fluid buildup, capsular distension stretch risk, pain gating via low grades. | Clinical Importance: Guides safe acute phase clinical reasoning."
-  ],
-  "mcqs": [
-    {
-      "question": "Which rule states that when a convex joint surface is moving on a stable concave surface, the accessory glide occurs opposite to the bone segment's movement?",
-      "options": ["Convex-Concave Rule", "Sherrington's Law", "Wolff's Law", "Davis's Law"],
-      "answer": "Convex-Concave Rule",
-      "explanation": "The Convex-Concave Rule dictate that convex surface movements trigger accessory glides in the direction opposite to the osteokinematic movement."
-    },
-    {
-      "question": "Which of the following describes the arthrokinematic motion of 'Roll'?",
-      "options": ["A single point on one surface contacts new points on the opposing surface", "New points on one surface contact new points on the opposing surface", "The bone rotates around a stationary longitudinal axis", "Two joint surfaces completely pull apart from each other"],
-      "answer": "New points on one surface contact new points on the opposing surface",
-      "explanation": "Roll occurs when new points on one moving joint surface contact new, matching points on the opposing stationary joint surface."
-    },
-    {
-      "question": "Which of the following describes the arthrokinematic motion of 'Glide' (Slide)?",
-      "options": ["New points contact new points on opposing surfaces", "A single point contacts new points on the opposing joint surface", "The segment rotates around a vertical joint axis", "The joint capsule goes completely slack"],
-      "answer": "A single point contacts new points on the opposing joint surface",
-      "explanation": "Glide (Slide) occurs when a single point on one moving joint surface contacts new, progressive points on the opposing stationary joint surface."
-    },
-    {
-      "question": "Which joint alignment is characterized by maximum joint congruency, taut ligaments, and zero physical space for accessory joint play?",
-      "options": ["Open-packed position", "Closed-packed position", "Resting position", "Anatomical zero position"],
-      "answer": "Closed-packed position",
-      "explanation": "In the closed-packed position, joint congruence is fully maximized, periarticular ligaments are extremely taut, and accessory movement is locked."
-    },
-    {
-      "question": "Which Maitland mobilization grade is defined as small-amplitude oscillations performed at the beginning of the available range of motion?",
-      "options": ["Grade I", "Grade II", "Grade III", "Grade IV"],
-      "answer": "Grade I",
-      "explanation": "Maitland Grade I consists of small-amplitude, rapid passive oscillations delivered at the very beginning of the available range."
-    },
-    {
-      "question": "Which Maitland mobilization grade is characterized by large-amplitude oscillations going up to and slightly past the limit of resistance?",
-      "options": ["Grade I", "Grade II", "Grade III", "Grade IV"],
-      "answer": "Grade III",
-      "explanation": "Maitland Grade III features large-amplitude passive oscillations designed to go up to and stress the limit of resistance, stretching tissue."
-    },
-    {
-      "question": "Maitland Grade V mobilization is physically characterized by what type of movement?",
-      "options": ["Large-amplitude sustained stretch", "High-velocity, low-amplitude (HVLA) thrust manipulation", "High-frequency, large-amplitude vibration", "Submaximal muscle isometric hold"],
-      "answer": "High-velocity, low-amplitude (HVLA) thrust manipulation",
-      "explanation": "Maitland Grade V is high-velocity, low-amplitude (HVLA) thrust manipulation delivered past the physiological limit but within the anatomical boundary."
-    },
-    {
-      "question": "According to the Kaltenborn system, Grade II traction is defined as:",
-      "options": ["Slight tension that loosens joint surfaces without separating them", "Traction that takes up capsular slack and tightens periarticular tissues", "Sustained stretch that elongates joint capsule and ligaments", "High-velocity thrust"],
-      "answer": "Traction that takes up capsular slack and tightens periarticular tissues",
-      "explanation": "Kaltenborn Grade II traction applies enough sustained force to take up the joint capsule slack, tightening the periarticular tissues."
-    },
-    {
-      "question": "In which position should joint mobilization techniques always be initiated to maximize safety and joint space?",
-      "options": ["Closed-packed position", "Open-packed (resting) position", "Anatomical hyperextension", "Terminal active extension position"],
-      "answer": "Open-packed (resting) position",
-      "explanation": "Mobilizations are initialized in the open-packed position because capsular laxity is maximized, minimizing friction on articular cartilage."
-    },
-    {
-      "question": "To improve glenohumeral joint abduction, what direction of accessory glide must the clinician apply?",
-      "options": ["Superior glide", "Inferior glide", "Anterior glide", "Posterior glide"],
-      "answer": "Inferior glide",
-      "explanation": "According to the convex-concave rule, the humeral head is convex and moves opposite to abduction (superior), requiring an inferior glide."
-    },
-    {
-      "question": "To improve glenohumeral joint external rotation, which DIRECTION of accessory glide is biomechanically indicated?",
-      "options": ["Superior glide", "Anterior glide", "Posterior glide", "Inferior distraction only"],
-      "answer": "Anterior glide",
-      "explanation": "In external rotation, the convex humeral head rolls posteriorly and slides anteriorly on the stable concave glenoid fossa, indicating an anterior glide."
-    },
-    {
-      "question": "Which of the following is an absolute local contraindication to performing joint mobilization?",
-      "options": ["Subacute muscle guarding", "Post-immobilization joint stiffness", "Uncontrolled infectious arthritis in the target joint", "Mild, chronic articular crepitus"],
-      "answer": "Uncontrolled infectious arthritis in the target joint",
-      "explanation": "Infectious arthritis is a strict contraindication as mechanical mobilization can spread pathogens trans-articularly, worsening infection."
-    },
-    {
-      "question": "Which anatomical structure monitors joint mechanical changes and is stimulated by Grade I/II oscillations to block pain signals?",
-      "options": ["Anatomical mechanoreceptors", "Golgi Tendon Organs", "Muscle spindles", "Type IV nociceptive nerve fibers"],
-      "answer": "Anatomical mechanoreceptors",
-      "explanation": "Joint mechanoreceptors (Type I and II) located in the capsule are stimulated by passive oscillations, triggering the Gate Control mechanism."
-    },
-    {
-      "question": "The treatment plane is an imaginary plane that is always defined as:",
-      "options": ["Parallel to the convex joint surface", "Parallel to the concave joint surface", "Perpendicular to the concave joint surface", "Passing through the distal anatomical muscle belly"],
-      "answer": "Parallel to the concave joint surface",
-      "explanation": "The treatment plane is a stationary biomechanical plane that lies parallel to the concave joint surface and passes through the joint line."
-    },
-    {
-      "question": "In Kaltenborn's grading system, Grade III sustained traction is primarily used to:",
-      "options": ["Relieve acute localized pain", "Loose joint surfaces slightly", "Stretch the joint capsule to increase hypomobile joint play", "Stimulate superficial mechanoreceptors"],
-      "answer": "Stretch the joint capsule to increase hypomobile joint play",
-      "explanation": "Grade III sustained traction applies enough force to stretch the joint capsule and periarticular tissues, targeting chronic joint stiffness."
-    },
-    {
-      "question": "If a concave joint surface moves on a stable convex surface, the accessory glide occurs in which direction relative to the osteokinematic movement?",
-      "options": ["In the opposite direction", "In the same direction", "Perpendicular to the treatment plane", "Rotated 45 degrees outward"],
-      "answer": "In the same direction",
-      "explanation": "According to the convex-concave rule, when a concave surface moves on a stable convex surface, the glide occurs in the same direction as the bony motion."
-    },
-    {
-      "question": "What is the primary open-packed (resting) position for the glenohumeral joint?",
-      "options": ["Full abduction and external rotation", "55 degrees of abduction, 30 degrees of horizontal adduction", "90 degrees of flexion and neutral rotation", "Adduction and full internal rotation"],
-      "answer": "55 degrees of abduction, 30 degrees of horizontal adduction",
-      "explanation": "The standard open-packed resting position for the glenohumeral joint is 55 degrees of abduction and 30 degrees of horizontal adduction."
-    },
-    {
-      "question": "Which Maitland joint mobilization grade represents passive small-amplitude oscillations delivered at the physical limit of joint resistance?",
-      "options": ["Grade I", "Grade II", "Grade III", "Grade IV"],
-      "answer": "Grade IV",
-      "explanation": "Grade IV consists of small-amplitude, passive oscillations delivered directly at the end-range of available motion, stretching stiff tissues."
-    },
-    {
-      "question": "Which of the following is a physical property of the closed-packed position?",
-      "options": ["Capsular structures are at maximum slack", "Joint play is fully maximized", "Articular surface congruency is fully maximized", "Joint is in its resting standard alignment"],
-      "answer": "Articular surface congruency is fully maximized",
-      "explanation": "In a closed-packed position, joint surface congruency is at its absolute maximum, and the joint is locked with taut capsular ligaments."
-    },
-    {
-      "question": "When performing traction on a joint, the manual force must be applied in which direction relative to the treatment plane?",
-      "options": ["Parallel to the treatment plane", "Perpendicular to the treatment plane", "At a 45-degree angle", "Following the spiral axis of the muscle"],
-      "answer": "Perpendicular to the treatment plane",
-      "explanation": "Sustained or oscillatory traction forces must always be directed perpendicular (at a 90-degree angle) to the treatment plane."
-    },
-    {
-      "question": "In Maitland's clinical classification, which of the following is a key characteristic of a 'Pain-Dominant' joint condition?",
-      "options": [
-        "Pain is elicited only when stretching tight tissues at the end of the available range",
-        "The joint has a hard, unyielding bone-on-bone end feel without muscular guarding",
-        "Pain is triggered before or at the onset of tissue resistance (pain-before-resistance)",
-        "The condition is chronic and requires aggressive Grade IV manual stretching"
-      ],
-      "answer": "Pain is triggered before or at the onset of tissue resistance (pain-before-resistance)",
-      "explanation": "Pain-dominant conditions are highly irritable and acute/subacute, characterized by pain elicited before or at the initial onset of physical tissue resistance. They are treated conservatively with Maitland Grade I or II oscillations to reduce nociceptive pain without stretching the tissue."
-    },
-    {
-      "question": "Which of the following joints has a moving concave surface on a stable convex surface during knee extension?",
-      "options": ["The patellofemoral joint", "The tibiofemoral joint (tibia moving on femur)", "The glenohumeral joint", "The talocrural joint"],
-      "answer": "The tibiofemoral joint (tibia moving on femur)",
-      "explanation": "In the tibiofemoral joint (tibia moving on femur), the concave tibial plateaus move on the convex femoral condyles, meaning glide occurs in the same direction."
-    },
-    {
-      "question": "To improve knee extension in a patient with a hypomobile tibiofemoral joint (tibia moving on femur), in which direction should the tibia be mobilized?",
-      "options": ["Posterior glide", "Anterior glide", "Inferior traction only", "Medial rotation glide"],
-      "answer": "Anterior glide",
-      "explanation": "During knee extension, the concave tibia moves anteriorly on the convex femur. The concave surface rule dictates that glide occurs in the same direction, hence anterior glide."
-    },
-    {
-      "question": "When a bony segment rotates around a stationary longitudinal mechanical axis on an opposing joint surface, this is called:",
-      "options": ["Roll", "Glide", "Spin", "Traction"],
-      "answer": "Spin",
-      "explanation": "Spin is the arthrokinematic movement where one joint surface rotates around a stationary longitudinal mechanical joint axis."
-    },
-    {
-      "question": "Maitland Grades I and II are primarily selected in clinical rehabilitation to target:",
-      "options": ["Severe joint capsule contracture", "Acute joint pain and protective muscle guarding", "Fibrous adhesions inside the capsule", "Post-fracture bony block anomalies"],
-      "answer": "Acute joint pain and protective muscle guarding",
-      "explanation": "Grades I and II oscillations are low-amplitude movements designed to inhibit nociceptors and gate pain without stretching the joint capsule."
-    },
-    {
-      "question": "If post-mobilization joint pain persists for longer than 24 hours, the clinician should:",
-      "options": ["Increase mobilization amplitude to Grade IV in the next session", "Discontinue all active physical therapy permanently", "Reduce the intensity or grade of mobilization in the next session", "Apply deep tissue friction over the joint line"],
-      "answer": "Reduce the intensity or grade of mobilization in the next session",
-      "explanation": "Persistent soreness of over 24 hours suggests excessive tissue inflammation or strain, indicating a clinical need to reduce mobilization dosage."
-    },
-    {
-      "question": "Which of the following describes joint distraction?",
-      "options": ["Applying slide forces parallel to the treatment plane", "Separation of joint surfaces perpendicular to the treatment plane", "Rotating the bone segment externally", "Applying high-speed compression"],
-      "answer": "Separation of joint surfaces perpendicular to the treatment plane",
-      "explanation": "Joint distraction is defined as the separation of adjacent joint surfaces perpendicular (90 degrees) to the treatment plane."
-    },
-    {
-      "question": "When mobilizing the wrist (radiocarpal joint), the convex carpal bones move on the concave radius. To improve wrist flexion, the therapist applies what direction of glide?",
-      "options": ["Anterior (palmar) glide", "Posterior (dorsal) glide", "Ulnar deviation glide", "Radial deviation glide"],
-      "answer": "Posterior (dorsal) glide",
-      "explanation": "To improve wrist flexion (osteokinematic palmar movement), the convex carpals must slide opposite, indicating a posterior (dorsal) accessory glide."
-    },
-    {
-      "question": "Which of the following is a physical hazard of performing high-grade joint mobilizations on patients undergoing prolonged systemic corticosteroid therapy?",
-      "options": ["Accelerated muscle hypertrophy", "Severe collagenous structure and bone fragility leading to injury", "Somatic nerve conduction inhibition", "Synovial fluid evaporation"],
-      "answer": "Severe collagenous structure and bone fragility leading to injury",
-      "explanation": "Corticosteroids degrade collagen matrix density and induce osteopenia, making cartilage, bone, and capsules vulnerable to injury under heavy manual force."
-    },
-    {
-      "question": "According to the convex-concave rule, which of the following joints has a moving convex surface moving on a stable concave surface during ankle dorsiflexion?",
-      "options": ["The radioulnar joint", "The talocrural joint (talus moving on tibia/fibula mortise)", "The humeroulnar joint", "The proximal interphalangeal joint"],
-      "answer": "The talocrural joint (talus moving on tibia/fibula mortise)",
-      "explanation": "In the talocrural joint, the convex dome of the talus moves within the stable concave tibiofibular mortise. During dorsiflexion (anterior osteokinematic), the talus glides posteriorly."
-    }
-  ],
-  "reference": [
-    "Gregory P. Grieve - Maitland's Peripheral Manipulation",
-    "Freddy M. Kaltenborn - Manual Mobilization of the Joints: Joint Examination and Basic Treatment",
-    "Carolyn Kisner & Lynn Allen Colby - Therapeutic Exercise: Foundations and Techniques"
-  ]
+    "viva": [],
+    "flashcards": [],
+    "references": []
 }

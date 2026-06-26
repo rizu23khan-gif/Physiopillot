@@ -1,0 +1,614 @@
+{
+  "metadata": {
+    "chapterId": "phys_ch6",
+    "title": "Gastrointestinal System & Metabolism",
+    "subject": "Physiology",
+    "subjectId": "physiology",
+    "version": "1.0",
+    "lastUpdated": "2026-06-26",
+    "status": "published",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": []
+  },
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [
+      "Enteric Nervous System (ENS): An independent subdivision of the autonomic nervous system located within the walls of the gastrointestinal tract, comprising the myenteric (Auerbach's) and submucosal (Meissner's) plexuses, which autonomously coordinates gut motility and secretory functions.",
+      "Myenteric (Auerbach's) Plexus: An outer linear chain of interconnecting neurons positioned between the circular and longitudinal muscle layers of the gastrointestinal tract, primarily responsible for regulating intestinal smooth muscle motility.",
+      "Submucosal (Meissner's) Plexus: An inner network of neurons residing in the submucosa of the intestinal wall, primarily regulating localized epithelial secretion, mucosal blood flow, and sensory absorption functions.",
+      "Peristalsis: A progressive, wave-like contractile response of gastrointestinal smooth muscle that propels an ingested food bolus or chyme forward along the alimentary canal, triggered by mechanical stretch and mediated by circular muscle contraction behind the bolus and longitudinal relaxation ahead of it.",
+      "Segmentation: A localized, non-propulsive mixing motility pattern of the small intestine characterized by rhythmic, alternating contractions and relaxations of circular smooth muscle segments, serving to mix chyme with digestive secretions and maximize mucosal contact for absorption.",
+      "Basal Metabolic Rate (BMR): The minimum rate of energy expenditure per unit time by an endothermic animal at rest, measured under strictly standardized post-absorptive conditions (12 hours fast), complete physical relaxation, awake state, and thermoneutral environment.",
+      "Specific Dynamic Action (SDA): Also known as the Thermic Effect of Food (TEF), it is the temporary increase in metabolic rate and heat production by the body above basal levels following food ingestion, representing the energy required for digestion, absorption, processing, and storage of nutrients (highest for proteins, ~20-30%).",
+      "Respiratory Quotient (RQ): The ratio of the volume of carbon dioxide produced to the volume of oxygen consumed during the cellular oxidation of specific substrates (carbohydrates = 1.0, lipids = 0.7, proteins = 0.8, mixed diet = 0.82-0.85).",
+      "Sarcopenia: The progressive, age-related loss of skeletal muscle mass, strength, and physical function, driven by denervation of motor units, decreased protein synthesis, physical inactivity, chronic systemic inflammation, and relative growth hormone decline.",
+      "Cachexia: A complex, multi-organ hypermetabolic wasting syndrome associated with chronic underlying disease (such as cancer, advanced heart failure, or COPD), characterized by severe involuntary loss of skeletal muscle and adipose tissue mass due to systemic inflammatory cytokine activation.",
+      "Specific Dynamic Action of Proteins: The obligatory expenditure of energy (about 30% of the ingested protein calorie content) required for the hepatic deamination of amino acids, urea synthesis, and protein synthesis following a protein-rich meal.",
+      "Mastication: The mechanical process of chewing whereby food is broken down into smaller particles, mixed with saliva to initiate digestion, and shaped into a cohesive bolus suitable for deglutition, initiated voluntarily and maintained reflexively."
+    ],
+    "coreConcepts": [
+      "Law of the Gut (Myenteric Reflex): A mechanoreceptor-triggered reflex where localized luminal distension initiates a wave of circular smooth muscle contraction on the proximal (orally directed) side of the bolus and active relaxation of circular muscle on the distal (aborally directed) side, ensuring unidirectional aboral propulsion.",
+      "Enterogastric Reflex: A negative feedback reflex where the presence of acid, high osmolarity, or fat breakdown products in the duodenum triggers sensory fibers to inhibit vagal parasympathetic output and stimulate sympathetic activity, reducing gastric motility and delaying gastric emptying.",
+      "Defecation Reflex (Myenteric and Parasympathetic): Distension of the rectal wall by fecal matter stimulates intrinsic myenteric sensory fibers and parasympathetic pelvic nerves, initiating involuntary mass contractions of the rectum and sigmoid colon, relaxing the internal anal sphincter, while voluntary somatic pudendal nerve signals control the external anal sphincter.",
+      "Thermic Effect of Exercise (TEE): The increase in cellular energy consumption and metabolic rate above resting levels during physical activity, determined by the intensity, duration, and skeletal muscle mass involved, utilizing distinct intracellular energy systems sequentially.",
+      "Starvation Adaptation and Ketogenesis: During prolonged absolute caloric deprivation, the body shifts from glycogenolysis to gluconeogenesis, followed by extensive lipolysis and hepatic conversion of free fatty acids into ketone bodies (acetoacetate, beta-hydroxybutyrate) to preserve essential skeletal muscle proteins and support cerebral metabolism.",
+      "Intestinal Active Absorption of Calcium and Iron: Calcium absorption is actively regulated in the duodenum via vitamin D-dependent calbindin transport. Iron absorption is precisely regulated in its ferrous state (Fe2+) via divalent metal transporter 1 (DMT1) and basolateral ferroportin transport, adjusted in response to systemic iron requirements (hepcidin feedback control)."
+    ],
+    "equipment": [
+      "Indirect Calorimeter: A clinical diagnostic device that measures oxygen consumption (VO2) and carbon dioxide production (VCO2) to calculate the resting metabolic rate (RMR), daily energy expenditure, and respiratory quotient (RQ).",
+      "Bioelectrical Impedance Analyzer (BIA): A non-invasive body composition device that sends a safe, alternating low-level electrical current through the body to measure tissue resistance and reactance, calculating lean muscle mass, body fat percentage, and total body water.",
+      "Skinfold Caliper (Harpenden): A high-precision mechanical instrument used to measure the thickness of subcutaneous fat layers at specific anatomical landmarks to estimate total body density and body fat percentage.",
+      "Sphygmomanometer and Blood Glucose Monitor: Used during post-prandial rehabilitation sessions to systematically evaluate hemodynamics and blood glucose fluctuations in patients with obesity and metabolic syndrome during exercise.",
+      "Goniometer and Hand-Held Dynamometer: Instruments used by physiotherapists to objectively quantify joint range of motion and grip or segmental muscle strength in patients presenting with sarcopenia, cachexia, or severe malnutrition.",
+      "Pulse Oximeter and Metabolic Cart: Systems used to monitor real-time arterial oxygen saturation and respiratory exchange ratios during aerobic exercise testing to determine exercise metabolic thresholds and energy substrate utilization."
+    ]
+  },
+  "clinicalCorrelations": {
+    "pearls": [
+      "Sarcopenia is characterized by a selective atrophy of Type II (fast-twitch) muscle fibers. High-velocity resistance training (power training) is highly effective at recruiting and preserving these specific fibers to prevent falls in elderly patients.",
+      "Patients with obesity often present with altered gait mechanics, showing increased double-support times, shorter steps, and significantly higher compressive knee joint forces. Obesity rehabilitation must incorporate low-impact aerobic activities, such as aquatic therapy or stationary cycling, to protect joint cartilage.",
+      "Specific Dynamic Action (SDA) is highest for protein (~30%), followed by carbohydrates (~6%) and fats (~4%). A high-protein diet increases resting energy expenditure partly due to the high metabolic cost of deamination and urea synthesis in the liver.",
+      "The Enteric Nervous System (ENS) contains more neurons than the spinal cord and operates on a complex network of neurotransmitters identical to those in the CNS. Chronic physical stress and systemic anxiety can disrupt this network, contributing to conditions like irritable bowel syndrome (IBS).",
+      "Exercise during the fasting state (such as morning exercise before breakfast) promotes higher lipid oxidation (fat burning) due to low circulating insulin levels and elevated catecholamines. However, it may limit the maximal exercise intensity and duration due to depleted hepatic glycogen stores.",
+      "Cachexia cannot be reversed by simple nutritional supplementation alone, unlike starvation. It requires a combination of targeted anti-inflammatory medical therapies, metabolic support, and customized, gentle resistance exercise to counter cytokine-driven proteolysis."
+    ],
+    "precautions": [
+      "Do not allow patients with type 1 diabetes to exercise if their pre-exercise blood glucose exceeds 250 mg/dL with ketones present, as physical exertion can worsen diabetic ketoacidosis.",
+      "Monitor for orthostatic hypotension in patients undergoing prolonged bed rest or starvation, as fluid shifts and autonomic adjustments are impaired.",
+      "Avoid aggressive stretching or high-resistance exercises in patients with advanced severe protein-energy malnutrition, as tissue collagen tensile strength and bone mineral density are severely compromised."
+    ],
+    "indications": [
+      "Sarcopenia and Age-Related Frailty: Indicated for progressive resistance training and targeted protein nutritional counseling to reverse or mitigate loss of functional muscle mass and postural stability.",
+      "Obesity and Metabolic Syndrome Rehabilitation: Indicated to prescribe individualized aerobic and anaerobic physical exercise regimens to enhance daily energy expenditure, improve insulin sensitivity, and lower cardiovascular risk.",
+      "Post-Cancer Cachexia Functional Recovery: Indicated to administer gentle, structured physical conditioning and protein-sparing exercise programs to maintain skeletal muscle integrity, combat fatigue, and improve quality of life.",
+      "Post-Surgical Tissue Healing and Reconstruction: Indicated to evaluate nutritional status and support optimal tissue repair by ensuring sufficient energy balance, vitamin C, zinc, and protein intake during early physical therapy phases."
+    ],
+    "contraindications": {
+      "general": [
+        "Vigorous high-intensity physical therapy sessions immediately following a heavy meal, due to the pooling of cardiac output in splanchnic circulation which compromises coronary and skeletal muscle perfusion.",
+        "Attempting physical therapy or exercise testing in patients presenting with acute metabolic acidosis, severe diabetic ketoacidosis, or uncontrolled systemic hypermetabolic crises."
+      ],
+      "local": [
+        "Performing direct abdominal myofascial release, deep visceral massage, or applying heavy mechanical pressure over the abdomen in patients with acute inflammatory bowel disease, active peptic ulcer disease, or recent gastrointestinal surgery.",
+        "Applying deep local heat modalities (such as shortwave diathermy) directly over the abdominal wall in patients presenting with acute appendicitis or undiagnosed severe abdominal pain."
+      ]
+    },
+    "technique": {
+      "patientPreparation": [
+        "Before initiating obesity rehabilitation, obtain a detailed metabolic history, measure the resting blood pressure, and screen for silent cardiac ischemia.",
+        "Instruct patients with diabetes to check their capillary blood glucose levels before starting any physical therapy session, ensuring they have quick-acting carbohydrates available."
+      ],
+      "apparatusPreparation": [
+        "Ensure the bioelectrical impedance analyzer (BIA) electrodes are fresh, clean, and calibrated to provide accurate assessment of lean skeletal muscle mass.",
+        "Verify that the indirect calorimeter mask is airtight and calibrated to measure oxygen consumption (VO2) and carbon dioxide production (VCO2) accurately."
+      ],
+      "skinPreparation": [
+        "For body composition assessment using BIA, sanitize the patient's hand and foot electrode contact sites with alcohol and allow to air-dry completely.",
+        "Ensure skin landmarks for skinfold caliber measurements are dry, free of sweat, and accurately marked with a demographic marker."
+      ],
+      "electrodePlacement": [
+        "Place BIA tactile electrodes on the dorsal surfaces of the wrist and ankle, spaced at least 5 cm apart to ensure an even distribution of the current path.",
+        "Ensure the patient lies completely flat, in a supine position on a non-conductive examination table with limbs slightly abducted."
+      ],
+      "treatmentProcedure": [
+        "In corporate progressive resistance training targeting large skeletal muscle groups to stimulate muscle protein synthesis and counter sarcopenic wasting.",
+        "Structure obesity physical therapy to combine moderate-intensity continuous aerobic exercise (40-60% of VO2 max) with structured interval training to optimize post-exercise oxygen consumption and fatty acid oxidation.",
+        "Provide specific post-exercise dietary guidance, encouraging high-quality protein consumption (20-30g of whey or essential amino acids) within 45 minutes after exercise to optimize muscle protein synthesis."
+      ]
+    },
+    "protocols": [
+      {
+        "condition": "Individualized Obesity and Insulin Resistance Exercise Prescription",
+        "position": "Upright on a stationary cycle ergometer or treadmill",
+        "electrodePlacement": "Heart rate monitor strap placed snugly around the lower chest wall, over the sternum",
+        "frequency": "3 to 5 sessions per week, consisting of 40-60 minutes of moderate-intensity continuous training (50-70% of maximum heart rate)",
+        "purpose": "To increase glucose transporter 4 (GLUT4) translocation in skeletal muscle, improve insulin sensitivity, and enhance daily metabolic energy expenditure"
+      },
+      {
+        "condition": "Geriatric Sarcopenia Resistance and Power Rehabilitation",
+        "position": "Seated or standing at a functional exercise station with adjustable resistance bands or free weights",
+        "electrodePlacement": "Not applicable; goniometer used to monitor knee and hip joint angles during resistance exercises",
+        "frequency": "2 to 3 sessions per week on non-consecutive days, performing 2-3 sets of 8-12 repetitions at 60-80% of 1-Repetition Maximum",
+        "purpose": "To stimulate myofibrillar protein synthesis, recruit high-threshold Type II motor units, and improve functional mobility and balance"
+      }
+    ],
+    "physiologicalEffects": [
+      {
+        "effect": "Metabolic Energy Shift During Exercise",
+        "frequency": "Dynamic",
+        "mechanism": [
+          "Immediate utilization of stored skeletal muscle ATP and creatine phosphate during high-intensity, short-duration exercise (first 10-15 seconds).",
+          "Activation of rapid anaerobic glycolysis utilizing glycogen stores, producing pyruvate and lactate during high-intensity exercise up to 2 minutes.",
+          "Prolonged shift to aerobic beta-oxidation of free fatty acids and mitochondrial oxidative phosphorylation of pyruvate, providing sustained ATP production during steady-state aerobic activities."
+        ]
+      },
+      {
+        "effect": "Post-Meal Blood Flow Redistribution",
+        "frequency": "Dynamic",
+        "mechanism": [
+          "Vagal parasympathetic stimulation triggers intestinal mucosal release of vasodilatory peptides (VIP, CCK, neurotensin) and nitric oxide.",
+          "Dramatically increases splanchnic arterial blood flow to optimize digestion and nutrient absorption, while concurrently reducing systemic skeletal muscle vasomotor tone."
+        ]
+      },
+      {
+        "effect": "Inflammatory Muscle Proteolysis in Cachexia",
+        "frequency": "Continuous",
+        "mechanism": [
+          "Chronic underlying systemic diseases stimulate excessive production of tumor necrosis factor-alpha (TNF-alpha), interleukin-6 (IL-6), and interferon-gamma.",
+          "Systemic cytokines directly upregulate the ubiquitin-proteasome pathway inside skeletal muscle, systematically degrading contractile myofibrillar proteins and leading to profound muscle wasting."
+        ]
+      },
+      {
+        "effect": "Enteric Reflex Initiation of Gastric Emptying",
+        "frequency": "Intermittent",
+        "mechanism": [
+          "Acidic and fatty chyme enters the duodenum, activating local duodenal mucosal stretch receptors and chemoreceptors.",
+          "Triggers the enterogastric reflex and releases cholecystokinin (CCK), which inhibits pyloric pump contractions and increases pyloric sphincter tone, slowing gastric emptying to protect the mucosal lining."
+        ]
+      }
+    ]
+  },
+  "clinicalCases": [],
+  "subjectExtensions": {
+    "anatomy": {
+      "parameters": {
+        "basalCaloricRequirementSedentaryAdult": "1800 - 2200 kcal/day",
+        "carbohydrateRespiratoryQuotient": "1.00",
+        "lipidRespiratoryQuotient": "0.70",
+        "proteinRespiratoryQuotient": "0.80",
+        "normalRestingBloodGlucoseFast": "70 - 99 mg/dL",
+        "postPrandialBloodGlucoseNormal": "Below 140 mg/dL",
+        "recommendedProteinIntakeRehabAthlete": "1.2 - 2.0 g/kg/day",
+        "healthyBodyMassIndexRange": "18.5 - 24.9 kg/m2",
+        "overweightBodyMassIndex": "25.0 - 29.9 kg/m2",
+        "obeseBodyMassIndexClassOne": "30.0 - 34.9 kg/m2",
+        "waistCircumferenceMaleAtRisk": "Greater than 102 cm (40 in)",
+        "waistCircumferenceFemaleAtRisk": "Greater than 88 cm (35 in)",
+        "idealMacronutrientDistributionCarbs": "45% - 65% of daily energy"
+      }
+    }
+  },
+  "mcqs": [
+    {
+      "id": "mcq_phys_ch6_001",
+      "question": "Which of the following gastrointestinal plexuses is located between the circular and longitudinal muscle layers and primarily regulates gut motility?",
+      "options": [
+        "Submucosal (Meissner's) plexus",
+        "Myenteric (Auerbach's) plexus",
+        "Celiac plexus",
+        "Hypogastric plexus"
+      ],
+      "answer": "Myenteric (Auerbach's) plexus",
+      "explanation": "The myenteric (Auerbach's) plexus is situated between the longitudinal and circular smooth muscle layers of the GI tract wall and is primarily responsible for coordinating gut motility, including peristalsis."
+    },
+    {
+      "id": "mcq_phys_ch6_002",
+      "question": "Which reflex inhibits gastric motility and delays gastric emptying in response to acidic or fatty chyme entering the duodenum?",
+      "options": [
+        "Gastrocolic reflex",
+        "Enterogastric reflex",
+        "Gastroileal reflex",
+        "Defecation reflex"
+      ],
+      "answer": "Enterogastric reflex",
+      "explanation": "The enterogastric reflex is an inhibitory reflex initiated in the duodenum by mechanical or chemical stimuli (such as acid, hypertonic fluids, or fat), which acts to slow gastric motility and protect the duodenum from acid overload."
+    },
+    {
+      "id": "mcq_phys_ch6_003",
+      "question": "Glucose and galactose are actively transported across the apical membrane of intestinal epithelial cells by which of the following transport proteins?",
+      "options": [
+        "GLUT5 via facilitated diffusion",
+        "GLUT2 via active transport",
+        "SGLT1 via secondary active transport",
+        "AQP1 via simple diffusion"
+      ],
+      "answer": "SGLT1 via secondary active transport",
+      "explanation": "Glucose and galactose enter enterocytes across the apical membrane via the sodium-glucose cotransporter 1 (SGLT1), which is a secondary active transport system driven by the sodium gradient."
+    },
+    {
+      "id": "mcq_phys_ch6_004",
+      "question": "A patient with severe pancreatic insufficiency has impaired fat digestion. Which pancreatic enzyme is primarily responsible for hydrolyzing dietary triglycerides into fatty acids and 2-monoglycerides?",
+      "options": [
+        "Pancreatic amylase",
+        "Pepsin",
+        "Pancreatic lipase",
+        "Chymotrypsin"
+      ],
+      "answer": "Pancreatic lipase",
+      "explanation": "Pancreatic lipase is the primary enzyme responsible for fat digestion, hydrolyzing emulsified triglycerides into free fatty acids and 2-monoglycerides in the small intestinal lumen."
+    },
+    {
+      "id": "mcq_phys_ch6_005",
+      "question": "Which of the following dietary nutrients has the highest Specific Dynamic Action (SDA), requiring about 30% of its ingested calorie content to be expended during digestion and assimilation?",
+      "options": [
+        "Carbohydrates",
+        "Lipids",
+        "Proteins",
+        "Water-soluble vitamins"
+      ],
+      "answer": "Proteins",
+      "explanation": "Proteins have the highest Specific Dynamic Action (SDA) or thermic effect, which is about 20-30%. This is due to the metabolic costs associated with hepatic deamination of amino acids and urea synthesis."
+    },
+    {
+      "id": "mcq_phys_ch6_006",
+      "question": "What is the expected Respiratory Quotient (RQ) during the pure cellular oxidation of carbohydrates?",
+      "options": [
+        "0.70",
+        "0.80",
+        "1.00",
+        "0.85"
+      ],
+      "answer": "1.00",
+      "explanation": "The oxidation of carbohydrates consumes an equal volume of oxygen as the volume of carbon dioxide produced, resulting in a Respiratory Quotient (RQ = VCO2 / VO2) of exactly 1.00."
+    },
+    {
+      "id": "mcq_phys_ch6_007",
+      "question": "Which clinical wasting syndrome is characterized by cytokine-mediated hypermetabolic proteolysis, leading to involuntary loss of both skeletal muscle and adipose tissue?",
+      "options": [
+        "Age-related sarcopenia",
+        "Cachexia",
+        "Starvation",
+        "Kwashiorkor"
+      ],
+      "answer": "Cachexia",
+      "explanation": "Cachexia is a disease-associated wasting syndrome driven by inflammatory cytokines (TNF-alpha, IL-6), which cause severe muscle proteolysis and fat loss, which cannot be reversed by nutritional support alone."
+    },
+    {
+      "id": "mcq_phys_ch6_008",
+      "question": "Which of the following occurs during the parasympathetic defecation reflex?",
+      "options": [
+        "Contraction of the internal anal sphincter",
+        "Relaxation of the internal anal sphincter and contraction of the rectum",
+        "Contraction of the external anal sphincter via the pudendal nerve",
+        "Inhibition of descending colon motility"
+      ],
+      "answer": "Relaxation of the internal anal sphincter and contraction of the rectum",
+      "explanation": "The parasympathetic defecation reflex (via pelvic splanchnic nerves) causes contraction of the rectum and sigmoid colon, and relaxation of the internal anal sphincter, facilitating defecation."
+    },
+    {
+      "id": "mcq_phys_ch6_009",
+      "question": "During high-intensity exercise lasting less than 15 seconds, which energy system is the primary source of ATP in skeletal muscle?",
+      "options": [
+        "Anaerobic glycolysis",
+        "Aerobic beta-oxidation of fatty acids",
+        "Phosphagen system (ATP-PCr)",
+        "Mitochondrial oxidative phosphorylation"
+      ],
+      "answer": "Phosphagen system (ATP-PCr)",
+      "explanation": "High-intensity, short-duration exercise (such as a 100-meter sprint) relies on the phosphagen system, utilizing stored ATP and creatine phosphate to provide rapid energy."
+    },
+    {
+      "id": "mcq_phys_ch6_010",
+      "question": "Which brush-border enzyme hydrolyzes lactose into glucose and galactose?",
+      "options": [
+        "Sucrase",
+        "Maltase",
+        "Lactase",
+        "Amylase"
+      ],
+      "answer": "Lactase",
+      "explanation": "Lactase is a disaccharidase located on the brush border of enterocytes that hydrolyzes lactose into glucose and galactose."
+    },
+    {
+      "id": "mcq_phys_ch6_011",
+      "question": "What is the primary site for the absorption of dietary iron, and in which state must iron be for optimal transport?",
+      "options": [
+        "Stomach, ferric state (Fe3+)",
+        "Duodenum and upper jejunum, ferrous state (Fe2+)",
+        "Ileum, ferrous state (Fe2+)",
+        "Large intestine, bound to transferrin"
+      ],
+      "answer": "Duodenum and upper jejunum, ferrous state (Fe2+)",
+      "explanation": "Iron absorption occurs primarily in the duodenum and upper jejunum. Dietary iron must be in the reduced ferrous state (Fe2+) for absorption via divalent metal transporter 1 (DMT1)."
+    },
+    {
+      "id": "mcq_phys_ch6_012",
+      "question": "What happens to the Basal Metabolic Rate (BMR) during prolonged starvation?",
+      "options": [
+        "BMR increases to accelerate fat breakdown",
+        "BMR decreases as an adaptive response to conserve energy",
+        "BMR remains unchanged",
+        "BMR fluctuates wildly based on water intake"
+      ],
+      "answer": "BMR decreases as an adaptive response to conserve energy",
+      "explanation": "During starvation, the body adapts to conserve energy by reducing BMR, which is mediated by down-regulation of thyroid hormone activity and loss of metabolically active lean tissue."
+    },
+    {
+      "id": "mcq_phys_ch6_013",
+      "question": "Which hormone, secreted by the duodenal mucosa in response to fatty acids and amino acids, stimulates gallbladder contraction and pancreatic enzyme secretion?",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin (CCK)",
+        "Somatostatin"
+      ],
+      "answer": "Cholecystokinin (CCK)",
+      "explanation": "Cholecystokinin (CCK) is released by duodenal I-cells in response to fats and proteins. It stimulates gallbladder contraction to release bile, induces pancreatic enzyme secretion, and slows gastric emptying."
+    },
+    {
+      "id": "mcq_phys_ch6_014",
+      "question": "The digestion of proteins begins in the stomach through the action of which active proteolytic enzyme, and what is its optimal pH?",
+      "options": [
+        "Pepsin, pH 1.5 - 2.5",
+        "Trypsin, pH 7.0 - 8.0",
+        "Amylase, pH 6.5 - 7.5",
+        "Pepsinogen, pH 4.0 - 5.0"
+      ],
+      "answer": "Pepsin, pH 1.5 - 2.5",
+      "explanation": "Protein digestion begins in the stomach with pepsin, which is cleaved from pepsinogen in the highly acidic environment (optimal pH of 1.5 to 2.5)."
+    },
+    {
+      "id": "mcq_phys_ch6_015",
+      "question": "Which of the following is a key clinical consideration for physical exercise in patients with Type 1 Diabetes?",
+      "options": [
+        "Exercise should be avoided if blood glucose is between 100 - 150 mg/dL",
+        "Exercise increases insulin sensitivity and can lead to hypoglycemia if insulin doses are not adjusted",
+        "Exercise always causes hyperglycemia",
+        "Exercise should only be performed during high-intensity intervals"
+      ],
+      "answer": "Exercise increases insulin sensitivity and can lead to hypoglycemia if insulin doses are not adjusted",
+      "explanation": "Physical exercise increases skeletal muscle glucose uptake independent of insulin and improves overall insulin sensitivity. For patients with type 1 diabetes, this increases the risk of exercise-induced hypoglycemia unless exogenous insulin doses or carbohydrate intakes are adjusted."
+    },
+    {
+      "id": "mcq_phys_ch6_016",
+      "question": "Which of the following body mass index (BMI) ranges is classified as Obese Class I?",
+      "options": [
+        "18.5 - 24.9 kg/m2",
+        "25.0 - 29.9 kg/m2",
+        "30.0 - 34.9 kg/m2",
+        "35.0 - 39.9 kg/m2"
+      ],
+      "answer": "30.0 - 34.9 kg/m2",
+      "explanation": "A BMI of 30.0 to 34.9 kg/m2 is classified as Obese Class I, whereas 25.0 to 29.9 kg/m2 is classified as Overweight, and 18.5 to 24.9 kg/m2 is healthy."
+    },
+    {
+      "id": "mcq_phys_ch6_017",
+      "question": "What are the primary products of lipid digestion inside the intestinal lumen that combine with bile salts to form water-soluble micelles?",
+      "options": [
+        "Triglycerides and cholesterol",
+        "Free fatty acids and 2-monoglycerides",
+        "Glycerol and glucose",
+        "Chylomicrons and apoproteins"
+      ],
+      "answer": "Free fatty acids and 2-monoglycerides",
+      "explanation": "Dietary triglycerides are hydrolyzed by pancreatic lipase into free fatty acids and 2-monoglycerides, which form micelles with bile salts for transport across the microvillus membrane."
+    },
+    {
+      "id": "mcq_phys_ch6_018",
+      "question": "Which regulatory factor is produced by adipose tissue to signal satiety and decrease food intake by acting on the hypothalamus?",
+      "options": [
+        "Ghrelin",
+        "Leptin",
+        "Neuropeptide Y",
+        "Orexin"
+      ],
+      "answer": "Leptin",
+      "explanation": "Leptin is a hormone secreted by adipocytes that acts on the arcuate nucleus of the hypothalamus to suppress appetite, signal fat storage status, and increase energy expenditure."
+    },
+    {
+      "id": "mcq_phys_ch6_019",
+      "question": "Which stomach cells secrete intrinsic factor, which is required for the absorption of vitamin B12 in the terminal ileum?",
+      "options": [
+        "Chief cells",
+        "Parietal (oxyntic) cells",
+        "G cells",
+        "Mucous neck cells"
+      ],
+      "answer": "Parietal (oxyntic) cells",
+      "explanation": "Parietal (or oxyntic) cells in the gastric glands of the stomach secrete both hydrochloric acid (HCl) and intrinsic factor, which is essential for the absorption of vitamin B12."
+    },
+    {
+      "id": "mcq_phys_ch6_020",
+      "question": "A patient with high-intensity exercise tolerance is being tested. If their Respiratory Quotient (RQ) reaches 1.0 during peak exercise, this indicates they are metabolizing:",
+      "options": [
+        "100% Lipids",
+        "100% Proteins",
+        "100% Carbohydrates",
+        "A mixed diet of fat and protein"
+      ],
+      "answer": "100% Carbohydrates",
+      "explanation": "An RQ value of 1.0 indicates that carbohydrates are being metabolized as the sole fuel source, which typically occurs during high-intensity exercise as muscle fibers rely on rapid glycogenolysis."
+    },
+    {
+      "id": "mcq_phys_ch6_021",
+      "question": "What is the primary physiological mechanism driving age-related Sarcopenia?",
+      "options": [
+        "Chronic systemic inflammatory cytokine proteolysis",
+        "Loss of motor units, physical inactivity, and diminished protein synthesis",
+        "A sudden absolute deficiency of dietary carbohydrates",
+        "Excessive secretion of growth hormone"
+      ],
+      "answer": "Loss of motor units, physical inactivity, and diminished protein synthesis",
+      "explanation": "Sarcopenia is primarily caused by age-related denervation of alpha motor units, physical inactivity, and reduced anabolic pathways, leading to muscle atrophy and functional decline."
+    },
+    {
+      "id": "mcq_phys_ch6_022",
+      "question": "Which peptide hormone, often called the 'hunger hormone', is secreted by the stomach wall during fasting states and stimulates appetite?",
+      "options": [
+        "Leptin",
+        "Cholecystokinin",
+        "Ghrelin",
+        "Insulin"
+      ],
+      "answer": "Ghrelin",
+      "explanation": "Ghrelin is produced primarily by the endocrine cells of the stomach mucosa when the stomach is empty, acting on the hypothalamus to stimulate appetite."
+    },
+    {
+      "id": "mcq_phys_ch6_023",
+      "question": "What is the recommended daily protein intake for patients undergoing active musculoskeletal rehabilitation or resistance training to optimize muscle protein synthesis?",
+      "options": [
+        "0.4 - 0.6 g/kg/day",
+        "0.8 g/kg/day",
+        "1.2 - 2.0 g/kg/day",
+        "4.0 - 5.0 g/kg/day"
+      ],
+      "answer": "1.2 - 2.0 g/kg/day",
+      "explanation": "To repair tissues and build muscle during active physical therapy, protein requirements increase to 1.2 to 2.0 grams per kilogram of body weight per day."
+    },
+    {
+      "id": "mcq_phys_ch6_024",
+      "question": "Which enzyme, secreted in active form by salivary glands, initiates the digestion of starches in the mouth?",
+      "options": [
+        "Salivary amylase (ptyalin)",
+        "Pepsin",
+        "Lingual lipase",
+        "Trypsin"
+      ],
+      "answer": "Salivary amylase (ptyalin)",
+      "explanation": "Salivary glands secrete salivary amylase (ptyalin), which initiates starch digestion by hydrolyzing complex carbohydrates into maltose and dextrins."
+    },
+    {
+      "id": "mcq_phys_ch6_025",
+      "question": "Why is high-intensity exercise scheduled immediately after a large meal contraindicated in cardiac patients?",
+      "options": [
+        "It causes a sudden drop in blood glucose",
+        "Splanchnic blood pooling during digestion reduces the available cardiac output for skeletal and coronary perfusion, increasing ischemic risks",
+        "It stops salivary amylase activity",
+        "It causes acute metabolic alkalosis"
+      ],
+      "answer": "Splanchnic blood pooling during digestion reduces the available cardiac output for skeletal and coronary perfusion, increasing ischemic risks",
+      "explanation": "Following a meal, blood flow is shunted to the digestive organs (splanchnic circulation). Attempting intense exercise at this time demands cardiac output for skeletal muscles, which can strain cardiac reserves and trigger ischemia in susceptible individuals."
+    },
+    {
+      "id": "mcq_phys_ch6_026",
+      "question": "Which of the following occurs during the pharyngeal phase of deglutition (swallowing)?",
+      "options": [
+        "The soft palate elevates to close the nasopharynx, and the epiglottis covers the laryngeal opening",
+        "The lower esophageal sphincter relaxes",
+        "Food is voluntarily chewed and mixed with saliva",
+        "A primary peristaltic wave propels food through the esophagus"
+      ],
+      "answer": "The soft palate elevates to close the nasopharynx, and the epiglottis covers the laryngeal opening",
+      "explanation": "During the involuntary pharyngeal phase, the soft palate is pulled upward to close the posterior nares, preventing food from entering the nasal cavity, and the larynx is pulled upward, causing the epiglottis to swing backward over the superior laryngeal opening to protect the airway."
+    },
+    {
+      "id": "mcq_phys_ch6_027",
+      "question": "Which intestinal nutrient is actively absorbed in the duodenum under the direct control of 1,25-dihydroxyvitamin D3?",
+      "options": [
+        "Vitamin B12",
+        "Calcium",
+        "Glucose",
+        "Fats"
+      ],
+      "answer": "Calcium",
+      "explanation": "Calcium absorption in the duodenum is actively regulated by 1,25-dihydroxyvitamin D3 (active vitamin D), which stimulates the expression of calcium channels, calbindin, and calcium-ATPase transporters."
+    },
+    {
+      "id": "mcq_phys_ch6_028",
+      "question": "A patient with terminal ileal resection is at risk of developing which metabolic deficiency?",
+      "options": [
+        "Iron deficiency anemia",
+        "Impaired digestion of starches",
+        "Vitamin B12 deficiency (pernicious anemia)",
+        "Inability to absorb calcium"
+      ],
+      "answer": "Vitamin B12 deficiency (pernicious anemia)",
+      "explanation": "The terminal ileum is the specific site for the absorption of vitamin B12-intrinsic factor complexes. Resection of this area prevents B12 absorption, leading to macrocytic megaloblastic anemia."
+    },
+    {
+      "id": "mcq_phys_ch6_029",
+      "question": "What is the primary physiological function of secretin, released by S-cells in the duodenum in response to acidic chyme?",
+      "options": [
+        "Stimulates pancreatic enzyme secretion",
+        "Stimulates gastric acid secretion",
+        "Stimulates rich bicarbonate secretion from pancreatic and biliary ducts to neutralize acid",
+        "Triggers gallbladder contraction"
+      ],
+      "answer": "Stimulates rich bicarbonate secretion from pancreatic and biliary ducts to neutralize acid",
+      "explanation": "Secretin is released in response to acid in the duodenum. Its primary function is to stimulate the secretion of large amounts of water and bicarbonate ions by the pancreas and biliary system to neutralize gastric acid."
+    },
+    {
+      "id": "mcq_phys_ch6_030",
+      "question": "Which adipose tissue-derived hormone is decreased in obesity, contributing to chronic low-grade systemic inflammation and insulin resistance?",
+      "options": [
+        "Adiponectin",
+        "Leptin",
+        "TNF-alpha",
+        "Ghrelin"
+      ],
+      "answer": "Adiponectin",
+      "explanation": "Adiponectin is an adipokine with insulin-sensitizing and anti-inflammatory properties. Unlike most other adipokines, its circulating levels are decreased in individuals with obesity."
+    }
+  ],
+  "viva": [
+    {
+      "id": "viva_phys_ch6_001",
+      "question": "What is the Enteric Nervous System (ENS), and how do its myenteric and submucosal plexuses differ in location and function?",
+      "answer": "The ENS is an independent network of neurons in the GI wall. The myenteric (Auerbach's) plexus is located between the outer longitudinal and middle circular smooth muscle layers, and primarily controls gastrointestinal motility. The submucosal (Meissner's) plexus lies in the submucosal layer, and chiefly regulates local epithelial secretion, absorption, and mucosal blood flow.",
+      "keyPoints": "Autonomic independence, Auerbach's (motility/between muscle layers), Meissner's (secretion/submucosa).",
+      "clinicalImportance": "Pathological absence of myenteric plexus neurons (as in Hirschsprung's disease) leads to severe, localized loss of motility and congenital megacolon."
+    },
+    {
+      "id": "viva_phys_ch6_002",
+      "question": "Explain the mechanisms and significance of the Enterogastric Reflex.",
+      "answer": "The enterogastric reflex is an inhibitory reflex triggered by the presence of acid, fats, protein breakdown products, hypertonicity, or distension in the duodenum. Sensory signals travel via the enteric nervous system and vagus nerve to the medulla, inhibiting parasympathetic vagal motor output to the stomach and stimulating sympathetic fibers. This slows gastric motility and delays gastric emptying.",
+      "keyPoints": "Duodenal triggers (acid, fat), inhibition of gastric emptying, vagal inhibition.",
+      "clinicalImportance": "This reflex coordinates the release of acidic chyme into the duodenum with the availability of pancreatic bicarbonate and bile, preventing duodenal mucosal injury and optimizing digestion."
+    },
+    {
+      "id": "viva_phys_ch6_003",
+      "question": "Describe the digestion and absorption of carbohydrates in the human gastrointestinal tract.",
+      "answer": "Carbohydrate digestion begins in the mouth with salivary alpha-amylase and continues in the small intestine with pancreatic alpha-amylase, breaking down starches into maltose, maltotriose, and alpha-limit dextrins. Brush-border enzymes (maltase, sucrase, lactase) further hydrolyze these into monosaccharides: glucose, galactose, and fructose. Glucose and galactose are actively absorbed across the apical membrane via the sodium-glucose cotransporter 1 (SGLT1) utilizing the sodium gradient maintained by the basolateral Na+-K+ ATPase. Fructose is absorbed via facilitated diffusion through glucose transporter 5 (GLUT5). All three exit the basolateral membrane into the portal blood via GLUT2.",
+      "keyPoints": "Amylase, brush-border disaccharidases, SGLT1 (active glucose/galactose), GLUT5 (facilitated fructose), GLUT2 (basolateral exit).",
+      "clinicalImportance": "Lactase deficiency prevents lactose hydrolysis, leading to osmotic retention of water in the bowel lumen and bacterial fermentation, causing cramps, flatulence, and osmotic diarrhea."
+    },
+    {
+      "id": "viva_phys_ch6_004",
+      "question": "What is Basal Metabolic Rate (BMR), and what physiological and pathological factors influence it?",
+      "answer": "BMR is the rate of energy expenditure needed to maintain life-sustaining vital functions at rest. Factors that increase BMR include: greater lean body mass (skeletal muscle), male sex, younger age, fever, hyperthyroidism, pregnancy, and cold ambient temperatures. Factors that decrease BMR include: starvation or severe caloric restriction (a protective thyroid-hormone down-regulation), hypothyroidism, loss of muscle mass, and older age.",
+      "keyPoints": "Standard measurement conditions, thyroid hormone regulation, body composition (muscle vs. fat) influence.",
+      "clinicalImportance": "Hyperthyroidism can increase BMR by 50-100%, causing significant weight loss despite hyperphagia; starvation adaptations reduce BMR to conserve energy reserves."
+    },
+    {
+      "id": "viva_phys_ch6_005",
+      "question": "Explain the physiological basis of Specific Dynamic Action (SDA) and its clinical relevance in nutrition and rehabilitation.",
+      "answer": "SDA is the temporary increase in metabolic rate and heat production following food ingestion. It is the energetic cost of digesting, absorbing, metabolizing, and storing nutrients. It is highest for protein (~30% of ingested energy), followed by carbohydrates (~6%) and fats (~4%). The high cost of proteins is due to the energy required for hepatic deamination of amino acids, urea synthesis, and protein synthesis.",
+      "keyPoints": "Thermic effect of food, protein-induced thermogenesis (~30%), deamination metabolic cost.",
+      "clinicalImportance": "High-protein diets are useful in obesity management because they increase post-prandial energy expenditure (thermic effect) and enhance satiety."
+    },
+    {
+      "id": "viva_phys_ch6_006",
+      "question": "Define Sarcopenia and Cachexia, distinguishing between their underlying pathophysiology and clinical presentation.",
+      "answer": "Sarcopenia is the age-related, progressive loss of skeletal muscle mass and strength, primarily driven by physical inactivity, denervation of motor units, and hormonal declines (growth hormone, testosterone). Cachexia is a hypermetabolic wasting syndrome driven by severe chronic disease (cancer, chronic heart failure), characterized by extreme loss of both skeletal muscle and adipose tissue, mediated by systemic inflammatory cytokines (TNF-alpha, IL-6) that accelerate muscle protein degradation via the ubiquitin-proteasome pathway.",
+      "keyPoints": "Sarcopenia (age-related, muscle loss, reversible with exercise), Cachexia (disease-driven, cytokine-mediated, muscle and fat loss, hypermetabolic).",
+      "clinicalImportance": "Sarcopenia is managed with progressive resistance training; cachexia requires addressing the underlying disease, reducing chronic inflammation, and light, protein-preserving exercises."
+    },
+    {
+      "id": "viva_phys_ch6_007",
+      "question": "Describe the physiology of the Defecation Reflex.",
+      "answer": "Rectal distension by feces activates stretch receptors, sending sensory signals to the spinal cord. This triggers the intrinsic reflex (via the myenteric plexus, causing weak peristalsis in the descending colon and rectum) and the parasympathetic reflex (via pelvic splanchnic nerves, reinforcing peristalsis and relaxing the internal anal sphincter, which is smooth muscle). Somatic motor signals via the pudendal nerves keep the external anal sphincter (skeletal muscle) voluntarily contracted until defecation is convenient.",
+      "keyPoints": "Rectal distension, myenteric reflex, pelvic nerves (parasympathetic), internal anal sphincter (smooth muscle/involuntary relaxation), external anal sphincter (skeletal muscle/voluntary somatic control).",
+      "clinicalImportance": "Spinal cord injuries above the sacral level disrupt voluntary somatic control of the external anal sphincter, leading to neurogenic bowel dysfunction."
+    },
+    {
+      "id": "viva_phys_ch6_008",
+      "question": "How does physical exercise affect gastrointestinal blood flow and motility, and what are the clinical implications for physical therapy?",
+      "answer": "During exercise, sympathetic nervous system activity increases, causing vasoconstriction of splanchnic blood vessels and redistributing blood flow to active skeletal muscles, myocardium, and skin. Splanchnic blood flow can decrease by up to 80% during intense exercise. Gastrointestinal motility and secretion are also reduced. Heavy exercise can compromise gut barrier function, leading to transit delays or ischemic distress.",
+      "keyPoints": "Sympathetic splanchnic vasoconstriction, blood flow redistribution, reduced GI motility during high-exertion exercise.",
+      "clinicalImportance": "Vigorous physical therapy should not be scheduled within 1-2 hours after a heavy meal to prevent indigestion, abdominal cramping, and compromised cardiovascular reserves."
+    },
+    {
+      "id": "viva_phys_ch6_009",
+      "question": "Describe the digestion and absorption of lipids in the small intestine.",
+      "answer": "Lipid digestion begins with lingual and gastric lipases, but occurs primarily in the duodenum where bile salts emulsify large fat globules into smaller droplets. Pancreatic lipase, assisted by colipase, hydrolyzes triglycerides into free fatty acids and 2-monoglycerides. These combine with bile salts and fat-soluble vitamins to form water-soluble micelles, which carry lipids to the microvillus membrane. Fatty acids and monoglycerides diffuse across the apical membrane, enter the endoplasmic reticulum, and are re-esterified into triglycerides. These are packaged with cholesterol and apoproteins into chylomicrons, which exit the basolateral membrane via exocytosis and enter lymphatic lacteals.",
+      "keyPoints": "Bile emulsification, pancreatic lipase/colipase, micelle transport, chylomicron assembly, lymphatic lacteal absorption.",
+      "clinicalImportance": "Obstructive jaundice or pancreatic insufficiency prevents bile or lipase release, causing lipid malabsorption and steatorrhea (fatty, foul-smelling stools)."
+    },
+    {
+      "id": "viva_phys_ch6_010",
+      "question": "Explain the metabolic shifts in skeletal muscle during different phases and intensities of exercise.",
+      "answer": "At the onset of exercise or during high-intensity short bursts, skeletal muscle utilizes the phosphagen system (stored ATP and phosphocreatine) for the first 10-15 seconds. For high-intensity exercise lasting up to 2 minutes, anaerobic glycolysis becomes the dominant source of ATP, converting muscle glycogen to glucose and then pyruvate, which is reduced to lactate. For prolonged, moderate-intensity exercise, aerobic metabolism (oxidative phosphorylation) takes over, utilizing pyruvate from glycolysis and free fatty acids from lipolysis (beta-oxidation) in mitochondria to generate large amounts of ATP.",
+      "keyPoints": "Phosphagen system (short burst), anaerobic glycolysis (up to 2 mins), aerobic oxidative phosphorylation (sustained).",
+      "clinicalImportance": "Understanding these systems allows physiotherapists to target specific pathways: interval training targets anaerobic capacity, while continuous training builds aerobic endurance."
+    }
+  ],
+  "flashcards": [],
+  "pyqs": [],
+  "references": [
+    "Guyton and Hall Textbook of Medical Physiology, 14th Edition",
+    "C.C. Chatterjee - Human Physiology, Volume II",
+    "WBUHS First Year BPT Syllabus reference guidelines"
+  ]
+}

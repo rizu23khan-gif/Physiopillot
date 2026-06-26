@@ -1,365 +1,406 @@
 {
-  "subject": "Exercise Therapy II",
-  "chapterId": "ex2_ch5",
-  "chapterName": "Progressive Resistance Exercise",
-  "definition": [
-    "Progressive Resistance Exercise (PRE): A systematic, evidence-based training method where the resistance load is incrementally increased as the patient's dynamic muscular force capacity adapts and grows.",
-    "1-Repetition Maximum (1RM): The absolute greatest amount of weight a subject can lift successfully through a complete, unassisted joint range of motion exactly one time.",
-    "10-Repetition Maximum (10RM): The maximum amount of external load a patient can lift through a complete range of motion exactly ten times before fatigue prevents further repetitions.",
-    "Overload Principle: A physiological law stating that to elicit muscle cellular adaptations (strength or hypertrophy), the tissue must be loaded beyond its habitual metabolic and mechanical limits.",
-    "SAID Principle: Specific Adaptations to Imposed Demands; a biomechanical rule stating that the human body adapts in a highly specific manner to the specific physical forces applied during training.",
-    "DeLorme Protocol: A progressive, three-set loading program where the resistance escalates from 50%, to 75%, and finally to 100% of the patient’s baseline 10RM.",
-    "Oxford Protocol: A regressive, three-set loading program designed to match muscle fatigue, where the resistance decreases from 100%, to 75%, and finally to 50% of the patient's baseline 10RM.",
-    "MacQueen Protocol: A specialized, high-volume strength-building regimen consisting of 4 sets of 10 repetitions, utilizing a constant load of 100% of 10RM, with no progressive or regressive scaling.",
-    "Muscle Strength Training: Low-volume, high-intensity exercise targeting maximum recruitment of high-threshold fast-glycolytic motor units (Type II) to increase peak force output.",
-    "Muscle Endurance Training: High-volume, low-intensity exercise targeting slow-oxidative motor units (Type I) to prolong muscle contraction duration before neuromuscular fatigue sets in.",
-    "Volume: The total quantity of mechanical work performed in a training session, calculated as: Sets multiplied by Repetitions multiplied by Resistance Load weight.",
-    "Reversibility Principle: The physiological reality that adaptive cellular gains achieved through resistance exercise are transient and will slowly decay if the adaptive stimulus is removed.",
-    "Specificity Principle: A fundamental training principle distinct from SAID, stating that neuromuscular adaptations are highly specific to the velocity of contraction, movement pattern, joint angle, and metabolic energy systems trained. Task-specific adaptations ensure that strength gained at a particular joint angle or speed does not fully transfer to untrained speeds or ranges.",
-    "Zinovieff Technique (The Oxford Isotonic Method): A historical regressive resistance training system developed by Zinovieff in 1951, consisting of 10 sets of 10 repetitions (total 100 repetitions) where load is progressively decreased from Set 1 to Set 10. Designed to precisely match the physiological muscle fatigue curve, it prevents premature fatigue-induced failure while maintaining maximum motor unit recruitment.",
-    "DAPRE (Daily Adjustable Progressive Resistance Exercise): An autoregulated strength program developed by Knight, utilizing a 4-set structure based on a 6RM baseline. The number of repetitions achieved in Set 3 determines the adjusted weight for Set 4, and the repetitions achieved in Set 4 determine the working weight for the next day. It is widely used in orthopedic rehabilitation to dynamically adapt loading to the patient's daily physiological capacity.",
-    "Open Kinetic Chain (OKC) Exercise: A physical exercise where the distal segment of the limb is completely free to move in space while the proximal segment remains fixed. Examples include knee extension on a quadriceps table or bicep curls. OKC allows isolated muscle strengthening, joint-specific rehabilitation, and is indicated when weight-bearing is restricted.",
-    "Closed Kinetic Chain (CKC) Exercise: A physical exercise where the distal segment of the limb is fixed or meets considerable resistance against a stable surface (e.g., floor, wall), meaning movement at one joint causes predictable movements at all other joints in the chain. Examples include squats, lunges, or push-ups. CKC promotes co-contraction, joint stability, proprioception, and is highly functional for weight-bearing activities.",
-    "Isometric (Static) Exercise: A static form of exercise where a muscle contracts and produces force without any change in its overall length or joint angle. It is characterized by high tension generation with zero mechanical work, making it highly useful in early rehabilitation when joint motion is contraindicated due to pain, inflammation, or immobilization (e.g., quadriceps sets).",
-    "Isotonic (Dynamic Constant External Resistance) Exercise: A dynamic form of exercise consisting of concentric (shortening) and eccentric (lengthening) muscle contractions against a constant external load. Examples include lifting and lowering a dumbbell. It trains functional movement patterns but is limited because the muscle is loaded maximally only at its weakest joint angle.",
-    "Isokinetic Exercise: A dynamic exercise where the angular joint velocity is held constant by a computerized motorized dynamometer (e.g., Cybex), which provides accommodating resistance matching the force applied by the muscle throughout the entire range of motion. Examples include isokinetic knee extension at 60 deg/sec, allowing safe, maximal muscle loading across the whole ROM."
-  ],
-  "principle": [
-    "Biological Hypertrophy: Heavy mechanical load triggers focal disruption of sarcolemma and activates satellite cells, which fuse with myofibrils, stimulating actin-myosin protein synthesis and increasing fiber cross-sectional area.",
-    "Somatic Neuromuscular Recruitment: Early strength gains (first 4 weeks) occur without muscle fiber enlargement, driven purely by optimized motor unit synchronization, recruitment, and downregulation of host antagonist muscles.",
-    "Vascular Oxygen Utilization: High-repetition endurance protocols stimulate mitochondrial biogenesis and local capillary density increases, facilitating superior oxygen delivery and oxidative enzyme concentrations.",
-    "Connective Tissue Adaptations: Progressive mechanical loading stimulates osteoblast activity and increases collagen synthesis within tendon-bone insertions, protecting the musculoskeletal chain from future mechanical failure."
-  ],
-  "equipment": [
-    "Standardized dynamic dumbbells, weights, and barbell racks.",
-    "Cable-pulley machine systems with adjustable resistive stack configurations.",
-    "Resistive elastic bands (color-coded by force constant metrics).",
-    "Specialized quadriceps exercise tables (DeLorme tables) with weight shoes."
-  ],
-  "parameters": {
-    "intensity": "60% to 80% of 1RM for strength adaptations; less than 50% of 1RM for endurance adaptations",
-    "duration": "Typically 30 to 60 minutes per session to optimize anaerobic capacity without triggering severe systemic cortisol stress",
-    "frequency": "2 to 3 days per week per muscle group, allowing 48 hours of recovery between sessions for myofibrillar repair",
-    "repetitions": "6 to 12 repetitions for strength/hypertrophy; 15 to 25 repetitions for local muscular endurance"
-  },
-  "physiologicalEffects": [
-    {
-      "effect": "Skeletal Muscle Hypertrophy",
-      "frequency": "Long-term dynamic training adaptation (6+ weeks)",
-      "mechanism": [
-        "Elevates local levels of insulin-like growth factor (IGF-1) and activates muscular mTOR pathways.",
-        "Accentuates the synthesis of parallel contracting proteins (actin and myosin), enlarging individual fiber diameters."
-      ]
+    "metadata": {
+        "chapterId": "",
+        "title": "",
+        "subject": "",
+        "keywords": [],
+        "tags": []
     },
-    {
-      "effect": "Neurological Motor Unit Adaptation",
-      "frequency": "Immediate and short-term training adaptations (weeks 1 to 4)",
-      "mechanism": [
-        "Enhances voluntary spatial summation and increases motor unit firing rates.",
-        "Suppresses Golgi Tendon Organ sensitivity, allowing higher voluntary muscle force development without autogenic block."
-      ]
-    }
-  ],
-  "indications": [
-    "Diffuse muscular atrophy stemming from joint immobilization, prolonged bed rest, or cast wear.",
-    "Chronic musculoskeletal weakness associated with mechanical joint pain (e.g., knee osteoarthritis).",
-    "Sports-specific physical conditioning and explosive athletic performance tuning.",
-    "Post-reconstructive surgical rehabilitation (after bone healing and tendon maturation)."
-  ],
-  "contraindications": {
-    "general": [
-      "Severe acute cardiopulmonary disease, unstable angina, or uncompensated heart failure.",
-      "Acute systemic infection or high fever where vigorous exercise may induce severe metabolic stress.",
-      "Significant unhealed osteoporosis or pathologic bone lesions prone to fracture."
+    "theory": {
+        "definitions": [],
+        "coreConcepts": [],
+        "equipment": []
+    },
+    "clinicalCorrelations": {
+        "pearls": [],
+        "precautions": [],
+        "indications": [],
+        "contraindications": {
+            "general": [],
+            "local": []
+        },
+        "technique": {
+            "patientPreparation": [],
+            "apparatusPreparation": [],
+            "skinPreparation": [],
+            "electrodePlacement": [],
+            "treatmentProcedure": []
+        },
+        "protocols": [],
+        "physiologicalEffects": []
+    },
+    "subjectExtensions": {
+        "anatomy": {
+            "parameters": {}
+        }
+    },
+    "clinicalCases": [],
+    "mcqs": [
+        {
+            "question": "Which training principle states that to improve strength, a muscle must be challenged with loads exceeding its normal capacity?",
+            "options": [
+                "Overload Principle",
+                "SAID Principle",
+                "Reversibility Principle",
+                "Specificity Principle"
+            ],
+            "answer": "Overload Principle",
+            "explanation": "The Overload Principle states that in order to induce physiological adaptations like strength and hypertrophy, muscular tissues must be stressed beyond their normal resting levels."
+        },
+        {
+            "question": "In the DeLorme protocol, Set 1 consists of 10 repetitions at representing which percentage of the patient's 10RM?",
+            "options": [
+                "25% of 10RM",
+                "50% of 10RM",
+                "75% of 10RM",
+                "100% of 10RM"
+            ],
+            "answer": "50% of 10RM",
+            "explanation": "The DeLorme protocol starts progressively. Set 1 consists of 10 reps at 50% of the patient's 10RM weight."
+        },
+        {
+            "question": "The Oxford protocol is designed to match physiological muscle fatigue by utilizing a sequence of:",
+            "options": [
+                "Progressive loading sets",
+                "Regressive loading sets",
+                "De-loading and reloading sets",
+                "Constant maximum loading sets"
+            ],
+            "answer": "Regressive loading sets",
+            "explanation": "The Oxford protocol is regressive, starting heavy at 100% of 10RM and dropping to 75% and 50% of 10RM to match progressive muscle fatigue curves."
+        },
+        {
+            "question": "Which of the following describes the MacQueen protocol for progressive resistance exercise?",
+            "options": [
+                "3 sets of 10 repetitions with progressive loads",
+                "4 sets of 10 repetitions using a constant load of 100% of 10RM",
+                "2 sets of 15 repetitions with regressive loads",
+                "5 sets of 5 repetitions with 5RM weight"
+            ],
+            "answer": "4 sets of 10 repetitions using a constant load of 100% of 10RM",
+            "explanation": "The MacQueen protocol consists of 4 sets of 10 repetitions utilizing a constant load of 100% of the patient's 10RM."
+        },
+        {
+            "question": "For developing maximum muscular strength, which of the following load and repetition schemes is recommended?",
+            "options": [
+                "60% to 80% of 1RM, for 6 to 12 repetitions",
+                "Less than 50% of 1RM, for 15 to 25 repetitions",
+                "80% of 1RM, for 30 repetitions to fail",
+                "20% of 1RM, for 50 repetitions"
+            ],
+            "answer": "60% to 80% of 1RM, for 6 to 12 repetitions",
+            "explanation": "Maximum muscular strength is optimized using relatively high loads (60-80% 1RM) and lower repetitions (6 to 12) to recruit high-threshold Type II motor units."
+        },
+        {
+            "question": "Which muscle fiber type is characterized by fast contraction velocity and high glycolytic capacity, showing the greatest hypertrophy under heavy loads?",
+            "options": [
+                "Type I (Slow Oxidative)",
+                "Type IIa (Fast Oxidative-Glycolytic)",
+                "Type IIb (Fast Glycolytic)",
+                "Type III (Sensory-Motor)"
+            ],
+            "answer": "Type IIb (Fast Glycolytic)",
+            "explanation": "Type IIb Fast Glycolytic fibers contract rapidly, develop high tension, and yield the most pronounced structural hypertrophy when challenged with heavy resistance."
+        },
+        {
+            "question": "The SAID Principle stands for:",
+            "options": [
+                "Specific Adaptation to Imposed Demands",
+                "Systemic Action in Dynamic Development",
+                "Skeletal Alignment in Daily Movement",
+                "Sensory Integration in Active Development"
+            ],
+            "answer": "Specific Adaptation to Imposed Demands",
+            "explanation": "SAID is an acronym for Specific Adaptation to Imposed Demands, indicating that tissues adapt precisely to the specific physical stressors applied to them."
+        },
+        {
+            "question": "Which mechanism is primarily responsible for strength increases during the first 2 to 4 weeks of a dynamic resistance program?",
+            "options": [
+                "Myofibrillar hypertrophy",
+                "Neurological adaptations",
+                "Connective tissue thickening",
+                "Angiogenesis and capillardensity rise"
+            ],
+            "answer": "Neurological adaptations",
+            "explanation": "Strength increases during the initial 2-4 weeks are primarily driven by neural adaptations, such as high motor unit recruitment, firing rate coding, and better synchronization."
+        },
+        {
+            "question": "What is the biological pathway primarily responsible for skeletal muscle protein synthesis and hypertrophic growth during resistance loading?",
+            "options": [
+                "The mTOR pathway",
+                "The Krebs cycle",
+                "The glycolytic pathway",
+                "The somatic reflex loop"
+            ],
+            "answer": "The mTOR pathway",
+            "explanation": "The mechanistic target of rapamycin (mTOR) pathway is the primary cellular signaling cascade regulating muscle protein synthesis and hypertrophy in response to mechanical loading."
+        },
+        {
+            "question": "Which of the following describes the Reversibility Principle?",
+            "options": [
+                "You can reverse muscle soreness by stretching",
+                "Gains in strength and hypertrophy are permanent",
+                "Strength adaptations are transient and decay if loading stimulus stops",
+                "Muscles can switch from flexor to extensor roles"
+            ],
+            "answer": "Strength adaptations are transient and decay if loading stimulus stops",
+            "explanation": "The Reversibility Principle outlines that physical adaptations (strength, volume) are transient and will slowly decay once training stimuli are discontinued."
+        },
+        {
+            "question": "To build muscle endurance, what is the optimal rest interval between successive exercise sets?",
+            "options": [
+                "30 to 60 seconds",
+                "2 to 3 minutes",
+                "5 minutes",
+                "10 minutes"
+            ],
+            "answer": "30 to 60 seconds",
+            "explanation": "Muscle endurance training utilizing submaximal loads requires shorter rest periods (30 to 60 seconds) to sustain metabolic challenge and build local fatigue tolerance."
+        },
+        {
+            "question": "To build muscle strength, what is the optimal rest interval between successive exercise sets?",
+            "options": [
+                "10 to 15 seconds",
+                "30 seconds",
+                "2 to 3 minutes",
+                "Over 10 minutes"
+            ],
+            "answer": "2 to 3 minutes",
+            "explanation": "Strength training utilizes heavy loads, requiring longer rest intervals (2 to 3 minutes) to allow complete regeneration of the intramuscular ATP-CP phosphagen system."
+        },
+        {
+            "question": "The total volume of work performed in a resistance training session is mathematically calculated as:",
+            "options": [
+                "Sets x Repetitions x Resistance Load",
+                "Sets + Repetitions + Load",
+                "Load divided by Sets",
+                "Repetitions x Time spent resting"
+            ],
+            "answer": "Sets x Repetitions x Resistance Load",
+            "explanation": "Volume is defined as the total mechanical work performed, calculated as the product of Sets, Repetitions, and Resistance load weight."
+        },
+        {
+            "question": "What physiological event is triggered if a patient performs the Valsalva maneuver during heavy resistance lifting?",
+            "options": [
+                "A drop in intrathoracic pressure",
+                "An immediate decrease in heart rate",
+                "A spike in blood pressure due to increased intrathoracic pressure",
+                "An increase in cardiac venous return"
+            ],
+            "answer": "A spike in blood pressure due to increased intrathoracic pressure",
+            "explanation": "The Valsalva maneuver dramatically increases intrathoracic pressure and arteriole resistance, provoking a dangerous transient spike in systemic blood pressure."
+        },
+        {
+            "question": "Which of the following is an absolute general contraindication to beginning a Progressive Resistance Exercise program?",
+            "options": [
+                "Mild osteoarthritis of the knee",
+                "Unstable cardiovascular disease or acute heart failure",
+                "A history of controlled asthma",
+                "A healed skin scar over the forearm"
+            ],
+            "answer": "Unstable cardiovascular disease or acute heart failure",
+            "explanation": "Unstable cardiovascular disease, severe ischemia, or unstable pressure states are strict contraindications to heavy resistance training due to acute cardiac load."
+        },
+        {
+            "question": "Soreness that peaking 24 to 48 hours after eccentric resistance training is clinically termed as:",
+            "options": [
+                "Acute metabolic fatigue",
+                "Myasthenia Gravis",
+                "Delayed Onset Muscle Soreness (DOMS)",
+                "Compartment syndrome"
+            ],
+            "answer": "Delayed Onset Muscle Soreness (DOMS)",
+            "explanation": "DOMS is the localized muscle tenderness and stiffness that typically develops and peaks 24 to 48 hours following vigorous eccentric exercise."
+        },
+        {
+            "question": "In the Oxford protocol, Set 3 consists of 10 repetitions at which percentage of the 10RM workload?",
+            "options": [
+                "100% of 10RM",
+                "75% of 10RM",
+                "50% of 10RM",
+                "25% of 10RM"
+            ],
+            "answer": "50% of 10RM",
+            "explanation": "In the regressive Oxford protocol, Set 3 is executed at 50% of the baseline 10RM workload to adjust for muscle fatigue."
+        },
+        {
+            "question": "What is the primary mechanical stimulus required to cause muscle satellite cell activation and hypertrophy?",
+            "options": [
+                "Absolute muscle length",
+                "Oxygen depletion",
+                "Constant speed of contraction",
+                "Mechanical tension and microdamage"
+            ],
+            "answer": "Mechanical tension and microdamage",
+            "explanation": "Mechanical tension, along with microtrauma to muscle fibers, serves as the primary structural stimulus to trigger satellite cells, leading to muscle remodeling."
+        },
+        {
+            "question": "Eccentric contraction is defined as muscle contraction while the muscle-tendon unit is:",
+            "options": [
+                "Lengthening under load",
+                "Shortening under load",
+                "Remaining at a constant length",
+                "Completely unweighted"
+            ],
+            "answer": "Lengthening under load",
+            "explanation": "An eccentric contraction is a dynamic muscle contraction where the muscle-tendon unit actively generates force while undergoing controlled elongation."
+        },
+        {
+            "question": "Concentric contraction is defined as muscle contraction while the muscle-tendon unit is:",
+            "options": [
+                "Lengthening",
+                "Shortening",
+                "Static",
+                "Maintaining zero muscle fiber tension"
+            ],
+            "answer": "Shortening",
+            "explanation": "A concentric contraction is a dynamic muscle contraction where the muscle actively develops tension and shortens to move a bony segment."
+        },
+        {
+            "question": "Which of the following is a primary adaptation of aerobic endurance training but is NOT typically primary in heavy resistance training?",
+            "options": [
+                "Significant myofibrillar diameter expansion",
+                "Inhibition of alpha motor neurons",
+                "Marked increase in mitochondrial biogenesis and capillary density",
+                "Decreased skin sensation"
+            ],
+            "answer": "Marked increase in mitochondrial biogenesis and capillary density",
+            "explanation": "Aerobic endurance training primarily stimulates mitochondrial biogenesis, capillarization, and aerobic enzyme concentration, whereas resistance training targets myofibrillar protein expansion."
+        },
+        {
+            "question": "When starting a PRE program, the initial baseline loads should be determined using which clinically standardized metric?",
+            "options": [
+                "Calculating the 10-Repetition Maximum (10RM)",
+                "The patient's body weight",
+                "The therapist's visual estimation",
+                "The maximum manual breaking force of the clinician"
+            ],
+            "answer": "Calculating the 10-Repetition Maximum (10RM)",
+            "explanation": "PRE protocols (such as DeLorme and Oxford) are built on percentages of the 10RM workload, which provides an objective baseline of dynamic force capacity."
+        },
+        {
+            "question": "Which principle states that the physiological gains cardiorespiratory or muscle strength will revert to baseline when training stimulus ceases?",
+            "options": [
+                "Reversibility Principle",
+                "Overload Principle",
+                "SAID Principle",
+                "Specificity Principle"
+            ],
+            "answer": "Reversibility Principle",
+            "explanation": "The Reversibility Principle highlights that physical adaptations decrease and decay when the mechanical or metabolic overload stimulus is removed."
+        },
+        {
+            "question": "Which of the following exercise modalities utilizes a constant velocity of movement throughout the entire joint range of motion?",
+            "options": [
+                "Dynamic isotonic exercise",
+                "Static isometric exercise",
+                "Constant load exercise",
+                "Isokinetic exercise"
+            ],
+            "answer": "Isokinetic exercise",
+            "explanation": "Isokinetic exercise utilizes specialized motorized machines that control the speed of joint angular movement, maintaining a constant velocity across the range."
+        },
+        {
+            "question": "What is a major advantage of the Oxford regressive protocol over the DeLorme progressive protocol?",
+            "options": [
+                "It requires less overall training time",
+                "It starts with a light set to warm up joints",
+                "It reduces the risk of muscle failure during the final set when fatigue is highest",
+                "It builds greater muscular endurance at 20RM"
+            ],
+            "answer": "It reduces the risk of muscle failure during the final set when fatigue is highest",
+            "explanation": "By performing the 100% 10RM set first while fresh, the Oxford protocol reduces the risk of structural overload and muscle failure occurring under peak load at the end of the session."
+        },
+        {
+            "question": "Which type of muscle contraction produces the highest mechanical tension per unit cross-section, often causing DOMS?",
+            "options": [
+                "Isometric contraction",
+                "Eccentric contraction",
+                "Concentric contraction",
+                "Isokinetic concentric contraction"
+            ],
+            "answer": "Eccentric contraction",
+            "explanation": "Eccentric contractions generate the highest mechanical tension on cellular structures, resulting in higher microdamage and triggering DOMS."
+        },
+        {
+            "question": "How many sets are executed during a single full session of the DeLorme PRE protocol?",
+            "options": [
+                "1 set",
+                "2 sets",
+                "3 sets",
+                "4 sets"
+            ],
+            "answer": "3 sets",
+            "explanation": "The DeLorme protocol features 3 distinct sets of 10 repetitions, utilizing 50%, 75%, and 100% of the patient's measured 10RM."
+        },
+        {
+            "question": "According to the SAID principle, to improve a patient's jumping ability, training should focus on:",
+            "options": [
+                "Slow, heavy resistance hamstring curls",
+                "Isometric hip abductions",
+                "Explosive plyometric squat jumps matching the movement speed and pattern",
+                "Sustained high-repetition ankle circles"
+            ],
+            "answer": "Explosive plyometric squat jumps matching the movement speed and pattern",
+            "explanation": "To improve dynamic performance like jumping, the SAID principle dictates that training must match the explosive speed, motor coordinates, and muscle patterns of jumping."
+        },
+        {
+            "question": "Which dynamic training variable describes the number of exercise sessions completed per week?",
+            "options": [
+                "Intensity",
+                "Volume",
+                "Frequency",
+                "Duration"
+            ],
+            "answer": "Frequency",
+            "explanation": "Frequency refers to the number of training or rehabilitation sessions completed within a specific timeframe (e.g., sessions per week)."
+        },
+        {
+            "question": "Which hormone is primary in anabolic pathways, stimulating skeletal muscle protein synthesis after resistance training?",
+            "options": [
+                "Cortisol",
+                "Thyroxine",
+                "Testosterone",
+                "Epinephrine"
+            ],
+            "answer": "Testosterone",
+            "explanation": "Testosterone, along with growth hormone and insulin-like growth factor (IGF-1), is a primary anabolic hormone promoting muscle protein synthesis."
+        },
+        {
+            "question": "In the DAPRE (Daily Adjustable Progressive Resistance Exercise) protocol, which set's performance is used to determine the adjusted resistance load for the subsequent fourth set?",
+            "options": [
+                "Set 1",
+                "Set 2",
+                "Set 3",
+                "The warm-up set"
+            ],
+            "answer": "Set 3",
+            "explanation": "The number of repetitions successfully completed in Set 3 (performed at 100% of the established 6RM) determines the immediate weight adjustment for Set 4 according to Knight's guidelines."
+        },
+        {
+            "question": "Which historical progressive resistance exercise system, developed in 1951, employs a regressive 10-set structure of 10 repetitions (100 total repetitions) to match muscle fatigue?",
+            "options": [
+                "DeLorme protocol",
+                "Oxford protocol",
+                "Zinovieff technique",
+                "MacQueen protocol"
+            ],
+            "answer": "Zinovieff technique",
+            "explanation": "The Zinovieff technique (the Oxford Isotonic Method) uses 10 sets of 10 repetitions with progressively decreasing loads to match physiological fatigue over a high-volume session."
+        },
+        {
+            "question": "Biomechanically, which of the following is a primary characteristic of a Closed Kinetic Chain (CKC) exercise compared to an Open Kinetic Chain (OKC) exercise?",
+            "options": [
+                "The distal segment of the limb is completely free to move in space",
+                "It isolates a single muscle group with minimal co-contraction",
+                "It promotes co-contraction of agonist and antagonist muscles around joints, enhancing stability",
+                "It is strictly used when joint weight-bearing is absolutely contraindicated"
+            ],
+            "answer": "It promotes co-contraction of agonist and antagonist muscles around joints, enhancing stability",
+            "explanation": "Closed Kinetic Chain (CKC) exercises feature a fixed distal segment, which increases joint approximation, stimulates proprioceptors, and promotes co-contraction of opposing muscle groups to enhance joint stability."
+        }
     ],
-    "local": [
-      "Immediate local post-operative soft tissue repair sites (e.g., within 6 weeks of tendon reconstruction).",
-      "Severe localized joint effusions or dynamic joint swelling.",
-      "Sharp, severe, localized pain elicited during the initial unresisted warm-up movements."
-    ]
-  },
-  "technique": {
-    "patientPreparation": [
-      "Conduct a comprehensive intake screening and determine the patient's baseline 10RM for the target muscle group.",
-      "Instruct the patient on correct postural stabilization, aligning their skeletal joints with the machine's axis.",
-      "Explain the selected loading protocol (DeLorme, Oxford, or MacQueen) and define proper breathing mechanics."
-    ],
-    "apparatusPreparation": [
-      "Inspect gym cable lines, pins, sandbags, and locking screws to ensure strict physical safety.",
-      "Select and lock the specific starting weight (e.g., 50% of 10RM for DeLorme Set 1) onto the resistive stack."
-    ],
-    "skinPreparation": [
-      "Verify skin health; ensure there are no open lesions that will contact heavy machine straps or bars."
-    ],
-    "electrodePlacement": [
-      "If tracking motor fatigue via surface electromyography, place dual sensors over the muscle belly."
-    ],
-    "treatmentProcedure": [
-      "1. Warm up the target muscle group with 5 to 10 repetitions of unresisted range of motion exercise.",
-      "2. Position the patient securely on the exercise table or platform, locking stabilizing straps to isolate the muscle.",
-      "3. Execute Set 1: Instruct the patient to perform 10 rhythmic, controlled repetitions of the exercise at 50% of 10RM.",
-      "4. Provide a 2-minute rest interval to replenish intramuscular phosphagen (ATP-CP) stores.",
-      "5. Execute Set 2: Instruct the patient to perform 10 repetitions at 75% of their 10RM weight.",
-      "6. Provide another 2-minute rest interval, encouraging local stretching and hydration.",
-      "7. Execute Set 3: Instruct the patient to perform 10 repetitions at 100% of their 10RM weight.",
-      "8. Monitor closely for movement compensations or substitution patterns as the muscle approaches terminal fatigue.",
-      "9. Document the patient’s perceived exertion and adjust the baseline 10RM for the next scheduled session."
-    ]
-  },
-  "precautions": [
-    "Prevent the Valsalva maneuver by instructing the patient to exhale during the lifting (concentric) phase.",
-    "Exercise high caution in juvenile or geriatric populations; prioritize body weight and low-resistance bands before using iron loading.",
-    "Do not allow rapid, jerky momentum movements; ensure each repetition is slow, controlled, and fluid.",
-    "RM (Repetition Maximum) Testing Safety: Prior to 1RM/10RM testing, ensure strict stabilization to prevent accessory substitutions and screen for contraindications like acute fractures, joint instability, severe pain, or acute soft-tissue healing. A proper warm-up procedure (5-10 submaximal reps) must precede testing, and the clinician must monitor closely for signs of form failure or compensatory movements to prevent acute musculoskeletal injury."
-  ],
-  "clinicalPearls": [
-    "Early strength gains in the first 4 weeks are almost purely neurological. Do not mistake early weight lifting gains for hypertrophic muscle growth; the nervous system is simply learning to coordinate existing fibers better.",
-    "The Oxford protocol is highly useful for patients with low fatigue tolerances. Starting heavy at 100% 10RM when the muscle is perfectly fresh matches peak biomechanical capacity, and dropping the load to 75% and 50% accommodates physiological fatigue curves.",
-    "Encourage active exhalation during the positive concentric push. Holding the breath increases intrathoracic pressure, dramatically raising systemic blood pressure and risking cardiovascular distress.",
-    "DAPRE Autoregulation: The beauty of the DAPRE system lies in its self-adjusting nature (autoregulation). By using the patient's performance in the third and fourth sets to determine immediate and next-session workloads, it eliminates clinical guesswork and protects healing orthopedic tissues from accidental overloading during periods of subclinical fatigue.",
-    "Choosing OKC versus CKC in Rehabilitation: When selecting exercise types, prioritize Open Kinetic Chain (OKC) for isolated single-joint strength deficits and early non-weight-bearing stages, but transition to Closed Kinetic Chain (CKC) exercises as soon as weight-bearing is tolerated to facilitate joint co-contraction, proprioception, and functional daily movement patterns."
-  ],
-  "clinicalProtocols": [
-    {
-      "condition": "Post-Immobilization Quadriceps Atrophy",
-      "position": "Seated on a standard quadriceps extension table with back supported",
-      "electrodePlacement": "None (skin dry and clean)",
-      "frequency": "3 sessions per week (Monday, Wednesday, Friday), with 48 hours rest",
-      "purpose": "Aims to rebuild quadriceps volume and concentric strength utilizing the DeLorme Progressive Resistance Exercise protocol."
-    }
-  ],
-  "vivaQuestions": [
-    "Question: Explain the physiological basis of the Overload Principle. | Answer: The Overload Principle states that to increase muscular strength or hypertrophy, a muscle must be challenged with loads exceeding its normal resting metabolic or structural threshold. This high mechanical tension disrupts the contractile proteins, triggering biological signaling pathways (such as mTOR) that stimulate myofibrillar protein synthesis. | Examiner Key Points: Mechanical load threshold, myofibrillar disruption, mTOR activation, protein synthesis. | Clinical Importance: Without progressive overload, muscles adapt to a static workload and strength gains plateaus.",
-    "Question: Compare the DeLorme protocol with the Oxford protocol in terms of loading sequences. | Answer: The DeLorme protocol is progressive: Set 1 is 10 reps at 50% of 10RM; Set 2 is 10 reps at 75% of 10RM; Set 3 is 10 reps at 100% of 10RM. The Oxford protocol is regressive: Set 1 is 10 reps at 100% of 10RM; Set 2 is 10 reps at 75% of 10RM; Set 3 is 10 reps at 50% of 10RM to accommodate physiological muscle fatigue. | Examiner Key Points: Progressive vs regressive loading, sets percentages of 10RM, fatigue compensation. | Clinical Importance: Oxford minimizes injury risk from straining with 100% load when already fatigued in the final set.",
-    "Question: What is the SAID Principle and provide an example of its clinical application? | Answer: SAID stands for Specific Adaptations to Imposed Demands. It states that the human body adapts dynamically to the exact mechanical, metabolic, and movement vectors applied. For example, if a patient needs to walk up stairs, training them with slow isometric leg presses is less effective than prescribing eccentric-concentric step-ups, which match the joint angles and speeds of stair walking. | Examiner Key Points: Specific adaptation, mechanical/metabolic specificity, joint vectors. | Clinical Importance: Guides specific exercise selection to ensure clinical outcomes carry over directly to daily functional skills.",
-    "Question: How do you train a muscle differently for Strength versus Endurance? | Answer: To train for strength, prescribe high-intensity, low-volume protocols (typically 60% to 80% 1RM, performing 6 to 12 repetitions for 3 to 5 sets with 2-3 minute rest intervals). To train for endurance, prescribe low-intensity, high-volume protocols (typically under 50% 1RM, performing 15 to 25 repetitions for 3 sets with shorter 30-60 second rest intervals). | Examiner Key Points: Strength (high load, low reps, long rest) vs Endurance (low load, high reps, short rest), motor unit recruitment. | Clinical Importance: Matches exercise dosage directly to the tissue's functional requirements during ADLs.",
-    "Question: What is the MacQueen Protocol for Progressive Resistance Exercise? | Answer: The MacQueen protocol is a high-intensity strength-building protocol consisting of 4 sets of 10 repetitions, where all 4 sets are executed at a constant load of 100% of 10RM (with no progressive warm-up or regressive cooldown adjustments within the sets). | Examiner Key Points: 4 sets of 10 reps, constant 100% of 10RM weight, no scaling. | Clinical Importance: A highly advanced protocol suitable for late-stage sports-specific rehabilitation or athletic training.",
-    "Question: Why is the Valsalva maneuver dangerous during heavy weight training and how do you prevent it? | Answer: The Valsalva maneuver (forced exhalation against a closed glottis) dramatically increases intrathoracic pressure. This compresses the vena cava, reducing venous return and dropping cardiac output, which is immediately followed by a rebound surge of blood pressure when the glottis opens, risking cardiac strain. It is prevented by instructing the patient to count aloud or breathe deeply (exhale on exertion) during the concentric phase of the lift. | Examiner Key Points: Closed glottis, intrathoracic pressure rise, decreased venous return, exhale on exertion. | Clinical Importance: Crucial for patient safety, particularly in hypertensive or cardiovascular-compromised cohorts.",
-    "Question: Explain the Reversibility Principle in the context of therapeutic exercise. | Answer: The Reversibility Principle outlines that the physiological adaptations achieved through progressive resistance exercise (hypertrophy, motor unit synchronization) are transient. If the regular heavy mechanical loading stimulations are stopped, these muscular gains will begin to decay and revert to baseline within 2 to 4 weeks ('use it or lose it'). | Examiner Key Points: Transient adaptations, decay of gains, lack of mechanical stimulus. | Clinical Importance: Reinforces the clinical need for lifelong maintenance home exercise plans to sustain rehabilitation benefits.",
-    "Question: What is 1-Repetition Maximum (1RM) and how is it clinically determined in rehabilitation safely? | Answer: 1-Repetition Maximum is the maximum load a patient can lift successfully through full ROM exactly once. In early or fragile rehabilitation stages, it is determined safely and indirectly using submaximal prediction tables (e.g., measuring a comfortable 10RM and using equations like Epley's formula to estimate 1RM without risking joint strain). | Examiner Key Points: Greatest load lifted once, submaximal prediction, safety estimation equations. | Clinical Importance: Provides an objective metric to safely prescribe exact training percentages without causing acute tissue failure.",
-    "Question: Describe the neurological mechanisms responsible for strength gains during the first 4 weeks of a PRE program. | Answer: Initial strength gains are primarily driven by neural adaptations, rather than muscle fiber growth. These include increased recruitment of high-threshold motor units, increased firing frequency (rate coding), improved motor synchronization, and decreased co-activation of antagonist muscle groups, which reduces resistance to the movement. | Examiner Key Points: Neural recruitment, rate coding, motor unit synchronization, decreased antagonist co-activation. | Clinical Importance: Explains why patients feel immediately stronger within days before actual muscular mass increases.",
-    "Question: Why is a 48-hour rest interval recommended between intense resistance training sessions for the same muscle group? | Answer: Intense mechanical loading creates microscopic tears in muscle fibers (sarcomere damage). A 48-hour recovery window is physiologically required to allow satellite cell proliferation, muscle protein synthesis, and replenishment of depleted glycogen stores, facilitating muscle repair and avoiding overtraining syndromes. | Examiner Key Points: Microscopic sarcomere damage, protein synthesis, satellite cell proliferation, glycogen replenishment. | Clinical Importance: prevents repetitive tissue breakdown and optimizes muscle adaptation curves.",
-    "Question: Explain the Daily Adjustable Progressive Resistance Exercise (DAPRE) protocol, its structure, and its clinical advantages. | Answer: Developed by Knight, the DAPRE protocol is an autoregulated, four-set resistance program based on a 6RM baseline. Set 1 consists of 10 reps at 50% of 6RM; Set 2 is 6 reps at 75% of 6RM; Set 3 is as many reps as possible (maximum effort) at 100% of 6RM. The number of reps performed in Set 3 determines the adjusted load for Set 4 (also performed to maximum effort). The performance in Set 4 determines the working load for the next session. Its clinical advantage is autoregulation, which dynamically matches loading to the patient's daily physiological fluctuations and speeds up recovery in orthopedic rehabilitation. | Examiner Key Points: Knight's protocol, 4-set structure, 6RM base, Set 3 determines Set 4, Set 4 determines next day, autoregulation. | Clinical Importance: Ideal for postoperative knee or shoulder rehab where progress is non-linear and traditional static protocols might overload healing tissues.",
-    "Question: Differentiate between Open Kinetic Chain (OKC) and Closed Kinetic Chain (CKC) exercises, providing clinical examples and indications for each. | Answer: In OKC, the distal segment of the limb is free to move in space (e.g., seated knee extension, dumbbell biceps curl), allowing isolated muscle strengthening and joint-specific targeting, indicated when adjacent joints are immobilized or weight-bearing is contraindicated. In CKC, the distal segment is fixed to a stable surface (e.g., squat, push-up), meaning motion at one joint dictates motion at all others. This promotes co-contraction of agonists/antagonists, joint compression/stability, and proprioceptive feedback, making it highly indicated for functional weight-bearing progression and joint stabilization. | Examiner Key Points: Distal segment free (OKC) vs fixed (CKC), isolation vs co-contraction, examples (knee extension vs squat), indications (non-weight bearing vs functional rehabilitation). | Clinical Importance: Synthesizes biomechanical principles to guide safe transitions from early isolated tissue loading to functional multi-joint coordination."
-  ],
-  "mcqs": [
-    {
-      "question": "Which training principle states that to improve strength, a muscle must be challenged with loads exceeding its normal capacity?",
-      "options": ["Overload Principle", "SAID Principle", "Reversibility Principle", "Specificity Principle"],
-      "answer": "Overload Principle",
-      "explanation": "The Overload Principle states that in order to induce physiological adaptations like strength and hypertrophy, muscular tissues must be stressed beyond their normal resting levels."
-    },
-    {
-      "question": "In the DeLorme protocol, Set 1 consists of 10 repetitions at representing which percentage of the patient's 10RM?",
-      "options": ["25% of 10RM", "50% of 10RM", "75% of 10RM", "100% of 10RM"],
-      "answer": "50% of 10RM",
-      "explanation": "The DeLorme protocol starts progressively. Set 1 consists of 10 reps at 50% of the patient's 10RM weight."
-    },
-    {
-      "question": "The Oxford protocol is designed to match physiological muscle fatigue by utilizing a sequence of:",
-      "options": ["Progressive loading sets", "Regressive loading sets", "De-loading and reloading sets", "Constant maximum loading sets"],
-      "answer": "Regressive loading sets",
-      "explanation": "The Oxford protocol is regressive, starting heavy at 100% of 10RM and dropping to 75% and 50% of 10RM to match progressive muscle fatigue curves."
-    },
-    {
-      "question": "Which of the following describes the MacQueen protocol for progressive resistance exercise?",
-      "options": ["3 sets of 10 repetitions with progressive loads", "4 sets of 10 repetitions using a constant load of 100% of 10RM", "2 sets of 15 repetitions with regressive loads", "5 sets of 5 repetitions with 5RM weight"],
-      "answer": "4 sets of 10 repetitions using a constant load of 100% of 10RM",
-      "explanation": "The MacQueen protocol consists of 4 sets of 10 repetitions utilizing a constant load of 100% of the patient's 10RM."
-    },
-    {
-      "question": "For developing maximum muscular strength, which of the following load and repetition schemes is recommended?",
-      "options": ["60% to 80% of 1RM, for 6 to 12 repetitions", "Less than 50% of 1RM, for 15 to 25 repetitions", "80% of 1RM, for 30 repetitions to fail", "20% of 1RM, for 50 repetitions"],
-      "answer": "60% to 80% of 1RM, for 6 to 12 repetitions",
-      "explanation": "Maximum muscular strength is optimized using relatively high loads (60-80% 1RM) and lower repetitions (6 to 12) to recruit high-threshold Type II motor units."
-    },
-    {
-      "question": "Which muscle fiber type is characterized by fast contraction velocity and high glycolytic capacity, showing the greatest hypertrophy under heavy loads?",
-      "options": ["Type I (Slow Oxidative)", "Type IIa (Fast Oxidative-Glycolytic)", "Type IIb (Fast Glycolytic)", "Type III (Sensory-Motor)"],
-      "answer": "Type IIb (Fast Glycolytic)",
-      "explanation": "Type IIb Fast Glycolytic fibers contract rapidly, develop high tension, and yield the most pronounced structural hypertrophy when challenged with heavy resistance."
-    },
-    {
-      "question": "The SAID Principle stands for:",
-      "options": ["Specific Adaptation to Imposed Demands", "Systemic Action in Dynamic Development", "Skeletal Alignment in Daily Movement", "Sensory Integration in Active Development"],
-      "answer": "Specific Adaptation to Imposed Demands",
-      "explanation": "SAID is an acronym for Specific Adaptation to Imposed Demands, indicating that tissues adapt precisely to the specific physical stressors applied to them."
-    },
-    {
-      "question": "Which mechanism is primarily responsible for strength increases during the first 2 to 4 weeks of a dynamic resistance program?",
-      "options": ["Myofibrillar hypertrophy", "Neurological adaptations", "Connective tissue thickening", "Angiogenesis and capillardensity rise"],
-      "answer": "Neurological adaptations",
-      "explanation": "Strength increases during the initial 2-4 weeks are primarily driven by neural adaptations, such as high motor unit recruitment, firing rate coding, and better synchronization."
-    },
-    {
-      "question": "What is the biological pathway primarily responsible for skeletal muscle protein synthesis and hypertrophic growth during resistance loading?",
-      "options": ["The mTOR pathway", "The Krebs cycle", "The glycolytic pathway", "The somatic reflex loop"],
-      "answer": "The mTOR pathway",
-      "explanation": "The mechanistic target of rapamycin (mTOR) pathway is the primary cellular signaling cascade regulating muscle protein synthesis and hypertrophy in response to mechanical loading."
-    },
-    {
-      "question": "Which of the following describes the Reversibility Principle?",
-      "options": ["You can reverse muscle soreness by stretching", "Gains in strength and hypertrophy are permanent", "Strength adaptations are transient and decay if loading stimulus stops", "Muscles can switch from flexor to extensor roles"],
-      "answer": "Strength adaptations are transient and decay if loading stimulus stops",
-      "explanation": "The Reversibility Principle outlines that physical adaptations (strength, volume) are transient and will slowly decay once training stimuli are discontinued."
-    },
-    {
-      "question": "To build muscle endurance, what is the optimal rest interval between successive exercise sets?",
-      "options": ["30 to 60 seconds", "2 to 3 minutes", "5 minutes", "10 minutes"],
-      "answer": "30 to 60 seconds",
-      "explanation": "Muscle endurance training utilizing submaximal loads requires shorter rest periods (30 to 60 seconds) to sustain metabolic challenge and build local fatigue tolerance."
-    },
-    {
-      "question": "To build muscle strength, what is the optimal rest interval between successive exercise sets?",
-      "options": ["10 to 15 seconds", "30 seconds", "2 to 3 minutes", "Over 10 minutes"],
-      "answer": "2 to 3 minutes",
-      "explanation": "Strength training utilizes heavy loads, requiring longer rest intervals (2 to 3 minutes) to allow complete regeneration of the intramuscular ATP-CP phosphagen system."
-    },
-    {
-      "question": "The total volume of work performed in a resistance training session is mathematically calculated as:",
-      "options": ["Sets x Repetitions x Resistance Load", "Sets + Repetitions + Load", "Load divided by Sets", "Repetitions x Time spent resting"],
-      "answer": "Sets x Repetitions x Resistance Load",
-      "explanation": "Volume is defined as the total mechanical work performed, calculated as the product of Sets, Repetitions, and Resistance load weight."
-    },
-    {
-      "question": "What physiological event is triggered if a patient performs the Valsalva maneuver during heavy resistance lifting?",
-      "options": ["A drop in intrathoracic pressure", "An immediate decrease in heart rate", "A spike in blood pressure due to increased intrathoracic pressure", "An increase in cardiac venous return"],
-      "answer": "A spike in blood pressure due to increased intrathoracic pressure",
-      "explanation": "The Valsalva maneuver dramatically increases intrathoracic pressure and arteriole resistance, provoking a dangerous transient spike in systemic blood pressure."
-    },
-    {
-      "question": "Which of the following is an absolute general contraindication to beginning a Progressive Resistance Exercise program?",
-      "options": ["Mild osteoarthritis of the knee", "Unstable cardiovascular disease or acute heart failure", "A history of controlled asthma", "A healed skin scar over the forearm"],
-      "answer": "Unstable cardiovascular disease or acute heart failure",
-      "explanation": "Unstable cardiovascular disease, severe ischemia, or unstable pressure states are strict contraindications to heavy resistance training due to acute cardiac load."
-    },
-    {
-      "question": "Soreness that peaking 24 to 48 hours after eccentric resistance training is clinically termed as:",
-      "options": ["Acute metabolic fatigue", "Myasthenia Gravis", "Delayed Onset Muscle Soreness (DOMS)", "Compartment syndrome"],
-      "answer": "Delayed Onset Muscle Soreness (DOMS)",
-      "explanation": "DOMS is the localized muscle tenderness and stiffness that typically develops and peaks 24 to 48 hours following vigorous eccentric exercise."
-    },
-    {
-      "question": "In the Oxford protocol, Set 3 consists of 10 repetitions at which percentage of the 10RM workload?",
-      "options": ["100% of 10RM", "75% of 10RM", "50% of 10RM", "25% of 10RM"],
-      "answer": "50% of 10RM",
-      "explanation": "In the regressive Oxford protocol, Set 3 is executed at 50% of the baseline 10RM workload to adjust for muscle fatigue."
-    },
-    {
-      "question": "What is the primary mechanical stimulus required to cause muscle satellite cell activation and hypertrophy?",
-      "options": ["Absolute muscle length", "Oxygen depletion", "Constant speed of contraction", "Mechanical tension and microdamage"],
-      "answer": "Mechanical tension and microdamage",
-      "explanation": "Mechanical tension, along with microtrauma to muscle fibers, serves as the primary structural stimulus to trigger satellite cells, leading to muscle remodeling."
-    },
-    {
-      "question": "Eccentric contraction is defined as muscle contraction while the muscle-tendon unit is:",
-      "options": ["Lengthening under load", "Shortening under load", "Remaining at a constant length", "Completely unweighted"],
-      "answer": "Lengthening under load",
-      "explanation": "An eccentric contraction is a dynamic muscle contraction where the muscle-tendon unit actively generates force while undergoing controlled elongation."
-    },
-    {
-      "question": "Concentric contraction is defined as muscle contraction while the muscle-tendon unit is:",
-      "options": ["Lengthening", "Shortening", "Static", "Maintaining zero muscle fiber tension"],
-      "answer": "Shortening",
-      "explanation": "A concentric contraction is a dynamic muscle contraction where the muscle actively develops tension and shortens to move a bony segment."
-    },
-    {
-      "question": "Which of the following is a primary adaptation of aerobic endurance training but is NOT typically primary in heavy resistance training?",
-      "options": ["Significant myofibrillar diameter expansion", "Inhibition of alpha motor neurons", "Marked increase in mitochondrial biogenesis and capillary density", "Decreased skin sensation"],
-      "answer": "Marked increase in mitochondrial biogenesis and capillary density",
-      "explanation": "Aerobic endurance training primarily stimulates mitochondrial biogenesis, capillarization, and aerobic enzyme concentration, whereas resistance training targets myofibrillar protein expansion."
-    },
-    {
-      "question": "When starting a PRE program, the initial baseline loads should be determined using which clinically standardized metric?",
-      "options": ["Calculating the 10-Repetition Maximum (10RM)", "The patient's body weight", "The therapist's visual estimation", "The maximum manual breaking force of the clinician"],
-      "answer": "Calculating the 10-Repetition Maximum (10RM)",
-      "explanation": "PRE protocols (such as DeLorme and Oxford) are built on percentages of the 10RM workload, which provides an objective baseline of dynamic force capacity."
-    },
-    {
-      "question": "Which principle states that the physiological gains cardiorespiratory or muscle strength will revert to baseline when training stimulus ceases?",
-      "options": ["Reversibility Principle", "Overload Principle", "SAID Principle", "Specificity Principle"],
-      "answer": "Reversibility Principle",
-      "explanation": "The Reversibility Principle highlights that physical adaptations decrease and decay when the mechanical or metabolic overload stimulus is removed."
-    },
-    {
-      "question": "Which of the following exercise modalities utilizes a constant velocity of movement throughout the entire joint range of motion?",
-      "options": ["Dynamic isotonic exercise", "Static isometric exercise", "Constant load exercise", "Isokinetic exercise"],
-      "answer": "Isokinetic exercise",
-      "explanation": "Isokinetic exercise utilizes specialized motorized machines that control the speed of joint angular movement, maintaining a constant velocity across the range."
-    },
-    {
-      "question": "What is a major advantage of the Oxford regressive protocol over the DeLorme progressive protocol?",
-      "options": ["It requires less overall training time", "It starts with a light set to warm up joints", "It reduces the risk of muscle failure during the final set when fatigue is highest", "It builds greater muscular endurance at 20RM"],
-      "answer": "It reduces the risk of muscle failure during the final set when fatigue is highest",
-      "explanation": "By performing the 100% 10RM set first while fresh, the Oxford protocol reduces the risk of structural overload and muscle failure occurring under peak load at the end of the session."
-    },
-    {
-      "question": "Which type of muscle contraction produces the highest mechanical tension per unit cross-section, often causing DOMS?",
-      "options": ["Isometric contraction", "Eccentric contraction", "Concentric contraction", "Isokinetic concentric contraction"],
-      "answer": "Eccentric contraction",
-      "explanation": "Eccentric contractions generate the highest mechanical tension on cellular structures, resulting in higher microdamage and triggering DOMS."
-    },
-    {
-      "question": "How many sets are executed during a single full session of the DeLorme PRE protocol?",
-      "options": ["1 set", "2 sets", "3 sets", "4 sets"],
-      "answer": "3 sets",
-      "explanation": "The DeLorme protocol features 3 distinct sets of 10 repetitions, utilizing 50%, 75%, and 100% of the patient's measured 10RM."
-    },
-    {
-      "question": "According to the SAID principle, to improve a patient's jumping ability, training should focus on:",
-      "options": ["Slow, heavy resistance hamstring curls", "Isometric hip abductions", "Explosive plyometric squat jumps matching the movement speed and pattern", "Sustained high-repetition ankle circles"],
-      "answer": "Explosive plyometric squat jumps matching the movement speed and pattern",
-      "explanation": "To improve dynamic performance like jumping, the SAID principle dictates that training must match the explosive speed, motor coordinates, and muscle patterns of jumping."
-    },
-    {
-      "question": "Which dynamic training variable describes the number of exercise sessions completed per week?",
-      "options": ["Intensity", "Volume", "Frequency", "Duration"],
-      "answer": "Frequency",
-      "explanation": "Frequency refers to the number of training or rehabilitation sessions completed within a specific timeframe (e.g., sessions per week)."
-    },
-    {
-      "question": "Which hormone is primary in anabolic pathways, stimulating skeletal muscle protein synthesis after resistance training?",
-      "options": ["Cortisol", "Thyroxine", "Testosterone", "Epinephrine"],
-      "answer": "Testosterone",
-      "explanation": "Testosterone, along with growth hormone and insulin-like growth factor (IGF-1), is a primary anabolic hormone promoting muscle protein synthesis."
-    },
-    {
-      "question": "In the DAPRE (Daily Adjustable Progressive Resistance Exercise) protocol, which set's performance is used to determine the adjusted resistance load for the subsequent fourth set?",
-      "options": [
-        "Set 1",
-        "Set 2",
-        "Set 3",
-        "The warm-up set"
-      ],
-      "answer": "Set 3",
-      "explanation": "The number of repetitions successfully completed in Set 3 (performed at 100% of the established 6RM) determines the immediate weight adjustment for Set 4 according to Knight's guidelines."
-    },
-    {
-      "question": "Which historical progressive resistance exercise system, developed in 1951, employs a regressive 10-set structure of 10 repetitions (100 total repetitions) to match muscle fatigue?",
-      "options": [
-        "DeLorme protocol",
-        "Oxford protocol",
-        "Zinovieff technique",
-        "MacQueen protocol"
-      ],
-      "answer": "Zinovieff technique",
-      "explanation": "The Zinovieff technique (the Oxford Isotonic Method) uses 10 sets of 10 repetitions with progressively decreasing loads to match physiological fatigue over a high-volume session."
-    },
-    {
-      "question": "Biomechanically, which of the following is a primary characteristic of a Closed Kinetic Chain (CKC) exercise compared to an Open Kinetic Chain (OKC) exercise?",
-      "options": [
-        "The distal segment of the limb is completely free to move in space",
-        "It isolates a single muscle group with minimal co-contraction",
-        "It promotes co-contraction of agonist and antagonist muscles around joints, enhancing stability",
-        "It is strictly used when joint weight-bearing is absolutely contraindicated"
-      ],
-      "answer": "It promotes co-contraction of agonist and antagonist muscles around joints, enhancing stability",
-      "explanation": "Closed Kinetic Chain (CKC) exercises feature a fixed distal segment, which increases joint approximation, stimulates proprioceptors, and promotes co-contraction of opposing muscle groups to enhance joint stability."
-    }
-  ],
-  "reference": [
-    "DeLorme, T. L., & Watkins, A. L. - Progressive Resistance Exercise: Technic and Medical Application",
-    "Carolyn Kisner & Lynn Allen Colby - Therapeutic Exercise: Foundations and Techniques",
-    "S. Lakshmi Narayanan - Textbook of Therapeutic Exercises"
-  ]
+    "viva": [],
+    "flashcards": [],
+    "references": []
 }

@@ -1,387 +1,395 @@
 {
-  "subject": "Exercise Therapy II",
-  "chapterId": "ex2_ch12",
-  "chapterName": "Proprioceptive Neuromuscular Facilitation",
-  "definition": [
-    "Proprioceptive Neuromuscular Facilitation (PNF): An approach to therapeutic exercise that utilizes sensory receptor stimulation (proprioceptors) to facilitate or inhibit motor unit recruitment and improve functional movement patterns.",
-    "Irradiation (Overflow Principle): The spread of neuromuscular excitation from stronger, more active muscle groups to weaker, un-recruited muscles within a specific diagonal movement pattern.",
-    "Successive Induction: A neurophysiological process where contraction of one muscle (agonist) is immediately followed by a temporary surge in excitability and facilitation of its opposing muscle (antagonist).",
-    "Reciprocal Inhibition: A spinal reflex pathway where motor signals activating an agonist muscle simultaneously send inhibitory signals via interneurons to relax and silent its antagonist.",
-    "Autogenic Inhibition: A protective reflex pathway where high physical tension in muscle fibers stimulates Golgi tendon organs (GTOs), sending inhibitory signals that relax that same muscle to prevent injury.",
-    "D1 Flexion (Upper Extremity): A diagonal pattern consisting of shoulder flexion, adduction, external rotation, forearm supination, wrist flexion, and finger flexion (commonly styled as 'shaving' or 'feeding').",
-    "D1 Extension (Upper Extremity): A diagonal pattern consisting of shoulder extension, abduction, internal rotation, forearm pronation, wrist extension, and finger extension (commonly styled as the 'wind-up' or 'throwing').",
-    "D2 Flexion (Upper Extremity): A diagonal pattern consisting of shoulder flexion, abduction, external rotation, forearm supination, wrist extension, and finger extension (commonly styled as 'drawing a sword').",
-    "D2 Extension (Upper Extremity): A diagonal pattern consisting of shoulder extension, adduction, internal rotation, forearm pronation, wrist flexion, and finger flexion (commonly styled as 'sheathing the sword').",
-    "Rhythmic Initiation: A PNF technique designed to address motor initiation deficits, progressing from passive movement, to active assisted, to active resisted, and finally to independent active movement.",
-    "Hold-Relax: A PNF stretching technique designed to increase range of motion, utilizing an isometric contraction of the tight muscle against resistance, followed by voluntary relaxation and passive stretch (relying on autogenic inhibition).",
-    "Contract-Relax: A PNF stretching technique designed to increase range of motion, utilizing a concentric contraction of the rotary components of the tight muscle, followed by relaxation and passive stretch.",
-    "Repeated Stretch (Repeated Contractions): A technique that uses a quick stretch stimulus at the point of muscle tension to trigger spinal stretch reflexes, facilitating contraction in weak muscles.",
-    "Slow Reversal (Dynamic Reversals): A technique involving active alternating contractions of antagonists, moving from the agonist pattern to the antagonist pattern without rest, to build coordination and endurance.",
-    "Dr. Herman Kabat: A pioneering neurophysiologist and physician who, in the 1940s, discovered and developed the neuromuscular rehabilitation concepts that formed the basis of PNF, focusing on multi-planar movement synergies and neurophysiological facilitation.",
-    "Margaret Knott: A pioneering physical therapist who collaborated with Dr. Kabat at the Kaiser Foundation Rehabilitation Center to develop, refine, and clinically implement the manual techniques and diagonal patterns of PNF.",
-    "Dorothy Voss: A physical therapist who joined Knott and Kabat in the 1950s, helping to codify PNF principles and co-authoring the first comprehensive textbook on the subject to educate clinicians worldwide.",
-    "Kaiser Foundation Rehabilitation Center: Located in Vallejo, California, this rehabilitation center was the historic birthplace where Kabat, Knott, and Voss developed, tested, and clinically refined the PNF concept.",
-    "Historical Purpose of PNF: Initially developed to treat patients with neurological disabilities, especially poliomyelitis and multiple sclerosis, by utilizing synergistic, multi-planar patterns to mobilize and maximize the patient's dormant neuromuscular potential.",
-    "Positive Approach (PNF Philosophy): A foundational PNF philosophy that avoids focusing on pain or physical deficits, instead initiating therapy by targeting strong, pain-free, and functional muscle groups to build patient confidence, induce physiological irradiation (overflow), and facilitate weaker body parts.",
-    "Mobilization of Reserve Potential (PNF Philosophy): The philosophical belief that every human has untapped neuromuscular and physical resources that can be mobilized and enhanced through structured, repetitive, and progressively challenging multisensory stimulation.",
-    "Intensive Training (PNF Philosophy): The principle that effective motor learning and neuromuscular recovery require active, high-repetition, and intense participation paired with graded manual resistance to drive neuroplastic changes and reinforce synaptic pathways.",
-    "Whole-Person Approach (PNF Philosophy): A holistic outlook treating the patient as an integrated physical, cognitive, and emotional system, where interventions address overall functional needs rather than isolating a single pathological joint segment.",
-    "Functional Orientation (PNF Philosophy): The design of PNF patterns, resistance, and manual techniques to directly align with the patient's real-world functional activities, motor tasks, and daily living goals, maximizing rehabilitation efficacy.",
-    "Lower Limb D1 Flexion: A diagonal pattern consisting of hip flexion, adduction, and external rotation; ankle dorsiflexion and inversion; and toe extension. It begins in hip extension, abduction, and internal rotation with ankle plantarflexion/eversion, and ends in full flexion, adduction, and external rotation with dorsiflexion/inversion. A functional example is crossing the legs while sitting or kicking a soccer ball.",
-    "Lower Limb D1 Extension: A diagonal pattern consisting of hip extension, abduction, and internal rotation; ankle plantarflexion and eversion; and toe flexion. It starts from hip flexion, adduction, and external rotation with ankle dorsiflexion/inversion, and ends in extension, abduction, and internal rotation with plantarflexion/eversion. A functional example is the toe push-off phase of gait or descending a step.",
-    "Lower Limb D2 Flexion: A diagonal pattern consisting of hip flexion, abduction, and internal rotation; ankle dorsiflexion and eversion; and toe extension. It starts from hip extension, adduction, and external rotation with ankle plantarflexion/inversion, and ends in full flexion, abduction, and internal rotation with dorsiflexion/eversion. A functional example is stepping over an obstacle, climbing into a high vehicle, or exiting a bathtub.",
-    "Lower Limb D2 Extension: A diagonal pattern consisting of hip extension, adduction, and external rotation; ankle plantarflexion and inversion; and toe flexion. It starts from hip flexion, abduction, and internal rotation with ankle dorsiflexion/eversion, and ends in extension, adduction, and external rotation with plantarflexion/inversion. A functional example is returning the leg to a stable, standing posture or mounting a bicycle.",
-    "Rhythmic Stabilization: A PNF technique utilizing alternating isometric contractions against progressive manual resistance applied to opposing muscle groups without allowing any movement. Its mechanism is to stimulate co-contraction of agonist and antagonist muscles around a joint. Clinically, it is used to improve joint stability, increase postural control, and relieve pain. Its neurophysiological basis relies on the co-excitation of alpha and gamma motor neurons, boosting proprioceptive feedback.",
-    "Combination of Isotonics (Agonist Reversals): A PNF technique combining concentric, isometric, and eccentric contractions of a single agonist muscle group without any relaxation between phases. It features: 1) a concentric phase where the patient contracts against manual resistance; 2) an isometric phase where the patient holds the terminal position statically; and 3) an eccentric phase where the patient slowly controls muscle lengthening back to the starting point against the therapist's resistance. Clinically, it is used to build eccentric motor control, dynamic strength, and functional stability during decelerating tasks like squatting down or sitting from standing."
-  ],
-  "principle": [
-    "Spatial Summation Stimulation: Simultaneous application of multiple sensory inputs (e.g. manual contacts, clear verbal commands, and visual tracking) enhances motor unit recruitment.",
-    "Temporal Summation Stimulation: Repetitive, rapid sensory inputs (e.g. repeated stretches) accumulate to facilitate motor neuron activation.",
-    "Manual Contacts Guidance: Placing the therapist's hands directly over the target muscles stimulates cutaneous mechanoreceptors, guiding the patient's direction of movement.",
-    "Quick Stretch Reflex Activation: A rapid, brief stretch applied to a muscle at its lengthened range activates muscle spindle Ia fibers, triggering spinal stretching reflexes.",
-    "Traction and Approximation Mechanics: Separation of joint structures (traction) facilitates flexion and movement, whereas compression (approximation) facilitates stability and extension."
-  ],
-  "equipment": [
-    "Padded wide neuro treatment tables.",
-    "Bolster cushions, wedges, and positioning straps.",
-    "Resistance bands, pulleys, and balance platforms."
-  ],
-  "parameters": {
-    "intensity": "Controlled manual resistance applied by the physical therapist, matching the target motor goal (facilitation vs relaxation)",
-    "duration": "10 to 15 seconds per isometric hold in Hold-Relax; 20-30 minutes for a complete movement-pattern session",
-    "frequency": "2 to 4 sessions per week, scheduled to facilitate neuromuscular recovery, coordination, and range of motion",
-    "repetitions": "4 to 6 repetitions per diagonal pattern or technique sequence, with sufficient rest intervals to prevent fatigue"
-  },
-  "physiologicalEffects": [
-    {
-      "effect": "Motor Unit Recruitment",
-      "frequency": "During active pattern efforts",
-      "mechanism": [
-        "Facilitates spinal motor neurons through spatial and temporal summation of sensory inputs.",
-        "Improves motor unit firing rates and synchronization in weak or inhibited muscles."
-      ]
+    "metadata": {
+        "chapterId": "",
+        "title": "",
+        "subject": "",
+        "keywords": [],
+        "tags": []
     },
-    {
-      "effect": "Myofascial Relaxation",
-      "frequency": "Immediately following isometric contractions in Hold-Relax stretching",
-      "mechanism": [
-        "High muscular tension during holding activates Golgi tendon organs (GTOs).",
-        "Discharges Ib inhibitory interneurons in the spinal cord, reducing motor tone in the target muscle."
-      ]
+    "theory": {
+        "definitions": [],
+        "coreConcepts": [],
+        "equipment": []
     },
-    {
-      "effect": "Reciprocal Motor Inhibition",
-      "frequency": "During active contraction of the antagonist muscle group",
-      "mechanism": [
-        "Excitatory signals to the agonist trigger inhibitory interneurons of the antagonist.",
-        "Relaxes the target muscle, facilitating joint range-of-motion expansion."
-      ]
+    "clinicalCorrelations": {
+        "pearls": [],
+        "precautions": [],
+        "indications": [],
+        "contraindications": {
+            "general": [],
+            "local": []
+        },
+        "technique": {
+            "patientPreparation": [],
+            "apparatusPreparation": [],
+            "skinPreparation": [],
+            "electrodePlacement": [],
+            "treatmentProcedure": []
+        },
+        "protocols": [],
+        "physiologicalEffects": []
     },
-    {
-      "effect": "Joint Position Sense Calibration",
-      "frequency": "Through continuous manual guidance and joint compression",
-      "mechanism": [
-        "Stimulates joint mechanoreceptors (Ruffini corpuscles, Pacinian corpuscles) and muscle spindles.",
-        "Enhances conscious and unconscious proprioception, improving motor coordination."
-      ]
-    }
-  ],
-  "indications": [
-    "Subacute strokes, traumatic brain injuries, or spinal cord lesions with asymmetrical motor control deficit.",
-    "Severe post-operative joint stiffness (e.g. post-arthrplasty, post-fracturing immobilization) with muscle inhibition.",
-    "Myofascial tightness, protective muscle spasms, and structural range of motion restrictions.",
-    "Kinetic uncoordination, tremors, or postural instability needing trunk control stabilization.",
-    "Athletic injury recovery requiring restoration of multi-planar dynamic stability."
-  ],
-  "contraindications": {
-    "general": [
-      "Severe, unhealed skeletal fractures or unstable bone pathology in the kinetic chain.",
-      "Post-operative tendon or ligament repair protocols that could be compromised by muscle loading.",
-      "Severe osteoporosis or metabolic bone diseases where heavy torque forces are contraindicated.",
-      "Acute deep vein thrombosis (DVT) or active local thrombophlebitis.",
-      "Severe cognitive deficits or inability to understand verbal commands."
+    "subjectExtensions": {
+        "anatomy": {
+            "parameters": {}
+        }
+    },
+    "clinicalCases": [],
+    "mcqs": [
+        {
+            "question": "Which neurophysiological principle states that the contraction of an agonist muscle reflexively inhibits its antagonist?",
+            "options": [
+                "Autogenic inhibition",
+                "Reciprocal inhibition",
+                "Successive induction",
+                "Irradiation"
+            ],
+            "answer": "Reciprocal inhibition",
+            "explanation": "Reciprocal inhibition is a spinal reflex pathway where motor signals that activate an agonist simultaneously inhibit its antagonist, relaxing the opposing muscles."
+        },
+        {
+            "question": "Which PNF stretching technique utilizes a submaximal isometric contraction of the tight muscle to stimulate Golgi tendon organs (GTOs) and induce relaxation?",
+            "options": [
+                "Hold-Relax",
+                "Rhythmic Initiation",
+                "Repeated Stretch",
+                "Slow Reversal"
+            ],
+            "answer": "Hold-Relax",
+            "explanation": "The Hold-Relax technique uses an isometric contraction of the tight target muscle to stimulate GTOs, inducing autogenic inhibition and joint relaxation."
+        },
+        {
+            "question": "The physiological mechanism where high physical tension in a muscle causes Golgi tendon organs to send inhibitory signals that relax that same muscle is termed:",
+            "options": [
+                "Successive induction",
+                "Temporal summation",
+                "Autogenic inhibition",
+                "Reciprocal inhibition"
+            ],
+            "answer": "Autogenic inhibition",
+            "explanation": "Autogenic inhibition is a protective reflex where high muscle tension stimulates GTOs, sending inhibitory signals to relax the target muscle."
+        },
+        {
+            "question": "The spread of muscle activity from stronger, more active muscle groups to weaker, un-recruited muscles within a specific diagonal pattern is defined as:",
+            "options": [
+                "Reciprocal inhibition",
+                "Successive induction",
+                "Irradiation (Overflow)",
+                "Joint approximation"
+            ],
+            "answer": "Irradiation (Overflow)",
+            "explanation": "Irradiation is the neurophysiological principle that describes the spread of motor excitation from stronger muscle groups to weaker ones."
+        },
+        {
+            "question": "Which PNF principle states that contraction of a muscle (agonist) is immediately followed by a temporary surge in excitability and facilitation of its opposing muscle (antagonist)?",
+            "options": [
+                "Autogenic inhibition",
+                "Successive induction",
+                "Reciprocal inhibition",
+                "Spatial summation"
+            ],
+            "answer": "Successive induction",
+            "explanation": "Successive induction is the neurophysiological principle where contraction of a muscle (agonist) is immediately followed by facilitation of its opposing muscle (antagonist)."
+        },
+        {
+            "question": "Which of the following joint movement combinations comprises the Upper Extremity D1 Flexion diagonal pattern?",
+            "options": [
+                "Shoulder flexion, adduction, and external rotation with forearm supination",
+                "Shoulder flexion, abduction, and external rotation with forearm supination",
+                "Shoulder extension, adduction, and internal rotation with forearm pronation",
+                "Shoulder extension, abduction, and internal rotation with forearm pronation"
+            ],
+            "answer": "Shoulder flexion, adduction, and external rotation with forearm supination",
+            "explanation": "The Upper Extremity D1 Flexion pattern consists of shoulder flexion, adduction, and external rotation, with forearm supination, wrist flexion, and finger flexion."
+        },
+        {
+            "question": "Which of the following joint movement combinations comprises the Upper Extremity D2 Flexion diagonal pattern?",
+            "options": [
+                "Shoulder flexion, adduction, and external rotation with forearm supination",
+                "Shoulder flexion, abduction, and external rotation with forearm supination",
+                "Shoulder extension, adduction, and internal rotation with forearm pronation",
+                "Shoulder extension, abduction, and internal rotation with forearm pronation"
+            ],
+            "answer": "Shoulder flexion, abduction, and external rotation with forearm supination",
+            "explanation": "The Upper Extremity D2 Flexion pattern consists of shoulder flexion, abduction, and external rotation, with forearm supination, wrist extension, and finger extension."
+        },
+        {
+            "question": "Which of the following joint movement combinations represents the starting position of the Upper Extremity D1 Flexion pattern?",
+            "options": [
+                "Shoulder extended, abducted, and internally rotated",
+                "Shoulder flexed, abducted, and externally rotated",
+                "Shoulder extended, adducted, and internally rotated",
+                "Shoulder flexed, adducted, and externally rotated"
+            ],
+            "answer": "Shoulder extended, abducted, and internally rotated",
+            "explanation": "The D1 Flexion pattern begins in D1 Extension, where the shoulder is extended, abducted, and internally rotated, with forearm pronation, wrist extension, and finger extension."
+        },
+        {
+            "question": "The Upper Extremity D2 Flexion diagonal pattern is modeled after which of the following functional tasks?",
+            "options": [
+                "Feeding or brushing the opposite ear",
+                "Throwing a ball overhand",
+                "Drawing a sword from its sheath",
+                "Pushing a heavy cart forward"
+            ],
+            "answer": "Drawing a sword from its sheath",
+            "explanation": "D2 Flexion is modeled after 'drawing a sword,' transitioning the shoulder from an extended, adducted, and internally rotated position to flexion, abduction, and external rotation."
+        },
+        {
+            "question": "Which PNF technique is specifically designed for patients with motor initiation deficits, progressing from passive movement to active-assisted, active-resisted, and finally active movement?",
+            "options": [
+                "Slow Reversal",
+                "Rhythmic Initiation",
+                "Repeated Stretch",
+                "Hold-Relax"
+            ],
+            "answer": "Rhythmic Initiation",
+            "explanation": "Rhythmic Initiation is a progressive, four-step technique designed to address motor initiation deficits in conditions like Parkinson's disease."
+        },
+        {
+            "question": "Applying a deep, sudden joint compression to promote co-contraction and trunk stabilization is termed:",
+            "options": [
+                "Traction",
+                "Approximation",
+                "Successive induction",
+                "Irradiation"
+            ],
+            "answer": "Approximation",
+            "explanation": "Approximation is the compression of joint surfaces, which stimulates joint receptors to facilitate extension, weight bearing, and stabilization."
+        },
+        {
+            "question": "To facilitate flexion and movement in a joint during a PNF diagonal pattern, the therapist should apply:",
+            "options": [
+                "Extreme cold",
+                "Traction",
+                "Approximation",
+                "High-frequency vibration"
+            ],
+            "answer": "Traction",
+            "explanation": "Traction is the separation of joint surfaces, which stimulates joint receptors to facilitate flexion and promote mobility."
+        },
+        {
+            "question": "What is the primary neurophysiological sensory organ stimulated during the application of a 'Quick Stretch'?",
+            "options": [
+                "Golgi tendon organ (GTO)",
+                "Pacinian corpuscle",
+                "Muscle spindle (Ia fibers)",
+                "Ruffini endings"
+            ],
+            "answer": "Muscle spindle (Ia fibers)",
+            "explanation": "Quick stretch stimulates muscle spindle primary endings (Ia fibers), triggering a monosynaptic reflex that facilitates active contraction."
+        },
+        {
+            "question": "How does Contract-Relax differ from the Hold-Relax stretching technique?",
+            "options": [
+                "Contract-Relax does not allow any contraction",
+                "Contract-Relax allows a concentric contraction of the rotary components of the movement pattern",
+                "Hold-Relax occurs only in a side-lying position",
+                "Hold-Relax is executed at twice the speed"
+            ],
+            "answer": "Contract-Relax allows a concentric contraction of the rotary components of the movement pattern",
+            "explanation": "Contract-Relax allows concentric contraction of the rotary components of the movement pattern, whereas Hold-Relax utilizes a strict isometric contraction."
+        },
+        {
+            "question": "Which of the following represents an absolute local contraindication to PNF training of the upper limb?",
+            "options": [
+                "Controlled chronic hemiparetic weakness",
+                "Stable healed humeral fracture",
+                "An acute, unstable shoulder subluxation or unhealed clavicular fracture",
+                "Mild sensory numbness in the fingertips"
+            ],
+            "answer": "An acute, unstable shoulder subluxation or unhealed clavicular fracture",
+            "explanation": "Unstable shoulder subluxations or unhealed clavicular fractures are local contraindications due to risk of biomechanical displacement."
+        },
+        {
+            "question": "In the 'Repeated Stretch' technique, what is the clinical rationale of applying a quick stretch to a muscle that is already contracting under tension?",
+            "options": [
+                "To fatigue the muscle spindle Ia fibers",
+                "To stimulate additional motor units through the spinal stretch reflex pathway",
+                "To increase tendon elasticity",
+                "To reduce arterial blood flow to the limb"
+            ],
+            "answer": "To stimulate additional motor units through the spinal stretch reflex pathway",
+            "explanation": "Applying a quick stretch to a contracting muscle stimulates muscle spindles, recruiting additional motor units through the reflex pathway."
+        },
+        {
+            "question": "Which PNF technique involves active alternating contractions of antagonists, moving from the agonist pattern to the antagonist pattern without rest, to build coordination?",
+            "options": [
+                "Rhythmic Initiation",
+                "Slow Reversal (Dynamic Reversals)",
+                "Contract-Relax",
+                "Repeated Stretch"
+            ],
+            "answer": "Slow Reversal (Dynamic Reversals)",
+            "explanation": "Slow Reversal (Dynamic Reversals) involves alternating active contractions of agonist and antagonist muscles without rest patterns."
+        },
+        {
+            "question": "What physical parameter should be adjusted to manipulate the intensity of a PNF diagonal pattern?",
+            "options": [
+                "The height of the treatment table",
+                "Graded manual resistance applied by the physical therapist",
+                "The room temperature",
+                "The width of the bolster cushions"
+            ],
+            "answer": "Graded manual resistance applied by the physical therapist",
+            "explanation": "The intensity of PNF patterns is regulated by adjusting the manual resistance applied by the therapist to match the patient's capabilities."
+        },
+        {
+            "question": "Which PNF technique consists of passive movement of the limb to help the patient learn the diagonal trajectory?",
+            "options": [
+                "Passive step of Rhythmic Initiation",
+                "Active-assisted step of Rhythmic Initiation",
+                "Hold-Relax isometric hold",
+                "Slow Reversal alternation"
+            ],
+            "answer": "Passive step of Rhythmic Initiation",
+            "explanation": "The passive step of Rhythmic Initiation is used to teach the movement trajectory and promote muscle relaxation."
+        },
+        {
+            "question": "The simultaneous application of multiple sensory inputs (e.g. manual contacts, verbal cues, visual feedback) to facilitate motor unit recruitment relies on which physiological concept?",
+            "options": [
+                "Temporal Summation",
+                "Spatial Summation",
+                "Autogenic Inhibition",
+                "Reciprocal Inhibition"
+            ],
+            "answer": "Spatial Summation",
+            "explanation": "Spatial Summation occurs when multiple sensory inputs are applied simultaneously, accumulating to facilitate motor neuron activation."
+        },
+        {
+            "question": "The cumulative effect of repetitive, rapid sensory inputs (e.g. quick stretches) applied over a short duration to facilitate motor neuron activation relies on:",
+            "options": [
+                "Temporal Summation",
+                "Spatial Summation",
+                "Autogenic Inhibition",
+                "Reciprocal Inhibition"
+            ],
+            "answer": "Temporal Summation",
+            "explanation": "Temporal Summation describes the accumulation of repetitive, rapid sensory stimuli over a short duration to facilitate motor neuron activation."
+        },
+        {
+            "question": "For a patient presenting with hyper-elasticity and shoulder joint instability, which PNF technique is primary to facilitate co-contraction and stability?",
+            "options": [
+                "Contract-Relax stretching",
+                "Rhythmic Stabilization (Alternating Isometrics)",
+                "Quick Stretch repeats",
+                "Repeated Stretch"
+            ],
+            "answer": "Rhythmic Stabilization (Alternating Isometrics)",
+            "explanation": "Rhythmic Stabilization utilizes alternating isometric contractions against manual resistance to promote co-contraction and joint stability."
+        },
+        {
+            "question": "What is the correct manual contact placement to facilitate shoulder flexion, adduction, and external rotation in the D1 Flexion upper limb pattern?",
+            "options": [
+                "In the palm of the patient's hand and over the anterior-medial aspect of the arm",
+                "On the dorsum of the hand and over the lateral deltoid",
+                "Under the axilla and around the elbow joint",
+                "Directly on the spine of the scapula"
+            ],
+            "answer": "In the palm of the patient's hand and over the anterior-medial aspect of the arm",
+            "explanation": "To facilitate D1 Flexion, manual contacts are placed in the hand palm and anterior-medial arm, providing sensory cues for flexion and adduction."
+        },
+        {
+            "question": "To perform diagonal patterns, where should the therapist stand relative to the patient?",
+            "options": [
+                "Directly in line with the diagonal movement pattern (the diagonal path)",
+                "At the foot of the table, facing away from the patient",
+                "At a 90-degree angle to the movement plane",
+                "Behind a protective screen"
+            ],
+            "answer": "Directly in line with the diagonal movement pattern (the diagonal path)",
+            "explanation": "Standing in line with the diagonal pathway allows the therapist to use their body weight to apply smooth, consistent resistance."
+        },
+        {
+            "question": "Which PNF diagonal pattern consists of shoulder extension, adduction, and internal rotation with forearm pronation?",
+            "options": [
+                "D1 Flexion",
+                "D2 Flexion",
+                "D1 Extension",
+                "D2 Extension"
+            ],
+            "answer": "D2 Extension",
+            "explanation": "The Upper Extremity D2 Extension pattern consists of shoulder extension, adduction, and internal rotation, with forearm pronation, wrist flexion, and finger flexion."
+        },
+        {
+            "question": "Which PNF technique is indicated for patients with muscle imbalances and weakness, involving active contractions through the diagonal pattern followed by an isometric hold at the point of weakness?",
+            "options": [
+                "Hold-Relax",
+                "Repeated Contractions (Repeated Stretch)",
+                "Slow Reversal-Hold",
+                "Contract-Relax"
+            ],
+            "answer": "Slow Reversal-Hold",
+            "explanation": "Slow Reversal-Hold adds an isometric contraction at the point of weakness, promoting muscle recruitment and endurance."
+        },
+        {
+            "question": "How long should the submaximal isometric contraction be held during the execution of a Hold-Relax PNF technique?",
+            "options": [
+                "1 to 2 seconds",
+                "10 seconds",
+                "45 seconds",
+                "3 minutes"
+            ],
+            "answer": "10 seconds",
+            "explanation": "Hold-Relax requires holding the submaximal isometric contraction for approximately 10 seconds to stimulate GTO autogenic inhibition."
+        },
+        {
+            "question": "Which of the following is a primary clinical benefit of utilizing PNF patterns over straight-plane exercises?",
+            "options": [
+                "They are easier to perform without a therapist",
+                "They simulate natural multi-planar functional movements, facilitating motor learning",
+                "They require less muscle effort",
+                "They are executed only in the prone position"
+            ],
+            "answer": "They simulate natural multi-planar functional movements, facilitating motor learning",
+            "explanation": "PNF patterns are multi-planar, diagonal, and spiral, mimicking natural functional movements and promoting motor learning."
+        },
+        {
+            "question": "To facilitate ankle dorsiflexion and inversion in the D1 Flexion lower extremity pattern, manual contacts should be placed over:",
+            "options": [
+                "The plantar surface of the foot",
+                "The dorsomedial aspect of the foot and anterior-medial shin",
+                "The lateral malleolus and Achilles tendon",
+                "The posterior thigh"
+            ],
+            "answer": "The dorsomedial aspect of the foot and anterior-medial shin",
+            "explanation": "Placing manual contacts on the dorsomedial foot and anterior-medial shin provides sensory cues to facilitate ankle dorsiflexion and inversion."
+        },
+        {
+            "question": "In the lower extremity D1 Extension pattern, what joint movements occur at the ankle and foot?",
+            "options": [
+                "Ankle dorsiflexion and inversion",
+                "Ankle plantarflexion and eversion",
+                "Ankle dorsiflexion and eversion",
+                "Ankle plantarflexion and inversion"
+            ],
+            "answer": "Ankle plantarflexion and eversion",
+            "explanation": "The Lower Extremity D1 Extension pattern consists of hip extension, abduction, and internal rotation, with ankle plantarflexion and eversion."
+        },
+        {
+            "question": "Which of the following PNF techniques involves a combination of concentric, isometric, and eccentric contractions of a single agonist muscle group without any rest or relaxation between phases?",
+            "options": [
+                "Dynamic Reversals (Slow Reversal)",
+                "Combination of Isotonics (Agonist Reversals)",
+                "Rhythmic Stabilization",
+                "Hold-Relax Active Movement"
+            ],
+            "answer": "Combination of Isotonics (Agonist Reversals)",
+            "explanation": "Combination of Isotonics (Agonist Reversals) combines concentric, isometric, and eccentric contractions of the same agonist muscle group, facilitating motor learning, eccentric control, and functional deceleration."
+        },
+        {
+            "question": "Which joint movement combination describes the correct terminal (ending) position for the Lower Limb D2 Flexion diagonal pattern?",
+            "options": [
+                "Hip flexion, adduction, and external rotation with ankle dorsiflexion and inversion",
+                "Hip extension, abduction, and internal rotation with ankle plantarflexion and eversion",
+                "Hip flexion, abduction, and internal rotation with ankle dorsiflexion and eversion",
+                "Hip extension, adduction, and external rotation with ankle plantarflexion and inversion"
+            ],
+            "answer": "Hip flexion, abduction, and internal rotation with ankle dorsiflexion and eversion",
+            "explanation": "The Lower Limb D2 Flexion pattern ends in hip flexion, abduction, and internal rotation, with ankle dorsiflexion, eversion, and toe extension. This pattern is functionally used when stepping over high obstacles."
+        }
     ],
-    "local": [
-      "Active inflammatory joint flares, joint effusions, or localized capsule infections.",
-      "Severe localized pain produced during manual contacts or joint tracking.",
-      "Joint subluxations or joint instability that could worsen under torque forces."
-    ]
-  },
-  "technique": {
-    "patientPreparation": [
-      "Position the patient comfortably on a wide treatment table, ensuring their trunk is fully supported.",
-      "Explain the selected diagonal pattern clearly and demonstrate the movement trajectory visually.",
-      "Instruct the patient to keep their eyes fixed on the moving limb to utilize visual feedback."
-    ],
-    "apparatusPreparation": [
-      "Adjust the treatment table height to optimize the therapist's biomechanics and leverage during patterns."
-    ],
-    "skinPreparation": [
-      "Examine skin integrity over manual contact points (hands, ankles, elbows) to prevent bruising."
-    ],
-    "electrodePlacement": [],
-    "treatmentProcedure": [
-      "1. Position the patient comfortably in the starting position for the selected diagonal pattern.",
-      "2. Guide the patient's limb through the target movement pathway passively to teach them the trajectory.",
-      "3. Apply precise manual contacts over the target muscles to guide and facilitate the movement.",
-      "4. Deliver a quick stretch stimulus in the opposite direction of the pattern to activate the stretch reflex.",
-      "5. Command the patient in a clear, firm voice (e.g., 'Pull your toes up, bend your knee, pull across your body' for D1 flexion).",
-      "6. Provide smooth, graded manual resistance through the diagonal path.",
-      "7. Rhythmic Initiation: For initiation deficits, guide the limb passively, progress to active-assisted, and then transition to active resistance.",
-      "8. Hold-Relax Stretching: Place the tight muscle at its limit of stability, perform a 10-second isometric contraction of the tight muscle against manual resistance, then instruct the patient to relax fully, and passively stretch into the new range.",
-      "9. Dynamic Reversals: Alternate active movements between agonists and antagonists without resting (e.g., moving from D1 Flexion directly into D1 Extension) to build coordination and endurance.",
-      "10. Document the treatment parameters and assess improvements in range of motion and motor control."
-    ]
-  },
-  "precautions": [
-    "Avoid applying excessive rotational torque on joints with suspected structural instability or ligamentous laxity.",
-    "Do not apply excessive pressure on bony prominences during manual contacts.",
-    "Monitor for muscle soreness or fatigue, reducing resistance to maintain quality of movement."
-  ],
-  "clinicalPearls": [
-    "The therapist's verbal commands must match the technique. Use sharp, loud, energetic commands ('Pull!', 'Push!') to facilitate rapid motor unit recruitment, and soft, soothing commands ('Relax...', 'Let go...') to facilitate relaxation.",
-    "In PNF, rotational components are the key. Every diagonal pattern consists of flexion/extension, abduction/adduction, and rotation. Rotation is the first component of the pattern that should be completed, as it facilitates alignment of the entire kinetic chain.",
-    "Do not slip your hands during pattern reversals. Keep your manual contacts firm and continuous, sliding your hands smoothly to the opposite surfaces just before the patient reverses direction, preserving motor control."
-  ],
-  "clinicalProtocols": [
-    {
-      "condition": "Post-Stroke Upper Limb Hemiparetic Weakness",
-      "position": "Supine flat, transitioning to upright seating on the edge of the treatment table",
-      "electrodePlacement": "None",
-      "frequency": "3 sessions per week, 25 minutes per session",
-      "purpose": "To utilize upper-limb D1 and D2 Flexion/Extension diagonal patterns to facilitate motor unit recruitment, trunk-arm coordination, and functional hand clearance."
-    }
-  ],
-  "vivaQuestions": [
-    "Question: Explain the neurophysiological basis of the 'Hold-Relax' PNF stretching technique. | Answer: The Hold-Relax technique is built on autogenic inhibition. The patient's tight target muscle is first placed at its limit of length. The patient then performs a submaximal isometric contraction of the tight muscle against the therapist's manual resistance for 10 seconds. This prolonged tension stimulates Golgi tendon organs (GTOs), which send inhibitory signals (via Ib afferents) to relax that same muscle, allowing a larger, pain-free passive stretch into the new range. | Examiner Key Points: Isometric contraction, submaximal resistance, Golgi tendon organs, Ib afferent fibers, autogenic inhibition, passive stretch stretch. | Clinical Importance: Highly effective for expanding ROM without initiating protective spasm responses."
-  ,
-    "Question: Explain the neurophysiological basis of the 'Contract-Relax' PNF stretching technique and how it differs from Hold-Relax. | Answer: Contract-Relax relies on both autogenic inhibition and physical shortening. While Hold-Relax utilizes a strict isometric contraction of the tight muscle where no movement is allowed, Contract-Relax allows for a concentric contraction of the rotary component of the movement pattern against manual resistance while keeping the other components (flexion/extension/adduction/abduction) isometric, followed by relaxation and passive stretch. | Examiner Key Points: Concentric contraction of rotary components, isometric other components, autogenic inhibition, comparative movement differences. | Clinical Importance: Ideal for addressing joint tightness that has a significant rotational restriction."
-  ,
-    "Question: What is Vladimir Janda or PNF's 'Irradiation' (Overflow) principle and how is it used clinically? | Answer: Irradiation refers to the spread of muscle activity from stronger, more active components of a pattern to weaker, un-recruited components within the same kinetic chain. Clinically, a therapist can resist a strong muscle group (e.g., strong hip flexors) to facilitate motor unit recruitment in weaker, paretic muscles (e.g., weak trunk or ankle dorsiflexors) in patients with stroke or nerve injuries. | Examiner Key Points: Muscle activity overflow, resisting strong muscles, recruiting weak paretic muscles, clinical summation. | Clinical Importance: Enables recruitment of muscle fibers in patients with severe hemiparesis who cannot voluntarily contract weak structures."
-  ,
-    "Question: Describe the PNF 'Successive Induction' principle and how it is applied in motor retraining. | Answer: Successive Induction is a neurophysiological principle stating that an active contraction of one muscle (agonist) is immediately followed by a temporary surge in excitability and facilitation of its opposing muscle (antagonist). Clinically, this is applied in techniques like Dynamic Reversals (Slow Reversals), where a patient actively contracts through one diagonal pattern and then immediately reverses direction, using agonist activity to facilitate weak antagonist performance. | Examiner Key Points: Agonist activity facilitates antagonist, motor neuron excitability surge, Dynamic Reversals application. | Clinical Importance: Essential to train reciprocal arm/leg movements and coordinate alternating walking paces."
-  ,
-    "Question: Trace the detailed joint movements comprising the Upper Extremity D1 Flexion diagonal pattern. | Answer: The upper extremity D1 Flexion pattern consists of: 1. Shoulder: Flexion, adduction, and external rotation. 2. Forearm: Supination. 3. Wrist: Flexion and radial deviation. 4. Fingers: Flexion and adduction. A common functional analogy is 'feeding' or brushing the opposite ear. | Examiner Key Points: Shoulder flexion/adduction/external rotation, forearm supination, wrist flexion/radial deviation, fingers flexion. | Clinical Importance: Retrains basic self-care movements like feeding, grooming, and overhead reaching."
-  ,
-    "Question: Trace the detailed joint movements comprising the Upper Extremity D2 Flexion diagonal pattern. | Answer: The upper extremity D2 Flexion pattern consists of: 1. Shoulder: Flexion, abduction, and external rotation. 2. Forearm: Supination. 3. Wrist: Extension and radial deviation. 4. Fingers: Extension and abduction. A common functional analogy is 'drawing a sword.' | Examiner Key Points: Shoulder flexion/abduction/external rotation, forearm supination, wrist extension/radial deviation, fingers extension. | Clinical Importance: Facilitates overhead reaching, throwing mechanics, and stabilizing the shoulder girdle."
-  ,
-    "Question: What is Rhythmic Initiation and what are its four developmental steps? | Answer: Rhythmic Initiation is a PNF technique used to address motor initiation deficits (e.g., Parkinson's bradycardia or rigidity). Its four progressive steps are: 1. Passive: The therapist moves the limb passively to teach the pattern. 2. Active-Assisted: The patient helps execute the pattern. 3. Active-Resisted: The therapist provides manual resistance to build strength. 4. Active: The patient executes the movement independently. | Examiner Key Points: Motor initiation deficits, Passive (teach), Active-assisted (guide), Active-resisted (build), Active (independent). | Clinical Importance: Re-educates reciprocal movement patterns and overcomes bradykinesia and rigidity."
-  ,
-    "Question: Explain the concept of 'Quick Stretch' and its neurophysiological basis. | Answer: Quick Stretch is a brief, rapid stretch applied to a muscle at its lengthened range, immediately before initiating a movement. It stimulates the primary sensory endings of muscle spindles (Ia fibers), triggering a stretch reflex that facilitates recruitment of motor units to initiate a voluntary contraction. | Examiner Key Points: Lengthened muscle position, rapid brief stretch, muscle spindle Ia fibers, monosynaptic stretch reflex, active contraction facilitation. | Clinical Importance: Used to trigger muscle activity in weak, flaccid, or inhibited structures during early stroke rehabilitation."
-  ,
-    "Question: Explain the mechanical difference between 'Traction' and 'Approximation' in PNF and their respective goals. | Answer: Traction is the physical separation of joint surfaces, which stimulates joint receptors to facilitate flexion and movement. Approximation is the compression of joint surfaces, which stimulates stabilizers to facilitate extension and co-contraction. Traction is used to promote movement and mobility, while approximation is used to promote weight bearing and stability. | Examiner Key Points: Joint separation (traction) vs compression (approximation), stimulates movement (flexion) vs stability (extension/co-contraction). | Clinical Importance: Guides joint mobilization and trunk-stabilization protocols based on the patient's impairment."
-  ,
-    "Question: Why is hand placement (manual contacts) highly critical in PNF execution? | Answer: Precise hand placement is critical because it stimulates cutaneous mechanoreceptors, providing sensory cues that guide the patient's direction of movement. Hand placement should be over the active muscles matching the direction of the pattern, allowing the therapist to apply manual resistance directly in line with the movement trajectory. | Examiner Key Points: Cutaneous mechanoreceptor stimulation, sensory cueing, direct line resistance, continuous skin contact. | Clinical Importance: Correct manual contact prevents confusing sensory signals, ensuring coordinated and efficient movement.",
-    "Question: Explain the core components of the PNF philosophy and their relevance to physical rehabilitation. | Answer: The PNF philosophy includes: 1) Positive Approach: focusing on strong, pain-free areas to build confidence and trigger overflow (irradiation); 2) Mobilization of Reserve Potential: tapping into unused physical resources via progressive multisensory inputs; 3) Intensive Training: utilizing repeated effort with graded manual resistance to drive neuroplastic changes; 4) Whole-Person Approach: addressing the integrated physical, cognitive, and emotional needs of the patient; and 5) Functional Orientation: aligning movement patterns directly with real-world functional tasks. In physiotherapy, this holistic, success-oriented philosophy is crucial for motivating neurologically or post-surgically impaired patients and maximizing functional outcomes. | Examiner Key Points: Positive approach, reserve potential, intensive training, whole-person approach, functional orientation, neuroplasticity. | Clinical Importance: Encourages therapists to build positive, goal-oriented rehabilitation sessions instead of focusing strictly on deficits.",
-    "Question: Describe the start, end, and joint components of the Lower Limb D2 Flexion and D2 Extension diagonal patterns, along with clinical examples. | Answer: 1) Lower Limb D2 Flexion: Hip flexion, abduction, and internal rotation; ankle dorsiflexion and eversion; and toe extension. It starts with the limb in hip extension, adduction, and external rotation with ankle plantarflexion and inversion, and ends in flexion/abduction/internal rotation with ankle dorsiflexion and eversion. A clinical example is stepping over an obstacle or getting out of a bath. 2) Lower Limb D2 Extension: Hip extension, adduction, and external rotation; ankle plantarflexion and inversion; and toe flexion. It starts from hip flexion, abduction, and internal rotation with ankle dorsiflexion and eversion, and ends in extension/adduction/external rotation. A clinical example is returning the leg to a stable, standing posture. | Examiner Key Points: D2 Flexion (flexion/abduction/IR, dorsiflexion/eversion), D2 Extension (extension/adduction/ER, plantarflexion/inversion), start/end positions, functional examples. | Clinical Importance: Retraining these multi-planar patterns is essential for gait correction, climbing stairs, and restoring lateral hip stability."
-  ],
-  "mcqs": [
-    {
-      "question": "Which neurophysiological principle states that the contraction of an agonist muscle reflexively inhibits its antagonist?",
-      "options": ["Autogenic inhibition", "Reciprocal inhibition", "Successive induction", "Irradiation"],
-      "answer": "Reciprocal inhibition",
-      "explanation": "Reciprocal inhibition is a spinal reflex pathway where motor signals that activate an agonist simultaneously inhibit its antagonist, relaxing the opposing muscles."
-    },
-    {
-      "question": "Which PNF stretching technique utilizes a submaximal isometric contraction of the tight muscle to stimulate Golgi tendon organs (GTOs) and induce relaxation?",
-      "options": ["Hold-Relax", "Rhythmic Initiation", "Repeated Stretch", "Slow Reversal"],
-      "answer": "Hold-Relax",
-      "explanation": "The Hold-Relax technique uses an isometric contraction of the tight target muscle to stimulate GTOs, inducing autogenic inhibition and joint relaxation."
-    },
-    {
-      "question": "The physiological mechanism where high physical tension in a muscle causes Golgi tendon organs to send inhibitory signals that relax that same muscle is termed:",
-      "options": ["Successive induction", "Temporal summation", "Autogenic inhibition", "Reciprocal inhibition"],
-      "answer": "Autogenic inhibition",
-      "explanation": "Autogenic inhibition is a protective reflex where high muscle tension stimulates GTOs, sending inhibitory signals to relax the target muscle."
-    },
-    {
-      "question": "The spread of muscle activity from stronger, more active muscle groups to weaker, un-recruited muscles within a specific diagonal pattern is defined as:",
-      "options": ["Reciprocal inhibition", "Successive induction", "Irradiation (Overflow)", "Joint approximation"],
-      "answer": "Irradiation (Overflow)",
-      "explanation": "Irradiation is the neurophysiological principle that describes the spread of motor excitation from stronger muscle groups to weaker ones."
-    },
-    {
-      "question": "Which PNF principle states that contraction of a muscle (agonist) is immediately followed by a temporary surge in excitability and facilitation of its opposing muscle (antagonist)?",
-      "options": ["Autogenic inhibition", "Successive induction", "Reciprocal inhibition", "Spatial summation"],
-      "answer": "Successive induction",
-      "explanation": "Successive induction is the neurophysiological principle where contraction of a muscle (agonist) is immediately followed by facilitation of its opposing muscle (antagonist)."
-    },
-    {
-      "question": "Which of the following joint movement combinations comprises the Upper Extremity D1 Flexion diagonal pattern?",
-      "options": ["Shoulder flexion, adduction, and external rotation with forearm supination", "Shoulder flexion, abduction, and external rotation with forearm supination", "Shoulder extension, adduction, and internal rotation with forearm pronation", "Shoulder extension, abduction, and internal rotation with forearm pronation"],
-      "answer": "Shoulder flexion, adduction, and external rotation with forearm supination",
-      "explanation": "The Upper Extremity D1 Flexion pattern consists of shoulder flexion, adduction, and external rotation, with forearm supination, wrist flexion, and finger flexion."
-    },
-    {
-      "question": "Which of the following joint movement combinations comprises the Upper Extremity D2 Flexion diagonal pattern?",
-      "options": ["Shoulder flexion, adduction, and external rotation with forearm supination", "Shoulder flexion, abduction, and external rotation with forearm supination", "Shoulder extension, adduction, and internal rotation with forearm pronation", "Shoulder extension, abduction, and internal rotation with forearm pronation"],
-      "answer": "Shoulder flexion, abduction, and external rotation with forearm supination",
-      "explanation": "The Upper Extremity D2 Flexion pattern consists of shoulder flexion, abduction, and external rotation, with forearm supination, wrist extension, and finger extension."
-    },
-    {
-      "question": "Which of the following joint movement combinations represents the starting position of the Upper Extremity D1 Flexion pattern?",
-      "options": ["Shoulder extended, abducted, and internally rotated", "Shoulder flexed, abducted, and externally rotated", "Shoulder extended, adducted, and internally rotated", "Shoulder flexed, adducted, and externally rotated"],
-      "answer": "Shoulder extended, abducted, and internally rotated",
-      "explanation": "The D1 Flexion pattern begins in D1 Extension, where the shoulder is extended, abducted, and internally rotated, with forearm pronation, wrist extension, and finger extension."
-    },
-    {
-      "question": "The Upper Extremity D2 Flexion diagonal pattern is modeled after which of the following functional tasks?",
-      "options": ["Feeding or brushing the opposite ear", "Throwing a ball overhand", "Drawing a sword from its sheath", "Pushing a heavy cart forward"],
-      "answer": "Drawing a sword from its sheath",
-      "explanation": "D2 Flexion is modeled after 'drawing a sword,' transitioning the shoulder from an extended, adducted, and internally rotated position to flexion, abduction, and external rotation."
-    },
-    {
-      "question": "Which PNF technique is specifically designed for patients with motor initiation deficits, progressing from passive movement to active-assisted, active-resisted, and finally active movement?",
-      "options": ["Slow Reversal", "Rhythmic Initiation", "Repeated Stretch", "Hold-Relax"],
-      "answer": "Rhythmic Initiation",
-      "explanation": "Rhythmic Initiation is a progressive, four-step technique designed to address motor initiation deficits in conditions like Parkinson's disease."
-    },
-    {
-      "question": "Applying a deep, sudden joint compression to promote co-contraction and trunk stabilization is termed:",
-      "options": ["Traction", "Approximation", "Successive induction", "Irradiation"],
-      "answer": "Approximation",
-      "explanation": "Approximation is the compression of joint surfaces, which stimulates joint receptors to facilitate extension, weight bearing, and stabilization."
-    },
-    {
-      "question": "To facilitate flexion and movement in a joint during a PNF diagonal pattern, the therapist should apply:",
-      "options": ["Extreme cold", "Traction", "Approximation", "High-frequency vibration"],
-      "answer": "Traction",
-      "explanation": "Traction is the separation of joint surfaces, which stimulates joint receptors to facilitate flexion and promote mobility."
-    },
-    {
-      "question": "What is the primary neurophysiological sensory organ stimulated during the application of a 'Quick Stretch'?",
-      "options": ["Golgi tendon organ (GTO)", "Pacinian corpuscle", "Muscle spindle (Ia fibers)", "Ruffini endings"],
-      "answer": "Muscle spindle (Ia fibers)",
-      "explanation": "Quick stretch stimulates muscle spindle primary endings (Ia fibers), triggering a monosynaptic reflex that facilitates active contraction."
-    },
-    {
-      "question": "How does Contract-Relax differ from the Hold-Relax stretching technique?",
-      "options": ["Contract-Relax does not allow any contraction", "Contract-Relax allows a concentric contraction of the rotary components of the movement pattern", "Hold-Relax occurs only in a side-lying position", "Hold-Relax is executed at twice the speed"],
-      "answer": "Contract-Relax allows a concentric contraction of the rotary components of the movement pattern",
-      "explanation": "Contract-Relax allows concentric contraction of the rotary components of the movement pattern, whereas Hold-Relax utilizes a strict isometric contraction."
-    },
-    {
-      "question": "Which of the following represents an absolute local contraindication to PNF training of the upper limb?",
-      "options": ["Controlled chronic hemiparetic weakness", "Stable healed humeral fracture", "An acute, unstable shoulder subluxation or unhealed clavicular fracture", "Mild sensory numbness in the fingertips"],
-      "answer": "An acute, unstable shoulder subluxation or unhealed clavicular fracture",
-      "explanation": "Unstable shoulder subluxations or unhealed clavicular fractures are local contraindications due to risk of biomechanical displacement."
-    },
-    {
-      "question": "In the 'Repeated Stretch' technique, what is the clinical rationale of applying a quick stretch to a muscle that is already contracting under tension?",
-      "options": ["To fatigue the muscle spindle Ia fibers", "To stimulate additional motor units through the spinal stretch reflex pathway", "To increase tendon elasticity", "To reduce arterial blood flow to the limb"],
-      "answer": "To stimulate additional motor units through the spinal stretch reflex pathway",
-      "explanation": "Applying a quick stretch to a contracting muscle stimulates muscle spindles, recruiting additional motor units through the reflex pathway."
-    },
-    {
-      "question": "Which PNF technique involves active alternating contractions of antagonists, moving from the agonist pattern to the antagonist pattern without rest, to build coordination?",
-      "options": ["Rhythmic Initiation", "Slow Reversal (Dynamic Reversals)", "Contract-Relax", "Repeated Stretch"],
-      "answer": "Slow Reversal (Dynamic Reversals)",
-      "explanation": "Slow Reversal (Dynamic Reversals) involves alternating active contractions of agonist and antagonist muscles without rest patterns."
-    },
-    {
-      "question": "What physical parameter should be adjusted to manipulate the intensity of a PNF diagonal pattern?",
-      "options": ["The height of the treatment table", "Graded manual resistance applied by the physical therapist", "The room temperature", "The width of the bolster cushions"],
-      "answer": "Graded manual resistance applied by the physical therapist",
-      "explanation": "The intensity of PNF patterns is regulated by adjusting the manual resistance applied by the therapist to match the patient's capabilities."
-    },
-    {
-      "question": "Which PNF technique consists of passive movement of the limb to help the patient learn the diagonal trajectory?",
-      "options": ["Passive step of Rhythmic Initiation", "Active-assisted step of Rhythmic Initiation", "Hold-Relax isometric hold", "Slow Reversal alternation"],
-      "answer": "Passive step of Rhythmic Initiation",
-      "explanation": "The passive step of Rhythmic Initiation is used to teach the movement trajectory and promote muscle relaxation."
-    },
-    {
-      "question": "The simultaneous application of multiple sensory inputs (e.g. manual contacts, verbal cues, visual feedback) to facilitate motor unit recruitment relies on which physiological concept?",
-      "options": ["Temporal Summation", "Spatial Summation", "Autogenic Inhibition", "Reciprocal Inhibition"],
-      "answer": "Spatial Summation",
-      "explanation": "Spatial Summation occurs when multiple sensory inputs are applied simultaneously, accumulating to facilitate motor neuron activation."
-    },
-    {
-      "question": "The cumulative effect of repetitive, rapid sensory inputs (e.g. quick stretches) applied over a short duration to facilitate motor neuron activation relies on:",
-      "options": ["Temporal Summation", "Spatial Summation", "Autogenic Inhibition", "Reciprocal Inhibition"],
-      "answer": "Temporal Summation",
-      "explanation": "Temporal Summation describes the accumulation of repetitive, rapid sensory stimuli over a short duration to facilitate motor neuron activation."
-    },
-    {
-      "question": "For a patient presenting with hyper-elasticity and shoulder joint instability, which PNF technique is primary to facilitate co-contraction and stability?",
-      "options": ["Contract-Relax stretching", "Rhythmic Stabilization (Alternating Isometrics)", "Quick Stretch repeats", "Repeated Stretch"],
-      "answer": "Rhythmic Stabilization (Alternating Isometrics)",
-      "explanation": "Rhythmic Stabilization utilizes alternating isometric contractions against manual resistance to promote co-contraction and joint stability."
-    },
-    {
-      "question": "What is the correct manual contact placement to facilitate shoulder flexion, adduction, and external rotation in the D1 Flexion upper limb pattern?",
-      "options": ["In the palm of the patient's hand and over the anterior-medial aspect of the arm", "On the dorsum of the hand and over the lateral deltoid", "Under the axilla and around the elbow joint", "Directly on the spine of the scapula"],
-      "answer": "In the palm of the patient's hand and over the anterior-medial aspect of the arm",
-      "explanation": "To facilitate D1 Flexion, manual contacts are placed in the hand palm and anterior-medial arm, providing sensory cues for flexion and adduction."
-    },
-    {
-      "question": "To perform diagonal patterns, where should the therapist stand relative to the patient?",
-      "options": ["Directly in line with the diagonal movement pattern (the diagonal path)", "At the foot of the table, facing away from the patient", "At a 90-degree angle to the movement plane", "Behind a protective screen"],
-      "answer": "Directly in line with the diagonal movement pattern (the diagonal path)",
-      "explanation": "Standing in line with the diagonal pathway allows the therapist to use their body weight to apply smooth, consistent resistance."
-    },
-    {
-      "question": "Which PNF diagonal pattern consists of shoulder extension, adduction, and internal rotation with forearm pronation?",
-      "options": ["D1 Flexion", "D2 Flexion", "D1 Extension", "D2 Extension"],
-      "answer": "D2 Extension",
-      "explanation": "The Upper Extremity D2 Extension pattern consists of shoulder extension, adduction, and internal rotation, with forearm pronation, wrist flexion, and finger flexion."
-    },
-    {
-      "question": "Which PNF technique is indicated for patients with muscle imbalances and weakness, involving active contractions through the diagonal pattern followed by an isometric hold at the point of weakness?",
-      "options": ["Hold-Relax", "Repeated Contractions (Repeated Stretch)", "Slow Reversal-Hold", "Contract-Relax"],
-      "answer": "Slow Reversal-Hold",
-      "explanation": "Slow Reversal-Hold adds an isometric contraction at the point of weakness, promoting muscle recruitment and endurance."
-    },
-    {
-      "question": "How long should the submaximal isometric contraction be held during the execution of a Hold-Relax PNF technique?",
-      "options": ["1 to 2 seconds", "10 seconds", "45 seconds", "3 minutes"],
-      "answer": "10 seconds",
-      "explanation": "Hold-Relax requires holding the submaximal isometric contraction for approximately 10 seconds to stimulate GTO autogenic inhibition."
-    },
-    {
-      "question": "Which of the following is a primary clinical benefit of utilizing PNF patterns over straight-plane exercises?",
-      "options": ["They are easier to perform without a therapist", "They simulate natural multi-planar functional movements, facilitating motor learning", "They require less muscle effort", "They are executed only in the prone position"],
-      "answer": "They simulate natural multi-planar functional movements, facilitating motor learning",
-      "explanation": "PNF patterns are multi-planar, diagonal, and spiral, mimicking natural functional movements and promoting motor learning."
-    },
-    {
-      "question": "To facilitate ankle dorsiflexion and inversion in the D1 Flexion lower extremity pattern, manual contacts should be placed over:",
-      "options": ["The plantar surface of the foot", "The dorsomedial aspect of the foot and anterior-medial shin", "The lateral malleolus and Achilles tendon", "The posterior thigh"],
-      "answer": "The dorsomedial aspect of the foot and anterior-medial shin",
-      "explanation": "Placing manual contacts on the dorsomedial foot and anterior-medial shin provides sensory cues to facilitate ankle dorsiflexion and inversion."
-    },
-    {
-      "question": "In the lower extremity D1 Extension pattern, what joint movements occur at the ankle and foot?",
-      "options": ["Ankle dorsiflexion and inversion", "Ankle plantarflexion and eversion", "Ankle dorsiflexion and eversion", "Ankle plantarflexion and inversion"],
-      "answer": "Ankle plantarflexion and eversion",
-      "explanation": "The Lower Extremity D1 Extension pattern consists of hip extension, abduction, and internal rotation, with ankle plantarflexion and eversion."
-    },
-    {
-      "question": "Which of the following PNF techniques involves a combination of concentric, isometric, and eccentric contractions of a single agonist muscle group without any rest or relaxation between phases?",
-      "options": [
-        "Dynamic Reversals (Slow Reversal)",
-        "Combination of Isotonics (Agonist Reversals)",
-        "Rhythmic Stabilization",
-        "Hold-Relax Active Movement"
-      ],
-      "answer": "Combination of Isotonics (Agonist Reversals)",
-      "explanation": "Combination of Isotonics (Agonist Reversals) combines concentric, isometric, and eccentric contractions of the same agonist muscle group, facilitating motor learning, eccentric control, and functional deceleration."
-    },
-    {
-      "question": "Which joint movement combination describes the correct terminal (ending) position for the Lower Limb D2 Flexion diagonal pattern?",
-      "options": [
-        "Hip flexion, adduction, and external rotation with ankle dorsiflexion and inversion",
-        "Hip extension, abduction, and internal rotation with ankle plantarflexion and eversion",
-        "Hip flexion, abduction, and internal rotation with ankle dorsiflexion and eversion",
-        "Hip extension, adduction, and external rotation with ankle plantarflexion and inversion"
-      ],
-      "answer": "Hip flexion, abduction, and internal rotation with ankle dorsiflexion and eversion",
-      "explanation": "The Lower Limb D2 Flexion pattern ends in hip flexion, abduction, and internal rotation, with ankle dorsiflexion, eversion, and toe extension. This pattern is functionally used when stepping over high obstacles."
-    }
-  ],
-  "reference": [
-    "Margaret Knott & Dorothy Voss - Proprioceptive Neuromuscular Facilitation",
-    "Carolyn Kisner & Lynn Allen Colby - Therapeutic Exercise: Foundations and Techniques",
-    "S. Lakshmi Narayanan - Textbook of Therapeutic Exercises"
-  ]
+    "viva": [],
+    "flashcards": [],
+    "references": []
 }

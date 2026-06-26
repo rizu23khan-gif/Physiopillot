@@ -1,0 +1,335 @@
+metadata:
+  chapterId: path_ch1
+  title: Cell Injury & Adaptation
+  subject: Pathology
+  subjectId: pathology
+  version: '1.0'
+  lastUpdated: '2026-06-26'
+  status: published
+  difficulty: Medium
+  estimatedStudyTime: 60
+  keywords: []
+  tags: []
+learningObjectives: []
+theory:
+  definitions:
+  - 'Aims and Objectives of Pathology: Pathology is the scientific study of disease,
+    focusing on the structural and functional changes in cells, tissues, and organs
+    that underlie disease processes. It bridges basic science and clinical practice
+    by explaining the ''why'' and ''how'' of signs and symptoms.'
+  - 'Disease: A physiological or psychological dysfunction; an abnormal state where
+    homeostatic mechanisms fail, leading to recognizable clinical signs and symptoms.'
+  - 'Etiology: The study of the cause of a disease. It can be genetic (e.g., mutations)
+    or acquired (e.g., infectious, nutritional, chemical, physical agents).'
+  - 'Pathogenesis: The sequence of cellular, biochemical, and molecular events that
+    follow the exposure of cells or tissues to an injurious agent, leading to the
+    development of disease.'
+  - 'Amyloidosis: A group of metabolic disorders characterized by abnormal extracellular
+    tissue deposition of insoluble, misfolded amyloid proteins in various organs,
+    disrupting their normal structure and function.'
+  coreConcepts:
+  - 'Causes of Cell Injury: 1) Hypoxia and Ischemia (most common). 2) Physical agents
+    (trauma, heat, cold, radiation). 3) Chemical agents and drugs. 4) Infectious agents.
+    5) Immunologic reactions. 6) Genetic derangements. 7) Nutritional imbalances.'
+  - 'Hypoxia and Ischemia: Hypoxia is oxygen deficiency, leading to reduced aerobic
+    oxidative respiration. Ischemia is loss of blood supply (arterial flow or venous
+    drainage), which is the most common and severe cause of hypoxia because it compromises
+    both oxygen and metabolic substrate delivery.'
+  - 'Free Radical Injury: Cellular damage caused by highly reactive, unstable chemical
+    species with an unpaired electron (Reactive Oxygen Species/ROS). They damage lipid
+    membranes (lipid peroxidation), proteins (misfolding/breakdown), and DNA (mutations).'
+  - 'Ischemia-Reperfusion Injury: Restoration of blood flow to ischemic tissues can
+    paradoxically exacerbate cell injury and cell death. Caused by a massive influx
+    of calcium, generation of fresh ROS from damaged mitochondria, and an influx of
+    inflammatory leukocytes.'
+  - 'Cellular Adaptations: Reversible changes in cell size, number, phenotype, metabolic
+    activity, or function in response to changes in their environment. Types: 1) Atrophy:
+    Shrinkage in cell size. 2) Hypertrophy: Increase in cell size. 3) Hyperplasia:
+    Increase in cell number. 4) Metaplasia: Reversible replacement of one adult cell
+    type by another.'
+  - 'Intracellular Accumulations: Abnormal accumulation of substances inside cells
+    due to metabolic derangements. Includes lipids (steatosis/fatty change), proteins,
+    glycogen, and pigments (lipofuscin, melanin, hemosiderin).'
+  - 'Pathologic Calcification: Abnormal tissue deposition of calcium salts. 1) Dystrophic:
+    Deposition in dead or dying tissues with normal serum calcium levels (e.g., atherosclerotic
+    plaques). 2) Metastatic: Deposition in normal tissues due to hypercalcemia (e.g.,
+    hyperparathyroidism).'
+  - 'Reversible Cell Injury: Early or mild stages of injury where the functional and
+    morphologic changes are reversible if the damaging stimulus is removed. Hallmarks:
+    Cellular swelling (hydropic change) due to failure of energy-dependent ion pumps,
+    and fatty change.'
+  - 'Irreversible Cell Injury: Point of no return leading to cell death. Characterized
+    by profound disturbances in membrane function (plasma and lysosomal membranes)
+    and massive mitochondrial dysfunction (loss of ATP generation).'
+  - 'Necrosis: The spectrum of morphologic changes that follow cell death in living
+    tissue, largely resulting from the progressive degradative action of enzymes on
+    the lethally injured cell. Always pathological, accompanied by inflammation. Types:
+    Coagulative, Liquefactive, Caseous, Fat, Fibrinoid.'
+  - 'Apoptosis: A pathway of programmed cell death induced by a tightly regulated
+    suicide program. Cells activate endogenous enzymes that degrade their own nuclear
+    DNA and proteins. Plasma membrane remains intact. Can be physiological or pathological.
+    No inflammation.'
+  - 'Gangrene: Not a specific pattern of cell death, but a clinical term applied to
+    a limb (usually lower leg) that has lost its blood supply and undergone coagulative
+    necrosis involving multiple tissue planes (Dry Gangrene). If bacterial infection
+    supervenes, liquefactive necrosis ensues (Wet Gangrene).'
+  - 'Wallerian Degeneration: A process of anterograde degeneration of the axon and
+    myelin sheath distal to the site of axonal injury. Essential concept for peripheral
+    nerve injury and regeneration.'
+  - 'Amyloid Protein Characteristics and Classification: Amyloid proteins are misfolded
+    extracellular fibrillar deposits composed of non-branching beta-pleated sheet
+    structures. They are classified into: 1) Primary Amyloidosis (AL): Caused by monoclonal
+    immunoglobulin light chains secreted by clonal plasma cells (e.g., in multiple
+    myeloma). 2) Secondary Amyloidosis (AA): Caused by serum amyloid A protein, an
+    acute-phase reactant associated with chronic inflammatory conditions (e.g., rheumatoid
+    arthritis, tuberculosis, osteomyelitis). 3) Localized Amyloidosis: Confined to
+    a single organ (e.g., amyloid-beta in Alzheimer''s disease). 4) Systemic Amyloidosis:
+    Involving multiple organs throughout the body.'
+  - 'Diagnosis and Organ Involvement of Amyloidosis: Diagnosis is established histologically
+    by Congo Red staining, which demonstrates characteristic apple-green birefringence
+    under polarized light. Major organs involved include: 1) Kidneys: Leading to proteinuria
+    and nephrotic syndrome. 2) Heart: Causing restrictive cardiomyopathy, conduction
+    blocks, and arrhythmias. 3) Liver: Resulting in hepatomegaly. 4) Peripheral Nerves:
+    Causing sensory, motor, or autonomic neuropathy.'
+  - 'Physiotherapy Relevance and Precautions in Amyloidosis: Patients with amyloidosis
+    present unique clinical challenges for physical therapy: 1) Peripheral Neuropathy:
+    Sensory loss increases risk of neuropathic ulcers and demands meticulous foot/skin
+    care, while motor weakness necessitates balance training and orthotics. 2) Fatigue:
+    Profound fatigue is common due to systemic organ involvement and chronic inflammation.
+    3) Cardiomyopathy Precautions: Restrictive cardiomyopathy limits cardiac output;
+    therapists must strictly monitor vitals, avoid high-intensity exertion, and use
+    RPE scales instead of target heart rates. 4) Exercise Tolerance: Gentle, progressive
+    low-intensity aerobic and functional exercises are indicated to preserve mobility
+    while preventing overexertion.'
+  equipment: []
+clinicalCorrelations:
+  pearls:
+  - 'Clinical Relevance of Atrophy: Immobilization of a limb in a cast or prolonged
+    bed rest leads to disuse atrophy of skeletal muscles. Physiotherapists combat
+    this through early mobilization, active/passive range of motion, and electrical
+    muscle stimulation.'
+  - 'Clinical Relevance of Ischemia: Ischemic heart disease or peripheral arterial
+    disease severely limits oxygen supply. Physiotherapists must monitor vital signs
+    and prescribe aerobic conditioning carefully to improve collateral circulation
+    without inducing ischemic events.'
+  - 'Clinical Relevance of Wallerian Degeneration: Following a peripheral nerve crush
+    or severing injury (e.g., Erb''s palsy, sciatica), Wallerian degeneration occurs
+    distal to the lesion. Physiotherapists use electrical stimulation (e.g., IGal)
+    to maintain muscle viability while awaiting slow axonal regeneration (1 mm/day).'
+  - 'Hypertrophy in Physiotherapy: Resistance training (e.g., lifting weights) induces
+    physiological hypertrophy of skeletal muscle fibers due to increased demand, highlighting
+    the body''s adaptive capacity.'
+  - 'Gangrene and Diabetic Foot: Diabetic patients are prone to vascular occlusion
+    and neuropathy, leading to wet gangrene of the foot. Physiotherapists emphasize
+    foot care, proper footwear, and neuropathic screening to prevent minor injuries
+    from escalating to amputations.'
+  - 'Physiotherapy Management in Amyloidosis: When treating patients with cardiac
+    amyloidosis, therapists must maintain a high index of suspicion for orthostatic
+    hypotension due to autonomic neuropathy and restrictive cardiomyopathy. Avoid
+    rapid positional transitions (e.g., supine to standing), encourage ankle pumps
+    prior to rising, and terminate exercise immediately if dizziness, chest discomfort,
+    or abnormal blood pressure fluctuations occur.'
+  precautions: []
+  indications: []
+  contraindications:
+    general: []
+    local: []
+  technique:
+    patientPreparation: []
+    apparatusPreparation: []
+    skinPreparation: []
+    electrodePlacement: []
+    treatmentProcedure: []
+  protocols: []
+  physiologicalEffects: []
+clinicalCases: []
+mcqs:
+- id: mcq_path_ch1_001
+  question: Which of the following cellular adaptations is characterized by an increase
+    in the NUMBER of cells in an organ or tissue?
+  options:
+  - Hypertrophy
+  - Hyperplasia
+  - Atrophy
+  - Metaplasia
+  answer: Hyperplasia
+  explanation: Hyperplasia refers to an increase in the number of cells, whereas hypertrophy
+    refers to an increase in the size of individual cells.
+- id: mcq_path_ch1_002
+  question: 'The transformation of ciliated columnar epithelium to squamous epithelium
+    in the respiratory tract of a chronic smoker is an example of:'
+  options:
+  - Dysplasia
+  - Hyperplasia
+  - Metaplasia
+  - Anaplasia
+  answer: Metaplasia
+  explanation: Metaplasia is a reversible change in which one adult cell type is replaced
+    by another adult cell type, often to withstand a harsh environment, such as the
+    respiratory tract adapting to cigarette smoke.
+- id: mcq_path_ch1_003
+  question: Which type of necrosis is typically seen in an acute myocardial infarction
+    (heart attack)?
+  options:
+  - Liquefactive necrosis
+  - Coagulative necrosis
+  - Caseous necrosis
+  - Fat necrosis
+  answer: Coagulative necrosis
+  explanation: Coagulative necrosis is the characteristic pattern of cell death in
+    hypoxic/ischemic death of cells in all solid organs except the brain.
+- id: mcq_path_ch1_004
+  question: 'A patient with hyperparathyroidism develops high serum calcium levels,
+    leading to calcium deposition in the kidneys and lungs. This is an example of:'
+  options:
+  - Dystrophic calcification
+  - Metastatic calcification
+  - Intracellular accumulation
+  - Amyloidosis
+  answer: Metastatic calcification
+  explanation: Metastatic calcification occurs when calcium deposits in normal tissues
+    as a result of hypercalcemia. Dystrophic calcification occurs in dead/dying tissues
+    with normal serum calcium.
+- id: mcq_path_ch1_005
+  question: Which mechanism is responsible for the rapid damage seen in Ischemia-Reperfusion
+    injury?
+  options:
+  - Immediate apoptosis of healthy cells
+  - Generation of Reactive Oxygen Species (ROS)
+  - Metaplastic transformation
+  - Decreased intracellular calcium
+  answer: Generation of Reactive Oxygen Species (ROS)
+  explanation: Restoring blood flow brings oxygen back to damaged mitochondria, which
+    rapidly generate Reactive Oxygen Species (ROS), causing further membrane and DNA
+    damage.
+- id: mcq_path_ch1_006
+  question: In Wallerian degeneration, which part of the neuron undergoes degeneration?
+  options:
+  - The cell body
+  - The dendrites
+  - The axon distal to the injury site
+  - The axon proximal to the injury site
+  answer: The axon distal to the injury site
+  explanation: Wallerian degeneration is the active process of degeneration that occurs
+    in the axon and its myelin sheath distal to the site of a nerve lesion.
+- id: mcq_path_ch1_007
+  question: 'Disuse atrophy, commonly seen by physiotherapists in patients with limbs
+    immobilized in casts, is primarily caused by:'
+  options:
+  - Loss of endocrine stimulation
+  - Inadequate nutrition
+  - Decreased workload
+  - Loss of innervation
+  answer: Decreased workload
+  explanation: Disuse atrophy occurs due to a decreased workload on the muscle. Early
+    mobilization and exercise help reverse or prevent this condition.
+- id: mcq_path_ch1_008
+  question: Which of the following histopathological staining characteristics is diagnostic
+    for amyloidosis under polarized light microscopy?
+  options:
+  - Prussian Blue staining showing dark blue granules
+  - Congo Red staining showing apple-green birefringence
+  - Periodic Acid-Schiff (PAS) staining showing magenta-colored glycogen
+  - Sudan Black staining showing dark lipid droplets
+  answer: Congo Red staining showing apple-green birefringence
+  explanation: Amyloid fibrils have a beta-pleated sheet conformation that binds Congo
+    Red dye, producing a characteristic apple-green birefringence when viewed under
+    polarized light.
+viva:
+- id: viva_path_ch1_001
+  question: Define Pathology and state its main subdivisions.
+  answer: Pathology is the scientific study of disease, studying structural and functional
+    changes in cells and tissues. Subdivisions include General Pathology (basic reactions
+    of cells/tissues to abnormal stimuli) and Systemic Pathology (specific responses
+    of specialized organs).
+  keyPoints: General vs. Systemic pathology, study of structural/functional changes.
+  clinicalImportance: ''
+- id: viva_path_ch1_002
+  question: Distinguish between Etiology and Pathogenesis.
+  answer: Etiology refers to the underlying causes of a disease (e.g., genetic, acquired
+    like bacteria or chemicals). Pathogenesis is the mechanism or sequence of events
+    from the initial stimulus to the ultimate expression of the disease.
+  keyPoints: Etiology = Cause; Pathogenesis = Mechanism/Sequence of events.
+  clinicalImportance: ''
+- id: viva_path_ch1_003
+  question: What is the difference between Hypoxia and Ischemia? Which is more damaging
+    and why?
+  answer: Hypoxia is a deficiency of oxygen. Ischemia is a reduction in blood flow.
+    Ischemia is more rapidly and severely damaging than hypoxia alone because it not
+    only deprives tissues of oxygen but also blocks the delivery of metabolic substrates
+    (glucose) and the removal of toxic waste products.
+  keyPoints: Ischemia includes loss of substrates and waste removal, not just oxygen.
+  clinicalImportance: ''
+- id: viva_path_ch1_004
+  question: List the four main types of cellular adaptations and define one.
+  answer: Atrophy (shrinkage in cell size), Hypertrophy (increase in cell size), Hyperplasia
+    (increase in cell number), Metaplasia (reversible change from one adult cell type
+    to another).
+  keyPoints: Size (atrophy/hypertrophy), number (hyperplasia), type (metaplasia).
+  clinicalImportance: ''
+- id: viva_path_ch1_005
+  question: Differentiate between Dystrophic and Metastatic calcification.
+  answer: Dystrophic calcification occurs in dead, dying, or degenerating tissues
+    despite normal serum calcium levels (e.g., calcified heart valves). Metastatic
+    calcification occurs in normal, viable tissues as a result of hypercalcemia (high
+    serum calcium levels, e.g., hyperparathyroidism).
+  keyPoints: Dystrophic = dead tissue + normal calcium; Metastatic = normal tissue
+    + high calcium.
+  clinicalImportance: ''
+- id: viva_path_ch1_006
+  question: Compare Coagulative and Liquefactive necrosis.
+  answer: Coagulative necrosis is caused by severe ischemia (except in the brain);
+    tissue architecture is preserved for a few days (ghost cells). Liquefactive necrosis
+    occurs in the brain (due to hypoxia) and in localized bacterial infections (abscesses);
+    tissue is completely digested into a liquid viscous mass.
+  keyPoints: Coagulative = preserved architecture/ischemia; Liquefactive = digested
+    tissue/brain/bacterial.
+  clinicalImportance: ''
+- id: viva_path_ch1_007
+  question: What is Apoptosis, and how does it differ from Necrosis?
+  answer: Apoptosis is programmed, ATP-dependent cell death affecting single cells
+    without an inflammatory response. Necrosis is accidental, pathological cell death
+    affecting groups of cells, characterized by cell swelling, membrane rupture, and
+    a prominent inflammatory response.
+  keyPoints: Programmed vs Accidental, Single vs Group, No inflammation vs Inflammation.
+  clinicalImportance: ''
+- id: viva_path_ch1_008
+  question: Describe Wallerian Degeneration and its significance to physiotherapists.
+  answer: It is the degeneration of the axon and myelin sheath distal to the site
+    of a peripheral nerve injury. It is significant because the target muscle is denervated
+    and prone to atrophy. Physiotherapists must use electrical stimulation and passive
+    movements to maintain muscle tone and joint mobility until the nerve regenerates
+    (about 1mm/day).
+  keyPoints: Distal axon/myelin degeneration, 1mm/day regeneration, prevention of
+    denervation atrophy.
+  clinicalImportance: ''
+- id: viva_path_ch1_009
+  question: What is Ischemia-Reperfusion injury?
+  answer: It is the paradoxical exacerbation of cell injury and cell death that occurs
+    when blood flow is restored to ischemic tissues. It is caused by a massive influx
+    of calcium, generation of reactive oxygen species (ROS) from damaged mitochondria,
+    and influx of inflammatory cells.
+  keyPoints: Paradoxical injury upon blood flow restoration, ROS, calcium influx.
+  clinicalImportance: ''
+- id: viva_path_ch1_010
+  question: Describe Amyloidosis, its diagnosis, and the critical precautions a physiotherapist
+    must implement.
+  answer: Amyloidosis is a group of metabolic disorders characterized by the extracellular
+    deposition of insoluble, misfolded amyloid proteins (beta-pleated sheets) in organs.
+    Histopathologically, it is diagnosed using Congo Red staining, showing apple-green
+    birefringence under polarized light. For a physiotherapist, critical precautions
+    include strictly monitoring vitals and using the Borg RPE scale during exercise
+    due to restrictive cardiomyopathy risk, managing balance/foot care for peripheral
+    neuropathy, and pacing therapy to manage systemic fatigue.
+  keyPoints: Insoluble misfolded proteins, beta-pleated sheets, Congo Red staining,
+    apple-green birefringence, restrictive cardiomyopathy precautions, vitals monitoring,
+    neuropathy foot care, energy conservation.
+  clinicalImportance: Prevents cardiovascular complications, syncope, and falls in
+    patients with multi-organ systemic amyloid involvement.
+flashcards: []
+pyqs: []
+references:
+- Textbook of Pathology by Harsh Mohan
+- Robbins Basic Pathology
+- WBUHS BPT Pathology Syllabus
+subjectExtensions: {}

@@ -1,360 +1,406 @@
 {
-  "subject": "Exercise Therapy II",
-  "chapterId": "ex2_ch8",
-  "chapterName": "Gait Analysis & Training",
-  "definition": [
-    "Gait Cycle (Stride): The complete clinical interval of walking, beginning at initial heel strike of one limb and ending at the subsequent heel strike of that same identical limb.",
-    "Stance Phase: The weight-bearing division of the gait cycle, representing approximately 60% of the walking cycle, where the foot is in contact with the ground surface.",
-    "Swing Phase: The non-weight-bearing division of the gait cycle, representing approximately 40% of the walking cycle, where the limb is lifted and accelerated forward.",
-    "Double Support: The brief interval in bipedal walking where both feet are simultaneously in contact with the ground, occurring twice per gait cycle (comprising 20% of the cycle).",
-    "Step Length: The spatial distance measured between the heel strike of one foot and the subsequent heel strike of the opposite foot.",
-    "Stride Length: The spatial distance measured between two consecutive heel strikes of the same foot (representing two step lengths).",
-    "Cadence: The temporal frequency of walking, measured as the absolute number of steps completed per minute.",
-    "Ground Reaction Force (GRF): The equal and opposite physical force exerted by the ground surface against the bottom of the foot in response to weight bearing.",
-    "Trendelenburg Gait: An abnormal pelvic drop of the non-weight-bearing side during the swing phase, caused by weakness of the opposite hip abductors (Gluteus Medius).",
-    "Hemiplegic Gait: A central walking deviation where the patient tilts their pelvis upward and abducts (circumducts) the spastic lower limb in a wide lateral arc to clear the toes.",
-    "Parkinsonian Gait: A neurological gait marked by high rigidity, forward-flexed trunk, absent arm swing, and short, rapid, shuffling steps (festination).",
-    "Antalgic Gait: A self-protective walking style where the patient dramatically shortens the stance phase on the painful limb to minimize joint loading.",
-    "Foot Drop (Equinus) Gait: A gait marked by an inability to actively dorsiflex the ankle, forcing excessive knee and hip flexion (high steppage) to clear the toes during swing.",
-    "Gait Velocity: The distance traveled by an individual per unit of time, typically measured in meters per second (m/s). Normal adult velocity values range between approximately 1.2 to 1.4 m/s, serving as a critical indicator of functional mobility, community independence, and overall health status.",
-    "Step Width (Base of Support): The lateral distance measured between the midpoint of the heel of one foot and the midpoint of the heel of the opposite foot during consecutive steps. The normal average value ranges between 5 to 10 cm (2 to 4 inches), and an increased step width is a key biomechanical adaptation to improve lateral stability and postural balance.",
-    "Single Support: The period within the gait cycle when only one foot is in contact with the ground, representing approximately 40% of the total cycle for each limb. It corresponds to the swing phase of the opposite limb, bearing the entire body weight and representing the phase of greatest vertical postural instability.",
-    "Center of Pressure (COP): The theoretical point of application of the net Ground Reaction Force (GRF) vector acting on the plantar surface of the foot. Its normal trajectory progresses sequentially from the lateral heel at initial contact, through the midfoot, over the medial forefoot, and terminates at the hallux (great toe) during push-off."
-  ],
-  "principle": [
-    "Six Determinants of Gait: Human walking minimizes metabolic energy expenditure by smoothing out vertical and lateral center of mass (COM) fluctuations. This is achieved via: pelvic rotation, pelvic tilt, knee flexion/extension at stance, ankle mechanics, foot mechanics, and lateral pelvic displacement.",
-    "Ground Reaction Force Tracking: During walking, the vertical GRF vector exhibits a characteristic 'double-bump' curve. The first peak occurs at loading response (impact absorption) and the second peak occurs at terminal stance (active push-off).",
-    "Anatomic Joint Rockers of Stance: Forward momentum during the stance phase is maintained smoothly via three successive mechanical rockers: the heel rocker (initial contact), the ankle rocker (mid-stance), and the forefoot rocker (terminal pre-swing).",
-    "Kinetic Energy Transfer Model: Bipedal walking operates like an inverted pendulum, transferring potential energy (at high points of stance) into kinetic energy (during forward acceleration), maximizing fuel efficiency.",
-    "Rancho Los Amigos vs Traditional Terminology Mapping: Standardizing gait descriptions requires mapping traditional terms to Rancho Los Amigos (RLA) phases: Heel Strike maps to Initial Contact; Foot Flat maps to Loading Response; Mid Stance maps to Mid Stance; Heel Off maps to Terminal Stance; and Toe Off maps to Pre-Swing. RLA terminology is preferred clinically because it describes the functional tasks and progressive weight-bearing demands rather than static anatomical positions.",
-    "Stair Negotiation Biomechanics: Stair ascent and descent demand distinct muscle activation patterns. During stair ascent, propulsion is driven by concentric contractions of the lower limb muscles to overcome gravity and lift the body's mass. Key drivers include concentric quadriceps (knee extension), concentric gluteus maximus (hip extension), and concentric plantarflexors (calf push-off). During stair descent, control is managed by eccentric contractions of the quadriceps (graduated knee flexion) and eccentric contraction of the soleus (controlled tibia advancement over the ankle) to absorb impact forces and stabilize posture."
-  ],
-  "equipment": [
-    "Standardized parallel bars with full-length posture mirrors.",
-    "Digital recording video cameras with sagittal and coronal placement grids.",
-    "Pressure-sensitive electronic walkway mats (gait analysis runways).",
-    "3D motion-capture infrared camera rigs with skeletal reflection markers."
-  ],
-  "parameters": {
-    "intensity": "Adjusted based on weight-bearing status (e.g., partial vs full) and speed variations (slow walk, self-selected, fast cadence)",
-    "duration": "15 to 30 minutes of progressive locomotor training per session, spaced by seating rests to maintain posture alignment",
-    "frequency": "3 to 5 sessions per week to trigger neurological motor pattern learning and metabolic adaptation",
-    "repetitions": "Executing 3 to 4 sets of 10-meter walkway walks under clinician monitoring and tactile guidance"
-  },
-  "physiologicalEffects": [
-    {
-      "effect": "Central CPG Locomotor Entrainment",
-      "frequency": "During repetitious rhythmic walking drills",
-      "mechanism": [
-        "Stimulates spinal Central Pattern Generators (CPGs) in the lumbosacral spinal cord.",
-        "Facilitates reciprocal flexion-extension networks, reconstructing autonomous walking patterns."
-      ]
+    "metadata": {
+        "chapterId": "",
+        "title": "",
+        "subject": "",
+        "keywords": [],
+        "tags": []
     },
-    {
-      "effect": "Osteological Synovial Loading",
-      "frequency": "During vertical weight-bearing stance phases",
-      "mechanism": [
-        "Provides dynamic compression of articular cartilage, driving nutrient flow to hip and knee chondrocytes.",
-        "Stimulates piezostructural osteoblastic activity in trabecular bone surfaces, sustaining bone mineral density."
-      ]
-    }
-  ],
-  "indications": [
-    "Subacute hemiplegia or stroke requiring neuromuscular gait re-education and limb synchronization.",
-    "Post-operative joint arthroplasty (total hip/knee replacement) requiring gait symmetry retraining.",
-    "Idiopathic Parkinson’s disease targeting cadence regulation, arm swing, and avoidance of festination.",
-    "Post-fracture rehabilitation to correct learned limps or balance deviations."
-  ],
-  "contraindications": {
-    "general": [
-      "Severe uncompensated orthostatic hypotension or autonomic cardiovascular instability.",
-      "Unhealed or unstable weight-bearing fractures of the pelvis or lower extremities.",
-      "Extreme systemic weakness or acute respiratory distress."
+    "theory": {
+        "definitions": [],
+        "coreConcepts": [],
+        "equipment": []
+    },
+    "clinicalCorrelations": {
+        "pearls": [],
+        "precautions": [],
+        "indications": [],
+        "contraindications": {
+            "general": [],
+            "local": []
+        },
+        "technique": {
+            "patientPreparation": [],
+            "apparatusPreparation": [],
+            "skinPreparation": [],
+            "electrodePlacement": [],
+            "treatmentProcedure": []
+        },
+        "protocols": [],
+        "physiologicalEffects": []
+    },
+    "subjectExtensions": {
+        "anatomy": {
+            "parameters": {}
+        }
+    },
+    "clinicalCases": [],
+    "mcqs": [
+        {
+            "question": "A complete gait cycle is clinically defined as beginning at:",
+            "options": [
+                "Heel strike of one foot to heel strike of the opposite foot",
+                "Heel strike of one foot to some subsequent heel strike of the same foot",
+                "Toe-off of one foot to heel strike of the opposite foot",
+                "Mid-stance to terminal push-off of the same limb"
+            ],
+            "answer": "Heel strike of one foot to some subsequent heel strike of the same foot",
+            "explanation": "A complete gait cycle (stride) begins at the initial contact (heel strike) of one limb and ends at the next initial contact of that exact same limb."
+        },
+        {
+            "question": "What are the standard percentages representing the stance and swing phases during normal bipedal walking?",
+            "options": [
+                "50% stance, 50% swing",
+                "60% stance, 40% swing",
+                "40% stance, 60% swing",
+                "80% stance, 20% swing"
+            ],
+            "answer": "60% stance, 40% swing",
+            "explanation": "A normal gait cycle consists of approximately 60% stance phase (weight-bearing) and 40% swing phase (non-weight-bearing)."
+        },
+        {
+            "question": "Double support represents what percentage of a standard walk gait cycle?",
+            "options": [
+                "0%",
+                "10%",
+                "20%",
+                "40%"
+            ],
+            "answer": "20%",
+            "explanation": "Double support occurs twice per cycle, each segment representing 10%, totaling 20% of the normal bipedal walking cycle."
+        },
+        {
+            "question": "The spatial distance measured between consecutive heel strikes of opposite feet is termed:",
+            "options": [
+                "Stride Length",
+                "Step Length",
+                "Step Width",
+                "Stride Cadence"
+            ],
+            "answer": "Step Length",
+            "explanation": "Step length is the spatial distance measured from the heel strike of one foot to the heel strike of the opposite foot."
+        },
+        {
+            "question": "The lateral drop of the pelvis on the swing side when standing on a weak leg indicates weakness in which muscle group?",
+            "options": [
+                "Hip flexors",
+                "Hip adductors",
+                "Hip abductors (primarily Gluteus Medius)",
+                "Gluteus Maximus"
+            ],
+            "answer": "Hip abductors (primarily Gluteus Medius)",
+            "explanation": "The hip abductors (Gluteus Medius) act to stabilize the pelvis. Weakness of this group on the stance side causes the opposite pelvis to drop (Trendelenburg sign)."
+        },
+        {
+            "question": "In a hemiplegic gait, the patient must circumduct the affected lower extremity during the swing phase because:",
+            "options": [
+                "The hip is overly flexible",
+                "The heel is striking too early",
+                "The spastic limb exhibits extensor synergy, preventing ankle dorsiflexion and knee flexion",
+                "The opposite arm is swinging forward"
+            ],
+            "answer": "The spastic limb exhibits extensor synergy, preventing ankle dorsiflexion and knee flexion",
+            "explanation": "Spastic extensor synergy locked the leg in extension (plantarflexed ankle, extended knee), making the limb 'too long' and forcing circumduction clearance."
+        },
+        {
+            "question": "Which gait deviation is characterized by a forward-flexed torso, short shuffling steps, and a progressive walking acceleration called 'festination'?",
+            "options": [
+                "Antalgic gait",
+                "Parkinsonian gait",
+                "Hemiplegic gait",
+                "Cerebellar ataxic gait"
+            ],
+            "answer": "Parkinsonian gait",
+            "explanation": "The Parkinsonian gait is a classic neuro-degenerative walk marked by a stooped rigid posture, shuffling steps, and festination acceleration."
+        },
+        {
+            "question": "To compensate for a severe ankle foot drop and clear the toes during swing, the patient will perform:",
+            "options": [
+                "High hip and knee flexion (steppage gait)",
+                "Trunk leaning backward",
+                "Gastrocnemius stretching mid-stride",
+                "Knee joint locking"
+            ],
+            "answer": "High hip and knee flexion (steppage gait)",
+            "explanation": "A steppage gait uses excessive hip and knee flexion to lift the foot higher, allowing a dropping foot to clear the floor during swing."
+        },
+        {
+            "question": "A patient with knee joint osteoarthritis shortens their stance phase on the affected side to minimize loading pain. This is a/an:",
+            "options": [
+                "Trendelenburg gait",
+                "Antalgic gait",
+                "Waddling gait",
+                "Athetoid gait"
+            ],
+            "answer": "Antalgic gait",
+            "explanation": "An antalgic gait is a painful walking style defined by shortening the painful side's stance phase in a protective effort to minimize pressure."
+        },
+        {
+            "question": "What are the three joint rockers of the stance phase, in correct chronological order?",
+            "options": [
+                "Ankle rocker, forefoot rocker, heel rocker",
+                "Heel rocker, ankle rocker, forefoot rocker",
+                "Forefoot rocker, heel rocker, ankle rocker",
+                "Knee rocker, hip rocker, ankle rocker"
+            ],
+            "answer": "Heel rocker, ankle rocker, forefoot rocker",
+            "explanation": "Smooth forward progression occurs via three successive rockers: the heel rocker (initial touch), the ankle rocker (mid-stance), and the forefoot rocker (push-off)."
+        },
+        {
+            "question": "Which gait determinant involves a physical drop of the pelvis on the non-weight-bearing side by 5 degrees to reduce vertical COM peak heights?",
+            "options": [
+                "Pelvic rotation",
+                "Pelvic tilt",
+                "Knee flexion in stance",
+                "Lateral translation of pelvis"
+            ],
+            "answer": "Pelvic tilt",
+            "explanation": "A small pelvic tilt (pelvis dropping 5 degrees on the swing side) lowers the peak height of the center of mass tracking curve, saving energy."
+        },
+        {
+            "question": "During the heel rocker phase (initial contact), which muscle group contracts eccentrically to prevent foot slap?",
+            "options": [
+                "Gastrocnemius and Soleus",
+                "Tibialis Anterior",
+                "Quadriceps",
+                "Hamstrings"
+            ],
+            "answer": "Tibialis Anterior",
+            "explanation": "The Tibialis Anterior contracts eccentrically immediately following heel strike to lower the forefoot in a controlled manner, preventing foot slap."
+        },
+        {
+            "question": "Which phase of bipedal walking is completely absent when transitioning from walking to running?",
+            "options": [
+                "Swing phase",
+                "Stance phase",
+                "Double support phase",
+                "Initial contact"
+            ],
+            "answer": "Double support phase",
+            "explanation": "Running is distinguished from walking by the complete absence of double support, replaced by a non-weight-bearing flight/float phase."
+        },
+        {
+            "question": "The vertical Ground Reaction Force (GRF) curve during a normal stance phase is shaped like:",
+            "options": [
+                "A single flat line",
+                "A bell curve with one peak",
+                "A double-peak 'M' curve",
+                "A linear upward slope"
+            ],
+            "answer": "A double-peak 'M' curve",
+            "explanation": "The vertical GRF curve exhibits an 'M' shape: the first peak reflects loading response impact; the second peak represents terminal push-off."
+        },
+        {
+            "question": "The spatial distance between two consecutive heel strikes of the SAME foot is termed:",
+            "options": [
+                "Step Length",
+                "Stride Length",
+                "Stride Width",
+                "Cadence frequency"
+            ],
+            "answer": "Stride Length",
+            "explanation": "Stride length represents a complete cycle distance: the vertical distance between consecutive heel strikes of the same foot."
+        },
+        {
+            "question": "Cadence is clinically defined as:",
+            "options": [
+                "The width of feet during walk",
+                "The number of steps completed per minute",
+                "The ratio of stance to swing duration",
+                "The speed of forward gait"
+            ],
+            "answer": "The number of steps completed per minute",
+            "explanation": "Cadence is the temporal variable representing the absolute number of steps executed per minute (standard range: 90-120 steps/min)."
+        },
+        {
+            "question": "A patient with spastic diplegia (cerebral palsy) walk with a crouched torso, hips adducted/internally rotated, and knees crossing over. What gait is this?",
+            "options": [
+                "Hemiplegic gait",
+                "Scissor gait",
+                "Antalgic gait",
+                "Cavalier gait"
+            ],
+            "answer": "Scissor gait",
+            "explanation": "A scissor gait features severe spasticity in hip adductors, forcing the knees to cross over each other in a scissor-like pattern during walking."
+        },
+        {
+            "question": "Which of the following describes a 'Compensated' Trendelenburg gait?",
+            "options": [
+                "The patient slips on the floor",
+                "The patient lateral leans their trunk over the weak stance hip during walking",
+                "The patient flexes their knee to 90 degrees",
+                "The pelvic girdle drops on the stance side"
+            ],
+            "answer": "The patient lateral leans their trunk over the weak stance hip during walking",
+            "explanation": "To compensate for abductor weakness, patients lean their trunk over the affected weak stance hip, moving the center of gravity over the joint to hide pelvic drop."
+        },
+        {
+            "question": "An active contraction of which muscle group is primary for terminal push-off (Pre-Swing) acceleration?",
+            "options": [
+                "Tibialis Anterior",
+                "Quadriceps Femoris",
+                "Ankle Plantarflexors (Gastrocnemius and Soleus)",
+                "Gluteus Maximus"
+            ],
+            "answer": "Ankle Plantarflexors (Gastrocnemius and Soleus)",
+            "explanation": "Ankle plantarflexors contract concentrically during terminal stance to drive push-off, generating forward walking momentum."
+        },
+        {
+            "question": "Which joint rocker occurs from initial contact to the loading response, utilizing the calcaneus as a pivot?",
+            "options": [
+                "Heel Rocker",
+                "Ankle Rocker",
+                "Forefoot Rocker",
+                "Knee Rocker"
+            ],
+            "answer": "Heel Rocker",
+            "explanation": "The heel rocker uses the curved calcaneus to pivot the ankle into plantarflexion, absorbing the shock of initial contact."
+        },
+        {
+            "question": "Which nerve injury leads to calf muscle paralysis and a complete loss of terminal stance push-off power?",
+            "options": [
+                "Common Peroneal Nerve",
+                "Tibial Nerve",
+                "Femoral Nerve",
+                "Obturator Nerve"
+            ],
+            "answer": "Tibial Nerve",
+            "explanation": "The tibial nerve innervates gastrocnemius and soleus. Injury results in a complete loss of active plantarflexion (push-off power)."
+        },
+        {
+            "question": "The ankle rocker occurs during which phase of stance, pivoting the tibia over a flat foot?",
+            "options": [
+                "Initial contact",
+                "Mid-stance",
+                "Terminal pre-swing",
+                "Loading response"
+            ],
+            "answer": "Mid-stance",
+            "explanation": "The ankle rocker occurs during mid-stance. The ankle dorsiflexes passively, pivoting the tibia forward over a weight-bearing flat foot."
+        },
+        {
+            "question": "What is the standard step width (base of support width) in normal adult gait?",
+            "options": [
+                "0 inches",
+                "2 to 4 inches",
+                "8 to 10 inches",
+                "Over 12 inches"
+            ],
+            "answer": "2 to 4 inches",
+            "explanation": "The average step width (measured between the heel centers of both feet) ranges between 2 to 4 inches (5 to 10 cm)."
+        },
+        {
+            "question": "Which of the following gait deviations is marked by a wide base of support, staggering tracking, and highly irregular step lengths?",
+            "options": [
+                "Parkinsonian gait",
+                "Hemiplegic gait",
+                "Cerebellar Ataxic gait",
+                "Antalgic gait"
+            ],
+            "answer": "Cerebellar Ataxic gait",
+            "explanation": "Cerebellar ataxic walking features a broad base, staggering steps, and chaotic, uncoordinated movements due to cerebellar damage."
+        },
+        {
+            "question": "During the loading response phase of stance, the quadriceps contract eccentrically to:",
+            "options": [
+                "Extend the hip",
+                "Absorb floor impact by controlling knee flexion",
+                "Perform ankle push-off",
+                "Keep the trunk in extension"
+            ],
+            "answer": "Absorb floor impact by controlling knee flexion",
+            "explanation": "The quadriceps contract eccentrically during loading response to control knee flexion (up to 15 degrees), absorbing impact shock."
+        },
+        {
+            "question": "What clinical symptom is characterized by a foot slap immediately after heel strike?",
+            "options": [
+                "Subluxation of the hip",
+                "Weakness of ankle dorsiflexors (Tibialis Anterior)",
+                "Spasticity of the hamstrings",
+                "Contracture of the Achilles tendon"
+            ],
+            "answer": "Weakness of ankle dorsiflexors (Tibialis Anterior)",
+            "explanation": "Mild weakness of the Tibialis Anterior prevents controlled eccentric lowering of the foot, causing it to fall flat hard, creating a slap."
+        },
+        {
+            "question": "Which phase of gait is the primary weight-bearing phase representing maximum vertical compression?",
+            "options": [
+                "Initial contact",
+                "Mid-stance",
+                "Mid-swing",
+                "Initial swing"
+            ],
+            "answer": "Mid-stance",
+            "explanation": "Mid-stance represents single-leg support. The entire body's mass rests on a single limb, matching peak structural loading."
+        },
+        {
+            "question": "The forefoot rocker utilizes which anatomical joint as its pivot point?",
+            "options": [
+                "The calcaneus",
+                "The ankle talocrural joint",
+                "The metatarsophalangeal (MTP) joints",
+                "The knee joint"
+            ],
+            "answer": "The metatarsophalangeal (MTP) joints",
+            "explanation": "The forefoot rocker utilizes the MTP joints as a pivot during pre-swing, tipping the heel upward to push the leg forward."
+        },
+        {
+            "question": "A patient walks with a 'waddling gait'. This indicates bilateral weakness of which muscle group?",
+            "options": [
+                "Quadriceps",
+                "Ankle dorsiflexors",
+                "Hip abductors",
+                "Hamstrings"
+            ],
+            "answer": "Hip abductors",
+            "explanation": "Bilateral weakness of the hip abductors leads to bilateral pelvic drops, causing a characteristic dynamic waddling gait."
+        },
+        {
+            "question": "Which central neurological structure coordinates walking cadences and limb movements based on cortical dictates?",
+            "options": [
+                "The basal ganglia",
+                "The spinal dorsal horn",
+                "The dorsal column systems",
+                "The lumbar sympathetic chain"
+            ],
+            "answer": "The basal ganglia",
+            "explanation": "The basal ganglia play a key role in regularizing walking rhythms, modulating automated movements, and coordinating arm swings."
+        },
+        {
+            "question": "Traditional gait terminology of 'Foot Flat' directly corresponds to which of the following Rancho Los Amigos (RLA) terminology phases?",
+            "options": [
+                "Initial Contact",
+                "Loading Response",
+                "Mid Stance",
+                "Pre-Swing"
+            ],
+            "answer": "Loading Response",
+            "explanation": "In gait terminology mapping, traditional 'Foot Flat' corresponds to the Rancho Los Amigos 'Loading Response' phase, which represents the initial double-support period."
+        },
+        {
+            "question": "During stair descent, what is the primary contraction type of the quadriceps muscle group to control gravity-induced knee flexion?",
+            "options": [
+                "Concentric",
+                "Eccentric",
+                "Isometric",
+                "Isokinetic"
+            ],
+            "answer": "Eccentric",
+            "explanation": "The quadriceps muscle group undergoes eccentric (lengthening) contraction during stair descent to control knee flexion and absorb the shock of body descent."
+        },
+        {
+            "question": "Which of the following describes the normal progression pathway of the Center of Pressure (COP) along the plantar surface of the foot during the stance phase of walking?",
+            "options": [
+                "Medial heel → lateral midfoot → hallux",
+                "Lateral heel → medial forefoot → hallux",
+                "Central midfoot → lateral malleolus → calcaneus",
+                "Toe tips → transverse arch → medial calcaneus"
+            ],
+            "answer": "Lateral heel → medial forefoot → hallux",
+            "explanation": "The Center of Pressure (COP) pathway normally progresses from the lateral heel at initial contact, rolls forward across the midfoot to the medial forefoot, and exits via the hallux (great toe) during terminal push-off."
+        }
     ],
-    "local": [
-      "Acute, severe, localized joint effusions or dynamic capsule infections in the weight-bearing chain.",
-      "Active bone osteomyelitis or dynamic bone necrosis in the weight-bearing joints.",
-      "Extremely painful, open plantar skin lesions, ulcers, or pressure sores."
-    ]
-  },
-  "technique": {
-    "patientPreparation": [
-      "Perform a baseline gait assessment, noting spatial (step/stride length) and temporal (cadence) parameters.",
-      "Ensure the patient wears stable, supportive, non-slip footwear and or orthotic orthography device if needed.",
-      "Secure a safety gait belt around the waist and position any prescribed assistive ambulation aids."
-    ],
-    "apparatusPreparation": [
-      "Clear the gait walkway of trip hazards, cords, or slippery residue.",
-      "Adjust the parallel bar heights and position cameras at right angles (sagittal and coronal vistas)."
-    ],
-    "skinPreparation": [
-      "Examine the weight-bearing foot soles for skin abrasions, localized blisters, or signs of neuropathy."
-    ],
-    "electrodePlacement": [],
-    "treatmentProcedure": [
-      "1. Parallel Bar Phase: Position the patient standing in the parallel bars. Focus on static weight shifts side-to-side.",
-      "2. Heel Rocker Retraining: Instruct the patient to step forward and perform a soft heel strike with the knee slightly extended, rolling the foot down.",
-      "3. Knee Extension at Mid-Stance: Ensure the patient maintains knee extension of 0 to 5 degrees during the weight-bearing mid-stance phase, avoiding hyperextension (recurvatum).",
-      "4. Push-off Activation: Guide the patient to transfer weight onto the metatarsal heads, flexing the knee passively to push off with plantarflexor force.",
-      "5. Swing Clearance: Prompt hip and knee flexion to 60 degrees during the initial swing phase, preventing toe drag.",
-      "6. Trendelenburg Retraining: If lateral pelvic drop is noted, apply manual tactile touch over the Gluteus Medius to stimulate abductor contraction during single-leg stance.",
-      "7. Progression outside Bars: Move the patient onto the open floor workspace utilizing appropriate assistive devices (walkers, canes).",
-      "8. Cadence and Rhythm Control: Use a metronome or auditory cues to stabilize step cadence and prevent shuffling steps in parkinsonian patients.",
-      "9. Posture and Arm Swing: Encourage upright trunk posture, looking forward, and reciprocal arm swing coordinated with contralateral leg advanced."
-    ]
-  },
-  "precautions": [
-    "Always walk on the patient's affected or weaker side, keeping a light but secure grasp on the safety gait belt.",
-    "Avoid pelvic or knee buckling; be ready to block the patient's knee with your own if it collapses into sudden flexion.",
-    "Do not allow the patient to look down at their feet; enforce forward focus on a target or posture mirror."
-  ],
-  "clinicalPearls": [
-    "To distinguish between a compensated and uncompensated Trendelenburg gait, look at the trunk. In an uncompensated gait, the pelvis drops on the opposite swing side. In a compensated gait, the patient leans their trunk laterally over the weak hip to move the center of mass over the pivot point, hiding the pelvic drop.",
-    "Double support completely disappears during running. In walking, double support represents 20% of the cycle, but as speed increases to a run, a 'float phase' (where both feet are off the ground) replaces double support.",
-    "When a stroke patient presents with circumduction during swing (swinging the leg outward in a wide semicircle), do not just analyze the hip. The root cause is often a lack of knee flexion (stiff knee) or ankle foot drop, forcing circumduction to achieve vertical clearance.",
-    "Gait velocity is often called the sixth vital sign. Walking speeds below 0.8 m/s indicate reduced community ambulation capacity, while speeds below 0.6 m/s are associated with increased fall risk and functional dependence."
-  ],
-  "clinicalProtocols": [
-    {
-      "condition": "Trendelenburg Gluteus Medius Gait Deviation",
-      "position": "Upright standing/walking, progressing from parallel bars to open walkway",
-      "electrodePlacement": "None",
-      "frequency": "Daily walking retraining blocks of 15 minutes",
-      "purpose": "Aims to eliminate dynamic pelvic drop by encouraging active feedback and neuromuscular recruitment of the stance limb hip abductors."
-    }
-  ],
-  "vivaQuestions": [
-    "Question: Break down the normal gait cycle into its stance and swing phases, with their clinical percentages. | Answer: A normal gait cycle is divided into the Stance Phase (60% of the cycle, where the foot contacts the ground) and the Swing Phase (40% of the cycle, where the limb is in the air). Stance is comprised of Initial Contact, Loading Response, Mid-Stance, Terminal Stance, and Pre-Swing. Swing is comprised of Initial Swing, Mid-Swing, and Terminal Swing. | Examiner Key Points: 60/40 ratio, Stance subphases, Swing subphases. | Clinical Importance: Pinpoint exactly which subphase is altered guides highly targeted kinetic muscle re-education.",
-    "Question: What is double support, and how does it change with walking speed? | Answer: Double support is the brief period in bipedal walking when both feet are simultaneously in contact with the ground surface. It occurs twice per gait cycle (at initial contact/loading response on one side and pre-swing on the other), accounting for 20% of the cycle. As walking speed increases, double support duration decreases, and it disappears completely when transitioning to a run, replaced by a non-contact flight phase. | Examiner Key Points: Both feet touching ground, 20% of cycle, decreases with speed, zero during running. | Clinical Importance: A prolonged double support phase is a key compensatory indicator of balance instability and fear of falling in geriatric populations.",
-    "Question: Define Step Length, Stride Length, and Cadence. | Answer: Step Length is the spatial distance between the initial contact of one foot and the initial contact of the opposite foot. Stride Length is the spatial distance between two consecutive initial contacts of the same foot (equal to two step lengths). Cadence is the temporal rate of walking, defined as the number of steps completed per minute. | Examiner Key Points: Step (opposite sides), Stride (same side), Cadence (steps per minute). | Clinical Importance: These objective spatial and temporal metrics allow precise documentation of gait deterioration or therapeutic improvement over time.",
-    "Question: Explain the biomechanics and muscular cause of a Trendelenburg Gait. | Answer: A Trendelenburg gait is caused by weakness or paralysis of the hip abductor muscles (primarily Gluteus Medius) on the stance limb. When the patient stands on the weak foot, the Gluteus Medius is unable to hold the pelvis level, causing the pelvis to drop on the opposite, non-weight-bearing swing side. | Examiner Key Points: Weak Gluteus Medius, pelvis drops on opposite swing side, stance limb pathology. | Clinical Importance: Identifies superior gluteal nerve pathology, hip joint subluxation, or localized muscle atrophy.",
-    "Question: Describe the walking pattern of a Hemiplegic Gait. | Answer: A hemiplegic gait is characterized by a spastic extension pattern in the affected lower limb: the hip is extended, adducted, and internally rotated; the knee is extended; and the ankle is plantarflexed and inverted (equinovarus posture). To clear the foot during the swing phase, the patient must tilt their pelvis upward (hip hike) and circumduct the leg in a wide lateral arc. | Examiner Key Points: Spastic extension pattern, circumduction arc, hip hiking, equinovarus foot. | Clinical Importance: Common after upper motor neuron lesions like strokes, requiring spasticity management and ankle foot orthoses (AFO).",
-    "Question: Explain the Parkinsonian Gait and the term 'Festination'. | Answer: A Parkinsonian gait features a forward-flexed trunk, rigid knees and hips, absent reciprocal arm swing, and short, shuffling steps. Festination refers to a progressive, involuntary acceleration of step cadence, where the patient's center of mass leans too far forward, and they must shuffle faster and faster to try and 'catch up' with their center of gravity to avoid falling. | Examiner Key Points: Shuffling steps, forward trunk flexion, absent arm swing, festination (shuffling acceleration). | Clinical Importance: Guides neuro-rehabilitation techniques utilizing rhythmic auditory metronomes or visual cues to block steps freezing.",
-    "Question: What is an Antalgic Gait and how is it characterized? | Answer: An antalgic gait is a pain-induced walking deviation. It is characterized by a major reduction in the weight-bearing stance phase duration on the affected painful limb, matched by a highly accelerated swing phase on the healthy limb as the patient tries to get their weight off the painful leg fast. | Examiner Key Points: Pain-induced, reduced stance phase on painful leg, rapid swing on healthy leg. | Clinical Importance: Reflects severe joint or tissue loading pain, directing orthotic unloading or gait devices.",
-    "Question: What are the Six Determinants of Gait and what is their mechanical goal? | Answer: The six determinants are: 1. Pelvic rotation. 2. Pelvic tilt. 3. Knee flexion in stance. 4. Ankle mechanics. 5. Foot mechanics. 6. Lateral pelvic displacement. Their combined mechanical goal is to minimize the vertical and lateral displacement amplitude of the body's center of mass to under 2 inches, reducing metabolic energy expenditure during walking. | Examiner Key Points: Rotation/tilt of pelvis, knee flexion, ankle/foot mechanics, lateral displacement, center of mass tracking. | Clinical Importance: Assists clinicians in repairing specific movement components to maximize walking efficiency.",
-    "Question: Explain how a Foot Drop (Equinus) Gait alters walking mechanics and the safety compensations used. | Answer: In foot drop, complete weakness of the ankle dorsiflexors (Tibialis Anterior) prevents the foot from clearing the ground during the swing phase. To compensate and prevent tripping, the patient increases hip flexion and knee flexion (high-steppage gait) to lift the dropping toes over the floor. | Examiner Key Points: Weak ankle dorsiflexors, toe drag, compensatory high-steppage (hip/knee flexion). | Clinical Importance: Indicates Common Peroneal Nerve palsy, L4-L5 radiculopathy, or direct muscle tear.",
-    "Question: Outline the primary clinical principles of Gait Re-education. | Answer: Gait re-education is built on 1. Normalizing spatial/temporal parameters (symmetry, cadence). 2. Maximizing weight transfers and pelvic control. 3. Correcting specific joint rock Mechanics (heel-to-toe roll). 4. Progressing from supportive parallel bars to open walkway settings. 5. Utilizing appropriate biomechanical assistive devices (orthotics, canes) to ensure safety. | Examiner Key Points: Symmetry, joint rockers, weight-bearing shifts, progressive environments, assistive safety. | Clinical Importance: Underpins the logical approach to safely rebuilding independent and biomechanically efficient walking.",
-    "Question: Differentiate Traditional Gait Terminology and Rancho Los Amigos Terminology, mapping their corresponding phases. | Answer: Traditional terminology is based on specific, static points of contact, whereas Rancho Los Amigos (RLA) terminology focuses on functional divisions or dynamic phases of walking. The mapping corresponds as follows: Heel Strike maps to Initial Contact; Foot Flat maps to Loading Response; Mid Stance maps to Mid Stance; Heel Off maps to Terminal Stance; and Toe Off maps to Pre-Swing. | Examiner Key Points: Point-of-time (Traditional) vs functional-period (RLA), phase-by-phase mapping (Heel Strike to Initial Contact, Foot Flat to Loading Response, Mid Stance to Mid Stance, Heel Off to Terminal Stance, Toe Off to Pre-Swing). | Clinical Importance: RLA terminology is preferred clinically because it aligns gait assessment with functional tasks (weight acceptance, single limb support, limb advancement) rather than just anatomical events.",
-    "Question: Explain the biomechanical and muscle activation differences between stair ascent and stair descent. | Answer: Stair ascent relies primarily on concentric contractions of the lower limb muscles to overcome gravity and lift the body's mass. Key drivers include concentric quadriceps (knee extension), concentric gluteus maximus (hip extension), and concentric plantarflexors (calf push-off). Conversely, stair descent is a controlled lowering activity relying on eccentric muscle contractions to absorb shock. Key controllers are eccentric quadriceps (graduated knee flexion) and eccentric soleus/gastrocnemius (controlling forward tibial translation). | Examiner Key Points: Concentric ascent (propulsion) vs eccentric descent (controlled deceleration), muscle roles (quadriceps and gluteals for ascent; quadriceps and soleus for descent), energy absorption. | Clinical Importance: Patients with quadriceps weakness or knee pain (e.g., patellofemoral pain syndrome) often present with significantly more difficulty and pain during stair descent than ascent due to the high eccentric demands."
-  ],
-  "mcqs": [
-    {
-      "question": "A complete gait cycle is clinically defined as beginning at:",
-      "options": ["Heel strike of one foot to heel strike of the opposite foot", "Heel strike of one foot to some subsequent heel strike of the same foot", "Toe-off of one foot to heel strike of the opposite foot", "Mid-stance to terminal push-off of the same limb"],
-      "answer": "Heel strike of one foot to some subsequent heel strike of the same foot",
-      "explanation": "A complete gait cycle (stride) begins at the initial contact (heel strike) of one limb and ends at the next initial contact of that exact same limb."
-    },
-    {
-      "question": "What are the standard percentages representing the stance and swing phases during normal bipedal walking?",
-      "options": ["50% stance, 50% swing", "60% stance, 40% swing", "40% stance, 60% swing", "80% stance, 20% swing"],
-      "answer": "60% stance, 40% swing",
-      "explanation": "A normal gait cycle consists of approximately 60% stance phase (weight-bearing) and 40% swing phase (non-weight-bearing)."
-    },
-    {
-      "question": "Double support represents what percentage of a standard walk gait cycle?",
-      "options": ["0%", "10%", "20%", "40%"],
-      "answer": "20%",
-      "explanation": "Double support occurs twice per cycle, each segment representing 10%, totaling 20% of the normal bipedal walking cycle."
-    },
-    {
-      "question": "The spatial distance measured between consecutive heel strikes of opposite feet is termed:",
-      "options": ["Stride Length", "Step Length", "Step Width", "Stride Cadence"],
-      "answer": "Step Length",
-      "explanation": "Step length is the spatial distance measured from the heel strike of one foot to the heel strike of the opposite foot."
-    },
-    {
-      "question": "The lateral drop of the pelvis on the swing side when standing on a weak leg indicates weakness in which muscle group?",
-      "options": ["Hip flexors", "Hip adductors", "Hip abductors (primarily Gluteus Medius)", "Gluteus Maximus"],
-      "answer": "Hip abductors (primarily Gluteus Medius)",
-      "explanation": "The hip abductors (Gluteus Medius) act to stabilize the pelvis. Weakness of this group on the stance side causes the opposite pelvis to drop (Trendelenburg sign)."
-    },
-    {
-      "question": "In a hemiplegic gait, the patient must circumduct the affected lower extremity during the swing phase because:",
-      "options": ["The hip is overly flexible", "The heel is striking too early", "The spastic limb exhibits extensor synergy, preventing ankle dorsiflexion and knee flexion", "The opposite arm is swinging forward"],
-      "answer": "The spastic limb exhibits extensor synergy, preventing ankle dorsiflexion and knee flexion",
-      "explanation": "Spastic extensor synergy locked the leg in extension (plantarflexed ankle, extended knee), making the limb 'too long' and forcing circumduction clearance."
-    },
-    {
-      "question": "Which gait deviation is characterized by a forward-flexed torso, short shuffling steps, and a progressive walking acceleration called 'festination'?",
-      "options": ["Antalgic gait", "Parkinsonian gait", "Hemiplegic gait", "Cerebellar ataxic gait"],
-      "answer": "Parkinsonian gait",
-      "explanation": "The Parkinsonian gait is a classic neuro-degenerative walk marked by a stooped rigid posture, shuffling steps, and festination acceleration."
-    },
-    {
-      "question": "To compensate for a severe ankle foot drop and clear the toes during swing, the patient will perform:",
-      "options": ["High hip and knee flexion (steppage gait)", "Trunk leaning backward", "Gastrocnemius stretching mid-stride", "Knee joint locking"],
-      "answer": "High hip and knee flexion (steppage gait)",
-      "explanation": "A steppage gait uses excessive hip and knee flexion to lift the foot higher, allowing a dropping foot to clear the floor during swing."
-    },
-    {
-      "question": "A patient with knee joint osteoarthritis shortens their stance phase on the affected side to minimize loading pain. This is a/an:",
-      "options": ["Trendelenburg gait", "Antalgic gait", "Waddling gait", "Athetoid gait"],
-      "answer": "Antalgic gait",
-      "explanation": "An antalgic gait is a painful walking style defined by shortening the painful side's stance phase in a protective effort to minimize pressure."
-    },
-    {
-      "question": "What are the three joint rockers of the stance phase, in correct chronological order?",
-      "options": ["Ankle rocker, forefoot rocker, heel rocker", "Heel rocker, ankle rocker, forefoot rocker", "Forefoot rocker, heel rocker, ankle rocker", "Knee rocker, hip rocker, ankle rocker"],
-      "answer": "Heel rocker, ankle rocker, forefoot rocker",
-      "explanation": "Smooth forward progression occurs via three successive rockers: the heel rocker (initial touch), the ankle rocker (mid-stance), and the forefoot rocker (push-off)."
-    },
-    {
-      "question": "Which gait determinant involves a physical drop of the pelvis on the non-weight-bearing side by 5 degrees to reduce vertical COM peak heights?",
-      "options": ["Pelvic rotation", "Pelvic tilt", "Knee flexion in stance", "Lateral translation of pelvis"],
-      "answer": "Pelvic tilt",
-      "explanation": "A small pelvic tilt (pelvis dropping 5 degrees on the swing side) lowers the peak height of the center of mass tracking curve, saving energy."
-    },
-    {
-      "question": "During the heel rocker phase (initial contact), which muscle group contracts eccentrically to prevent foot slap?",
-      "options": ["Gastrocnemius and Soleus", "Tibialis Anterior", "Quadriceps", "Hamstrings"],
-      "answer": "Tibialis Anterior",
-      "explanation": "The Tibialis Anterior contracts eccentrically immediately following heel strike to lower the forefoot in a controlled manner, preventing foot slap."
-    },
-    {
-      "question": "Which phase of bipedal walking is completely absent when transitioning from walking to running?",
-      "options": ["Swing phase", "Stance phase", "Double support phase", "Initial contact"],
-      "answer": "Double support phase",
-      "explanation": "Running is distinguished from walking by the complete absence of double support, replaced by a non-weight-bearing flight/float phase."
-    },
-    {
-      "question": "The vertical Ground Reaction Force (GRF) curve during a normal stance phase is shaped like:",
-      "options": ["A single flat line", "A bell curve with one peak", "A double-peak 'M' curve", "A linear upward slope"],
-      "answer": "A double-peak 'M' curve",
-      "explanation": "The vertical GRF curve exhibits an 'M' shape: the first peak reflects loading response impact; the second peak represents terminal push-off."
-    },
-    {
-      "question": "The spatial distance between two consecutive heel strikes of the SAME foot is termed:",
-      "options": ["Step Length", "Stride Length", "Stride Width", "Cadence frequency"],
-      "answer": "Stride Length",
-      "explanation": "Stride length represents a complete cycle distance: the vertical distance between consecutive heel strikes of the same foot."
-    },
-    {
-      "question": "Cadence is clinically defined as:",
-      "options": ["The width of feet during walk", "The number of steps completed per minute", "The ratio of stance to swing duration", "The speed of forward gait"],
-      "answer": "The number of steps completed per minute",
-      "explanation": "Cadence is the temporal variable representing the absolute number of steps executed per minute (standard range: 90-120 steps/min)."
-    },
-    {
-      "question": "A patient with spastic diplegia (cerebral palsy) walk with a crouched torso, hips adducted/internally rotated, and knees crossing over. What gait is this?",
-      "options": ["Hemiplegic gait", "Scissor gait", "Antalgic gait", "Cavalier gait"],
-      "answer": "Scissor gait",
-      "explanation": "A scissor gait features severe spasticity in hip adductors, forcing the knees to cross over each other in a scissor-like pattern during walking."
-    },
-    {
-      "question": "Which of the following describes a 'Compensated' Trendelenburg gait?",
-      "options": ["The patient slips on the floor", "The patient lateral leans their trunk over the weak stance hip during walking", "The patient flexes their knee to 90 degrees", "The pelvic girdle drops on the stance side"],
-      "answer": "The patient lateral leans their trunk over the weak stance hip during walking",
-      "explanation": "To compensate for abductor weakness, patients lean their trunk over the affected weak stance hip, moving the center of gravity over the joint to hide pelvic drop."
-    },
-    {
-      "question": "An active contraction of which muscle group is primary for terminal push-off (Pre-Swing) acceleration?",
-      "options": ["Tibialis Anterior", "Quadriceps Femoris", "Ankle Plantarflexors (Gastrocnemius and Soleus)", "Gluteus Maximus"],
-      "answer": "Ankle Plantarflexors (Gastrocnemius and Soleus)",
-      "explanation": "Ankle plantarflexors contract concentrically during terminal stance to drive push-off, generating forward walking momentum."
-    },
-    {
-      "question": "Which joint rocker occurs from initial contact to the loading response, utilizing the calcaneus as a pivot?",
-      "options": ["Heel Rocker", "Ankle Rocker", "Forefoot Rocker", "Knee Rocker"],
-      "answer": "Heel Rocker",
-      "explanation": "The heel rocker uses the curved calcaneus to pivot the ankle into plantarflexion, absorbing the shock of initial contact."
-    },
-    {
-      "question": "Which nerve injury leads to calf muscle paralysis and a complete loss of terminal stance push-off power?",
-      "options": ["Common Peroneal Nerve", "Tibial Nerve", "Femoral Nerve", "Obturator Nerve"],
-      "answer": "Tibial Nerve",
-      "explanation": "The tibial nerve innervates gastrocnemius and soleus. Injury results in a complete loss of active plantarflexion (push-off power)."
-    },
-    {
-      "question": "The ankle rocker occurs during which phase of stance, pivoting the tibia over a flat foot?",
-      "options": ["Initial contact", "Mid-stance", "Terminal pre-swing", "Loading response"],
-      "answer": "Mid-stance",
-      "explanation": "The ankle rocker occurs during mid-stance. The ankle dorsiflexes passively, pivoting the tibia forward over a weight-bearing flat foot."
-    },
-    {
-      "question": "What is the standard step width (base of support width) in normal adult gait?",
-      "options": ["0 inches", "2 to 4 inches", "8 to 10 inches", "Over 12 inches"],
-      "answer": "2 to 4 inches",
-      "explanation": "The average step width (measured between the heel centers of both feet) ranges between 2 to 4 inches (5 to 10 cm)."
-    },
-    {
-      "question": "Which of the following gait deviations is marked by a wide base of support, staggering tracking, and highly irregular step lengths?",
-      "options": ["Parkinsonian gait", "Hemiplegic gait", "Cerebellar Ataxic gait", "Antalgic gait"],
-      "answer": "Cerebellar Ataxic gait",
-      "explanation": "Cerebellar ataxic walking features a broad base, staggering steps, and chaotic, uncoordinated movements due to cerebellar damage."
-    },
-    {
-      "question": "During the loading response phase of stance, the quadriceps contract eccentrically to:",
-      "options": ["Extend the hip", "Absorb floor impact by controlling knee flexion", "Perform ankle push-off", "Keep the trunk in extension"],
-      "answer": "Absorb floor impact by controlling knee flexion",
-      "explanation": "The quadriceps contract eccentrically during loading response to control knee flexion (up to 15 degrees), absorbing impact shock."
-    },
-    {
-      "question": "What clinical symptom is characterized by a foot slap immediately after heel strike?",
-      "options": ["Subluxation of the hip", "Weakness of ankle dorsiflexors (Tibialis Anterior)", "Spasticity of the hamstrings", "Contracture of the Achilles tendon"],
-      "answer": "Weakness of ankle dorsiflexors (Tibialis Anterior)",
-      "explanation": "Mild weakness of the Tibialis Anterior prevents controlled eccentric lowering of the foot, causing it to fall flat hard, creating a slap."
-    },
-    {
-      "question": "Which phase of gait is the primary weight-bearing phase representing maximum vertical compression?",
-      "options": ["Initial contact", "Mid-stance", "Mid-swing", "Initial swing"],
-      "answer": "Mid-stance",
-      "explanation": "Mid-stance represents single-leg support. The entire body's mass rests on a single limb, matching peak structural loading."
-    },
-    {
-      "question": "The forefoot rocker utilizes which anatomical joint as its pivot point?",
-      "options": ["The calcaneus", "The ankle talocrural joint", "The metatarsophalangeal (MTP) joints", "The knee joint"],
-      "answer": "The metatarsophalangeal (MTP) joints",
-      "explanation": "The forefoot rocker utilizes the MTP joints as a pivot during pre-swing, tipping the heel upward to push the leg forward."
-    },
-    {
-      "question": "A patient walks with a 'waddling gait'. This indicates bilateral weakness of which muscle group?",
-      "options": ["Quadriceps", "Ankle dorsiflexors", "Hip abductors", "Hamstrings"],
-      "answer": "Hip abductors",
-      "explanation": "Bilateral weakness of the hip abductors leads to bilateral pelvic drops, causing a characteristic dynamic waddling gait."
-    },
-    {
-      "question": "Which central neurological structure coordinates walking cadences and limb movements based on cortical dictates?",
-      "options": ["The basal ganglia", "The spinal dorsal horn", "The dorsal column systems", "The lumbar sympathetic chain"],
-      "answer": "The basal ganglia",
-      "explanation": "The basal ganglia play a key role in regularizing walking rhythms, modulating automated movements, and coordinating arm swings."
-    },
-    {
-      "question": "Traditional gait terminology of 'Foot Flat' directly corresponds to which of the following Rancho Los Amigos (RLA) terminology phases?",
-      "options": [
-        "Initial Contact",
-        "Loading Response",
-        "Mid Stance",
-        "Pre-Swing"
-      ],
-      "answer": "Loading Response",
-      "explanation": "In gait terminology mapping, traditional 'Foot Flat' corresponds to the Rancho Los Amigos 'Loading Response' phase, which represents the initial double-support period."
-    },
-    {
-      "question": "During stair descent, what is the primary contraction type of the quadriceps muscle group to control gravity-induced knee flexion?",
-      "options": [
-        "Concentric",
-        "Eccentric",
-        "Isometric",
-        "Isokinetic"
-      ],
-      "answer": "Eccentric",
-      "explanation": "The quadriceps muscle group undergoes eccentric (lengthening) contraction during stair descent to control knee flexion and absorb the shock of body descent."
-    },
-    {
-      "question": "Which of the following describes the normal progression pathway of the Center of Pressure (COP) along the plantar surface of the foot during the stance phase of walking?",
-      "options": [
-        "Medial heel → lateral midfoot → hallux",
-        "Lateral heel → medial forefoot → hallux",
-        "Central midfoot → lateral malleolus → calcaneus",
-        "Toe tips → transverse arch → medial calcaneus"
-      ],
-      "answer": "Lateral heel → medial forefoot → hallux",
-      "explanation": "The Center of Pressure (COP) pathway normally progresses from the lateral heel at initial contact, rolls forward across the midfoot to the medial forefoot, and exits via the hallux (great toe) during terminal push-off."
-    }
-  ],
-  "reference": [
-    "Jacquelin Perry & Judith M. Burnfield - Gait Analysis: Normal and Pathological Function",
-    "Carolyn Kisner & Lynn Allen Colby - Therapeutic Exercise: Foundations and Techniques",
-    "S. Lakshmi Narayanan - Textbook of Therapeutic Exercises"
-  ]
+    "viva": [],
+    "flashcards": [],
+    "references": []
 }

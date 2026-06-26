@@ -1,0 +1,498 @@
+metadata:
+  chapterId: anat_ch25
+  title: Bones of Lower Limb
+  subject: Anatomy
+  subjectId: anatomy
+  version: '1.0'
+  lastUpdated: '2026-06-25'
+  difficulty: Medium
+  estimatedStudyTime: 60
+  keywords: []
+  tags: []
+  status: published
+learningObjectives: []
+theory:
+  definitions:
+  - 'Chapter Overview: This chapter is dedicated to the osteology of the lower limb,
+    which acts as the weight-bearing framework of the human body. It explores the
+    structures, attachments, and clinical correlations of the pelvic girdle (hip bone),
+    femur, patella, tibia, fibula, and the skeleton of the foot.'
+  - 'Pelvic Girdle (Hip Bone / Coxal Bone): A large, irregular bone composed of three
+    fused parts: ilium, ischium, and pubis. Fusion occurs at the cup-shaped acetabulum
+    around puberty (at the Y-shaped tri-radiate cartilage).'
+  - 'Femur (Thigh Bone): The longest and strongest bone in the human body. It consists
+    of a head (articulating with the acetabulum), neck, greater and lesser trochanters,
+    shaft, and lateral and medial condyles.'
+  - 'Patella (Patella): The largest sesamoid bone in the body, embedded within the
+    tendon of the quadriceps femoris muscle. It serves to increase the leverage of
+    the quadriceps tendon.'
+  - 'Tibia (Shin Bone) and Fibula: The tibia is the medial, weight-bearing bone of
+    the leg. The fibula is the lateral, non-weight-bearing bone that primarily serves
+    for muscle attachment and forms the lateral malleolus of the ankle joint.'
+  coreConcepts:
+  - 'Weight Transmission Pathway: Body weight is transmitted from the vertebral column
+    via the sacroiliac joints, through the pelvic girdle to the hip joints, down the
+    shafts of the femurs to the knee joints, through the tibia to the ankle joints,
+    and finally distributed through the arches of the feet.'
+  - 'Structural Adaptations for Bipedalism: The femur is angled medially (carrying
+    angle or Q-angle) from the pelvis to the knee, bringing the knees closer to the
+    line of gravity for efficient balance during walking.'
+  equipment:
+  - Disarticulated skeleton models (ilium, ischium, pubis, femur, tibia, fibula, and
+    foot skeleton)
+  - Articulated human lower limb skeleton
+  - Anatomical landmarks tracing grids
+  - X-ray negatives of normal and fractured lower limb bones (neck of femur, tibia
+    shaft)
+clinicalCorrelations:
+  pearls:
+  - 'Avascular Necrosis of Femoral Head (AVN): Fractures of the femoral neck often
+    rupture the retinacular branches of the medial circumflex femoral artery, leading
+    to ischemic necrosis of the femoral head because the ligamentum teres artery is
+    insufficient on its own in adults.'
+  - 'Osgood-Schlatter Disease: Stress or repetitive strain on the patellar ligament
+    attachment site at the tibial tuberosity in adolescent students can trigger traction
+    apophysitis, presenting as localized painful swelling.'
+  - 'Pott''s Fracture: Forced eversion of the foot leads to abduction of the ankle,
+    fracturing the medial malleolus, shearing the lateral malleolus, and tearing the
+    distal tibiofibular syndesmosis.'
+  precautions: []
+  indications: []
+  contraindications:
+    general: []
+    local: []
+  technique:
+    patientPreparation: []
+    apparatusPreparation: []
+    skinPreparation: []
+    electrodePlacement: []
+    treatmentProcedure: []
+  protocols: []
+  physiologicalEffects: []
+clinicalCases: []
+mcqs:
+- id: mcq_anat_ch25_001
+  question: A fracture of the femoral neck most commonly threatens the blood supply
+    from which of the following vessels?
+  options:
+  - Obturator artery lateral branch
+  - Medial circumflex femoral artery anastomosis
+  - Deep circumflex iliac artery
+  - First perforating branch of profunda femoris
+  answer: Medial circumflex femoral artery anastomosis
+  explanation: Retinacular branches from the medial circumflex femoral artery provide
+    the primary blood supply to the femoral head.
+- id: mcq_anat_ch25_002
+  question: Which anatomical structure is primarily involved in Osgood-Schlatter disease?
+  options:
+  - Adductor tubercle of femur
+  - Tibial tuberosity
+  - Anterior superior iliac spine (ASIS)
+  - Lateral condyle of tibia
+  answer: Tibial tuberosity
+  explanation: Osgood-Schlatter disease is a traction apophysitis of the tibial tuberosity
+    where the patellar ligament inserts.
+- id: mcq_anat_ch25_003
+  question: Which bone is considered the non-weight-bearing lateral bone of the leg?
+  options:
+  - Tibia
+  - Fibula
+  - Talus
+  - Calcaneus
+  answer: Fibula
+  explanation: The fibula does not transmit body weight but serves for muscle origin
+    and ankle mortise stabilization.
+- id: mcq_anat_ch25_004
+  question: At what pelvic landmark do the ilium, ischium, and pubis fuse together
+    in adolescents?
+  options:
+  - Greater sciatic notch
+  - Acetabulum
+  - Iliac crest
+  - Obturator foramen
+  answer: Acetabulum
+  explanation: Fusion of the three bones occurs at the Y-shaped tri-radiate cartilage
+    inside the acetabular cup.
+- id: mcq_anat_ch25_005
+  question: 'An angle of inclination between the femoral neck and shaft of 110 degrees
+    is clinically termed:'
+  options:
+  - Coxa valga
+  - Coxa vara
+  - Genu valgum
+  - Genu varum
+  answer: Coxa vara
+  explanation: Coxa vara refers to an angle of inclination less than the normal average
+    of 125-130 degrees.
+- id: mcq_anat_ch25_006
+  question: 'An angle of inclination between the femoral neck and shaft of 145 degrees
+    is clinically termed:'
+  options:
+  - Coxa valga
+  - Coxa vara
+  - Genu valgum
+  - Pes planus
+  answer: Coxa valga
+  explanation: Coxa valga is an abnormally large angle of inclination, exceeding 135
+    degrees.
+- id: mcq_anat_ch25_007
+  question: The Q-angle is clinically measured from the ASIS to the center of the
+    patella, and down to which of the following landmarks?
+  options:
+  - Tibial tuberosity
+  - Medial malleolus
+  - Lateral malleolus
+  - Adductor tubercle
+  answer: Tibial tuberosity
+  explanation: The Q-angle represents the line of pull of the quadriceps relative
+    to the patellar ligament extending to the tibial tuberosity.
+- id: mcq_anat_ch25_008
+  question: What is the largest sesamoid bone in the human body?
+  options:
+  - Patella
+  - Pisiform
+  - Fabella
+  - Navicular
+  answer: Patella
+  explanation: The patella is the largest sesamoid bone, developing inside the tendon
+    of the quadriceps femoris.
+- id: mcq_anat_ch25_009
+  question: Which of the following nerves runs close to the neck of the fibula, making
+    it vulnerable to compression or fractures?
+  options:
+  - Tibial nerve
+  - Common peroneal (fibular) nerve
+  - Saphenous nerve
+  - Femoral nerve
+  answer: Common peroneal (fibular) nerve
+  explanation: The common peroneal nerve winds around the fibular neck, where compression
+    paralyzes the dorsiflexor muscles.
+- id: mcq_anat_ch25_010
+  question: Which of the following bones represents the heel bone of the foot?
+  options:
+  - Calcaneus
+  - Talus
+  - Cuboid
+  - Navicular
+  answer: Calcaneus
+  explanation: The calcaneus is the largest tarsal bone, forming the bony heel and
+    providing attachment for the Achilles tendon.
+- id: mcq_anat_ch25_011
+  question: The lateral malleolus is a bony projection of which bone?
+  options:
+  - Tibia
+  - Fibula
+  - Calcaneus
+  - Talus
+  answer: Fibula
+  explanation: The lateral malleolus is the distal extension of the fibula, forming
+    the outer wall of the ankle joint.
+- id: mcq_anat_ch25_012
+  question: The medial malleolus is a bony projection of which bone?
+  options:
+  - Tibia
+  - Fibula
+  - Calcaneus
+  - First metatarsal
+  answer: Tibia
+  explanation: The medial malleolus is the distal extension of the weight-bearing
+    tibia.
+- id: mcq_anat_ch25_013
+  question: Which bone is characterized by the presence of a prominent anterior border
+    known as the 'shin'?
+  options:
+  - Tibia
+  - Fibula
+  - Femur
+  - Humerus
+  answer: Tibia
+  explanation: The anterior border of the tibia is sharp, subsurface, and subcutaneous,
+    forming the shin.
+- id: mcq_anat_ch25_014
+  question: The adductor tubercle, a crucial insertion landmark for adductor magnus,
+    is located on which aspect of the femur?
+  options:
+  - Superior aspect of medial epicondyle
+  - Lateral condyle
+  - Lineas aspera middle third
+  - Greater trochanter
+  answer: Superior aspect of medial epicondyle
+  explanation: The adductor tubercle sits on the superior-medial aspect of the medial
+    condyle framework of the femur.
+- id: mcq_anat_ch25_015
+  question: The fovea capitis, a small depression on the head of the femur, provides
+    attachment for which structure?
+  options:
+  - Ligamentum teres
+  - Iliofemoral ligament
+  - Pubofemoral ligament
+  - Ischiofemoral ligament
+  answer: Ligamentum teres
+  explanation: The fovea capitis acts as the insertion site for the ligamentum teres
+    (ligament of head of femur).
+- id: mcq_anat_ch25_016
+  question: The linea aspera is a prominent ridge located on which surface of the
+    femoral shaft?
+  options:
+  - Posterior surface
+  - Anterior surface
+  - Medial border
+  - Lateral border
+  answer: Posterior surface
+  explanation: The linea aspera is a rough longitudinal ridge on the middle third
+    of the posterior femoral shaft.
+- id: mcq_anat_ch25_017
+  question: Which of the following bones articulates with the distal aspect of the
+    tibia and fibula to form the talocrural joint?
+  options:
+  - Talus
+  - Calcaneus
+  - Navicular
+  - Cuboid
+  answer: Talus
+  explanation: The trochlea of the talus fits tightly into the ankle mortise formed
+    by the tibia and fibula.
+- id: mcq_anat_ch25_018
+  question: How many tarsal bones make up the skeleton of a human foot?
+  options:
+  - Seven
+  - Eight
+  - Five
+  - Fourteen
+  answer: Seven
+  explanation: There are 7 tarsal bones (calcaneus, talus, cuboid, navicular, and
+    three cuneiforms) in each foot.
+- id: mcq_anat_ch25_019
+  question: The sustentaculum tali, which supports the talar head, is a projection
+    of which bone?
+  options:
+  - Calcaneus
+  - Talus
+  - Navicular
+  - Cuboid
+  answer: Calcaneus
+  explanation: The sustentaculum tali is a horizontal shelf extending medially from
+    the calcaneus bone.
+- id: mcq_anat_ch25_020
+  question: Which muscle inserts on the prominent tibial tuberosity?
+  options:
+  - Quadriceps femoris
+  - Biceps femoris
+  - Sartorius
+  - Tibialis anterior
+  answer: Quadriceps femoris
+  explanation: The patellar ligament (the continuation of the quadriceps tendon) inserts
+    into the tibial tuberosity.
+- id: mcq_anat_ch25_021
+  question: The interosseous membrane of the leg links which two bones?
+  options:
+  - Tibia and fibula
+  - Femur and tibia
+  - Femur and patella
+  - Talus and calcaneus
+  answer: Tibia and fibula
+  explanation: The interosseous membrane spans the gap between the interosseous borders
+    of the tibia and fibula.
+- id: mcq_anat_ch25_022
+  question: Which of the following landmarks is situated on the lateral aspect of
+    the proximal tibia, serving as insertion for the iliotibial (IT) band?
+  options:
+  - Gerdy's tubercle
+  - ' tibial tuberosity'
+  - Adductor tubercle
+  - Soleal line
+  answer: Gerdy's tubercle
+  explanation: Gerdy's tubercle is a prominent flat facet on the anterolateral aspect
+    of the lateral tibial condyle.
+- id: mcq_anat_ch25_023
+  question: The soleal line, an oblique ridge for the origin of the soleus muscle,
+    is located on which surface of the tibia?
+  options:
+  - Posterior surface
+  - Anterior border
+  - Lateral surface
+  - Medial border
+  answer: Posterior surface
+  explanation: The soleal line runs obliquely downwards and medially across the upper
+    third of the posterior tibial shaft.
+- id: mcq_anat_ch25_024
+  question: The greater trochanter is a major traction apophysis of which bone?
+  options:
+  - Femur
+  - Hip bone
+  - Tibia
+  - Clavicle
+  answer: Femur
+  explanation: The greater trochanter is a large, quadrangular projection on the lateral
+    aspect of the junction of the femoral neck and shaft.
+- id: mcq_anat_ch25_025
+  question: The bony pelvis is formed by which of the following combinations?
+  options:
+  - Two hip bones, sacrum, and coccyx
+  - Ilium, ischium, and pubis only
+  - Femur and hip bones only
+  - Sacrum and lumbar vertebrae
+  answer: Two hip bones, sacrum, and coccyx
+  explanation: The skeletal pelvis is a ring formed by the right and left hip bones
+    anterolaterally, and the sacrum and coccyx posteriorly.
+- id: mcq_anat_ch25_026
+  question: 'The normal carry or torsion angle of femoral anteversion in healthy adults
+    is around:'
+  options:
+  - 10 to 15 degrees
+  - 30 to 45 degrees
+  - 0 to 5 degrees
+  - 90 degrees
+  answer: 10 to 15 degrees
+  explanation: Adult femoral neck torsion is slightly rotated anteriorly relative
+    to the condyles by 10 to 15 degrees.
+- id: mcq_anat_ch25_027
+  question: Under normal weight-bearing conditions, direct body weight passes through
+    which joint to reach the lower limb?
+  options:
+  - Sacroiliac joint
+  - Symphysis pubis
+  - Intervertebral facet joints only
+  - Hip joint directly from lumbar
+  answer: Sacroiliac joint
+  explanation: Body weight is transmitted down the spine, branching laterally through
+    the sacroiliac (SI) joints to the femoral heads.
+- id: mcq_anat_ch25_028
+  question: The ischial spine separates which two pelvic notches?
+  options:
+  - Greater sciatic notch and lesser sciatic notch
+  - Obturator notch and acetabulum
+  - Iliac fossa and ischial tuberosity
+  - Pubic tubercle and symphysis
+  answer: Greater sciatic notch and lesser sciatic notch
+  explanation: The ischial spine is a pointed postero-medial projection separating
+    the greater sciatic notch superiorly from the lesser sciatic notch inferiorly.
+- id: mcq_anat_ch25_029
+  question: Which of the following bones lacks an articulation with any neighboring
+    bone during childhood weight-bearing?
+  options:
+  - None of the above
+  - Patella
+  - Fibula
+  - Medial cuneiform
+  answer: None of the above
+  explanation: Every primary lower limb bone participates dynamic weight chains or
+    muscle pulleys through joint surfaces.
+- id: mcq_anat_ch25_030
+  question: A physical therapist palpates the apex of the fibular head to identify
+    the attachment of which ligament?
+  options:
+  - Lateral collateral ligament (LCL)
+  - Medial collateral ligament (MCL)
+  - Anterior cruciate ligament (ACL)
+  - Achilles tendon
+  answer: Lateral collateral ligament (LCL)
+  explanation: The fibular collateral (lateral collateral) ligament inserts into the
+    lateral surface of the fibular head.
+viva:
+- id: viva_anat_ch25_001
+  question: What is the clinical significance of a subcapital fracture of the neck
+    of the femur?
+  answer: Retinacular blood vessels supplying the femoral head are ruptured, putting
+    the patient at an extremely high risk of avascular necrosis (AVN) of the femoral
+    head.
+  keyPoints: Retrograde blood supply, medial circumflex femoral artery, avascular
+    necrosis.
+  clinicalImportance: AVN requires joint replacement in elderly patients.
+- id: viva_anat_ch25_002
+  question: Describe the bones forming the tri-radiate cartilage and where it is located.
+  answer: It is a Y-shaped cartilaginous plate located in the acetabulum where the
+    ilium, ischium, and pubis meet. They fuse fully around 15-17 years of age.
+  keyPoints: Ilium, ischium, pubis, acetabulum, fusion age.
+  clinicalImportance: Helps differentiate childhood pelvic fractures from normal development
+    plates on radiographs.
+- id: viva_anat_ch25_003
+  question: What is the function of the patella and how does it affect mechanical
+    advantage?
+  answer: It acts as an anatomical pulley to push the quadriceps tendon away from
+    the axis of rotation of the knee joint, increasing the leverage (force arm) of
+    the quadriceps by up to 30-50%.
+  keyPoints: Sesamoid bone, anatomical pulley, mechanical advantage, quadriceps leverage.
+  clinicalImportance: Excision of the patella (patellectomy) markedly reduces extension
+    strength.
+- id: viva_anat_ch25_004
+  question: 'Define Coxa Vara and Coxa Valga.| Answer: Coxa Vara is a decrease in
+    the angle of inclination between the femoral neck and shaft (less than 120 degrees).
+    Coxa Valga is an increase in this angle (greater than 135 degrees).| Examiner
+    Key Points: Angle of inclination, normal 125-130 degrees.| Clinical Importance:
+    Coxa Vara leads to limb shortening and Trendelenburg gait; Coxa Valga increases
+    joint stress.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch25_005
+  question: 'What is the Q-angle of the knee and why does it differ between sexes?|
+    Answer: The angle formed by a line from ASIS to mid-patella, and a line from mid-patella
+    to the tibial tuberosity. It is wider in females (15-20 degrees) than males (10-15
+    degrees) due to a wider female pelvis.| Examiner Key Points: ASIS, patella, tibial
+    tuberosity, female pelvic width.| Clinical Importance: A high Q-angle increases
+    risk for lateral patellar subluxation or tracking issues.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch25_006
+  question: 'Describe the safe zone of the gluteal region for intramuscular injections.|
+    Answer: The superolateral quadrant of the buttock, bounded superiorly by the iliac
+    crest.| Examiner Key Points: Superolateral (upper outer) quadrant, avoids sciatic
+    nerve.| Clinical Importance: Prevents injection-induced sciatic nerve paralysis.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch25_007
+  question: 'What is Osgood-Schlatter disease?| Answer: A traction apophysitis of
+    the tibial tuberosity caused by repetitive strain from the patellar tendon in
+    growing adolescents.| Examiner Key Points: Tibial tuberosity, patellar tendon
+    tension, adolescent growth spurt.| Clinical Importance: Highly tender, painful
+    swelling that requires rest from active jumping sports.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch25_008
+  question: 'Name the weight-bearing bone of the leg.| Answer: The tibia is the sole
+    weight-bearing bone of the leg; the fibula is non-weight-bearing, mainly serving
+    for muscle attachments.| Examiner Key Points: Tibia weight bearer, Fibula non-weight
+    bearer.| Clinical Importance: Fibular segments can be harvested as bone grafts
+    without losing the ability to stand.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch25_009
+  question: 'What is Pott''s Fracture?| Answer: A fracture-dislocation of the ankle
+    joint caused by forced foot eversion. Breaks the medial malleolus, lateral malleolus,
+    and tears the tibiofibular syndesmosis.| Examiner Key Points: Medial malleolus,
+    lateral malleolus, tibiofibular syndesmosis compromise.| Clinical Importance:
+    Requires open reduction internal fixation (ORIF) to restore joint alignment.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch25_010
+  question: Name the tarsal bone that acts as the keystone of the medial longitudinal
+    arch.
+  answer: 'The talus bone, which distributes all body weight back to the calcaneus
+    and forward to the metatarsals.| Examiner Key Points: Talus, medial vertical keystone.|
+    Clinical Importance: Fracture or displacement of the talus collapses the functional
+    foot arch.'
+  keyPoints: ''
+  clinicalImportance: ''
+flashcards: []
+pyqs: []
+references:
+- 'B.D. Chaurasia - Human Anatomy (Volume 2: Lower Limb, Section on Lower Limb Osteology)'
+- 'Vishram Singh - Textbook of Anatomy: Lower Limb (Volume 2, Chapter on Bones of
+  Lower Extremity)'
+subjectExtensions:
+  anatomy:
+    parameters:
+      FemoralAngleOfInclination: Ranges from 125 to 130 degrees in normal adults;
+        smaller in females due to a wider pelvis; decrease causes coxa vara; increase
+        causes coxa valga.
+      FemoralAngleOfAnteversion: The angle of neck torsion, normally about 10 to 15
+        degrees anteriorly in adults.
+      Q-AngleNorms: 'Angle formed by the line from ASIS to central patella and a second
+        line from central patella to tibial tuberosity. Normal: 10-15 degrees for
+        males, 15-20 degrees for females.'

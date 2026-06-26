@@ -1,0 +1,96 @@
+metadata:
+  chapterId: anat_ch34
+  title: Scalp & Face Muscles
+  subject: Anatomy
+  subjectId: anatomy
+  version: '1.0'
+  lastUpdated: '2026-06-25'
+  difficulty: Medium
+  estimatedStudyTime: 60
+  keywords: []
+  tags: []
+  status: published
+learningObjectives: []
+theory:
+  definitions:
+  - The muscles of head and face include muscles of facial expression (innervated
+    by Cranial Nerve VII) and muscles of mastication (innervated by Cranial Nerve
+    V).
+  - They are located in the superficial fascia and insert directly into the facial
+    skin to regulate expression, eyelid close, chewing, and oral functions.
+  coreConcepts:
+  - Facial expression muscle motor coordination is controlled by the five branches
+    of the Facial Nerve (Temporal, Zygomatic, Buccal, Marginal Mandibular, Cervical).
+  - Masticatory muscles (Temporalis, Masseter, Medial Pterygoid, Lateral Pterygoid)
+    originate from bones of skull and attach to the mandible to govern mandibular
+    excursion.
+  equipment:
+  - Anatomical facial muscle mapping chart
+  - Tuning fork CN VII sensory audit set
+clinicalCorrelations:
+  pearls:
+  - The buccinator muscle is pierced by the parotid gland salivation duct opposite
+    the upper second molar tooth tooth segment.
+  precautions:
+  - Differentiate peripheral CN VII facial paralysis (Bell's Palsy - entire half face
+    involved) from central stroke supranuclear palsy (spares upper forehead wrinkling).
+  indications:
+  - Diagnostics of Bell's Palsy facial weakness or trigeminal neuropathy
+  - Evaluation of Temporomandibular Joint (TMJ) dysfunction muscle spasms
+  contraindications:
+    general:
+    - Deep myofascial needling during acute facial herpes zoster
+    - Heavy pressure over carotid sinuses
+  technique:
+    treatmentProcedure:
+    - Audit CN VII by asking the student to screw eyes shut, puff cheeks, and elevate
+      eyebrows.
+    - Check CN V motor function by palpating both temporalis and masseter bulk during
+      deep molar clenching.
+  protocols: []
+  physiologicalEffects:
+  - effect: Mastication
+    frequency: Dynamic mechanical cycles
+    mechanism:
+    - Masseter and Temporalis pull the mandible superiorly against the maxillary dental
+      arch.
+    - Pterygoids glide mandible accessory planes laterally to grind nutrients.
+clinicalCases: []
+mcqs:
+- id: mcq_anat_ch34_001
+  question: Which branch of the cranial nerves innervates the muscles of facial expression?
+  options:
+  - Facial Nerve (CN VII)
+  - Trigeminal Nerve (CN V)
+  - Glossopharyngeal Nerve (CN IX)
+  - Vagus Nerve (CN X)
+  answer: Facial Nerve (CN VII)
+  explanation: The Facial Nerve (CN VII) emerges from the stylo-mastoid foramen and
+    branches inside the parotid gland to supply the motor components of facial expression.
+viva:
+- id: viva_anat_ch34_001
+  question: Name the nerve supplying the muscles of mastication. Mandibular Division
+    of Trigeminal Nerve (CN V3).
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch34_002
+  question: Which facial muscle closes the lips and puckers the mouth? Orbicularis
+    Oris.
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+flashcards: []
+pyqs: []
+references:
+- Chaurasia B.D. Textbook of Anatomy - Vol 3 (Head, Neck & Brain)
+- Gray's Anatomy - Chapter 31 (Superficial Face Muscles and Scalp)
+subjectExtensions:
+  anatomy:
+    parameters:
+      Orbicularis Oculi Role: Sphincter of eye; closes eyelids tightly (orbital part)
+        or gently (palpebral part)
+      Buccinator Role: Compresses cheek against teeth; aids in blowing, sucking, and
+        holding food
+      Primary Jaw Closer: Masseter muscle (extremely strong biomechanical lever)
+      Primary Jaw Opener: Lateral Pterygoid (initiates active jaw depression)

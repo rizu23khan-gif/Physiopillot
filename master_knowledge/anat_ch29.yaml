@@ -1,0 +1,501 @@
+metadata:
+  chapterId: anat_ch29
+  title: Knee Joint & Leg Compartments
+  subject: Anatomy
+  subjectId: anatomy
+  version: '1.0'
+  lastUpdated: '2026-06-25'
+  difficulty: Medium
+  estimatedStudyTime: 60
+  keywords: []
+  tags: []
+  status: published
+learningObjectives: []
+theory:
+  definitions:
+  - 'Chapter Overview: This chapter is highly central to physical therapy education.
+    It covers the knee joint complex—which experiences tremendous mechanical stress—including
+    its ligaments and menisci, the essential biomechanical ''locking and unlocking''
+    mechanism, and the three structural muscular compartments of the leg.'
+  - 'Knee Joint: A complex, atypical synovial hinge joint involving the medial and
+    lateral tibiofemoral joints and the patellofemoral joint. It permits flexion,
+    extension, and accessory conjunct rotation.'
+  - 'Cruciate Ligaments: The Anterior Cruciate Ligament (ACL) and Posterior Cruciate
+    Ligament (PCL) lie intracapsularly but extrasynovially. The ACL prevents anterior
+    translation of the tibia relative to the femur; the PCL prevents posterior translation.'
+  - 'Menisci (Medial & Lateral): C-shaped and O-shaped fibrocartilaginous shock absorbers
+    resting on the tibial plateau. The medial meniscus is more fixed, making it far
+    more prone to tearing.'
+  - 'Leg Compartments: Divided by intermuscular septa and the interosseous membrane
+    into Anterior (dorsiflexors, deep peroneal nerve), Lateral (evertors, superficial
+    peroneal nerve), and Posterior (plantarflexors, tibial nerve).'
+  coreConcepts:
+  - 'Locking and Unlocking Mechanism: ''Locking'' is the final 5 degrees of knee extension,
+    where the femur rotates medially (screwing home) on the fixed tibia, stabilizing
+    the knee. ''Unlocking'' is initiated by the Popliteus muscle, which laterally
+    rotates the femur on the fixed tibia to allow flexion.'
+  - 'Synovial Extension (Suprapatellar Bursa): The synovial membrane extends superiorly
+    deep to the quadriceps tendon for about 5 cm, forming the suprapatellar bursa.
+    This is clinically significant as knee effusions rapidly fill this space.'
+  equipment:
+  - Articulated human knee models detailing ligaments and menisci
+  - Goniometer for measuring knee range of motion (ROM)
+  - Orthopedic inspection assessment table
+  - Knee orthoses / braces examples
+clinicalCorrelations:
+  pearls:
+  - 'O''Donoghue''s Unhappy Triad: A severe knee injury involving simultaneous tearing
+    of the Anterior Cruciate Ligament (ACL), Medial Collateral Ligament (MCL), and
+    Medial Meniscus. It usually results from a lateral impact to the knee when the
+    foot is fixed on the ground.'
+  - 'Foot Drop: Compression of the common peroneal (fibular) nerve around the neck
+    of the fibula paralyzes the anterior and lateral leg compartments. The patient
+    loses dorsiflexion and eversion, presenting with a foot drop and foot-slap/steppage
+    gait.'
+  - 'Shin Splints (Medial Tibial Stress Syndrome): Inflammation of the periosteum
+    of the tibia, usually at the origin of the tibialis posterior or soleus. Common
+    in runners, causing anterior-medial leg pain.'
+  precautions: []
+  indications: []
+  contraindications:
+    general: []
+    local: []
+  technique:
+    patientPreparation: []
+    apparatusPreparation: []
+    skinPreparation: []
+    electrodePlacement: []
+    treatmentProcedure: []
+  protocols: []
+  physiologicalEffects: []
+clinicalCases: []
+mcqs:
+- id: mcq_anat_ch29_001
+  question: Which muscle acts as the key to unlock the knee joint by rotating the
+    femur laterally on the tibia?
+  options:
+  - Sartorius
+  - Popliteus
+  - Plantaris
+  - Gastrocnemius
+  answer: Popliteus
+  explanation: The popliteus muscle initiates knee flexion by laterally rotating the
+    femur on the tibia (in closed chain).
+- id: mcq_anat_ch29_002
+  question: A physical therapist diagnoses a patient with foot drop. The patient cannot
+    perform ankle dorsiflexion or foot eversion. Which nerve is most likely damaged?
+  options:
+  - Tibial nerve
+  - Deep peroneal nerve
+  - Common peroneal nerve
+  - Saphenous nerve
+  answer: Common peroneal nerve
+  explanation: Common peroneal nerve splits into deep (dorsiflexors) and superficial
+    (evertors) peroneal branches.
+- id: mcq_anat_ch29_003
+  question: O'Donoghue's Unhappy Triad involves a tear of the ACL, MCL, and which
+    of the following structures?
+  options:
+  - Lateral meniscus
+  - Medial meniscus
+  - Posterior cruciate ligament
+  - Patellar ligament
+  answer: Medial meniscus
+  explanation: The unhappy triad includes the Anterior Cruciate Ligament (ACL), Medial
+    Collateral Ligament (MCL), and Medial Meniscus.
+- id: mcq_anat_ch29_004
+  question: Which of the following ligaments limits hyperextension of the knee joint?
+  options:
+  - Anterior cruciate ligament (ACL)
+  - Posterior cruciate ligament (PCL)
+  - Oblique popliteal ligament
+  - Ligament of Wrisberg
+  answer: Anterior cruciate ligament (ACL)
+  explanation: The ACL is taut in full extension, limiting hyperextension of the joint.
+- id: mcq_anat_ch29_005
+  question: The drawer test (anterior glide of the tibia) is used to evaluate the
+    integrity of which ligament?
+  options:
+  - Anterior cruciate ligament (ACL)
+  - Posterior cruciate ligament (PCL)
+  - Medial collateral ligament (MCL)
+  - Lateral collateral ligament (LCL)
+  answer: Anterior cruciate ligament (ACL)
+  explanation: Excessive anterior tibial translation during the anterior drawer test
+    indicates an ACL deficiency.
+- id: mcq_anat_ch29_006
+  question: Which of the following muscles is the primary dorsiflexor of the ankle?
+  options:
+  - Tibialis anterior
+  - Gastrocnemius
+  - Peroneus longus
+  - Soleus
+  answer: Tibialis anterior
+  explanation: Tibialis anterior is the strongest dorsiflexor and helper-invertor
+    of the foot.
+- id: mcq_anat_ch29_007
+  question: The lateral compartment of the leg contains which muscles?
+  options:
+  - Peroneus longus and peroneus brevis
+  - Tibialis anterior and peroneus tertius
+  - Gastrocnemius and soleus
+  - Extensor digitorum longus
+  answer: Peroneus longus and peroneus brevis
+  explanation: The lateral compartment contains peroneus (fibularis) longus and brevis,
+    evertors of the foot.
+- id: mcq_anat_ch29_008
+  question: What nerve innervates the lateral compartment of the leg?
+  options:
+  - Superficial peroneal nerve
+  - Deep peroneal nerve
+  - Tibial nerve
+  - Sural nerve
+  answer: Superficial peroneal nerve
+  explanation: The superficial peroneal (fibular) nerve supplies the peroneus longus
+    and brevis muscles.
+- id: mcq_anat_ch29_009
+  question: Which of the following nerves supplies the anterior compartment of the
+    leg?
+  options:
+  - Deep peroneal nerve
+  - Superficial peroneal nerve
+  - Tibial nerve
+  - Saphenous nerve
+  answer: Deep peroneal nerve
+  explanation: The deep peroneal (fibular) nerve supplies the anterior dorsiflexor
+    compartment.
+- id: mcq_anat_ch29_010
+  question: Which muscle represents the 'workhorse' of plantarflexion, being a single-joint
+    muscle containing mainly slow-twitch fibers?
+  options:
+  - Soleus
+  - Gastrocnemius
+  - Plantaris
+  - Popliteus
+  answer: Soleus
+  explanation: The soleus is a flat, deep plantarflexor, critical for standing posture
+    and bipedal steady-state gating.
+- id: mcq_anat_ch29_011
+  question: Which muscle is known as the 'second heart' because of its rich venous
+    plexus that returns blood from the leg?
+  options:
+  - Soleus
+  - Gastrocnemius
+  - Popliteus
+  - Tibialis anterior
+  answer: Soleus
+  explanation: Soleus contains large venous sinuses that act as a primary pump for
+    venous return.
+- id: mcq_anat_ch29_012
+  question: The oblique popliteal ligament reinforces the posterior capsule of the
+    knee. It is an expansion of which muscle tendon?
+  options:
+  - Semimembranosus
+  - Biceps femoris
+  - Semitendinosus
+  - Popliteus
+  answer: Semimembranosus
+  explanation: Oblique popliteal ligament arises as a retrograde expansion of the
+    semimembranosus tendon.
+- id: mcq_anat_ch29_013
+  question: The 'screwing-home' or locking mechanism of the knee joint in weight-bearing
+    involves which rotation of the femur?
+  options:
+  - Medial rotation of the femur on a fixed tibia
+  - Lateral rotation of the femur on a fixed tibia
+  - No rotation
+  - Posterior gliding
+  answer: Medial rotation of the femur on a fixed tibia
+  explanation: In weight-bearing (closed chain), full extension forces medial rotation
+    of the femur to lock the knee.
+- id: mcq_anat_ch29_014
+  question: Which of the following leg compartments is bordered anteriorly by the
+    tibia and interosseous membrane and is most commonly involved in shin splints?
+  options:
+  - Deep posterior compartment
+  - Anterior compartment
+  - Lateral compartment
+  - Superficial posterior compartment
+  answer: Deep posterior compartment
+  explanation: Shin splints involve micro-tearing of tibialis posterior at its tibial
+    origin in the deep posterior compartment.
+- id: mcq_anat_ch29_015
+  question: 'A massive rise in inter-compartmental pressure in the leg is known clinically
+    as:'
+  options:
+  - Compartment Syndrome
+  - Deep vein thrombosis
+  - Shin splints
+  - Varicose syndrome
+  answer: Compartment Syndrome
+  explanation: Compartment syndrome involves non-yielding fascia retaining swelling,
+    choking local capillary perfusion.
+- id: mcq_anat_ch29_016
+  question: Which of the leg compartments contains the tibialis posterior, flexor
+    digitorum longus, and flexor hallucis longus?
+  options:
+  - Deep posterior compartment
+  - Superficial posterior compartment
+  - Anterior compartment
+  - Lateral compartment
+  answer: Deep posterior compartment
+  explanation: The deep posterior compartment houses the tibialis posterior, flexor
+    digitorum longus, and flexor hallucis longus.
+- id: mcq_anat_ch29_017
+  question: The tendon of calcaneus (Achilles tendon) represents the combined insertion
+    of which muscles?
+  options:
+  - Gastrocnemius and soleus
+  - Soleus and tibialis posterior
+  - Gastrocnemius and plantaris only
+  - Tibialis anterior and vastus lateral
+  answer: Gastrocnemius and soleus
+  explanation: The gastrocnemius and soleus merge to form the thick Achilles tendon,
+    inserting into the posterior calcaneus.
+- id: mcq_anat_ch29_018
+  question: Which of the following structures separates the anterior compartment from
+    the lateral compartment of the leg?
+  options:
+  - Anterior intermuscular septum
+  - Posterior intermuscular septum
+  - Interosseous membrane
+  - Transverse crural fascia
+  answer: Anterior intermuscular septum
+  explanation: The anterior intermuscular septum separates the anterior dorsiflexors
+    from the lateral evertors.
+- id: mcq_anat_ch29_019
+  question: Which of the following statements is true regarding the lateral collateral
+    ligament (LCL) of the knee?
+  options:
+  - It is separate from the lateral meniscus
+  - It is fused directly to the lateral meniscus
+  - It is an intracapsular ligament
+  - It prevents posterior drawer
+  answer: It is separate from the lateral meniscus
+  explanation: LCL is a cord-like extracapsular ligament separated from the lateral
+    meniscus by the popliteus tendon.
+- id: mcq_anat_ch29_020
+  question: The coronary ligaments of the knee joint anchor which structures to the
+    tibial condyles?
+  options:
+  - Menisci
+  - Cruciate ligaments
+  - Collateral ligaments
+  - Patellar ligament
+  answer: Menisci
+  explanation: The coronary ligaments bind the outer margins of the medial and lateral
+    menisci loosely to the tibial plateau.
+- id: mcq_anat_ch29_021
+  question: Which of the following leg muscles plays a key role in maintaining the
+    medial longitudinal arch of the foot?
+  options:
+  - Tibialis posterior
+  - Peroneus brevis
+  - Gastrocnemius
+  - Soleus
+  answer: Tibialis posterior
+  explanation: Tibialis posterior acts as a primary active dynamic support for the
+    medial longitudinal arch.
+- id: mcq_anat_ch29_022
+  question: Which muscle acts to dorsiflex the ankle and invert the foot?
+  options:
+  - Tibialis anterior
+  - Peroneus longus
+  - Tibialis posterior
+  - Extensor digitorum longus
+  answer: Tibialis anterior
+  explanation: Tibialis anterior performs both ankle dorsiflexion and foot inversion.
+- id: mcq_anat_ch29_023
+  question: Which of the following structures passes anterior to the medial malleolus
+    of the tibia?
+  options:
+  - Great saphenous vein and saphenous nerve
+  - Tibial nerve
+  - Tendon of tibialis posterior
+  - Posterior tibial artery
+  answer: Great saphenous vein and saphenous nerve
+  explanation: The great saphenous vein and saphenous nerve descend immediately in
+    front of the medial malleolus.
+- id: mcq_anat_ch29_024
+  question: Which of the following structures is located deep in the tarsal tunnel
+    behind the medial malleolus?
+  options:
+  - Tibialis posterior tendon
+  - Sural nerve
+  - Saphenous nerve
+  - Peroneus longus tendon
+  answer: Tibialis posterior tendon
+  explanation: 'From anterior to posterior: Tibialis posterior tendon, Flexor digitorum
+    longus, Posterior tibial artery/vein, Tibial nerve, Flexor hallucis longus (Tom,
+    Dick, And Very Nervous Harry).'
+- id: mcq_anat_ch29_025
+  question: A positive Lachman test is a highly sensitive clinical indicator of a
+    tear in which ligament?
+  options:
+  - Anterior cruciate ligament (ACL)
+  - Posterior cruciate ligament (PCL)
+  - Lateral collateral ligament (LCL)
+  - Oblique popliteal ligament
+  answer: Anterior cruciate ligament (ACL)
+  explanation: Lachman's test, performed with 20-30 degrees of knee flexion, is the
+    most sensitive test for ACL tears.
+- id: mcq_anat_ch29_026
+  question: The posterior cruciate ligament (PCL) prevents which displacement of the
+    tibia?
+  options:
+  - Posterior displacement of tibia relative to femur
+  - Anterior displacement of tibia
+  - Abduction of knee
+  - Hyperextension
+  answer: Posterior displacement of tibia relative to femur
+  explanation: PCL prevents the tibia from sliding backward (posteriorly) under the
+    femur.
+- id: mcq_anat_ch29_027
+  question: What is the sensory supply of the lateral compartment of the leg?
+  options:
+  - Superficial peroneal nerve
+  - Deep peroneal nerve
+  - Sural nerve
+  - Saphenous nerve
+  answer: Superficial peroneal nerve
+  explanation: The superficial peroneal nerve supplies the evertors and much of the
+    skin on the dorsum of the foot.
+- id: mcq_anat_ch29_028
+  question: Which of the following is correct regarding the medial collateral ligament
+    (MCL)?
+  options:
+  - It is flat, band-like, and fused to the medial meniscus
+  - It is round, cord-like, and separate from meniscus
+  - It is located inside the synovial joint
+  - It is innervated by the deep peroneal nerve
+  answer: It is flat, band-like, and fused to the medial meniscus
+  explanation: The MCL is fused directly to the medial meniscus, explaining why they
+    are often injured together.
+- id: mcq_anat_ch29_029
+  question: Which muscle initiates 'unlocking' of the knee when standing in a closed
+    kinetic chain?
+  options:
+  - Popliteus laterally rotating the femur on the tibia
+  - Sartorius flexing the hip
+  - Gastrocnemius pulling the femur posteriorly
+  - Soleus contracting
+  answer: Popliteus laterally rotating the femur on the tibia
+  explanation: When standing (foot fixed), the popliteus rotates the femur outward
+    (laterally) to unlock the knee joint.
+- id: mcq_anat_ch29_030
+  question: The deep peroneal nerve cutaneous sensory distribution is restricted to
+    which area of the foot?
+  options:
+  - First web space between first and second toes
+  - Entire dorsum of foot
+  - Sole of foot
+  - Lateral margin of foot
+  answer: First web space between first and second toes
+  explanation: Deep peroneal nerve provides cutaneous supply only to the skin of the
+    adjacent sides of the 1st and 2nd toes.
+viva:
+- id: viva_anat_ch29_001
+  question: Explain the locking and unlocking mechanics of the knee joint. Which muscle
+    is the key?
+  answer: Locking occurs in the final degrees of knee extension, causing medially
+    inward rotation of the femur on the tibia (or lateral outer rotation of the tibia
+    on the femur if the foot is free), which locks the joint in maximum stability.
+    Unlocking is initiated by the Popliteus muscle, which laterally rotates the femur
+    on the tibia (or medially rotates tibia on the femur) to permit knee flexion.
+    Popliteus is the 'key' to the knee.
+  keyPoints: Femur medial rotation to lock, Popliteus lateral rotation to unlock,
+    closed kinetic chain mechanics.
+  clinicalImportance: Locked knee allows weight-bearing without muscle fatigue.
+- id: viva_anat_ch29_002
+  question: Why is the Medial Meniscus more frequently torn than the Lateral Meniscus?
+  answer: The medial meniscus is C-shaped, larger in diameter, and firmly attached
+    to the deep fibers of the Medial Collateral Ligament (MCL). This lack of mobility
+    makes it less adaptable to twisting stresses. In contrast, the lateral meniscus
+    is O-shaped, smaller, and separated from the Lateral Collateral Ligament, making
+    it far more mobile and less prone to injury.
+  keyPoints: C-shaped vs O-shaped, attachment to MCL makes medial meniscus less mobile.
+  clinicalImportance: Meniscal tears are evaluated with McMurray's test.
+- id: viva_anat_ch29_003
+  question: What nerve is endangered in a fracture of the neck of the fibula, and
+    what is the clinical presentation if injured?
+  answer: The Common Peroneal (Fibular) nerve, which winds around the neck of the
+    fibula. Injury leads to Foot Drop, caused by the paralysis of the anterior (dorsiflexor)
+    and lateral (evertor) compartments of the leg.
+  keyPoints: Common peroneal nerve, fibular neck, foot drop, loss of dorsiflexion/eversion.
+  clinicalImportance: Patient walks with a high steppage gait.
+- id: viva_anat_ch29_004
+  question: 'Describe O''Donoghue''s Unhappy Triad.| Answer: A simultaneous injury
+    involving: 1) Anterior Cruciate Ligament (ACL) tear, 2) Medial Collateral Ligament
+    (MCL) tear, and 3) Medial Meniscus tear, caused by a severe lateral blow to the
+    knee when the foot is planted.| Examiner Key Points: ACL, MCL, Medial Meniscus
+    trio.| Clinical Importance: Requires extensive surgical reconstruction and therapy.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch29_005
+  question: 'What are the symptoms of Compartment Syndrome of the leg and how is it
+    investigated?| Answer: Severe resting pain out of proportion to injury, pain on
+    passive muscle stretch, parathesiae, pallor, and pulselessness (The 5 Ps). Investigated
+    by compartment pressure monitoring.| Examiner Key Points: 5 Ps, muscle swelling,
+    pressure > 30 mmHg.| Clinical Importance: Is a surgical emergency requiring immediate
+    fasciotomy.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch29_006
+  question: 'Compare the functions of the ACL and PCL.| Answer: ACL prevents anterior
+    translation of the tibia relative to the femur and controls joint hyperextension.
+    PCL prevents posterior translation of the tibia, primary stabilizer during knee
+    flexion.| Examiner Key Points: ACL anterior translation, PCL posterior translation.|
+    Clinical Importance: Evaluated by Anterior/Posterior Drawer Tests.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch29_007
+  question: 'What is the ''locking'' axis of the knee joint?| Answer: Medial rotation
+    of the femur on the tibia occurs around a vertical axis passing through the lateral
+    femoral condyle.| Examiner Key Points: Medial rotation of femur, lateral condyle
+    axis.| Clinical Importance: Locked knee reduces quadriceps activity during standing.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch29_008
+  question: 'Describe the muscles in the anterior compartment of the leg.| Answer:
+    Tibialis anterior, Extensor hallucis longus, Extensor digitorum longus, and Peroneus
+    tertius.| Examiner Key Points: 4 anterior muscles, deep peroneal nerve, dorsiflexion
+    action.| Clinical Importance: Paralysis produces a classic foot drop.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch29_009
+  question: 'What muscle represents the primary evertor of the foot and where does
+    it insert?| Answer: Peroneus longus, which passes under the foot to insert on
+    the base of the first metatarsal and medial cuneiform.| Examiner Key Points: Peroneus
+    longus, base of 1st metatarsal/medial cuneiform.| Clinical Importance: Maintains
+    the transverse arch of the foot.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch29_010
+  question: Describe the structures forming the dynamic 'Calf Muscle Pump'.
+  answer: 'The soleus and gastrocnemius muscles, containing rich venous sinuses (soleal
+    sinuses) that compress deep veins during walking to return blood against gravity.|
+    Examiner Key Points: Soleus, soleal sinuses, venous valves.| Clinical Importance:
+    Inactivity leads to blood stasis and Deep Vein Thrombosis.'
+  keyPoints: ''
+  clinicalImportance: ''
+flashcards: []
+pyqs: []
+references:
+- 'B.D. Chaurasia''s Human Anatomy, Volume II - Lower Limb, Chapter 6 & 7: Knee Joint
+  & Leg Compartments.'
+- 'Vishram Singh - Textbook of Anatomy: Lower Limb (Volume 2, Chapter on Knee Joint
+  and Leg)'
+subjectExtensions:
+  anatomy:
+    parameters:
+      KneeROMNormalRange: 'Flexion: 0 to 135-140 degrees; extension: 0 degrees (hyperextension
+        up to 5-10 degrees can be normal).'
+      AnteriorCompartmentPressureThreshold: Normal compartment pressure is under 10
+        mmHg. Pressure exceeding 30 mmHg can compromise tissue perfusion, causing
+        compartment syndrome.

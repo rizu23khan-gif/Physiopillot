@@ -1,356 +1,395 @@
 {
-  "subject": "Exercise Therapy II",
-  "chapterId": "ex2_ch9",
-  "chapterName": "Crutch Walking & Ambulation Aids",
-  "definition": [
-    "Ambulation Aid: An assistive mechanical device designed to expand a patient's base of support, improve balance, reduce lower-limb weight-bearing loads, and facilitate safe mobility.",
-    "Axillary Crutch: A wooden or metal protective crutch characterized by an upper underarm axillary pad, a handgrip, and a single lower upright shaft.",
-    "Elbow (Forearm/Lofstrand) Crutch: A lightweight aluminum crutch featuring a forearm cuff and angled handgrip, transferring joint forces to the forearm instead of the axillae.",
-    "Walker: A highly stable rigid four-legged framework designed to provide maximum anterior and lateral stability during early weight-bearing ambulation.",
-    "Quad Cane: A cane featuring a four-pin base plate that provides enhanced support relative to a single-point cane and stands upright independently.",
-    "Non-Weight-Bearing (NWB): A strict clinical status requiring 0% floor contact or weight transfer through the affected lower extremity during standing or walking.",
-    "Toe-Touch Weight-Bearing (TTWB): A status allowing the foot on the affected side to touch the floor lightly for stabilization only, with no real weight transfer (less than 10-20% of body weight).",
-    "Partial Weight-Bearing (PWB): A clinical status allowing a prescribed percentage (e.g., 20% to 50%) of body weight to be pressed through the affected limb.",
-    "Weight-Bearing as Tolerated (WBAT): A clinical status allowing the patient to self-regulate lower-limb weight bearing based on comfort and pain tolerance (ranging from 50% to 100%).",
-    "Full Weight-Bearing (FWB): An unrestricted status allowing 100% of body weight to be carried through both lower extremities.",
-    "Tripod Base of Support: The spatial layout formed by placing the tips of two crutches slightly forward and lateral to the patient's standing foot, creating a stable triangular base.",
-    "Ambulation: The clinical ability or process of moving from one place to another under one's own power, with or without the assistance of mobility devices or adaptive aids.",
-    "Gutter (Platform) Crutch: A specialized crutch featuring a padded horizontal forearm platform, adjustable strap, and upright handgrip that transmits weight-bearing loads directly through the forearm instead of the hand or wrist, highly indicated for patients with severe hand/wrist deformities, rheumatoid arthritis, or distal radial fractures.",
-    "Reciprocal Walker: A biomechanical walker featuring a hinged frame mechanism that allows each side of the frame to be advanced independently in an alternating fashion, facilitating a reciprocal gait pattern for patients with moderate balance deficits.",
-    "Offset Cane: A single-point cane with an angled or curved aluminum shaft that aligns the handgrip directly over the vertical center of the cane's base, optimizing joint unloading and providing superior biomechanical force distribution for patients with mild hip/knee pain.",
-    "Standard Walker: A stable, non-wheeled, rigid four-legged metal frame that provides maximum anterior and lateral support by expanding the physical base of support, requiring the patient to lift the entire device to advance, which provides absolute stability during early loading.",
-    "Rollator Walker: A multi-wheeled (typically 3 or 4 wheels) walking frame equipped with hand-activated brakes and a built-in resting seat, facilitating continuous, smooth ambulation without lifting, which optimizes endurance and reduces energy expenditure for cardiopulmonary or frail patients."
-  ],
-  "principle": [
-    "Base of Support Expansion: Assistive aids expand the biomechanical base of support. By distributing joint line reactions to the upper extremities, they lower the load on painful or healing lower-limb tissues.",
-    "Wrist Alignment and the 30-Degree Elbow Angle: To prevent radial nerve damage and optimize upper limb leverage, handgrips are adjusted to allow 20 to 30 degrees of elbow flexion, keeping the wrist aligned in a neutral posture.",
-    "Upper Extremity Weight Distribution: Handgrips on axillary crutches are designed to bear weight through the hands and wrists via the Triceps and Anconeus. Bearing weight directly on the underarm axillary pad risks compressing the brachial plexus.",
-    "Stair Climbing Load Distribution: During stair navigation, potential energy is managed sequentially: the healthy limb pushes up first when ascending ('Up with the Good'), whereas the affected limb and crutches descend first when descending ('Down with the Bad').",
-    "Metabolic & Energy Cost of Assisted Gait: Walking with assistive devices significantly increases metabolic rate, oxygen consumption, heart rate, and cardiorespiratory demand due to the heavy involvement of the smaller upper-extremity muscle groups. Among all gait styles, the bilateral crutch swing-through gait has the highest energy expenditure, which has major clinical safety implications for elderly, frail, or cardiopulmonary patients.",
-    "Supine Crutch Measurement Method: For bed-bound or severely impaired patients unable to stand, crutch length is measured in a supine position. The therapist measures from the anterior axillary fold (pad landmark) to a point 6 inches lateral to the heel, or alternatively, from the anterior axillary fold to the lateral malleolus and adds 2 inches. This ensures a highly accurate preliminary fitting before the patient transitions to upright standing."
-  ],
-  "equipment": [
-    "Standard adjustable wooden and aluminum axillary crutches.",
-    "Lofstrand forearm (orthopedic elbow) crutches.",
-    "Wheeled/non-wheeled folding adjustable walkers.",
-    "Single-point and four-quad upright canes."
-  ],
-  "parameters": {
-    "intensity": "Adjusted based on weight-bearing status (e.g., NWB, TTWB, PWB) and walking speed",
-    "duration": "10 to 20 minutes of initial gait training, with frequent seated rest breaks to monitor upper limb fatigue",
-    "frequency": "2 to 3 training blocks per day to build spatial-temporal pattern coordination in early rehabilitation",
-    "repetitions": "Performing 3 to 5 trials of distance-targeted walking routes (e.g., 20 meters, stair ascents/descents)"
-  },
-  "physiologicalEffects": [
-    {
-      "effect": "Joint Unloading and Strain Reduction",
-      "frequency": "When utilizing crutches for partial or non-weight-bearing states",
-      "mechanism": [
-        "Transfers ground reaction forces from lower extremity joint lines to the upper limbs.",
-        "Reduces intra-articular hip and knee joint contact pressures, protecting healing bone and cartilage."
-      ]
+    "metadata": {
+        "chapterId": "",
+        "title": "",
+        "subject": "",
+        "keywords": [],
+        "tags": []
     },
-    {
-      "effect": "Upper Extremity Muscular Conditioning",
-      "frequency": "During push-off and limb clearance phases of crutch walking",
-      "mechanism": [
-        "Triggers high functional concentric-eccentric demanding contractions of the triceps brachii, latissimus dorsi, and pectoralis major.",
-        "Improves core stabilization muscle activity through shoulder girdle elevation dynamics."
-      ]
-    }
-  ],
-  "indications": [
-    "Post-operative conditions requiring absolute lower-limb unloading (e.g., meniscus repairs, osteotomies, internal fixation of fractures).",
-    "Severe lower extremity skeletal trauma, including tibia or femur shaft fractures.",
-    "Neurological conditions causing moderate unilateral weaknesses, such as subacute hemiparesis or monoplegia.",
-    "Severe balance deficits in geriatric patients requiring broad external supportive bases (e.g., walkers)."
-  ],
-  "contraindications": {
-    "general": [
-      "Severe acute upper extremity pathology (e.g., wrist fractures, rotator cuff tears) that prevents bearing weight through the arms.",
-      "Severe cognitive confusion, or inability to follow basic motor commands.",
-      "Extreme cardiopulmonary distress or decompensated heart failure.",
-      "Active Deep Vein Thrombosis (DVT) in the lower extremities (mobilization is strictly contraindicated due to risk of pulmonary embolism).",
-      "Severe, generalized upper limb pain conditions that prevent any functional loading."
+    "theory": {
+        "definitions": [],
+        "coreConcepts": [],
+        "equipment": []
+    },
+    "clinicalCorrelations": {
+        "pearls": [],
+        "precautions": [],
+        "indications": [],
+        "contraindications": {
+            "general": [],
+            "local": []
+        },
+        "technique": {
+            "patientPreparation": [],
+            "apparatusPreparation": [],
+            "skinPreparation": [],
+            "electrodePlacement": [],
+            "treatmentProcedure": []
+        },
+        "protocols": [],
+        "physiologicalEffects": []
+    },
+    "subjectExtensions": {
+        "anatomy": {
+            "parameters": {}
+        }
+    },
+    "clinicalCases": [],
+    "mcqs": [
+        {
+            "question": "What is the primary anatomical danger of adjusting axillary crutches too tall for a patient?",
+            "options": [
+                "Sciatic nerve compression",
+                "Radial nerve compression in the axilla",
+                "Ulnar nerve compression at the elbow",
+                "Triceps tendon rupture"
+            ],
+            "answer": "Radial nerve compression in the axilla",
+            "explanation": "If crutches are too high, persistent pressure in the axilla compresses the radial nerve, leading to 'crutch palsy' and wrist drop."
+        },
+        {
+            "question": "To measure axillary crutches, where should the rubber tips be placed to determine the correct length?",
+            "options": [
+                "Directly against the side of the feet",
+                "6 inches lateral to the heel",
+                "2 inches lateral and 6 inches anterior to the foot",
+                "12 inches anterior to the foot"
+            ],
+            "answer": "2 inches lateral and 6 inches anterior to the foot",
+            "explanation": "The standard diagnostic standard for measuring crutches is with tips placed 2 inches lateral and 6 inches anterior to the toe of the shoe."
+        },
+        {
+            "question": "The handgrips of walking aids should be adjusted to allow how many degrees of elbow flexion?",
+            "options": [
+                "0 to 5 degrees",
+                "20 to 30 degrees",
+                "45 to 60 degrees",
+                "90 degrees"
+            ],
+            "answer": "20 to 30 degrees",
+            "explanation": "Handgrips should allow 20 to 30 degrees of elbow flexion to optimize triceps leverage and provide shock absorption."
+        },
+        {
+            "question": "Which muscle group is the primary generator of vertical push-off force during crutch gait?",
+            "options": [
+                "Biceps brachii",
+                "Triceps brachii",
+                "Deltoids",
+                "Wrist flexors"
+            ],
+            "answer": "Triceps brachii",
+            "explanation": "The triceps brachii (elbow extensors) are the primary muscles used to push the body upward, relieving weight from the lower limbs."
+        },
+        {
+            "question": "Which walking aid provides the greatest stability for a patient with severe balance and weight-bearing deficits?",
+            "options": [
+                "Axillary crutches",
+                "Lofstrand elbow crutches",
+                "Standard rigid walker",
+                "Quad cane"
+            ],
+            "answer": "Standard rigid walker",
+            "explanation": "A standard walker provides a rigid four-legged frame that offers maximum anterior and lateral stability during early weight-bearing."
+        },
+        {
+            "question": "What is the correct sequence for climbing UP stairs with bilateral crutches?",
+            "options": [
+                "Affected leg first, then crutches, then healthy leg",
+                "Healthy leg first, then affected leg and crutches",
+                "Crutches first, then healthy leg, then affected leg",
+                "Both legs jump together, then lift the crutches"
+            ],
+            "answer": "Healthy leg first, then affected leg and crutches",
+            "explanation": "To ascend stairs safely, the patient steps up with the healthy leg first ('Up with the Good'), then lifts the crutches and affected leg."
+        },
+        {
+            "question": "What is the correct sequence for walking DOWN stairs with bilateral crutches?",
+            "options": [
+                "Affected leg and crutches first, then healthy leg",
+                "Healthy leg first, then crutches and affected leg",
+                "Crutches first, then healthy leg, then affected leg",
+                "Step down backward with the healthy leg"
+            ],
+            "answer": "Affected leg and crutches first, then healthy leg",
+            "explanation": "To descend stairs safely, the patient lowers the crutches and affected, weak leg first ('Down with the Bad'), followed by the healthy leg."
+        },
+        {
+            "question": "A patient is prescribed Toe-Touch Weight-Bearing (TTWB). What percentage of body weight is allowed on the affected leg?",
+            "options": [
+                "0% weight contact",
+                "Less than 10% to 20% (light contact for balance only)",
+                "50% weight contact",
+                "Weight as tolerated based on pain"
+            ],
+            "answer": "Less than 10% to 20% (light contact for balance only)",
+            "explanation": "TTWB allows the foot to touch the ground lightly for stability, but limits actual loads to less than 10-20% of body weight."
+        },
+        {
+            "question": "Which gait pattern requires advancing a left crutch and right foot together, followed by a right crutch and left foot together?",
+            "options": [
+                "Two-point gait",
+                "Three-point gait",
+                "Four-point gait",
+                "Swing-through gait"
+            ],
+            "answer": "Two-point gait",
+            "explanation": "In a two-point gait, one crutch and the opposite foot advance together rhythmically, mimicking normal arm-leg coordination."
+        },
+        {
+            "question": "Which gait pattern is characterized by advancing each components separately: left crutch, right foot, right crutch, left foot?",
+            "options": [
+                "Two-point gait",
+                "Three-point gait",
+                "Four-point gait",
+                "Swing-to gait"
+            ],
+            "answer": "Four-point gait",
+            "explanation": "A four-point gait is a very slow, stable pattern where each of the four components is advanced separately."
+        },
+        {
+            "question": "Which gait pattern is standard for a patient with a unilateral ankle fracture who is strictly Non-Weight Bearing?",
+            "options": [
+                "Two-point gait",
+                "Three-point gait",
+                "Four-point gait",
+                "Swing-to gait"
+            ],
+            "answer": "Three-point gait",
+            "explanation": "A three-point gait advances both crutches and the weaker leg together, followed by the healthy leg, keeping weight off the affected limb."
+        },
+        {
+            "question": "A walking pattern where both crutches are advanced, and then both feet are swung forward to land behind or even with the crutch line is called:",
+            "options": [
+                "Swing-to gait",
+                "Swing-through gait",
+                "Three-point gait",
+                "Two-point gait"
+            ],
+            "answer": "Swing-to gait",
+            "explanation": "In a swing-to gait, the patient swings their legs forward to land level with, but not past, the line of the crutches."
+        },
+        {
+            "question": "A walking pattern where both crutches are advanced, and then both feet are swung forward to land past the crutch line is called:",
+            "options": [
+                "Swing-to gait",
+                "Swing-through gait",
+                "Four-point gait",
+                "Contralateral gait"
+            ],
+            "answer": "Swing-through gait",
+            "explanation": "A swing-through gait is a fast, momentum-driven pattern where the patient swings their legs to land past the crutch line."
+        },
+        {
+            "question": "Where should the therapist stand when preparing to guard a patient who is ascending stairs with crutches?",
+            "options": [
+                "Stand in front of the patient at the top of the stairs",
+                "Stand behind and slightly to the weaker side of the patient",
+                "Stand to the side on the landing",
+                "Walk side-by-side with the patient"
+            ],
+            "answer": "Stand behind and slightly to the weaker side of the patient",
+            "explanation": "To protect a patient ascending stairs, the therapist must stand behind them (below the incline) to prevent backward falls."
+        },
+        {
+            "question": "Where should the therapist stand when guarding a patient who is descending stairs with crutches?",
+            "options": [
+                "Stand behind the patient",
+                "Stand in front of the patient on the step below",
+                "Sit on the handrail",
+                "Wait at the top of the stairs"
+            ],
+            "answer": "Stand in front of the patient on the step below",
+            "explanation": "When descending, the therapist stands below the patient (in front) to physically block any sudden forward loss of balance."
+        },
+        {
+            "question": "How many contact points are on the floor during the standing tripod position with bilateral crutches?",
+            "options": [
+                "One point",
+                "Two points",
+                "Three points",
+                "Four points"
+            ],
+            "answer": "Three points",
+            "explanation": "The tripod standing position creates three contact points: the left crutch tip, the right crutch tip, and the weight-bearing foot/feet."
+        },
+        {
+            "question": "To stand up safely from a chair with bilateral axillary crutches, the patient should:",
+            "options": [
+                "Hold one crutch in each hand and push down on the floor",
+                "Hold both crutches on the affected side and push off the armrest with the opposite hand",
+                "Ask the therapist to lift them by the arms",
+                "Throw the crutches forward and jump up"
+            ],
+            "answer": "Hold both crutches on the affected side and push off the armrest with the opposite hand",
+            "explanation": "Holding both crutches on the affected side allows the patient to use them as a single secure post while pushing off the armrest."
+        },
+        {
+            "question": "Which nerve is at risk of compression at the wrist if a patient walk using forearm (Lofstrand) crutches with improper wrist posture?",
+            "options": [
+                "Radial nerve",
+                "Axillary nerve",
+                "Ulnar nerve (Guon's canal)",
+                "Musculocutaneous nerve"
+            ],
+            "answer": "Ulnar nerve (Guon's canal)",
+            "explanation": "Improper grip alignment on lofstrand crutches can compress the ulnar nerve at the wrist, causing paresthesias in the pinky and ring fingers."
+        },
+        {
+            "question": "Which of the following is a key advantage of Lofstrand (forearm) crutches over axillary crutches?",
+            "options": [
+                "They provide greater trunk support for patients with weak back muscles",
+                "The forearm cuff allows the patient to free their hands without dropping the crutches",
+                "They require less upper-body strength to use",
+                "They are made of heavy steel"
+            ],
+            "answer": "The forearm cuff allows the patient to free their hands without dropping the crutches",
+            "explanation": "The forearm cuff holds the crutch to the arm, allowing the patient to reach for items or open doors without dropping the aid."
+        },
+        {
+            "question": "When adjusting walking aid handgrip heights, which bony landmark should align with the handle?",
+            "options": [
+                "The greater trochanter or ulnar styloid process",
+                "The lateral epicondyle of the humerus",
+                "The patella",
+                "The anterior superior iliac spine (ASIS)"
+            ],
+            "answer": "The greater trochanter or ulnar styloid process",
+            "explanation": "The handle of a walking aid should align with the patient's greater trochanter or ulnar styloid process, ensuring 20-30 degrees of elbow flexion."
+        },
+        {
+            "question": "A patient with bilateral lower extremity weakness uses a four-point gait. How many points are on the ground at any given moment?",
+            "options": [
+                "Only one point",
+                "Two points",
+                "Three points",
+                "Four points"
+            ],
+            "answer": "Three points",
+            "explanation": "A four-point gait is highly stable because three points of support remain in contact with the floor at all times."
+        },
+        {
+            "question": "Which of the following describes the correct measurement point for the axillary pad on axillary crutches?",
+            "options": [
+                "Pressed firmly up into the armpit",
+                "1 or 2 inches (2 to 3 finger breadths) below the anterior axillary crease",
+                "Level with the nipple line",
+                "Level with the shoulder tip"
+            ],
+            "answer": "1 or 2 inches (2 to 3 finger breadths) below the anterior axillary crease",
+            "explanation": "To prevent nerve injury, the axillary pad must rest 1.5 to 2 inches (2-3 finger breadths) below the anterior axillary crease."
+        },
+        {
+            "question": "A quad cane has four small feet. How should the patient orient the cane during walking?",
+            "options": [
+                "With the flat side of the base facing away from their body",
+                "With the flat side of the base facing closest to their body",
+                "Angled diagonally forward",
+                "Alternating directions with each step"
+            ],
+            "answer": "With the flat side of the base facing closest to their body",
+            "explanation": "The flat side of the quad cane's base plate should face the patient's body to prevent them from tripping over the outer feet."
+        },
+        {
+            "question": "In standard gait rehabilitation, a single-point cane should be held in which hand?",
+            "options": [
+                "The hand on the same side as the weak, painful leg",
+                "The hand on the opposite side of the weak, painful leg",
+                "The dominant hand, regardless of the affected side",
+                "In both hands simultaneously"
+            ],
+            "answer": "The hand on the opposite side of the weak, painful leg",
+            "explanation": "Holding the cane in the hand opposite the weak leg allows for normal arm-leg coordination and moves the center of mass away from the painful limb."
+        },
+        {
+            "question": "Which weight-bearing status allows 0% floor contact of the affected lower extremity?",
+            "options": [
+                "Toe-touch weight-bearing (TTWB)",
+                "Partial weight-bearing (PWB)",
+                "Non-weight-bearing (NWB)",
+                "Weight-bearing as tolerated (WBAT)"
+            ],
+            "answer": "Non-weight-bearing (NWB)",
+            "explanation": "Non-weight-bearing (NWB) is a strict restriction where the affected leg must not touch the floor or bear any weight."
+        },
+        {
+            "question": "What is the primary action of the Latissimus Dorsi during axillary crutch gait?",
+            "options": [
+                "Flexing the shoulder forward",
+                "Depressing the shoulder girdle to lift the body weight up",
+                "Rotating the trunk laterally",
+                "Extending the elbow joints"
+            ],
+            "answer": "Depressing the shoulder girdle to lift the body weight up",
+            "explanation": "The Latissimus Dorsi depressions the scapula and shoulder girdle, helping to lift the pelvis and lower body during the swing phase."
+        },
+        {
+            "question": "Which of the following is a key safety checklist item for walking aids before rehabilitation starts?",
+            "options": [
+                "The color of the aluminum shaft matching the patient's shoes",
+                "The presence of dry, un-split, snug-fitting rubber tips",
+                "The total width of the underarm pad being under 1 inch",
+                "Polishing the metal shaft with oil"
+            ],
+            "answer": "The presence of dry, un-split, snug-fitting rubber tips",
+            "explanation": "The rubber tips on the base of walking aids must be intact, dry, and snug-fitting to prevent slipping and ensure traction."
+        },
+        {
+            "question": "Which orthosis is typically worn by a paraplegic patient training to use a swing-through gait with bilateral crutches?",
+            "options": [
+                "Wrist splints",
+                "Ankle-foot-orthosis (AFO)",
+                "Knee-ankle-foot-orthosis (KAFO)",
+                "Cervical collar"
+            ],
+            "answer": "Knee-ankle-foot-orthosis (KAFO)",
+            "explanation": "A KAFO stabilizes the hips, knees, and ankles, allowing paraplegic patients to stand and execute swing-to or swing-through gaits."
+        },
+        {
+            "question": "How should a patient hold their crutches when preparing to sit down in a standard armchair?",
+            "options": [
+                "Give both crutches to a bystander first",
+                "Hold both crutches in the hand on the affected side and reach back for the armrest with the opposite hand",
+                "Place the crutches behind their back and sit down",
+                "Prop the crutches against the table and jump back"
+            ],
+            "answer": "Hold both crutches in the hand on the affected side and reach back for the armrest with the opposite hand",
+            "explanation": "Holding both crutches on the affected side frees the opposite hand to reach back and grip the chair's armrest, ensuring a safe, controlled descent."
+        },
+        {
+            "question": "Which accessory can be attached to walkers to facilitate smooth mobility for patients who cannot lift the frame off the ground?",
+            "options": [
+                "Heavy weight bags",
+                "Rubber tips on all four legs",
+                "Front wheels and rear glide caps/tennis balls",
+                "Adjustable forearm platforms only"
+            ],
+            "answer": "Front wheels and rear glide caps/tennis balls",
+            "explanation": "Front wheels paired with rear glide caps allow the user to slide the walker forward smoothly without lifting it, which is ideal for patients with weak upper limbs."
+        },
+        {
+            "question": "Which of the following assistive devices is most appropriate for a patient with severe rheumatoid arthritis presenting with pain, ulnar drift, and joint deformities of both hands?",
+            "options": [
+                "Standard axillary crutches",
+                "Lofstrand forearm crutches",
+                "Gutter (platform) crutches",
+                "A standard offset cane"
+            ],
+            "answer": "Gutter (platform) crutches",
+            "explanation": "Gutter (platform) crutches allow weight transmission directly through the forearm platform rather than the hands and wrists, protecting deformed, painful, or unstable distal joints."
+        },
+        {
+            "question": "Which of the following gait patterns utilizes the highest amount of energy expenditure and oxygen consumption during bilateral crutch ambulation?",
+            "options": [
+                "Two-point gait",
+                "Three-point gait",
+                "Four-point gait",
+                "Swing-through gait"
+            ],
+            "answer": "Swing-through gait",
+            "explanation": "The swing-through gait is a highly kinetic, momentum-driven pattern that requires lifting and swinging the entire body weight beyond the crutch line, resulting in the highest oxygen consumption and cardiac demand."
+        }
     ],
-    "local": [
-      "Incipient localized skin breakdown, active friction bursitis, or severe nerve compression at the shoulder girdle.",
-      "Acute, unhealed fractures of the wrist, hand bones, or ulnar/radial axes.",
-      "Severe local vascular conditions in the axillae, armpits, or hands.",
-      "Severe Carpal Tunnel Syndrome (preventing safe, pain-free handgrip weight transmission).",
-      "Severe Triceps Tendinopathy (severely limits the active elbow extension required for push-off).",
-      "Active vascular compromise or peripheral arterial insufficiency of the upper extremity."
-    ]
-  },
-  "technique": {
-    "patientPreparation": [
-      "Confirm the patient's weight-bearing prescription from the referring surgeon (e.g., NWB, TTWB, PWB).",
-      "Explain the selected gait pattern clearly and demonstrate it visually prior to the patient standing up.",
-      "Secure a safety gait belt around the waist and ensure the patient is wearing firm, non-slip footwear."
-    ],
-    "apparatusPreparation": [
-      "Axillary Crutch Measurement (Standing Method): Position the crutch tips 2 inches laterally and 6 inches anteriorly to the foot. The axillary-pad space must be 2 to 3 finger breadths (1.5 to 2 inches) below the anterior axillary fold.",
-      "Adjust the handgrip height to align with the patient's ulnar styloid process, which should allow 20 to 30 degrees of elbow flexion.",
-      "Check all adjustment pins and ensure the rubber tips are supple, clean, and free of sand, oil, or wear."
-    ],
-    "skinPreparation": [
-      "Ensure the handgrips and underarm pads are padded appropriately. Inspect the palms and axillary skin daily."
-    ],
-    "electrodePlacement": [],
-    "treatmentProcedure": [
-      "1. Secure the safety gait belt and stand on the patient's weaker side, holding onto the belt securely.",
-      "2. Teach the Patient to Stand Up: Move forward on the seat. Hold both crutches on the affected side. Push down on the armrest with the opposite hand and stand up.",
-      "3. Teach the Tripod Position: Position the crutches 6 inches ahead and 2 inches lateral to each shoe tip to establish a stable static base.",
-      "4. Teach the Two-Point Gait: Advance the left crutch and right foot together, followed by the right crutch and left foot together. (Used for mild muscle weakness).",
-      "5. Teach the Three-Point Gait: Advance both crutches and the affected weak leg together, then step forward with the unaffected strong leg. (Used for strict NWB/PWB regimes).",
-      "6. Teach the Four-Point Gait: Advance the left crutch, then the right foot; then the right crutch, followed by the left foot. (A slow, highly stable four-point sequence).",
-      "7. Teach the Swing-To Gait: Advance both crutches forward, then swing both feet forward to land level with (but not past) the crutch lines.",
-      "8. Teach the Swing-Through Gait: Advance both crutches, then swing both legs forward to land past the crutch lines.",
-      "9. Teach Stair Ascent ('Up with the Good'): Step up first with the unaffected, strong leg. Then push through the arms to lift the affected leg and crutches up to the same step.",
-      "10. Teach Stair Descent ('Down with the Bad'): Lower the crutches and affected leg onto the step below. Then step down with the unaffected strong leg to the same step."
-    ]
-  },
-  "precautions": [
-    "Never allow the patient to lean their underarms directly onto the axillary pads; reinforce bearing weight through the hands and wrists.",
-    "Always stand below the patient when navigating stairs (stand behind when ascending, stand in front when descending).",
-    "Ensure all floors are completely dry and clear of throw rugs."
-  ],
-  "clinicalPearls": [
-    "Leaning directly on the axillary pads of a crutch compresses the radial nerve as it winds around the radial groove, leading to 'crutch palsy' (marked by wrist drop). Hand weight-bearing must be reinforced at all times.",
-    "Remember the mnemonic for stairs: 'Up with the Good, Down with the Bad'. When ascending, the healthy leg steps up first. When descending, the crutches and affected, weak leg descend first.",
-    "The Lofstrand (elbow) crutch provides less trunk and pelvic support than an axillary crutch, but it frees the hands so the patient can open doors or carry items without dropping the crutch.",
-    "Always assess cardiopulmonary reserve before prescribing bilateral axillary crutches. Swing-through gait significantly increases oxygen consumption and may not be tolerated by frail or cardiopulmonary patients."
-  ],
-  "clinicalProtocols": [
-    {
-      "condition": "Post-operative Unilateral Hip/Feemer Fracture (NWB Status)",
-      "position": "Upright standing with Bilateral Axillary Crutches",
-      "electrodePlacement": "None",
-      "frequency": "Gait exercises for 10-15 minutes, 2 to 3 times per day",
-      "purpose": "Retraining safety-oriented three-point NWB gait to maintain functional mobility without placing physical stress on the healing surgical bone."
-    }
-  ],
-  "vivaQuestions": [
-    "Question: What is the clinical danger of adjusting axillary crutches too tall, and which nerve is most vulnerable? | Answer: When axillary crutches are adjusted too high, the patient is forced to lean their armpits directly onto the top underarm pads. This compresses the radial nerve as it crosses the radial groove of the humerus, leading to 'Crutch Palsy,' which presents as wrist drop due to paralysis of the wrist and finger extensors. | Examiner Key Points: Crutch palsy, radial nerve compression, wrist drop presentation, pressure in axilla. | Clinical Importance: Prevents secondary peripheral nerve injuries during mobility training.",
-    "Question: State the rules of Stair Climbing with crutches and explain their biomechanical rationale. | Answer: The clinical rule is: 'Up with the Good, Down with the Bad.' When ascending, the patient steps up with the strong, unaffected leg first, using its quadriceps strength to pull the body up against gravity. When descending, the patient lowers the crutches and affected, weak leg first, allowing the strong limb to control the descent eccentrically. | Examiner Key Points: Up with the good (ascend healthy first), Down with the bad (descend weak/crutches first), eccentric control. | Clinical Importance: Ensures patient safety and prevents joint shearing forces on stairs.",
-    "Question: Explain the step-by-step standing measurement method for an Axillary Crutch. | Answer: 1. Place the crutch tips 2 inches laterally and 6 inches anteriorly from the toe of the shoe. 2. The underarm pad must be 2 to 3 finger-breadths (1.5 to 2 inches) below the anterior axillary crease. 3. The handgrip height is adjusted to align with the ulnar styloid process, which should allow 20 to 30 degrees of elbow flexion. | Examiner Key Points: 2 inches lateral, 6 inches anterior, 2-3 finger-breadths below axilla, 20-30 degrees elbow flexion. | Clinical Importance: Proper fit ensures efficient load distribution and protects nerves from pressure injury.",
-    "Question: Differentiate a Two-Point Gait from a Four-Point Gait. | Answer: A Two-Point Gait is a faster, more fluid pattern where one crutch and the contralateral lower extremity advance together (e.g., left crutch and right foot simultaneously). A Four-Point Gait is a slower, highly stable pattern where each component moves separately (e.g., left crutch, then right foot, then right crutch, then left foot). Both require use of bilateral aids. | Examiner Key Points: Bilateral aids, contralateral simultaneous vs separate sequential components, speed and stability differences. | Clinical Importance: Allows matching the patient's balance capabilities and speed needs safely.",
-    "Question: What are the differences between standard Axillary Crutches and Lofstrand (Elbow) Crutches? | Answer: Axillary crutches provide greater lateral support and trunk stability because they brace against the chest wall, but they are bulky and can cause nerve compression. Lofstrand crutches feature a forearm cuff and handle, are shorter, and allow the patient to free their hands without dropping the crutches, but they require greater upper-body strength and balance. | Examiner Key Points: Trunk support differences, radial nerve risk, forearm cuff, functional hand clearance. | Clinical Importance: Informs the choice of device based on a patient's long-term mobility goals and trunk stability.",
-    "Question: Define the following weight-bearing statuses: NWB, TTWB, PWB. | Answer: 1. NWB (Non-Weight Bearing): The affected limb must not touch the ground at all (0% weight). 2. TTWB (Toe-Touch Weight Bearing): The foot can touch the ground lightly for balance only, with weight kept below 10-20% of body mass. 3. PWB (Partial Weight Bearing): A specific percentage of body weight (typically 20% to 50%) is allowed to press through the affected leg under monitoring. | Examiner Key Points: 0% weight, touch for balance only (<10-20%), intermediate weight (20-50%). | Clinical Importance: Crucial for protecting healing bone grafts, joint implants, or skeletal fractures.",
-    "Question: Where should the physical therapist position themselves when training a patient on stairs? | Answer: The therapist must always stand below the patient to establish a physical block: behind the patient during stair ascent, and in front of the patient during stair descent, with one hand on the safety gait belt and the other on the handrail if possible. | Examiner Key Points: Always stand below the patient, behind during ascent, in front during descent, grasp gait belt. | Clinical Importance: Maximizes the therapist's ability to catch or stabilize the patient in the event of a fall.",
-    "Question: Explain the 'Three-Point' gait pattern and its primary clinical indication. | Answer: The three-point gait pattern involves advancing both crutches and the weaker, affected leg together, and then advancing the strong, unaffected leg forward. It is primary indicated for patients with a unilateral lower extremity fracture, joint fusion, or surgical repair who have a strict Non-Weight Bearing (NWB) or Partial Weight Bearing (PWB) prescription. | Examiner Key Points: Both crutches + weak limb together, step with healthy limb, unilateral injuries (NWB/PWB). | Clinical Importance: Standard gait pattern for acute orthopedic lower extremity trauma.",
-    "Question: Describe the Swing-To and Swing-Through gait patterns. | Answer: In a Swing-To gait, both crutches are advanced forward, and the patient swings their lower extremities to land level with, but not past, the line of the crutches. In a Swing-Through gait, both crutches are advanced, and the patient swings their legs forward to land ahead of the crutches. Both are fast, energy-demanding patterns used primarily by patients with bilateral lower limb paralysis. | Examiner Key Points: Advance crutches, swing to level of crutches vs swing past line of crutches, high upper-body strength. | Clinical Importance: Ideal for paraplegic patients utilizing knee-ankle-foot orthoses (KAFOs).",
-    "Question: Why is a 20-to-30-degree elbow flexion angle specified for handgips on walking aids? | Answer: This angle allows the elbow extensors (Triceps brachii) to contract with optimal biomechanical leverage when pushing off. If the elbow is fully straight, the locking of the joint reduces shock absorption. If it is too bent, the triceps fatigue rapidly trying to hold weight. | Examiner Key Points: 20-30 degrees flexion, optimal triceps muscle leverage, joint shock absorption, fatigue prevention. | Clinical Importance: Correct adjustment prevents premature fatigue in the upper limbs during walking.",
-    "Question: Explain Gutter Crutches and their clinical indications. | Answer: A Gutter (or Platform) Crutch features a padded forearm trough, a securing strap, and an adjustable handgrip. It is designed to transmit up to 100% of the weight-bearing load directly through the forearm rather than the hands or wrists. Clinically, it is indicated for patients with severe rheumatoid arthritis, hand deformities, severe wrist/hand pain, or ulnar/radial fractures, where weight-bearing through the hand or wrist is contraindicated or impossible. | Examiner Key Points: Forearm platform, forearm load transmission, rheumatoid arthritis/hand deformities, wrist weight-bearing contraindicated. | Clinical Importance: Avoids hand/wrist joint load while maintaining independent crutch walking capability.",
-    "Question: Describe the Supine Method of Axillary Crutch Measurement and its clinical rationale. | Answer: For bed-bound patients or those unable to stand safely, the supine method is used. The patient lies supine with shoes on. The therapist measures from the anterior axillary fold (underarm crease) to a point 6 inches lateral to the heel of the shoe. Alternatively, the measurement can be taken from the anterior axillary fold to the lateral malleolus and then adding 2 inches. | Examiner Key Points: Supine position, anterior axillary fold to 6 inches lateral to heel, OR axillary fold to lateral malleolus + 2 inches. | Clinical Importance: Allows accurate crutch sizing and height preset before the patient attempts upright weight-bearing, minimizing fall risks and fitting delays."
-  ],
-  "mcqs": [
-    {
-      "question": "What is the primary anatomical danger of adjusting axillary crutches too tall for a patient?",
-      "options": ["Sciatic nerve compression", "Radial nerve compression in the axilla", "Ulnar nerve compression at the elbow", "Triceps tendon rupture"],
-      "answer": "Radial nerve compression in the axilla",
-      "explanation": "If crutches are too high, persistent pressure in the axilla compresses the radial nerve, leading to 'crutch palsy' and wrist drop."
-    },
-    {
-      "question": "To measure axillary crutches, where should the rubber tips be placed to determine the correct length?",
-      "options": ["Directly against the side of the feet", "6 inches lateral to the heel", "2 inches lateral and 6 inches anterior to the foot", "12 inches anterior to the foot"],
-      "answer": "2 inches lateral and 6 inches anterior to the foot",
-      "explanation": "The standard diagnostic standard for measuring crutches is with tips placed 2 inches lateral and 6 inches anterior to the toe of the shoe."
-    },
-    {
-      "question": "The handgrips of walking aids should be adjusted to allow how many degrees of elbow flexion?",
-      "options": ["0 to 5 degrees", "20 to 30 degrees", "45 to 60 degrees", "90 degrees"],
-      "answer": "20 to 30 degrees",
-      "explanation": "Handgrips should allow 20 to 30 degrees of elbow flexion to optimize triceps leverage and provide shock absorption."
-    },
-    {
-      "question": "Which muscle group is the primary generator of vertical push-off force during crutch gait?",
-      "options": ["Biceps brachii", "Triceps brachii", "Deltoids", "Wrist flexors"],
-      "answer": "Triceps brachii",
-      "explanation": "The triceps brachii (elbow extensors) are the primary muscles used to push the body upward, relieving weight from the lower limbs."
-    },
-    {
-      "question": "Which walking aid provides the greatest stability for a patient with severe balance and weight-bearing deficits?",
-      "options": ["Axillary crutches", "Lofstrand elbow crutches", "Standard rigid walker", "Quad cane"],
-      "answer": "Standard rigid walker",
-      "explanation": "A standard walker provides a rigid four-legged frame that offers maximum anterior and lateral stability during early weight-bearing."
-    },
-    {
-      "question": "What is the correct sequence for climbing UP stairs with bilateral crutches?",
-      "options": ["Affected leg first, then crutches, then healthy leg", "Healthy leg first, then affected leg and crutches", "Crutches first, then healthy leg, then affected leg", "Both legs jump together, then lift the crutches"],
-      "answer": "Healthy leg first, then affected leg and crutches",
-      "explanation": "To ascend stairs safely, the patient steps up with the healthy leg first ('Up with the Good'), then lifts the crutches and affected leg."
-    },
-    {
-      "question": "What is the correct sequence for walking DOWN stairs with bilateral crutches?",
-      "options": ["Affected leg and crutches first, then healthy leg", "Healthy leg first, then crutches and affected leg", "Crutches first, then healthy leg, then affected leg", "Step down backward with the healthy leg"],
-      "answer": "Affected leg and crutches first, then healthy leg",
-      "explanation": "To descend stairs safely, the patient lowers the crutches and affected, weak leg first ('Down with the Bad'), followed by the healthy leg."
-    },
-    {
-      "question": "A patient is prescribed Toe-Touch Weight-Bearing (TTWB). What percentage of body weight is allowed on the affected leg?",
-      "options": ["0% weight contact", "Less than 10% to 20% (light contact for balance only)", "50% weight contact", "Weight as tolerated based on pain"],
-      "answer": "Less than 10% to 20% (light contact for balance only)",
-      "explanation": "TTWB allows the foot to touch the ground lightly for stability, but limits actual loads to less than 10-20% of body weight."
-    },
-    {
-      "question": "Which gait pattern requires advancing a left crutch and right foot together, followed by a right crutch and left foot together?",
-      "options": ["Two-point gait", "Three-point gait", "Four-point gait", "Swing-through gait"],
-      "answer": "Two-point gait",
-      "explanation": "In a two-point gait, one crutch and the opposite foot advance together rhythmically, mimicking normal arm-leg coordination."
-    },
-    {
-      "question": "Which gait pattern is characterized by advancing each components separately: left crutch, right foot, right crutch, left foot?",
-      "options": ["Two-point gait", "Three-point gait", "Four-point gait", "Swing-to gait"],
-      "answer": "Four-point gait",
-      "explanation": "A four-point gait is a very slow, stable pattern where each of the four components is advanced separately."
-    },
-    {
-      "question": "Which gait pattern is standard for a patient with a unilateral ankle fracture who is strictly Non-Weight Bearing?",
-      "options": ["Two-point gait", "Three-point gait", "Four-point gait", "Swing-to gait"],
-      "answer": "Three-point gait",
-      "explanation": "A three-point gait advances both crutches and the weaker leg together, followed by the healthy leg, keeping weight off the affected limb."
-    },
-    {
-      "question": "A walking pattern where both crutches are advanced, and then both feet are swung forward to land behind or even with the crutch line is called:",
-      "options": ["Swing-to gait", "Swing-through gait", "Three-point gait", "Two-point gait"],
-      "answer": "Swing-to gait",
-      "explanation": "In a swing-to gait, the patient swings their legs forward to land level with, but not past, the line of the crutches."
-    },
-    {
-      "question": "A walking pattern where both crutches are advanced, and then both feet are swung forward to land past the crutch line is called:",
-      "options": ["Swing-to gait", "Swing-through gait", "Four-point gait", "Contralateral gait"],
-      "answer": "Swing-through gait",
-      "explanation": "A swing-through gait is a fast, momentum-driven pattern where the patient swings their legs to land past the crutch line."
-    },
-    {
-      "question": "Where should the therapist stand when preparing to guard a patient who is ascending stairs with crutches?",
-      "options": ["Stand in front of the patient at the top of the stairs", "Stand behind and slightly to the weaker side of the patient", "Stand to the side on the landing", "Walk side-by-side with the patient"],
-      "answer": "Stand behind and slightly to the weaker side of the patient",
-      "explanation": "To protect a patient ascending stairs, the therapist must stand behind them (below the incline) to prevent backward falls."
-    },
-    {
-      "question": "Where should the therapist stand when guarding a patient who is descending stairs with crutches?",
-      "options": ["Stand behind the patient", "Stand in front of the patient on the step below", "Sit on the handrail", "Wait at the top of the stairs"],
-      "answer": "Stand in front of the patient on the step below",
-      "explanation": "When descending, the therapist stands below the patient (in front) to physically block any sudden forward loss of balance."
-    },
-    {
-      "question": "How many contact points are on the floor during the standing tripod position with bilateral crutches?",
-      "options": ["One point", "Two points", "Three points", "Four points"],
-      "answer": "Three points",
-      "explanation": "The tripod standing position creates three contact points: the left crutch tip, the right crutch tip, and the weight-bearing foot/feet."
-    },
-    {
-      "question": "To stand up safely from a chair with bilateral axillary crutches, the patient should:",
-      "options": ["Hold one crutch in each hand and push down on the floor", "Hold both crutches on the affected side and push off the armrest with the opposite hand", "Ask the therapist to lift them by the arms", "Throw the crutches forward and jump up"],
-      "answer": "Hold both crutches on the affected side and push off the armrest with the opposite hand",
-      "explanation": "Holding both crutches on the affected side allows the patient to use them as a single secure post while pushing off the armrest."
-    },
-    {
-      "question": "Which nerve is at risk of compression at the wrist if a patient walk using forearm (Lofstrand) crutches with improper wrist posture?",
-      "options": ["Radial nerve", "Axillary nerve", "Ulnar nerve (Guon's canal)", "Musculocutaneous nerve"],
-      "answer": "Ulnar nerve (Guon's canal)",
-      "explanation": "Improper grip alignment on lofstrand crutches can compress the ulnar nerve at the wrist, causing paresthesias in the pinky and ring fingers."
-    },
-    {
-      "question": "Which of the following is a key advantage of Lofstrand (forearm) crutches over axillary crutches?",
-      "options": ["They provide greater trunk support for patients with weak back muscles", "The forearm cuff allows the patient to free their hands without dropping the crutches", "They require less upper-body strength to use", "They are made of heavy steel"],
-      "answer": "The forearm cuff allows the patient to free their hands without dropping the crutches",
-      "explanation": "The forearm cuff holds the crutch to the arm, allowing the patient to reach for items or open doors without dropping the aid."
-    },
-    {
-      "question": "When adjusting walking aid handgrip heights, which bony landmark should align with the handle?",
-      "options": ["The greater trochanter or ulnar styloid process", "The lateral epicondyle of the humerus", "The patella", "The anterior superior iliac spine (ASIS)"],
-      "answer": "The greater trochanter or ulnar styloid process",
-      "explanation": "The handle of a walking aid should align with the patient's greater trochanter or ulnar styloid process, ensuring 20-30 degrees of elbow flexion."
-    },
-    {
-      "question": "A patient with bilateral lower extremity weakness uses a four-point gait. How many points are on the ground at any given moment?",
-      "options": ["Only one point", "Two points", "Three points", "Four points"],
-      "answer": "Three points",
-      "explanation": "A four-point gait is highly stable because three points of support remain in contact with the floor at all times."
-    },
-    {
-      "question": "Which of the following describes the correct measurement point for the axillary pad on axillary crutches?",
-      "options": ["Pressed firmly up into the armpit", "1 or 2 inches (2 to 3 finger breadths) below the anterior axillary crease", "Level with the nipple line", "Level with the shoulder tip"],
-      "answer": "1 or 2 inches (2 to 3 finger breadths) below the anterior axillary crease",
-      "explanation": "To prevent nerve injury, the axillary pad must rest 1.5 to 2 inches (2-3 finger breadths) below the anterior axillary crease."
-    },
-    {
-      "question": "A quad cane has four small feet. How should the patient orient the cane during walking?",
-      "options": ["With the flat side of the base facing away from their body", "With the flat side of the base facing closest to their body", "Angled diagonally forward", "Alternating directions with each step"],
-      "answer": "With the flat side of the base facing closest to their body",
-      "explanation": "The flat side of the quad cane's base plate should face the patient's body to prevent them from tripping over the outer feet."
-    },
-    {
-      "question": "In standard gait rehabilitation, a single-point cane should be held in which hand?",
-      "options": ["The hand on the same side as the weak, painful leg", "The hand on the opposite side of the weak, painful leg", "The dominant hand, regardless of the affected side", "In both hands simultaneously"],
-      "answer": "The hand on the opposite side of the weak, painful leg",
-      "explanation": "Holding the cane in the hand opposite the weak leg allows for normal arm-leg coordination and moves the center of mass away from the painful limb."
-    },
-    {
-      "question": "Which weight-bearing status allows 0% floor contact of the affected lower extremity?",
-      "options": ["Toe-touch weight-bearing (TTWB)", "Partial weight-bearing (PWB)", "Non-weight-bearing (NWB)", "Weight-bearing as tolerated (WBAT)"],
-      "answer": "Non-weight-bearing (NWB)",
-      "explanation": "Non-weight-bearing (NWB) is a strict restriction where the affected leg must not touch the floor or bear any weight."
-    },
-    {
-      "question": "What is the primary action of the Latissimus Dorsi during axillary crutch gait?",
-      "options": ["Flexing the shoulder forward", "Depressing the shoulder girdle to lift the body weight up", "Rotating the trunk laterally", "Extending the elbow joints"],
-      "answer": "Depressing the shoulder girdle to lift the body weight up",
-      "explanation": "The Latissimus Dorsi depressions the scapula and shoulder girdle, helping to lift the pelvis and lower body during the swing phase."
-    },
-    {
-      "question": "Which of the following is a key safety checklist item for walking aids before rehabilitation starts?",
-      "options": ["The color of the aluminum shaft matching the patient's shoes", "The presence of dry, un-split, snug-fitting rubber tips", "The total width of the underarm pad being under 1 inch", "Polishing the metal shaft with oil"],
-      "answer": "The presence of dry, un-split, snug-fitting rubber tips",
-      "explanation": "The rubber tips on the base of walking aids must be intact, dry, and snug-fitting to prevent slipping and ensure traction."
-    },
-    {
-      "question": "Which orthosis is typically worn by a paraplegic patient training to use a swing-through gait with bilateral crutches?",
-      "options": ["Wrist splints", "Ankle-foot-orthosis (AFO)", "Knee-ankle-foot-orthosis (KAFO)", "Cervical collar"],
-      "answer": "Knee-ankle-foot-orthosis (KAFO)",
-      "explanation": "A KAFO stabilizes the hips, knees, and ankles, allowing paraplegic patients to stand and execute swing-to or swing-through gaits."
-    },
-    {
-      "question": "How should a patient hold their crutches when preparing to sit down in a standard armchair?",
-      "options": ["Give both crutches to a bystander first", "Hold both crutches in the hand on the affected side and reach back for the armrest with the opposite hand", "Place the crutches behind their back and sit down", "Prop the crutches against the table and jump back"],
-      "answer": "Hold both crutches in the hand on the affected side and reach back for the armrest with the opposite hand",
-      "explanation": "Holding both crutches on the affected side frees the opposite hand to reach back and grip the chair's armrest, ensuring a safe, controlled descent."
-    },
-    {
-      "question": "Which accessory can be attached to walkers to facilitate smooth mobility for patients who cannot lift the frame off the ground?",
-      "options": ["Heavy weight bags", "Rubber tips on all four legs", "Front wheels and rear glide caps/tennis balls", "Adjustable forearm platforms only"],
-      "answer": "Front wheels and rear glide caps/tennis balls",
-      "explanation": "Front wheels paired with rear glide caps allow the user to slide the walker forward smoothly without lifting it, which is ideal for patients with weak upper limbs."
-    },
-    {
-      "question": "Which of the following assistive devices is most appropriate for a patient with severe rheumatoid arthritis presenting with pain, ulnar drift, and joint deformities of both hands?",
-      "options": [
-        "Standard axillary crutches",
-        "Lofstrand forearm crutches",
-        "Gutter (platform) crutches",
-        "A standard offset cane"
-      ],
-      "answer": "Gutter (platform) crutches",
-      "explanation": "Gutter (platform) crutches allow weight transmission directly through the forearm platform rather than the hands and wrists, protecting deformed, painful, or unstable distal joints."
-    },
-    {
-      "question": "Which of the following gait patterns utilizes the highest amount of energy expenditure and oxygen consumption during bilateral crutch ambulation?",
-      "options": [
-        "Two-point gait",
-        "Three-point gait",
-        "Four-point gait",
-        "Swing-through gait"
-      ],
-      "answer": "Swing-through gait",
-      "explanation": "The swing-through gait is a highly kinetic, momentum-driven pattern that requires lifting and swinging the entire body weight beyond the crutch line, resulting in the highest oxygen consumption and cardiac demand."
-    }
-  ],
-  "reference": [
-    "Carolyn Kisner & Lynn Allen Colby - Therapeutic Exercise: Foundations and Techniques",
-    "S. Lakshmi Narayanan - Textbook of Therapeutic Exercises",
-    "Dena Gardiner - The Principles of Exercise Therapy"
-  ]
+    "viva": [],
+    "flashcards": [],
+    "references": []
 }

@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "chapterId": "demo_chapter",
+    "title": "Mechanical Principles & Skeletal Levers",
+    "subject": "Exercise Therapy",
+    "subjectId": "exercise_therapy_i",
+    "version": "1.0",
+    "lastUpdated": "2026-06-26",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 45,
+    "keywords": [
+      "levers",
+      "mechanics",
+      "fulcrum",
+      "torque"
+    ],
+    "tags": [
+      "biomechanics",
+      "exercise therapy"
+    ],
+    "status": "published"
+  },
+  "learningObjectives": [
+    "Understand the mechanical principles of force, torque, and equilibrium in the human body.",
+    "Classify first, second, and third-class levers with anatomical examples.",
+    "Calculate the mechanical advantage of different skeletal lever systems."
+  ],
+  "theory": {
+    "definitions": [
+      "Lever: A rigid bar that rotates around a fixed point called the fulcrum when a force is applied to overcome a resistance.",
+      "Mechanical Advantage: The ratio of the effort arm to the resistance arm, indicating the efficiency of a lever system."
+    ],
+    "coreConcepts": [
+      "First-Class Levers (E-F-R): The fulcrum is positioned between the effort and the resistance. Designed for balance (e.g., atlanto-occipital joint).",
+      "Second-Class Levers (F-R-E): The resistance is positioned between the fulcrum and the effort. Designed for power/force amplification (e.g., calf raise at the talocrural joint).",
+      "Third-Class Levers (F-E-R): The effort is positioned between the fulcrum and the resistance. Designed for speed and range of motion (e.g., elbow flexion by the biceps brachii)."
+    ],
+    "equipment": [
+      "Goniometer",
+      "Pulley Systems"
+    ]
+  },
+  "clinicalCorrelations": {
+    "pearls": [
+      "Most musculoskeletal levers in the human body are third-class levers, sacrificing mechanical advantage to gain maximum speed and range of motion."
+    ],
+    "precautions": [
+      "Avoid excessive resistance when patient is in a biomechanically disadvantaged position."
+    ],
+    "indications": [
+      "Preservation of joint range of motion",
+      "Strengthening weak muscle groups"
+    ],
+    "contraindications": [
+      {
+        "general": [
+          "Acute un-united fractures",
+          "Severe joint inflammation"
+        ],
+        "local": [
+          "Localized skin infection at contact points"
+        ]
+      }
+    ],
+    "technique": {
+      "patientPreparation": [
+        "Explain the mechanical objective of the movement to the patient.",
+        "Position the patient comfortably with the target limb fully supported."
+      ],
+      "apparatusPreparation": [
+        "Ensure any resistance bands or pulley attachments are securely fastened."
+      ],
+      "skinPreparation": [
+        "Inspect skin over the contact area for any abrasions."
+      ],
+      "electrodePlacement": [],
+      "treatmentProcedure": [
+        "Stabilize the proximal joint segment.",
+        "Apply force perpendicular to the moving bone segment."
+      ]
+    }
+  },
+  "clinicalCases": [
+    {
+      "id": "case_lever_biceps",
+      "category": "Biomechanics",
+      "condition": "Biceps Tendonitis",
+      "chiefComplaint": "Anterior shoulder and elbow pain with lifting.",
+      "history": [
+        "Patient presents with pain after a heavy gym session."
+      ],
+      "examination": [
+        "Tenderness over the bicipital groove.",
+        "Pain during resisted elbow flexion and supination."
+      ],
+      "treatmentPlan": [
+        "Modify the lever arm by performing exercises with the elbow closer to the torso."
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "mcq_demo_ch1_001",
+      "question": "Which class of lever is designed primarily for balance, where the fulcrum is situated between the effort and resistance?",
+      "options": [
+        "First-Class Lever",
+        "Second-Class Lever",
+        "Third-Class Lever",
+        "Fourth-Class Lever"
+      ],
+      "answer": "First-Class Lever",
+      "explanation": "First-class levers position the fulcrum in the middle (E-F-R), making them highly suited for maintaining equilibrium and balance, such as the skull balancing on the atlas."
+    },
+    {
+      "id": "mcq_demo_ch1_002",
+      "question": "What is the mechanical advantage of a second-class lever?",
+      "options": [
+        "Always greater than 1",
+        "Always less than 1",
+        "Equal to 1",
+        "Varies depending on effort"
+      ],
+      "answer": "Always greater than 1",
+      "explanation": "In second-class levers, the effort arm is always longer than the resistance arm, so the mechanical advantage is always greater than 1, allowing less effort to lift a larger load."
+    }
+  ],
+  "viva": [
+    {
+      "id": "viva_demo_ch1_001",
+      "question": "Explain why the human body is composed mostly of third-class levers.",
+      "answer": "Third-class levers have a mechanical advantage of less than 1, meaning they require more muscle force than the resistance force. However, they allow the muscle insertion to move a short distance to produce a large, rapid movement of the distal limb segment, which is highly advantageous for speed and mobility.",
+      "keyPoints": "Mechanical advantage < 1, muscle force > load, prioritizes speed and excursion range over force amplification.",
+      "clinicalImportance": "Understanding why muscles must work harder than external loads helps therapists prescribe appropriate resistive dosages."
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_demo_ch1_001",
+      "front": "First-Class Lever arrangement",
+      "back": "Effort - Fulcrum - Resistance (E-F-R)",
+      "hints": [
+        "Fulcrum is in the center"
+      ]
+    }
+  ],
+  "pyqs": [
+    {
+      "year": 2024,
+      "question": "Classify levers with anatomical examples and discuss their mechanical advantages.",
+      "marks": 10,
+      "university": "Rajiv Gandhi University of Health Sciences (RGUHS)"
+    }
+  ],
+  "references": [
+    "GARDINER_1957: Chapter 1, Mechanical Principles",
+    "KISNER_2017: Chapter 2, Biomechanical Considerations"
+  ],
+  "relationships": {
+    "prerequisites": [],
+    "coRequisites": [],
+    "crossSubjectLinks": [
+      "bio_ch1"
+    ],
+    "parentId": ""
+  },
+  "media": [
+    {
+      "path": "images/et_levers.png",
+      "type": "image",
+      "description": "Anatomical schematic of human levers"
+    }
+  ],
+  "subjectExtensions": {
+    "exercise_therapy": {
+      "movementPlanes": [
+        "Sagittal",
+        "Frontal"
+      ],
+      "mechanicalPrinciples": [
+        "Torque",
+        "Gravity",
+        "Levers"
+      ],
+      "goniometry": {
+        "fulcrum": "Lateral epicondyle of humerus",
+        "stationaryArm": "Lateral midline of humerus",
+        "movingArm": "Lateral midline of radius",
+        "normalRange": "0 to 140 degrees"
+      },
+      "dosage": {
+        "frequency": "3 times per day",
+        "intensity": "Low to Moderate",
+        "time": "15 minutes",
+        "type": "Active Assisted ROM"
+      }
+    }
+  }
+}

@@ -1,0 +1,457 @@
+metadata:
+  chapterId: pharm_ch1
+  title: General Pharmacology
+  subject: Pharmacology
+  subjectId: pharmacology
+  version: '1.0'
+  lastUpdated: '2026-06-26'
+  status: published
+  difficulty: Medium
+  estimatedStudyTime: 60
+  keywords: []
+  tags: []
+learningObjectives: []
+theory:
+  definitions:
+  - 'Pharmacology: The science of drugs, encompassing their sources, chemical properties,
+    biological effects, mechanisms of action, therapeutic uses, and adverse effects.'
+  - 'Pharmacokinetics: The quantitative study of drug movement into, through, and
+    out of the body (what the body does to the drug), comprising absorption, distribution,
+    metabolism, and excretion (ADME).'
+  - 'Pharmacodynamics: The study of the biochemical and physiological effects of drugs
+    and their mechanisms of action (what the drug does to the body).'
+  - 'Bioavailability: The rate and extent to which the active drug ingredient is absorbed
+    from a drug product and becomes available at the site of drug action or in systemic
+    circulation.'
+  - 'First-Pass Metabolism: The rapid clearance or degradation of an orally administered
+    drug by liver enzymes or gastrointestinal walls before it reaches systemic circulation,
+    reducing its bioavailability.'
+  - 'Therapeutic Index (TI): The ratio of the dose that produces toxicity (TD50 or
+    LD50) to the dose that produces a clinically effective response (ED50) in a population.
+    It measures drug safety.'
+  - 'Drug Potency: The amount of drug (usually in milligrams) required to produce
+    an effect of a given intensity; a highly potent drug produces its response at
+    low concentrations.'
+  - 'Drug Efficacy: The maximum biological response achievable from a drug, regardless
+    of the dose required (also known as intrinsic activity).'
+  - 'Essential Medicines: Drugs that satisfy the priority healthcare needs of the
+    population, selected with due regard to public health relevance, evidence on efficacy
+    and safety, and comparative cost-effectiveness.'
+  coreConcepts:
+  - 'Pharmacokinetic Phase - Absorption: Drug absorption is the movement of a drug
+    from its site of administration into the blood circulation. It depends on aqueous
+    solubility, lipid solubility, molecular size, and blood flow to the absorption
+    site.'
+  - 'CONCEPT BUILDER: Why Oral Drugs Sometimes Fail
+
+    Oral drugs must survive the highly acidic gastric environment, digestive enzymes
+    in the duodenum, and first-pass metabolism in the liver. In conditions of gastrointestinal
+    hypermotility (diarrhea), malabsorption syndrome, or after major bowel resection,
+    oral drug absorption is severely impaired, leading to therapeutic failure. Physiotherapists
+    should note that strenuous exercise immediately after oral drug intake can divert
+    blood flow away from the GI tract to active skeletal muscles, further delaying
+    absorption.'
+  - 'Pharmacokinetic Phase - Distribution: Distribution is the reversible transfer
+    of a drug between one compartment and another (usually from the vascular space
+    to interstitial and cellular spaces in tissues).'
+  - 'CONCEPT BUILDER: Plasma Protein Binding & Drug Storage
+
+    Drugs bind reversibly to plasma proteins, primarily albumin. Only the unbound,
+    ''free'' drug is pharmacologically active and capable of diffusing into target
+    tissues. Highly protein-bound drugs (e.g., warfarin, NSAIDs) can displace each
+    other when co-administered, resulting in a sudden spike in active drug levels
+    and potential toxicities like bruising or gastrointestinal bleeding.'
+  - 'Pharmacokinetic Phase - Metabolism (Biotransformation): The chemical alteration
+    of drugs in the body, primarily in the liver, turning lipid-soluble compounds
+    into water-soluble metabolites for renal excretion. This involves Phase I (oxidation,
+    reduction, hydrolysis) and Phase II (conjugation) reactions.'
+  - 'CONCEPT BUILDER: First Pass Metabolism vs. IV Bypass
+
+    When a drug is swallowed, it enters the portal vein and goes straight to the liver
+    before reaching the heart and systemic tissues. The liver may destroy or metabolize
+    up to 90% of the active drug (high first-pass effect). Intravenous (IV) administration
+    bypasses this entirely, delivering 100% of the drug directly into the systemic
+    circulation. This is why IV drugs work almost instantly and require lower doses
+    than oral equivalents.'
+  - 'Pharmacokinetic Phase - Excretion: The irreversible removal of drugs and their
+    metabolites from the body, primarily via glomerular filtration, active tubular
+    secretion, and passive tubular reabsorption in the kidneys.'
+  - 'CONCEPT BUILDER: Why Some Drugs Require Repeated Dosing (Half-Life)
+
+    The elimination half-life (t1/2) is the time required for the plasma concentration
+    of a drug to decrease by 50%. Drugs with short half-lives (e.g., ibuprofen, t1/2
+    ~ 2 hours) are cleared rapidly and require repeated dosing to maintain therapeutic
+    blood levels. Drugs with long half-lives (e.g., diazepam) persist for days, meaning
+    single doses can have prolonged physiological effects, including sedation and
+    motor coordination deficits relevant to physiotherapy sessions.'
+  - 'Pharmacodynamics - Receptor Theory: Most drugs act by binding to specific regulatory
+    macromolecules called receptors, triggering a cascade of intracellular signals
+    that alter cell function. Receptors are classified into ion channels, GPCRs, enzymatic,
+    and intracellular receptors.'
+  - 'CONCEPT BUILDER: Potency vs. Efficacy Explained
+
+    Potency refers to the dose required to produce an effect, whereas efficacy is
+    the maximum possible effect a drug can produce. For example, morphine is highly
+    potent (requires small doses for pain relief) and highly effective (can treat
+    severe pain). Aspirin is less potent and has lower efficacy (cannot relieve severe
+    visceral pain, no matter how much dose is given). In clinical practice, efficacy
+    is far more important than potency.'
+  - 'Adverse Drug Reactions (ADRs): Any noxious, unintended, and undesired effect
+    of a drug that occurs at doses used for prevention, diagnosis, or therapy. These
+    include side effects, toxic effects, allergic reactions, and idiosyncratic reactions.'
+  - 'CONCEPT BUILDER: Why Overdoses Occur & The Therapeutic Index
+
+    Drugs with a narrow Therapeutic Index (e.g., digoxin, lithium, warfarin) have
+    a very small safety margin. The dose required to produce a therapeutic effect
+    is close to the toxic dose. Overdoses or toxicities can easily occur due to minor
+    dosage adjustments, drug-drug interactions, dehydration, or declining renal/hepatic
+    function in elderly patients.'
+  - 'Rehabilitation-Specific Principle: Drug-Exercise Interactions
+
+    The physiological response to exercise can significantly alter pharmacokinetics.
+    Exercise-induced heat generation, elevated core body temperature, and increased
+    regional blood flow at the injection site (e.g., insulin injected into a thigh
+    before running) can accelerate drug absorption dramatically, causing severe systemic
+    reactions like hypoglycemic shock.'
+  equipment:
+  - Pill Organizer
+  - Intravenous Infusion Drip Set
+  - Nebulizer & Spacers
+  - Blood Pressure Sphygmomanometer
+  - Pulse Oximeter
+  - Syringes and Ampoules
+clinicalCorrelations:
+  pearls:
+  - 'NSAIDs Timing before Exercise: Administering an oral NSAID (like ibuprofen) approximately
+    1 hour before a therapeutic exercise session maximizes its analgesic effect, facilitating
+    better tolerance to joint mobilization and active stretching.'
+  - 'Sedation and Fall Risk Assessment: Patients taking centrally acting muscle relaxants
+    (baclofen, tizanidine) or opioids (tramadol) are at high risk of orthostatic hypotension
+    and impaired balance. Conduct a Berg Balance test and monitor vitals closely before
+    transfers.'
+  - 'Steroid-Induced Tendinopathy: Long-term corticosteroid use degrades collagen.
+    Be exceptionally cautious with high-velocity thrusts or heavy eccentric loading
+    in these patients, particularly around the Achilles tendon, as the risk of spontaneous
+    rupture is elevated.'
+  - 'Anticoagulants and Deep Tissue Techniques: For patients on anticoagulants (warfarin,
+    heparin, or NOACs), avoid aggressive manual therapy, dry needling, deep tissue
+    friction massage, or high-intensity instrument-assisted soft tissue mobilization
+    (IASTM) to prevent subcutaneous hematoma formation.'
+  - 'Analgesics Masking Pathology: Strong analgesics can mask pain, which is the body''s
+    natural feedback mechanism. Exercising a patient under heavy analgesia carries
+    a risk of micro-damage or micro-tears in joint capsules or tendons because the
+    patient cannot sense overload.'
+  - 'Timing of Parkinsonian Medication: Schedule physical therapy sessions to coincide
+    with the ''on'' phase of L-DOPA therapy (typically 1 to 1.5 hours post-ingestion).
+    Attempting balance and gait training during ''off'' phases is highly frustrating
+    and less effective.'
+  precautions:
+  - Monitor for signs of orthostatic hypotension during transitional movements in
+    patients taking CNS depressants or antihypertensives.
+  - Assess skin integrity regularly at transdermal patch sites.
+  - Never apply direct local heat (such as hot packs or ultrasound) over an active
+    transdermal patch, as heat accelerates drug absorption and can cause a lethal
+    systemic overdose.
+  - Avoid aggressive manual therapy in patients on therapeutic doses of anticoagulants.
+  indications:
+  - Pain and inflammatory musculoskeletal conditions requiring NSAID therapy
+  - Skeletal muscle spasticity of spinal or cortical origin
+  - Chronic obstructive pulmonary disease or asthma affecting aerobic performance
+  - Hypertension or ischemic heart disease requiring heart rate control before exercise
+  contraindications:
+    general:
+    - Severe hypersensitivity to the prescribed active drug compound
+    - End-stage renal or hepatic impairment (impaired clearance of active metabolites)
+    - Severe systemic toxicities or acute drug-induced anaphylaxis
+    local:
+    - Local injection sites exhibiting active infection or severe phlebitis
+    - Skin lesions or eczema at transdermal patch placement sites
+  technique:
+    patientPreparation:
+    - Verify patient identity and cross-reference current drug chart and dosage timings.
+    - Explain the influence of physical activity on drug absorption and action to
+      the patient.
+    - Record baseline resting vitals (heart rate, blood pressure, respiratory rate)
+      before commencing rehabilitation.
+    apparatusPreparation:
+    - Confirm any drug-delivery equipment (e.g., nebulizers, transdermal patches,
+      or pill organizers) is clean, calibrated, and functional.
+    - Ensure emergency medical supplies (such as glucose packets or oxygen cylinders)
+      are readily accessible.
+    skinPreparation:
+    - Cleanse the targeted skin area with isopropyl alcohol if using a transdermal
+      drug delivery system or topical medication.
+    - Allow the skin to dry completely to maximize transdermal adherence and prevent
+      barrier degradation.
+    electrodePlacement:
+    - Not Applicable (This is a pharmaceutical treatment; ensure transdermal patch
+      placement sites are rotated to prevent localized irritation).
+    treatmentProcedure:
+    - Instruct the patient to self-administer prescribed pre-rehabilitation medications
+      (e.g., NSAIDs, bronchodilators, or anti-Parkinsonian drugs) at the clinically
+      recommended time before exercise.
+    - Initiate physical therapy during the drug's therapeutic window (peak plasma
+      levels).
+    - Continuously monitor for adverse drug-exercise interactions (e.g., hypokalemia,
+      cardiac arrhythmias, or orthostatic hypotension).
+    - Document drug administration times, patient's vital signs, and physical therapy
+      performance.
+  protocols:
+  - condition: Severe Hamstring Spasticity undergoing Active/Passive Mobilization
+    position: Supine with contralateral hip stabilized
+    electrodePlacement: 'Not Applicable. Clinical timing protocol: Coincide therapy
+      with Peak Serum Concentration of Oral Baclofen (1.5 hours post-dose)'
+    frequency: Daily, coordinated with patient's drug scheduling
+    purpose: Upregulate GABA-B mediated spinal inhibition during the peak drug effect,
+      allowing increased knee extension range of motion without triggering painful
+      stretch reflexes.
+  - condition: Chronic Low Back Pain with age-related balance deficits taking Diazepam
+    position: Standing with harness support or adjacent to parallel bars
+    electrodePlacement: 'Not Applicable. Clinical safety protocol: Pre-session Orthostatic
+      Vital Sign check'
+    frequency: 3 times per week, early morning session preferred when diurnal sedation
+      is minimized
+    purpose: Prevent orthostatic syncopal events and physical therapy-related falls
+      while training proprioception under the influence of CNS-depressant muscle relaxants.
+  - condition: Active Rheumatoid Arthritis of Knee Joint under daily Corticosteroid
+      therapy
+    position: Long sitting or high sitting with knee flexed
+    electrodePlacement: 'Not Applicable. Clinical loading protocol: Moderate-load
+      isometric and concentric strengthening (Avoid high-load eccentric drills)'
+    frequency: Alternate days, 3 times per week
+    purpose: Maintain joint mobility and build muscular stabilization around the knee
+      while minimizing the risk of steroid-induced collagen breakdown and tendon micro-rupture.
+  - condition: Parkinson's Disease (Hoehn & Yahr Stage II) on Levodopa-Carbidopa
+    position: Standing, progress to dynamic gait tracks and sensory perturbation mats
+    electrodePlacement: 'Not Applicable. Clinical timing protocol: Schedule session
+      exactly 60-90 minutes post-dose (''On'' phase)'
+    frequency: 3 sessions per week
+    purpose: Leverage peak dopamine levels in the basal ganglia to maximize motor
+      learning, postural control, and dynamic balance, reducing freezing of gait during
+      active physical therapy.
+  physiologicalEffects:
+  - effect: Alteration of Myocardial Contractility and Vascular Tone
+    frequency: Dose-Dependent and continuous during active drug bioavailability
+    mechanism:
+    - Adrenergic beta-1 receptor activation increases heart rate and stroke volume
+      via cyclic AMP-dependent calcium influx.
+    - Beta-blockade inhibits this effect, lowering cardiac workload but potentially
+      limiting maximum exercise heart rate during physiotherapy cardiovascular conditioning.
+    - Nitrates release nitric oxide, activating guanylyl cyclase to cause venodilation
+      and reduce pre-load.
+  - effect: Reduction in Skeletal Muscle Spasticity and Muscle Tone
+    frequency: Therapeutic concentration-dependent, peaking 1-2 hours post-dose
+    mechanism:
+    - GABA-B agonists (e.g., baclofen) hyperpolarize motor neurons in the spinal cord,
+      reducing monosynaptic and polysynaptic reflex transmission.
+    - Centrally acting muscle relaxants depress spinal interneurons, leading to a
+      decrease in tonic motor output.
+    - Direct-acting relaxants (e.g., dantrolene) inhibit calcium release from the
+      sarcoplasmic reticulum, directly dampening muscle contraction forces.
+  - effect: Depression of Synaptic Transmission and Sedation
+    frequency: Common with lipid-soluble CNS-active medications
+    mechanism:
+    - Enhancement of GABA-A receptor channel opening frequency (by benzodiazepines)
+      increases chloride influx, hyperpolarizing neuronal membranes.
+    - This dampens sensory and motor cortical activity, reducing anxiety and muscle
+      spasms, but concurrently impairs balance, reaction time, and increases fall
+      risks in elderly physiotherapy patients.
+  - effect: Catabolism of Collagen and Protein Matrix
+    frequency: High incidence with chronic systemic corticosteroid administration
+    mechanism:
+    - Glucocorticoids bind to intracellular receptors, altering gene transcription
+      to upregulate protein catabolism and downregulate collagen synthesis.
+    - This weakens skeletal muscle fibers (steroid-induced myopathy) and reduces the
+      tensile strength of tendons, ligaments, and bone matrix.
+    - Physiotherapists must avoid high-load eccentric loading and forceful manipulation
+      in patients on long-term steroid therapy.
+clinicalCases: []
+mcqs:
+- id: mcq_pharm_ch1_001
+  question: A 68-year-old female patient with osteoarthritis is referred to physiotherapy
+    for balance and gait training. During your subjective assessment, you note that
+    she was recently prescribed a centrally acting muscle relaxant (Diazepam) for
+    severe muscle spasms. Which of the following is the most critical safety assessment
+    to perform prior to initiating standing balance exercises?
+  options:
+  - Manual muscle testing of the quadriceps
+  - Active range of motion of the hip
+  - Orthostatic blood pressure and balance assessment
+  - Sensory testing of the lower extremity
+  answer: Orthostatic blood pressure and balance assessment
+  explanation: Centrally acting muscle relaxants like diazepam enhance GABA-mediated
+    inhibition in the CNS, causing sedation, motor impairment, and vasodilation. This
+    significantly increases the risk of orthostatic hypotension and falls, especially
+    in geriatric patients. Checking orthostatic vitals and initial balance is the
+    top priority for safety.
+- id: mcq_pharm_ch1_002
+  question: An athlete is taking oral Ibuprofen (NSAID) to manage patellar tendinitis.
+    They ask you when they should take their medication relative to their physical
+    therapy session. Based on pharmacokinetics, what is the most appropriate recommendation?
+  options:
+  - Immediately before starting the exercise session
+  - Approximately 1 hour before the session to align with peak plasma concentration
+  - Directly after the session to prevent any post-exercise soreness
+  - Only at night before sleeping to allow tissue repair
+  answer: Approximately 1 hour before the session to align with peak plasma concentration
+  explanation: Most oral NSAIDs like ibuprofen take about 1 to 2 hours to reach peak
+    plasma concentration (t-max) and produce maximum analgesic effect. Coordinating
+    ingestion to be roughly 1 hour before physical therapy allows the patient to exercise
+    with optimal pain relief, improving rehabilitation compliance.
+- id: mcq_pharm_ch1_003
+  question: A patient has been taking high-dose oral prednisolone (a corticosteroid)
+    for 6 months to manage rheumatoid arthritis. During physical therapy, which of
+    the following exercises should be prescribed with extreme caution due to the drug's
+    physiological effects on connective tissue?
+  options:
+  - Low-resistance isometric quadriceps strengthening
+  - Gentle active-assisted knee range of motion
+  - High-load, rapid eccentric Achilles tendon loading
+  - Closed-chain proprioceptive standing exercises
+  answer: High-load, rapid eccentric Achilles tendon loading
+  explanation: Chronic glucocorticoid use leads to systemic collagen catabolism, decreasing
+    the tensile strength of tendons, ligaments, and bones. High-load, high-velocity
+    eccentric movements pose a severe risk of spontaneous tendon rupture (especially
+    Achilles tendinopathy) and must be avoided or progressed very conservatively.
+- id: mcq_pharm_ch1_004
+  question: If a drug has a very high first-pass metabolism, which of the following
+    statements is TRUE regarding its oral administration?
+  options:
+  - Its oral bioavailability will be high
+  - Its oral dose will need to be significantly higher than its intravenous dose
+  - It will bypass the portal circulation and enter systemic blood directly
+  - It should never be administered orally under any circumstances
+  answer: Its oral dose will need to be significantly higher than its intravenous
+    dose
+  explanation: High first-pass metabolism means that a substantial fraction of the
+    orally administered drug is metabolized in the liver or gut wall before entering
+    systemic circulation. To achieve therapeutic systemic concentrations, the oral
+    dose must be much larger than the IV dose (which bypasses first-pass metabolism
+    entirely with 100% bioavailability).
+- id: mcq_pharm_ch1_005
+  question: Which of the following terms describes the maximal therapeutic effect
+    that a drug can produce, regardless of the dose administered?
+  options:
+  - Drug Potency
+  - Drug Efficacy
+  - Therapeutic Index
+  - Bioavailability
+  answer: Drug Efficacy
+  explanation: Efficacy is the maximum response achievable from a drug. It is represented
+    by the plateau (Emax) of the graded dose-response curve. Potency, on the other
+    hand, refers to the dose required to produce a specific sub-maximal response.
+- id: mcq_pharm_ch1_006
+  question: A physiotherapist is treating a patient who is taking Warfarin (an anticoagulant)
+    for atrial fibrillation. During manual therapy, which of the following interventions
+    is CONTRAINDICATED due to the safety risks associated with this drug?
+  options:
+  - Gentle myofascial release of the upper trapezius
+  - Deep transverse friction massage and aggressive instrument-assisted soft tissue
+    mobilization (IASTM)
+  - Active range of motion of the shoulder joint
+  - Low-intensity passive stretching of the pectoralis major
+  answer: Deep transverse friction massage and aggressive instrument-assisted soft
+    tissue mobilization (IASTM)
+  explanation: Warfarin increases bleeding and clotting time by inhibiting vitamin
+    K-dependent clotting factors. Aggressive manual techniques such as deep transverse
+    friction massage, deep tissue work, or IASTM apply high shear forces to tissue
+    and capillaries, risking extensive subcutaneous bruising, bleeding, and hematoma
+    formation.
+- id: mcq_pharm_ch1_007
+  question: A patient with Parkinson's Disease experiences severe bradykinesia and
+    dynamic instability during their physical therapy sessions. What is the most effective
+    clinical scheduling strategy to optimize their rehabilitation outcomes?
+  options:
+  - Schedule sessions early in the morning before they take their first dose of Levodopa
+  - Schedule sessions 60-90 minutes after Levodopa administration to coincide with
+    the therapeutic 'On' phase
+  - Schedule sessions late in the afternoon when drug concentration is lowest to train
+    natural reflexes
+  - Schedule sessions immediately after lunch when digestion is highest
+  answer: Schedule sessions 60-90 minutes after Levodopa administration to coincide
+    with the therapeutic 'On' phase
+  explanation: Levodopa typically takes 1 to 1.5 hours to reach peak plasma levels
+    and cross the blood-brain barrier to be converted into dopamine. Coordinating
+    physiotherapy sessions with this peak 'On' phase maximizes the patient's motor
+    control, decreases rigidity and freezing of gait, and enhances safety and motor
+    learning.
+- id: mcq_pharm_ch1_008
+  question: The Therapeutic Index (TI) of a drug is defined as the ratio of TD50 (median
+    toxic dose) or LD50 (median lethal dose) to ED50 (median effective dose). Which
+    of the following drugs requires the most rigorous clinical and laboratory monitoring
+    due to its narrow Therapeutic Index?
+  options:
+  - Penicillin G
+  - Amoxicillin
+  - Warfarin
+  - Paracetamol
+  answer: Warfarin
+  explanation: Warfarin has a narrow therapeutic index, meaning the dose that prevents
+    blood clots is very close to the dose that causes life-threatening internal bleeding.
+    This necessitates frequent monitoring of the International Normalized Ratio (INR)
+    and extreme caution during physical therapies.
+viva:
+- id: viva_pharm_ch1_001
+  question: Define Bioavailability. What are the factors that influence the bioavailability
+    of an orally administered drug?
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_pharm_ch1_002
+  question: Distinguish between drug Potency and drug Efficacy with the help of a
+    graded dose-response curve. Which of these parameters is clinically more significant
+    and why?
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_pharm_ch1_003
+  question: Explain the physiological significance of First-Pass Metabolism. Name
+    three drugs that undergo high first-pass hepatic metabolism and describe how their
+    route of administration is altered.
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_pharm_ch1_004
+  question: What is the Therapeutic Index? Explain its clinical relevance with examples
+    of drugs having narrow and wide therapeutic indices.
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_pharm_ch1_005
+  question: Define Plasma Half-life (t1/2). Explain its mathematical relationship
+    with volume of distribution and clearance, and explain its clinical significance
+    in determining dosing intervals.
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_pharm_ch1_006
+  question: Explain the mechanism of action of G-protein coupled receptors (GPCR)
+    and how they transduce signals inside the effector cell.
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_pharm_ch1_007
+  question: As a physical therapist, why must you monitor a geriatric patient taking
+    skeletal muscle relaxants or NSAIDs? What are the clinical signs of toxicity?
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_pharm_ch1_008
+  question: What is the 'Essential Medicines Concept' as defined by the WHO? List
+    four key criteria used for selecting essential medicines.
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+flashcards: []
+pyqs: []
+references:
+- Essentials of Medical Pharmacology by K.D. Tripathi (8th Edition)
+- Pharmacology for Physiotherapists by Padmaja Udaykumar
+- 'Goodman & Gilman''s: The Pharmacological Basis of Therapeutics (13th Edition)'
+subjectExtensions:
+  anatomy:
+    parameters:
+      Therapeutic Index Equation: LD50 / ED50 (Lethal Dose 50 / Effective Dose 50)
+      IV Bioavailability: 100%
+      First-Pass Metabolism Organs: Liver (primary), Gastrointestinal wall
+      Albumin Binding Function: Acts as a drug reservoir; only free drug is active

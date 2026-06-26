@@ -259,6 +259,7 @@ fun IndexedChapterPane(
     subject: SubjectModel,
     isAnatomy: Boolean
 ) {
+    val isExerciseTherapy = subject.subjectId.contains("exercise_therapy", ignoreCase = true)
     Box(
         modifier = Modifier
             .fillMaxSize()
@@ -267,18 +268,52 @@ fun IndexedChapterPane(
     ) {
         val currentTab = tabTitles.getOrNull(tabIndex)
         when (currentTab) {
-            "Theory" -> TheoryTabContent(content = content, themeColor = themeColor, isAnatomy = isAnatomy)
-            "Physiology", "Concepts" -> PhysiologyTabContent(content = content, themeColor = themeColor, subjectId = subject.subjectId)
-            "Clinical App" -> ClinicalTabContent(content = content, themeColor = themeColor, isAnatomy = isAnatomy)
-            "Exam Prep" -> ExamPrepTabContent(content = content, themeColor = themeColor, navController = navController)
+            "Theory" -> TheoryTabContent(content = content, themeColor = themeColor, isAnatomy = isAnatomy, isExerciseTherapy = isExerciseTherapy)
+            "Physiology", "Concepts" -> PhysiologyTabContent(content = content, themeColor = themeColor, subjectId = subject.subjectId, isExerciseTherapy = isExerciseTherapy)
+            "Clinical App" -> ClinicalTabContent(content = content, themeColor = themeColor, isAnatomy = isAnatomy, isExerciseTherapy = isExerciseTherapy)
+            "Exam Prep" -> ExamPrepTabContent(content = content, themeColor = themeColor, navController = navController, isExerciseTherapy = isExerciseTherapy)
+        }
+    }
+}
+
+// ==================== DEVELOPMENT MESSAGE ====================
+@Composable
+fun DevelopmentMessageCard(message: String, themeColor: Color, modifier: Modifier = Modifier) {
+    Card(
+        modifier = modifier.fillMaxWidth(),
+        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.5f)),
+        shape = RoundedCornerShape(12.dp),
+        border = BorderStroke(1.dp, themeColor.copy(alpha = 0.2f))
+    ) {
+        Row(
+            modifier = Modifier.padding(16.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Icon(
+                imageVector = Icons.Default.Build,
+                contentDescription = "Under Development",
+                tint = themeColor
+            )
+            Spacer(modifier = Modifier.width(12.dp))
+            Text(
+                text = message,
+                style = MaterialTheme.typography.bodyMedium,
+                fontWeight = FontWeight.Medium,
+                color = MaterialTheme.colorScheme.onSurfaceVariant
+            )
         }
     }
 }
 
 // ==================== TAB 0: THEORY ====================
 @Composable
-fun TheoryTabContent(content: InteractiveChapterContent, themeColor: Color, isAnatomy: Boolean = false) {
+fun TheoryTabContent(content: InteractiveChapterContent, themeColor: Color, isAnatomy: Boolean = false, isExerciseTherapy: Boolean = false) {
     Column(verticalArrangement = Arrangement.spacedBy(16.dp)) {
+        if (isExerciseTherapy && content.definition.isEmpty()) {
+            DevelopmentMessageCard("Content under development", themeColor)
+            return@Column
+        }
+
         // 1. Definition Card
         if (content.definition.isNotEmpty()) {
             Card(
@@ -525,13 +560,18 @@ fun getSectionTitles(subjectId: String): Map<String, String> {
 
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
-fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color, subjectId: String) {
+fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color, subjectId: String, isExerciseTherapy: Boolean = false) {
     var selectedLevel by remember { mutableStateOf(1) } // 1: Exam Def, 2: Simple Analogy, 3: Clinical Reasoning
     val (level1, level2, level3) = remember(content.chapterId) {
         ClinicalEducationEngine.getThreeLevelExplanation(content.chapterId, content.chapterName, content.subject, content.definition)
     }
 
     Column(verticalArrangement = Arrangement.spacedBy(16.dp)) {
+        if (isExerciseTherapy) {
+            DevelopmentMessageCard("Content under development", themeColor)
+            return@Column
+        }
+
         // 1. 3-Level Concept Explainer
         Card(
             modifier = Modifier.fillMaxWidth(),
@@ -892,7 +932,7 @@ fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color, 
 
 // ==================== TAB 2: CLINICAL APPLICATION ====================
 @Composable
-fun ClinicalTabContent(content: InteractiveChapterContent, themeColor: Color, isAnatomy: Boolean = false) {
+fun ClinicalTabContent(content: InteractiveChapterContent, themeColor: Color, isAnatomy: Boolean = false, isExerciseTherapy: Boolean = false) {
     Column(verticalArrangement = Arrangement.spacedBy(16.dp)) {
         
         val hasTechniqueData = content.technique.patientPreparation.isNotEmpty() ||
@@ -900,6 +940,13 @@ fun ClinicalTabContent(content: InteractiveChapterContent, themeColor: Color, is
                 content.technique.skinPreparation.isNotEmpty() ||
                 content.technique.electrodePlacement.isNotEmpty() ||
                 content.technique.treatmentProcedure.isNotEmpty()
+
+        val hasClinical = hasTechniqueData || content.clinicalPearls.isNotEmpty() || content.precautions.isNotEmpty() || content.indications.isNotEmpty() || content.contraindications.general.isNotEmpty() || content.contraindications.local.isNotEmpty() || content.clinicalProtocols.isNotEmpty()
+        
+        if (isExerciseTherapy && !hasClinical) {
+            DevelopmentMessageCard("Clinical content under development.", themeColor)
+            return@Column
+        }
 
         if (!isAnatomy && hasTechniqueData) {
             // Expandable application technique
@@ -1252,7 +1299,8 @@ fun ClinicalTabContent(content: InteractiveChapterContent, themeColor: Color, is
 fun ExamPrepTabContent(
     content: InteractiveChapterContent,
     themeColor: Color,
-    navController: NavController
+    navController: NavController,
+    isExerciseTherapy: Boolean = false
 ) {
     Column(verticalArrangement = Arrangement.spacedBy(16.dp)) {
         
@@ -1260,7 +1308,11 @@ fun ExamPrepTabContent(
         InteractiveMCQCard(questions = content.mcqs, themeColor = themeColor)
 
         // 2. Oral Viva Q&A Guide
-        OralVivaCard(vivaQuestions = content.vivaQuestions, themeColor = themeColor)
+        if (content.vivaQuestions.isEmpty() && isExerciseTherapy) {
+            DevelopmentMessageCard("Viva content under development.", themeColor)
+        } else {
+            OralVivaCard(vivaQuestions = content.vivaQuestions, themeColor = themeColor)
+        }
 
         // 3. Recommended Readings References block
         if (content.reference.isNotEmpty()) {
@@ -1287,6 +1339,8 @@ fun ExamPrepTabContent(
                     }
                 }
             }
+        } else if (isExerciseTherapy) {
+            DevelopmentMessageCard("References will be added in a future update.", themeColor)
         }
     }
 }

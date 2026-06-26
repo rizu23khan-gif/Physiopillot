@@ -1,365 +1,384 @@
 {
-  "subject": "Exercise Therapy II",
-  "chapterId": "ex2_ch11",
-  "chapterName": "Posture & Corrective Exercise",
-  "definition": [
-    "Ideal Posture: An optimal state of musculoskeletal alignment that minimizes physical stress on supporting skeletal tissues, reduces muscular energy expenditure, and protects against progressive spinal changes.",
-    "Plumb Line Analysis: A clinical diagnostic tracking method using a suspended weighted vertical line to analyze gravitational alignment of major skeletal axes in sagittal and coronal planes.",
-    "Postural Assessment: A structured, multi-planar examination of skeletal symmetry, joint axes, and muscle tension baselines from anterior, posterior, and lateral viewpoints.",
-    "Kyphosis: An abnormal posterior curvature of the thoracic spine, clinically associated with rounded shoulders, forward head posture, and posterior scapular weakness.",
-    "Lordosis: An abnormal anterior curvature of the lumbar or cervical spine, clinically linked to anterior pelvic tilt and weak core abdominal musculature.",
-    "Scoliosis: A complex three-dimensional spinal curvature marked by lateral deviation in the coronal plane, structural rotation of vertebral bodies in the horizontal plane, and compensatory rib deformity.",
-    "Flat Back: A postural deviation characterized by the abnormal reduction of normal lumbar lordosis, resulting in a straight spinal profile and persistent posterior pelvic tilt.",
-    "Sway Back: A posture marked by posterior pelvic tilt, anterior pelvic shift relative to the ankles, hip hyperextension, and a compensatory increase in thoracic kyphosis.",
-    "Flat Foot (Pes Planus): A structural or functional foot posture marked by the collapse of the medial longitudinal arch, calcaneal valgus, and excessive midfoot pronation.",
-    "Muscle Imbalance Syndromes: Systematic patterns of tissue dysfunction described by Vladimir Janda, characterized by hyper-facilitation of tonic muscles and reciprocal inhibition of phasic muscles.",
-    "Upper Crossed Syndrome: A muscle imbalance pattern characterized by tight upper trapezius, levator scapulae, and pectorals, opposing weak deep neck flexors and middle/lower trapezius.",
-    "Lower Crossed Syndrome: A muscle imbalance pattern characterized by tight iliopsoas, rectus femoris, and lumbar erector spinae, opposing weak abdominals and gluteus maximus.",
-    "Corrective Exercise Program: A structured sequence of stretching and strengthening activities designed to correct muscle imbalances, restore normal length-tension relationships, and retrain optimal motor control.",
-    "Ergonomic Principles: The science of structuring work environments, equipment interfaces, and seated/standing tasks to match human biomechanical capabilities, preventing micro-trauma.",
-    "Round Back Posture: A postural deviation characterized by increased thoracic kyphosis extending over multiple thoracic segments, often accompanied by forward head posture, protracted scapulae, shortened anterior chest musculature, and weakened thoracic extensor muscles. Clinical features include a long, sweeping posterior curve of the thoracic spine. The muscle imbalance pattern involves tight pectoralis major/minor and hyperactive intercostals, opposing weak thoracic erector spinae and rhomboids. Unlike isolated thoracic kyphosis, which may be localized or rigid, round back posture is characterized by a flexible, multi-segmental progression that often presents as a compensatory response to sustained flexed-sitting postures."
-  ],
-  "principle": [
-    "Janda's Tonic and Phasic Muscle Classification: Muscles are classified into tonic (predominantly postural, prone to hypertonicity, shortening, and contracture) and phasic (predominantly dynamic, prone to inhibition, fatigue, and weakness).",
-    "Reciprocal Inhibition Pathway: Chronically hyperactive and tight muscles (e.g. iliopsoas) send inhibitory motor signals to their antagonists (e.g. gluteus maximus), keeping them neurologically weak.",
-    "Length-Tension Curve Optimization: Postural changes shift muscle sarcomeres away from their optimal length-tension relationship. Corrective exercises aim to restore muscle length so actin-myosin cross-bridges can generate optimal torque.",
-    "Joint Torque Balancing: Restoring symmetrical skeletal alignment balances joint compression forces. Corrective adjustments prevent concentrated shear stress on cartilage, spinal discs, and facet joints.",
-    "Ideal Anterior Plumb Line Alignment: Symmetrical landmarks observed from the anterior view include: head centered with nose aligned directly to the sternum and chin level, level clavicles and shoulders, level anterior superior iliac spines (ASIS), patellae facing forward, and equal spacing between the medial malleoli.",
-    "Ideal Posterior Plumb Line Alignment: Symmetrical landmarks observed from the posterior view include: occipital protuberance centered over the spinous processes of the spine, level scapular spines and inferior angles, vertical vertebral column centered with the gluteal cleft, level popliteal creases, and vertical alignment of the Achilles tendons."
-  ],
-  "equipment": [
-    "Weighted postural plumb lines and calibrated postural grid backdrops.",
-    "Full-length posture mirrors, digital symmetry cameras, and grids.",
-    "Scoliometers, inclinometers, and dual-axis spinal alignment levels.",
-    "Gymnastic balls, foam rollers, spinal wedges, and corrective blocks.",
-    "Resistive tubing, pelvic tilt boards, and balance platforms."
-  ],
-  "parameters": {
-    "intensity": "Low-to-moderate loads focusing on isometric endurance, motor control precision, and prolonged active stretching of hypertonic structures",
-    "duration": "20 to 45 minutes, emphasizing postural focus and avoiding muscular fatigue which can trigger abnormal movement compensations",
-    "frequency": "4 to 6 sessions per week to consistently challenge feedforward motor networks and stimulate physical muscle remodeling",
-    "repetitions": "Stretches: 3 to 4 sets of 30-second holds. Strengthening: 2 to 3 sets of 10 to 15 slow contractions focusing on posture control"
-  },
-  "physiologicalEffects": [
-    {
-      "effect": "Sarcomere Length Adaptation",
-      "frequency": "During daily, prolonged passive stretching blocks",
-      "mechanism": [
-        "Triggers the addition of sarcomeres in-series within chronically shortened, tight muscle fibers.",
-        "Reduces baseline myofascial tension and restores normal resting muscle length."
-      ]
+    "metadata": {
+        "chapterId": "",
+        "title": "",
+        "subject": "",
+        "keywords": [],
+        "tags": []
     },
-    {
-      "effect": "Deep Stabilizer Recruitment Pathway",
-      "frequency": "During low-load static spinal holding drills",
-      "mechanism": [
-        "Involves persistent recruitment of slow-twitch, Type I fibers in deep postural stabilizers (e.g. multifidus, transversus abdominis, deep neck flexors).",
-        "Improves endurance to support the spine against gravity, preventing postural collapse."
-      ]
+    "theory": {
+        "definitions": [],
+        "coreConcepts": [],
+        "equipment": []
     },
-    {
-      "effect": "Skeletal Joint Stress Redistribution",
-      "frequency": "During active postural alignment corrections",
-      "mechanism": [
-        "Re-aligns gravity vectors through skeletal centers of mass, reducing eccentric muscle demands.",
-        "Minimizes peak shear and compressive forces on facet joints and intervertebral discs."
-      ]
+    "clinicalCorrelations": {
+        "pearls": [],
+        "precautions": [],
+        "indications": [],
+        "contraindications": {
+            "general": [],
+            "local": []
+        },
+        "technique": {
+            "patientPreparation": [],
+            "apparatusPreparation": [],
+            "skinPreparation": [],
+            "electrodePlacement": [],
+            "treatmentProcedure": []
+        },
+        "protocols": [],
+        "physiologicalEffects": []
     },
-    {
-      "effect": "Proprioceptive Re-calibration",
-      "frequency": "Through continuous visual and tactile biofeedback",
-      "mechanism": [
-        "Re-configures vestibulospinal and spinocerebellar networks to recognize optimal alignment as 'normal upright alignment.'",
-        "Corrects habituate postural misalignments and coordinates feedforward balance adjustments."
-      ]
-    }
-  ],
-  "indications": [
-    "Upper Crossed Syndrome (forward head posture, protracted scapulae, cervical strain headaches).",
-    "Lower Crossed Syndrome (hyper-lordosis, anterior pelvic tilt, postural low back pain).",
-    "Postural Kyphosis or structural Kyphosis (with flexible components) needing thoracic extension training.",
-    "Idiopathic functional Scoliosis curvature deviations with muscle imbalances.",
-    "Flat Back or Sway Back postural deviations.",
-    "Pes Planus (flat foot) with associated medial tibial stress syndrome or patellofemoral pain."
-  ],
-  "contraindications": {
-    "general": [
-      "Severe spinal column instability (e.g., high-grade spondylolisthesis).",
-      "Acute, unhealed spinal fractures or suspected vertebral body pathology.",
-      "Severe, decompensated spinal cord compression or cauda equina syndrome.",
-      "Severe systemic motor neuron diseases or decompensated bone osteoporosis."
+    "subjectExtensions": {
+        "anatomy": {
+            "parameters": {}
+        }
+    },
+    "clinicalCases": [],
+    "mcqs": [
+        {
+            "question": "Which of the following muscle groups is classified as 'tonic' by Janda, displaying a tendency toward hyperactivity and shortening?",
+            "options": [
+                "Rhomboids",
+                "Iliopsoas",
+                "Gluteus Maximus",
+                "Deep Cervical Flexors"
+            ],
+            "answer": "Iliopsoas",
+            "explanation": "The iliopsoas is a tonic postural muscle that tends to become hyperactive and shortened under static sitting strain, contributing to pelvic misalignment."
+        },
+        {
+            "question": "Which of the following muscle groups is classified as 'phasic' by Janda, showing a tendency toward inhibition and weakness?",
+            "options": [
+                "Pectoralis Major",
+                "Levator Scapulae",
+                "Middle and Lower Trapezius",
+                "Upper Trapezius"
+            ],
+            "answer": "Middle and Lower Trapezius",
+            "explanation": "The middle and lower trapezius are phasic muscles that tend to become inhibited, weak, and elongated in forward head and rounded shoulder postures."
+        },
+        {
+            "question": "In Vladimir Janda's Upper Crossed Syndrome, which of the following muscles is typically weak and elongated?",
+            "options": [
+                "Upper Trapezius",
+                "Pectoralis Minor",
+                "Longus Colli (Deep neck flexor)",
+                "Levator Scapulae"
+            ],
+            "answer": "Longus Colli (Deep neck flexor)",
+            "explanation": "The longus colli is a deep neck flexor that is inhibited and weak in Upper Crossed Syndrome, contributing to forward head posture."
+        },
+        {
+            "question": "Which muscle imbalance pattern characterizes Vladimir Janda's Lower Crossed Syndrome?",
+            "options": [
+                "Tight Rhomboids crossing with tight Rectus Abdominis",
+                "Tight Hip Flexors and Lumbar Erectors crossing with weak Abdominals and Gluteus Maximus",
+                "Tight Gluteus Medius crossing with weak Quadratus Lumborum",
+                "Tight Tibialis Anterior crossing with weak Gastrocnemius"
+            ],
+            "answer": "Tight Hip Flexors and Lumbar Erectors crossing with weak Abdominals and Gluteus Maximus",
+            "explanation": "Lower Crossed Syndrome features hyperactive tight hip flexors and lumbar erectors crossing with weak abdominals and gluteus maximus, causing excessive lordosis and pelvic asymmetry."
+        },
+        {
+            "question": "In optimal sagittal posture, the vertical postural plumb line should pass directly through which of the following landmarks?",
+            "options": [
+                "Posterior to the greater trochanter",
+                "Directly through the external auditory meatus and shoulder acromion",
+                "Anterior to the patella",
+                "Through the posterior superior iliac spine"
+            ],
+            "answer": "Directly through the external auditory meatus and shoulder acromion",
+            "explanation": "In optimal sagittal posture, the plumb line passes through the external auditory meatus (ear lobe), center of the shoulder acromion, and greater trochanter."
+        },
+        {
+            "question": "Which clinical assessment is standard to differentiate between structural and functional scoliosis?",
+            "options": [
+                "Trendelenburg single-leg stand",
+                "Adam's Forward Bend Test",
+                "Romberg closed-eyes stand",
+                "Thomas hip-flexion test"
+            ],
+            "answer": "Adam's Forward Bend Test",
+            "explanation": "Adam's Forward Bend Test is used to differentiate scoliosis. If a rib hump and lateral curvature persist during forward flexion, it is structural scoliosis."
+        },
+        {
+            "question": "A postural alignment characterized by a posterior pelvic tilt, anterior displacement of the hips, and a compensatory long thoracic kyphosis is termed:",
+            "options": [
+                "Hyper-lordosis",
+                "Flat Back",
+                "Sway Back",
+                "Structural Scoliosis"
+            ],
+            "answer": "Sway Back",
+            "explanation": "Sway Back is characterized by a posterior pelvic tilt, anterior pelvis shift, hip hyperextension, and a compensatory increase in thoracic kyphosis."
+        },
+        {
+            "question": "Which postural deformity is characterized by a flattened lumbar spine and a persistent posterior pelvic tilt?",
+            "options": [
+                "Flat Back",
+                "Sway Back",
+                "Lordosis",
+                "Thoracic Scoliosis"
+            ],
+            "answer": "Flat Back",
+            "explanation": "Flat Back is characterized by a loss of normal lumbar lordosis, causing a flat spinal profile and a posterior pelvic tilt."
+        },
+        {
+            "question": "The neurophysiological reflex pathway where hyperactive agonists send motor silencing signals to inhibit their opposing antagonists is termed:",
+            "options": [
+                "Autogenic inhibition",
+                "Reciprocal inhibition",
+                "Successive induction",
+                "Irradiation"
+            ],
+            "answer": "Reciprocal inhibition",
+            "explanation": "Reciprocal inhibition is a neural pathway where contraction of an agonist muscle reflexively inhibits its antagonist, reducing antagonist tone."
+        },
+        {
+            "question": "Which of the following exercises is designed to strengthen the abductor hallucis to support the medial longitudinal arch in Pes Planus?",
+            "options": [
+                "Passive Achilles stretch",
+                "Resisted ankle eversion",
+                "Janda's Short Foot exercise",
+                "Single-leg toe raises"
+            ],
+            "answer": "Janda's Short Foot exercise",
+            "explanation": "The short foot exercise targets the abductor hallucis to help restore the medial longitudinal arch in pes planus."
+        },
+        {
+            "question": "A patient with Upper Crossed Syndrome presents with chronic tension headaches. Which muscle group should be actively stretched first?",
+            "options": [
+                "Longus colli",
+                "Middle and lower trapezius",
+                "Upper trapezius and levator scapulae",
+                "Serratus anterior"
+            ],
+            "answer": "Upper trapezius and levator scapulae",
+            "explanation": "Upper Crossed Syndrome features hyperactive upper trapezius and levator scapulae. Stretching these tight muscles is essential to relieve tension headaches."
+        },
+        {
+            "question": "To perform Janda's 'Short Foot' exercise correctly, the patient should:",
+            "options": [
+                "Curl the toes upward",
+                "Curl the toes downward under the foot",
+                "Intentionally shorten the foot by drawing the metatarsals toward the heel without curling the toes",
+                "Hold the foot in passive eversion"
+            ],
+            "answer": "Intentionally shorten the foot by drawing the metatarsals toward the heel without curling the toes",
+            "explanation": "The short foot exercise draws the metatarsal heads toward the calcaneus without flexing or curling the toes, activating the intrinsic arch muscles."
+        },
+        {
+            "question": "An abnormal anterior curvature of the lumbar spine, often associated with an anterior pelvic tilt, is clinically defined as:",
+            "options": [
+                "Scoliosis",
+                "Kyphosis",
+                "Lordosis",
+                "Flat Back"
+            ],
+            "answer": "Lordosis",
+            "explanation": "Lordosis is an excessive anterior curvature of the lumbar (or cervical) spine, typically associated with an anterior pelvic tilt."
+        },
+        {
+            "question": "To stretch a tight Iliopsoas muscle in a patient with Lower Crossed Syndrome, which starting posture is most effective?",
+            "options": [
+                "Supine with both knees flexed to chest",
+                "Half-kneeling lunge with a posterior pelvic tilt",
+                "Standing with knees locked in hip hyperextension",
+                "Prone lying with a pillow under the stomach"
+            ],
+            "answer": "Half-kneeling lunge with a posterior pelvic tilt",
+            "explanation": "A half-kneeling lunge with a posterior pelvic tilt stabilizes the pelvis, maximizing the stretch on the iliopsoas."
+        },
+        {
+            "question": "Which muscle is typically hyperactive and tight in patients presenting with Lordosis and an anterior pelvic tilt?",
+            "options": [
+                "Rectus Abdominis",
+                "Gluteus Maximus",
+                "Rectus Femoris",
+                "Tibialis Anterior"
+            ],
+            "answer": "Rectus Femoris",
+            "explanation": "The rectus femoris is a hip flexor and pelvic stabilizer that is hyperactive and tight in Lower Crossed Syndrome, contributing to anterior pelvic tilt."
+        },
+        {
+            "question": "A patient with forward head posture exhibits severe tightness in the suboccipital muscles. Corrective stretching of these muscles should be paired with:",
+            "options": [
+                "Stretching the longus colli",
+                "Active neck hyperextension",
+                "Cervical retraction (chin tuck) strengthening",
+                "Rhomboid mobilization"
+            ],
+            "answer": "Cervical retraction (chin tuck) strengthening",
+            "explanation": " pairing cervical retraction (which strengthens the deep cervical flexors) with suboccipital stretching is crucial to correct forward head posture."
+        },
+        {
+            "question": "Under ergonomic guidelines, what is the optimal monitor height to prevent cervical fatigue and forward head posture?",
+            "options": [
+                "Top of the screen positioned at or slightly below eye level",
+                "The entire screen placed 10 inches below the chin",
+                "Aligned at 45 degrees relative to the gaze",
+                "Higher than the head, forcing neck hyperextension"
+            ],
+            "answer": "Top of the screen positioned at or slightly below eye level",
+            "explanation": "Aligning the top of the monitor at or slightly below eye level helps maintain a neutral cervical spine, preventing forward head translation."
+        },
+        {
+            "question": "Which muscle is a primary postural dynamic stabilizer of the scapula, preventing winging and protraction?",
+            "options": [
+                "Pectoralis Major",
+                "Serratus Anterior",
+                "Levator Scapulae",
+                "Latissimus Dorsi"
+            ],
+            "answer": "Serratus Anterior",
+            "explanation": "The serratus anterior stabilizes the scapula against the ribcage; weakness can result in scapular winging."
+        },
+        {
+            "question": "Under Janda's muscle classification, which of the following is categorized as a dynamic 'phasic' muscle?",
+            "options": [
+                "Gastrocnemius",
+                "Erector Spinae",
+                "Gluteus Maximus",
+                "Biceps Femoris"
+            ],
+            "answer": "Gluteus Maximus",
+            "explanation": "The gluteus maximus is a phasic muscle that is prone to inhibition and weakness under postural strain or prolonged sitting."
+        },
+        {
+            "question": "A structural thoracic scoliosis in coronal viewing will present with which pathomechanical vertebral change?",
+            "options": [
+                "Vertebral bodies rotating toward the convexity of the curve",
+                "Vertebral bodies rotating toward the concavity of the curve",
+                "No rotation",
+                "Anterior body subluxation"
+            ],
+            "answer": "Vertebral bodies rotating toward the convexity of the curve",
+            "explanation": "In structural scoliosis, vertebral bodies rotate toward the convexity of the curve, which pushes the ribs posteriorly to form a rib hump."
+        },
+        {
+            "question": "Which muscle group should be strengthened in a patient presenting with an excessive anterior pelvic tilt and weak gluteals?",
+            "options": [
+                "Iliopsoas",
+                "Erector Spinae",
+                "Rectus Abdominis",
+                "Gastrocnemius"
+            ],
+            "answer": "Rectus Abdominis",
+            "explanation": "Strengthening the rectus abdominis assists in controlling pelvic alignment, counteracting the anterior pull of muscle imbalances."
+        },
+        {
+            "question": "What primary pelvic alignment shift occurs when an individual stands wearing high-heeled footwear?",
+            "options": [
+                "Posterior pelvic tilt",
+                "Anterior pelvic tilt with increased lumbar lordosis",
+                "Lateral pelvic drop on the left side",
+                "Loss of all cervical spinal curvatures"
+            ],
+            "answer": "Anterior pelvic tilt with increased lumbar lordosis",
+            "explanation": "High heels shift the center of mass forward, forcing an anterior pelvic tilt and compensatory lumbar lordosis to maintain upright balance."
+        },
+        {
+            "question": "Which test evaluates muscle tightness of the hip flexors, particularly the Iliopsoas and Rectus Femoris?",
+            "options": [
+                "Trendelenburg Test",
+                "Thomas Test",
+                "Ober's Test",
+                "Ely's Test"
+            ],
+            "answer": "Thomas Test",
+            "explanation": "The Thomas Test is used to evaluate hip flexor tightness, distinguishing between iliopsoas and rectus femoris involvement."
+        },
+        {
+            "question": "Which spinal pathology features structural vertebral wedging and is characterized by a rigid, hyper-kyphotic thoracic curvature?",
+            "options": [
+                "Postural Kyphosis",
+                "Scheuermann's Disease",
+                "Lordosis deviation",
+                "Scoliotic spasm"
+            ],
+            "answer": "Scheuermann's Disease",
+            "explanation": "Scheuermann's Disease is a structural kyphosis characterized by wedge-shaped thoracic vertebrae and a rigid curvature."
+        },
+        {
+            "question": "To perform ergonomic keyboard adjustments, where should the elbows be positioned relative to the trunk?",
+            "options": [
+                "Fully extended out in front of the body",
+                "Flexed to 90 degrees and positioned close to the sides of the trunk",
+                "Flexed to 140 degrees with elevated shoulders",
+                "Abducted laterally to 45 degrees"
+            ],
+            "answer": "Flexed to 90 degrees and positioned close to the sides of the trunk",
+            "explanation": "Keeping elbows flexed to 90 degrees close to the body maintains a neutral position, minimizing wrist and shoulder strain."
+        },
+        {
+            "question": "An over-lengthened posture muscle experiences what change according to the length-tension curve?",
+            "options": [
+                "Acitin and Myosin cross-bridges overlap excessively, generating high passive spasm",
+                "Decreased voluntary active force generation because of suboptimal overlap of actin-myosin interfaces",
+                "An increase in mechanical leverage",
+                "Elimination of muscle motor spindles"
+            ],
+            "answer": "Decreased voluntary active force generation because of suboptimal overlap of actin-myosin interfaces",
+            "explanation": "Over-lengthened muscles have reduced actin-myosin overlap, which impairs active force generation and contributes to weakness."
+        },
+        {
+            "question": "In a patient presenting with forward head posture, which muscle is typically hyper-stretched, elongated, and weak?",
+            "options": [
+                "Levator Scapulae",
+                "Middle Trapezius",
+                "Sternocleidomastoid",
+                "Serratus Anterior"
+            ],
+            "answer": "Middle Trapezius",
+            "explanation": "Chronic forward head posture often leads to elongation and weakness of the scapular retractors, such as the middle trapezius."
+        },
+        {
+            "question": "Which pelvic landmark alignment change is characteristic of Lower Crossed Syndrome?",
+            "options": [
+                "Pelvis remains unchanged",
+                "Pelvic drop on the contralateral side",
+                "Anterior pelvic tilt",
+                "Posterior pelvic tilt with flat back curves"
+            ],
+            "answer": "Anterior pelvic tilt",
+            "explanation": "Lower Crossed Syndrome features hyperactive hip flexors that pull the anterior pelvis downward, resulting in an anterior pelvic tilt."
+        },
+        {
+            "question": "Which corrective exercise is primary for strengthening the lower fibers of the Serratus Anterior?",
+            "options": [
+                "Heavy bench-press",
+                "Wall slides / punch-outs in scapular plane",
+                "Active chin tuck",
+                "Cervical hyperextension stretching"
+            ],
+            "answer": "Wall slides / punch-outs in scapular plane",
+            "explanation": "Wall slides and punch-outs engage the serratus anterior, promoting stable scapular rotation and winging prevention."
+        },
+        {
+            "question": "Under Janda's Upper Crossed profile, rounded shoulders are primarily a result of tightness in which myofascial structures?",
+            "options": [
+                "Rhomboids",
+                "Pectoralis Major and Minor",
+                "Longus Capitis",
+                "Lower Trapezius"
+            ],
+            "answer": "Pectoralis Major and Minor",
+            "explanation": "Tightness in the pectorals pulls the scapula forward into protraction, resulting in a rounded shoulder posture."
+        },
+        {
+            "question": "Which of the following is an ideal posterior landmark used to assess symmetry during a postural plumb line assessment?",
+            "options": [
+                "Head centered with the nose aligned directly to the sternum",
+                "The external auditory meatus aligned over the shoulder acromion",
+                "Symmetrical position of the scapulae with inferior angles level",
+                "The patella facing directly forward in neutral position"
+            ],
+            "answer": "Symmetrical position of the scapulae with inferior angles level",
+            "explanation": "Scapular symmetry with level inferior angles is a key posterior alignment landmark. Nose/sternum alignment and patellar orientation are anterior landmarks, while the external auditory meatus is evaluated in the lateral view."
+        }
     ],
-    "local": [
-      "Acute, hyper-irritable nerve root radiculopathy or extreme acute disc herniations.",
-      "Active, localized spinal infections, discitis, or osteomyelitis.",
-      "Active inflammatory joint flares in the pelvis, hips, or shoulders."
-    ]
-  },
-  "technique": {
-    "patientPreparation": [
-      "Perform a complete baseline postural exam analyzing anterior, posterior, and lateral views.",
-      "Position the patient standing barefoot on a flat, even surface under a postural grid.",
-      "Ensure minimum clothing to allow direct visualization of bony landmarks."
-    ],
-    "apparatusPreparation": [
-      "Suspend the weighted plumb line precisely aligned with the central line of the postural grid backdrop.",
-      "Adjust posture mirrors to provide the patient with clear visual feedback of their alignment."
-    ],
-    "skinPreparation": [
-      "Locate and mark critical bony landmarks (external auditory meatus, shoulder acromion, greater trochanter, lateral malleolus)."
-    ],
-    "electrodePlacement": [],
-    "treatmentProcedure": [
-      "1. Guide the patient to stand in their natural, comfortable posture beside the vertical plumb line.",
-      "2. Lateral View Check: Verify the plumb line passes through the ear lobe, acromion, greater trochanter, slightly anterior to the knee axis, and slightly anterior to the lateral malleolus.",
-      "3. Upper Crossed Syndrome Core Correction: Instruct the patient to perform cervical retraction (chin tuck) to activate the deep neck flexors, while extending the thoracic spine.",
-      "4. Myofascial Release: Place a foam roller under the thoracic spine and have the patient roll gently for 2 minutes to mobilize the thoracic joints and relax tight posterior structures.",
-      "5. Pectoral Stretching: Stand behind the patient. Guide their arms into a door-frame stretch at 90 degrees abduction, holding for 30 seconds to stretch tight pectorals.",
-      "6. Lower Crossed Syndrome Correction: Instruct the patient to perform a posterior pelvic tilt to activate the rectus abdominis and gluteus maximus, reducing excessive lumbar lordosis.",
-      "7. Hip Flexor Stretching: Position the patient in a half-kneeling lunge. Instruct them to perform a posterior pelvic tilt and shift their weight forward to stretch tight iliopsoas muscles.",
-      "8. Flat Foot (Short Foot) Re-education: Have the patient sit barefoot. Instruct them to draw the metatarsal heads toward the calcaneus without curling the toes, activating the abductor hallucis to lift the medial arch.",
-      "9. Schroth Scoliosis Balancing (if indicated): Employ custom unilateral side-bending exercises combined with targeted rotational breathing to expand the collapsed concavity of the curve.",
-      "10. Ergonomic Workspace Integration: Instruct the patient on sitting mechanics: feet flat on the floor, hips and knees at 90 degrees, keyboard close to prevent shoulder protrusion, and monitor at eye level to prevent forward head posture."
-    ]
-  },
-  "precautions": [
-    "Avoid forcing rigid structural skeletal deformities; focus corrective exercises on the flexible, functional components of posture.",
-    "Monitor for radicular pain, numbness, or paresthesias during corrective spinal adjustments; immediately cease if symptoms reproduce.",
-    "Avoid pelvic or lumbar hyperextension during hip stretching, as this can increase facet joint compression and spinal shear."
-  ],
-  "clinicalPearls": [
-    "A postural 'Sway Back' is not hyper-lordotic. In a sway back posture, the pelvis is tilted posteriorly and shifted anteriorly, hyperextending the hips and causing a compensatory long thoracic kyphosis. Stretching the hip flexors in this profile is a critical error; instead, focus on strengthening the iliopsoas and stretching the tight hamstrings.",
-    "The chin-tuck exercise (cervical retraction) should not involve neck flexion. Retraction consists of translating the head posteriorly in the horizontal plane while keeping the eyes fixed forward on a level target, specifically targeting the rectus capitis anterior and longus colli.",
-    "The medial longitudinal arch of the foot is supported by both passive structures and active dynamic muscles. The abductor hallucis acts as the 'core' muscle of the foot; training it via 'short foot' exercises is essential to resolve kinetic chain dysfunctions of the knee and hip.",
-    "Posterior asymmetry of scapular inferior angles is often an early indicator of scoliosis or scapular dyskinesis."
-  ],
-  "clinicalProtocols": [
-    {
-      "condition": "Upper Crossed Postural Syndrome",
-      "position": "Upright seating or standing, utilizing wall support and posture mirrors",
-      "electrodePlacement": "None",
-      "frequency": "Daily sessions of 20 minutes",
-      "purpose": "Aims to stretch hyperactive pectorals and upper trapezius while strengthening weak deep neck flexors (longus colli) and lower scapular retractors."
-    }
-  ],
-  "vivaQuestions": [
-    "Question: Describe Janda's Upper Crossed Syndrome, detailing the hyperactive and inhibited muscle groups. | Answer: Upper Crossed Syndrome is a postural muscle imbalance pattern. Hyperactive (tight) muscle groups include the pectoralis major and minor, upper trapezius, and levator scapulae. Inhibited (weak) muscle groups include the deep neck flexors (longus colli and longus capitis), middle and lower trapezius, and serratus anterior. This imbalance results in forward head posture, rounded shoulders, and scapular winging. | Examiner Key Points: Vladimir Janda, tight upper trapezius/levator/pectoralis, weak deep neck flexors/lower trapezius, forward head/protracted shoulders. | Clinical Importance: Guides the clinician to stretch the hyperactive muscles and strengthen the inhibited targets."
-  ,
-    "Question: Describe Janda's Lower Crossed Syndrome, detailing the hyperactive and inhibited muscle groups. | Answer: Lower Crossed Syndrome is a postural muscle imbalance pattern of the pelvis and lower torso. Hyperactive (tight) muscle groups include the iliopsoas, rectus femoris, and lumbar erector spinae. Inhibited (weak) muscle groups include the rectus abdominis, obliques, and gluteus maximus/medius. This imbalance leads to an anterior pelvic tilt, excessive lumbar lordosis, and hip flexion deformity. | Examiner Key Points: Tight hip flexors/erector spinae, weak abdominals/gluteals, anterior pelvic tilt, hyper-lordosis posture. | Clinical Importance: Crucial for evaluating and treating postural low back pain and hip flexor contractures."
-  ,
-    "Question: Trace the vertical plumb line through its normal anatomical landmarks in optimal lateral (sagittal) posture. | Answer: In optimal posture, an imaginary vertical plumb line should pass directly through: 1. The external auditory meatus (ear lobe). 2. The shoulder acromion process. 3. The center of the mastoid process. 4. Directly through or slightly posterior to the greater trochanter of the femur. 5. Slightly anterior to the midline axis of the knee joint. 6. Slightly anterior to the lateral malleolus of the fibula. | Examiner Key Points: External auditory meatus, acromion, greater trochanter, anterior knee center, anterior lateral malleolus. | Clinical Importance: Provides a standard reference to quantify postural deviations in sagittal plane."
-  ,
-    "Question: Differentiate a postural 'Flat Back' from a 'Sway Back' alignment. | Answer: A 'Flat Back' posture is characterized by a loss of normal lumbar lordosis, causing a straight back profile, and is associated with a posterior pelvic tilt and hip extension. A 'Sway Back' posture is characterized by a posterior pelvic tilt coupled with an anterior translation of the pelvis relative to the ankles. This shifts the hips forward into extension, causing a long, compensatory thoracic kyphosis and forward head posture. | Examiner Key Points: Flat back (straight lumbar, posterior tilt), Sway back (posterior tilt with anterior hip shift, long thoracic kyphosis). | Clinical Importance: These two postures require completely different corrective exercise programs (e.g., trunk flexors vs hamstrings focus)."
-  ,
-    "Question: Explain structural versus functional scoliosis with a simple clinical bedside assessment. | Answer: Structural scoliosis is a rigid, three-dimensional spinal curvature that cannot be easily corrected. Functional scoliosis is a flexible lateral curvature caused by compensation (e.g., leg length discrepancy or protective muscle spasm). Under Adam's Forward Bend Test, if the rib hump and lateral curvature persist during forward flexion, it is structural. If the curvature resolves and the spine straightens, it is functional scoliosis. | Examiner Key Points: Structural (rigid, vertebral rotation), Functional (flexible, compensatory), Adam's Forward Bend Test, Rib hump behavior. | Clinical Importance: Identifies whether correction requires orthopedic bracing/surgery or physical therapy and stretching."
-  ,
-    "Question: What is the 'Short Foot' exercise of Janda and why is it used in corrective rehabilitation? | Answer: The 'Short Foot' exercise is designed to strengthen the intrinsic foot muscles, especially the abductor hallucis, which helps support the medial longitudinal arch. The barefoot patient is instructed to draw the metatarsal heads toward the calcaneus without warping or curling the toes, physically shortening the foot. This is used to correct flat foot (pes planus) and improve balance. | Examiner Key Points: Intrinsic foot strength, abductor hallucis, draw metatarsals to heel without toe curling, pes planus correction. | Clinical Importance: Rebuilds dynamic support for the foot arches, improving shock absorption and reducing kinetic chain dysfunctions of the lower limb."
-  ,
-    "Question: Explain Janda's theory regarding tonic and phasic muscle behaviors in postural pathology. | Answer: Dr. Vladimir Janda classified muscles based on their developmental and functional roles: Tonic muscles (e.g. gastrocnemius, iliopsoas, erector spinae, upper trapezius) are primarily involved in postural support. In response to stress or repetitive posture, they tend to become hyperactive, tight, and shortened. Phasic muscles (e.g. tibialis anterior, gluteal group, rectus abdominis, rhomboids, deep neck flexors) are primarily responsible for active movement; they tend to become inhibited, weak, and elongated under postural strain. | Examiner Key Points: Tonic (postural, tightens/shortens), Phasic (dynamic, weakens/inhibits), Janda's classification, specific muscle examples. | Clinical Importance: Directs the clinician to stretch the tonic structures before trying to strengthen the phasic structures."
-  ,
-    "Question: What is reciprocal inhibition, and how does it perpetuate postural deformities? | Answer: Reciprocal inhibition is a neural reflex pathway where motor signals that activate an agonist muscle simultaneously send inhibitory signals to its antagonist, relaxing it. In postural pathomechanics, a chronically tight, hyperactive muscle (e.g., iliopsoas) continuously inhibits its opposing muscle (e.g., gluteus maximus). This keeps the antagonist neurologically weak, preventing it from correcting the joint alignment. | Examiner Key Points: Agonist activation inhibits antagonist, neuromotor pathway, tight hip flexors/weak gluteals example, motor silencing. | Clinical Importance: Demonstrates why stretching tight structures is a necessary prerequisite to successfully strengthening weak, inhibited muscles."
-  ,
-    "Question: How do ergonomic principles for workstation layout prevent forward-head and rounded-shoulder postures? | Answer: Enforcing correct ergonomics: 1. Positioning the monitor directly in front, with the top of the screen at eye level to prevent forward head translation. 2. Keeping the keyboard and mouse close, allowing elbows to remain flexed at 90 degrees to prevent scapular protraction. 3. Providing adjustable lumbar support to encourage spinal extension and pelvic symmetry. 4. Positioning feet flat on the floor with hips and knees at 90 degrees to maintain stable pelvic alignment. | Examiner Key Points: Screen at eye level, keyboard close, 90-degree arm/leg posture, lumbar support, posture alignment. | Clinical Importance: Eliminates the repetitive, low-load postural micro-strains that drive muscle imbalances."
-  ,
-    "Question: What is structural Kyphosis and how does it differ from postural Kyphosis? | Answer: Postural Kyphosis is a flexible thoracic deviation caused by sustained slouched posture and weak scapular retractors, which resolves when the patient is instructed to stand up straight. Structural Kyphosis is a rigid deformity characterized by wedge-shaped vertebral bodies (Scheuermann's disease) or bony changes that cannot be corrected with active extension. | Examiner Key Points: Postural (flexible, muscle-driven), Structural (rigid, bony/wedge vertebral changes, Scheuermann's). | Clinical Importance: Informs the prognosis and guides the choice between exercise rehabilitation or orthopedic bracing.",
-    "Question: Describe the ideal plumb line landmarks observed from anterior, lateral, and posterior views. | Answer: From the anterior view, the head must be centered with the nose aligned directly with the sternum and chin level, clavicles and shoulders level, ASIS level, patellae facing directly forward, and equal medial malleolar spacing. From the lateral view, the plumb line passes through the earlobe, acromion process, mastoid process, greater trochanter, slightly anterior to the knee joint midline, and slightly anterior to the lateral malleolus. From the posterior view, the occipital protuberance and cervical spinous processes must be centered, scapulae and inferior angles level, the vertebral column centered with the gluteal cleft, popliteal creases level, and Achilles tendons vertical. | Examiner Key Points: Anterior view landmarks (nose, sternum, clavicles, ASIS, patellae, malleoli), lateral landmarks (earlobe, acromion, mastoid, trochanter, knee, lateral malleolus), posterior landmarks (occipital protuberance, spinous processes, scapulae level, gluteal cleft, popliteal crease, Achilles). | Clinical Importance: Standardizes clinical observation in all three anatomical planes to precisely localize asymmetric mechanical strains, joint misalignments, or leg-length discrepancies."
-  ],
-  "mcqs": [
-    {
-      "question": "Which of the following muscle groups is classified as 'tonic' by Janda, displaying a tendency toward hyperactivity and shortening?",
-      "options": ["Rhomboids", "Iliopsoas", "Gluteus Maximus", "Deep Cervical Flexors"],
-      "answer": "Iliopsoas",
-      "explanation": "The iliopsoas is a tonic postural muscle that tends to become hyperactive and shortened under static sitting strain, contributing to pelvic misalignment."
-    },
-    {
-      "question": "Which of the following muscle groups is classified as 'phasic' by Janda, showing a tendency toward inhibition and weakness?",
-      "options": ["Pectoralis Major", "Levator Scapulae", "Middle and Lower Trapezius", "Upper Trapezius"],
-      "answer": "Middle and Lower Trapezius",
-      "explanation": "The middle and lower trapezius are phasic muscles that tend to become inhibited, weak, and elongated in forward head and rounded shoulder postures."
-    },
-    {
-      "question": "In Vladimir Janda's Upper Crossed Syndrome, which of the following muscles is typically weak and elongated?",
-      "options": ["Upper Trapezius", "Pectoralis Minor", "Longus Colli (Deep neck flexor)", "Levator Scapulae"],
-      "answer": "Longus Colli (Deep neck flexor)",
-      "explanation": "The longus colli is a deep neck flexor that is inhibited and weak in Upper Crossed Syndrome, contributing to forward head posture."
-    },
-    {
-      "question": "Which muscle imbalance pattern characterizes Vladimir Janda's Lower Crossed Syndrome?",
-      "options": ["Tight Rhomboids crossing with tight Rectus Abdominis", "Tight Hip Flexors and Lumbar Erectors crossing with weak Abdominals and Gluteus Maximus", "Tight Gluteus Medius crossing with weak Quadratus Lumborum", "Tight Tibialis Anterior crossing with weak Gastrocnemius"],
-      "answer": "Tight Hip Flexors and Lumbar Erectors crossing with weak Abdominals and Gluteus Maximus",
-      "explanation": "Lower Crossed Syndrome features hyperactive tight hip flexors and lumbar erectors crossing with weak abdominals and gluteus maximus, causing excessive lordosis and pelvic asymmetry."
-    },
-    {
-      "question": "In optimal sagittal posture, the vertical postural plumb line should pass directly through which of the following landmarks?",
-      "options": ["Posterior to the greater trochanter", "Directly through the external auditory meatus and shoulder acromion", "Anterior to the patella", "Through the posterior superior iliac spine"],
-      "answer": "Directly through the external auditory meatus and shoulder acromion",
-      "explanation": "In optimal sagittal posture, the plumb line passes through the external auditory meatus (ear lobe), center of the shoulder acromion, and greater trochanter."
-    },
-    {
-      "question": "Which clinical assessment is standard to differentiate between structural and functional scoliosis?",
-      "options": ["Trendelenburg single-leg stand", "Adam's Forward Bend Test", "Romberg closed-eyes stand", "Thomas hip-flexion test"],
-      "answer": "Adam's Forward Bend Test",
-      "explanation": "Adam's Forward Bend Test is used to differentiate scoliosis. If a rib hump and lateral curvature persist during forward flexion, it is structural scoliosis."
-    },
-    {
-      "question": "A postural alignment characterized by a posterior pelvic tilt, anterior displacement of the hips, and a compensatory long thoracic kyphosis is termed:",
-      "options": ["Hyper-lordosis", "Flat Back", "Sway Back", "Structural Scoliosis"],
-      "answer": "Sway Back",
-      "explanation": "Sway Back is characterized by a posterior pelvic tilt, anterior pelvis shift, hip hyperextension, and a compensatory increase in thoracic kyphosis."
-    },
-    {
-      "question": "Which postural deformity is characterized by a flattened lumbar spine and a persistent posterior pelvic tilt?",
-      "options": ["Flat Back", "Sway Back", "Lordosis", "Thoracic Scoliosis"],
-      "answer": "Flat Back",
-      "explanation": "Flat Back is characterized by a loss of normal lumbar lordosis, causing a flat spinal profile and a posterior pelvic tilt."
-    },
-    {
-      "question": "The neurophysiological reflex pathway where hyperactive agonists send motor silencing signals to inhibit their opposing antagonists is termed:",
-      "options": ["Autogenic inhibition", "Reciprocal inhibition", "Successive induction", "Irradiation"],
-      "answer": "Reciprocal inhibition",
-      "explanation": "Reciprocal inhibition is a neural pathway where contraction of an agonist muscle reflexively inhibits its antagonist, reducing antagonist tone."
-    },
-    {
-      "question": "Which of the following exercises is designed to strengthen the abductor hallucis to support the medial longitudinal arch in Pes Planus?",
-      "options": ["Passive Achilles stretch", "Resisted ankle eversion", "Janda's Short Foot exercise", "Single-leg toe raises"],
-      "answer": "Janda's Short Foot exercise",
-      "explanation": "The short foot exercise targets the abductor hallucis to help restore the medial longitudinal arch in pes planus."
-    },
-    {
-      "question": "A patient with Upper Crossed Syndrome presents with chronic tension headaches. Which muscle group should be actively stretched first?",
-      "options": ["Longus colli", "Middle and lower trapezius", "Upper trapezius and levator scapulae", "Serratus anterior"],
-      "answer": "Upper trapezius and levator scapulae",
-      "explanation": "Upper Crossed Syndrome features hyperactive upper trapezius and levator scapulae. Stretching these tight muscles is essential to relieve tension headaches."
-    },
-    {
-      "question": "To perform Janda's 'Short Foot' exercise correctly, the patient should:",
-      "options": ["Curl the toes upward", "Curl the toes downward under the foot", "Intentionally shorten the foot by drawing the metatarsals toward the heel without curling the toes", "Hold the foot in passive eversion"],
-      "answer": "Intentionally shorten the foot by drawing the metatarsals toward the heel without curling the toes",
-      "explanation": "The short foot exercise draws the metatarsal heads toward the calcaneus without flexing or curling the toes, activating the intrinsic arch muscles."
-    },
-    {
-      "question": "An abnormal anterior curvature of the lumbar spine, often associated with an anterior pelvic tilt, is clinically defined as:",
-      "options": ["Scoliosis", "Kyphosis", "Lordosis", "Flat Back"],
-      "answer": "Lordosis",
-      "explanation": "Lordosis is an excessive anterior curvature of the lumbar (or cervical) spine, typically associated with an anterior pelvic tilt."
-    },
-    {
-      "question": "To stretch a tight Iliopsoas muscle in a patient with Lower Crossed Syndrome, which starting posture is most effective?",
-      "options": ["Supine with both knees flexed to chest", "Half-kneeling lunge with a posterior pelvic tilt", "Standing with knees locked in hip hyperextension", "Prone lying with a pillow under the stomach"],
-      "answer": "Half-kneeling lunge with a posterior pelvic tilt",
-      "explanation": "A half-kneeling lunge with a posterior pelvic tilt stabilizes the pelvis, maximizing the stretch on the iliopsoas."
-    },
-    {
-      "question": "Which muscle is typically hyperactive and tight in patients presenting with Lordosis and an anterior pelvic tilt?",
-      "options": ["Rectus Abdominis", "Gluteus Maximus", "Rectus Femoris", "Tibialis Anterior"],
-      "answer": "Rectus Femoris",
-      "explanation": "The rectus femoris is a hip flexor and pelvic stabilizer that is hyperactive and tight in Lower Crossed Syndrome, contributing to anterior pelvic tilt."
-    },
-    {
-      "question": "A patient with forward head posture exhibits severe tightness in the suboccipital muscles. Corrective stretching of these muscles should be paired with:",
-      "options": ["Stretching the longus colli", "Active neck hyperextension", "Cervical retraction (chin tuck) strengthening", "Rhomboid mobilization"],
-      "answer": "Cervical retraction (chin tuck) strengthening",
-      "explanation": " pairing cervical retraction (which strengthens the deep cervical flexors) with suboccipital stretching is crucial to correct forward head posture."
-    },
-    {
-      "question": "Under ergonomic guidelines, what is the optimal monitor height to prevent cervical fatigue and forward head posture?",
-      "options": ["Top of the screen positioned at or slightly below eye level", "The entire screen placed 10 inches below the chin", "Aligned at 45 degrees relative to the gaze", "Higher than the head, forcing neck hyperextension"],
-      "answer": "Top of the screen positioned at or slightly below eye level",
-      "explanation": "Aligning the top of the monitor at or slightly below eye level helps maintain a neutral cervical spine, preventing forward head translation."
-    },
-    {
-      "question": "Which muscle is a primary postural dynamic stabilizer of the scapula, preventing winging and protraction?",
-      "options": ["Pectoralis Major", "Serratus Anterior", "Levator Scapulae", "Latissimus Dorsi"],
-      "answer": "Serratus Anterior",
-      "explanation": "The serratus anterior stabilizes the scapula against the ribcage; weakness can result in scapular winging."
-    },
-    {
-      "question": "Under Janda's muscle classification, which of the following is categorized as a dynamic 'phasic' muscle?",
-      "options": ["Gastrocnemius", "Erector Spinae", "Gluteus Maximus", "Biceps Femoris"],
-      "answer": "Gluteus Maximus",
-      "explanation": "The gluteus maximus is a phasic muscle that is prone to inhibition and weakness under postural strain or prolonged sitting."
-    },
-    {
-      "question": "A structural thoracic scoliosis in coronal viewing will present with which pathomechanical vertebral change?",
-      "options": ["Vertebral bodies rotating toward the convexity of the curve", "Vertebral bodies rotating toward the concavity of the curve", "No rotation", "Anterior body subluxation"],
-      "answer": "Vertebral bodies rotating toward the convexity of the curve",
-      "explanation": "In structural scoliosis, vertebral bodies rotate toward the convexity of the curve, which pushes the ribs posteriorly to form a rib hump."
-    },
-    {
-      "question": "Which muscle group should be strengthened in a patient presenting with an excessive anterior pelvic tilt and weak gluteals?",
-      "options": ["Iliopsoas", "Erector Spinae", "Rectus Abdominis", "Gastrocnemius"],
-      "answer": "Rectus Abdominis",
-      "explanation": "Strengthening the rectus abdominis assists in controlling pelvic alignment, counteracting the anterior pull of muscle imbalances."
-    },
-    {
-      "question": "What primary pelvic alignment shift occurs when an individual stands wearing high-heeled footwear?",
-      "options": ["Posterior pelvic tilt", "Anterior pelvic tilt with increased lumbar lordosis", "Lateral pelvic drop on the left side", "Loss of all cervical spinal curvatures"],
-      "answer": "Anterior pelvic tilt with increased lumbar lordosis",
-      "explanation": "High heels shift the center of mass forward, forcing an anterior pelvic tilt and compensatory lumbar lordosis to maintain upright balance."
-    },
-    {
-      "question": "Which test evaluates muscle tightness of the hip flexors, particularly the Iliopsoas and Rectus Femoris?",
-      "options": ["Trendelenburg Test", "Thomas Test", "Ober's Test", "Ely's Test"],
-      "answer": "Thomas Test",
-      "explanation": "The Thomas Test is used to evaluate hip flexor tightness, distinguishing between iliopsoas and rectus femoris involvement."
-    },
-    {
-      "question": "Which spinal pathology features structural vertebral wedging and is characterized by a rigid, hyper-kyphotic thoracic curvature?",
-      "options": ["Postural Kyphosis", "Scheuermann's Disease", "Lordosis deviation", "Scoliotic spasm"],
-      "answer": "Scheuermann's Disease",
-      "explanation": "Scheuermann's Disease is a structural kyphosis characterized by wedge-shaped thoracic vertebrae and a rigid curvature."
-    },
-    {
-      "question": "To perform ergonomic keyboard adjustments, where should the elbows be positioned relative to the trunk?",
-      "options": ["Fully extended out in front of the body", "Flexed to 90 degrees and positioned close to the sides of the trunk", "Flexed to 140 degrees with elevated shoulders", "Abducted laterally to 45 degrees"],
-      "answer": "Flexed to 90 degrees and positioned close to the sides of the trunk",
-      "explanation": "Keeping elbows flexed to 90 degrees close to the body maintains a neutral position, minimizing wrist and shoulder strain."
-    },
-    {
-      "question": "An over-lengthened posture muscle experiences what change according to the length-tension curve?",
-      "options": ["Acitin and Myosin cross-bridges overlap excessively, generating high passive spasm", "Decreased voluntary active force generation because of suboptimal overlap of actin-myosin interfaces", "An increase in mechanical leverage", "Elimination of muscle motor spindles"],
-      "answer": "Decreased voluntary active force generation because of suboptimal overlap of actin-myosin interfaces",
-      "explanation": "Over-lengthened muscles have reduced actin-myosin overlap, which impairs active force generation and contributes to weakness."
-    },
-    {
-      "question": "In a patient presenting with forward head posture, which muscle is typically hyper-stretched, elongated, and weak?",
-      "options": ["Levator Scapulae", "Middle Trapezius", "Sternocleidomastoid", "Serratus Anterior"],
-      "answer": "Middle Trapezius",
-      "explanation": "Chronic forward head posture often leads to elongation and weakness of the scapular retractors, such as the middle trapezius."
-    },
-    {
-      "question": "Which pelvic landmark alignment change is characteristic of Lower Crossed Syndrome?",
-      "options": ["Pelvis remains unchanged", "Pelvic drop on the contralateral side", "Anterior pelvic tilt", "Posterior pelvic tilt with flat back curves"],
-      "answer": "Anterior pelvic tilt",
-      "explanation": "Lower Crossed Syndrome features hyperactive hip flexors that pull the anterior pelvis downward, resulting in an anterior pelvic tilt."
-    },
-    {
-      "question": "Which corrective exercise is primary for strengthening the lower fibers of the Serratus Anterior?",
-      "options": ["Heavy bench-press", "Wall slides / punch-outs in scapular plane", "Active chin tuck", "Cervical hyperextension stretching"],
-      "answer": "Wall slides / punch-outs in scapular plane",
-      "explanation": "Wall slides and punch-outs engage the serratus anterior, promoting stable scapular rotation and winging prevention."
-    },
-    {
-      "question": "Under Janda's Upper Crossed profile, rounded shoulders are primarily a result of tightness in which myofascial structures?",
-      "options": ["Rhomboids", "Pectoralis Major and Minor", "Longus Capitis", "Lower Trapezius"],
-      "answer": "Pectoralis Major and Minor",
-      "explanation": "Tightness in the pectorals pulls the scapula forward into protraction, resulting in a rounded shoulder posture."
-    },
-    {
-      "question": "Which of the following is an ideal posterior landmark used to assess symmetry during a postural plumb line assessment?",
-      "options": [
-        "Head centered with the nose aligned directly to the sternum",
-        "The external auditory meatus aligned over the shoulder acromion",
-        "Symmetrical position of the scapulae with inferior angles level",
-        "The patella facing directly forward in neutral position"
-      ],
-      "answer": "Symmetrical position of the scapulae with inferior angles level",
-      "explanation": "Scapular symmetry with level inferior angles is a key posterior alignment landmark. Nose/sternum alignment and patellar orientation are anterior landmarks, while the external auditory meatus is evaluated in the lateral view."
-    }
-  ],
-  "reference": [
-    "Florence Kendall - Muscles: Testing and Function with Posture and Pain",
-    "Carolyn Kisner & Lynn Allen Colby - Therapeutic Exercise: Foundations and Techniques",
-    "S. Lakshmi Narayanan - Textbook of Therapeutic Exercises"
-  ]
+    "viva": [],
+    "flashcards": [],
+    "references": []
 }

@@ -1,0 +1,480 @@
+metadata:
+  chapterId: anat_ch16
+  title: Bones and Joints of the Thorax
+  subject: Anatomy
+  subjectId: anatomy
+  version: '1.0'
+  lastUpdated: '2026-06-25'
+  difficulty: Medium
+  estimatedStudyTime: 60
+  keywords: []
+  tags: []
+  status: published
+learningObjectives: []
+theory:
+  definitions:
+  - 'Chapter Overview: This chapter reviews the bony elements making up the thorax
+    and their articulations, highlighting rib classification and thoracic spine mobility.'
+  - 'Bones of Thorax: Comprise the 12 thoracic vertebrae, the 12 pairs of ribs, and
+    the sternum.'
+  - 'Rib Classification: Classified as True ribs (1st to 7th, attach directly to the
+    sternum), False ribs (8th to 10th, attach to the cartilage above), and Floating
+    ribs (11th and 12th, end in the abdominal musculature).'
+  coreConcepts:
+  - 'Thoracic Vertebrae: Characterized by costal facets on the bodies and transverse
+    processes for articulation with heads and tubercles of ribs.'
+  - 'Rib Anatomy: Each typical rib has a head (articulating with adjacent vertebrae),
+    a neck, a tubercle (articulating with the transverse process), and a shaft with
+    a costal groove on its internal inferior border.'
+  - 'Joints of Thorax: Includes costovertebral joints (synovial, slide/rotate during
+    breathing), costochondral joints (cartilaginous, no movement), and sternocostal
+    joints.'
+  equipment:
+  - Disarticulated ribs model
+  - Goniometer for back extension checks
+  - Thoracic spine model with cartilage
+clinicalCorrelations:
+  pearls:
+  - 'Costochondritis: Inflammation of the costal cartilage causing localized anterior
+    chest wall pain, often mimicking angina/cardiac conditions.'
+  - 'Rib Fractures: Most commonly occur at the angle of the rib, which is its weakest
+    point.'
+  precautions: []
+  indications: []
+  contraindications:
+    general: []
+    local: []
+  technique:
+    patientPreparation: []
+    apparatusPreparation: []
+    skinPreparation: []
+    electrodePlacement: []
+    treatmentProcedure: []
+  protocols: []
+  physiologicalEffects: []
+clinicalCases: []
+mcqs:
+- id: mcq_anat_ch16_001
+  question: Which of the following is considered a typical rib?
+  options:
+  - 1st rib
+  - 2nd rib
+  - 5th rib
+  - 12th rib
+  answer: 5th rib
+  explanation: Ribs 3 to 9 are classic typical ribs, possess a head with two articular
+    facets, a neck, a tubercle, and a shaft with a costal groove.
+- id: mcq_anat_ch16_002
+  question: What is the weakest anatomical point of a rib?
+  options:
+  - The head
+  - The neck
+  - The tubercle
+  - The angle of the shaft
+  answer: The angle of the shaft
+  explanation: The angle of the rib is its weakest part, where it turns sharply forward.
+    Most rib fractures occur here.
+- id: mcq_anat_ch16_003
+  question: Which of the following structures rests directly in the groove anterior
+    to the scalene tubercle of the first rib?
+  options:
+  - Subclavian vein
+  - Subclavian artery
+  - Lower trunk of brachial plexus
+  - Sympathetic trunk
+  answer: Subclavian vein
+  explanation: The subclavian vein runs anterior to the scalene tubercle, while the
+    subclavian artery lies posterior to it.
+- id: mcq_anat_ch16_004
+  question: Which ribs are classified as floating ribs?
+  options:
+  - 1st and 2nd
+  - 8th, 9th, and 10th
+  - 11th and 12th
+  - 7th and 8th
+  answer: 11th and 12th
+  explanation: Ribs 11 and 12 are floating ribs, ending in the abdominal musculature
+    with no cartilaginous connection to the sternum.
+- id: mcq_anat_ch16_005
+  question: At which joint does the head of a typical rib articulate with the vertebral
+    column?
+  options:
+  - Costovertebral joint
+  - Costotransverse joint
+  - Sternocostal joint
+  - Interchondral joint
+  answer: Costovertebral joint
+  explanation: The articulation of the rib head with the vertebral body facets forms
+    the costovertebral joint.
+- id: mcq_anat_ch16_006
+  question: The tubercle of a typical rib articulates with which part of its corresponding
+    thoracic vertebra?
+  options:
+  - Transverse process
+  - Spinous process
+  - Superior articular process
+  - Vertebral body
+  answer: Transverse process
+  explanation: The costotransverse joint is formed by the articulation of the rib
+    tubercle with the facet on the transverse process of the same vertebra.
+- id: mcq_anat_ch16_007
+  question: Which of the following is a feature of the second rib?
+  options:
+  - Tuberosity for serratus anterior
+  - Scalene tubercle
+  - No costal groove
+  - Only one articular facet on head
+  answer: Tuberosity for serratus anterior
+  explanation: The second rib is atypical because its superior-exterior surface features
+    a prominent tuberosity for the origin of the serratus anterior muscle.
+- id: mcq_anat_ch16_008
+  question: The costal groove of a rib faces in which direction?
+  options:
+  - Internal and inferior
+  - External and superior
+  - Internal and superior
+  - Posterior and superior
+  answer: Internal and inferior
+  explanation: The costal groove is found at the lower (inferior) aspect of the internal
+    surface of the rib shaft.
+- id: mcq_anat_ch16_009
+  question: Which of the following is a primary cartilaginous joint of the thorax?
+  options:
+  - Costochondral joint
+  - Costotransverse joint
+  - Manubriosternal joint
+  - Interchondral joint of 8th and 9th ribs
+  answer: Costochondral joint
+  explanation: Costochondral joints are synchondroses (primary cartilaginous joints)
+    that completely lack movement.
+- id: mcq_anat_ch16_010
+  question: Which muscular element attaches to the scalene tubercle of the first rib?
+  options:
+  - Scalenus anterior
+  - Scalenus medius
+  - Scalenus posterior
+  - Serratus anterior
+  answer: Scalenus anterior
+  explanation: The scalene tubercle on the inner border of the first rib serves as
+    the insertion site for the scalenus anterior muscle.
+- id: mcq_anat_ch16_011
+  question: How many articular facets are on the head of the 11th rib?
+  options:
+  - One
+  - Two
+  - Three
+  - None
+  answer: One
+  explanation: The 11th and 12th ribs are atypical; they articulate with only a single
+    vertebra, so their heads contain only one facet.
+- id: mcq_anat_ch16_012
+  question: The xiphoid process typically ossifies and fuses with the body of the
+    sternum around what age?
+  options:
+  - 40 years
+  - 20 years
+  - 10 years
+  - 60 years
+  answer: 40 years
+  explanation: The xiphisternal joint is a primary cartilaginous joint that typically
+    ossifies to form a synostosis around age 40.
+- id: mcq_anat_ch16_013
+  question: Which of the following ribs does NOT have a costal groove?
+  options:
+  - 12th rib
+  - 5th rib
+  - 7th rib
+  - 9th rib
+  answer: 12th rib
+  explanation: The 12th rib is short, thin, and atypical; it lacks both a neck, a
+    tubercle, and a costal groove.
+- id: mcq_anat_ch16_014
+  question: The sternocostal joint of the first rib is of what structural variety?
+  options:
+  - Primary cartilaginous joint
+  - Synovial plane joint
+  - Secondary cartilaginous joint
+  - Saddle joint
+  answer: Primary cartilaginous joint
+  explanation: The 1st sternocostal joint is an immobile synchondrosis, whereas the
+    2nd to 7th are synovial joints.
+- id: mcq_anat_ch16_015
+  question: Which of the following thoracic vertebrae is considered atypical because
+    it contains only a single costal facet on each side of its body?
+  options:
+  - T12
+  - T5
+  - T6
+  - T8
+  answer: T12
+  explanation: T12 (similar to T11 and T1) has only a single whole facet on each side
+    of its body for its corresponding rib.
+- id: mcq_anat_ch16_016
+  question: The radiate ligament is associated with which joint of the thorax?
+  options:
+  - Costovertebral joint
+  - Costochondral joint
+  - Sternoclavicular joint
+  - Intervertebral Joint
+  answer: Costovertebral joint
+  explanation: The radiate ligament reinforces the fibrous capsule of the costovertebral
+    joint of the head of the rib.
+- id: mcq_anat_ch16_017
+  question: Which ligament is divided into superior, inferior, and posterior parts
+    to stabilize the costotransverse joint?
+  options:
+  - Costotransverse ligament
+  - Radiate ligament
+  - Sternocostal ligament
+  - Interchondral ligament
+  answer: Costotransverse ligament
+  explanation: The costotransverse ligaments link the neck of the rib to the transverse
+    process of the vertebra.
+- id: mcq_anat_ch16_018
+  question: The manubriosternal joint lies at the level of which of the following
+    landmarks?
+  options:
+  - Sternal angle of Louis
+  - Suprasternal notch
+  - Xiphisternal joint
+  - Costal margin
+  answer: Sternal angle of Louis
+  explanation: The manubriosternal joint forms the palpable ridge known as the sternal
+    angle.
+- id: mcq_anat_ch16_019
+  question: Which rib articular facet matches with the superior demifacet of the thoracic
+    vertebra below it?
+  options:
+  - Inferior facet of the head of typical rib
+  - Superior facet of the head of typical rib
+  - Articular facet of rib tubercle
+  - Articular facet of neck
+  answer: Inferior facet of the head of typical rib
+  explanation: The inferior articular facet of the head of a typical rib articulates
+    with the superior demifacet of its corresponding vertebra.
+- id: mcq_anat_ch16_020
+  question: 'The condition costochondritis is also known in clinical medicine as:'
+  options:
+  - Tietze's Syndrome
+  - Thoracic Outlet Syndrome
+  - Scheuermann's disease
+  - Pott's disease
+  answer: Tietze's Syndrome
+  explanation: Costochondritis associated with localized swelling of the costal cartilage
+    is called Tietze's Syndrome.
+- id: mcq_anat_ch16_021
+  question: Which of the following statements is true regarding the first rib?
+  options:
+  - It is bi-convex
+  - It has no angle
+  - It has a sharp inferior border
+  - It has a long, slender body
+  answer: It has no angle
+  explanation: The first rib is so strongly curved that its head is not twisted relative
+    to the shaft, meaning it lacks a true angle.
+- id: mcq_anat_ch16_022
+  question: The costal cartilages of the 8th, 9th, and 10th ribs join with which of
+    the following structures?
+  options:
+  - Costal cartilage of the 7th rib
+  - Sternal angle
+  - Manubrium sterni
+  - Body of sternum
+  answer: Costal cartilage of the 7th rib
+  explanation: These costal cartilages (false ribs) articulate with the cartilage
+    of the next superior rib, forming the subcostal margin.
+- id: mcq_anat_ch16_023
+  question: A fracture of the body of the sternum can easily damage which underlying
+    structure?
+  options:
+  - Right ventricle of heart
+  - Tracheal bifurcation
+  - Azygous vein
+  - Thymus gland only
+  answer: Right ventricle of heart
+  explanation: The right ventricle of the heart lies immediately posterior to the
+    sternum and is vulnerable to blunt sternal trauma.
+- id: mcq_anat_ch16_024
+  question: Costotransverse joints belong to which structural category of joints?
+  options:
+  - Synovial joints
+  - Fibrous syndesmoses
+  - Primary cartilaginous joints
+  - Secondary cartilaginous joints
+  answer: Synovial joints
+  explanation: Costotransverse joints are synovial joints facilitating the rotational
+    and gliding movements of respiration.
+- id: mcq_anat_ch16_025
+  question: Which of the following is correct regarding atypical ribs?
+  options:
+  - 1st rib has no tubercle
+  - 2nd rib has a scalene tubercle
+  - 10th rib has only one facet on head
+  - 12th rib has an articular facet on tubercle
+  answer: 10th rib has only one facet on head
+  explanation: The head of the 10th rib has a single whole facet for articulation
+    with T10.
+- id: mcq_anat_ch16_026
+  question: The joint between the costal cartilages of the 6th, 7th, 8th, and 9th
+    ribs belongs to which category?
+  options:
+  - Interchondral joint
+  - Costovertebral joint
+  - Costochondral joint
+  - Sternocostal joint
+  answer: Interchondral joint
+  explanation: The joints between adjacent costal cartilages along the costal margin
+    are known as interchondral joints.
+- id: mcq_anat_ch16_027
+  question: The sternum is composed of how many segment lines (sternebrae) in early
+    embryonic life?
+  options:
+  - Six
+  - Three
+  - Four
+  - Five
+  answer: Six
+  explanation: The sternum develops from six primary cartilaginous sections (manubrium,
+    4 sternebrae segments of body, and xiphoid).
+- id: mcq_anat_ch16_028
+  question: At which point is a chest tube inserted for a hemothorax to avoid rib
+    structures?
+  options:
+  - Superior border of the lower rib
+  - Inferior border of the upper rib
+  - Directly through the rib center
+  - Angle of the rib
+  answer: Superior border of the lower rib
+  explanation: To protect the intercostal neurovascular bundle in the costal groove,
+    needles and tubes must glide over the superior border of the rib below.
+- id: mcq_anat_ch16_029
+  question: The xiphisternal joint lies at the level of which thoracic vertebra body?
+  options:
+  - T9
+  - T12
+  - T6
+  - T10
+  answer: T9
+  explanation: The xiphisternal joint lies at the level of the T9 vertebra body, marking
+    the bottom of the anterior chest wall.
+- id: mcq_anat_ch16_030
+  question: Which of the following ligaments links the sternum to the costal cartilages?
+  options:
+  - Radiate sternocostal ligaments
+  - Costotransverse ligaments
+  - Interchondral ligaments
+  - Intra-articular ligaments
+  answer: Radiate sternocostal ligaments
+  explanation: The radiate sternocostal ligaments reinforce the fibrous capsules of
+    the sternocostal articulations.
+viva:
+- id: viva_anat_ch16_001
+  question: Differentiate between true, false, and floating ribs with examples of
+    each.
+  answer: True ribs (1-7) attach directly to sternum via costal cartilages. False
+    ribs (8-10) attach to the cartilage of the rib above (forming costal margin).
+    Floating ribs (11-12) have no sternal attachment, ending in abdominal muscles.
+  keyPoints: Attachment criteria, specific pairs.
+  clinicalImportance: Floating ribs are less stable and vulnerable to trauma causing
+    visceral injuries.
+- id: viva_anat_ch16_002
+  question: What nerve runs along the costal groove, and what is the clinical implication
+    of its location?
+  answer: The intercostal nerve (together with the intercostal vein and artery in
+    a VAN bundle) runs in the costal groove along the lower internal border of each
+    rib.
+  keyPoints: Intercostal nerve, VAN bundle, costal groove placement.
+  clinicalImportance: Needle insertions (e.g. thoracocentesis) must be performed over
+    the superior border of a rib to avoid damaging these structures.
+- id: viva_anat_ch16_003
+  question: 'Identify the characteristics of a typical rib versus an atypical rib.|
+    Answer: Typical ribs (3rd to 9th) have a head with two facets, a neck, a tubercle
+    with articular facet, and a shaft with a costal groove. Atypical ribs (1st, 2nd,
+    10th, 11th, 12th) lack one or more of these features; for example, the 1st rib
+    is short, flat, has no angle or costal groove, and features a scalene tubercle.|
+    Examiner Key Points: 3-9 typical, 1, 2, 10, 11, 12 atypical, facets count.| Clinical
+    Importance: Identifying landmarks on typical and atypical ribs is vital for thoracic
+    radiology and surgical approaches.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch16_004
+  question: 'Describe the articulations of the head and tubercle of a typical rib
+    with the vertebral column.| Answer: The head articulates with the costal facet
+    of its corresponding vertebra and the vertebra above (forming costovertebral joint).
+    The tubercle articulates with the transverse process facet of its corresponding
+    vertebra (forming costotransverse joint).| Examiner Key Points: Costovertebral
+    joint, costotransverse joint, corresponding vs superior vertebra.| Clinical Importance:
+    Facilitates the coordinated bucket-handle and pump-handle breathing movements.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch16_005
+  question: 'What is unique about the first rib''s anatomy and relations?| Answer:
+    It is the flattest, shortest, and most curved rib. It has superior and inferior
+    surfaces instead of medial and lateral borders. Its superior surface features
+    a scalene tubercle, separating grooves for the subclavian vein anteriorly and
+    subclavian artery/lower trunk of brachial plexus posteriorly.| Examiner Key Points:
+    Scalene tubercle, subclavian artery posterior, subclavian vein anterior.| Clinical
+    Importance: Compression here leads to arterial or neural thoracic outlet syndromes.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch16_006
+  question: 'Describe the parts of the sternum and their vertebral levels.| Answer:
+    Consists of the manubrium (T3-T4), the body (T5-T9), and the xiphoid process (T10).|
+    Examiner Key Points: Manubrium, body, xiphoid, corresponding T3 to T10 levels.|
+    Clinical Importance: The xiphoid is prone to fracture during incorrect CPR chest
+    compressions.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch16_007
+  question: 'Explain costochondral joints.| Answer: Primary cartilaginous joints (synchondroses)
+    where the anterior bony end of the rib meets its hyaline costal cartilage. No
+    movement occurs.| Examiner Key Points: Primary cartilaginous, rib-cartilage junction,
+    no mobility.| Clinical Importance: Can be involved in systemic costochondritis
+    or costitis.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch16_008
+  question: 'What is a floating rib fracture danger?| Answer: Since the 11th and 12th
+    ribs have no anterior attachments, fractures can drive their sharp ends inwards,
+    lacerating the kidneys or spleen.| Examiner Key Points: 11th/12th ribs, kidney
+    or spleen laceration.| Clinical Importance: Abdominal/pelvic pain after lower
+    rib trauma requires renal scans.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch16_009
+  question: 'Describe the movements allowed at the joint of the head of the rib.|
+    Answer: Slight gliding and rotation, regulated by the intra-articular and radiate
+    ligaments.| Examiner Key Points: Gliding, rotation, radiate ligament.| Clinical
+    Importance: Mobilization of these joints can relieve functional chest expansion
+    deficits.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+- id: viva_anat_ch16_010
+  question: 'What is the sternal angle of Louis and what joints form it?| Answer:
+    The junction of the manubrium and body of the sternum. It forms a symphysis (secondary
+    cartilaginous joint) that allows slight AP hinge movement during deep breathing.|
+    Examiner Key Points: Manubriosternal symphysis, breathing hinge movement.| Clinical
+    Importance: Acts as the prime physical guide to count ribs.'
+  answer: ''
+  keyPoints: ''
+  clinicalImportance: ''
+flashcards: []
+pyqs: []
+references:
+- 'B.D. Chaurasia - Human Anatomy (Volume 1: Upper Limb and Thorax, Section on Bones
+  & Joints of Thorax)'
+- 'Vishram Singh - Textbook of Anatomy: Upper Limb and Thorax (Volume 1, Chapter on
+  Thoracic Skeleton)'
+subjectExtensions:
+  anatomy:
+    parameters:
+      TrueRibsCount: 7 pairs
+      FalseRibsCount: 3 pairs
+      FloatingRibsCount: 2 pairs

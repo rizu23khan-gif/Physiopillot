@@ -1,82 +1,54 @@
 {
-  "subject": "Exercise Therapy I",
-  "chapterId": "ex1_ch5",
-  "chapterName": "Relaxation Techniques",
-  "definition": [
-    "Relaxation Techniques: Therapeutic manual, positioning, or behavioral protocols designed to reduce mental of muscular tension."
-  ],
-  "principle": [
-    "Autonomic Downregulation: Decreasing somatic motor neuron drive and sympathetic tone while accentuating parasympathetic pathways."
-  ],
-  "equipment": [
-    "Comfortable treatment plinth, supportive pillows, and quiet room environments."
-  ],
-  "parameters": {
-    "intensity": "Non-stressful, calming focus",
-    "duration": "15 to 30 minutes",
-    "frequency": "Daily",
-    "repetitions": "1 session"
-  },
-  "physiologicalEffects": [
-    {
-      "effect": "Somatic motor neuron inhibition",
-      "frequency": "During and immediately after sessions",
-      "mechanism": [
-        "Inhibits voluntary somatic pathways, relaxing resting motor units."
-      ]
-    }
-  ],
-  "indications": [
-    "General stress, protective muscle guarding, chronic pain syndromes."
-  ],
-  "contraindications": {
-    "general": [
-      "Severe psychiatric acute distress, active localized pathology."
+    "metadata": {
+        "chapterId": "",
+        "title": "",
+        "subject": "",
+        "keywords": [],
+        "tags": []
+    },
+    "theory": {
+        "definitions": [],
+        "coreConcepts": [],
+        "equipment": []
+    },
+    "clinicalCorrelations": {
+        "pearls": [],
+        "precautions": [],
+        "indications": [],
+        "contraindications": {
+            "general": [],
+            "local": []
+        },
+        "technique": {
+            "patientPreparation": [],
+            "apparatusPreparation": [],
+            "skinPreparation": [],
+            "electrodePlacement": [],
+            "treatmentProcedure": []
+        },
+        "protocols": [],
+        "physiologicalEffects": []
+    },
+    "subjectExtensions": {
+        "anatomy": {
+            "parameters": {}
+        }
+    },
+    "clinicalCases": [],
+    "mcqs": [
+        {
+            "question": "What is the primary neurophysiological mechanism behind PMR?",
+            "options": [
+                "Gamma motor neuron activation",
+                "Somatic neuromotor awareness",
+                "Autogenic vascular shunting",
+                "Sympathetic nervous acceleration"
+            ],
+            "answer": "Somatic neuromotor awareness",
+            "explanation": "Jacobson's PMR technique enhances somatic neuromotor awareness by contrasting high muscular tension with complete relaxation."
+        }
     ],
-    "local": [
-      "Unhealed regional fractures or localized lesions."
-    ]
-  },
-  "technique": {
-    "patientPreparation": [
-      "Position patient supine with back and limbs fully supported."
-    ],
-    "apparatusPreparation": [
-      "Place pillows beneath head, under knees, and beside forearms."
-    ],
-    "skinPreparation": [],
-    "electrodePlacement": [],
-    "treatmentProcedure": [
-      "Instruct patient to systematically tense specific muscle groups for 5 seconds, then fully release and relax for 15 seconds."
-    ]
-  },
-  "precautions": [
-    "Avoid sudden change of position to prevent orthostatic hypotension."
-  ],
-  "clinicalPearls": [
-    "Providing a quiet, temperature-controlled environment prevents ambient distractions and allows the patient's autonomic nervous system to shift safely into a parasympathetic restful dominant state."
-  ],
-  "clinicalProtocols": [
-    {
-      "condition": "Acute Stress with Muscle Tension",
-      "position": "Reclined with knee support pillow",
-      "electrodePlacement": "None",
-      "frequency": "3 times per week, 20 minutes",
-      "purpose": "To decrease generalized muscle guarding and somatic hypersensitivity."
-    }
-  ],
-  "vivaQuestions": [
-    "Question: Describe Jacobson's Progressive Muscle Relaxation (PMR) technique. | Answer: PMR involves tensing and then relaxing specific muscle groups in a systematic sequence to cultivate awareness of active somatosensory states. | Examiner Key Points: Contrast tension and relaxation, sequential muscle groups. | Clinical Importance: Widely used to reduce anxiety-induced tension."
-  ],
-  "mcqs": [
-    {
-      "question": "What is the primary neurophysiological mechanism behind PMR?",
-      "options": ["Gamma motor neuron activation", "Somatic neuromotor awareness", "Autogenic vascular shunting", "Sympathetic nervous acceleration"],
-      "answer": "Somatic neuromotor awareness",
-      "explanation": "Jacobson's PMR technique enhances somatic neuromotor awareness by contrasting high muscular tension with complete relaxation."
-    }
-  ],
-  "reference": [
-    "M. Dena Gardiner - Principles Of Exercise Therapy"
-  ]
+    "viva": [],
+    "flashcards": [],
+    "references": []
 }

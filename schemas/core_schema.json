@@ -1,0 +1,299 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MasterChapter",
+  "type": "object",
+  "required": [
+    "metadata",
+    "learningObjectives",
+    "theory",
+    "clinicalCorrelations",
+    "mcqs",
+    "viva",
+    "references"
+  ],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": [
+        "chapterId",
+        "title",
+        "subject",
+        "subjectId",
+        "version",
+        "lastUpdated",
+        "status"
+      ],
+      "properties": {
+        "chapterId": { "type": "string" },
+        "title": { "type": "string" },
+        "subject": { "type": "string" },
+        "subjectId": { "type": "string" },
+        "version": { "type": "string" },
+        "lastUpdated": { "type": "string", "format": "date" },
+        "difficulty": { "type": "string", "enum": ["Easy", "Medium", "Hard"] },
+        "estimatedStudyTime": { "type": "integer", "minimum": 1 },
+        "keywords": { "type": "array", "items": { "type": "string" } },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "status": { "type": "string", "enum": ["draft", "review", "published"] }
+      }
+    },
+    "learningObjectives": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "theory": {
+      "type": "object",
+      "required": ["definitions", "coreConcepts"],
+      "properties": {
+        "definitions": { "type": "array", "items": { "type": "string" } },
+        "coreConcepts": { "type": "array", "items": { "type": "string" } },
+        "equipment": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "clinicalCorrelations": {
+      "type": "object",
+      "properties": {
+        "pearls": { "type": "array", "items": { "type": "string" } },
+        "precautions": { "type": "array", "items": { "type": "string" } },
+        "indications": { "type": "array", "items": { "type": "string" } },
+        "contraindications": {
+          "type": "object",
+          "properties": {
+            "general": { "type": "array", "items": { "type": "string" } },
+            "local": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "technique": {
+          "type": "object",
+          "properties": {
+            "patientPreparation": { "type": "array", "items": { "type": "string" } },
+            "apparatusPreparation": { "type": "array", "items": { "type": "string" } },
+            "skinPreparation": { "type": "array", "items": { "type": "string" } },
+            "electrodePlacement": { "type": "array", "items": { "type": "string" } },
+            "treatmentProcedure": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "protocols": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["condition", "frequency", "purpose"],
+            "properties": {
+              "condition": { "type": "string" },
+              "position": { "type": "string" },
+              "electrodePlacement": { "type": "string" },
+              "frequency": { "type": "string" },
+              "purpose": { "type": "string" }
+            }
+          }
+        },
+        "physiologicalEffects": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              { "type": "string" },
+              {
+                "type": "object",
+                "required": ["effect", "mechanism"],
+                "properties": {
+                  "effect": { "type": "string" },
+                  "frequency": { "type": "string" },
+                  "mechanism": { "type": "array", "items": { "type": "string" } }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "clinicalCases": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "category", "condition", "chiefComplaint", "history", "examination", "treatmentPlan"],
+        "properties": {
+          "id": { "type": "string" },
+          "category": { "type": "string" },
+          "condition": { "type": "string" },
+          "year": { "type": "string" },
+          "subject": { "type": "string" },
+          "patientProfile": { "type": "string" },
+          "chiefComplaint": { "type": "string" },
+          "history": { "type": "array", "items": { "type": "string" } },
+          "observation": { "type": "array", "items": { "type": "string" } },
+          "examination": { "type": "array", "items": { "type": "string" } },
+          "specialTests": { "type": "array", "items": { "type": "string" } },
+          "linkedSpecialTests": { "type": "array", "items": { "type": "string" } },
+          "assessmentFindings": { "type": "array", "items": { "type": "string" } },
+          "problemList": { "type": "array", "items": { "type": "string" } },
+          "physiotherapyDiagnosis": { "type": "string" },
+          "shortTermGoals": { "type": "array", "items": { "type": "string" } },
+          "longTermGoals": { "type": "array", "items": { "type": "string" } },
+          "treatmentPlan": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "mcqs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "question", "options", "answer", "explanation"],
+        "properties": {
+          "id": { "type": "string" },
+          "question": { "type": "string" },
+          "options": {
+            "type": "array",
+            "minItems": 4,
+            "maxItems": 4,
+            "items": { "type": "string" }
+          },
+          "answer": { "type": "string" },
+          "explanation": { "type": "string" }
+        }
+      }
+    },
+    "viva": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "question", "answer"],
+        "properties": {
+          "id": { "type": "string" },
+          "question": { "type": "string" },
+          "answer": { "type": "string" },
+          "keyPoints": { "type": "string" },
+          "clinicalImportance": { "type": "string" }
+        }
+      }
+    },
+    "flashcards": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "front", "back"],
+        "properties": {
+          "id": { "type": "string" },
+          "front": { "type": "string" },
+          "back": { "type": "string" },
+          "hints": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "pyqs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["year", "question", "marks"],
+        "properties": {
+          "year": { "type": "integer" },
+          "question": { "type": "string" },
+          "marks": { "type": "integer" },
+          "university": { "type": "string" }
+        }
+      }
+    },
+    "references": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "relationships": {
+      "type": "object",
+      "properties": {
+        "prerequisites": { "type": "array", "items": { "type": "string" } },
+        "coRequisites": { "type": "array", "items": { "type": "string" } },
+        "crossSubjectLinks": { "type": "array", "items": { "type": "string" } },
+        "parentId": { "type": "string" }
+      }
+    },
+    "media": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["path", "type"],
+        "properties": {
+          "path": { "type": "string" },
+          "type": { "type": "string", "enum": ["image", "diagram", "video"] },
+          "description": { "type": "string" }
+        }
+      }
+    },
+    "versioning": {
+      "type": "object",
+      "required": ["schemaVersion", "revision"],
+      "properties": {
+        "schemaVersion": { "type": "string" },
+        "revision": { "type": "integer" },
+        "authors": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "subjectExtensions": {
+      "type": "object",
+      "properties": {
+        "anatomy": {
+          "type": "object",
+          "properties": {
+            "origin": { "type": "string" },
+            "insertion": { "type": "string" },
+            "nerveSupply": { "type": "string" },
+            "action": { "type": "string" },
+            "palpationPoints": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "physiology": {
+          "type": "object",
+          "properties": {
+            "organSystem": { "type": "string" },
+            "regulatoryMechanisms": { "type": "array", "items": { "type": "string" } },
+            "normalValues": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["parameter", "value"],
+                "properties": {
+                  "parameter": { "type": "string" },
+                  "value": { "type": "string" },
+                  "unit": { "type": "string" }
+                }
+              }
+            }
+          }
+        },
+        "exercise_therapy": {
+          "type": "object",
+          "properties": {
+            "movementPlanes": { "type": "array", "items": { "type": "string" } },
+            "mechanicalPrinciples": { "type": "array", "items": { "type": "string" } },
+            "goniometry": {
+              "type": "object",
+              "properties": {
+                "fulcrum": { "type": "string" },
+                "stationaryArm": { "type": "string" },
+                "movingArm": { "type": "string" },
+                "normalRange": { "type": "string" }
+              }
+            },
+            "dosage": {
+              "type": "object",
+              "properties": {
+                "frequency": { "type": "string" },
+                "intensity": { "type": "string" },
+                "time": { "type": "string" },
+                "type": { "type": "string" }
+              }
+            }
+          }
+        },
+        "electrotherapy": {
+          "type": "object",
+          "properties": {
+            "waveform": { "type": "string" },
+            "frequency": { "type": "string" },
+            "pulseDuration": { "type": "string" },
+            "intensity": { "type": "string" },
+            "electrodeConfiguration": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}

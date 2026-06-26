@@ -1,0 +1,84 @@
+{
+  "totalBibliographyEntries": 5,
+  "totalCitedCodes": 1,
+  "missingCitations": [],
+  "unusedBibliographyEntries": [
+    "KISNER_2017",
+    "GARDINER_1957",
+    "CHAURASIA_VOL1",
+    "CLAYTON_2005"
+  ],
+  "chapterCitationMapping": {
+    "anat_ch1": [],
+    "anat_ch2": [],
+    "anat_ch3": [],
+    "anat_ch4": [],
+    "anat_ch5": [],
+    "anat_ch6": [],
+    "anat_ch7": [
+      "WBUHS"
+    ],
+    "anat_ch8": [
+      "WBUHS"
+    ],
+    "anat_ch9": [],
+    "anat_ch10": [
+      "WBUHS"
+    ],
+    "anat_ch11": [],
+    "anat_ch12": [],
+    "anat_ch13": [],
+    "anat_ch14": [],
+    "anat_ch15": [],
+    "anat_ch16": [],
+    "anat_ch17": [],
+    "anat_ch18": [],
+    "anat_ch19": [],
+    "anat_ch20": [],
+    "anat_ch21": [],
+    "anat_ch22": [],
+    "anat_ch23": [],
+    "anat_ch24": [],
+    "anat_ch25": [],
+    "anat_ch26": [],
+    "anat_ch27": [],
+    "anat_ch28": [],
+    "anat_ch29": [],
+    "anat_ch30": [],
+    "anat_ch31": [],
+    "anat_ch32": [],
+    "anat_ch33": [],
+    "anat_ch34": [],
+    "phys_ch1": [
+      "WBUHS"
+    ],
+    "phys_ch2": [
+      "WBUHS"
+    ],
+    "phys_ch3": [],
+    "phys_ch4": [],
+    "phys_ch5": [
+      "WBUHS"
+    ],
+    "phys_ch6": [
+      "WBUHS"
+    ],
+    "phys_ch7": [
+      "WBUHS"
+    ],
+    "phys_ch8": [
+      "WBUHS"
+    ],
+    "phys_ch9": [
+      "WBUHS"
+    ],
+    "el1_ch1": [],
+    "el2_ch2": [],
+    "bio_ch1": [],
+    "path_ch1": [
+      "WBUHS"
+    ],
+    "pharm_ch1": [],
+    "micro_ch1": []
+  }
+}

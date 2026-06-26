@@ -1,0 +1,1005 @@
+[
+  {
+    "chapterId": "anat_ch1",
+    "title": "Introduction to Anatomy & Osteology",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Anatomy: The foundational medical science of the morphological structure of the human body. Derived ...",
+      "Osteology: The comprehensive scientific study of the human skeletal system, focusing on the mechanic..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch2",
+    "title": "Introduction to Upper Limb",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter provides a foundational understanding of the upper limb's anatomy, fo...",
+      "Definition: The upper limb is the highly mobile appendicular part of the human body attached to the ...",
+      "Introduction to Upper Limb: Analogous in basic architectural plan to the lower limb, the upper limb ...",
+      "Evolution of Upper Limb: During human evolution, the assumption of an erect bipedal posture freed th..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch3",
+    "title": "Bones of Upper Limb",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter details the comprehensive osteology of the upper limb, carefully cove...",
+      "Definition of Osteology of Upper Limb: Osteology of the upper limb is the specialized anatomical stu...",
+      "Classification of Upper Limb Bones: 1. Shoulder girdle: Includes the Clavicle (a modified long bone)..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch4",
+    "title": "Pectoral Region",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Introduction: The pectoral region constitutes the anterior aspect of the thorax, connecting the uppe...",
+      "Surface Anatomy: Key palpation landmarks include the clavicle, jugular notch (suprasternal notch), s...",
+      "Pectoral Fascia: The deep fascia covering the pectoralis major. It attaches superiorly to the clavic..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch5",
+    "title": "Axilla",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter explores the Axilla (armpit), investigating its pyramidal boundaries,...",
+      "Definition: The axilla is a fat-filled, truncated pyramidal space situated situated between the uppe...",
+      "Shape and Location: It resembles a four-sided pyramid lacking a sharp tip. It possesses an apex dire..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch6",
+    "title": "Back & Scapular Region",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter details the musculature and critical spaces of the back and scapular ...",
+      "Definition: The back and scapular region covers the posterior aspect of the thorax, anchored heavily...",
+      "Surface Anatomy & Boundaries: Spans vertically from the prominent vertebra prominens (C7) down to th...",
+      "Fascial Layers: The deep fascia adheres strongly to the vertebral spines, extending laterally over t..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch7",
+    "title": "Shoulder Joint Complex",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Introduction to Shoulder Girdle: The shoulder complex is a highly mobile, multi-joint system connect...",
+      "Surface Anatomy: Key palpation landmarks accurately orienting the shoulder complex include the supra...",
+      "Important Anatomical Relationships: The axillary nerve intimately circles behind the surgical neck o..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch8",
+    "title": "Cutaneous Innervation, Venous Drainage & Lymphatics",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Definition & Overview: The superficial fascia of the upper limb contains a rich network of cutaneous...",
+      "Cutaneous Innervation of Upper Limb: It is supplied by ventral rami of spinal nerves C3 to T2. The a...",
+      "Peripheral Nerve Distribution: While dermatomes indicate spinal root levels, cutaneous nerves are of..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch9",
+    "title": "Arm",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Arm (Brachium): The region of the upper limb extending from the glenohumeral joint to the elbow join...",
+      "Composed of the humerus shaft, surrounded by deep fascia (brachial fascia) which projects inward to ..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch10",
+    "title": "Forearm",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Introduction to Forearm Anatomy (Antebrachium): The forearm represents the dual-bone segment of the ...",
+      "Important Osteological Structures of the Forearm: 1) Radius (Lateral Bone): Possesses a disk-shaped ...",
+      "Important Compartmental and Fascial Boundaries: The forearm is enveloped by the exceptionally tough,..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch11",
+    "title": "Elbow & Radio-ulnar Joints",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Elbow Joint Complex: A composite synovial joint combining three articulations in a single joint cavi...",
+      "Radio-ulnar Joints: Comprise three distinct junctions uniting the radius and ulna: Proximal (Pivot, ..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch12",
+    "title": "Hand",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Hand (Manus): The terminal, highly mobile, and tactile portion of the upper limb, designed for grasp...",
+      "Supported by a complex coordinate assembly of 20 intrinsic muscles, extensive tendon sheaths, fascia..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch13",
+    "title": "Joints & Movements of Hand",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Joints of the Hand Complex: A highly sophisticated collection of articulations coordinating high-lev...",
+      "The 1st Carpometacarpal Joint of the thumb is a highly specialized saddle (sellar) joint that allows..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch14",
+    "title": "Major Nerves of Upper Limb",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Brachial Plexus: A highly complex somatic nerve network formed by the union of the anterior (ventral...",
+      "Major Peripheral Nerves: The terminal branches of the brachial plexus that course through the upper ..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch15",
+    "title": "Introduction to Thorax and Thoracic Cage",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter explores the osseocartilaginous thoracic cage, focusing on its role i...",
+      "Definition: The thoracic cage is an osteocartilaginous framework located between the neck and abdome...",
+      "Superior Thoracic Aperture (Thoracic Inlet): A narrow, kidney-shaped opening that communicates with ..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch16",
+    "title": "Bones and Joints of the Thorax",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter reviews the bony elements making up the thorax and their articulation...",
+      "Bones of Thorax: Comprise the 12 thoracic vertebrae, the 12 pairs of ribs, and the sternum....",
+      "Rib Classification: Classified as True ribs (1st to 7th, attach directly to the sternum), False ribs..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch17",
+    "title": "Thoracic Wall and Mechanism of Respiration",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter investigates the muscles and neurovascular structures of the thoracic...",
+      "Thoracic Wall Muscles: Dominated by the intercostal muscles (external, internal, and innermost) and ...",
+      "Mechanism of Respiration: Involves the alteration of thoracic volume and pressure. Inspiration is ac..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch18",
+    "title": "Pleural Cavities",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter details the pleural membranes (visceral and parietal), pleural caviti...",
+      "Definition of Pleura: A serous membrane lined by simple squamous epithelium (mesothelium) that envel...",
+      "Pleural Cavity: The potential space between the visceral pleura (covering the lung surface) and the ..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch19",
+    "title": "Lungs (Pulmones)",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter examines the structure of the lungs, including lobes, fissures, the r...",
+      "Lungs (Pulmones): The primary organs of respiration, located on either side of the mediastinum in th...",
+      "Root of the Lung: A bundle of structures comprising bronchi, pulmonary vessels, and nerves that conn..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch20",
+    "title": "Mediastinum",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter investigates the division of the mediastinum (superior and inferior) ...",
+      "Mediastinum: The central compartment of the thoracic cavity, bounded by the thoracic inlet superiorl...",
+      "Subdivisions: Divided by a horizontal plane passing through the sternal angle of Louis (joint of T4-..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch21",
+    "title": "Pericardium and Heart",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter is dedicated to the structure, borders, surfaces, internal chambers, ...",
+      "Pericardium: A double-walled fibroserous sac that encloses the heart and the roots of the great vess...",
+      "The Heart: The muscular organ that pumps blood through the cardiovascular system, featuring four cha..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch22",
+    "title": "Superior Vena Cava, Aorta, Pulmonary Trunk, and Thymus",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter outlines the major blood vessels of the superior and middle mediastin...",
+      "Superior Vena Cava (SVC): A large, valveless vein that carries deoxygenated blood from the upper hal...",
+      "Aorta: The major systemic arterial trunk, consisting of the ascending aorta, aortic arch, and descen..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch23",
+    "title": "Trachea and Esophagus",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter covers the anatomy of the trachea (windpipe) and esophagus (gullet) i...",
+      "Trachea: A fibrocartilaginous tube that extends from the larynx (C6) down to its bifurcation (T4-T5)...",
+      "Esophagus: A muscular tube about 25 cm long that runs from the pharynx (C6) down to the stomach (T11..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch24",
+    "title": "Thoracic Duct, Azygos and Hemiazygos Veins, and Thoracic Sympathetic Trunks",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter investigates the lymphatic drainage of the body via the thoracic duct...",
+      "Thoracic Duct: The largest lymphatic vessel in the body, draining lymph from the lower limbs, pelvis...",
+      "Azygos System of Veins: Serves as an important collateral venous pathway linking the inferior vena c..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch25",
+    "title": "Bones of Lower Limb",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter is dedicated to the osteology of the lower limb, which acts as the we...",
+      "Pelvic Girdle (Hip Bone / Coxal Bone): A large, irregular bone composed of three fused parts: ilium,...",
+      "Femur (Thigh Bone): The longest and strongest bone in the human body. It consists of a head (articul...",
+      "Patella (Patella): The largest sesamoid bone in the body, embedded within the tendon of the quadrice...",
+      "Tibia (Shin Bone) and Fibula: The tibia is the medial, weight-bearing bone of the leg. The fibula is..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch26",
+    "title": "Anterior Compartment of Thigh & Femoral Triangle",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter details the crucial musculoskeletal and neurovascular structures situ...",
+      "Femoral Triangle: A triangular subfascial space below the inguinal ligament in the upper third of th...",
+      "Femoral Sheath: A funnel-shaped fascial tube that extends the abdominal fascia beneath the inguinal ...",
+      "Anterior Compartment Muscles: The primary extensor group of the knee, consisting of Sartorius (tailo..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch27",
+    "title": "Gluteal Region & Medial Thigh",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter studies the gluteal region, which bridges the torso and the lower lim...",
+      "Gluteus Maximus: The largest and most superficial muscle in the gluteal region, acting as a primary ...",
+      "Gluteus Medius and Minimus: Abductors and medial rotators of the hip, situated deep to the gluteus m...",
+      "Medial Compartment (Adductors): Muscle group encompassing Adductor Longus, Adductor Brevis, Adductor..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch28",
+    "title": "Posterior Thigh & Popliteal Fossa",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter reviews the back of the thigh (flexor compartment) and the diamond-sh...",
+      "Hamstring Group: A collection of three muscles of the posterior thigh: Biceps Femoris (long and shor...",
+      "Popliteal Fossa: A diamond-shaped space located posterior to the knee joint. It is bounded superolat...",
+      "Sciatic Nerve Path: The largest nerve in the body. It descends under the cover of gluteus maximus, r..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch29",
+    "title": "Knee Joint & Leg Compartments",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter is highly central to physical therapy education. It covers the knee j...",
+      "Knee Joint: A complex, atypical synovial hinge joint involving the medial and lateral tibiofemoral j...",
+      "Cruciate Ligaments: The Anterior Cruciate Ligament (ACL) and Posterior Cruciate Ligament (PCL) lie i...",
+      "Menisci (Medial & Lateral): C-shaped and O-shaped fibrocartilaginous shock absorbers resting on the ...",
+      "Leg Compartments: Divided by intermuscular septa and the interosseous membrane into Anterior (dorsif..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch30",
+    "title": "Ankle, Foot & Arches of Foot",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter investigates the ankle joint, subtalar joint, and the complex mechani...",
+      "Ankle Joint (Talocrural Joint): A uniaxial synovial mortise-and-tenon joint formed by the distal end...",
+      "Subtalar Joint: The articulation between the talus and calcaneus. This joint is primarily responsibl...",
+      "Arches of the Foot: Curved elastic structures composed of tarsal and metatarsal bones, bound by liga...",
+      "Medial Longitudinal Arch: The higher and more tactile arch. Formed by calcaneus, talus, navicular, t..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch31",
+    "title": "Nerves and Blood Vessels of Lower Limb",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "Chapter Overview: This chapter integrates the vascular, lymphatic, and nervous networks supplying th...",
+      "Lumbar Plexus: Formed by the anterior rami of L1-L4 nerve roots inside the psoas major muscle, branc...",
+      "Sacral Plexus: Formed by the lumbosacral trunk (L4-L5) and anterior rami of S1-S4 nerve roots on the...",
+      "Arterial Systems: The external iliac artery continues as the femoral artery, which transitions to th..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch32",
+    "title": "Skull and Cranial Cavity",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "The skull is the bony skeleton of the head containing 22 bones (8 cranial and 14 facial)....",
+      "It protects the brain and sensory structures, provides attachment for muscle mechanics, and houses t..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch33",
+    "title": "Cervical Spine & Vertebrae",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "The cervical spine consists of seven vertebrae (C1-C7) forming the bony framework of the neck....",
+      "It supports the skull, allows dynamic multi-axial neck range of motion, and houses the ascending/des..."
+    ]
+  },
+  {
+    "chapterId": "anat_ch34",
+    "title": "Scalp & Face Muscles",
+    "subject": "Anatomy",
+    "subjectId": "anatomy",
+    "keywords": [],
+    "definitions": [
+      "The muscles of head and face include muscles of facial expression (innervated by Cranial Nerve VII) ...",
+      "They are located in the superficial fascia and insert directly into the facial skin to regulate expr..."
+    ]
+  },
+  {
+    "chapterId": "phys_ch1",
+    "title": "General Cell Physiology",
+    "subject": "Physiology",
+    "subjectId": "physiology",
+    "keywords": [],
+    "definitions": [
+      "Cell Membrane: A semi-permeable phospholipid bilayer that envelops the cytoplasm, regulating the sel...",
+      "Resting Membrane Potential (RMP): The static electrical potential difference across the cell membran...",
+      "Osmosis: The passive net movement of solvent molecules (water) through a selectively permeable membr...",
+      "Primary Active Transport: Transmembrane movement of solutes against their electrochemical gradient p...",
+      "Secondary Active Transport: Coupled solute transport against an electrochemical gradient powered by ...",
+      "Resting Membrane Potential: The stable voltage difference (~-70 to -90 mV) between the intracellular...",
+      "Facilitated Diffusion: A carrier-mediated passive transport process that moves solutes down their co...",
+      "Homeostasis: The dynamic maintenance of a relatively stable, physiological internal environment with..."
+    ]
+  },
+  {
+    "chapterId": "phys_ch2",
+    "title": "Neuromuscular Physiology",
+    "subject": "Physiology",
+    "subjectId": "physiology",
+    "keywords": [],
+    "definitions": [
+      "Motor Unit: A single alpha motor neuron and all the skeletal muscle fibers it innervates, acting as ...",
+      "Neuromuscular Junction (NMJ): The highly specialized synapse between a myelinated motor neuron termi...",
+      "Sarcomere: The basic contractile structural unit of a muscle myofibril, defined as the region betwee...",
+      "End-Plate Potential (EPP): The localized graded depolarization of the motor end-plate of a skeletal ...",
+      "Excitation-Contraction Coupling: The complete physiological sequence of events whereby an electrical...",
+      "Myobibril: Structural rod-like units consisting of thin (actin) and thick (myosin) interdigitating p...",
+      "Sarcoplasmic Reticulum: Specialized smooth endoplasmic reticulum in muscle cells that stores, releas...",
+      "Muscle Fatigue: The progressive transient reduction in the force or velocity of muscle contraction r..."
+    ]
+  },
+  {
+    "chapterId": "phys_ch3",
+    "title": "Cardiovascular & Respiratory Systems",
+    "subject": "Physiology",
+    "subjectId": "physiology",
+    "keywords": [],
+    "definitions": [
+      "Cardiac Cycle: The complete mechanical and electrical sequence of events occurring in the heart from...",
+      "Cardiac Output: The volume of blood pumped by each ventricle of the heart per minute, calculated as ...",
+      "Stroke Volume: The volume of blood ejected by one ventricle of the heart during a single contraction...",
+      "Vital Capacity (VC): The maximum volume of air that can be expired forcefully from the lungs after a...",
+      "Forced Expiratory Volume in 1 Second (FEV1): The volume of air expired during the first second of a ...",
+      "Surfactant: A surface-tension reducing lipoprotein mixture secreted by Type II alveolar epithelial c...",
+      "Systemic Arterial Blood Pressure: The lateral pressure exerted by circulating columns of blood again...",
+      "Compliance of Lungs: The measure of ease with which the lungs and thoracic chest wall expand, define..."
+    ]
+  },
+  {
+    "chapterId": "phys_ch4",
+    "title": "Nervous System & Reflex Arcs",
+    "subject": "Physiology",
+    "subjectId": "physiology",
+    "keywords": [],
+    "definitions": [
+      "Reflex Arc: The physiological anatomical pathway mediating reflex actions. It classically consists o...",
+      "Monosynaptic Reflex: A simple reflex path containing a single synapse in the spinal cord between the...",
+      "Muscle Spindle: A highly specialized stretch-sensitive mechanoreceptor embedded within skeletal musc...",
+      "Golgi Tendon Organ (GTO): An encapsulated mechanoreceptor located in muscle-tendon junctions that is...",
+      "Reciprocal Inhibition: A physiological reflex mechanism where the activation of motor neurons innerv...",
+      "Two-Point Discrimination: The capacity to perceive two distinct mechanical stimuli applied to the sk...",
+      "Synapse: The junction across which electrical impulses are transmitted from a neuron to another cell...",
+      "Dermatome: A specific circumscribed area of cutaneous skin innervated by sensory fibers originating ..."
+    ]
+  },
+  {
+    "chapterId": "phys_ch5",
+    "title": "Hematology & Immunology",
+    "subject": "Physiology",
+    "subjectId": "physiology",
+    "keywords": [],
+    "definitions": [
+      "Hematopoiesis: The multi-lineage process of blood cell production, differentiation, and maturation f...",
+      "Plasma: The liquid compartment of blood, consisting of approximately 91-92% water, 7-8% plasma prote...",
+      "Erythrocyte (RBC): Anucleated biconcave disk packed with hemoglobin, specialized for the transport o...",
+      "Leukocyte (WBC): Cellular component of the immune system divided into granulocytes (neutrophils, eos...",
+      "Thrombocyte (Platelet): Small, anucleate, discoid cellular fragment derived from megakaryocytes in t...",
+      "Hemoglobin: Iron-rich oxygen-transport metalloprotein inside red blood cells, comprising four globin...",
+      "Hemostasis: The tightly regulated physiological process that prevents blood loss from damaged blood ...",
+      "Innate Immunity: Non-specific, rapid-acting germline-encoded defense mechanisms present at birth, in...",
+      "Adaptive Immunity: Highly specific, antigen-driven immune response characterized by clonal selection...",
+      "Lymph: The clear-to-opalescent interstitial fluid collected and drained by the blind-ended lymphatic...",
+      "Starling Forces: The physical hydrostatic and osmotic pressure gradients across capillary endothelia...",
+      "Edema: Pathological accumulation of excess fluid in the interstitial tissue spaces, resulting from c..."
+    ]
+  },
+  {
+    "chapterId": "phys_ch6",
+    "title": "Gastrointestinal System & Metabolism",
+    "subject": "Physiology",
+    "subjectId": "physiology",
+    "keywords": [],
+    "definitions": [
+      "Enteric Nervous System (ENS): An independent subdivision of the autonomic nervous system located wit...",
+      "Myenteric (Auerbach's) Plexus: An outer linear chain of interconnecting neurons positioned between t...",
+      "Submucosal (Meissner's) Plexus: An inner network of neurons residing in the submucosa of the intesti...",
+      "Peristalsis: A progressive, wave-like contractile response of gastrointestinal smooth muscle that pr...",
+      "Segmentation: A localized, non-propulsive mixing motility pattern of the small intestine characteriz...",
+      "Basal Metabolic Rate (BMR): The minimum rate of energy expenditure per unit time by an endothermic a...",
+      "Specific Dynamic Action (SDA): Also known as the Thermic Effect of Food (TEF), it is the temporary i...",
+      "Respiratory Quotient (RQ): The ratio of the volume of carbon dioxide produced to the volume of oxyge...",
+      "Sarcopenia: The progressive, age-related loss of skeletal muscle mass, strength, and physical functi...",
+      "Cachexia: A complex, multi-organ hypermetabolic wasting syndrome associated with chronic underlying ...",
+      "Specific Dynamic Action of Proteins: The obligatory expenditure of energy (about 30% of the ingested...",
+      "Mastication: The mechanical process of chewing whereby food is broken down into smaller particles, m..."
+    ]
+  },
+  {
+    "chapterId": "phys_ch7",
+    "title": "Renal Physiology & Excretion",
+    "subject": "Physiology",
+    "subjectId": "physiology",
+    "keywords": [],
+    "definitions": [
+      "Glomerular Filtration Rate (GFR): The volume of fluid filtered from the glomerular capillaries into ...",
+      "Nephron: The functional and structural unit of the kidney, consisting of a renal corpuscle (glomerul...",
+      "Filtration Fraction (FF): The ratio of the glomerular filtration rate to the renal plasma flow (RPF)...",
+      "Countercurrent Multiplier System: The active process occurring in the loops of Henle of juxtamedulla...",
+      "Glomerular Filtration Membrane: A three-layered physiological barrier comprising the fenestrated cap...",
+      "Tubuloglomerular Feedback (TGF): An intrarenal feedback mechanism whereby the macula densa cells in ...",
+      "Renal Clearance: The volume of plasma completely cleared of a specific substance by the kidneys per ...",
+      "Micturition Reflex: An autonomic spinal reflex initiated by stretch receptors in the detrusor muscle...",
+      "Acute Kidney Injury (AKI): A rapid, typically reversible decline in renal excretory function occurri...",
+      "Chronic Kidney Disease (CKD): A progressive, irreversible loss of renal function lasting three or mo...",
+      "Specific Gravity of Urine: A measure of the concentration of solutes in urine relative to pure water...",
+      "Diuresis: An increased rate of urine excretion by the kidneys, which can be physiological (water diu..."
+    ]
+  },
+  {
+    "chapterId": "phys_ch8",
+    "title": "Endocrine & Reproductive Physiology",
+    "subject": "Physiology",
+    "subjectId": "physiology",
+    "keywords": [],
+    "definitions": [
+      "Growth Hormone (GH) / Somatotropin: A peptide hormone synthesized and secreted by somatotropes in th...",
+      "Thyroid Stimulating Hormone (TSH) / Thyrotropin: A glycoprotein hormone secreted by thyrotropes in t...",
+      "Parathyroid Hormone (PTH): A peptide hormone secreted by the chief cells of the parathyroid glands i...",
+      "Insulin: An anabolic peptide hormone synthesized by beta cells in the islets of Langerhans of the pa...",
+      "Glucagon: A catabolic peptide hormone secreted by alpha cells of the pancreatic islets that raises b...",
+      "Cortisol: A primary glucocorticoid hormone synthesized in the zona fasciculata of the adrenal cortex...",
+      "Diabetes Mellitus (DM): A chronic metabolic disorder characterized by persistent hyperglycemia resul...",
+      "Osteoporosis: A systemic skeletal disorder characterized by low bone mass, microarchitectural deteri...",
+      "Metabolic Syndrome: A clinical clustering of interconnected risk factors including abdominal obesity...",
+      "Luteinizing Hormone (LH): A gonadotropic glycoprotein hormone secreted by the anterior pituitary tha...",
+      "Follicle-Stimulating Hormone (FSH): A gonadotropin released from the anterior pituitary that stimula...",
+      "Calcitonin: A peptide hormone secreted by the parafollicular (C-cells) of the thyroid gland that act..."
+    ]
+  },
+  {
+    "chapterId": "phys_ch9",
+    "title": "Applied Exercise Physiology",
+    "subject": "Physiology",
+    "subjectId": "physiology",
+    "keywords": [],
+    "definitions": [
+      "VO2 Max (Maximal Oxygen Uptake): The maximum volume of oxygen that an individual can utilize per min...",
+      "Oxygen Debt / EPOC (Excess Post-exercise Oxygen Consumption): The volume of oxygen consumed during r...",
+      "Lactate Threshold: The exercise intensity at which blood lactate levels begin to accumulate exponent...",
+      "Anaerobic Threshold: The exercise intensity at which energy demands can no longer be met solely by a...",
+      "Metabolic Equivalent of Task (MET): A physiological unit of measurement representing the energy expe...",
+      "Cardiovascular Drift: The progressive increase in heart rate paired with a simultaneous decline in s...",
+      "Muscle Fatigue: A transient, exercise-induced reduction in the maximal force-generating or power-gen...",
+      "Ventilatory Threshold: The point during progressive exercise where ventilation begins to increase di...",
+      "Motor Unit Recruitment (Size Principle): Henneman's principle stating that motor units are recruited...",
+      "Overtraining Syndrome: A state of chronic fatigue, decreased athletic performance, and neuroendocrin...",
+      "Heat Acclimatization: A complex set of physiological adaptations (including expanded plasma volume, ...",
+      "FITT Principle: A foundational training framework defining the four essential parameters of an exerc..."
+    ]
+  },
+  {
+    "chapterId": "el1_ch1",
+    "title": "Fundamentals of Biophysics & Currents",
+    "subject": "Electrotherapy I",
+    "subjectId": "electrotherapy_i",
+    "keywords": [],
+    "definitions": [
+      "Electricity is a form of energy resulting from the existence of charged particles (electrons or prot...",
+      "Potential Difference (Voltage): The electromotive force or electrical pressure that drives charged p...",
+      "Electrical Current (Intensity): The rate of flow of electric charge past a point or region, measured...",
+      "Electrical Resistance (Ohmic): The opposition that a substance offers to the flow of continuous dire...",
+      "Capacitance: The ability of a system to store an electric charge across an insulating dielectric bar...",
+      "Inductance: The property of an electrical conductor by which a change in current flowing through it ...",
+      "Impedance: The total opposition presented by a circuit or biological tissue to the flow of alternati..."
+    ]
+  },
+  {
+    "chapterId": "el1_ch2",
+    "title": "Direct & Galvanic Currents",
+    "subject": "Electrotherapy I",
+    "subjectId": "electrotherapy_i",
+    "keywords": [],
+    "definitions": [
+      "Continuous Direct Current (Galvanism): A continuous, unidirectional flow of electrical charge with c...",
+      "Interrupted Direct Current (IDC): A unidirectional current that is periodically broken or pulsed, fe...",
+      "Iontophoresis (Ionophoresis): The active introduction of water-soluble, charged pharmacological ions...",
+      "Electrotonus: The localized alteration of electrical excitability and conductivity in nerve or muscl...",
+      "Catelectrotonus: The state of enhanced excitability and lower depolarization threshold occurring aro...",
+      "Anelectrotonus: The state of decreased excitability, membrane hyperpolarization, and raised excitati..."
+    ]
+  },
+  {
+    "chapterId": "el1_ch3",
+    "title": "Faradic & Pulsed Currents",
+    "subject": "Electrotherapy I",
+    "subjectId": "electrotherapy_i",
+    "keywords": [],
+    "definitions": [
+      "Faradic Current: A short-duration, asymmetrical alternating current with a pulse duration of 0.1 to ...",
+      "Modified Faradic (Faradic-Type) Current: Modern electronic stimulators that artificially simulate th...",
+      "Motor Point: The specific surface anatomical location on a muscle belly where a minimum electrical s...",
+      "Surge (Ramping): The progressive increment and decrement of pulsed current amplitude over a set time...",
+      "Tetanic Contraction: A smooth, continuous, fused muscular contraction caused by repetitive electrica...",
+      "Accommodation: The physiological capacity of excitable cell membranes to adapt to a slowly rising el..."
+    ]
+  },
+  {
+    "chapterId": "el1_ch4",
+    "title": "Introductory Electro-Diagnostics",
+    "subject": "Electrotherapy I",
+    "subjectId": "electrotherapy_i",
+    "keywords": [],
+    "definitions": [
+      "Electro-Diagnostics: The use of electrical stimulation to assess the excitability, integrity, and fu...",
+      "Strength-Duration (S-D) Curve: A graphical plot representing the relationship between the intensity ...",
+      "Rheobase: The minimum current intensity (measured in mA or Volts) of infinite duration (clinically r...",
+      "Chronaxie: The minimum pulse duration (measured in milliseconds) required to elicit a threshold musc...",
+      "Accommodation Index: The ratio of the threshold current required to elicit muscle contraction using ...",
+      "Galvanic-Faradic Test: A classical qualitative electrodiagnostic test comparing a muscle's response ..."
+    ]
+  },
+  {
+    "chapterId": "el2_ch2",
+    "title": "Transcutaneous Electrical Nerve Stimulation (TENS)",
+    "subject": "Electrotherapy II",
+    "subjectId": "electrotherapy_ii",
+    "keywords": [],
+    "definitions": [
+      "Transcutaneous Electrical Nerve Stimulation (TENS) is the application of low-frequency current in th...",
+      "It is a highly popular, non-invasive electrotherapeutic modality widely used by physiotherapists to ..."
+    ]
+  },
+  {
+    "chapterId": "bio_ch1",
+    "title": "Kinematics",
+    "subject": "Biomechanics & Kinesiology",
+    "subjectId": "biomechanics_kinesiology",
+    "keywords": [],
+    "definitions": [
+      "Kinematics: The branch of mechanics that describes the motion of a body or segment without regard to...",
+      "Osteokinematics: The study of the gross movement of bones in space relative to the three cardinal pl...",
+      "Arthrokinematics: The study of the microscopic movements that occur between the articular surfaces o...",
+      "Planes of Motion: Intersecting spatial dimensions in which osteokinematic movement occurs: Sagittal ...",
+      "Axes of Motion: Imaginary pivots around which a bone rotates during movement: Mediolateral axis (per...",
+      "Degrees of Freedom: The number of independent planes of angular motion permitted at a given joint, r...",
+      "Roll: An arthrokinematic motion in which multiple points along one rotating articular surface contac...",
+      "Glide (Slide): An arthrokinematic motion in which a single point on one sliding articular surface co...",
+      "Spin: An arthrokinematic motion in which a single point on one rotating articular surface contacts a...",
+      "Concave-Convex Rule: A fundamental rule of arthrokinematics stating that when a convex joint surface...",
+      "Open Kinematic Chain (OKC): A movement configuration where the distal segment of an extremity is fre...",
+      "Closed Kinematic Chain (CKC): A movement configuration where the distal segment of an extremity is f...",
+      "Goniometry: The clinical technique of measuring the angles of human joint ranges of motion using a s...",
+      "End Feel: The quality of resistance felt by the clinician at the extreme end of passive range of mot...",
+      "Joint Play: The small, involuntary accessory movements (such as gliding, rolling, and spinning) that...",
+      "Close-Packed Position: The joint position where the articular surfaces are maximally congruent, the ...",
+      "Loose-Packed (Resting) Position: Any joint position other than the close-packed position; specifical...",
+      "Capsular Pattern: A specific, predictable pattern of proportionate limitation in joint range of moti..."
+    ]
+  },
+  {
+    "chapterId": "bio_ch2",
+    "title": "Kinetics",
+    "subject": "Biomechanics & Kinesiology",
+    "subjectId": "biomechanics_kinesiology",
+    "keywords": [],
+    "definitions": [
+      "Kinetics: The branch of mechanics that describes the effect of forces and torques on the body, expla...",
+      "Force: A push or pull that can produce, stop, or modify movement, represented as a vector with magni...",
+      "Torque: The product of a force and its moment arm, representing the rotational equivalent of linear ...",
+      "Moment Arm: The perpendicular distance between the joint's axis of rotation and the force's line of ...",
+      "Lever: A simple machine consisting of a rigid bar (the bone) that rotates around a fulcrum or axis o...",
+      "Mechanical Advantage (MA): The mechanical efficiency of a lever system, calculated as the ratio of t...",
+      "Center of Gravity (COG): The single hypothetical point in a body or system around which all forces o...",
+      "Line of Gravity (LOG): An imaginary vertical vector directed downward from the body's center of grav...",
+      "Base of Support (BOS): The area perimeter formed by the outer points of physical contact between a p...",
+      "Stress: The internal resistance force generated per unit area within a biological tissue in response...",
+      "Strain: The relative deformation or percentage change in a material's length or shape in response to...",
+      "Young's Modulus (Elastic Modulus): A measure of a material's stiffness, defined as the slope of the ...",
+      "Viscoelasticity: A biological property of tissues that exhibit both viscous (fluid-like, time-depend...",
+      "Creep: A viscoelastic property characterized by a slow, progressive increase in strain (deformation)...",
+      "Stress Relaxation: A viscoelastic property characterized by a progressive decrease in internal stres...",
+      "Hysteresis: The loss of mechanical energy (typically dissipated as heat) during a loading and unload..."
+    ]
+  },
+  {
+    "chapterId": "bio_ch3",
+    "title": "Movement System",
+    "subject": "Biomechanics & Kinesiology",
+    "subjectId": "biomechanics_kinesiology",
+    "keywords": [],
+    "definitions": [
+      "Movement System: The collection of anatomical structures (nervous, muscular, skeletal, and cardiovas...",
+      "Motor Unit: The basic functional unit of neuromuscular control, consisting of a single alpha motor n...",
+      "Henneman Size Principle: A fundamental neurophysiological rule stating that motor units are recruite...",
+      "Type I (Slow Oxidative) Fibers: Muscle fibers characterized by high concentrations of myoglobin and ...",
+      "Type IIa (Fast Oxidative-Glycolytic) Fibers: Intermediate muscle fibers that possess moderate aerobi...",
+      "Type IIb (Fast Glycolytic) Fibers: Large muscle fibers that rely purely on anaerobic glycolysis for ...",
+      "Muscle Spindle: A highly specialized encapsulated sensory receptor located within and parallel to ex...",
+      "Stretch Reflex (Myotatic Reflex): A monosynaptic reflex arc in which rapid stretching of a muscle st...",
+      "Gamma Loop: A neurophysiological feedback system wherein gamma motor neurons stimulate the contracti...",
+      "Golgi Tendon Organ (GTO): A specialized sensory receptor located at the musculotendinous junction, a...",
+      "Autogenic Inhibition: A protective, disynaptic inhibitory reflex where extreme muscle tension stimul...",
+      "Muscle Fatigue: A transient, reversible reduction in a muscle's force-generating capacity resulting ...",
+      "Muscle Spasm: An involuntary, localized, and painful contraction of a muscle or muscle group, often ...",
+      "Spasticity: A velocity-dependent increase in tonic stretch reflexes (muscle tone) resulting from an ...",
+      "Rigidity: A velocity-independent increase in muscle resistance to passive movement throughout the en..."
+    ]
+  },
+  {
+    "chapterId": "bio_ch4",
+    "title": "Muscle Activity & Strength",
+    "subject": "Biomechanics & Kinesiology",
+    "subjectId": "biomechanics_kinesiology",
+    "keywords": [],
+    "definitions": [
+      "Length-Tension Relationship: The physical relationship between a muscle's sarcomere length and the t...",
+      "Force-Velocity Relationship: The relationship between the velocity of a muscle's contraction and the...",
+      "Concentric Contraction: An active muscle contraction where the tension generated exceeds the externa...",
+      "Eccentric Contraction: An active muscle contraction where the tension generated is less than the ext...",
+      "Isometric Contraction: An active muscle contraction where the muscle generates tension without any v...",
+      "Active Insufficiency: A state where a multi-joint muscle is shortened across all the joints it cross...",
+      "Passive Insufficiency: A state where a multi-joint muscle is stretched across all the joints it cros...",
+      "Agonist (Prime Mover): A muscle or muscle group that is directly responsible for producing a specifi...",
+      "Antagonist: A muscle or muscle group that possesses the opposite anatomical action to the agonist, w...",
+      "Synergist: A muscle that contracts simultaneously with the agonist to assist in producing the moveme...",
+      "Neutralizer: A specific muscle that contracts to rule out or neutralize an unwanted movement or seco...",
+      "Fixator (Stabilizer): A muscle that contracts isometrically to anchor or stabilize a proximal bone o...",
+      "Reciprocal Inhibition: A spinal cord reflex mechanism where the activation of an agonist muscle's mo..."
+    ]
+  },
+  {
+    "chapterId": "bio_ch5",
+    "title": "Shoulder Complex",
+    "subject": "Biomechanics & Kinesiology",
+    "subjectId": "biomechanics_kinesiology",
+    "keywords": [],
+    "definitions": [
+      "Shoulder Complex: A functionally integrated system comprising four interdependent joints: the Sterno...",
+      "Sternoclavicular (SC) Joint: A complex saddle joint that serves as the only structural attachment of...",
+      "Acromioclavicular (AC) Joint: A plane synovial joint linking the clavicle to the scapula, allowing f...",
+      "Glenohumeral (GH) Joint: A highly mobile, structurally unstable multiaxial ball-and-socket joint for...",
+      "Scapulothoracic Joint: A functional (not true anatomical) joint formed by the articulation of the an...",
+      "Scapulohumeral Rhythm: The coordinated, synchronized kinematic movement pattern between the scapula ...",
+      "Force Couple: A biomechanical phenomenon where two or more muscles pull in different linear directio...",
+      "Deltoid-Rotator Cuff Force Couple: The dynamic stabilization mechanism where the superiorly directed...",
+      "Serratus-Trapezius Force Couple: The synergistic action of the upper trapezius, lower trapezius, and...",
+      "Static Stabilizers (GH Joint): Non-contractile structures including the glenoid labrum, joint capsul...",
+      "Dynamic Stabilizers (GH Joint): Contractile structures primarily comprising the rotator cuff muscles...",
+      "Joint Play: Small, involuntary, passive accessory movements permitted in a joint (such as gliding, s...",
+      "Close-Packed Position (Glenohumeral Joint): The position of maximal joint congruency where the joint...",
+      "Loose-Packed (Resting) Position (Glenohumeral Joint): The position of least joint congruency where t...",
+      "Capsular Pattern (Glenohumeral Joint): A predictable, proportional pattern of restricted passive mot...",
+      "Scapular Dyskinesia: An alteration in the normal position or motion of the scapula during active sho...",
+      "Force Vector Resolution (Shoulder): The mathematical and biomechanical process of breaking down a si..."
+    ]
+  },
+  {
+    "chapterId": "bio_ch6",
+    "title": "Elbow & Forearm Complex",
+    "subject": "Biomechanics & Kinesiology",
+    "subjectId": "biomechanics_kinesiology",
+    "keywords": [],
+    "definitions": [
+      "Elbow Complex: A composite joint consisting of three separate articulations (humeroulnar, humeroradi...",
+      "Humeroulnar Joint: A uniaxial modified hinge joint formed by the spool-shaped trochlea of the humeru...",
+      "Humeroradial Joint: A biaxial articulation between the capitulum of the humerus and the concave fove...",
+      "Proximal Radioulnar Joint (PRUJ): A uniaxial pivot joint where the convex radial head rotates within...",
+      "Distal Radioulnar Joint (DRUJ): A uniaxial pivot joint where the convex ulnar head articulates with ...",
+      "Carrying Angle (Cubitus Valgus): The physiological valgus angulation formed between the longitudinal...",
+      "Interosseous Membrane: A dense, oblique connective tissue sheet linking the radius and ulna, crucial...",
+      "Annular Ligament: A strong fibrocartilaginous ring that encircles 80% of the radial head, anchoring ...",
+      "Medial Collateral Ligament (MCL/UCL) of the Elbow: The primary static stabilizer against valgus stre...",
+      "Lateral Collateral Ligament (LCL) Complex: The primary static stabilizer against varus and posterola...",
+      "Pronation/Supination Mechanics: A movement where the radius crosses over a relatively fixed ulna (pr..."
+    ]
+  },
+  {
+    "chapterId": "bio_ch7",
+    "title": "Wrist & Hand Complex",
+    "subject": "Biomechanics & Kinesiology",
+    "subjectId": "biomechanics_kinesiology",
+    "keywords": [],
+    "definitions": [
+      "Radiocarpal Joint: A biaxial ellipsoid (condyloid) joint formed by the concave distal radius and the...",
+      "Midcarpal Joint: A functional compound articulation between the proximal and distal rows of carpal b...",
+      "Triangular Fibrocartilage Complex (TFCC): A critical load-bearing and stabilizing fibrocartilaginous...",
+      "Carpometacarpal (CMC) Joint of the Thumb: A classic, highly mobile saddle joint formed by the trapez...",
+      "Metacarpophalangeal (MCP) Joints: Biaxial condyloid joints between the metacarpal heads and the prox...",
+      "Interphalangeal (IP) Joints: Uniaxial hinge joints (PIP and DIP) within the digits that permit only ...",
+      "Volar Plate: A thick, dense fibrocartilaginous ligament located on the palmar aspect of the MCP and ...",
+      "Power Grip: A forceful prehension pattern where the object is clamped tightly between the partially ...",
+      "Precision Grip (Prehension): A precise manipulation pattern where an object is pinched between the f...",
+      "Pinch Mechanisms: Specific patterns of precision grip, including tip-to-tip pinch, pad-to-pad (palma...",
+      "Intrinsic Plus Hand: The functional 'safe' position of the hand characterized by MCP joint flexion (...",
+      "Intrinsic Minus Hand: A pathological 'claw hand' deformity characterized by MCP joint hyperextension..."
+    ]
+  },
+  {
+    "chapterId": "bio_ch8",
+    "title": "Head, Neck, Trunk & Posture",
+    "subject": "Biomechanics & Kinesiology",
+    "subjectId": "biomechanics_kinesiology",
+    "keywords": [],
+    "definitions": [
+      "Vertebral Column: A flexible, segmented biomechanical pillar consisting of 33 vertebrae (24 articula...",
+      "Cervical Spine: The most mobile region of the vertebral column, consisting of an atypical upper cerv...",
+      "Thoracic Spine: The least mobile region of the true spine, characterized by long downward-pointing s...",
+      "Lumbar Spine: The massive, load-bearing region of the lower spine, characterized by large vertebral ...",
+      "Intervertebral Disc (IVD): A specialized fibrocartilaginous joint between vertebral bodies, consisti...",
+      "Pelvic Girdle: A rigid osteoarticular ring formed by the sacrum and paired innominate bones (ilium, ...",
+      "Anterior Pelvic Tilt: A sagittal plane movement where the anterior superior iliac spines (ASIS) move...",
+      "Posterior Pelvic Tilt: A sagittal plane movement where the ASIS move posteriorly and superiorly, res...",
+      "Pump Handle Motion: The biomechanical elevation of the upper ribs (Ribs 1-6) during inspiration, whi...",
+      "Bucket Handle Motion: The biomechanical elevation of the lower ribs (Ribs 7-10) during inspiration, ...",
+      "Temporomandibular Joint (TMJ): A bilateral, synovial, modified hinge joint separated by an articular...",
+      "Posture: The composite dynamic or static alignment of the various body segments relative to each oth...",
+      "Line of Gravity (LOG): An imaginary vertical plumb line passing through the body's center of gravity...",
+      "Forward Head Posture (Uppers Crossed Syndrome): A common postural deviation characterized by lower c...",
+      "Sway-Back Posture: A postural deviation characterized by a posterior displacement of the upper trunk...",
+      "Flat-Back Posture: A postural deviation characterized by a posterior pelvic tilt, decreased lumbar l...",
+      "Fryette's Laws of Spinal Motion: Three biomechanical rules governing spinal kinematics: Law I states...",
+      "Cobb Angle: The standard radiographic measurement used to quantify the magnitude of lateral spinal c...",
+      "TMJ Close-Packed Position: The position of maximum congruency of the temporomandibular joint, occurr...",
+      "TMJ Loose-Packed (Resting) Position: The resting posture of the jaw, characterized by the mouth bein...",
+      "TMJ Capsular Pattern: The characteristic restriction pattern of the temporomandibular joint capsule,..."
+    ]
+  },
+  {
+    "chapterId": "bio_ch9",
+    "title": "Pelvis & Hip Complex",
+    "subject": "Biomechanics & Kinesiology",
+    "subjectId": "biomechanics_kinesiology",
+    "keywords": [],
+    "definitions": [
+      "Acetabulofemoral Joint: A multiaxial ball-and-socket synovial joint formed by the articulation betwe...",
+      "Angle of Inclination: The frontal plane angle formed between the longitudinal axis of the femoral ne...",
+      "Coxa Vara: A pathological decrease in the angle of inclination (significantly less than 125 degrees)...",
+      "Coxa Valga: A pathological increase in the angle of inclination (significantly greater than 125 degr...",
+      "Angle of Torsion: The transverse plane angle formed by looking down the shaft of the femur, comparin...",
+      "Excessive Femoral Anteversion: A pathological increase in the angle of torsion (greater than 15 degr...",
+      "Femoral Retroversion: A pathological decrease in the angle of torsion (less than 15 degrees, or appr...",
+      "Trabecular Systems: Highly organized lines of cancellous (spongy) bone within the proximal femur (e....",
+      "Trendelenburg Sign: A clinical biomechanical phenomenon indicating weakness or dysfunction of the hi...",
+      "Hip Abductor Mechanism: The first-class lever system where the hip abductors (acting on the greater ..."
+    ]
+  },
+  {
+    "chapterId": "bio_ch10",
+    "title": "Knee Complex",
+    "subject": "Biomechanics & Kinesiology",
+    "subjectId": "biomechanics_kinesiology",
+    "keywords": [],
+    "definitions": [
+      "Tibiofemoral Joint: A complex modified hinge (double condyloid) synovial joint formed by the convex ...",
+      "Patellofemoral Joint: A plane or modified saddle joint formed by the posterior articular surface of ...",
+      "Menisci: Two asymmetric (medial 'C' shaped, lateral 'O' shaped) fibrocartilaginous discs located on ...",
+      "Anterior Cruciate Ligament (ACL): The primary static stabilizer resisting anterior translation of th...",
+      "Posterior Cruciate Ligament (PCL): The primary static stabilizer resisting posterior translation of ...",
+      "Medial Collateral Ligament (MCL): A broad, flat capsular ligament that provides the primary restrain...",
+      "Lateral Collateral Ligament (LCL): A cord-like extracapsular ligament that provides the primary rest...",
+      "Screw-Home Mechanism: The obligatory terminal external rotation of the tibia (during open-chain exte...",
+      "Popliteus: A key dynamic stabilizer and 'unlocking' muscle of the knee. It initiates knee flexion fr...",
+      "Q-Angle (Quadriceps Angle): The clinical measurement of the lateral line of pull of the quadriceps m..."
+    ]
+  },
+  {
+    "chapterId": "bio_ch11",
+    "title": "Ankle & Foot Complex",
+    "subject": "Biomechanics & Kinesiology",
+    "subjectId": "biomechanics_kinesiology",
+    "keywords": [],
+    "definitions": [
+      "Talocrural (Ankle) Joint: A uniaxial modified hinge joint formed by the articulation of the talus wi...",
+      "Subtalar Joint: The complex articulation between the inferior surface of the talus and the superior ...",
+      "Transverse Tarsal (Midtarsal) Joint: A compound joint consisting of the talonavicular and calcaneocu...",
+      "Pronation of the Foot: A complex triplanar motion combining eversion (frontal plane), dorsiflexion (...",
+      "Supination of the Foot: A complex triplanar motion combining inversion (frontal plane), plantarflexi...",
+      "Medial Longitudinal Arch: The highest and most flexible arch of the foot, composed of the calcaneus,...",
+      "Lateral Longitudinal Arch: A lower, flatter, and more rigid arch composed of the calcaneus, cuboid, ...",
+      "Transverse Arch: Formed by the cuneiforms, cuboid, and the bases of the metatarsals, creating a half...",
+      "Windlass Mechanism: A biomechanical phenomenon where dorsiflexion of the toes (specifically the MTP ...",
+      "Plantar Fascia (Aponeurosis): A thick, inelastic band of connective tissue spanning from the medial ..."
+    ]
+  },
+  {
+    "chapterId": "bio_ch12",
+    "title": "Gait Analysis",
+    "subject": "Biomechanics & Kinesiology",
+    "subjectId": "biomechanics_kinesiology",
+    "keywords": [],
+    "definitions": [
+      "Gait Cycle: The time interval or sequence of motions occurring between two consecutive initial conta...",
+      "Stride Length: The linear distance covered during one complete gait cycle, measured from the initial...",
+      "Step Length: The linear distance measured from the initial contact of one foot to the initial contac...",
+      "Cadence: The number of steps taken per minute. Average normal cadence for an adult is approximately ...",
+      "Velocity: The rate of linear forward motion of the body, measured in meters per second or meters per...",
+      "Width of Base (Base of Support): The linear distance between the midpoints of the heels during doubl...",
+      "Traditional Gait Terminology (Stance Phase): Consists of Heel Strike, Foot Flat, Mid Stance, Heel Of...",
+      "Rancho Los Amigos (RLA) Terminology (Stance Phase): An updated, functional classification consisting...",
+      "RLA Terminology (Swing Phase): Consists of Initial Swing, Mid Swing, and Terminal Swing....",
+      "Trendelenburg Gait: A pathological gait pattern caused by weakness of the hip abductors (Gluteus Med...",
+      "Gluteus Maximus Gait (Lurching Gait): Characterized by a posterior thrust of the trunk at initial co...",
+      "Antalgic Gait: A protective, painful gait pattern where the stance phase is significantly shortened ...",
+      "High Steppage Gait: Characterized by excessive hip and knee flexion during the swing phase to clear ...",
+      "Hemiplegic Circumductory Gait: A pattern seen in spastic hemiplegia where the patient swings the sti...",
+      "Parkinsonian Gait (Festinating Gait): Characterized by a stooped posture, rigid joints, short shuffl..."
+    ]
+  },
+  {
+    "chapterId": "bio_ch13",
+    "title": "Ergonomics & Occupational Health",
+    "subject": "Biomechanics & Kinesiology",
+    "subjectId": "biomechanics_kinesiology",
+    "keywords": [],
+    "definitions": [
+      "Ergonomics: The applied science of designing and arranging workplaces, products, and systems so that...",
+      "Occupational Biomechanics: The study of the physical interaction of workers with their tools, machin...",
+      "Workplace Risk Factors: Environmental or biomechanical elements that increase the probability of inj...",
+      "Repetitive Strain Injury (RSI): An umbrella term for injuries to the musculoskeletal and nervous sys...",
+      "Static Loading: The sustained contraction of muscles over prolonged periods (e.g., holding the head ...",
+      "Cumulative Trauma Disorders (CTD): Musculoskeletal conditions (e.g., carpal tunnel syndrome, tendino...",
+      "Squat Lift: A lifting technique where the knees and hips are deeply flexed, the back remains relativ...",
+      "Stoop Lift: A hazardous lifting technique where the knees remain extended and the trunk is flexed fo...",
+      "Semi-Squat Lift: A compromise lifting technique combining partial knee flexion and partial trunk fle...",
+      "Rapid Upper Limb Assessment (RULA): A systematic ergonomic screening tool used to evaluate biomechan...",
+      "Rapid Entire Body Assessment (REBA): A comprehensive observational ergonomic assessment tool designe...",
+      "NIOSH Lifting Equation: A mathematical formula developed by the National Institute for Occupational ...",
+      "Whole-Body Vibration (WBV): The mechanical vibration transmitted to the human body as a whole, commo...",
+      "Hand-Arm Vibration Syndrome (HAVS): A painful, progressive occupational disorder of the blood vessel..."
+    ]
+  },
+  {
+    "chapterId": "path_ch1",
+    "title": "Cell Injury & Adaptation",
+    "subject": "Pathology",
+    "subjectId": "pathology",
+    "keywords": [],
+    "definitions": [
+      "Aims and Objectives of Pathology: Pathology is the scientific study of disease, focusing on the stru...",
+      "Disease: A physiological or psychological dysfunction; an abnormal state where homeostatic mechanism...",
+      "Etiology: The study of the cause of a disease. It can be genetic (e.g., mutations) or acquired (e.g....",
+      "Pathogenesis: The sequence of cellular, biochemical, and molecular events that follow the exposure o...",
+      "Amyloidosis: A group of metabolic disorders characterized by abnormal extracellular tissue depositio..."
+    ]
+  },
+  {
+    "chapterId": "pharm_ch1",
+    "title": "General Pharmacology",
+    "subject": "Pharmacology",
+    "subjectId": "pharmacology",
+    "keywords": [],
+    "definitions": [
+      "Pharmacology: The science of drugs, encompassing their sources, chemical properties, biological effe...",
+      "Pharmacokinetics: The quantitative study of drug movement into, through, and out of the body (what t...",
+      "Pharmacodynamics: The study of the biochemical and physiological effects of drugs and their mechanis...",
+      "Bioavailability: The rate and extent to which the active drug ingredient is absorbed from a drug pro...",
+      "First-Pass Metabolism: The rapid clearance or degradation of an orally administered drug by liver en...",
+      "Therapeutic Index (TI): The ratio of the dose that produces toxicity (TD50 or LD50) to the dose that...",
+      "Drug Potency: The amount of drug (usually in milligrams) required to produce an effect of a given in...",
+      "Drug Efficacy: The maximum biological response achievable from a drug, regardless of the dose requir...",
+      "Essential Medicines: Drugs that satisfy the priority healthcare needs of the population, selected wi..."
+    ]
+  },
+  {
+    "chapterId": "micro_ch1",
+    "title": "Introduction to Microbiology & Bacterial Morphology",
+    "subject": "Microbiology",
+    "subjectId": "microbiology",
+    "keywords": [],
+    "definitions": [
+      "Koch's Postulates: A set of four scientific criteria established by Robert Koch to identify the spec...",
+      "Peptidoglycan (Murein): A complex polymeric meshwork of alternating N-acetylglucosamine (NAG) and N-...",
+      "Bacterial Capsule: A structured, gelatinous outer polysaccharide layer (except in Bacillus anthracis...",
+      "Bacterial Endospore: A highly resistant, metabolically dormant survival structure formed within cert...",
+      "Flagella: Helical, filamentous protein appendages composed of flagellin that protrude from the cell ...",
+      "Acid-Fastness: A physical property of certain bacteria characterized by their ability to resist deco...",
+      "Log Phase (Exponential Phase): The period of bacterial growth during which cells divide at a constan..."
+    ]
+  }
+]
