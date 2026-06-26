@@ -32,3 +32,17 @@ WBUHS:
   edition: "Standard Syllabus"
   publisher: "WBUHS"
   year: 2020
+
+APTA:
+  title: "Clinical Infection Control in Physical Therapy Guidelines"
+  authors: "American Physical Therapy Association"
+  edition: "Standard Guidelines"
+  publisher: "APTA"
+  year: 2018
+
+OSHA:
+  title: "Standards for Bloodborne Pathogen Exposure Prevention"
+  authors: "Occupational Safety and Health Administration"
+  edition: "CDC/OSHA Standards"
+  publisher: "OSHA"
+  year: 2016

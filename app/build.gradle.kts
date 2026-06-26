@@ -282,6 +282,45 @@ tasks.register("runCompiler") {
     }
 }
 
+tasks.register("runMigrator") {
+    doLast {
+        // Step 1: Force delete container-root conflict folders
+        println("Cleaning container root conflict folders...")
+        for (dir in listOf("master_knowledge", "validation")) {
+            val p = ProcessBuilder("rm", "-rf", "/$dir").start()
+            p.waitFor()
+        }
+        
+        // Step 2: Ensure physical directories exist in workspace
+        println("Creating physical directories in workspace...")
+        for (dir in listOf("schemas", "citation_registry", "master_knowledge", "validation", "generated_json")) {
+            File(rootDir, dir).mkdirs()
+        }
+        
+        // Step 3: Create symlinks
+        println("Creating symbolic links for absolute paths...")
+        for (dir in listOf("schemas", "citation_registry", "master_knowledge", "validation", "generated_json")) {
+            val target = "/$dir"
+            val link = File(rootDir, dir).absolutePath
+            val p = ProcessBuilder("ln", "-sfT", link, target).start()
+            p.waitFor()
+        }
+        
+        // Step 4: Run batch_migrator.py
+        println("Running batch_migrator.py...")
+        val process = ProcessBuilder("python3", "scripts/batch_migrator.py")
+            .directory(rootDir)
+            .start()
+        val output = process.inputStream.bufferedReader().readText()
+        val error = process.errorStream.bufferedReader().readText()
+        println("STDOUT:\n$output")
+        println("STDERR:\n$error")
+        if (process.waitFor() != 0) {
+            throw GradleException("Python scripts/batch_migrator.py failed with exit code ${process.exitValue()}")
+        }
+    }
+}
+
 
 
 

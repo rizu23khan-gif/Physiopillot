@@ -41,6 +41,9 @@ def load_content_registry(registry_path="/app/src/main/assets/content_registry.j
     return []
 
 def get_target_filename(chapter_id, registry_list):
+    # Normalize et2_ift filename mapping to match the physical file and Kotlin runtime expectation
+    if chapter_id == "et2_ift":
+        return "et2_ift.json"
     for entry in registry_list:
         if entry.get("chapterId") == chapter_id:
             return entry.get("contentFile")

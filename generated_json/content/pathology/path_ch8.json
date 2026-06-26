@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "chapterId": "path_ch8",
+    "title": "",
+    "subject": "Pathology",
+    "subjectId": "pathology",
+    "version": "1.0",
+    "lastUpdated": "2026-06-26",
+    "status": "published",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": []
+  },
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [],
+    "coreConcepts": [],
+    "equipment": []
+  },
+  "clinicalCorrelations": {
+    "pearls": [],
+    "precautions": [],
+    "indications": [],
+    "contraindications": {
+      "general": [],
+      "local": []
+    },
+    "technique": {
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": []
+    },
+    "protocols": [],
+    "physiologicalEffects": []
+  },
+  "clinicalCases": [],
+  "subjectExtensions": {},
+  "mcqs": [
+    {
+      "id": "mcq_path_ch8_001",
+      "question": "The most common nutritional deficiency globally, leading to microcytic, hypochromic anemia, is:",
+      "options": [
+        "Vitamin B12 deficiency",
+        "Folic acid deficiency",
+        "Iron deficiency",
+        "Vitamin C deficiency"
+      ],
+      "answer": "Iron deficiency",
+      "explanation": "Iron is required for hemoglobin synthesis; its deficiency leads to small (microcytic) and pale (hypochromic) red blood cells."
+    },
+    {
+      "id": "mcq_path_ch8_002",
+      "question": "Pernicious anemia is a specific type of megaloblastic anemia caused by an autoimmune destruction of gastric parietal cells, leading to a lack of:",
+      "options": [
+        "Erythropoietin",
+        "Intrinsic Factor",
+        "Iron",
+        "Transferrin"
+      ],
+      "answer": "Intrinsic Factor",
+      "explanation": "Intrinsic factor is secreted by gastric parietal cells and is essential for the absorption of Vitamin B12 in the terminal ileum."
+    },
+    {
+      "id": "mcq_path_ch8_003",
+      "question": "Which of the following is a classic clinical manifestation of Hemophilia A?",
+      "options": [
+        "Recurrent deep vein thrombosis",
+        "Spontaneous bleeding into large joints (Hemarthrosis)",
+        "Widespread petechiae on the skin",
+        "Enlargement of lymph nodes"
+      ],
+      "answer": "Spontaneous bleeding into large joints (Hemarthrosis)",
+      "explanation": "Deficiencies in coagulation factors (Hemophilia) typically cause deep tissue and joint bleeding, unlike platelet defects which cause petechiae and mucosal bleeding."
+    },
+    {
+      "id": "mcq_path_ch8_004",
+      "question": "A histological report describing the presence of large, binucleate 'owl-eye' Reed-Sternberg cells in a lymph node biopsy is diagnostic for:",
+      "options": [
+        "Acute Lymphoblastic Leukemia (ALL)",
+        "Non-Hodgkin Lymphoma",
+        "Hodgkin Lymphoma",
+        "Multiple Myeloma"
+      ],
+      "answer": "Hodgkin Lymphoma",
+      "explanation": "The Reed-Sternberg cell is the pathognomonic diagnostic hallmark of Hodgkin lymphoma."
+    },
+    {
+      "id": "mcq_path_ch8_005",
+      "question": "Sickle cell anemia is caused by a point mutation leading to the substitution of glutamic acid by which amino acid in the beta-globin chain?",
+      "options": [
+        "Lysine",
+        "Valine",
+        "Histidine",
+        "Proline"
+      ],
+      "answer": "Valine",
+      "explanation": "The substitution of glutamic acid with valine at the 6th position creates HbS, which polymerizes under deoxygenated conditions, distorting the RBC."
+    },
+    {
+      "id": "mcq_path_ch8_006",
+      "question": "Which of the following characterizes an acute leukemia compared to a chronic leukemia?",
+      "options": [
+        "Proliferation of fully mature, functional leukocytes",
+        "Slow, indolent clinical course lasting years",
+        "Accumulation of immature 'blast' cells in the bone marrow",
+        "It only affects the lymphoid lineage"
+      ],
+      "answer": "Accumulation of immature 'blast' cells in the bone marrow",
+      "explanation": "Acute leukemias are defined by a block in differentiation, leading to a rapid accumulation of immature blast cells and a highly aggressive clinical course."
+    },
+    {
+      "id": "mcq_path_ch8_007",
+      "question": "Thalassemia is best described as a hemolytic anemia resulting from:",
+      "options": [
+        "An acquired autoantibody against red blood cells",
+        "An inherited defect causing reduced synthesis of normal globin chains",
+        "A structural point mutation in the globin chain",
+        "Deficiency of Vitamin B12"
+      ],
+      "answer": "An inherited defect causing reduced synthesis of normal globin chains",
+      "explanation": "Thalassemias are quantitative defects (reduced amount of structurally normal globin chains), whereas sickle cell is a qualitative defect (structurally abnormal chain)."
+    },
+    {
+      "id": "mcq_path_ch8_008",
+      "question": "A patient presents with numerous small (1-2mm) red spots on their skin (petechiae). This finding strongly suggests an abnormality in:",
+      "options": [
+        "Factor VIII",
+        "Platelet count or function",
+        "Red blood cell production",
+        "Fibrinogen"
+      ],
+      "answer": "Platelet count or function",
+      "explanation": "Petechiae are the classic hallmark of primary hemostasis defects, typically thrombocytopenia (low platelets)."
+    }
+  ],
+  "viva": [],
+  "flashcards": [],
+  "pyqs": [],
+  "references": []
+}

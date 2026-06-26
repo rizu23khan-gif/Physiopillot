@@ -1,7 +1,7 @@
 {
   "metadata": {
     "chapterId": "el1_ch1",
-    "title": "Fundamentals of Biophysics & Currents",
+    "title": "",
     "subject": "Electrotherapy I",
     "subjectId": "electrotherapy_i",
     "version": "1.0",
@@ -14,114 +14,30 @@
   },
   "learningObjectives": [],
   "theory": {
-    "definitions": [
-      "Electricity is a form of energy resulting from the existence of charged particles (electrons or protons), either statically as an accumulation of charge or dynamically as a current.",
-      "Potential Difference (Voltage): The electromotive force or electrical pressure that drives charged particles through a conductor, measured in Volts (V). Created by chemical, mechanical, or magnetic means.",
-      "Electrical Current (Intensity): The rate of flow of electric charge past a point or region, measured in Amperes (A) or milliamperes (mA). In biological tissues, current is primarily conducted by mobile ions (sodium, potassium, chloride).",
-      "Electrical Resistance (Ohmic): The opposition that a substance offers to the flow of continuous direct current, measured in Ohms (\u03a9). It depends on the material's resistivity, length, and cross-sectional area.",
-      "Capacitance: The ability of a system to store an electric charge across an insulating dielectric barrier when a potential difference exists, measured in Farads (F). In human tissue, cell membranes act as biological capacitors.",
-      "Inductance: The property of an electrical conductor by which a change in current flowing through it induces an electromotive force in both the conductor itself and in any nearby conductors, measured in Henrys (H).",
-      "Impedance: The total opposition presented by a circuit or biological tissue to the flow of alternating current at a specific frequency, consisting of Ohmic resistance and capacitive/inductive reactance."
-    ],
-    "coreConcepts": [
-      "Ohm's Law: Dictates that current (I) is directly proportional to voltage (V) and inversely proportional to resistance (R), formulated as I = V / R. In clinical therapy, higher skin resistance reduces current delivery for a given voltage.",
-      "Joule's Law of Heating: States that the rate of heat production (H) in a conductor is proportional to the square of the current (I), the resistance of the conductor (R), and the duration of flow (t), written as H = I\u00b2 * R * t.",
-      "Faraday's Laws of Electromagnetism: Explain how a changing magnetic fields induces an electromotive force in surrounding conductive tissues or loops. This governs electromagnetic induction systems.",
-      "Coulomb's Law: Describes the electrostatic force of attraction or repulsion between two point charges, which is directly proportional to the product of their charges and inversely proportional to the square of the distance between them."
-    ],
-    "equipment": [
-      "Electrotherapeutic Stimulator Console (Generates Low and Medium frequency waveforms)",
-      "Insulated Lead Wires (Color-coded red for anode, black for cathode)",
-      "Electrodes: Carbon-rubber electrodes, vacuum cups, or self-adhesive hydrogel pads",
-      "Sponges (At least 1 cm thickness when soaked in saline to optimize ion conductibility)"
-    ]
+    "definitions": [],
+    "coreConcepts": [],
+    "equipment": []
   },
   "clinicalCorrelations": {
-    "pearls": [
-      "Skin behaves as a parallel resistor-capacitor network. To bypass high capacitive skin impedance without causing pain, use medium-frequency carrier currents (e.g., 4000 Hz) which encounter less reactance than low-frequency currents."
-    ],
-    "precautions": [
-      "Inspect skin under and around the electrodes immediately after treatment for chemical burns or erythema.",
-      "Decrease intensity at any sign of patient discomfort or description of localized piercing hot spots."
-    ],
-    "indications": [
-      "Neuromuscular re-education of paretic or weak muscles.",
-      "Circulatory enhancement via rhythmical muscle pumping action.",
-      "Pain modulation utilizing high-frequency gate control or low-frequency endorphinergic mechanisms."
-    ],
+    "pearls": [],
+    "precautions": [],
+    "indications": [],
     "contraindications": {
-      "general": [
-        "Indwelling cardiac pacemaker or implanted cardioverter-defibrillator (ICD).",
-        "Unstable cardiac arrhythmias or tissue over active carotid sinus."
-      ],
-      "local": [
-        "Over the abdomen, pelvis, or lower back of pregnant patients.",
-        "Areas of active deep vein thrombosis (DVT) or thrombophlebitis.",
-        "Malignant neoplasm sites or areas with active hemorrhaging."
-      ]
+      "general": [],
+      "local": []
     },
     "technique": {
-      "patientPreparation": [
-        "Explain the exact test or treatment sensation to match expectations (e.g., prickly, warm tingling, muscle squeeze).",
-        "Explain that a burning or painful sensation is abnormal and must be immediately reported.",
-        "Positions the patient comfortably with the targeted limbs fully supported on bolsters."
-      ],
-      "apparatusPreparation": [
-        "Perform a physical check of the machine's power cord, dial/touch controls, and lead wire insulation.",
-        "Check that controls are at zero before turning on the power to prevent accidental shock."
-      ],
-      "skinPreparation": [
-        "Inspect the skin area for abrasions, open wounds, cuts, or local skin diseases.",
-        "Wash the localized area with warm soap and water to clear sebum and skin scaling, lowering resistance by up to 50%."
-      ],
-      "electrodePlacement": [
-        "For motor stimulation, place the active electrode precisely over the muscle's anatomical motor point.",
-        "Ensure uniform contact across the entire pad surface; secure with elastic straps or vacuum suction."
-      ],
-      "treatmentProcedure": [
-        "Slowly raise the intensity dial while continuously checking patient tactile feedback.",
-        "Always ramp down the current slowly to zero at the end of the session before turning off current paths."
-      ]
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": []
     },
-    "protocols": [
-      {
-        "condition": "Acute Pain Management (TENS Gate Therapy)",
-        "position": "Comfortable side-lying with pillow under knees",
-        "electrodePlacement": "Dual channel, cross-bracketing the arthritic knee joint",
-        "frequency": "80 Hz to 120 Hz, continuous mode",
-        "purpose": "A-beta sensory fiber stimulation to inhibit nociceptors"
-      }
-    ],
-    "physiologicalEffects": [
-      {
-        "effect": "Ionic Migration",
-        "frequency": "Continuous Direct Current (0 Hz)",
-        "mechanism": [
-          "Negatively charged anions migrate toward the positive anode (acidic reaction).",
-          "Positively charged cations migrate toward the negative cathode (alkaline reaction)."
-        ]
-      },
-      {
-        "effect": "Cell Membrane Depolarization",
-        "frequency": "1 Hz to 150 Hz",
-        "mechanism": [
-          "Pulsed currents alter the trans-membrane potential of peripheral motor and sensory nerves.",
-          "Triggers voltage-gated sodium channels to initiate action potentials."
-        ]
-      }
-    ]
+    "protocols": [],
+    "physiologicalEffects": []
   },
   "clinicalCases": [],
-  "subjectExtensions": {
-    "anatomy": {
-      "parameters": {
-        "voltageMaximum": "0 to 120 V",
-        "intensityMaximum": "0 to 80 mA",
-        "lowFrequencyRange": "1 Hz to 250 Hz",
-        "mediumFrequencyRange": "1000 Hz to 10000 Hz"
-      }
-    }
-  },
+  "subjectExtensions": {},
   "mcqs": [
     {
       "id": "mcq_el1_ch1_001",
@@ -484,83 +400,8 @@
       "explanation": "Vacuum Cup Electrodes use negative pressure suction to adhere to the skin, which also improves local vascularization under the pad."
     }
   ],
-  "viva": [
-    {
-      "id": "viva_el1_ch1_001",
-      "question": "What is Ohm's Law and why is it crucial in physical electrotherapy?",
-      "answer": "Ohm's Law is formulated as I = V/R, stating that the current (I) is directly proportional to voltage (V) and inversely proportional to resistance (R). Clinically, skin acts as a high-resistance barrier. If we do not clean the skin and moisten the pads to lower resistance (R), we must apply high voltage (V) to achieve the therapeutic current (I), increasing the risk of painful electrochemical skin burns.",
-      "keyPoints": "Formula I = V/R, skin resistance, dangerous high voltage, potential burn risk.",
-      "clinicalImportance": "Guides the clinical preparation of skin and electrodes."
-    },
-    {
-      "id": "viva_el1_ch1_002",
-      "question": "Differentiate between electrical resistance and electrical impedance.",
-      "answer": "Resistance is the opposition offered to continuous direct current (Ohmic resistance). Impedance (Z) is the total opposition offered to alternating current, composed of both resistance and frequency-dependent capacitive and inductive reactance. Human skin has high capacitance, meaning impedance falls significantly as frequency rises.",
-      "keyPoints": "Resistance (DC), Impedance (AC), reactance components, frequency-dependent behavior.",
-      "clinicalImportance": "Explains why medium frequency currents (like IFT) pass through skin with less discomfort."
-    },
-    {
-      "id": "viva_el1_ch1_003",
-      "question": "According to Joule's Law, what factors determine the clinical heat generated in tissue during therapy?",
-      "answer": "Joule's Law states H = I\u00b2 * R * t, meaning heat (H) is proportional to current squared (I\u00b2), tissue resistance (R), and duration of current flow (t). To avoid burns, physical therapists must control current density (reducing I by using larger pads) and treatment duration (t).",
-      "keyPoints": "H = I\u00b2 * R * t formula, current density, resistance of tissue, duration.",
-      "clinicalImportance": "Forms the foundation of electrical safety and burn prevention."
-    },
-    {
-      "id": "viva_el1_ch1_004",
-      "question": "Briefly state the clinical significance of a capacitive biological membrane.",
-      "answer": "Cell membranes act as capacitors (dielectric bilayer separating conductive ionic fluids). They block low frequency DC except when polarized, but easily pass high frequency AC currents. This requires us to use shorter pulse widths or higher frequencies to stimulate deep motor tissues without skin discomfort.",
-      "keyPoints": "Lipid bilayer capacitor, frequency transmission, low vs high frequency.",
-      "clinicalImportance": "Explains the physiological response difference between DC and high-frequency currents."
-    },
-    {
-      "id": "viva_el1_ch1_005",
-      "question": "What is current density and why does it matter when choosing electrode size?",
-      "answer": "Current density is the amount of electrical current flowing per unit of electrode surface area (mA/cm\u00b2). If we use a very small active electrode with high current, the current density is dense, leading to sharp localized excitation or skin burns. Larger dispersive electrodes reduce current density.",
-      "keyPoints": "mA/cm\u00b2, active vs dispersive electrode size, skin sensation.",
-      "clinicalImportance": "Dictates selection of appropriate electrode sizes based on intent."
-    },
-    {
-      "id": "viva_el1_ch1_006",
-      "question": "Why must we always set treatment knobs to zero before starting a machine or changing modalities?",
-      "answer": "Setting controls to zero prevents delivering a sudden surge of high voltage to the patient (known as 'galvanic shock'). Sudden current rises trigger full muscle spasms and sharp pain due to instantaneous motor unit polarization.",
-      "keyPoints": "Galvanic shock prevention, sudden muscle spasm, safety sequencing.",
-      "clinicalImportance": "Safeguards patients against painful electrical accidents."
-    },
-    {
-      "id": "viva_el1_ch1_007",
-      "question": "How does washing the skin with water or alcohol influence electrotherapy parameters?",
-      "answer": "Clean skin removes natural sebum, dry desquamated cells, and skin oils that act as insulators. This significantly reduces Ohmic resistance, decreasing the voltage needed to drive therapeutic currents and ensuring comfortable stimulation.",
-      "keyPoints": "Removal of sebum, reduction of resistance, lower treatment voltage.",
-      "clinicalImportance": "Enhances treatment comfort and efficacy."
-    },
-    {
-      "id": "viva_el1_ch1_008",
-      "question": "What is phase charge and why is it referred to as the 'currency of excitation'?",
-      "answer": "Phase charge is the total electrical energy delivered during a single phase of a pulse, equal to the area under the amplitude-time curve (Current x Duration). It represents the exact charge quantity required to depolarize a nerve membrane above its motor threshold.",
-      "keyPoints": "Area under the curve, current times pulse duration, depolarization threshold.",
-      "clinicalImportance": "Governs the selection of comfortable stimulator settings."
-    },
-    {
-      "id": "viva_el1_ch1_009",
-      "question": "Under what physical conditions does an electrical 'hot spot' occur clinical?",
-      "answer": "A hot spot occurs when current is unevenly distributed across the electrode, concentrating current density at a single small skin area. This is caused by loose electrode strapping, air bubbles, dry sponges, or bent metal pins.",
-      "keyPoints": "Uneven current distribution, dry coupling surface, skin abrasion.",
-      "clinicalImportance": "High burn hazard; requires immediate inspection during therapy."
-    },
-    {
-      "id": "viva_el1_ch1_010",
-      "question": "What is a dielectric and what acts as a biological dielectric?",
-      "answer": "A dielectric is an insulating material or substance that can transmit electrical force without conduction. In the body, the lipid bilayer of cell membranes and myelin sheaths of nerve axons act as biological dielectrics.",
-      "keyPoints": "Insulation, lipid bilayer, myelin sheath.",
-      "clinicalImportance": "Determines the electrical impedance properties of tissues."
-    }
-  ],
+  "viva": [],
   "flashcards": [],
   "pyqs": [],
-  "references": [
-    "Clayton's Electrotherapy, 9th Edition - Section 1: General Physics and Biophysics",
-    "Low & Reed - Electrotherapy Explained: Principles and Practice, 4th Edition - Chapter 1",
-    "Jagmohan Singh - Textbook of Electrotherapy, 3rd Edition - Chapter 1"
-  ]
+  "references": []
 }

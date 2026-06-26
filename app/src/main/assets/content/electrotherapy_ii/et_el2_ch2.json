@@ -160,23 +160,6 @@
     ]
   },
   "clinicalCases": [],
-  "subjectExtensions": {
-    "anatomy": {
-      "parameters": {
-        "currentType": "Pulsed rectangular current",
-        "frequencyRange": "1 Hz to 150 Hz",
-        "highTENSFrequency": "100\u2013150 Hz",
-        "highTENSPulseWidth": "100 and 500 ms (as specified in textbook source)",
-        "highTENSIntensity": "12\u201330 mA (sensory warmth, below motor threshold)",
-        "lowTENSFrequency": "1\u20135 Hz",
-        "lowTENSPulseWidth": "100 and 500 ms (as specified in textbook source)",
-        "lowTENSIntensity": "30 mA or more (producing clear muscle twitching/sensory contraction)",
-        "burstTENSRepeatRate": "1\u20135 bursts per second",
-        "burstTrainDuration": "70 ms",
-        "treatmentTime": "40 minutes for single daily session, or up to 24 hours continuously using portable units"
-      }
-    }
-  },
   "mcqs": [
     {
       "id": "mcq_el2_ch2_001",
@@ -616,5 +599,22 @@
   "references": [
     "Jagmohan Singh - Textbook of Electrotherapy - Low Frequency Currents - Transcutaneous Electrical Nerve Stimulation",
     "Melzack & Wall - Pain Gate Control Theory (1965/1982)"
-  ]
+  ],
+  "subjectExtensions": {
+    "anatomy": {
+      "parameters": {
+        "currentType": "Pulsed rectangular current",
+        "frequencyRange": "1 Hz to 150 Hz",
+        "highTENSFrequency": "100\u2013150 Hz",
+        "highTENSPulseWidth": "100 and 500 ms (as specified in textbook source)",
+        "highTENSIntensity": "12\u201330 mA (sensory warmth, below motor threshold)",
+        "lowTENSFrequency": "1\u20135 Hz",
+        "lowTENSPulseWidth": "100 and 500 ms (as specified in textbook source)",
+        "lowTENSIntensity": "30 mA or more (producing clear muscle twitching/sensory contraction)",
+        "burstTENSRepeatRate": "1\u20135 bursts per second",
+        "burstTrainDuration": "70 ms",
+        "treatmentTime": "40 minutes for single daily session, or up to 24 hours continuously using portable units"
+      }
+    }
+  }
 }

@@ -567,11 +567,6 @@ fun PhysiologyTabContent(content: InteractiveChapterContent, themeColor: Color, 
     }
 
     Column(verticalArrangement = Arrangement.spacedBy(16.dp)) {
-        if (isExerciseTherapy) {
-            DevelopmentMessageCard("Content under development", themeColor)
-            return@Column
-        }
-
         // 1. 3-Level Concept Explainer
         Card(
             modifier = Modifier.fillMaxWidth(),

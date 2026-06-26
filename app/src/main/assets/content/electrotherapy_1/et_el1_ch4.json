@@ -1,7 +1,7 @@
 {
   "metadata": {
     "chapterId": "el1_ch4",
-    "title": "Introductory Electro-Diagnostics",
+    "title": "",
     "subject": "Electrotherapy I",
     "subjectId": "electrotherapy_i",
     "version": "1.0",
@@ -14,113 +14,30 @@
   },
   "learningObjectives": [],
   "theory": {
-    "definitions": [
-      "Electro-Diagnostics: The use of electrical stimulation to assess the excitability, integrity, and functional status of peripheral nerves and skeletal muscles.",
-      "Strength-Duration (S-D) Curve: A graphical plot representing the relationship between the intensity of an electrical stimulus (strength) and the pulse duration required to elicit a threshold response in excitable tissue.",
-      "Rheobase: The minimum current intensity (measured in mA or Volts) of infinite duration (clinically represented by 100 ms or 300 ms pulses) required to produce a threshold visible muscle contraction.",
-      "Chronaxie: The minimum pulse duration (measured in milliseconds) required to elicit a threshold muscle contraction when applying a current intensity exactly double the rheobase value.",
-      "Accommodation Index: The ratio of the threshold current required to elicit muscle contraction using slow-rising (triangular) pulses to that required using rapid-rising (rectangular) pulses.",
-      "Galvanic-Faradic Test: A classical qualitative electrodiagnostic test comparing a muscle's response to long-duration galvanic (100 ms) and short-duration Faradic (1 ms) current."
-    ],
-    "coreConcepts": [
-      "Axonal vs. Myofibrillar Excitability: Healthy myelinated motor axons have a highly sensitive threshold and very short chronaxie (0.01 to 0.5 ms). Denervated muscle fibers lack myelin insulation, raising their threshold and shifting their chronaxie to much longer durations (10 to 50 ms).",
-      "S-D Curve Shift in Denervation: Nerve injury shifts the S-D curve upward and to the right, reflecting loss of myelin axons and higher excitation thresholds. In partial denervation, a 'kink' appears in the curve, indicating a mix of innervated and denervated fibers.",
-      "Accommodation Principle: Motor nerves accommodate easily to slow-rising currents, whereas denervated muscle membranes have minimal accommodation capacity, allowing them to depolarize in response to slow-rising triangular pulses."
-    ],
-    "equipment": [
-      "Diagnostic Electrodiagnostic Stimulator (Capable of switching between constant current CC and constant voltage CV, and delivering pulse durations from 0.01 ms to 100-300 ms)",
-      "Precise Active Diagnostic Pen Electrode (with a built-in current trigger key)",
-      "Large Dispersive Sponge Pad Electrode",
-      "Graph Template Sheet or digital plotting interface"
-    ]
+    "definitions": [],
+    "coreConcepts": [],
+    "equipment": []
   },
   "clinicalCorrelations": {
-    "pearls": [
-      "A kink in the S-D curve is a classic sign of partial denervation, representing a mix of healthy innervated fibers (responding at short durations) and denervated fibers (responding at longer durations). Tracking this kink over time helps monitor the progress of nerve regeneration."
-    ],
-    "precautions": [
-      "Avoid muscle fatigue during testing by keeping pulse intervals long (e.g., 2 seconds between pulses).",
-      "Ensure skin contact with the active pen electrode is consistent throughout testing; variations in hand pressure can skew results."
-    ],
-    "indications": [
-      "Assessment of peripheral nerve lesions (e.g., foot drop from common peroneal nerve palsy, wrist drop from radial nerve injury).",
-      "Differentiation between neurapraxia, axonotmesis, and neurotmesis (S-D curves and chronaxie monitoring).",
-      "Monitoring nerve regeneration progress during rehabilitation.",
-      "Diagnostic evaluation of facial nerve function in Bell's Palsy."
-    ],
+    "pearls": [],
+    "precautions": [],
+    "indications": [],
     "contraindications": {
-      "general": [
-        "Pacemaker, implanted cardioverter-defibrillator, or unstable cardiac conditions.",
-        "Inability of patient to tolerate electrical stimulation or cooperate with testing."
-      ],
-      "local": [
-        "Over fresh surgical sites, active skin infections, or open wounds.",
-        "Over direct sites of tissue malignancy or vascular thrombosis."
-      ]
+      "general": [],
+      "local": []
     },
     "technique": {
-      "patientPreparation": [
-        "Explain that the test uses isolated mild electrical pulses to produce brief muscle twitches.",
-        "Reassure the patient that the pulses are temporary and will not cause sustained painful spasms."
-      ],
-      "apparatusPreparation": [
-        "Ensure the diagnostic stimulator is set to constant current (CC) mode.",
-        "Verify the pulse duration selector is functioning, starting at 100 ms (analogous to infinite duration)."
-      ],
-      "skinPreparation": [
-        "Wash the testing skin area with soap and warm water to reduce resistance.",
-        "Moisten the active and dispersive electrode sponges with warm saline."
-      ],
-      "electrodePlacement": [
-        "Position the dispersive electrode over an trunk or proximal site.",
-        "Place the active diagnostic pen electrode precisely over the motor point of the target muscle."
-      ],
-      "treatmentProcedure": [
-        "Deliver a pulse at 100 ms duration and slowly raise the intensity until a minimal visible twitch is elicited. Record this value as the Rheobase.",
-        "Shorten pulse durations progressively (e.g., 50 ms, 30 ms, 10 ms, down to 0.01 ms), adjusting intensity at each step to maintain a threshold twitch. Record all values.",
-        "To find Chronaxie, double the recorded Rheobase intensity and locate the minimum pulse duration that still elicits a threshold twitch."
-      ]
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": []
     },
-    "protocols": [
-      {
-        "condition": "Radial Nerve Wrist Drop Diagnostic Audit",
-        "position": "Forearm supported on table, wrist in neutral or slightly flexed",
-        "electrodePlacement": "Active pen electrode over the extensor digitorum communis motor point, dispersive electrode over the elbow",
-        "frequency": "Initially at onset of injury, and repeated once every 2 weeks to monitor progress",
-        "purpose": "Identify injury classification (axonotmesis vs. neurotmesis) and monitor recovery"
-      }
-    ],
-    "physiologicalEffects": [
-      {
-        "effect": "Threshold Muscle Twitch",
-        "frequency": "Single Isolated Pulses (approx. 0.5 Hz)",
-        "mechanism": [
-          "Single pulse depolarizes nerve or muscle membrane above threshold.",
-          "Initiates an isolated, synchronous contraction (twitch) of the motor unit."
-        ]
-      },
-      {
-        "effect": "Selective Muscle Fiber Excitation",
-        "frequency": "Adjustable (0.01 ms to 300 ms durations)",
-        "mechanism": [
-          "Short pulses (<1 ms) selectively excite highly excitable myelinated motor nerves.",
-          "Long pulses (>10 ms) bypass degenerated nerve axon block to directly excite denervated sarcolemma."
-        ]
-      }
-    ]
+    "protocols": [],
+    "physiologicalEffects": []
   },
   "clinicalCases": [],
-  "subjectExtensions": {
-    "anatomy": {
-      "parameters": {
-        "normalRheobaseRange": "2 mA to 8 mA",
-        "normalChronaxieRange": "0.05 ms to 0.5 ms (for healthy innervated muscle-nerve units)",
-        "denervatedChronaxieRange": "10 ms to 50 ms (for denervated skeletal muscle tissue)",
-        "normalAccommodationRatio": "3 to 6",
-        "denervatedAccommodationRatio": "1 to 1.5"
-      }
-    }
-  },
+  "subjectExtensions": {},
   "mcqs": [
     {
       "id": "mcq_el1_ch4_001",
@@ -483,83 +400,8 @@
       "explanation": "A leftward shift indicates active nerve recovery and muscle re-innervation, as thresholds improve and respond to shorter durations."
     }
   ],
-  "viva": [
-    {
-      "id": "viva_el1_ch4_001",
-      "question": "Define Rheobase and Chronaxie and state their normal clinical values.",
-      "answer": "Rheobase is the minimum current intensity (in mA or Volts) of infinite pulse duration required to elicit a threshold muscle contraction, with normal values between 2 and 8 mA. Chronaxie is the minimum pulse duration required to elicit a threshold contraction at double the rheobase intensity, with normal innervated tissue values between 0.05 and 0.5 ms.",
-      "keyPoints": "Definitions, units, infinite duration, double-rheobase relationship, normal ranges.",
-      "clinicalImportance": "Clinically quantifies nerve excitability and detects denervation."
-    },
-    {
-      "id": "viva_el1_ch4_002",
-      "question": "How does the S-D curve change in response to complete denervation?",
-      "answer": "In complete denervation, the S-D curve shifts upward and to the right, becoming steep and straight with no kink. Short duration pulses (<1 ms) fail to elicit a response, and the chronaxie is prolonged above 10 ms.",
-      "keyPoints": "Upward/rightward shift, steep profile, absence of kink, chronaxie >10 ms.",
-      "clinicalImportance": "Confirms complete loss of nerve supply, distinguishing it from partial lesions."
-    },
-    {
-      "id": "viva_el1_ch4_003",
-      "question": "What does a 'kink' in an S-D curve represent clinically?",
-      "answer": "A kink represents partial denervation and partial innervation. It occurs because the curve is a composite of healthy fibers (which respond to short-duration pulses) and denervated fibers (which only respond to long-duration pulses).",
-      "keyPoints": "Composite curve, partial denervation, shifts in kink position.",
-      "clinicalImportance": "Confirms a partial nerve lesion and serves as an index of active nerve recovery."
-    },
-    {
-      "id": "viva_el1_ch4_004",
-      "question": "Why do myelinated nerves have a much shorter chronaxie than denervated muscle tissue?",
-      "answer": "Myelinated nerve axons have a high density of voltage-gated sodium channels at the Nodes of Ranvier, allowing rapid depolarization (chronaxie 0.05-0.5 ms). Denervated muscle fibers lack myelin and have slower channel kinetics, requiring longer pulse durations (10-50 ms) to depolarize.",
-      "keyPoints": "Nodes of Ranvier, sodium channel density, myelin insulation.",
-      "clinicalImportance": "Explains the selective stimulation of nerve vs. muscle tissue."
-    },
-    {
-      "id": "viva_el1_ch4_005",
-      "question": "What is the Galvanic-Faradic test and what are its diagnostic limitations?",
-      "answer": "The Galvanic-Faradic test is a qualitative assessment comparing a muscle's response to long-duration galvanic (100 ms) and short-duration Faradic (1 ms) current. It is simple but qualitative and subjective, making it less reliable than quantitative S-D curve assessments.",
-      "keyPoints": "Galvanic (100 ms) vs Faradic (1 ms), qualitative nature, modern limitations.",
-      "clinicalImportance": "Provides a quick bedside screening tool, though quantitative tests are preferred for detailed assessment."
-    },
-    {
-      "id": "viva_el1_ch4_006",
-      "question": "Explain the Accommodation Index and its values in innervated versus denervated tissue.",
-      "answer": "The Accommodation Index is the ratio of contraction threshold for slow-rising triangular pulses to that for rapid-rising rectangular pulses. Innervated muscles accommodate easily, yielding a ratio of 3 to 6. Denervated muscles accommodate poorly, yielding a ratio of 1 to 1.5.",
-      "keyPoints": "Ratio calculation, triangular vs. rectangular thresholds, normal vs denervated values.",
-      "clinicalImportance": "Useful diagnostic indicator of active nerve supply."
-    },
-    {
-      "id": "viva_el1_ch4_007",
-      "question": "Why is constant current (CC) mode preferred over constant voltage (CV) mode for S-D curve plotting?",
-      "answer": "Skin resistance changes when electrodes are moved. CC mode automatically adjusts voltage to keep current stable, ensuring accurate threshold measurements. CV mode would allow current to fluctuate with resistance, skewing the curve.",
-      "keyPoints": "Skin resistance variations, active electrode movement, current stability.",
-      "clinicalImportance": "Prevents diagnostic reading errors caused by skin resistance changes."
-    },
-    {
-      "id": "viva_el1_ch4_008",
-      "question": "During an S-D curve test, how do you prevent muscle fatigue from skewing results?",
-      "answer": "To prevent fatigue, keep the pulse frequency low (approx. 0.5 Hz, or 1 pulse every 2 seconds) and utilize the minimum current intensity necessary to elicit a threshold response. Avoid repetitive, rapid stimulation of the same muscle.",
-      "keyPoints": "Low pulse frequency, rest intervals, minimal threshold intensity.",
-      "clinicalImportance": "Ensures consistent muscle responsiveness, preventing false denervation readings."
-    },
-    {
-      "id": "viva_el1_ch4_009",
-      "question": "How does cold skin temperature affect S-D curve readings and how is it managed?",
-      "answer": "Cold temperatures decrease nerve conduction velocity and muscle excitability, fictitiously raising the rheobase and prolonging the chronaxie. This is managed by pre-warming the limb to a normal skin temperature prior to testing.",
-      "keyPoints": "Cold effects on conduction/excitability, false readings, pre-warming.",
-      "clinicalImportance": "Eliminates thermal confounding variables for accurate readings."
-    },
-    {
-      "id": "viva_el1_ch4_010",
-      "question": "What is the clinical significance of an S-D curve kink shifting progress to the left during serial testing?",
-      "answer": "A kink shifting progressively to the left indicates active nerve regeneration, as more muscle fibers are re-innervated and regain responsiveness to shorter pulse durations.",
-      "keyPoints": "Leftward shift, re-innervation, serial testing.",
-      "clinicalImportance": "Provides objective, reassuring evidence of nerve recovery."
-    }
-  ],
+  "viva": [],
   "flashcards": [],
   "pyqs": [],
-  "references": [
-    "Nelson & Currier - Clinical Electrotherapy, 3rd Edition - Chapter on Electrodiagnostics",
-    "Low & Reed - Electrotherapy Explained: Principles and Practice, 4th Edition - Chapter on Diagnostics",
-    "Jagmohan Singh - Textbook of Electrotherapy, 3rd Edition - Chapter 4"
-  ]
+  "references": []
 }

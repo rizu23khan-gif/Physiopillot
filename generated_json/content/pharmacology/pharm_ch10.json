@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "chapterId": "pharm_ch10",
+    "title": "",
+    "subject": "Pharmacology",
+    "subjectId": "pharmacology",
+    "version": "1.0",
+    "lastUpdated": "2026-06-26",
+    "status": "published",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": []
+  },
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [],
+    "coreConcepts": [],
+    "equipment": []
+  },
+  "clinicalCorrelations": {
+    "pearls": [],
+    "precautions": [],
+    "indications": [],
+    "contraindications": {
+      "general": [],
+      "local": []
+    },
+    "technique": {
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": []
+    },
+    "protocols": [],
+    "physiologicalEffects": []
+  },
+  "clinicalCases": [],
+  "subjectExtensions": {},
+  "mcqs": [
+    {
+      "id": "mcq_pharm_ch10_001",
+      "question": "A 62-year-old male with Type 2 Diabetes Mellitus is participating in an outpatient cardiac rehabilitation program. His medication regimen includes long-acting Insulin Glargine and Metoprolol. During a moderate-intensity treadmill session, the physical therapist notes that the patient has become excessively sweaty, pale, and is slurring his words, but his heart rate remains stable at 85 bpm. What is the most likely pharmacological explanation and immediate action?",
+      "options": [
+        "He is experiencing a heat stroke; wrap him in cold sheets and continue exercise.",
+        "Metoprolol is masking the classic adrenergic warning signs (tachycardia) of insulin-induced hypoglycemia; immediately stop exercise, measure blood glucose, and administer 15g of fast-acting carbohydrate.",
+        "The patient is experiencing a normal, expected cardiac adaptation to Metoprolol; encourage him to increase his speed.",
+        "He is experiencing Metformin-induced lactic acidosis; place him in a supine position and administer an extra dose of insulin."
+      ],
+      "answer": "Metoprolol is masking the classic adrenergic warning signs (tachycardia) of insulin-induced hypoglycemia; immediately stop exercise, measure blood glucose, and administer 15g of fast-acting carbohydrate.",
+      "explanation": "Beta-blockers like Metoprolol competitively block beta-adrenergic receptors, which normally mediate the tachycardic, palpitating, and trembling response to hypoglycemia. This masks the primary warning signs of low blood sugar, leading to 'hypoglycemia unawareness.' However, sweating is mediated by cholinergic sympathetic fibers acting on muscarinic receptors and remains intact. The slurred speech and pallor indicate neuroglycopenia. Immediate glucose administration is required."
+    },
+    {
+      "id": "mcq_pharm_ch10_002",
+      "question": "A 45-year-old female with Rheumatoid Arthritis has been taking daily Prednisolone (15 mg) for the past 9 months. She is referred to physical therapy for generalized weakness and joint stiffness. During assessment, she struggles to stand up from a standard chair without using her hands and has difficulty climbing stairs. Which of the following describes the cellular mechanism of her weakness and the most appropriate exercise prescription?",
+      "options": [
+        "Down-regulation of acetylcholine receptors at the NMJ; prescribe high-intensity isometric contractions.",
+        "Selective atrophy of Type IIb glycolytic muscle fibers due to glucocorticoid-induced protein degradation; prescribe low-to-moderate intensity progressive resistance training, focusing on proximal functional movements.",
+        "Local tendon necrosis from steroid injections; prescribe aggressive eccentric stretching of the quadriceps.",
+        "Hypothyroidism caused by steroid use; prescribe high-intensity aerobic exercise to elevate metabolic rate."
+      ],
+      "answer": "Selective atrophy of Type IIb glycolytic muscle fibers due to glucocorticoid-induced protein degradation; prescribe low-to-moderate intensity progressive resistance training, focusing on proximal functional movements.",
+      "explanation": "Glucocorticoids (Prednisolone) cause steroid myopathy characterized by selective atrophy of fast-twitch Type IIb glycolytic muscle fibers, primarily affecting proximal limb girdle muscles (quadriceps and glutei). This occurs because steroids activate the ubiquitin-proteasome pathway, breaking down myofibrillar proteins. The correct rehabilitation approach is low-to-moderate intensity progressive resistance training focusing on functional movements (sit-to-stands, step-ups) while avoiding heavy, destructive loads."
+    },
+    {
+      "id": "mcq_pharm_ch10_003",
+      "question": "A 68-year-old female with a history of postmenopausal osteoporosis (T-score of -2.7 at the spine) is referred to an outpatient physical therapy clinic for balance and strength training. She takes weekly oral Alendronate. Which of the following exercises is STRONGLY CONTRAINDICATED in this patient due to the high risk of precipitating a spinal fracture?",
+      "options": [
+        "Dynamic standing balance exercises on a foam pad.",
+        "Prone active back extensions (thoracic extension).",
+        "Loaded spinal flexion and rotation (such as weighted sit-ups or Russian twists).",
+        "Gentle, progressive double-leg heel drops."
+      ],
+      "answer": "Loaded spinal flexion and rotation (such as weighted sit-ups or Russian twists).",
+      "explanation": "In patients with severe osteoporosis, loaded spinal flexion, rotation, or a combination of both puts massive anterior compressive forces on the vertebral bodies. This can easily cause a micro-fracture or a major wedge compression fracture. Physical therapy must emphasize spinal extension and postural alignment, while training hip-hinge mechanics to bypass spinal rounding."
+    },
+    {
+      "id": "mcq_pharm_ch10_004",
+      "question": "A physical therapist is evaluating a 55-year-old male with Type 2 Diabetes who is taking Dapagliflozin (an SGLT2 inhibitor) and Metformin. Before starting a cardiovascular conditioning program on a treadmill, the therapist performs orthostatic vital checks and notes a blood pressure drop from 130/80 mmHg (supine) to 105/65 mmHg (standing), accompanied by mild lightheadedness. What is the physiological basis of this response, and what precaution is necessary?",
+      "options": [
+        "Dapagliflozin causes massive peripheral vasodilation via alpha-1 receptor blockade; avoid all weight-bearing exercises.",
+        "Dapagliflozin blocks renal glucose reabsorption, inducing osmotic diuresis and mild hypovolemia; ensure the patient is well-hydrated, perform a slow, progressive warm-up, and monitor vitals closely.",
+        "Metformin has triggered acute lactic acidosis, causing cardiac depression; suspend all physical therapy and refer to the emergency department.",
+        "The patient is experiencing insulin shock; immediately administer an injection of rapid-acting insulin."
+      ],
+      "answer": "Dapagliflozin blocks renal glucose reabsorption, inducing osmotic diuresis and mild hypovolemia; ensure the patient is well-hydrated, perform a slow, progressive warm-up, and monitor vitals closely.",
+      "explanation": "SGLT2 inhibitors like Dapagliflozin work by promoting glucose excretion in the urine. Because glucose is osmotically active, this leads to increased urinary output (osmotic diuresis) and mild volume depletion. This hypovolemia predisposes the patient to orthostatic hypotension and dizziness upon standing. Physiotherapists must check orthostatic vitals, ensure adequate hydration, and perform slow transitions."
+    },
+    {
+      "id": "mcq_pharm_ch10_005",
+      "question": "A 35-year-old male with a history of severe asthma is referred to chest physical therapy for secretion clearance. He received a local subacromial corticosteroid injection 3 days ago for a co-existing rotator cuff tendinopathy. What are the clinical implications of this injection for his physical therapy program?",
+      "options": [
+        "The injection has no effect on his tendon; proceed with heavy eccentric rotator cuff strengthening immediately.",
+        "The tendon is in a state of high vulnerability and suppressed collagen synthesis (peaking 1-14 days post-injection); strictly restrict active shoulder exercise to pain-free low-load concentric movements and passive range of motion.",
+        "Corticosteroids permanently destroy the joint capsule; all active movement of the upper extremity must be immobilized for 6 weeks.",
+        "The injection has caused local neuromuscular junction blockade; apply deep tissue friction massage to stimulate the nerve."
+      ],
+      "answer": "The tendon is in a state of high vulnerability and suppressed collagen synthesis (peaking 1-14 days post-injection); strictly restrict active shoulder exercise to pain-free low-load concentric movements and passive range of motion.",
+      "explanation": "Local corticosteroid injections temporarily suppress tenocyte metabolism and inhibit collagen synthesis (particularly Type I), leaving the injected tendon structurally weak and highly vulnerable to rupture. This vulnerability window peaks between 1 and 14 days post-injection. During this 2-week period, the therapist must avoid heavy loading, eccentric exercises, or aggressive passive stretching of the affected tendon."
+    },
+    {
+      "id": "mcq_pharm_ch10_006",
+      "question": "A 72-year-old female is referred for physical therapy following a fall that resulted in a non-displaced humeral fracture. Her laboratory results show a severe Vitamin D deficiency (serum 25(OH)D < 12 ng/mL). Which of the following describes the cellular effect of Vitamin D deficiency on skeletal muscle and its impact on her physical therapy?",
+      "options": [
+        "It leads to hypertrophy of Type I slow-twitch fibers, improving endurance but decreasing power.",
+        "It causes selective atrophy of Type II fast-twitch muscle fibers, presenting as proximal muscle weakness, slower postural reaction times, and increased postural sway, directly elevating her fall risk.",
+        "It blocks calcium release at the neuromuscular junction, causing complete skeletal muscle flaccidity.",
+        "It blocks glycogenolysis in the muscle, causing severe cramping during low-intensity warm-ups."
+      ],
+      "answer": "It causes selective atrophy of Type II fast-twitch muscle fibers, presenting as proximal muscle weakness, slower postural reaction times, and increased postural sway, directly elevating her fall risk.",
+      "explanation": "Vitamin D receptors (VDR) are expressed in skeletal muscle cells. Active Vitamin D is essential for the development and maintenance of fast-twitch Type II muscle fibers, which are critical for rapid force generation and correcting balance during a slip or trip. Severe Vitamin D deficiency causes selective Type II fiber atrophy, proximal muscle weakness, slower reaction times, and increased postural sway, directly contributing to fall risk."
+    },
+    {
+      "id": "mcq_pharm_ch10_007",
+      "question": "A 50-year-old female with hypothyroidism is taking Levothyroxine (0.1 mg daily). During her outpatient physical therapy session, she presents with resting tachycardia (heart rate 110 bpm), frequent palpitations, and complains of feeling excessively hot in the gym. What clinical complication should the physiotherapist suspect?",
+      "options": [
+        "This is a normal therapeutic response to Levothyroxine, indicating that her thyroid deficiency is successfully resolved.",
+        "The Levothyroxine dose is too high, causing drug-induced hyperthyroidism (thyrotoxicosis) and cardiovascular hyperexcitability; keep exercise intensity low and refer her to her physician to check TSH levels.",
+        "The patient is experiencing an acute hypothyroid crisis (myxedema coma); immediately perform chest compressions.",
+        "The symptoms are due to Carbimazole-induced agranulocytosis; place the patient in a sterile isolation room."
+      ],
+      "answer": "The Levothyroxine dose is too high, causing drug-induced hyperthyroidism (thyrotoxicosis) and cardiovascular hyperexcitability; keep exercise intensity low and refer her to her physician to check TSH levels.",
+      "explanation": "Levothyroxine has a narrow therapeutic index. An excessive dose can lead to clinical features of hyperthyroidism (thyrotoxicosis). Excess thyroid hormone up-regulates cardiac beta-adrenergic receptors and increases SERCA activity, leading to tachycardia, palpitations, heat intolerance, and arrhythmias. The therapist should avoid high-intensity exercise and refer her for thyroid function tests (TSH)."
+    },
+    {
+      "id": "mcq_pharm_ch10_008",
+      "question": "Which of the following hormones is a peptide synthesized in the thyroid gland, acts as a physiological antagonist to parathyroid hormone (PTH) by directly inhibiting osteoclastic bone resorption, and is clinically used as an intranasal spray to provide analgesic relief during acute osteoporotic vertebral compression fractures?",
+      "options": [
+        "Alendronate",
+        "Calcitonin",
+        "Somatropin",
+        "Levothyroxine"
+      ],
+      "answer": "Calcitonin",
+      "explanation": "Calcitonin is a hormone secreted by the parafollicular C cells of the thyroid gland. It directly binds to receptors on osteoclasts, causing them to lose their ruffled border and shrink, thereby rapidly inhibiting bone resorption. In addition to conserving bone density, calcitonin has a unique central analgesic effect (mediated by increased endorphin release), making it highly valuable in managing the severe pain of acute osteoporotic vertebral compression fractures to allow early physical therapy mobilization."
+    }
+  ],
+  "viva": [],
+  "flashcards": [],
+  "pyqs": [],
+  "references": []
+}

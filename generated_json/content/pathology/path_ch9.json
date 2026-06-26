@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "chapterId": "path_ch9",
+    "title": "",
+    "subject": "Pathology",
+    "subjectId": "pathology",
+    "version": "1.0",
+    "lastUpdated": "2026-06-26",
+    "status": "published",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": []
+  },
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [],
+    "coreConcepts": [],
+    "equipment": []
+  },
+  "clinicalCorrelations": {
+    "pearls": [],
+    "precautions": [],
+    "indications": [],
+    "contraindications": {
+      "general": [],
+      "local": []
+    },
+    "technique": {
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": []
+    },
+    "protocols": [],
+    "physiologicalEffects": []
+  },
+  "clinicalCases": [],
+  "subjectExtensions": {},
+  "mcqs": [
+    {
+      "id": "mcq_path_ch9_001",
+      "question": "Which of the following is characterized by ring-like calcifications in the tunica media of medium-sized muscular arteries that do not narrow the lumen and are typically clinically insignificant?",
+      "options": [
+        "Atherosclerosis",
+        "M\u00f6nckeberg medial calcific sclerosis",
+        "Hyaline arteriolosclerosis",
+        "Hyperplastic arteriolosclerosis"
+      ],
+      "answer": "M\u00f6nckeberg medial calcific sclerosis",
+      "explanation": "M\u00f6nckeberg sclerosis involves calcific deposits in the media of medium arteries in older adults. It is non-obstructive and does not cause ischemia, unlike atherosclerosis."
+    },
+    {
+      "id": "mcq_path_ch9_002",
+      "question": "The concentric, laminated, 'onion-skin' thickening of arteriolar walls with smooth muscle cell proliferation is a pathological hallmark of:",
+      "options": [
+        "Benign hypertension (hyaline arteriolosclerosis)",
+        "Malignant hypertension (hyperplastic arteriolosclerosis)",
+        "Thromboangiitis Obliterans (Buerger disease)",
+        "Giant Cell Arteritis"
+      ],
+      "answer": "Malignant hypertension (hyperplastic arteriolosclerosis)",
+      "explanation": "Hyperplastic arteriolosclerosis occurs in malignant hypertension, presenting histologically as concentric 'onion-skin' lamination of the arteriolar walls with severe luminal narrowing."
+    },
+    {
+      "id": "mcq_path_ch9_003",
+      "question": "Which of the following aneurysms is characteristically a congenital vascular anomaly located in the Circle of Willis, and whose rupture leads to subarachnoid hemorrhage?",
+      "options": [
+        "Abdominal aortic aneurysm",
+        "Syphilitic aneurysm",
+        "Berry aneurysm",
+        "Dissecting aneurysm"
+      ],
+      "answer": "Berry aneurysm",
+      "explanation": "Berry aneurysms are congenital saccular dilations occurring at arterial bifurcations in the circle of Willis (most commonly anterior communicating artery). Rupture causes catastrophic subarachnoid hemorrhage."
+    },
+    {
+      "id": "mcq_path_ch9_004",
+      "question": "All of the following are components of Virchow's Triad, which governs the pathogenesis of venous thrombosis, EXCEPT:",
+      "options": [
+        "Venous stasis",
+        "Hypercoagulability",
+        "Endothelial injury",
+        "Medial calcification"
+      ],
+      "answer": "Medial calcification",
+      "explanation": "Virchow's Triad comprises endothelial injury, stasis or turbulent blood flow, and hypercoagulability. Medial calcification is a degenerative change (M\u00f6nckeberg) and is not part of the triad."
+    },
+    {
+      "id": "mcq_path_ch9_005",
+      "question": "Hemosiderin staining\u2014the classic brownish-rust hyperpigmentation of the lower leg skin\u2014occurs in chronic venous insufficiency due to:",
+      "options": [
+        "Chronic arterial ischemia leading to melanin deposition",
+        "Extravasation and breakdown of red blood cells in subcutaneous tissues",
+        "Acute bacterial infection of the dermis",
+        "Obstruction of lymphatic drainage following surgery"
+      ],
+      "answer": "Extravasation and breakdown of red blood cells in subcutaneous tissues",
+      "explanation": "In chronic venous insufficiency, venous hypertension causes blood to leak into tissues. Red blood cells break down, releasing iron/hemoglobin which is phagocytosed and converted to brown hemosiderin pigment."
+    },
+    {
+      "id": "mcq_path_ch9_006",
+      "question": "A 32-year-old male heavy smoker presents with severe instep claudication, rest pain in his toes, and localized digital dry gangrene. Biopsy of a digital vessel reveals segmental acute transmural inflammation with microabscesses in the thrombus. What is the most likely diagnosis?",
+      "options": [
+        "Atherosclerosis with thrombosis",
+        "Thromboangiitis Obliterans (Buerger disease)",
+        "Takayasu Arteritis",
+        "Polyarteritis Nodosa"
+      ],
+      "answer": "Thromboangiitis Obliterans (Buerger disease)",
+      "explanation": "Buerger disease is a segmental vasculitis affecting young male smokers, showing intense transmural inflammation, microabscesses in the thrombus, and distal ischemic gangrene."
+    },
+    {
+      "id": "mcq_path_ch9_007",
+      "question": "A patient with systemic sclerosis (scleroderma) describes fingers that turn white upon cold exposure, then blue, and finally red upon rewarming. This clinical presentation represents:",
+      "options": [
+        "Primary Raynaud Disease",
+        "Secondary Raynaud Phenomenon",
+        "Thromboangiitis Obliterans",
+        "M\u00f6nckeberg Medial Sclerosis"
+      ],
+      "answer": "Secondary Raynaud Phenomenon",
+      "explanation": "When cold-induced vasospastic triphasic color changes occur in the presence of an underlying systemic autoimmune disease (like scleroderma), it is termed Secondary Raynaud Phenomenon."
+    },
+    {
+      "id": "mcq_path_ch9_008",
+      "question": "Which clinical sign is a positive indicator of lymphatic edema, demonstrated by the inability to pinch a fold of skin at the base of the second toe?",
+      "options": [
+        "Homan Sign",
+        "Stemmer Sign",
+        "Gottron Sign",
+        "Heliotrope Sign"
+      ],
+      "answer": "Stemmer Sign",
+      "explanation": "The Stemmer Sign is highly specific for lymphedema and is positive when the clinician cannot pinch or lift a fold of skin at the dorsal base of the second toe (or second finger), indicating chronic fibrotic thickening."
+    }
+  ],
+  "viva": [],
+  "flashcards": [],
+  "pyqs": [],
+  "references": []
+}

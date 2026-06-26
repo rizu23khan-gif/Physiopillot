@@ -3051,1176 +3051,6 @@
     "subjectId": "anatomy"
   },
   {
-    "id": "viva_phys_ch1_001",
-    "question": "Describe the mechanism and physiological role of the Na+/K+-ATPase pump.",
-    "answer": "The Na+/K+-ATPase pump utilizes energy from ATP hydrolysis to actively transport 3 Na+ ions out of the cell in exchange for 2 K+ ions into the cell. This electrogenic pump maintains the high intracellular K+ and low Na+ concentration gradients essential for resting membrane potential, secondary active transport, and cell volume regulation.",
-    "keyPoints": "3 Na+ out, 2 K+ in, ATP hydrolysis, electrogenic nature, cellular volume control.",
-    "clinicalImportance": "Critical for preventing intracellular swelling and maintaining neuromuscular excitability.",
-    "chapterId": "phys_ch1",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch1_002",
-    "question": "Explain the difference between primary and secondary active transport with clinical examples.",
-    "answer": "Primary active transport directly utilizes metabolic energy (ATP) to pump solutes against an electrochemical gradient, such as the Na+/K+-ATPase and H+/K+-ATPase pumps. Secondary active transport uses the potential energy of a pre-existing electrochemical gradient (often sodium) established by primary transport, such as SGLT-1 in the kidneys and intestines.",
-    "keyPoints": "Direct vs indirect ATP use, sodium cotransport/countertransport.",
-    "clinicalImportance": "Underpins oral rehydration therapy, where sodium-coupled glucose absorption drives water uptake.",
-    "chapterId": "phys_ch1",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch1_003",
-    "question": "What is resting membrane potential and what is its primary ionic determinant?",
-    "answer": "Resting membrane potential (RMP) is the electrical potential difference across the cell membrane at rest. Its primary determinant is the potassium ion (K+), owing to high membrane permeability for K+ at rest via leak channels, bringing the RMP close to the equilibrium potential of K+ (-94 mV).",
-    "keyPoints": "RMP definition, high potassium relative permeability, K+ leak channels, Nernst potential.",
-    "clinicalImportance": "Alterations in extracellular K+ (hyperkalemia/hypokalemia) drastically alter neuromuscular and cardiac excitability.",
-    "chapterId": "phys_ch1",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch1_004",
-    "question": "Define osmosis and tonicity, and explain how they differ.",
-    "answer": "Osmosis is the passive movement of solvent (water) across a semi-permeable membrane from low to high solute concentration. Tonicity is the biological effect of an extracellular solution's osmolarity on cell volume, which depends on both the total solute osmolarity and the membrane permeability of those solutes.",
-    "keyPoints": "Osmosis definition, tonicity as a cellular volume effect, permeant vs impermeant solutes.",
-    "clinicalImportance": "Guides the select clinical use of isotonic (0.9% NaCl), hypotonic (0.45% NaCl), and hypertonic (3% NaCl) saline infusions.",
-    "chapterId": "phys_ch1",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch1_005",
-    "question": "What is the Nernst Equation and what are its practical limitations?",
-    "answer": "The Nernst Equation calculates the equilibrium electrical potential for a single ion across a membrane at a given concentration gradient. Its limitation is that it assumes the membrane is permeable only to that single ion, whereas real cell membranes have co-existing permeabilities for sodium, potassium, and chloride.",
-    "keyPoints": "Single-ion limitation, equilibrium ratio formula.",
-    "clinicalImportance": "Explains why the actual resting potential of a neuron (-70 mV) deviates slightly from the pure potassium equilibrium potential (-94 mV).",
-    "chapterId": "phys_ch1",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch1_006",
-    "question": "Explain the Gibbs-Donnan equilibrium and its biological consequences.",
-    "answer": "Gibbs-Donnan equilibrium describes the unequal distribution of diffusible ions across a semipermeable membrane caused by the presence of non-diffusible, impermeable charged proteins in one compartment (like intracellular proteins or blood plasma albumin). It creates an electrical asymmetry and an osmotic gradient.",
-    "keyPoints": "Non-diffusible intracellular proteins, unequal distribution of mobile ions, osmotic pressure generation.",
-    "clinicalImportance": "Contributes to the colloid osmotic pressure that keeps fluid inside blood vessels and prevents systemic edema.",
-    "chapterId": "phys_ch1",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch1_007",
-    "question": "How does the Goldman-Hodgkin-Katz (GHK) equation differ from the Nernst equation?",
-    "answer": "Unlike the Nernst equation which evaluates only a single ion species, the GHK equation calculates membrane potential by accounting simultaneously for the concentration gradients and specific membrane permeability coefficients of multiple key diffusible ions: sodium, potassium, and chloride.",
-    "keyPoints": "Multiple ion gradients, permeability coefficients, realistic cell potential calculation.",
-    "clinicalImportance": "Models how dynamic shifts in ion permeabilities (e.g., during action potentials) rapidly alter membrane voltage.",
-    "chapterId": "phys_ch1",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch1_008",
-    "question": "Describe Fick's Law of Diffusion and the factors that influence the rate of diffusion.",
-    "answer": "Fick's Law states that the rate of diffusion is directly proportional to the concentration gradient, surface area, and solubility of the substance, and inversely proportional to the thickness of the membrane.",
-    "keyPoints": "Surface area, concentration gradient, membrane thickness, partition coefficient.",
-    "clinicalImportance": "Explains why pulmonary edema (increased thickness) or emphysema (decreased surface area) compromises respiratory gas exchange.",
-    "chapterId": "phys_ch1",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch1_009",
-    "question": "What is cell volume regulation and what happens to a cell placed in a hypotonic medium?",
-    "answer": "In a hypotonic medium, the extracellular osmolarity is lower than intracellular osmolarity, causing water influx via osmosis. The cell swells and activates Regulatory Volume Decrease (RVD) mechanisms, expelling ions (K+ and Cl-) to drive water back out and restore normal size.",
-    "keyPoints": "Hypotonic swelling, water influx, regulatory volume decrease, osmolyte efflux.",
-    "clinicalImportance": "Severe hypotonic hyponatremia can cause cerebral edema, leading to dangerous brain herniation because the brain is enclosed in a rigid skull.",
-    "chapterId": "phys_ch1",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch1_010",
-    "question": "Explain carrier-mediated transport and its distinguishing features from simple diffusion.",
-    "answer": "Carrier-mediated transport includes facilitated diffusion and active transport. It relies on specific transmembrane proteins and list three signature traits: specificity, saturation kinetics (maximum transport rate Vmax), and competitive inhibition by structurally similar molecules.",
-    "keyPoints": "Specificity, saturation (Vmax), competitive inhibition.",
-    "clinicalImportance": "Target of many pharmacological agents and explains renal glucosuria when glucose levels exceed the transport maximum (TmG).",
-    "chapterId": "phys_ch1",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch2_001",
-    "question": "Detail the sequence of physiological events at the neuromuscular junction.",
-    "answer": "1) Nerve action potential depolarizes presynaptic axon terminal. 2) Voltage-gated Calcium channels open, driving Ca2+ influx. 3) Ca2+ triggers exocytosis of acetylcholine (ACh) vesicles. 4) ACh diffuses across the synaptic cleft. 5) ACh binds to postsynaptic nicotinic receptors, opening ligand-gated ion channels. 6) Influx of Na+ creates local depolarizations called End-Plate Potential (EPP). 7) Sufficient EPP triggers a muscle action potential. 8) ACh is inactivated by acetylcholinesterase.",
-    "keyPoints": "Presynaptic Calcium influx, vesicle exocytosis, nicotinic Ach receptor binding, EPP, acetylcholinesterase degradation.",
-    "clinicalImportance": "Defective steps explain Myasthenia Gravis and pesticide poisoning.",
-    "chapterId": "phys_ch2",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch2_002",
-    "question": "What is muscle fatigue and what are its primary physiological causes?",
-    "answer": "Muscle fatigue is the progressive transient decrease in muscle contractile force with exertion. Its causes include accumulation of lactic acid and hydrogen ions (causing local acidosis), glycogen depletion, phosphate accumulation, potassium accumulation in T-tubules, and depletion of acetylcholine at the motor end-plate.",
-    "keyPoints": "Lactic acid, pH decline, glycogen depletion, Ca2+ reuptake impairment.",
-    "clinicalImportance": "Critical to manage in rehabilitation, athletic training, and therapeutic muscle stimulation.",
-    "chapterId": "phys_ch2",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch2_003",
-    "question": "Explain the sliding filament theory of muscle contraction.",
-    "answer": "The sliding filament theory states that muscle contraction is achieved by the sliding of thin (actin) filaments relative to thick (myosin) filaments. Actin-myosin cross-bridges form, and the myosin heads rotate (power stroke), pulling the actin filaments toward the center of the sarcomere (H-zone). This shortens the sarcomere and muscle belly, while filament lengths remain constant.",
-    "keyPoints": "Myosin-actin interaction, power stroke, ATP binding/hydrolysis, sarcomere shortening without filament changes.",
-    "clinicalImportance": "Explains why stretch and muscle length dictate optimal active tension.",
-    "chapterId": "phys_ch2",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch2_004",
-    "question": "Define Rheobase and Chronaxie, and explain their clinical relevance in physiotherapy.",
-    "answer": "Rheobase is the minimum intensity of an electrical current of infinite duration required to stimulate excitable tissue. Chronaxie is the duration of stimulus required to excite tissue at twice the rheobase intensity. Chronaxie is an index of tissue excitability.",
-    "keyPoints": "Rheobase definition, Chronaxie definition (twice rheobase intensity), excitable tissue parameter.",
-    "clinicalImportance": "Chronaxie is short in nerves (~0.1 ms) and long in denervated muscle (~10+ ms), allowing physiotherapists to selectively stimulate denervated muscle without evoking sensory nerve pain.",
-    "chapterId": "phys_ch2",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch2_005",
-    "question": "Differentiate Upper Motor Neuron (UMN) lesions from Lower Motor Neuron (LMN) lesions.",
-    "answer": "UMN lesions (injury to motor pathways above anterior horn cell) present with spastic paralysis, hypertonia, hyperreflexia, and Babinski sign. LMN lesions (injury to motor nerve beneath anterior horn) present with flaccid paralysis, hypotonia, hyporeflexia, muscle wasting, and fasciculations.",
-    "keyPoints": "Spasticity/clonus vs wasting/flaccidity, hyperreflexia vs hyporeflexia, Babinski sign presence.",
-    "clinicalImportance": "Essential to localize the lesion during diagnostic neuromuscular examinations.",
-    "chapterId": "phys_ch2",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch2_006",
-    "question": "What is the Role of Calcium in Excitation-Contraction Coupling in skeletal muscle?",
-    "answer": "When action potentials depolarlize T-tubules, calcium is released from sarcoplasmic reticulum terminal cisternae through ryanodine receptors. Calcium binds directly to Troponin C, which undergoes a structural change that moves tropomyosin away from actin's active sites. This unmasks the actin sites, allowing myosin heads to attach and start the cycle.",
-    "keyPoints": "DHP/Ryanodine receptors, Calcium-Troponin C binding, Tropomyosin unmasking.",
-    "clinicalImportance": "Underpins malignant hyperthermia, an anesthetic emergency involving unmitigated calcium release.",
-    "chapterId": "phys_ch2",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch2_007",
-    "question": "Explain the Length-Tension relationship of skeletal muscle.",
-    "answer": "The length-tension relationship states that the active tension a muscle can generate depends directly on its initial resting fiber length. Maximum active tension is generated at an optimal sarcomere resting length (2.0-2.2 microns), which maximizes the physical alignment and overlap of actin and myosin filaments.",
-    "keyPoints": "Sarcomere alignment, optimal actin-myosin overlap.",
-    "clinicalImportance": "Prevents suboptimal contraction forces when muscles are overly stretched or cramped.",
-    "chapterId": "phys_ch2",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch2_008",
-    "question": "What is End Plate Potential (EPP) and how does it differ from an Action Potential?",
-    "answer": "EPP is a graded localized depolarization of the motor endplate caused by ligand-gated channel opening. It has no refractory period and does not propagate. An Action Potential is an all-or-none, self-propagating electrical response of the sarcolemma with a absolute refractory period, mediated by voltage-gated channels.",
-    "keyPoints": "Graded vs all-or-none, ligand-gated vs voltage-gated, localized vs propagated.",
-    "clinicalImportance": "EPP must reach a threshold of ~-50 mV to trigger a propagated action potential.",
-    "chapterId": "phys_ch2",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch2_009",
-    "question": "Describe the mechanism of action of Neuromuscular Blocking agents like Curare vs Succinylcholine.",
-    "answer": "Curare acts as a competitive, non-depolarizing blocker that binds to nicotinic ACh receptors without activating them, blocking ACh binding. Succinylcholine is a depolarizing blocker that mimics ACh, binding and depolarizing the membrane persistently, causing flaccid paralysis as sodium channels remain inactivated.",
-    "keyPoints": "Competitive non-depolarizing vs persistent depolarizing block, receptor channel inactivation.",
-    "clinicalImportance": "Utilized routinely in general surgery to achieve deep muscle relaxation and permit intubation.",
-    "chapterId": "phys_ch2",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch2_010",
-    "question": "Explain the Size Principle of motor unit recruitment during skeletal muscle contraction.",
-    "answer": "Also known as Henneman's Principle, it states that under load, motor units are recruited in order of increasing size. The smallest, fatigue-resistant, slow-oxidative (Type I) motor units are recruited first. As demand for force climbs, larger fast-fatigue-resistant (Type IIa) and fast-glycolytic (Type IIb) units are progressively added in.",
-    "keyPoints": "Type I first, Type II later, low to high excitation thresholds.",
-    "clinicalImportance": "Allows highly refined and precise fine motor movements before generating heavy ballistic force.",
-    "chapterId": "phys_ch2",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch3_001",
-    "question": "State the Frank-Starling Law of the heart and explain its cellular basis and clinical importance.",
-    "answer": "The Frank-Starling Law states that the force of ventricular contraction is directly proportional to the end-diastolic volume (and length of myocardial fibers) before contraction. Its cellular basis is that stretching sarcomeres toward an optimal length increases actin-myosin overlap and cross-bridge calcium sensitivity. It ensures cardiac output matches venous return dynamically.",
-    "keyPoints": "Ventricular stretch, end-diastolic volume, actin-myosin overlap.",
-    "clinicalImportance": "Compensatory mechanism in early heart failure, but fails in chronic decompensated cardiomyopathy.",
-    "chapterId": "phys_ch3",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch3_002",
-    "question": "Explain the Bohr effect vs the Haldane effect and where they occur.",
-    "answer": "The Bohr effect refers to how an increase in carbon dioxide and acidity (lower pH) decreases hemoglobin oxygen affinity, shifting the oxyhemoglobin curve to the right to release oxygen in systemic tissues. The Haldane effect refers to how oxygen binding to hemoglobin in the lungs drives the release of carbon dioxide from hemoglobin back into the alveoli.",
-    "keyPoints": "Bohr effect (tissues, CO2 lowers O2 affinity) vs Haldane effect (lungs, O2 displaces CO2).",
-    "clinicalImportance": "Crucial for optimizing tissue oxygenation and respiratory carbon dioxide elimination.",
-    "chapterId": "phys_ch3",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch3_003",
-    "question": "What is peripheral hypoxic vasoconstriction and how does it differ from systemic hypoxic responses?",
-    "answer": "Hypoxic pulmonary vasoconstriction (HPV) is a physiological mechanism where small pulmonary arteries constrict in response to low alveolar oxygen (hypoxia). This diverts blood to better-ventilated lung zones to keep V/Q ratios normal. This is the opposite of systemic vascular beds, which vasodilate in response to hypoxia.",
-    "keyPoints": "Alveolar hypoxia, localized pulmonary constriction, V/Q matching, systemic contrast.",
-    "clinicalImportance": "Severe generalized hypoxia (e.g. high altitude) causes chronic pulmonary hypertension and right heart hypertrophy.",
-    "chapterId": "phys_ch3",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch3_004",
-    "question": "Differentiate between Obstructive and Restrictive lung diseases based on spirometric parameters.",
-    "answer": "Obstructive lung diseases (e.g. Asthma, COPD) are characterized by physical limitation of airflow, where FEV1 is severely reduced and the FEV1/FVC ratio is < 70%. Restrictive lung diseases (e.g. Pulmonary Fibrosis, Scoliosis) feature limited lung expansion, where both FEV1 and FVC are reduced, keeping the FEV1/FVC ratio normal or elevated (> 80%).",
-    "keyPoints": "FEV1/FVC ratio threshold (<70% obstructive), total lung volume restriction.",
-    "clinicalImportance": "Guides the diagnosis, classification, and targeted physical therapy of lung diseases.",
-    "chapterId": "phys_ch3",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch3_005",
-    "question": "Describe the neural control of respiration, detailing the key brainstem respiratory centers.",
-    "answer": "Respiration is controlled by the medullary respiratory center (containing the Dorsal Respiratory Group for inspiration and Ventral Respiratory Group for forced expiration) and the pontine centers (containing the Pneumotaxic center which limits inspiration duration and the Apneustic center which prolongs it).",
-    "keyPoints": "Medulla (DRG/VRG), Pons (Pneumotaxic/Apneustic), rhythmic generation.",
-    "clinicalImportance": "Brainstem lesions or drug overdoses (opioids) can depress these centers, leading to fatal respiratory arrest.",
-    "chapterId": "phys_ch3",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch3_006",
-    "question": "How do central and peripheral chemoreceptors differ in sensing and regulating arterial blood gases?",
-    "answer": "Central chemoreceptors in the medulla are sensitive only to changes in pH/H+ inside cerebrospinal fluid, which are caused by blood CO2 crossing the blood-brain barrier. They are slow but powerful. Peripheral chemoreceptors in the carotid and aortic bodies detect decreases in arterial PO2 (specifically below 60 mmHg), increases in PCO2, and falls in arterial pH. They respond rapidly.",
-    "keyPoints": "Central (CSF H+/CO2), Peripheral (arterial PO2 < 60mmHg, H+/CO2), arterial blood sensing.",
-    "clinicalImportance": "Drives breathing in hypoxic patients, especially in COPD patients with chronic hypercapnia.",
-    "chapterId": "phys_ch3",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch3_007",
-    "question": "What is the normal sequence of mechanical events in the cardiac cycle and their durations at a heart rate of 75 bpm?",
-    "answer": "At 75 bpm, a single cycle lasts 0.8 seconds. This consists of: 1) Atrial systole (0.1s), 2) Isometric ventricular contraction (0.05s), 3) Rapid and reduced ventricular ejection (0.25s), 4) Protodiastole and Isometric ventricular relaxation (0.08s), 5) Rapid and reduced ventricular filling, and diastasis (0.32s). Atrial diastole lasts 0.7s, while ventricular diastole lasts 0.5s.",
-    "keyPoints": "Total 0.8s, systole vs diastole durations, isometric phases.",
-    "clinicalImportance": "Increases in heart rate (tachycardia) disproportionately shorten diastole, reducing coronary perfusion time.",
-    "chapterId": "phys_ch3",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch3_008",
-    "question": "Define cardiac output and explain the factors that regulate stroke volume.",
-    "answer": "Cardiac output (CO = HR x SV) is regulated by heart rate and stroke volume. Stroke volume is determined by three variables: 1) Preload (end-diastolic volume/stretch), 2) Contractility (intrinsic myofibrillar force driven by sympathetic activity/calcium), and 3) Afterload (resistive pressure against which ventricles pump).",
-    "keyPoints": "CO equation, Preload (preload factor), Contractility (inotropic force), Afterload (systemic vascular resistance).",
-    "clinicalImportance": "Guides patient drug choices for managing heart failure and cardiogenic shock.",
-    "chapterId": "phys_ch3",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch3_009",
-    "question": "Describe the composition and physiological function of pulmonary surfactant.",
-    "answer": "Surfactant is a complex mixture of lipids (predominantly dipalmitoylphosphatidylcholine - DPPC) and specific surfactant proteins, secreted by Type II alveolar cells. It lowers alveolar surface tension, preventing small alveoli from collapsing into larger ones (Laplace's Law) and reducing the work of breathing.",
-    "keyPoints": "Type II pneumocytes, dipalmitoylphosphatidylcholine, surface tension reduction, Laplace's Law.",
-    "clinicalImportance": "Lack of surfactant causes Infant Respiratory Distress Syndrome (IRDS) in premature infants.",
-    "chapterId": "phys_ch3",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch3_010",
-    "question": "What are the physiological stages of shock, and how does the body compensate for acute hemorrhage?",
-    "answer": "Hemorrhage triggers shock, classified into compensatory, progressive, and irreversible stages. Acute blood loss decreases arterial pressure, triggering the baroreceptor reflex. This increases sympathetic output, causing tachycardia and selective vasoconstriction (renal and cutaneous perfusion drops to protect cerebral and coronary flows) while activating the Renin-Angiotensin-Aldosterone system.",
-    "keyPoints": "Baroreceptor reflex, sympathetic discharge, selective vasoconstriction, RAAS activation.",
-    "clinicalImportance": "Recognizable by clinical presentation (cold, clammy skin, tachycardia, dry membranes, oliguria).",
-    "chapterId": "phys_ch3",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch4_001",
-    "question": "Detail the five core components of a classic spinal reflex arc.",
-    "answer": "A reflex arc consists of: 1) Sensory Receptor (senses the stimulus, e.g. skin nociceptor), 2) Afferent pathway (sensory nerve conducts impulses to the CNS), 3) Integrating center (synapses in the spinal grey matter), 4) Efferent pathway (motor nerve conducts impulses from the CNS to the effector), and 5) Effector organ (muscle or gland that carries out the response).",
-    "keyPoints": "Receptor, Afferent, Synaptic Integrating Center, Efferent, Effector.",
-    "clinicalImportance": "Injury to any of these five direct elements breaks the reflex arc, leading to hyporeflexia.",
-    "chapterId": "phys_ch4",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch4_002",
-    "question": "Describe the structure and sensory innervation of the Muscle Spindle.",
-    "answer": "The muscle spindle consists of 3-12 specialized encapsulated intrafusal muscle fibers (classified as nuclear bag and nuclear chain fibers). It is innervated by Ia primary sensory afferents (which wrap around the central non-contractile sensory region to sense length change speed) and Type II secondary sensory afferents (which wrap bag/chain fibers to sense static length). Gamma motor neurons innervate the contractile polar ends.",
-    "keyPoints": "Intrafusal fibers (bag/chain), Ia rapid dynamic sensory vs Type II static sensory, Gamma motor innervation.",
-    "clinicalImportance": "Regulates muscle tone and posture.",
-    "chapterId": "phys_ch4",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch4_003",
-    "question": "What is reciprocal inhibition and why is it essential for movement?",
-    "answer": "Reciprocal inhibition is a physiological reflex where sensory inputs that excite motor neurons of an agonist muscle concurrently activate inhibitory interneurons in the spinal cord cord. These interneurons inhibit the motor neurons of the antagonist muscle, relaxing it. This is essential for preventing structural resistance and allowing smooth, coordinated joint movements.",
-    "keyPoints": "Agonist excitation, inhibitory spinal interneurons, antagonist relaxation, smooth coordination.",
-    "clinicalImportance": "Loss of reciprocal inhibition after strokes leads to spasticity and rigid, counterproductive cocontractions.",
-    "chapterId": "phys_ch4",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch4_004",
-    "question": "Explain the Golgi Tendon reflex (Inverse Stretch Reflex) and its mechanism.",
-    "answer": "The Golgi Tendon reflex is a protective polysynaptic reflex. High muscle tension compresses Golgi tendon organs at muscle-tendon junctions, firing Ib sensory afferents. Ib fibers enter the spinal gray matter and excite inhibitory interneurons. These interneurons release glycine, inhibiting alpha motor neurons of the agonist muscle to induce relaxation and protect the tendon from avulsion.",
-    "keyPoints": "Tendon tension sensor, Ib sensory afferents, spinal inhibitory interneurons, agonist muscle relaxation.",
-    "clinicalImportance": "Clinically assessed to determine spastic muscle relaxation and targeted physical therapy stretch limits.",
-    "chapterId": "phys_ch4",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch4_005",
-    "question": "Detail the events and pathways of the Flexor Withdrawal and Crossed Extensor reflexes.",
-    "answer": "A painful stimulus activates cutaneous nociceptors, which send inputs through pain fibers to the spinal cord. These fibers synapse on multi-segmental interneurons: 1) Ipsilaterally, they excite flexor motor neurons and inhibit extensors, causing withdrawal of the injured limb. 2) Contralaterally, they inhibit flexor motor neurons and excite extensors. This crossed extensor reflex stabilizes and supports body weight on the opposite leg.",
-    "keyPoints": "Pain afferents, polysynaptic pathways, ipsilateral flexion, contralateral extension.",
-    "clinicalImportance": "Protects body against tissue damage and maintains balance during withdrawal.",
-    "chapterId": "phys_ch4",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch4_006",
-    "question": "Explain the anatomical and physiological roles of Alpha and Gamma motor neurons.",
-    "answer": "Alpha motor neurons innervate extrafusal muscle fibers, driving skeletal muscle contraction and joint movement. Gamma motor neurons innervate the contractile polar ends of intrafusal muscle fibers (muscle spindles), contracting them to keep the spindle sensitive to stretch even when the main muscle is already contracted.",
-    "keyPoints": "Alpha (extrafusal/muscle contraction), Gamma (intrafusal/spindle sensitivity), Alpha-Gamma Coactivation.",
-    "clinicalImportance": "Coactivation prevents spindle silencing during voluntary muscle shortening, maintaining postural reflexes.",
-    "chapterId": "phys_ch4",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch4_007",
-    "question": "What is Two-Point Discrimination and how does it correlate with receptive field density?",
-    "answer": "Two-Point Discrimination is the ability to perceive two distinct mechanical stimuli applied to the skin simultaneously as separate. It depends on receptive field density and cortical representation size. Areas like fingertips have high density (small receptive fields) and low thresholds (~2mm). Areas like the back have sparse density (large receptive fields) and high thresholds (~40-70mm).",
-    "keyPoints": "Tactile resolving threshold, receptive field size, receptor density, cortical representation.",
-    "clinicalImportance": "Tested to evaluate sensory pathway recovery after peripheral nerve repair surgery.",
-    "chapterId": "phys_ch4",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch4_008",
-    "question": "Explain the Jendrassik maneuver and its underlying neurophysiological mechanism.",
-    "answer": "The Jendrassik maneuver is a physical reinforcement technique where the patient hooks their fingers together and pulls apart isometrically. This distracts the patient, reducing cognitive inhibition, and increases excitability in the spinal motor neuron pool (partly by increasing gamma motor neuron drive). This unmasks hidden deep tendon reflexes.",
-    "keyPoints": "Clenched fingers, increased motor pool excitability, gamma motor activation, unmasking weak reflexes.",
-    "clinicalImportance": "Essential diagnostic tool to determine if absent reflexes are due to organic lesions or high resting tension.",
-    "chapterId": "phys_ch4",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch4_009",
-    "question": "What are the physiological differences between the dorsal column-medial lemniscal pathway and the anterolateral tract?",
-    "answer": "The dorsal column-medial lemniscal (DCML) pathway carries fine touch, pressure, vibration, and proprioception via large, myelinated, fast-conducting fibers. It decussates in the medulla. The anterolateral (spinothalamic) tract carries pain, temperature, and crude touch via small, slow fibers, decussating within 1-2 spinal segments of entry.",
-    "keyPoints": "DCML (fine touch/vibration/proprioception, slow/uncrossed in cord, medullary decussation) vs Anterolateral (pain/temp, speedy cord decussation).",
-    "clinicalImportance": "Explains Brown-S\u00e9quard syndrome (hemisection of spinal cord), which features contralateral pain loss and ipsilateral touch loss.",
-    "chapterId": "phys_ch4",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch4_010",
-    "question": "Explain Spinal Shock and what happens to reflexes during this physiological phase.",
-    "answer": "Spinal Shock is the immediate, temporary state of flaccid paralysis and complete loss of all spinal reflex activity below the level of a severe spinal cord injury. This occurs due to the sudden loss of supportive, descending facilitatory inputs from supraspinal centers. Over weeks, spinal neurons regain excitability, and reflexes recover, eventually progressing to hyperreflexia and spasticity.",
-    "keyPoints": "Flaccid paralysis, areflexia, loss of descending facilitatory inputs, chronic spasticity progression.",
-    "clinicalImportance": "Clinicians monitor the return of the bulbocavernosus reflex to mark the end of the spinal shock phase.",
-    "chapterId": "phys_ch4",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch5_001",
-    "question": "What is the normal lifespan of an erythrocyte, and how is its destruction managed in the body?",
-    "answer": "Erythrocytes have a normal lifespan of approximately 120 days. As they age, their membranes become fragile, and they are engulfed by macrophages of the reticuloendothelial system (primarily in the spleen, liver, and bone marrow). Hemoglobin is broken down into heme and globin. Globin is hydrolyzed into amino acids. Heme is degraded into iron (reused or stored as ferritin) and biliverdin, which converts to free bilirubin and is excreted in bile.",
-    "keyPoints": "120 days lifespan, splenic macrophages, reticuloendothelial system, heme breakdown, iron conservation.",
-    "clinicalImportance": "Splenomegaly accelerates RBC destruction (hypersplenism), leading to hemolytic anemia; impaired bilirubin conjugation leads to clinical jaundice.",
-    "chapterId": "phys_ch5",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch5_002",
-    "question": "Describe the mechanisms of primary hemostasis and how they differ from secondary hemostasis.",
-    "answer": "Primary hemostasis refers to the immediate response to vascular injury, resulting in the formation of a temporary platelet plug. It involves vascular spasm, platelet adhesion to exposed subendothelial collagen via von Willebrand factor, platelet activation and degranulation (ADP, TXA2 release), and platelet aggregation via fibrinogen bridges. Secondary hemostasis involves the activation of the coagulation cascade (factors) culminating in the conversion of soluble fibrinogen to insoluble fibrin polymers, stabilizing the platelet plug.",
-    "keyPoints": "Platelet plug vs. fibrin clot, platelets and vWF, coagulation factors, intrinsic/extrinsic pathways.",
-    "clinicalImportance": "Deficiencies in primary hemostasis (thrombocytopenia, von Willebrand disease) present with mucosal bleeds and petechiae, while secondary hemostasis defects (hemophilia) present with deep tissue or joint bleeds.",
-    "chapterId": "phys_ch5",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch5_003",
-    "question": "Explain the physiological basis of the ABO and Rh blood grouping systems and their significance in blood transfusion.",
-    "answer": "The ABO system is based on the presence of A and/or B glycoprotein antigens on the erythrocyte membrane and pre-formed IgM antibodies (agglutinins) in the plasma against the missing antigens. The Rh system is based on the presence or absence of the D antigen; Rh-negative individuals do not have pre-formed antibodies but produce IgG antibodies after exposure to Rh-positive blood.",
-    "keyPoints": "A and B surface antigens, IgM anti-A/anti-B agglutinins, D antigen, IgG anti-D development.",
-    "clinicalImportance": "Mismatched blood transfusions cause immediate intravascular hemolysis, acute renal failure, and disseminated intravascular coagulation (DIC).",
-    "chapterId": "phys_ch5",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch5_004",
-    "question": "What are plasma proteins, and what are their primary physiological functions?",
-    "answer": "Plasma proteins include albumin (4.5 g/dL), globulins (2.5 g/dL), and fibrinogen (0.3 g/dL). Their primary functions include: maintaining plasma colloid osmotic (oncotic) pressure (primarily albumin), defense against pathogens (globulins as immunoglobulins/antibodies), blood coagulation (fibrinogen, prothrombin), buffering blood pH, and transporting hormones, lipids, and drugs.",
-    "keyPoints": "Albumin/globulin/fibrinogen, oncotic pressure, antibody defense, transport function, pH buffering.",
-    "clinicalImportance": "Hypoalbuminemia due to liver failure or nephrotic syndrome decreases oncotic pressure, leading to generalized edema and ascites.",
-    "chapterId": "phys_ch5",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch5_005",
-    "question": "Describe the stages of erythropoiesis and the factors that regulate this process.",
-    "answer": "Erythropoiesis is the production of red blood cells in the bone marrow. The stages are: Proerythroblast, Basophilic Erythroblast, Polychromatophilic Erythroblast, Orthochromatic Erythroblast (Normoblast, where the nucleus is extruded), Reticulocyte (released into circulation), and mature Erythrocyte. The primary regulator is Erythropoietin (EPO), a hormone secreted by renal cortical interstitial cells in response to hypoxia. Other factors include iron, vitamin B12, folic acid, amino acids, and thyroid/growth hormones.",
-    "keyPoints": "Nucleus extrusion at normoblast stage, reticulocyte as immature RBC, renal erythropoietin, hypoxia stimulus.",
-    "clinicalImportance": "Chronic renal failure leads to diminished EPO synthesis and severe normocytic normochromic anemia.",
-    "chapterId": "phys_ch5",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch5_006",
-    "question": "Distinguish between innate and adaptive immunity, listing the cellular mediators for each.",
-    "answer": "Innate immunity is non-specific, rapid (hours), lacks memory, and is the first line of defense; mediators include neutrophils, macrophages, natural killer (NK) cells, dendritic cells, physical barriers, and the complement system. Adaptive immunity is antigen-specific, slow to develop (days), possesses immunological memory, and shows clonal expansion; mediators include B-lymphocytes (humoral immunity) and T-lymphocytes (cell-mediated immunity).",
-    "keyPoints": "Specificity, memory, response time, macrophages/neutrophils (innate) vs. T/B lymphocytes (adaptive).",
-    "clinicalImportance": "HIV selectively destroys CD4+ T-helper cells, crippling adaptive immunity and leaving patients vulnerable to opportunistic infections.",
-    "chapterId": "phys_ch5",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch5_007",
-    "question": "What are Starling's forces, and how do they explain the development of clinical edema?",
-    "answer": "Starling's forces govern transcapillary fluid movement. They are: capillary hydrostatic pressure (Pc, pushes fluid out), interstitial fluid hydrostatic pressure (Pif, pushes fluid in), plasma colloid osmotic pressure (pi_p, pulls fluid in), and interstitial fluid colloid osmotic pressure (pi_if, pulls fluid out). Edema develops when the net filtration exceeds lymphatic drainage capacity. This occurs due to: increased Pc (e.g., heart failure, venous obstruction), decreased pi_p (hypoalbuminemia), increased capillary permeability (inflammation), or lymphatic obstruction (lymphedema).",
-    "keyPoints": "Hydrostatic vs. osmotic pressures, Starling equation, lymphatic clearance capacity.",
-    "clinicalImportance": "Deep vein thrombosis increases venous pressure (Pc), causing unilateral lower limb edema; lymphedema is a high-protein edema caused by mechanical blockage of lymphatic drainage.",
-    "chapterId": "phys_ch5",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch5_008",
-    "question": "Describe the extrinsic, intrinsic, and common pathways of blood coagulation.",
-    "answer": "The extrinsic pathway is activated by vascular injury releasing tissue factor (Factor III), which complexes with Factor VII to activate Factor X. The intrinsic pathway is activated by contact with negatively charged subendothelial surfaces, sequentially activating Factors XII, XI, IX, and VIII, which then activate Factor X. The common pathway begins with activated Factor X (Factor Xa), which complexes with Factor V, calcium, and phospholipids (prothrombinase complex) to convert prothrombin (II) to active thrombin (IIa). Thrombin then converts soluble fibrinogen (I) to insoluble fibrin monomers (Ia), which are cross-linked by Factor XIII to form a stable clot.",
-    "keyPoints": "Tissue factor (extrinsic), Factor XII (intrinsic), Factor X activation (common), thrombin and fibrinogen, calcium requirements.",
-    "clinicalImportance": "Hemophilia A is a deficiency of Factor VIII (intrinsic), prolonging aPTT, while heparin enhances antithrombin III to inhibit thrombin and Factor Xa.",
-    "chapterId": "phys_ch5",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch5_009",
-    "question": "What is the Erythrocyte Sedimentation Rate (ESR), what physiological factors influence it, and why is it clinically useful?",
-    "answer": "ESR is the rate at which RBCs settle in a vertical Westergren tube over one hour. It is determined by the balance between pro-sedimentation factors (fibrinogen, globulins) and anti-sedimentation forces (negative sialic acid charges on RBC membranes that cause repulsion, known as zeta potential). Inflammatory proteins neutralize the negative charges, causing RBCs to stack like coins (rouleaux formation), which settle faster.",
-    "keyPoints": "Westergren method, zeta potential, rouleaux formation, acute-phase reactants (fibrinogen/globulin).",
-    "clinicalImportance": "ESR is a non-specific marker for inflammation. Markedly elevated ESR (>100 mm/hr) raises suspicion for multiple myeloma, rheumatoid arthritis, temporal arteritis, or deep infections.",
-    "chapterId": "phys_ch5",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch5_010",
-    "question": "Explain the physiological mechanism of immunological tolerance and how its breakdown leads to autoimmune disease.",
-    "answer": "Immunological tolerance is the state of non-responsiveness of the immune system to self-antigens. It is established via central tolerance (clonal deletion of self-reactive T cells in the thymus and B cells in the bone marrow) and peripheral tolerance (anergy, suppression by Regulatory T cells, or clonal ignorance). A breakdown in these mechanisms\u2014due to molecular mimicry (cross-reactivity with foreign pathogens), release of sequestered antigens, or genetic mutations\u2014leads to the activation of self-reactive lymphocytes and autoimmune disease.",
-    "keyPoints": "Central vs. peripheral tolerance, clonal deletion, molecular mimicry, regulatory T cells.",
-    "clinicalImportance": "Conditions like Myasthenia Gravis (antibodies against ACh receptors) and Rheumatoid Arthritis involve a breakdown of self-tolerance, leading to targeted joint and muscle tissue destruction.",
-    "chapterId": "phys_ch5",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch6_001",
-    "question": "What is the Enteric Nervous System (ENS), and how do its myenteric and submucosal plexuses differ in location and function?",
-    "answer": "The ENS is an independent network of neurons in the GI wall. The myenteric (Auerbach's) plexus is located between the outer longitudinal and middle circular smooth muscle layers, and primarily controls gastrointestinal motility. The submucosal (Meissner's) plexus lies in the submucosal layer, and chiefly regulates local epithelial secretion, absorption, and mucosal blood flow.",
-    "keyPoints": "Autonomic independence, Auerbach's (motility/between muscle layers), Meissner's (secretion/submucosa).",
-    "clinicalImportance": "Pathological absence of myenteric plexus neurons (as in Hirschsprung's disease) leads to severe, localized loss of motility and congenital megacolon.",
-    "chapterId": "phys_ch6",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch6_002",
-    "question": "Explain the mechanisms and significance of the Enterogastric Reflex.",
-    "answer": "The enterogastric reflex is an inhibitory reflex triggered by the presence of acid, fats, protein breakdown products, hypertonicity, or distension in the duodenum. Sensory signals travel via the enteric nervous system and vagus nerve to the medulla, inhibiting parasympathetic vagal motor output to the stomach and stimulating sympathetic fibers. This slows gastric motility and delays gastric emptying.",
-    "keyPoints": "Duodenal triggers (acid, fat), inhibition of gastric emptying, vagal inhibition.",
-    "clinicalImportance": "This reflex coordinates the release of acidic chyme into the duodenum with the availability of pancreatic bicarbonate and bile, preventing duodenal mucosal injury and optimizing digestion.",
-    "chapterId": "phys_ch6",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch6_003",
-    "question": "Describe the digestion and absorption of carbohydrates in the human gastrointestinal tract.",
-    "answer": "Carbohydrate digestion begins in the mouth with salivary alpha-amylase and continues in the small intestine with pancreatic alpha-amylase, breaking down starches into maltose, maltotriose, and alpha-limit dextrins. Brush-border enzymes (maltase, sucrase, lactase) further hydrolyze these into monosaccharides: glucose, galactose, and fructose. Glucose and galactose are actively absorbed across the apical membrane via the sodium-glucose cotransporter 1 (SGLT1) utilizing the sodium gradient maintained by the basolateral Na+-K+ ATPase. Fructose is absorbed via facilitated diffusion through glucose transporter 5 (GLUT5). All three exit the basolateral membrane into the portal blood via GLUT2.",
-    "keyPoints": "Amylase, brush-border disaccharidases, SGLT1 (active glucose/galactose), GLUT5 (facilitated fructose), GLUT2 (basolateral exit).",
-    "clinicalImportance": "Lactase deficiency prevents lactose hydrolysis, leading to osmotic retention of water in the bowel lumen and bacterial fermentation, causing cramps, flatulence, and osmotic diarrhea.",
-    "chapterId": "phys_ch6",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch6_004",
-    "question": "What is Basal Metabolic Rate (BMR), and what physiological and pathological factors influence it?",
-    "answer": "BMR is the rate of energy expenditure needed to maintain life-sustaining vital functions at rest. Factors that increase BMR include: greater lean body mass (skeletal muscle), male sex, younger age, fever, hyperthyroidism, pregnancy, and cold ambient temperatures. Factors that decrease BMR include: starvation or severe caloric restriction (a protective thyroid-hormone down-regulation), hypothyroidism, loss of muscle mass, and older age.",
-    "keyPoints": "Standard measurement conditions, thyroid hormone regulation, body composition (muscle vs. fat) influence.",
-    "clinicalImportance": "Hyperthyroidism can increase BMR by 50-100%, causing significant weight loss despite hyperphagia; starvation adaptations reduce BMR to conserve energy reserves.",
-    "chapterId": "phys_ch6",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch6_005",
-    "question": "Explain the physiological basis of Specific Dynamic Action (SDA) and its clinical relevance in nutrition and rehabilitation.",
-    "answer": "SDA is the temporary increase in metabolic rate and heat production following food ingestion. It is the energetic cost of digesting, absorbing, metabolizing, and storing nutrients. It is highest for protein (~30% of ingested energy), followed by carbohydrates (~6%) and fats (~4%). The high cost of proteins is due to the energy required for hepatic deamination of amino acids, urea synthesis, and protein synthesis.",
-    "keyPoints": "Thermic effect of food, protein-induced thermogenesis (~30%), deamination metabolic cost.",
-    "clinicalImportance": "High-protein diets are useful in obesity management because they increase post-prandial energy expenditure (thermic effect) and enhance satiety.",
-    "chapterId": "phys_ch6",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch6_006",
-    "question": "Define Sarcopenia and Cachexia, distinguishing between their underlying pathophysiology and clinical presentation.",
-    "answer": "Sarcopenia is the age-related, progressive loss of skeletal muscle mass and strength, primarily driven by physical inactivity, denervation of motor units, and hormonal declines (growth hormone, testosterone). Cachexia is a hypermetabolic wasting syndrome driven by severe chronic disease (cancer, chronic heart failure), characterized by extreme loss of both skeletal muscle and adipose tissue, mediated by systemic inflammatory cytokines (TNF-alpha, IL-6) that accelerate muscle protein degradation via the ubiquitin-proteasome pathway.",
-    "keyPoints": "Sarcopenia (age-related, muscle loss, reversible with exercise), Cachexia (disease-driven, cytokine-mediated, muscle and fat loss, hypermetabolic).",
-    "clinicalImportance": "Sarcopenia is managed with progressive resistance training; cachexia requires addressing the underlying disease, reducing chronic inflammation, and light, protein-preserving exercises.",
-    "chapterId": "phys_ch6",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch6_007",
-    "question": "Describe the physiology of the Defecation Reflex.",
-    "answer": "Rectal distension by feces activates stretch receptors, sending sensory signals to the spinal cord. This triggers the intrinsic reflex (via the myenteric plexus, causing weak peristalsis in the descending colon and rectum) and the parasympathetic reflex (via pelvic splanchnic nerves, reinforcing peristalsis and relaxing the internal anal sphincter, which is smooth muscle). Somatic motor signals via the pudendal nerves keep the external anal sphincter (skeletal muscle) voluntarily contracted until defecation is convenient.",
-    "keyPoints": "Rectal distension, myenteric reflex, pelvic nerves (parasympathetic), internal anal sphincter (smooth muscle/involuntary relaxation), external anal sphincter (skeletal muscle/voluntary somatic control).",
-    "clinicalImportance": "Spinal cord injuries above the sacral level disrupt voluntary somatic control of the external anal sphincter, leading to neurogenic bowel dysfunction.",
-    "chapterId": "phys_ch6",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch6_008",
-    "question": "How does physical exercise affect gastrointestinal blood flow and motility, and what are the clinical implications for physical therapy?",
-    "answer": "During exercise, sympathetic nervous system activity increases, causing vasoconstriction of splanchnic blood vessels and redistributing blood flow to active skeletal muscles, myocardium, and skin. Splanchnic blood flow can decrease by up to 80% during intense exercise. Gastrointestinal motility and secretion are also reduced. Heavy exercise can compromise gut barrier function, leading to transit delays or ischemic distress.",
-    "keyPoints": "Sympathetic splanchnic vasoconstriction, blood flow redistribution, reduced GI motility during high-exertion exercise.",
-    "clinicalImportance": "Vigorous physical therapy should not be scheduled within 1-2 hours after a heavy meal to prevent indigestion, abdominal cramping, and compromised cardiovascular reserves.",
-    "chapterId": "phys_ch6",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch6_009",
-    "question": "Describe the digestion and absorption of lipids in the small intestine.",
-    "answer": "Lipid digestion begins with lingual and gastric lipases, but occurs primarily in the duodenum where bile salts emulsify large fat globules into smaller droplets. Pancreatic lipase, assisted by colipase, hydrolyzes triglycerides into free fatty acids and 2-monoglycerides. These combine with bile salts and fat-soluble vitamins to form water-soluble micelles, which carry lipids to the microvillus membrane. Fatty acids and monoglycerides diffuse across the apical membrane, enter the endoplasmic reticulum, and are re-esterified into triglycerides. These are packaged with cholesterol and apoproteins into chylomicrons, which exit the basolateral membrane via exocytosis and enter lymphatic lacteals.",
-    "keyPoints": "Bile emulsification, pancreatic lipase/colipase, micelle transport, chylomicron assembly, lymphatic lacteal absorption.",
-    "clinicalImportance": "Obstructive jaundice or pancreatic insufficiency prevents bile or lipase release, causing lipid malabsorption and steatorrhea (fatty, foul-smelling stools).",
-    "chapterId": "phys_ch6",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch6_010",
-    "question": "Explain the metabolic shifts in skeletal muscle during different phases and intensities of exercise.",
-    "answer": "At the onset of exercise or during high-intensity short bursts, skeletal muscle utilizes the phosphagen system (stored ATP and phosphocreatine) for the first 10-15 seconds. For high-intensity exercise lasting up to 2 minutes, anaerobic glycolysis becomes the dominant source of ATP, converting muscle glycogen to glucose and then pyruvate, which is reduced to lactate. For prolonged, moderate-intensity exercise, aerobic metabolism (oxidative phosphorylation) takes over, utilizing pyruvate from glycolysis and free fatty acids from lipolysis (beta-oxidation) in mitochondria to generate large amounts of ATP.",
-    "keyPoints": "Phosphagen system (short burst), anaerobic glycolysis (up to 2 mins), aerobic oxidative phosphorylation (sustained).",
-    "clinicalImportance": "Understanding these systems allows physiotherapists to target specific pathways: interval training targets anaerobic capacity, while continuous training builds aerobic endurance.",
-    "chapterId": "phys_ch6",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch7_001",
-    "question": "What is GFR, and what are the main physical forces that determine it?",
-    "answer": "GFR is the volume of fluid filtered into Bowman's capsule per minute. It is determined by the net filtration pressure (NFP) and the filtration coefficient (Kf). NFP is calculated as: Glomerular Capillary Hydrostatic Pressure (Pc, ~60 mmHg, favors filtration) minus the sum of Bowman's Space Hydrostatic Pressure (P_B, ~18 mmHg, opposes) and Glomerular Capillary Colloid Osmotic Pressure (pi_c, ~32 mmHg, opposes). Kf is determined by glomerular surface area and membrane permeability.",
-    "keyPoints": "Starling forces equation, Pc (~60mmHg), P_B (~18mmHg), pi_c (~32mmHg), GFR = Kf * NFP.",
-    "clinicalImportance": "Constriction of the afferent arteriole decreases Pc and GFR, whereas constriction of the efferent arteriole increases Pc and GFR.",
-    "chapterId": "phys_ch7",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch7_002",
-    "question": "Describe the countercurrent multiplier system in the loop of Henle and how it helps concentrate urine.",
-    "answer": "The countercurrent multiplier establishes a hyperosmotic gradient in the medullary interstitium. In the descending limb, water is passively reabsorbed but solutes are not, concentrating the tubular fluid. In the thick ascending limb, sodium, potassium, and chloride are actively co-transported out via the Na-K-2Cl (NKCC2) cotransporter, but water cannot follow because the limb is impermeable to water. This continuous deposition of solutes into the interstitium, paired with the countercurrent flow of fluid, multiplies the osmotic gradient from 300 mOsm/kg at the cortex to 1200 mOsm/kg at the renal pelvis.",
-    "keyPoints": "Juxtamedullary nephrons, loop of Henle descending limb (water permeable), ascending limb (active solute transport, water impermeable), NKCC2 transporter.",
-    "clinicalImportance": "Loop diuretics like furosemide block the NKCC2 cotransporter, abolishing the medullary hyperosmotic gradient, leading to massive diuresis.",
-    "chapterId": "phys_ch7",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch7_003",
-    "question": "What is the Renin-Angiotensin-Aldosterone System (RAAS), and how does it regulate blood pressure and blood volume?",
-    "answer": "RAAS is a major hormonal regulator of blood volume and pressure. In response to low renal blood pressure, sympathetic stimulation, or low NaCl delivery to the macula densa, juxtaglomerular cells in the kidney secrete renin. Renin cleaves plasma angiotensinogen to angiotensin I. Angiotensin-converting enzyme (ACE) in the lungs converts it to angiotensin II. Angiotensin II is a potent vasoconstrictor, stimulates thirst, increases sympathetic activity, and drives the adrenal cortex to secrete aldosterone. Aldosterone acts on the principal cells of the collecting duct to increase Na+ and water reabsorption, expanding blood volume and raising blood pressure.",
-    "keyPoints": "Juxtaglomerular cells, renin, ACE, angiotensin II actions, aldosterone (sodium/water reabsorption).",
-    "clinicalImportance": "ACE inhibitors and ARBs block this pathway, serving as primary medical therapies for hypertension and diabetic nephropathy.",
-    "chapterId": "phys_ch7",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch7_004",
-    "question": "Explain the physiological mechanisms by which the kidneys regulate systemic acid-base balance.",
-    "answer": "The kidneys maintain acid-base balance via two primary mechanisms: 1) Reabsorption of filtered bicarbonate (HCO3-), primarily occurring in the proximal convoluted tubule (~80-90%) via apical Na+-H+ exchangers. 2) Secretion of hydrogen ions (H+) and synthesis of new bicarbonate, primarily in the alpha-intercalated cells of the collecting duct via H+-ATPase and H+-K+-ATPase pumps. The secreted H+ is buffered in the urine by filtered phosphate (HPO4^2-) and actively synthesized ammonium (NH4+), allowing the excretion of metabolic acids.",
-    "keyPoints": "Bicarbonate reclamation, hydrogen secretion, intercalated cells, phosphate and ammonium buffers.",
-    "clinicalImportance": "Chronic renal failure impairs ammonium synthesis and H+ excretion, resulting in systemic metabolic acidosis, which causes fatigue and bone demineralization.",
-    "chapterId": "phys_ch7",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch7_005",
-    "question": "Describe the micturition reflex and the role of voluntary control over this reflex.",
-    "answer": "Micturition is a spinal reflex with cortical modulation. As the bladder fills (~150-200 mL), stretch receptors in the detrusor muscle send afferent signals via pelvic nerves to the sacral spinal cord (S2-S4) and the pontine micturition center (PMC). Parasympathetic efferents travel back via pelvic nerves, stimulating detrusor contraction and relaxing the internal urethral sphincter (smooth muscle). Voluntary control is mediated by the cerebral cortex (and pudendal nerves), which keeps the external urethral sphincter (skeletal muscle) contracted. When voiding is appropriate, cortical inhibition is removed, allowing external sphincter relaxation and micturition.",
-    "keyPoints": "Pelvic nerves (parasympathetic detrusor contraction), pudendal nerve (somatic voluntary sphincter control), sacral reflex arc.",
-    "clinicalImportance": "Spinal cord injury above S2 spares the reflex arc but removes cortical control, causing an automatic reflex bladder with detrusor-sphincter dyssynergia.",
-    "chapterId": "phys_ch7",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch7_006",
-    "question": "How do the kidneys regulate body water balance in response to dehydration?",
-    "answer": "Dehydration elevates plasma osmolality, which is detected by osmoreceptors in the anterior hypothalamus. This stimulates the synthesis and release of Antidiuretic Hormone (ADH) from the posterior pituitary gland. ADH travels via the blood to the kidneys, where it binds to V2 receptors on the basolateral membrane of principal cells in the collecting ducts. This triggers G-protein coupling, elevating intracellular cAMP and driving the exocytosis of vesicles containing aquaporin-2 water channels into the apical membrane. Water is passively reabsorbed down the osmotic gradient into the medullary interstitium, producing highly concentrated urine and conserving body water.",
-    "keyPoints": "Osmoreceptors, posterior pituitary, ADH, V2 receptor, cAMP, aquaporin-2 insertion.",
-    "clinicalImportance": "Diabetes insipidus involves a lack of ADH (central) or renal ADH resistance (nephrogenic), resulting in massive polyuria and severe dehydration risk.",
-    "chapterId": "phys_ch7",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch7_007",
-    "question": "What are the physiological differences between Renal Clearance of Inulin and Creatinine, and how are they used to estimate GFR?",
-    "answer": "Inulin is a plant polysaccharide that is freely filtered by the glomerulus and is neither reabsorbed nor secreted by the renal tubules. Therefore, its clearance rate is exactly equal to the GFR. However, inulin must be infused intravenously. Creatinine is an endogenous byproduct of muscle metabolism that is freely filtered, but undergoes a small amount of active tubular secretion (~10-15%). Thus, creatinine clearance slightly overestimates GFR, but due to its ease of use (no infusion required), it is the standard clinical method to estimate GFR.",
-    "keyPoints": "Inulin clearance (freely filtered, no reabsorption/secretion, gold standard), Creatinine clearance (endogenous, minor tubular secretion, overestimates GFR slightly).",
-    "clinicalImportance": "A declining GFR leads to an accumulation of creatinine in the blood; measuring serum creatinine is a primary screen for kidney disease.",
-    "chapterId": "phys_ch7",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch7_008",
-    "question": "Describe the filtration barrier of the glomerulus and explain why proteins are normally absent in urine.",
-    "answer": "The filtration barrier consists of three layers: 1) Fenestrated capillary endothelium, which stops blood cells but passes solutes and plasma proteins. 2) Glomerular basement membrane (GBM), a dense mesh of collagen and proteoglycans. 3) Podocyte foot processes (pedicels) with bridging filtration slit diaphragms. The barrier restricts molecules based on size (restricting solutes with a molecular radius >4 nm) and charge. The basement membrane and podocytes are rich in negatively charged sialic acids and heparan sulfate proteoglycans, which electrostatically repel negatively charged plasma proteins (like albumin, ~3.6 nm).",
-    "keyPoints": "Fenestrated endothelium, basement membrane, slit diaphragms, size restriction, negative charge barrier (heparan sulfate).",
-    "clinicalImportance": "Damage to the negative charge barrier, as seen in nephrotic syndrome, allows massive albumin leakage into the urine (proteinuria), leading to severe hypoalbuminemia and generalized pitting edema.",
-    "chapterId": "phys_ch7",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch7_009",
-    "question": "What is Renal Blood Flow (RBF) autoregulation, and what are the two main intrarenal mechanisms that coordinate it?",
-    "answer": "Autoregulation keeps RBF and GFR stable when systemic blood pressure fluctuates between 80 and 180 mmHg. It is mediated by two mechanisms: 1) The Myogenic Mechanism, where stretching of vascular smooth muscle in the afferent arteriole by elevated blood pressure triggers stretch-activated calcium channels, causing reflex vasoconstriction to limit blood flow. 2) Tubuloglomerular Feedback (TGF), where increased GFR delivers more NaCl to the macula densa cells in the thick ascending limb. The macula densa detects the elevated NaCl, releases adenosine/ATP, which causes afferent arteriolar constriction, bringing RBF and GFR back to normal.",
-    "keyPoints": "BP range (80-180 mmHg), myogenic response, macula densa, adenosine release, afferent arteriolar resistance.",
-    "clinicalImportance": "Autoregulation fails when blood pressure drops below 80 mmHg (e.g., in severe hemorrhagic shock), leading to renal ischemia and acute tubular necrosis.",
-    "chapterId": "phys_ch7",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch7_010",
-    "question": "Why do patients with chronic kidney disease (CKD) frequently develop severe anemia and metabolic bone disease?",
-    "answer": "CKD impairs the endocrine functions of the kidney: 1) Severe Anemia: The renal cortical interstitial cells are damaged, leading to a profound deficiency in Erythropoietin (EPO) synthesis, which reduces red blood cell production in bone marrow. 2) Metabolic Bone Disease (Renal Osteodystrophy): Damaged renal tubules cannot synthesize active Vitamin D (1,25-dihydroxyvitamin D3) due to a loss of 1-alpha-hydroxylase activity. This decreases intestinal calcium absorption, causing hypocalcemia. Simultaneously, reduced phosphorus excretion leads to hyperphosphatemia. High phosphorus and low calcium stimulate excess Parathyroid Hormone (PTH) secretion, which drives osteoclasts to resorb bone to normalize blood calcium, leaving bones fragile and prone to fracture.",
-    "keyPoints": "EPO deficiency (anemia), 1-alpha-hydroxylase failure (Vitamin D loss), hyperphosphatemia, secondary hyperparathyroidism, osteoclastic bone resorption.",
-    "clinicalImportance": "Physiotherapists working with CKD patients must prescribe low-impact exercises to prevent pathological bone fractures and monitor for extreme fatigue caused by uremic anemia.",
-    "chapterId": "phys_ch7",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch8_001",
-    "question": "Explain the cellular mechanism by which insulin facilitates glucose transport into skeletal muscle and adipose tissue cells.",
-    "answer": "Insulin binds to the extracellular alpha subunits of the insulin receptor, causing autophosphorylation of the intracellular beta subunits. This activates tyrosine kinase, which phosphorylates insulin receptor substrates (IRS-1/2). This recruits and activates phosphatidylinositol 3-kinase (PI3K), which activates protein kinase B (Akt). Activated Akt drives the exocytosis of vesicles containing Glucose Transporter 4 (GLUT4) from intracellular pools to the cell membrane, allowing glucose entry via facilitated diffusion.",
-    "keyPoints": "Tyrosine kinase activation, IRS phosphorylation, PI3K-Akt signaling, GLUT4 vesicle translocation to the cell membrane.",
-    "clinicalImportance": "In Type 2 Diabetes, defects in this intracellular signaling cascade cause insulin resistance; however, skeletal muscle contraction stimulates AMPK, which drives GLUT4 translocation via an independent pathway, making exercise a vital therapy.",
-    "chapterId": "phys_ch8",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch8_002",
-    "question": "What is the physiological role of Parathyroid Hormone (PTH) in calcium homeostasis, and how does it act on its target organs?",
-    "answer": "PTH is released by parathyroid chief cells in response to low extracellular calcium. It restores serum calcium via three mechanisms: 1) Bone: It binds to osteoblasts, increasing their expression of RANKL and decreasing OPG, which drives osteoclast differentiation and bone resorption, releasing calcium and phosphate. 2) Kidney: It increases calcium reabsorption in the distal tubule and inhibits phosphate reabsorption in the proximal tubule. It also activates 1-alpha-hydroxylase. 3) Intestines: Active Vitamin D then increases intestinal calcium and phosphate absorption.",
-    "keyPoints": "Chief cells, calcium-sensing receptors, bone resorption (RANKL/OPG), renal calcium reabsorption, renal phosphate excretion, active Vitamin D activation.",
-    "clinicalImportance": "Primary hyperparathyroidism causes hypercalcemia, which can lead to nephrolithiasis (kidney stones), bone pain ('osteitis fibrosa cystica'), muscle weakness, and fatigue.",
-    "chapterId": "phys_ch8",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch8_003",
-    "question": "Describe the synthesis of thyroid hormones (T3 and T4) within the thyroid follicle.",
-    "answer": "Thyroid hormone synthesis involves several steps: 1) Iodide trapping: Active transport of iodide across the basolateral membrane via the sodium-iodide symporter (NIS). 2) Synthesis of thyroglobulin (TG) by follicular cells and secretion into the colloid. 3) Oxidation of iodide to iodine by thyroid peroxidase (TPO) at the apical membrane. 4) Organification: Iodination of tyrosine residues on TG by TPO, forming monoiodotyrosine (MIT) and diiodotyrosine (DIT). 5) Coupling: TPO couples MIT and DIT to form T3 (MIT+DIT) and T4 (DIT+DIT). 6) Endocytosis of iodinated TG back into follicular cells, where lysosomal proteases cleave T3 and T4, which are released into circulation.",
-    "keyPoints": "NIS symporter, thyroglobulin, TPO enzyme, iodination (MIT/DIT), coupling (T3/T4), proteolysis and release.",
-    "clinicalImportance": "Graves' disease involves autoimmune antibodies (TSI) that stimulate the TSH receptor, causing excessive hormone synthesis, hyperthyroidism, and goiter.",
-    "chapterId": "phys_ch8",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch8_004",
-    "question": "What is Postmenopausal Osteoporosis, and how does estrogen deficiency drive its pathophysiology?",
-    "answer": "Postmenopausal osteoporosis is characterized by rapid bone loss after menopause. Estrogen normally limits bone resorption by: 1) Binding to osteoblast receptors to increase Osteoprotegerin (OPG) synthesis and decrease RANKL expression, preventing osteoclast activation. 2) Directly inducing osteoclast apoptosis and suppressing bone-resorbing cytokines (like IL-1, TNF-alpha). Estrogen deficiency leads to an abundance of RANKL, promoting osteoclast survival and activity. This causes bone resorption to exceed bone formation, leading to loss of trabecular bone structure and increased fracture risk.",
-    "keyPoints": "Estrogen decline, osteoprotegerin (OPG) reduction, RANKL over-activation, osteoclast dominance, trabecular bone loss.",
-    "clinicalImportance": "Physiotherapists treat these patients using weight-bearing and progressive resistance training, which apply mechanical strain to bone to stimulate osteoblastic bone deposition (Wolff's Law).",
-    "chapterId": "phys_ch8",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch8_005",
-    "question": "Explain the physiological role of active Vitamin D (1,25-dihydroxyvitamin D3) and how it is synthesized.",
-    "answer": "Active Vitamin D regulates calcium and bone metabolism. It is synthesized sequentially: 1) Skin: 7-dehydrocholesterol is converted to cholecalciferol (Vitamin D3) by UV-B light (or obtained from diet). 2) Liver: Cholecalciferol is hydroxylated to 25-hydroxyvitamin D3 (calcidiol) by 25-hydroxylase. 3) Kidney: Calcidiol is hydroxylated by 1-alpha-hydroxylase to 1,25-dihydroxyvitamin D3 (calcitriol), which is regulated by PTH. Calcitriol binds to nuclear receptors in intestinal enterocytes, upregulating calbindin, apical calcium channels (TRPV6), and basolateral Ca2+-ATPase pumps to increase calcium absorption.",
-    "keyPoints": "Skin conversion, hepatic 25-hydroxylation, renal 1-alpha-hydroxylation (PTH-dependent), calbindin synthesis, intestinal calcium transport.",
-    "clinicalImportance": "Vitamin D deficiency in children causes rickets, and in adults causes osteomalacia, leading to soft, weakly mineralized bones and proximal muscle weakness.",
-    "chapterId": "phys_ch8",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch8_006",
-    "question": "Describe the metabolic and cardiovascular changes that occur during the physiological stress response.",
-    "answer": "The stress response involves two coordinated systems: 1) The Sympathoadrenal Medullary System: Stress activates sympathetic preganglionic fibers that trigger the adrenal medulla to release epinephrine (~80%) and norepinephrine (~20%). Catecholamines increase heart rate, cardiac contractility, and cause vasoconstriction in non-essential organs, while dilating blood vessels in skeletal muscle. They stimulate hepatic glycogenolysis and adipose lipolysis. 2) The Hypothalamic-Pituitary-Adrenal (HPA) Axis: Stress drives hypothalamic CRH release, which stimulates pituitary ACTH, driving the adrenal cortex to secrete cortisol. Cortisol mobilizes glucose via gluconeogenesis, degrades skeletal muscle proteins for amino acid substrate, and maintains vascular responsiveness to catecholamines.",
-    "keyPoints": "Sympathoadrenal activation, catecholamines (immediate cardiac/metabolic effects), HPA axis, cortisol (delayed energy mobilization/glucose sparing).",
-    "clinicalImportance": "Chronic stress leads to prolonged cortisol elevation, contributing to skeletal muscle wasting, visceral adiposity, hypertension, and impaired immune function.",
-    "chapterId": "phys_ch8",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch8_007",
-    "question": "What is the 'Female Athlete Triad', and what are its physiological mechanisms?",
-    "answer": "The Female Athlete Triad is a syndrome consisting of: 1) Low energy availability (with or without disordered eating). 2) Menstrual dysfunction (such as hypothalamic amenorrhea). 3) Low bone mineral density (osteoporosis). The underlying cause is a severe caloric deficit relative to exercise energy expenditure. This energy deficiency suppresses the hypothalamic pulse generator, reducing Gonadotropin-Releasing Hormone (GnRH) release. This suppresses LH and FSH secretion, leading to anovulation and low estrogen levels (hypoestrogenism). The lack of estrogen stimulates osteoclastic bone resorption, leading to osteoporosis and high stress-fracture risk.",
-    "keyPoints": "Caloric deficit, GnRH suppression, hypoestrogenism, amenorrhea, osteoclast activation, stress-fracture risk.",
-    "clinicalImportance": "Sports physiotherapists must recognize this triad to prevent irreversible bone loss and manage the patient's exercise workload and nutrition.",
-    "chapterId": "phys_ch8",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch8_008",
-    "question": "Explain the physiological differences between Type 1 and Type 2 Diabetes Mellitus.",
-    "answer": "Type 1 Diabetes is an autoimmune disease characterized by the T-cell-mediated destruction of pancreatic beta cells, leading to an absolute insulin deficiency. Patients require lifelong exogenous insulin and are prone to diabetic ketoacidosis (DKA) due to unchecked lipolysis and ketogenesis. Type 2 Diabetes is characterized by peripheral insulin resistance (particularly in skeletal muscle, liver, and adipose tissue) paired with a progressive, relative insulin secretory defect. It is highly associated with obesity and metabolic syndrome. DKA is rare in Type 2, as trace insulin levels are usually sufficient to suppress hepatic ketogenesis.",
-    "keyPoints": "Type 1 (autoimmune, beta-cell destruction, absolute deficiency, DKA prone), Type 2 (insulin resistance, secretory defect, obesity-linked, ketoacidosis resistant).",
-    "clinicalImportance": "In Type 2 Diabetes, physical exercise is primary therapy because muscle contraction directly improves insulin sensitivity and stimulates insulin-independent glucose uptake.",
-    "chapterId": "phys_ch8",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch8_009",
-    "question": "Describe the physiological hormonal changes that occur during Menopause, and their systemic clinical consequences.",
-    "answer": "Menopause is the permanent cessation of menstruation resulting from the loss of ovarian follicular activity. As the pool of primordial follicles is depleted, the ovaries cease to secrete significant levels of estradiol and progesterone. The loss of negative feedback by estrogen on the hypothalamus and anterior pituitary results in a dramatic increase in circulating FSH and LH levels. Systemic consequences of low estrogen include: vasomotor symptoms (hot flashes), urogenital atrophy, favorable cardiovascular lipid profile reversal, and accelerated bone mineral density loss due to unchecked osteoclastogenesis.",
-    "keyPoints": "Ovarian follicle depletion, drop in estradiol/progesterone, elevation of FSH and LH, loss of osteoblastic protection.",
-    "clinicalImportance": "Postmenopausal women are at high risk for osteoporosis and cardiovascular disease; physical therapists focus on balance training, posture, and weight-bearing exercises.",
-    "chapterId": "phys_ch8",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch8_010",
-    "question": "What is Metabolic Syndrome, and what are its five diagnostic criteria?",
-    "answer": "Metabolic Syndrome is a cluster of metabolic abnormalities that increase the risk of cardiovascular disease and Type 2 Diabetes. The five diagnostic criteria (with a patient needing at least three to qualify) are: 1) Abdominal Obesity: Waist circumference >102 cm (40 in) in men, or >88 cm (35 in) in women. 2) Elevated Triglycerides: >=150 mg/dL (or on medication). 3) Reduced HDL Cholesterol: <40 mg/dL in men, or <50 mg/dL in women (or on medication). 4) Elevated Blood Pressure: Systolic >=130 mmHg and/or Diastolic >=85 mmHg (or on antihypertensive medication). 5) Elevated Fasting Glucose: >=100 mg/dL (or on glucose-lowering medication).",
-    "keyPoints": "Clustering of metabolic risks, insulin resistance link, five parameters (waist, triglycerides, HDL, BP, fasting glucose).",
-    "clinicalImportance": "Physiotherapists address metabolic syndrome through structured lifestyle interventions, focusing on aerobic and resistance exercise to improve insulin sensitivity and reduce visceral fat.",
-    "chapterId": "phys_ch8",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch9_001",
-    "question": "What is VO2max, and what are the primary central and peripheral physiological factors that limit it in healthy individuals?",
-    "answer": "VO2max represents the maximum volume of oxygen that an individual can transport and utilize during maximal exertion, mathematically represented by the Fick Equation: VO2 = Q * a-vO2 diff (where Q is Cardiac Output and a-vO2 diff is the arterio-venous oxygen difference). Centrally, it is limited by stroke volume, myocardial contractility, arterial oxygenation, and blood hemoglobin content. Peripherally, it is limited by skeletal muscle capillary density, mitochondrial count, oxidative enzymes, and myoglobin content. In healthy individuals, the primary limiting factor is central oxygen delivery (specifically, maximal cardiac output).",
-    "keyPoints": "Fick Equation, cardiac output (central limit), arterio-venous oxygen difference (peripheral limit), mitochondrial oxidative capacity.",
-    "clinicalImportance": "VO2max is the gold-standard measure of cardiorespiratory fitness; improving it directly reduces cardiac work and systemic cardiovascular mortality.",
-    "chapterId": "phys_ch9",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch9_002",
-    "question": "Compare the three major human metabolic pathways utilized to regenerate ATP during exercise in terms of substrate, rate, and capacity.",
-    "answer": "1) ATP-PC System: Uses intramuscular phosphocreatine (PC) substrate, has an extremely rapid rate of ATP production but a very low capacity, depleting within 10 seconds. 2) Anaerobic Glycolytic System: Breaks down glucose or glycogen without oxygen, has a fast rate of ATP production but is limited by the accumulation of metabolic hydrogen ions and lactate, dominating for high-intensity efforts lasting 10 seconds to 2 minutes. 3) Aerobic Oxidative System: Oxidizes carbohydrates and lipids in the mitochondria via the Krebs cycle and ETC, has a slow rate of ATP generation but a virtually unlimited capacity, serving as the dominant energy pathway for activities lasting longer than 2 minutes.",
-    "keyPoints": "ATP-PC (rapid, tiny capacity), Glycolytic (fast, intermediate capacity, causes acidosis), Oxidative (slow, unlimited capacity, mitochondrial).",
-    "clinicalImportance": "Physiotherapists design training programs targeting specific metabolic systems; for example, high-power interval training targets the anaerobic systems, whereas long-distance cycling targets the aerobic pathway.",
-    "chapterId": "phys_ch9",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch9_003",
-    "question": "Explain the physiological phenomenon of 'Oxygen Debt' or Excess Post-Exercise Oxygen Consumption (EPOC) and its two distinct components.",
-    "answer": "EPOC is the elevated rate of oxygen consumption that persists after exercise ends, exceeding resting baseline levels. It has two primary phases: 1) Fast (Alactacid) Component (completed in 2-3 minutes): Uses oxygen to rapidly resynthesize depleted muscle ATP and phosphocreatine reserves, and to reoxygenate arterial blood and muscle myoglobin. 2) Slow (Lactacid) Component (can last for several hours): Sustains elevated ventilation, heart rate, and metabolic rate to lower core temperature, and provides oxygen to convert accumulated lactate back into glucose (gluconeogenesis via the Cori cycle in the liver).",
-    "keyPoints": "Alactacid component (fast, ATP-PC replenishment), Lactacid component (slow, lactate clearance, temperature regulation, metabolic rate).",
-    "clinicalImportance": "High-intensity interval training (HIIT) produces a larger and longer-lasting EPOC than steady-state exercise, boosting post-exercise calorie burn.",
-    "chapterId": "phys_ch9",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch9_004",
-    "question": "What is the Lactate Threshold (LT), and why is it considered a superior predictor of endurance athletic performance than VO2max?",
-    "answer": "The lactate threshold is the exercise intensity at which blood lactate levels begin to rise exponentially above resting levels, typically around 4 mmol/L, indicating that lactate production in active muscles has exceeded systemic clearance rates. It is a superior predictor of performance because while two athletes may share identical VO2max values, the athlete with a higher lactate threshold can sustain a higher percentage of their VO2max for prolonged durations without accumulating hydrogen ions and experiencing fatiguing metabolic acidosis.",
-    "keyPoints": "Exponential accumulation, OBLA (onset of blood lactate accumulation), production vs. clearance, metabolic acidosis.",
-    "clinicalImportance": "Therapists use lactate threshold boundaries to prescribe precise aerobic workloads; training just below the threshold enhances systemic clearance and delays fatigue.",
-    "chapterId": "phys_ch9",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch9_005",
-    "question": "Describe Henneman's Size Principle of motor unit recruitment and explain its clinical significance in progressive resistance training.",
-    "answer": "Henneman's Size Principle states that motor units are recruited in a highly organized, orderly fashion based on their size. Smaller, low-threshold motor units (Type I, slow-twitch, fatigue-resistant) are recruited first for low-force activities. As the required force, acceleration, or velocity increases, the nervous system progressively recruits larger, high-threshold motor units (Type IIa, followed by Type IIx, fast-twitch, easily fatiguable).",
-    "keyPoints": "Small motor units first (Type I), large motor units later (Type II), force-dependent recruitment, axon size.",
-    "clinicalImportance": "To target and strengthen the high-threshold Type II muscle fibers (which undergo the greatest age-related atrophy), physical therapists must prescribe exercises utilizing high loads (e.g., >70% of 1-RM) or high-velocity explosive movements.",
-    "chapterId": "phys_ch9",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch9_006",
-    "question": "What is 'Cardiovascular Drift', and what are its underlying physiological mechanisms during prolonged submaximal exercise?",
-    "answer": "Cardiovascular drift refers to the progressive increase in heart rate paired with a concurrent decline in stroke volume during prolonged, constant-intensity submaximal exercise (typically >15 minutes), especially in warm environments. The mechanism is driven by rising core temperature, which triggers cutaneous vasodilation to dissipate heat. This leads to blood pooling in the skin, which reduces venous return, ventricular end-diastolic volume, and stroke volume. To maintain a constant cardiac output (CO = HR * SV), the heart rate must progressively increase.",
-    "keyPoints": "Constant workload, progressive HR rise, stroke volume drop, cutaneous vasodilation, cardiac output conservation.",
-    "clinicalImportance": "Therapists must monitor this drift when training cardiac patients in hot clinics, ensuring proper hydration and room cooling to prevent excessive myocardial strain.",
-    "chapterId": "phys_ch9",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch9_007",
-    "question": "Explain the physiological mechanism and importance of 'Functional Sympatholysis' during exercise.",
-    "answer": "During exercise, systemic sympathetic nervous system activity is highly elevated, causing widespread vasoconstriction in non-essential organs (kidneys, viscera) and inactive muscles to preserve blood pressure. However, active skeletal muscles secrete local vasodilatory factors (such as nitric oxide, adenosine, ATP, lactate, K+, and H+). These local metabolic byproducts act directly on vascular smooth muscle, overriding the sympathetic vasoconstrictor signals in active capillary beds. This selective vasodilation ensures that blood flow is shunted precisely to working muscle fibers.",
-    "keyPoints": "Widespread vasoconstriction, local metabolic vasodilation, functional sympatholysis, shunting of cardiac output.",
-    "clinicalImportance": "Impaired sympatholysis, seen in patients with chronic heart failure or diabetes, limits muscle perfusion during exercise, causing premature fatigue and severe exercise intolerance.",
-    "chapterId": "phys_ch9",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch9_008",
-    "question": "What are the primary chronic cardiovascular adaptations to long-term aerobic endurance training?",
-    "answer": "Chronic aerobic training leads to several major adaptations: 1) Heart: Eccentric left ventricular hypertrophy, which increases ventricular chamber size and myocardial compliance, resulting in a significantly larger stroke volume. 2) Heart Rate: Resting bradycardia (often 40-50 bpm) and lower submaximal heart rates, driven by increased vagal (parasympathetic) tone and larger stroke volume. 3) Blood: Increased total blood volume and plasma volume, which lowers blood viscosity. 4) Vasculature: Increased skeletal muscle capillary density and improved endothelial function, facilitating greater oxygen extraction.",
-    "keyPoints": "Eccentric hypertrophy, stroke volume increase, resting bradycardia (vagal tone), capillary density, plasma volume expansion.",
-    "clinicalImportance": "These adaptations significantly reduce myocardial work and lower systemic blood pressure, forming the physiological basis of cardiac rehabilitation.",
-    "chapterId": "phys_ch9",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch9_009",
-    "question": "Describe the two ventilatory thresholds (VT1 and VT2) and how they reflect metabolic shifts during progressive exercise.",
-    "answer": "1) First Ventilatory Threshold (VT1): The point where ventilation first increases disproportionately to VO2. This reflects the accumulation of lactate, which is buffered by systemic bicarbonate, releasing extra carbon dioxide (CO2) that stimulates breathing. 2) Second Ventilatory Threshold (VT2) / Respiratory Compensation Point (RCP): At higher intensities, bicarbonate can no longer buffer the rapid lactic acid accumulation. Arterial pH drops (metabolic acidosis), triggering severe, hyperventilatory hyperventilation to clear CO2 and stabilize pH.",
-    "keyPoints": "VT1 (bicarbonate buffering, excess CO2), VT2/RCP (unbuffered acidosis, severe hyperventilation to clear CO2).",
-    "clinicalImportance": "Therapists estimate VT1 and VT2 clinically using the 'Talk Test' to prescribe appropriate exercise zones for cardiovascular and respiratory patients.",
-    "chapterId": "phys_ch9",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_phys_ch9_010",
-    "question": "What is Overtraining Syndrome, and how do the sympathetic and parasympathetic forms differ physiologically?",
-    "answer": "Overtraining Syndrome is a state of chronic fatigue, decreased performance, and neuroendocrine dysfunction caused by an imbalance between exercise stress and recovery. It has two forms: 1) Sympathetic Overtraining (common in power/anaerobic athletes): Characterized by increased resting heart rate, delayed heart rate recovery, insomnia, irritability, and elevated cortisol. 2) Parasympathetic Overtraining (common in endurance athletes): Characterized by extreme fatigue, resting bradycardia, blunted heart rate response during exercise, lower resting blood pressure, and a decreased testosterone-to-cortisol ratio, indicating a systemic catabolic state.",
-    "keyPoints": "Sympathetic form (hyper-arousal, elevated resting HR, cortisol), parasympathetic form (hypo-arousal, low resting HR, blunted exercise HR, catabolic state).",
-    "clinicalImportance": "Sports physical therapists monitor changes in resting morning heart rate, sleep quality, and heart rate variability (HRV) to identify early signs of overreaching.",
-    "chapterId": "phys_ch9",
-    "subjectId": "physiology"
-  },
-  {
-    "id": "viva_el1_ch1_001",
-    "question": "What is Ohm's Law and why is it crucial in physical electrotherapy?",
-    "answer": "Ohm's Law is formulated as I = V/R, stating that the current (I) is directly proportional to voltage (V) and inversely proportional to resistance (R). Clinically, skin acts as a high-resistance barrier. If we do not clean the skin and moisten the pads to lower resistance (R), we must apply high voltage (V) to achieve the therapeutic current (I), increasing the risk of painful electrochemical skin burns.",
-    "keyPoints": "Formula I = V/R, skin resistance, dangerous high voltage, potential burn risk.",
-    "clinicalImportance": "Guides the clinical preparation of skin and electrodes.",
-    "chapterId": "el1_ch1",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch1_002",
-    "question": "Differentiate between electrical resistance and electrical impedance.",
-    "answer": "Resistance is the opposition offered to continuous direct current (Ohmic resistance). Impedance (Z) is the total opposition offered to alternating current, composed of both resistance and frequency-dependent capacitive and inductive reactance. Human skin has high capacitance, meaning impedance falls significantly as frequency rises.",
-    "keyPoints": "Resistance (DC), Impedance (AC), reactance components, frequency-dependent behavior.",
-    "clinicalImportance": "Explains why medium frequency currents (like IFT) pass through skin with less discomfort.",
-    "chapterId": "el1_ch1",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch1_003",
-    "question": "According to Joule's Law, what factors determine the clinical heat generated in tissue during therapy?",
-    "answer": "Joule's Law states H = I\u00b2 * R * t, meaning heat (H) is proportional to current squared (I\u00b2), tissue resistance (R), and duration of current flow (t). To avoid burns, physical therapists must control current density (reducing I by using larger pads) and treatment duration (t).",
-    "keyPoints": "H = I\u00b2 * R * t formula, current density, resistance of tissue, duration.",
-    "clinicalImportance": "Forms the foundation of electrical safety and burn prevention.",
-    "chapterId": "el1_ch1",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch1_004",
-    "question": "Briefly state the clinical significance of a capacitive biological membrane.",
-    "answer": "Cell membranes act as capacitors (dielectric bilayer separating conductive ionic fluids). They block low frequency DC except when polarized, but easily pass high frequency AC currents. This requires us to use shorter pulse widths or higher frequencies to stimulate deep motor tissues without skin discomfort.",
-    "keyPoints": "Lipid bilayer capacitor, frequency transmission, low vs high frequency.",
-    "clinicalImportance": "Explains the physiological response difference between DC and high-frequency currents.",
-    "chapterId": "el1_ch1",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch1_005",
-    "question": "What is current density and why does it matter when choosing electrode size?",
-    "answer": "Current density is the amount of electrical current flowing per unit of electrode surface area (mA/cm\u00b2). If we use a very small active electrode with high current, the current density is dense, leading to sharp localized excitation or skin burns. Larger dispersive electrodes reduce current density.",
-    "keyPoints": "mA/cm\u00b2, active vs dispersive electrode size, skin sensation.",
-    "clinicalImportance": "Dictates selection of appropriate electrode sizes based on intent.",
-    "chapterId": "el1_ch1",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch1_006",
-    "question": "Why must we always set treatment knobs to zero before starting a machine or changing modalities?",
-    "answer": "Setting controls to zero prevents delivering a sudden surge of high voltage to the patient (known as 'galvanic shock'). Sudden current rises trigger full muscle spasms and sharp pain due to instantaneous motor unit polarization.",
-    "keyPoints": "Galvanic shock prevention, sudden muscle spasm, safety sequencing.",
-    "clinicalImportance": "Safeguards patients against painful electrical accidents.",
-    "chapterId": "el1_ch1",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch1_007",
-    "question": "How does washing the skin with water or alcohol influence electrotherapy parameters?",
-    "answer": "Clean skin removes natural sebum, dry desquamated cells, and skin oils that act as insulators. This significantly reduces Ohmic resistance, decreasing the voltage needed to drive therapeutic currents and ensuring comfortable stimulation.",
-    "keyPoints": "Removal of sebum, reduction of resistance, lower treatment voltage.",
-    "clinicalImportance": "Enhances treatment comfort and efficacy.",
-    "chapterId": "el1_ch1",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch1_008",
-    "question": "What is phase charge and why is it referred to as the 'currency of excitation'?",
-    "answer": "Phase charge is the total electrical energy delivered during a single phase of a pulse, equal to the area under the amplitude-time curve (Current x Duration). It represents the exact charge quantity required to depolarize a nerve membrane above its motor threshold.",
-    "keyPoints": "Area under the curve, current times pulse duration, depolarization threshold.",
-    "clinicalImportance": "Governs the selection of comfortable stimulator settings.",
-    "chapterId": "el1_ch1",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch1_009",
-    "question": "Under what physical conditions does an electrical 'hot spot' occur clinical?",
-    "answer": "A hot spot occurs when current is unevenly distributed across the electrode, concentrating current density at a single small skin area. This is caused by loose electrode strapping, air bubbles, dry sponges, or bent metal pins.",
-    "keyPoints": "Uneven current distribution, dry coupling surface, skin abrasion.",
-    "clinicalImportance": "High burn hazard; requires immediate inspection during therapy.",
-    "chapterId": "el1_ch1",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch1_010",
-    "question": "What is a dielectric and what acts as a biological dielectric?",
-    "answer": "A dielectric is an insulating material or substance that can transmit electrical force without conduction. In the body, the lipid bilayer of cell membranes and myelin sheaths of nerve axons act as biological dielectrics.",
-    "keyPoints": "Insulation, lipid bilayer, myelin sheath.",
-    "clinicalImportance": "Determines the electrical impedance properties of tissues.",
-    "chapterId": "el1_ch1",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch2_001",
-    "question": "Why does the cathode present a higher risk of chemical burns than the anode when using galvanic current?",
-    "answer": "Under the negative cathode, sodium ions accumulate and react with tissue water to form sodium hydroxide. Because sodium hydroxide is alkaline, it dissolves and liquefies skin proteins, allowing current to penetrate deeper and cause rapid chemical tissue destruction. In contrast, the anode forms hydrochloric acid, which coagulates proteins and hardens tissues, creating a natural, self-limiting protective barrier.",
-    "keyPoints": "Sodium hydroxide vs hydrochloric acid, liquefactive necrosis at cathode, coagulative barrier at anode.",
-    "clinicalImportance": "Guides clinician to utilize lower current densities at the negative electrode.",
-    "chapterId": "el1_ch2",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch2_002",
-    "question": "Define Iontophoresis and name its primary pathways of drug penetration through the skin.",
-    "answer": "Iontophoresis is the non-invasive, transdermal delivery of charged pharmaceutical ions using continuous direct current. The primary pathways of penetration are the skin appendages, specifically the sweat gland ducts and hair follicle shafts, bypasses the high-impedance stratum corneum of dry skin.",
-    "keyPoints": "Epidermal bypass, eccrine sweat glands, hair follicles, continuous direct current.",
-    "clinicalImportance": "Optimizes therapeutic targeting of deep soft-tissues without systemic side-effects.",
-    "chapterId": "el1_ch2",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch2_003",
-    "question": "Explain the differences between anelectrotonus and catelectrotonus.",
-    "answer": "Anelectrotonus is hyperpolarization and reduced nerve excitability around the anode due to positive charge pooling outside nerve membranes. Catelectrotonus is depolarization and enhanced excitability around the cathode due to negative charges pooling outside, moving the membrane potential closer to threshold.",
-    "keyPoints": "Excitability changes, hyperpolarization at anode, depolarization at cathode.",
-    "clinicalImportance": "Guides polarity selection (the anode is used for relieving pain; the cathode is used for nerve stimulation).",
-    "chapterId": "el1_ch2",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch2_004",
-    "question": "What is a galvanic shock and how is it clinically avoided when completing a treatment?",
-    "answer": "A galvanic shock is a sudden, painful muscle spasm caused by a rapid change in current intensity. It is avoided by ensuring stimulator controls are at absolute zero before starting, raising current amplitude very slowly, and ramping the intensity back to zero before turning the equipment power off.",
-    "keyPoints": "Sudden current surge, terminal intensity ramp down, machine safety.",
-    "clinicalImportance": "Ensures patient safety and prevents physical anxiety during therapy.",
-    "chapterId": "el1_ch2",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch2_005",
-    "question": "Explain the mechanism of electro-osmosis under the influence of continuous direct current.",
-    "answer": "Electro-osmosis is the bulk displacement of water molecules through biological membranes toward the negative cathode. This occurs because healthy skin membranes possess a net negative charge, making them porous to positively charged hydration shells moving under the applied EMF.",
-    "keyPoints": "Water displacement direction, cathode attraction, skin membrane charge.",
-    "clinicalImportance": "Assists in clinical reduction of chronic localized synovial joint effusion.",
-    "chapterId": "el1_ch2",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch2_006",
-    "question": "Why do we use multi-layered sponge padding (at least 1 cm thick) over metal plates in galvanic therapy?",
-    "answer": "Galvanic current produces caustic electrochemical products directly at the metal-saline interface. Thick sponge pads hold enough moisture to dilute these acids and alkalis, keeping them safely away from direct contact with the patient's skin.",
-    "keyPoints": "Chemical dilution, metal plate isolation, prevention of contact burns.",
-    "clinicalImportance": "Essential physical barrier safeguard for all direct current setups.",
-    "chapterId": "el1_ch2",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch2_007",
-    "question": "Name two common drugs used in physical iontophoresis, their chemical charges, and their clinical indications.",
-    "answer": "1. Dexamethasone Sodium Phosphate, which is negatively charged (-) and used to treat acute ankle bursitis and tendon inflammation. 2. Lidocaine Hydrochloride, which is positively charged (+) and used for rapid, local skin analgesia.",
-    "keyPoints": "Dexamethasone (-), Lidocaine (+), indications, electrode polarity pairs.",
-    "clinicalImportance": "Enables targeted non-invasive drug administration.",
-    "chapterId": "el1_ch2",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch2_008",
-    "question": "Why are continuous direct currents ideally delivered under constant current (CC) mode rather than constant voltage (CV) mode?",
-    "answer": "Under continuous DC, skin impedance drops dynamically as tissues become hydrated. In constant voltage mode, a drop in resistance would cause current to spike (I = V/R), potentially burning the patient. Constant current mode automatically lowers voltage to keep delivery safe and steady.",
-    "keyPoints": "CC vs CV, impedance changes over time, safety feedback loop.",
-    "clinicalImportance": "Maintains a stable, safe therapeutic current regardless of skin impedance changes.",
-    "chapterId": "el1_ch2",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch2_009",
-    "question": "What is polar effect fatigue and how do we prevent it during long-term diagnostic direct current therapies?",
-    "answer": "Polar effect fatigue is the gradual loss of biological tissue excitability under continuous DC due to sustained cellular polarization. It is avoided by adding brief rest intervals (interrupted direct current) or periodically switching polarity.",
-    "keyPoints": "Tissue polarization, interrupted intervals, polarity reversal.",
-    "clinicalImportance": "Sustains diagnostic accuracy during nerve conductivity tests.",
-    "chapterId": "el1_ch2",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch2_010",
-    "question": "What is galvanic erythema and how long does it typically persist post-treatment?",
-    "answer": "Galvanic erythema is deep, red skin flush under the electrodes caused by local vasodilation from capillary expansion. This is triggered by direct axon reflexes and the release of histamine-like substances, and it typically fades without harm within 1 to 2 hours.",
-    "keyPoints": "Vasodilatory capillary expansion, histamine-like release, duration.",
-    "clinicalImportance": "Represents a normal vascular response, distinguishing it from an injury burn.",
-    "chapterId": "el1_ch2",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch3_001",
-    "question": "Define Faradic current and state its primary parameters.",
-    "answer": "Faradic current is a short-duration, asymmetrical alternating low-frequency current with a pulse duration of 0.1 to 1 ms and a frequency of 50 to 100 Hz. Clinically, it is used to stimulate innervated muscles.",
-    "keyPoints": "Short duration (0.1-1 ms), low frequency (50-100 Hz), asymmetrical alternating waveform, used on innervated muscles.",
-    "clinicalImportance": "Guides the appropriate selection of stimulation parameters for motor training.",
-    "chapterId": "el1_ch3",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch3_002",
-    "question": "What is a motor point and how do you locate it clinically?",
-    "answer": "A motor point is the surface anatomical area on a muscle belly where a minimum electrical stimulus will elicit a clear, isolated contraction. It corresponds to the site where the motor nerve enters the muscle belly. It is located clinically by searching the muscle belly with a pen electrode set to low intensity until the strongest response is seen.",
-    "keyPoints": "Dense motor nerve entry, minimal excitation threshold, locating technique.",
-    "clinicalImportance": "Maximizes treatment efficacy while minimizing patient discomfort.",
-    "chapterId": "el1_ch3",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch3_003",
-    "question": "Why must Faradic current be surged (ramped) when stimulating skeletal muscle?",
-    "answer": "Faradic current must be surged to mimic natural, physiological muscle contractions. Ramping the current up gradually permits smooth motor unit recruitment, preventing the pain and reflex muscle guarding caused by sudden electrical shocks.",
-    "keyPoints": "Mimicking physiological contractions, progressive motor unit recruitment, pain prevention.",
-    "clinicalImportance": "Improves patient comfort and treatment compliance.",
-    "chapterId": "el1_ch3",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch3_004",
-    "question": "Explain the difference in motor unit recruitment order between voluntary contractions and electrical stimulation.",
-    "answer": "Volitional contractions follow Henneman's Size Principle, recruiting small, fatigue-resistant Type I motor fibers first. Electrical stimulation reverses this order, recruiting large, fast-fatiguing Type II motor fibers first because they have larger axons with lower electrical resistance.",
-    "keyPoints": "Size principle reversal, Type I vs Type II fibers, rapid onset of muscle fatigue.",
-    "clinicalImportance": "Explains why electrically stimulated muscles fatigue much faster than during voluntary exercise.",
-    "chapterId": "el1_ch3",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch3_005",
-    "question": "What is muscle accommodation and how does Faradic current prevent it?",
-    "answer": "Accommodation is the physiological process where a cell membrane adapts to a slowly rising electrical current, preventing depolarization. Faradic current prevents accommodation by using pulses with a very rapid rate of rise (e.g., rectangular or spike shapes), depolarizing the membrane before it can adapt.",
-    "keyPoints": "Membrane adaptation, rate of current rise, threshold shift.",
-    "clinicalImportance": "Ensures consistent muscle stimulation throughout the treatment session.",
-    "chapterId": "el1_ch3",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch3_006",
-    "question": "How does the muscle pump effect of surged Faradic current reduce chronic edema?",
-    "answer": "The rhythmical contraction and relaxation of muscles induced by surged Faradic current compresses deep-seated veins and lymphatic vessels. This mechanical pumping action pushes pooled interstitial fluid proximally, facilitating lymphatic drainage and venous return.",
-    "keyPoints": "Alternating contraction/relaxation, mechanical vessel compression, proximal fluid mobilization.",
-    "clinicalImportance": "Forms an effective non-pharmacological treatment for dependent leg edema.",
-    "chapterId": "el1_ch3",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch3_007",
-    "question": "Why can Faradic current not stimulate denervated muscles?",
-    "answer": "Faradic current has a short pulse duration (0.1 to 1 ms), which is sufficient to stimulate myelinated motor nerve fibers but too short to directly depolarize denervated muscle membrane. Without nerve pathways, denervated muscle membranes require much longer pulse durations (e.g., 100 ms or more) to depolarize.",
-    "keyPoints": "Short pulse duration, nerve vs muscle excitability thresholds, denervated muscle requirements.",
-    "clinicalImportance": "Prevents wasting time trying to use Faradic stimulators on denervated muscles.",
-    "chapterId": "el1_ch3",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch3_008",
-    "question": "What are the clinical signs of electrical muscle fatigue during a treatment session?",
-    "answer": "Signs of muscle fatigue include a visible reduction in contraction force, a sluggish or incomplete relaxation phase, twitching/shaking during contraction, or the joint failing to complete the required range of motion.",
-    "keyPoints": "Loss of contraction force, incomplete relaxation, tremor during holds, muscle fatigue markers.",
-    "clinicalImportance": "Prompts the therapist to adjust rest intervals or end the session to prevent muscle damage.",
-    "chapterId": "el1_ch3",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch3_009",
-    "question": "Explain the difference between Faradic and galvanic current in terms of chemical polar risks.",
-    "answer": "Faradic current is an alternating or biphasic pulsed current, so the net electrical charge is balanced over time, preventing polar chemical accumulation on the skin. Galvanic current is continuous and unidirectional, leading to acidic or alkaline accumulation and a high risk of chemical burns.",
-    "keyPoints": "Charge balance, alternating vs unidirectional current, electrochemical chemical accumulation.",
-    "clinicalImportance": "Faradic current is much safer for the skin than continuous galvanic current.",
-    "chapterId": "el1_ch3",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch3_010",
-    "question": "Under what circumstances would you use an asymmetrical biphasic waveform over a symmetrical one?",
-    "answer": "An asymmetrical biphasic waveform is useful when stimulating small, isolated muscles because it concentrates the active, depolarizing charge directly under one specific electrode (the active cathode). Symmetrical waveforms deliver equal charge to both pads, which is better for large muscle groups like the quadriceps.",
-    "keyPoints": "Active electrode concentration, net charge balance, small vs large muscle groups.",
-    "clinicalImportance": "Enhances targeting of small paretic muscles (e.g., in facial nerve palsy).",
-    "chapterId": "el1_ch3",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch4_001",
-    "question": "Define Rheobase and Chronaxie and state their normal clinical values.",
-    "answer": "Rheobase is the minimum current intensity (in mA or Volts) of infinite pulse duration required to elicit a threshold muscle contraction, with normal values between 2 and 8 mA. Chronaxie is the minimum pulse duration required to elicit a threshold contraction at double the rheobase intensity, with normal innervated tissue values between 0.05 and 0.5 ms.",
-    "keyPoints": "Definitions, units, infinite duration, double-rheobase relationship, normal ranges.",
-    "clinicalImportance": "Clinically quantifies nerve excitability and detects denervation.",
-    "chapterId": "el1_ch4",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch4_002",
-    "question": "How does the S-D curve change in response to complete denervation?",
-    "answer": "In complete denervation, the S-D curve shifts upward and to the right, becoming steep and straight with no kink. Short duration pulses (<1 ms) fail to elicit a response, and the chronaxie is prolonged above 10 ms.",
-    "keyPoints": "Upward/rightward shift, steep profile, absence of kink, chronaxie >10 ms.",
-    "clinicalImportance": "Confirms complete loss of nerve supply, distinguishing it from partial lesions.",
-    "chapterId": "el1_ch4",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch4_003",
-    "question": "What does a 'kink' in an S-D curve represent clinically?",
-    "answer": "A kink represents partial denervation and partial innervation. It occurs because the curve is a composite of healthy fibers (which respond to short-duration pulses) and denervated fibers (which only respond to long-duration pulses).",
-    "keyPoints": "Composite curve, partial denervation, shifts in kink position.",
-    "clinicalImportance": "Confirms a partial nerve lesion and serves as an index of active nerve recovery.",
-    "chapterId": "el1_ch4",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch4_004",
-    "question": "Why do myelinated nerves have a much shorter chronaxie than denervated muscle tissue?",
-    "answer": "Myelinated nerve axons have a high density of voltage-gated sodium channels at the Nodes of Ranvier, allowing rapid depolarization (chronaxie 0.05-0.5 ms). Denervated muscle fibers lack myelin and have slower channel kinetics, requiring longer pulse durations (10-50 ms) to depolarize.",
-    "keyPoints": "Nodes of Ranvier, sodium channel density, myelin insulation.",
-    "clinicalImportance": "Explains the selective stimulation of nerve vs. muscle tissue.",
-    "chapterId": "el1_ch4",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch4_005",
-    "question": "What is the Galvanic-Faradic test and what are its diagnostic limitations?",
-    "answer": "The Galvanic-Faradic test is a qualitative assessment comparing a muscle's response to long-duration galvanic (100 ms) and short-duration Faradic (1 ms) current. It is simple but qualitative and subjective, making it less reliable than quantitative S-D curve assessments.",
-    "keyPoints": "Galvanic (100 ms) vs Faradic (1 ms), qualitative nature, modern limitations.",
-    "clinicalImportance": "Provides a quick bedside screening tool, though quantitative tests are preferred for detailed assessment.",
-    "chapterId": "el1_ch4",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch4_006",
-    "question": "Explain the Accommodation Index and its values in innervated versus denervated tissue.",
-    "answer": "The Accommodation Index is the ratio of contraction threshold for slow-rising triangular pulses to that for rapid-rising rectangular pulses. Innervated muscles accommodate easily, yielding a ratio of 3 to 6. Denervated muscles accommodate poorly, yielding a ratio of 1 to 1.5.",
-    "keyPoints": "Ratio calculation, triangular vs. rectangular thresholds, normal vs denervated values.",
-    "clinicalImportance": "Useful diagnostic indicator of active nerve supply.",
-    "chapterId": "el1_ch4",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch4_007",
-    "question": "Why is constant current (CC) mode preferred over constant voltage (CV) mode for S-D curve plotting?",
-    "answer": "Skin resistance changes when electrodes are moved. CC mode automatically adjusts voltage to keep current stable, ensuring accurate threshold measurements. CV mode would allow current to fluctuate with resistance, skewing the curve.",
-    "keyPoints": "Skin resistance variations, active electrode movement, current stability.",
-    "clinicalImportance": "Prevents diagnostic reading errors caused by skin resistance changes.",
-    "chapterId": "el1_ch4",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch4_008",
-    "question": "During an S-D curve test, how do you prevent muscle fatigue from skewing results?",
-    "answer": "To prevent fatigue, keep the pulse frequency low (approx. 0.5 Hz, or 1 pulse every 2 seconds) and utilize the minimum current intensity necessary to elicit a threshold response. Avoid repetitive, rapid stimulation of the same muscle.",
-    "keyPoints": "Low pulse frequency, rest intervals, minimal threshold intensity.",
-    "clinicalImportance": "Ensures consistent muscle responsiveness, preventing false denervation readings.",
-    "chapterId": "el1_ch4",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch4_009",
-    "question": "How does cold skin temperature affect S-D curve readings and how is it managed?",
-    "answer": "Cold temperatures decrease nerve conduction velocity and muscle excitability, fictitiously raising the rheobase and prolonging the chronaxie. This is managed by pre-warming the limb to a normal skin temperature prior to testing.",
-    "keyPoints": "Cold effects on conduction/excitability, false readings, pre-warming.",
-    "clinicalImportance": "Eliminates thermal confounding variables for accurate readings.",
-    "chapterId": "el1_ch4",
-    "subjectId": "electrotherapy_i"
-  },
-  {
-    "id": "viva_el1_ch4_010",
-    "question": "What is the clinical significance of an S-D curve kink shifting progress to the left during serial testing?",
-    "answer": "A kink shifting progressively to the left indicates active nerve regeneration, as more muscle fibers are re-innervated and regain responsiveness to shorter pulse durations.",
-    "keyPoints": "Leftward shift, re-innervation, serial testing.",
-    "clinicalImportance": "Provides objective, reassuring evidence of nerve recovery.",
-    "chapterId": "el1_ch4",
-    "subjectId": "electrotherapy_i"
-  },
-  {
     "id": "viva_el2_ch2_001",
     "question": "What is the definition of TENS according to the source?",
     "answer": "",
@@ -5562,237 +4392,507 @@
     "subjectId": "biomechanics_kinesiology"
   },
   {
-    "id": "viva_path_ch1_001",
-    "question": "Define Pathology and state its main subdivisions.",
-    "answer": "Pathology is the scientific study of disease, studying structural and functional changes in cells and tissues. Subdivisions include General Pathology (basic reactions of cells/tissues to abnormal stimuli) and Systemic Pathology (specific responses of specialized organs).",
-    "keyPoints": "General vs. Systemic pathology, study of structural/functional changes.",
-    "clinicalImportance": "",
-    "chapterId": "path_ch1",
-    "subjectId": "pathology"
-  },
-  {
-    "id": "viva_path_ch1_002",
-    "question": "Distinguish between Etiology and Pathogenesis.",
-    "answer": "Etiology refers to the underlying causes of a disease (e.g., genetic, acquired like bacteria or chemicals). Pathogenesis is the mechanism or sequence of events from the initial stimulus to the ultimate expression of the disease.",
-    "keyPoints": "Etiology = Cause; Pathogenesis = Mechanism/Sequence of events.",
-    "clinicalImportance": "",
-    "chapterId": "path_ch1",
-    "subjectId": "pathology"
-  },
-  {
-    "id": "viva_path_ch1_003",
-    "question": "What is the difference between Hypoxia and Ischemia? Which is more damaging and why?",
-    "answer": "Hypoxia is a deficiency of oxygen. Ischemia is a reduction in blood flow. Ischemia is more rapidly and severely damaging than hypoxia alone because it not only deprives tissues of oxygen but also blocks the delivery of metabolic substrates (glucose) and the removal of toxic waste products.",
-    "keyPoints": "Ischemia includes loss of substrates and waste removal, not just oxygen.",
-    "clinicalImportance": "",
-    "chapterId": "path_ch1",
-    "subjectId": "pathology"
-  },
-  {
-    "id": "viva_path_ch1_004",
-    "question": "List the four main types of cellular adaptations and define one.",
-    "answer": "Atrophy (shrinkage in cell size), Hypertrophy (increase in cell size), Hyperplasia (increase in cell number), Metaplasia (reversible change from one adult cell type to another).",
-    "keyPoints": "Size (atrophy/hypertrophy), number (hyperplasia), type (metaplasia).",
-    "clinicalImportance": "",
-    "chapterId": "path_ch1",
-    "subjectId": "pathology"
-  },
-  {
-    "id": "viva_path_ch1_005",
-    "question": "Differentiate between Dystrophic and Metastatic calcification.",
-    "answer": "Dystrophic calcification occurs in dead, dying, or degenerating tissues despite normal serum calcium levels (e.g., calcified heart valves). Metastatic calcification occurs in normal, viable tissues as a result of hypercalcemia (high serum calcium levels, e.g., hyperparathyroidism).",
-    "keyPoints": "Dystrophic = dead tissue + normal calcium; Metastatic = normal tissue + high calcium.",
-    "clinicalImportance": "",
-    "chapterId": "path_ch1",
-    "subjectId": "pathology"
-  },
-  {
-    "id": "viva_path_ch1_006",
-    "question": "Compare Coagulative and Liquefactive necrosis.",
-    "answer": "Coagulative necrosis is caused by severe ischemia (except in the brain); tissue architecture is preserved for a few days (ghost cells). Liquefactive necrosis occurs in the brain (due to hypoxia) and in localized bacterial infections (abscesses); tissue is completely digested into a liquid viscous mass.",
-    "keyPoints": "Coagulative = preserved architecture/ischemia; Liquefactive = digested tissue/brain/bacterial.",
-    "clinicalImportance": "",
-    "chapterId": "path_ch1",
-    "subjectId": "pathology"
-  },
-  {
-    "id": "viva_path_ch1_007",
-    "question": "What is Apoptosis, and how does it differ from Necrosis?",
-    "answer": "Apoptosis is programmed, ATP-dependent cell death affecting single cells without an inflammatory response. Necrosis is accidental, pathological cell death affecting groups of cells, characterized by cell swelling, membrane rupture, and a prominent inflammatory response.",
-    "keyPoints": "Programmed vs Accidental, Single vs Group, No inflammation vs Inflammation.",
-    "clinicalImportance": "",
-    "chapterId": "path_ch1",
-    "subjectId": "pathology"
-  },
-  {
-    "id": "viva_path_ch1_008",
-    "question": "Describe Wallerian Degeneration and its significance to physiotherapists.",
-    "answer": "It is the degeneration of the axon and myelin sheath distal to the site of a peripheral nerve injury. It is significant because the target muscle is denervated and prone to atrophy. Physiotherapists must use electrical stimulation and passive movements to maintain muscle tone and joint mobility until the nerve regenerates (about 1mm/day).",
-    "keyPoints": "Distal axon/myelin degeneration, 1mm/day regeneration, prevention of denervation atrophy.",
-    "clinicalImportance": "",
-    "chapterId": "path_ch1",
-    "subjectId": "pathology"
-  },
-  {
-    "id": "viva_path_ch1_009",
-    "question": "What is Ischemia-Reperfusion injury?",
-    "answer": "It is the paradoxical exacerbation of cell injury and cell death that occurs when blood flow is restored to ischemic tissues. It is caused by a massive influx of calcium, generation of reactive oxygen species (ROS) from damaged mitochondria, and influx of inflammatory cells.",
-    "keyPoints": "Paradoxical injury upon blood flow restoration, ROS, calcium influx.",
-    "clinicalImportance": "",
-    "chapterId": "path_ch1",
-    "subjectId": "pathology"
-  },
-  {
-    "id": "viva_path_ch1_010",
-    "question": "Describe Amyloidosis, its diagnosis, and the critical precautions a physiotherapist must implement.",
-    "answer": "Amyloidosis is a group of metabolic disorders characterized by the extracellular deposition of insoluble, misfolded amyloid proteins (beta-pleated sheets) in organs. Histopathologically, it is diagnosed using Congo Red staining, showing apple-green birefringence under polarized light. For a physiotherapist, critical precautions include strictly monitoring vitals and using the Borg RPE scale during exercise due to restrictive cardiomyopathy risk, managing balance/foot care for peripheral neuropathy, and pacing therapy to manage systemic fatigue.",
-    "keyPoints": "Insoluble misfolded proteins, beta-pleated sheets, Congo Red staining, apple-green birefringence, restrictive cardiomyopathy precautions, vitals monitoring, neuropathy foot care, energy conservation.",
-    "clinicalImportance": "Prevents cardiovascular complications, syncope, and falls in patients with multi-organ systemic amyloid involvement.",
-    "chapterId": "path_ch1",
-    "subjectId": "pathology"
-  },
-  {
-    "id": "viva_pharm_ch1_001",
-    "question": "Define Bioavailability. What are the factors that influence the bioavailability of an orally administered drug?",
-    "answer": "",
-    "keyPoints": "",
-    "clinicalImportance": "",
-    "chapterId": "pharm_ch1",
-    "subjectId": "pharmacology"
-  },
-  {
-    "id": "viva_pharm_ch1_002",
-    "question": "Distinguish between drug Potency and drug Efficacy with the help of a graded dose-response curve. Which of these parameters is clinically more significant and why?",
-    "answer": "",
-    "keyPoints": "",
-    "clinicalImportance": "",
-    "chapterId": "pharm_ch1",
-    "subjectId": "pharmacology"
-  },
-  {
-    "id": "viva_pharm_ch1_003",
-    "question": "Explain the physiological significance of First-Pass Metabolism. Name three drugs that undergo high first-pass hepatic metabolism and describe how their route of administration is altered.",
-    "answer": "",
-    "keyPoints": "",
-    "clinicalImportance": "",
-    "chapterId": "pharm_ch1",
-    "subjectId": "pharmacology"
-  },
-  {
-    "id": "viva_pharm_ch1_004",
-    "question": "What is the Therapeutic Index? Explain its clinical relevance with examples of drugs having narrow and wide therapeutic indices.",
-    "answer": "",
-    "keyPoints": "",
-    "clinicalImportance": "",
-    "chapterId": "pharm_ch1",
-    "subjectId": "pharmacology"
-  },
-  {
-    "id": "viva_pharm_ch1_005",
-    "question": "Define Plasma Half-life (t1/2). Explain its mathematical relationship with volume of distribution and clearance, and explain its clinical significance in determining dosing intervals.",
-    "answer": "",
-    "keyPoints": "",
-    "clinicalImportance": "",
-    "chapterId": "pharm_ch1",
-    "subjectId": "pharmacology"
-  },
-  {
-    "id": "viva_pharm_ch1_006",
-    "question": "Explain the mechanism of action of G-protein coupled receptors (GPCR) and how they transduce signals inside the effector cell.",
-    "answer": "",
-    "keyPoints": "",
-    "clinicalImportance": "",
-    "chapterId": "pharm_ch1",
-    "subjectId": "pharmacology"
-  },
-  {
-    "id": "viva_pharm_ch1_007",
-    "question": "As a physical therapist, why must you monitor a geriatric patient taking skeletal muscle relaxants or NSAIDs? What are the clinical signs of toxicity?",
-    "answer": "",
-    "keyPoints": "",
-    "clinicalImportance": "",
-    "chapterId": "pharm_ch1",
-    "subjectId": "pharmacology"
-  },
-  {
-    "id": "viva_pharm_ch1_008",
-    "question": "What is the 'Essential Medicines Concept' as defined by the WHO? List four key criteria used for selecting essential medicines.",
-    "answer": "",
-    "keyPoints": "",
-    "clinicalImportance": "",
-    "chapterId": "pharm_ch1",
-    "subjectId": "pharmacology"
-  },
-  {
-    "id": "viva_micro_ch1_001",
-    "question": "What are Koch's postulates, and what are their major exceptions in modern clinical microbiology?",
-    "answer": "Koch's postulates are four criteria to establish a causal relationship between a microbe and a disease: 1) Microbe present in all cases, 2) Isolated in pure culture, 3) Disease reproduced in a healthy host, 4) Same microbe re-isolated. Exceptions include Mycobacterium leprae and Treponema pallidum (cannot be cultured on artificial media), viruses (require living host cells), and polymicrobial infections.",
-    "keyPoints": "Four postulates, unculturable organisms, obligate intracellular pathogens.",
-    "clinicalImportance": "Understands the scientific basis of infectious disease etiology and why some chronic infections like leprosy are diagnosed clinically or serologically rather than by culture.",
-    "chapterId": "micro_ch1",
+    "id": "viva_micro_ch2_001",
+    "question": "Define sterilization and differentiate it from disinfection.",
+    "answer": "Sterilization is a process that destroys all forms of microbial life, including vegetative cells, viruses, fungi, and highly resistant bacterial endospores. Disinfection is a process that reduces pathogenic microorganisms on inanimate objects to a safe level but usually does not kill endospores.",
+    "keyPoints": "Destruction of endospores is the key dividing line; sterilization is absolute, disinfection is relative.",
+    "clinicalImportance": "Dictates the choice of reprocessing method (e.g., surgical implants require sterilization, whereas standard treatment tables require only disinfection).",
+    "chapterId": "micro_ch2",
     "subjectId": "microbiology"
   },
   {
-    "id": "viva_micro_ch1_002",
-    "question": "Describe the structural differences between the cell walls of Gram-positive and Gram-negative bacteria.",
-    "answer": "Gram-positive cell walls possess a thick, multi-layered peptidoglycan meshwork (up to 90% of the wall) and teichoic/lipoteichoic acids, lacking an outer membrane. Gram-negative cell walls possess a thin, single-layered peptidoglycan sheet and a complex asymmetric outer membrane containing lipopolysaccharide (LPS/endotoxin), phospholipids, and porin proteins.",
-    "keyPoints": "Peptidoglycan thickness, teichoic acid in Gram-positive, outer membrane and LPS in Gram-negative.",
-    "clinicalImportance": "This structural difference determines susceptibility to different classes of antibiotics and explains why Gram-negative bacteremia can trigger life-threatening endotoxic shock.",
-    "chapterId": "micro_ch1",
+    "id": "viva_micro_ch2_002",
+    "question": "Explain the parameters required for effective autoclaving. What is the standard biological indicator used for validation?",
+    "answer": "The standard parameters for autoclaving are 121\u00b0C (250\u00b0F) at 15 pounds per square inch (psi) pressure for a holding time of 15-20 minutes. The biological indicator used to test autoclave efficiency is Geobacillus stearothermophilus (formerly Bacillus stearothermophilus) spores, because they are extremely heat-resistant.",
+    "keyPoints": "Temperature (121\u00b0C), Pressure (15 psi), Time (15-20 mins), indicator organism (Geobacillus stearothermophilus).",
+    "clinicalImportance": "Ensures complete sterilization of surgical packs and preventing post-operative wound infections.",
+    "chapterId": "micro_ch2",
     "subjectId": "microbiology"
   },
   {
-    "id": "viva_micro_ch1_003",
-    "question": "Explain the principle of Gram staining. Why do Gram-positive cells appear purple and Gram-negative cells appear pink?",
-    "answer": "The Gram stain is a differential staining technique based on peptidoglycan thickness. Crystal violet and iodine form a large CV-I complex inside all cells. Acetone-alcohol decolorizer dehydrates Gram-positive thick peptidoglycan, closing its pores and trapping the CV-I complex (cells remain purple). In Gram-negatives, alcohol dissolves the lipid-rich outer membrane and washes the CV-I complex out of the thin peptidoglycan layer; these cells are counterstained pink by safranin.",
-    "keyPoints": "CV-I complex formation, alcohol dehydration of thick peptidoglycan, lipid dissolution in Gram-negative outer membrane, primary and counterstain colors.",
-    "clinicalImportance": "Allows rapid, initial identification of bacterial morphology and staining class within minutes of specimen collection, guiding early treatment.",
-    "chapterId": "micro_ch1",
+    "id": "viva_micro_ch2_003",
+    "question": "Why is 70% Isopropyl Alcohol a more effective disinfectant than 100% absolute alcohol?",
+    "answer": "Alcohols require water to effectively denature and coagulate microbial proteins and disrupt cell membranes. 100% absolute alcohol causes rapid surface protein coagulation of the bacterial cell wall, which creates a protective barrier that prevents the alcohol from entering the cell. A 70% concentration has enough water content to prevent rapid coagulation, allowing it to penetrate into the cytoplasm and fully denature cell proteins.",
+    "keyPoints": "Water is required for protein denaturation; 100% causes rapid outer coagulation acting as a shield.",
+    "clinicalImportance": "Informs the selection of appropriate hand rubs and pre-injection skin swabs in physiotherapy clinics.",
+    "chapterId": "micro_ch2",
     "subjectId": "microbiology"
   },
   {
-    "id": "viva_micro_ch1_004",
-    "question": "What is a bacterial endospore, which genera produce them, and why are they highly resistant to standard boiling?",
-    "answer": "An endospore is a highly resilient, dormant survival structure produced by the Gram-positive genera Bacillus and Clostridium. Their extreme heat resistance is due to a highly dehydrated core containing calcium dipicolinate (dipicolinic acid), surrounded by a thick peptidoglycan cortex and a tough protein coat, which prevents protein denaturation. Standard boiling (100\u00b0C) cannot denature these dry, protected proteins.",
-    "keyPoints": "Bacillus and Clostridium, calcium dipicolinate, core dehydration, spore coat, autoclave necessity.",
-    "clinicalImportance": "Explains why standard boiling is insufficient for clinical sterilization, requiring high-pressure autoclaving to destroy spores and prevent surgical site infections, tetanus, or gas gangrene.",
-    "chapterId": "micro_ch1",
+    "id": "viva_micro_ch2_004",
+    "question": "Describe the mechanism of action of 2% Glutaraldehyde. How is it used for sterilization versus high-level disinfection?",
+    "answer": "Glutaraldehyde is an aldehyde that works by alkylating amino, carboxyl, sulfhydryl, and hydroxyl groups of microbial proteins, disrupting their structure and function. For high-level disinfection of semi-critical equipment (e.g., respiratory tubes, endoscopes), a 2% alkaline solution is used with an immersion time of 20 minutes. For complete chemical sterilization, including endospore destruction, an immersion time of 10 hours is mandatory.",
+    "keyPoints": "Chemical alkylation, 20 minutes for high-level disinfection, 10 hours for sterilization.",
+    "clinicalImportance": "Prevents cross-contamination of pulmonary rehabilitation devices and respiratory muscle trainers.",
+    "chapterId": "micro_ch2",
     "subjectId": "microbiology"
   },
   {
-    "id": "viva_micro_ch1_005",
-    "question": "Explain the Ziehl-Neelsen (ZN) acid-fast staining technique. Why is it used for Mycobacteria?",
-    "answer": "Mycobacteria have a dense, waxy cell wall rich in mycolic acids that resists standard Gram staining. ZN staining uses hot carbol fuchsin as a primary stain; heat melts the waxy wall, allowing the dye to enter. Upon cooling, the lipids re-solidify. Applying acid-alcohol decolorizer fails to extract the dye from the waxy mycolic acid, so these 'acid-fast' cells remain red. Non-acid-fast cells are decolorized and stain blue with methylene blue.",
-    "keyPoints": "Mycolic acid waxy wall, heat as fluidizer, acid-alcohol resistance, carbol fuchsin and methylene blue colors.",
-    "clinicalImportance": "Essential for rapid diagnosis of pulmonary tuberculosis from sputum smears before initiating chest physiotherapy, protecting the therapist from airborne transmission.",
-    "chapterId": "micro_ch1",
+    "id": "viva_micro_ch2_005",
+    "question": "What is the clinical significance of paraffin wax bath temperatures for infection control in physiotherapy?",
+    "answer": "Therapeutic paraffin wax baths operate at 50\u00b0C to 54\u00b0C. This temperature is highly therapeutic for arthritis and joint stiffness but is NOT hot enough to sterilize the wax or kill bacterial endospores and fungal conidia. It acts as a potential fomite. To maintain hygiene, patients must wash and dry hands before dipping, never re-use peeled wax, and discard wax if it becomes contaminated.",
+    "keyPoints": "50\u00b0C-54\u00b0C is therapeutic but not sterilizing; wax can accumulate skin debris; pre-wash skin prep and single-use wax are mandatory.",
+    "clinicalImportance": "Prevents transmission of skin pathogens (e.g., Staphylococcus aureus, dermatophytes) between hand therapy patients.",
+    "chapterId": "micro_ch2",
     "subjectId": "microbiology"
   },
   {
-    "id": "viva_micro_ch1_006",
-    "question": "What is the clinical significance of the bacterial growth curve's Log (exponential) phase for antibiotic therapy and physiotherapy wound care?",
-    "answer": "During the Log phase, bacteria are dividing at their maximal rate and are actively synthesizing new peptidoglycan cell walls. This metabolic activity makes them highly vulnerable to cell-wall active antibiotics like beta-lactams (penicillin), which target active peptidoglycan cross-linking. In wound care, keeping the wound bed clean and applying topical antiseptics prevents bacteria from entering or maintaining this rapid log phase, preventing systemic tissue invasion.",
-    "keyPoints": "Active peptidoglycan synthesis, high metabolic vulnerability, cell-wall active antibiotics, wound bioburden control.",
-    "clinicalImportance": "Guides the timing of antibiotic administration and highlights why physical wound debridement is crucial to disrupt bacterial colonization and maintain a low bioburden.",
-    "chapterId": "micro_ch1",
+    "id": "viva_micro_ch2_006",
+    "question": "Detail the infection control protocols required for hydrotherapy pool maintenance.",
+    "answer": "Hydrotherapy pools are warm, moist environments that favor the growth of opportunistic pathogens like Pseudomonas aeruginosa. Control protocols include: 1) Continuous water filtration and turnover. 2) Daily chlorination, maintaining free chlorine at 1.5 - 3.0 ppm and pH at 7.2 - 7.8. 3) Regular microbiological testing. 4) Strict patient exclusion criteria (excluding those with open wounds, active infections, or incontinence).",
+    "keyPoints": "Free chlorine (1.5-3.0 ppm), pH (7.2-7.8), Pseudomonas aeruginosa risk, strict patient screening.",
+    "clinicalImportance": "Prevents hydrotherapy-associated folliculitis, wound infections, and urinary tract infections in rehabilitation patients.",
+    "chapterId": "micro_ch2",
     "subjectId": "microbiology"
   },
   {
-    "id": "viva_micro_ch1_007",
-    "question": "Describe the structure and clinical significance of the bacterial capsule. How is it detected in the laboratory?",
-    "answer": "The capsule is a structured, gelatinous outer polysaccharide layer (polypeptide in B. anthracis) surrounding some bacteria. It hides bacterial surface antigens, prevents opsonization, and resists phagocytosis by host neutrophils. It is detected using negative staining (India Ink, where the capsule appears as a clear halo) or the Quellung (capsular swelling) reaction using specific antibodies.",
-    "keyPoints": "Polysaccharide structure, anti-phagocytic virulence factor, negative staining (India Ink), Quellung reaction.",
-    "clinicalImportance": "Encapsulated organisms like Streptococcus pneumoniae cause aggressive lobar pneumonia and meningitis; recognition helps therapists understand the severity of the infection and implement appropriate chest therapy and respiratory care.",
-    "chapterId": "micro_ch1",
+    "id": "viva_micro_ch2_007",
+    "question": "How do you disinfect a therapeutic ultrasound transducer head, and why must gel be removed immediately?",
+    "answer": "First, wipe off all remaining coupling gel with a clean, dry disposable paper tissue. Next, spray or wipe the metal faceplate and plastic casing with an intermediate-level hospital disinfectant (like a non-alcoholic quaternary ammonium compound or 70% alcohol wipe if approved by the manufacturer) and keep the surface wet for the recommended contact time. Gel must be removed immediately because dried gel forms a protective organic matrix (biofilm) that shields bacteria from disinfectants and reduces subsequent soundwave transmission.",
+    "keyPoints": "Complete gel removal first, application of intermediate-level disinfectant, biofilm prevention.",
+    "clinicalImportance": "Prevents the spread of skin and soft tissue pathogens (including MRSA) across patients undergoing ultrasound therapy.",
+    "chapterId": "micro_ch2",
     "subjectId": "microbiology"
   },
   {
-    "id": "viva_micro_ch1_008",
-    "question": "What are the flagellar arrangements in bacteria, and how does flagellar motility contribute to wound colonization?",
-    "answer": "Flagellar arrangements are: Monotrichous (single polar), Lophotrichous (tuft at one end), Amphitrichous (flagella at both ends), and Peritrichous (flagella all over the cell surface). Flagellar rotation drives chemotactic motility, allowing bacteria to actively swim toward chemical attractants (such as serum proteins and tissue nutrients in wound exudate) and away from repellents.",
-    "keyPoints": "Monotrichous, lophotrichous, amphitrichous, peritrichous arrangements, chemotaxis, active tissue colonization.",
-    "clinicalImportance": "Motile bacteria like Pseudomonas aeruginosa can actively invade and migrate through deep fascial planes in burn wounds, causing rapid infection spread and systemic bacteremia.",
-    "chapterId": "micro_ch1",
+    "id": "viva_micro_ch2_008",
+    "question": "Discuss the differences between dry heat and moist heat sterilization. Why does dry heat require higher temperatures and longer times?",
+    "answer": "Moist heat sterilizes by coagulating and denaturing proteins, which is highly efficient due to the presence of water molecules. Dry heat sterilizes by slow oxidation of cellular components, which is less efficient. Because dry air conducts heat less effectively than steam, dry heat requires higher temperatures (160\u00b0C - 170\u00b0C) and much longer times (1 - 2 hours) to achieve the same lethality as moist heat (121\u00b0C for 15 mins).",
+    "keyPoints": "Moist heat = protein coagulation; Dry heat = oxidation; steam has greater heat capacity/penetration.",
+    "clinicalImportance": "Guides appropriate sterilization of clinic tools: metal instruments can handle dry heat, whereas linens or rubber items would burn and must be autoclaved.",
+    "chapterId": "micro_ch2",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch3_001",
+    "question": "What is the immunological mechanism behind Myasthenia Gravis, and why does muscle weakness worsen with repetitive physical activity?",
+    "answer": "Myasthenia Gravis is a Type II cytotoxic hypersensitivity where host IgG autoantibodies bind to post-synaptic nicotinic acetylcholine receptors (AChR) at the neuromuscular junction. This causes receptor blockade, complement-mediated membrane damage, and accelerated receptor internalization, reducing functional receptor density. With repetitive activity, natural presynaptic acetylcholine depletion (presynaptic depression) occurs; since the pool of functional post-synaptic receptors is severely depleted, neuromuscular transmission fails, causing progressive muscle fatigue.",
+    "keyPoints": "Type II hypersensitivity, IgG anti-AChR antibodies, complement activation, post-synaptic receptor depletion, presynaptic depression.",
+    "clinicalImportance": "Instructs the physiotherapist to avoid fatiguing, high-resistance exercises and schedule therapy during peak medication activity.",
+    "chapterId": "micro_ch3",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch3_002",
+    "question": "Differentiate between Type I and Type IV hypersensitivity reactions, using latex glove allergy as a clinical example.",
+    "answer": "Type I latex allergy is an immediate, IgE-mediated hypersensitivity where soluble latex proteins cross-link IgE bound to mast cells, triggering rapid histamine release and causing systemic bronchospasm or anaphylaxis within minutes. Type IV latex allergy is a delayed, cell-mediated hypersensitivity where chemical accelerators used in glove manufacturing act as haptens, stimulating Th1 cells to recruit macrophages over 24-72 hours, resulting in localized contact dermatitis (vesicular eczema).",
+    "keyPoints": "Type I (IgE-mediated, mast cells, immediate anaphylaxis) vs. Type IV (T-cell-mediated, macrophages, 24-72 hours contact dermatitis), latex proteins vs. chemical accelerators.",
+    "clinicalImportance": "Clinicians must know that Type I is a life-threatening airway emergency requiring epinephrine, while Type IV is a localized dermatological condition.",
+    "chapterId": "micro_ch3",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch3_003",
+    "question": "Explain the biological mechanism of 'molecular mimicry' in the pathogenesis of Guillain-Barr\u00e9 Syndrome (GBS) following Campylobacter jejuni infection.",
+    "answer": "Molecular mimicry occurs when foreign pathogens share structural antigens with host tissues. Campylobacter jejuni outer membrane contains lipooligosaccharides (LOS) that structurally mimic GM1/GD1a gangliosides on host peripheral nerve myelin sheaths. The IgG antibodies generated to fight the C. jejuni infection cross-react, binding to the gangliosides on Schwann cells and myelin. This activates complement and recruits macrophages, which strip the myelin sheath, causing acute inflammatory demyelinating polyneuropathy (AIDP).",
+    "keyPoints": "Campylobacter jejuni LOS, gangliosides mimicry, IgG cross-reactivity, complement-mediated demyelination.",
+    "clinicalImportance": "Explains why a simple diarrheal illness can trigger acute ascending flaccid paralysis, requiring therapists to closely monitor respiratory vitals.",
+    "chapterId": "micro_ch3",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch3_004",
+    "question": "Compare the immunological characteristics of Active and Passive Immunity. Provide a natural and example of each.",
+    "answer": "Active immunity is induced by host antigen exposure, requiring host antibody production and establishing long-term memory cells (takes weeks to develop but lasts years). Natural Active: recovering from wild measles; Artificial Active: receiving the MMR vaccine. Passive immunity is the transfer of pre-formed exogenous antibodies, providing immediate but temporary protection without memory (lasts weeks to months). Natural Passive: maternal IgG crossing the placenta; Artificial Passive: injecting anti-tetanus immunoglobulin.",
+    "keyPoints": "Host antibody production vs. pre-formed antibody transfer, presence vs. absence of memory, timing of protection, examples.",
+    "clinicalImportance": "Helps therapists understand why vaccine-induced immunity is durable, while post-exposure immunoglobulin is a temporary life-saving shield.",
+    "chapterId": "micro_ch3",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch3_005",
+    "question": "What is Rheumatoid Factor (RF), and how does its interaction contribute to joint destruction in Rheumatoid Arthritis?",
+    "answer": "Rheumatoid Factor is an autoantibody, typically of the IgM class, that specifically targets the Fc portion of the host's own IgG antibodies. When RF binds to IgG, it forms large immune complexes that deposit in the joint synovial membrane, triggering a Type III hypersensitivity. This activates the classical complement pathway, recruiting neutrophils and macrophages that release pro-inflammatory cytokines (TNF-alpha, IL-1) and lysosomal enzymes, causing chronic synovitis, pannus formation, and articular cartilage erosion.",
+    "keyPoints": "IgM targeting host IgG Fc, immune complex deposition (Type III), complement activation, neutrophil recruitment, pannus formation.",
+    "clinicalImportance": "Explains the systemic and destructive nature of RA, guiding therapists to protect joint alignments and avoid aggressive manual force during flare-ups.",
+    "chapterId": "micro_ch3",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch3_006",
+    "question": "Why are live attenuated vaccines strictly contraindicated in patients with advanced HIV/AIDS (CD4 < 200 cells/\u00b5L) or on high-dose immunosuppressive drugs?",
+    "answer": "Live attenuated vaccines (like OPV/Sabin, yellow fever, or MMR) contain live, weakened pathogens that undergo limited replication to stimulate the immune system. In patients with severe CD4+ T-lymphocyte depletion, the host's cell-mediated immunity is unable to control even this weakened replication. The attenuated strain can revert to wild-type virulence, multiply unchecked, and cause catastrophic, life-threatening systemic infection.",
+    "keyPoints": "Live weakened strain, CD4 T-cell depletion, failure to control viral replication, reversion to virulence.",
+    "clinicalImportance": "Prevents clinicians from recommending or administering unsafe immunizations to highly vulnerable, immunocompromised neurological or respiratory patients.",
+    "chapterId": "micro_ch3",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch3_007",
+    "question": "What are the main immunoglobulin classes, and which one is uniquely capable of crossing the placental barrier to provide natural passive immunity?",
+    "answer": "The five immunoglobulin classes are IgG, IgM, IgA, IgE, and IgD. IgG is the only immunoglobulin class uniquely capable of crossing the placenta from mother to fetus. This is mediated by specific Fc receptors (FcRn) on placental syncytiotrophoblast cells that actively bind and transport maternal IgG, providing the newborn with natural passive immunity against pathogens during the first few months of life.",
+    "keyPoints": "Five classes (G, M, A, E, D), IgG placental crossing, FcRn receptors, neonatal protection.",
+    "clinicalImportance": "Explains why newborns are temporarily protected from childhood infections and highlights why early immunization is scheduled as maternal antibody levels decline.",
+    "chapterId": "micro_ch3",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch3_008",
+    "question": "Explain the immunological mechanism of Type III hypersensitivity. How does this manifest in clinical physiotherapy settings?",
+    "answer": "Type III hypersensitivity is mediated by soluble antigen-antibody (immune) complexes that form in slight antigen excess and fail to be cleared by the mononuclear phagocyte system. These complexes deposit in basement membranes of small blood vessels (vessels, joints, kidneys). Once deposited, they activate complement, releasing chemotactic factors (C5a) that recruit neutrophils. Neutrophils attempt to phagocytose the deposited complexes but fail, releasing lysosomal enzymes and causing necrotizing vasculitis. In physiotherapy, this manifests as acute joint inflammation and pain in systemic autoimmune diseases like SLE and Rheumatoid Arthritis.",
+    "keyPoints": "Soluble immune complexes, basement membrane deposition, complement activation, neutrophil recruitment, lysosomal enzyme tissue damage.",
+    "clinicalImportance": "Alerts the therapist that systemic autoimmune diseases cause widespread microvascular and joint inflammation, requiring gentle, non-stressful mobility exercises during flare-ups.",
+    "chapterId": "micro_ch3",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch4_001",
+    "question": "Why does Staphylococcus aureus tend to cause localized abscesses, whereas Streptococcus pyogenes causes rapidly spreading cellulitis?",
+    "answer": "Staphylococcus aureus produces coagulase, an enzyme that clots host plasma fibrinogen, depositing a protective fibrin mesh around the bacteria. This localizes the infection. Streptococcus pyogenes produces hyaluronidase (which digests connective tissue hyaluronic acid) and streptokinase (which dissolves fibrin clots), allowing the bacteria to break through tissue planes and spread rapidly.",
+    "keyPoints": "Coagulase action in S. aureus vs. Hyaluronidase/Streptokinase action in S. pyogenes.",
+    "clinicalImportance": "Cellulitis represents a systemic spreading risk where physical modalities (like local heat or massage) are strictly contraindicated, unlike localized, drained abscesses.",
+    "chapterId": "micro_ch4",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch4_002",
+    "question": "What is Pseudomonas aeruginosa, and why is it a significant pathogen in burn care and physical therapy?",
+    "answer": "Pseudomonas aeruginosa is a Gram-negative, aerobic rod that produces blue-green pigments (pyocyanin/pyoverdine) and a sweet grape-like odor. It is highly resistant to multiple antibiotics due to efflux pumps and biofilm/alginate production. It is highly significant because it thrives in moist environments (like whirlpools or wet dressings), making hydrotherapy a major nosocomial vector. In burn wounds, it causes aggressive necrotizing infections and sepsis.",
+    "keyPoints": "Gram-negative, pigments, biofilm, moist environments, hydrotherapy vector, multidrug resistance.",
+    "clinicalImportance": "Clinicians must avoid using open whirlpools for infected burn wounds to prevent environmental contamination and patient-to-patient transmission.",
+    "chapterId": "micro_ch4",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch4_003",
+    "question": "Explain the clinical significance of a 'sequestrum' and 'involucrum' in chronic osteomyelitis.",
+    "answer": "A sequestrum is a piece of dead, necrotic bone that has become detached from its blood supply due to intraosseous pressure and ischemia during acute pyogenic infection. An involucrum is a sheath of reactive, new bone laid down around the sequestrum by the periosteum. Because the sequestrum is avascular, neither antibiotics nor immune cells can reach the bacteria harboring within it, making surgical removal (sequestrectomy) mandatory for cure.",
+    "keyPoints": "Sequestrum (dead avascular bone), Involucrum (reactive new bone shell), barrier to antibiotics.",
+    "clinicalImportance": "Recognizes that chronic osteomyelitis cannot be resolved by physical therapy or antibiotics alone without orthopedic surgical intervention.",
+    "chapterId": "micro_ch4",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch4_004",
+    "question": "Describe the pathogen and pathophysiology behind Gas Gangrene. What is the immediate physiotherapy action?",
+    "answer": "Gas gangrene is caused by Clostridium perfringens, an anaerobic, Gram-positive, spore-forming bacillus. Spores germinate in necrotic, ischemic tissues. The bacteria produce alpha-toxin (lecithinase) which digests cell membranes, causing massive hemolysis and muscle necrosis, and ferment glycogen to produce gas. Physiotherapy action is IMMEDIATE termination of any activity and urgent referral to emergency surgery. Crepitus (under-skin bubbling) is a primary sign.",
+    "keyPoints": "Clostridium perfringens, anaerobe, alpha-toxin, lecithinase, crepitus, emergency surgical decompression.",
+    "clinicalImportance": "Early recognition of crepitus saves lives, as clostridial myonecrosis is highly lethal and spreads rapidly.",
+    "chapterId": "micro_ch4",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch4_005",
+    "question": "How should a physiotherapist collect a wound culture swab accurately? What technique is avoided and why?",
+    "answer": "The physiotherapist must use Levett's Swab Technique: first irrigate the wound with sterile normal saline to clear surface debris, then rotate the swab over a 1 cm\u00b2 area of clean, viable granulation tissue with sufficient pressure to express tissue fluid. Swabbing surface pus or wound margin skin is strictly avoided because pus contains dead non-viable organisms, and margins contain normal skin flora, leading to false results.",
+    "keyPoints": "Levett's technique, sterile saline irrigation, viable granulation tissue, avoid surface pus, avoid skin margins.",
+    "clinicalImportance": "Ensures accurate antibiotic selection based on true tissue-invading pathogens rather than superficial contaminants.",
+    "chapterId": "micro_ch4",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch4_006",
+    "question": "What is MRSA, and what specific infection control measures must a physical therapist take when treating an MRSA-colonized post-operative patient?",
+    "answer": "MRSA stands for Methicillin-Resistant Staphylococcus aureus, which is resistant to all beta-lactam antibiotics. When treating, the therapist must follow Contact Precautions: wear disposable gown and gloves, perform hand hygiene before and after contact, dedicate equipment (goniometer, weights) solely to this patient and disinfect it immediately after use, and schedule therapy at the end of the day to prevent cross-contamination.",
+    "keyPoints": "Methicillin-Resistant S. aureus, beta-lactam resistance, Contact Precautions, dedicated equipment, disinfection.",
+    "clinicalImportance": "Prevents MRSA outbreaks in physical therapy gyms and wards, protecting vulnerable post-operative or immunocompromised patients.",
+    "chapterId": "micro_ch4",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch4_007",
+    "question": "Why is a biofilm-forming bacterium on orthopedic hardware highly resistant to antibiotics, and how does it affect post-operative mobilization?",
+    "answer": "Bacteria in a biofilm secrete an extracellular polymeric substance (EPS) matrix that acts as a physical barrier, slowing antibiotic diffusion. Additionally, the bacteria inside enter a slow-growing metabolic state, making them less susceptible to drugs targeting active division. This affects mobilization because the joint or bone remains chronically infected and structurally weak; the physiotherapist must monitor for signs of implant loosening or failure and limit heavy weight-bearing until cleared by orthopedic surgeons.",
+    "keyPoints": "EPS matrix barrier, metabolic dormancy, hardware colonization, risk of implant loosening, cautious mobilization.",
+    "clinicalImportance": "Guides the therapist to prioritize low-stress mobility and alert the surgical team if implant instability is suspected.",
+    "chapterId": "micro_ch4",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch4_008",
+    "question": "List the criteria for Systemic Inflammatory Response Syndrome (SIRS) in sepsis. Why is this critical during a chest physiotherapy session?",
+    "answer": "SIRS criteria include: 1) Body temperature > 38\u00b0C or < 36\u00b0C, 2) Heart rate > 90 beats/minute, 3) Respiratory rate > 20 breaths/minute or PaCO2 < 32 mmHg, 4) White blood cell count > 12,000/\u00b5L or < 4,000/\u00b5L. It is critical because a patient meeting these criteria is at high risk of sepsis, severe vasodilation, and hemodynamic shock. Performing vigorous chest physiotherapy or mobilization can cause sudden cardiopulmonary collapse or severe hypotension.",
+    "keyPoints": "Temperature, heart rate, respiratory rate, WBC count benchmarks, risk of hemodynamical collapse, therapy termination.",
+    "clinicalImportance": "Prevents life-threatening adverse events by establishing clear physiological boundaries for safe clinical intervention.",
+    "chapterId": "micro_ch4",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch5_001",
+    "question": "What is the anatomical target of the poliovirus, and how does this dictate the resulting clinical presentation in paralytic poliomyelitis?",
+    "answer": "Poliovirus is a neurotropic enterovirus that selectively targets and destroys the anterior horn motor neurons of the spinal cord and motor nuclei of the brainstem. This leads to lower motor neuron lesions, manifesting as asymmetric, flaccid paralysis, muscle wasting, and loss of deep tendon reflexes. Since the virus does not affect the sensory pathways or dorsal root ganglia, sensory perception remains completely intact.",
+    "keyPoints": "Anterior horn cell destruction, lower motor neuron lesion, asymmetric flaccid paralysis, preserved sensation.",
+    "clinicalImportance": "Instructs the physical therapist to focus on supportive motor training, splinting to prevent contractures, and energy conservation, while relying on intact sensation for safe handling.",
+    "chapterId": "micro_ch5",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch5_002",
+    "question": "Describe the mechanism of retrograde axonal transport utilized by the rabies virus. Why does the anatomical site of animal bite affect the clinical incubation period?",
+    "answer": "The rabies virus envelope glycoprotein binds to nicotinic acetylcholine receptors (nAChRs) at the neuromuscular junction. The virus is endocytosed and binds to the motor protein dynein, which transports it retrogradely along microtubule tracks towards the spinal cord and brain at 50-100 mm/day. Because of this slow transport, bites further from the brain (such as on the foot) have a significantly longer incubation period (weeks to months) than bites close to the brain (face or neck), which rapidly infect the brainstem.",
+    "keyPoints": "Nicotinic ACh receptors, retrograde transport via dynein, microtubule tracks, distance-dependent incubation period.",
+    "clinicalImportance": "A longer incubation window in distal bites provides a critical, life-saving opportunity to administer active vaccination and passive rabies immunoglobulin (PEP) before the virus reaches the central nervous system.",
+    "chapterId": "micro_ch5",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch5_003",
+    "question": "Compare the structural and transmission differences between enveloped and non-enveloped (naked) viruses, providing clinical examples.",
+    "answer": "Enveloped viruses (e.g., Influenza, HIV, COVID-19) possess an outer lipid membrane derived from host cell membranes. This lipid bilayer is highly sensitive to environmental heat, drying, detergents, and gastric acid, making these viruses primarily transmissible via fragile pathways (direct contact, respiratory droplets, or blood). Non-enveloped or naked viruses (e.g., Poliovirus, Rotavirus) lack this lipid membrane, having only a protein capsid. This renders them highly stable and resistant to environmental drying, heat, and gastric acid, enabling easy transmission via the fecal-oral route.",
+    "keyPoints": "Presence vs. absence of lipid membrane, environmental stability, droplet/blood vs. fecal-oral transmission.",
+    "clinicalImportance": "Guides clinical disinfection protocols: enveloped viruses are easily destroyed by standard alcohol and soap, whereas non-enveloped viruses like poliovirus require stronger halogen-based virucides.",
+    "chapterId": "micro_ch5",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch5_004",
+    "question": "What is 'happy hypoxia' in acute viral pneumonia, and why is it a significant safety concern during physical rehabilitation?",
+    "answer": "Happy hypoxia (or silent hypoxemia) is a clinical state where a patient has severely low arterial oxygen saturation (SpO2 < 90% or even < 80%) but does not feel dyspneic or short of breath. This occurs because respiratory drive is triggered by carbon dioxide levels (which remain normal due to intact CO2 diffusion) rather than oxygen levels, and the virus can directly affect oxygen-sensing carotid bodies. During physical rehabilitation, an unaware therapist might over-exert the patient based on their subjective comfort, risking sudden cardiac arrest or severe tissue ischemia.",
+    "keyPoints": "Low SpO2 without subjective dyspnea, normal CO2 clearance, carotid body dysfunction, sudden exertional collapse.",
+    "clinicalImportance": "Emphasizes the absolute necessity of continuous, objective pulse oximetry monitoring during physical therapy for all patients recovering from viral respiratory infections.",
+    "chapterId": "micro_ch5",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch5_005",
+    "question": "Differentiate between Antigenic Drift and Antigenic Shift in influenza virus epidemiology, and explain their clinical impact on vaccination.",
+    "answer": "Antigenic Drift is a gradual, minor change in viral Hemagglutinin (H) and Neuraminidase (N) genes caused by point mutations during error-prone RNA replication. It occurs continuously, causing seasonal epidemics and requiring annual vaccine reformulations. Antigenic Shift is a sudden, major change occurring when a host cell is coinfected by two different influenza strains, leading to genomic segment reassortment. This produces a novel viral subtype with a brand-new H or N protein to which the population has no immunity, triggering global pandemics.",
+    "keyPoints": "Minor point mutations vs. genomic segment reassortment, epidemics vs. pandemics, annual vaccine updates.",
+    "clinicalImportance": "Understands the evolutionary biology of influenza, explaining why healthcare workers must receive annual flu vaccines to maintain effective clinical herd immunity.",
+    "chapterId": "micro_ch5",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch5_006",
+    "question": "Why is a high-dose progressive resistance exercise program strictly contraindicated in patients presenting with Post-Polio Syndrome?",
+    "answer": "In Post-Polio Syndrome (PPS), patients experience slowly progressive muscle weakness and fatigue decades after recovering from paralytic polio. The original recovery was achieved by remaining motor neurons sprouting new axonal collaterals to reinnervate orphaned muscle fibers, creating 'giant motor units' that manage up to 10 times their normal workload. Over decades, the metabolic demand on these overworked neurons exceeds their capacity, leading to premature axonal pruning and degeneration. High-intensity progressive resistance exercise overworks these fragile neurons, accelerating irreversible motor unit death.",
+    "keyPoints": "Giant motor units, axonal sprouting, metabolic over-exhaustion, irreversible motor unit death with high-intensity exercise.",
+    "clinicalImportance": "Guides the therapist to prescribe submaximal, low-intensity, energy-conserving exercises focused on joint protection and functional preservation, avoiding muscle fatigue.",
+    "chapterId": "micro_ch5",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch5_007",
+    "question": "What are the primary diagnostic markers for HIV infection, and at what CD4+ T-lymphocyte threshold is a patient diagnosed with AIDS?",
+    "answer": "HIV infection is diagnosed using ELISA and Western Blot (or rapid combination antigen/antibody assays) to detect antibodies against viral proteins (like gp120) and the viral p24 antigen. Viral load is measured via quantitative RT-PCR. A patient is diagnosed with Acquired Immunodeficiency Syndrome (AIDS) when their CD4+ T-lymphocyte count falls below 200 cells/\u00b5L, or when they present with an AIDS-defining opportunistic infection (such as Pneumocystis jirovecii pneumonia or Kaposi's sarcoma).",
+    "keyPoints": "ELISA/Western Blot, p24 antigen, CD4 count < 200 cells/\u00b5L, opportunistic infections.",
+    "clinicalImportance": "The CD4 count is a critical safety threshold for physical therapists, as patients with CD4 < 200 require strict infection control, non-strenuous exercise, and isolation from other infectious clinical cases.",
+    "chapterId": "micro_ch5",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch5_008",
+    "question": "What is the clinical significance of Hepatitis B virus (HBV) environmental resilience compared to HIV, and what are the clinical infection control implications?",
+    "answer": "Hepatitis B virus is highly stable in the environment and can survive on dry clinical surfaces (such as plinths, weights, or ultrasound transducers) for up to 7 days, remaining fully infectious. In contrast, HIV is highly fragile and dies within minutes of exposure to air and drying. Consequently, indirect transmission via contaminated surfaces is a major risk for HBV but highly unlikely for HIV.",
+    "keyPoints": "HBV survives 7 days on dry surfaces, HIV is highly fragile, surface-mediated transmission risk, virucidal disinfection necessity.",
+    "clinicalImportance": "Highlights why physical therapy clinics must use strong, hospital-grade virucidal surface disinfectants (not simple low-concentration alcohol) and why Hepatitis B vaccination is mandatory for all healthcare providers.",
+    "chapterId": "micro_ch5",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch6_001",
+    "question": "What are the primary structural components of the fungal cell wall and cell membrane, and how do they differ from those of mammalian cells?",
+    "answer": "The fungal cell wall is composed of rigid polysaccharides, primarily chitin, glucans (such as beta-1,3-glucan), and mannans, which are absent in mammalian cells. The fungal cell membrane contains ergosterol as its major sterol component, which regulates membrane fluidity and stability. In contrast, mammalian cell membranes contain cholesterol.",
+    "keyPoints": "Chitin and glucans in cell wall, ergosterol in cell membrane, comparison with mammalian cholesterol.",
+    "clinicalImportance": "These structural differences provide the cellular targets for all major classes of antifungal drugs; for example, polyenes target ergosterol to form cell-permeabilizing pores, while azoles inhibit ergosterol synthesis.",
+    "chapterId": "micro_ch6",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch6_002",
+    "question": "Describe the mechanism of pathogenicity of dermatophytes. Why are these infections restricted to the superficial, keratinized layers of the body?",
+    "answer": "Dermatophytes (Trichophyton, Microsporum, Epidermophyton) are keratinophilic fungi. They secrete specialized enzymes called keratinases (proteases) that digest and metabolize keratin, allowing them to colonize and invade keratinized tissues like the stratum corneum of the skin, hair, and nails. They cannot invade deeper, living tissues because their growth is inhibited by temperature (body core is too warm) and systemic host defense factors present in blood serum, such as the iron-binding protein transferrin.",
+    "keyPoints": "Keratinophilic nature, secretion of keratinases, restriction to superficial stratum corneum, serum-mediated inhibition.",
+    "clinicalImportance": "Instructs the therapist that while dermatophytosis is highly contagious and irritating, it remains localized to superficial surfaces, requiring local hygiene, skin dryness, and topical antifungals rather than systemic therapies in healthy individuals.",
+    "chapterId": "micro_ch6",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch6_003",
+    "question": "What is a dimorphic fungus? Explain the physical transitions they undergo in the environment versus the human host.",
+    "answer": "A dimorphic fungus is an organism that can exist in two distinct morphological forms depending on environmental temperature. In the natural environment or laboratory culture at room temperature (25\u00b0C), they grow as multicellular, sporulating filamentous moulds (the infectious form). When their microconidia (spores) are inhaled into the mammalian host at body temperature (37\u00b0C), they transform into unicellular, budding yeasts (the tissue-invasive form). Classic examples include Histoplasma, Coccidioides, and Blastomyces.",
+    "keyPoints": "Temperature-dependent morphogenetic change, 25\u00b0C mould form, 37\u00b0C yeast form, environmental spores to tissue yeasts.",
+    "clinicalImportance": "Helps the therapist recognize that systemic fungal infections are acquired by inhaling environmental spores (not via person-to-person contact) and can disseminate to joints and bones, presenting as chronic fungal arthritis.",
+    "chapterId": "micro_ch6",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch6_004",
+    "question": "Explain the biological and clinical link between poorly controlled diabetes mellitus and opportunistic Candida albicans skin infections.",
+    "answer": "Poorly controlled diabetes mellitus creates a highly favorable environment for Candida albicans through biochemical and immunological mechanisms: 1) Hyperglycemia raises glucose levels in tissues and sweat, providing an abundant nutrient source that accelerates yeast replication. 2) Elevated glucose triggers Candida's morphogenetic switch from yeast to invasive pseudohyphae. 3) High glucose impairs host neutrophil chemotaxis and phagocytosis via non-enzymatic glycation of immune proteins. The combination of rapid pseudohyphal tissue invasion and impaired neutrophil defense leads to raw, inflammatory Candida intertrigo in warm, moist skin folds.",
+    "keyPoints": "Hyperglycemia in tissue/sweat, morphogenetic switch to pseudohyphae, tissue-digesting enzymes, impaired neutrophil chemotaxis.",
+    "clinicalImportance": "Highlights why physical therapists must inspect skin folds of diabetic patients regularly and maintain meticulous skin dryness to prevent localized candida infections.",
+    "chapterId": "micro_ch6",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch6_005",
+    "question": "Why is a quick 'spray and wipe' disinfectant technique ineffective at preventing the transmission of dermatophytoses (ringworm) in physical therapy clinics?",
+    "answer": "Dermatophytes spread via highly resilient spores called arthroconidia. These spores have a thick, dense outer cell wall heavily composed of cross-linked chitin and beta-glucans, which acts as a highly protective physical shield against chemical disinfectants. Disinfectants require a specific, prolonged 'wet contact time' (typically 5 to 10 minutes) to physically penetrate this chitinous wall and denature internal fungal proteins. Wiping the table immediately after spraying removes the disinfectant prematurely, leaving the spores viable and capable of infecting the next patient.",
+    "keyPoints": "Arthroconidia (spores), thick chitin-glucan cell wall, chemical resistance, necessity of wet contact time (5-10 minutes).",
+    "clinicalImportance": "Mandates that physical therapy staff let fungicidal disinfectants sit wet on treatment tables for the manufacturer's recommended duration between patients, ensuring a sterile rehabilitation environment.",
+    "chapterId": "micro_ch6",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch6_006",
+    "question": "What is Tinea pedis, where is it most commonly contracted in rehabilitation settings, and how can physical therapists prevent its spread?",
+    "answer": "Tinea pedis (Athlete's foot) is a cutaneous dermatophyte infection (most commonly Trichophyton rubrum) of the feet. It is commonly contracted from warm, wet, high-moisture floors of communal changing rooms, showers, and hydrotherapy pool decks. Physical therapists can prevent its spread by: 1) Prohibiting patients from walking barefoot anywhere in the clinic. 2) Mandating the use of clean shower shoes or non-slip footwear. 3) Enforcing twice-daily cleaning of communal wet floors with EPA-registered fungicidal disinfectants. 4) Ensuring patients dry their feet thoroughly (especially interdigital spaces) after any pool therapy.",
+    "keyPoints": "Cutaneous dermatophytosis of feet, wet communal floor reservoirs, non-slip footwear mandate, thorough foot drying, fungicidal floor disinfection.",
+    "clinicalImportance": "Breaks the chain of contact transmission of a highly contagious skin infection within rehabilitation and sports clinics.",
+    "chapterId": "micro_ch6",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch6_007",
+    "question": "Why is onychomycosis (fungal nail infection) in a patient with diabetic peripheral neuropathy considered a high-risk clinical condition?",
+    "answer": "Onychomycosis is not just a cosmetic concern. In a diabetic patient with peripheral neuropathy (who lacks protective sensation), the fungal infection causes the nail plate to become extremely thick, brittle, distorted, and sharp. The deformed nail presses continuously against the adjacent toe skin or the inner toe-box of the shoe. Because the patient cannot feel the pressure, this constant mechanical friction leads to skin breakdown, forming a neuropathic foot ulcer. Due to compromised diabetic microcirculation, these ulcers are highly prone to secondary bacterial infection, osteomyelitis, and eventual lower limb amputation.",
+    "keyPoints": "Deformed thick nail plate, localized pressure, neuropathic lack of sensation, neuropathic ulceration, secondary bacterial infection, osteomyelitis.",
+    "clinicalImportance": "Alerts the physical therapist to perform daily foot checks, ensure proper footwear, and refer any diabetic patient with fungal nails for immediate podiatric management.",
+    "chapterId": "micro_ch6",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch6_008",
+    "question": "What is Mycetoma (Madura foot), how is it acquired, and what is its classic diagnostic clinical triad?",
+    "answer": "Mycetoma is a chronic, slowly progressive, localized granulomatous infection of the subcutaneous tissues, fascia, and bones of the foot. It is acquired through the traumatic inoculation of environmental soil fungi (eumycetoma) or bacteria (actinomycetoma) via minor skin cuts or splinters, typically in agricultural workers walking barefoot. Its classic diagnostic clinical triad consists of: 1) Painless, progressive subcutaneous swelling/mass. 2) Multiple draining sinus tracts. 3) Discharge of purulent fluid containing colored fungal or bacterial aggregates called 'grains' or 'granules'.",
+    "keyPoints": "Traumatic subcutaneous soil inoculation, chronic localized granulomatous infection, triad of painless swelling, draining sinuses, and colored grains.",
+    "clinicalImportance": "Enables physical therapists to recognize this severe deformity early, avoid local manual therapy, and refer the patient for prolonged systemic antifungal and surgical therapy to prevent bone destruction.",
+    "chapterId": "micro_ch6",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch7_001",
+    "question": "Why does poliovirus cause flaccid paralysis instead of spastic paralysis, and why is sensation completely preserved?",
+    "answer": "Poliovirus selectively targets and destroys the anterior horn cells (lower motor neurons) of the spinal cord, resulting in a Lower Motor Neuron (LMN) lesion characterized by flaccid paralysis, muscle wasting, and areflexia. Sensation is completely preserved because the virus spares the posterior horn cells, sensory pathways, and peripheral sensory nerves.",
+    "keyPoints": "Anterior horn cell destruction, LMN lesion characteristics, sensory pathway sparing.",
+    "clinicalImportance": "Helps the physiotherapist distinguish polio-related weakness from upper motor neuron lesions (where spasticity is present) and peripheral neuropathies (where sensory loss occurs).",
+    "chapterId": "micro_ch7",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch7_002",
+    "question": "Explain the biological mechanism of Post-Polio Syndrome (PPS). What is the core rule for exercise prescription in these patients?",
+    "answer": "Post-Polio Syndrome is caused by the metabolic exhaustion of surviving 'giant motor units.' Following acute polio, surviving motor neurons sprout terminal collaterals to re-innervate denervated muscle fibers. Over 30-40 years, the metabolic strain on these single cell bodies leads to dieback of these sprouts, resulting in new weakness. The core exercise rule is a 'non-fatiguing protocol': exercise must be submaximal, must incorporate frequent rest intervals, and must never cause post-exercise pain or fatigue.",
+    "keyPoints": "Giant motor units, collateral sprout dieback, metabolic exhaustion, non-fatiguing exercise protocol.",
+    "clinicalImportance": "Prevents therapists from over-exercising PPS patients, which would accelerate irreversible motor neuron loss.",
+    "chapterId": "micro_ch7",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch7_003",
+    "question": "What is Post-Exposure Prophylaxis (PEP) for HIV, and what are the critical timelines for its administration following an occupational needle-stick injury?",
+    "answer": "HIV PEP is a short-term antiretroviral drug regimen (typically a 3-drug combination) administered to prevent HIV replication and integration following potential exposure. It is highly time-sensitive and must be initiated as soon as possible, strictly within 72 hours of exposure (ideally within 2 hours), and continued for a full 28-day course.",
+    "keyPoints": "Antiretroviral drug regimen, 72-hour critical window, 28-day duration.",
+    "clinicalImportance": "Every clinical student and therapist must know that PEP is highly effective if started immediately, preventing life-threatening viral transmission.",
+    "chapterId": "micro_ch7",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch7_004",
+    "question": "Compare the transmission risk and occupational hazard of Hepatitis B (HBV) versus HIV in a physiotherapy clinic.",
+    "answer": "Hepatitis B presents a significantly higher occupational risk than HIV. Following a needle-stick injury from an infected source, the transmission risk for HBV in an unvaccinated individual is approximately 30%, whereas the risk for HIV is only 0.3%. Furthermore, HBV is highly stable in dried blood, surviving on clinic surfaces (like plinths or parallel bars) for up to 7 days, whereas HIV is fragile and dies quickly outside the body. This underscores the absolute necessity of HBV vaccination for all healthcare workers.",
+    "keyPoints": "HBV transmission risk (30%) vs. HIV (0.3%), stability of HBV in dried blood (7 days), HBV vaccination.",
+    "clinicalImportance": "Directs the clinic's sterilization and hygiene standards, emphasizing that HBV requires rigorous surface disinfection and vaccination.",
+    "chapterId": "micro_ch7",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch7_005",
+    "question": "Why is Rabies virus infection considered 100% fatal once symptoms appear, and what is the biological mechanism of its transport within the body?",
+    "answer": "Once rabies symptoms appear, the virus has replicated in the central nervous system (limbic system and brainstem), causing irreversible, necrotizing encephalitis which is 100% fatal. The virus travels retrogradely from the bite site to the spinal cord and brain along peripheral sensory or motor axons, piggybacking on host dynein motor proteins at a rate of 12-24 mm per day.",
+    "keyPoints": "Fatal necrotizing encephalitis, retrograde axonal transport, dynein motor proteins, incubation correlation with distance.",
+    "clinicalImportance": "Emphasizes that post-exposure prophylaxis (PEP) must be started immediately before the virus reaches the spinal cord; once neurological symptoms appear, no treatment can save the patient's life.",
+    "chapterId": "micro_ch7",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch7_006",
+    "question": "What are the primary infection control responsibilities of a chest physiotherapist treating a patient with COVID-19 or Influenza on mechanical ventilation?",
+    "answer": "The chest physiotherapist must: 1) Wear complete PPE: N95 respirator (with seal check), face shield, fluid-resistant gown, and double gloves. 2) Minimize aerosol generation by using closed suctioning systems instead of open suctioning. 3) Disinfect the stethoscope and ventilator surfaces with 70% alcohol or sodium hypochlorite. 4) Conduct therapy in a negative pressure room or well-ventilated single isolation room to prevent airborne dissemination.",
+    "keyPoints": "Aerosol precautions, N95 respirator, closed suctioning, negative pressure room, surface disinfection.",
+    "clinicalImportance": "Protects the physiotherapist and prevents the hospital from becoming a vector for respiratory viral transmission, especially during high-risk airway clearance techniques.",
+    "chapterId": "micro_ch7",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch7_007",
+    "question": "Explain the biological rationale behind 'Universal Precautions.' Why are they applied even if a patient's medical chart has no infectious flags?",
+    "answer": "Universal Precautions are based on the principle that all human blood, body fluids, and secretions (except sweat) are treated as potentially infectious for bloodborne pathogens like HIV, HBV, and HCV. This is because many patients are asymptomatic carriers who are unaware of their status, or may be in the 'window period' of infection where diagnostic tests are false-negative. This clinical assumption protects healthcare workers from unrecognized exposure.",
+    "keyPoints": "Assumption of infection for all fluids, asymptomatic carrier state, window period, healthcare worker protection.",
+    "clinicalImportance": "Eliminates selective precaution application, establishing a safe, standardized clinical environment where every patient is managed with the same high level of biosafety.",
+    "chapterId": "micro_ch7",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch7_008",
+    "question": "What is the clinical significance of a CD4 T-cell count below 200 cells/\u00b5L in a patient with HIV, and how does this impact their neuro-rehabilitation?",
+    "answer": "A CD4 count below 200 cells/\u00b5L is the diagnostic threshold for AIDS, indicating profound cell-mediated immunodeficiency. The patient is highly susceptible to opportunistic neuro-infections such as Toxoplasma gondii brain abscesses, Cryptococcal meningitis, or Progressive Multifocal Leukoencephalopathy (PML). These infections present as acute focal neurological deficits (hemiplegia, ataxia, or cognitive impairment). During rehabilitation, the therapist must maintain strict isolation hygiene, monitor for new cognitive or sensory changes, and avoid fatigue-inducing exercise.",
+    "keyPoints": "AIDS threshold (<200 cells/\u00b5L), opportunistic neuro-infections, focal neurological deficits, infection control during PT.",
+    "clinicalImportance": "Guides the therapist to adapt rehabilitation to protect a severely immunocompromised nervous system and recognize early red flags of opportunistic CNS infections.",
+    "chapterId": "micro_ch7",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch8_001",
+    "question": "What is a nosocomial infection and what is the primary mode of transmission in clinical settings?",
+    "answer": "A nosocomial infection (or hospital-acquired infection, HAI) is an infection that develops in a patient 48 hours or more after admission to a healthcare facility, which was not incubating or present at the time of admission. The primary mode of transmission is horizontal contact transmission, most commonly via the contaminated hands of healthcare workers (including physiotherapists).",
+    "keyPoints": "Developed >= 48 hours post-admission; not present/incubating at admission; hands of healthcare staff are the primary vector.",
+    "clinicalImportance": "Highlights the absolute necessity of rigorous hand hygiene between patient contacts to prevent outbreaks in rehabilitation wards.",
+    "chapterId": "micro_ch8",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch8_002",
+    "question": "Detail the \"WHO 5 Moments of Hand Hygiene\" and explain why they are critical for a physical therapist.",
+    "answer": "The 5 Moments are: 1) Before touching a patient, 2) Before clean/aseptic procedures, 3) After body fluid exposure risk, 4) After touching a patient, and 5) After touching patient surroundings. They are critical for physical therapists because therapy involves prolonged, high-touch physical contact with both the patient and their immediate environment (e.g., walkers, plinths, bed rails), creating multiple opportunities for pathogen transfer.",
+    "keyPoints": "Five specific moments; protects both patient and therapist; therapist's high-touch contact nature.",
+    "clinicalImportance": "Prevents horizontal transmission of multidrug-resistant organisms (MDROs) like MRSA and Pseudomonas in rehabilitation settings.",
+    "chapterId": "micro_ch8",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch8_003",
+    "question": "Explain the biomedical waste segregation categories according to the Biomedical Waste Management Rules 2016 in India.",
+    "answer": "Under the 2016 rules, waste is segregated into four color-coded categories: 1) Yellow: Human anatomical waste, soiled waste (dressings, plaster casts, blood-contaminated cotton), expired medicines, and microbiology waste. 2) Red: Recyclable contaminated plastic waste (IV bottles, catheters, syringes without needles, tubing). 3) White (Puncture-proof translucent): Metallic sharps (needles, scalpels, blades). 4) Blue (Cardboard box with blue marking): Glassware, ampoules, and metallic implants.",
+    "keyPoints": "Yellow (soiled/anatomical/chemical); Red (recyclable plastic); White (sharps); Blue (glass/metals).",
+    "clinicalImportance": "Ensures safe disposal, prevents needle-stick injuries, and enables proper treatment (autoclaving, shredding, incineration).",
+    "chapterId": "micro_ch8",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch8_004",
+    "question": "Why are chest physiotherapy and endotracheal suctioning classified as Aerosol-Generating Procedures (AGPs)? What precautions must the therapist take?",
+    "answer": "Chest physiotherapy (including manual percussion, vibration, and cough-provocation) and endotracheal suctioning are classified as AGPs because they forcefully expel respiratory secretions from the airway, generating small droplet nuclei (<5 microns) that can remain suspended in the air. Precautions include: performing the procedure in a negative-pressure isolation room, wearing full PPE (fitted N95 respirator, face shield, fluid-resistant gown, and sterile gloves), and minimizing personnel in the room.",
+    "keyPoints": "Airway clearance/suctioning force out small droplet nuclei (<5 microns) that stay airborne; requires N95, negative pressure, and full PPE.",
+    "clinicalImportance": "Prevents airborne transmission of highly infectious respiratory pathogens (e.g., SARS-CoV-2, tuberculosis, influenza) to the therapist.",
+    "chapterId": "micro_ch8",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch8_005",
+    "question": "What is Methicillin-Resistant Staphylococcus aureus (MRSA) and what are its specific implications in a physiotherapy rehabilitation gym?",
+    "answer": "MRSA is a strain of Staphylococcus aureus that has developed resistance to beta-lactam antibiotics, including methicillin, penicillin, and cephalosporins. In a rehabilitation gym, MRSA is a major hazard because it survives exceptionally well on dry surfaces (e.g., dumbbells, vinyl mats, parallel bars). Patients with open wounds or skin-to-skin contact during therapy can easily contract or spread MRSA, leading to severe wound or soft tissue infections.",
+    "keyPoints": "Resistant to beta-lactams; environmental persistence on dry surfaces; gym equipment acts as a critical reservoir (fomite).",
+    "clinicalImportance": "Mandates strict disinfection of gym equipment between patient uses and contact isolation precautions for colonized patients.",
+    "chapterId": "micro_ch8",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch8_006",
+    "question": "Differentiate between endogenous and exogenous nosocomial infections with examples relevant to a physiotherapist.",
+    "answer": "Endogenous infections occur when the patient's own normal microflora translocates to a normally sterile body site (e.g., a patient in the ICU colonizing their own lower respiratory tract with gastric bacteria, leading to Ventilator-Associated Pneumonia). Exogenous infections result from pathogens acquired from external sources, such as contaminated clinical equipment or the hands of a physiotherapist (e.g., contracting MRSA from an improperly disinfected ultrasound head).",
+    "keyPoints": "Endogenous = self-flora translocation; Exogenous = external source (staff, equipment, environment).",
+    "clinicalImportance": "Emphasizes that both aseptic techniques (to prevent endogenous translocation) and surface disinfection (to prevent exogenous spread) are vital.",
+    "chapterId": "micro_ch8",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch8_007",
+    "question": "Describe the concept of \"Chain of Infection\" and how a physiotherapist can break it in a clinical setting.",
+    "answer": "The Chain of Infection consists of six links: 1) Infectious Agent (pathogen), 2) Reservoir (host/fomite), 3) Portal of Exit, 4) Mode of Transmission, 5) Portal of Entry, and 6) Susceptible Host. A physiotherapist can break this chain primarily at the \"Mode of Transmission\" link by performing strict hand hygiene, disinfecting shared therapy equipment, and using appropriate PPE, and at the \"Portal of Entry\" by practicing aseptic techniques during dry needling.",
+    "keyPoints": "Six links; Mode of Transmission is the easiest link to break in rehabilitation clinics; Hand hygiene and sanitization are the primary tools.",
+    "clinicalImportance": "Provides a systematic framework for understanding how infections spread and where clinical interventions are most effective.",
+    "chapterId": "micro_ch8",
+    "subjectId": "microbiology"
+  },
+  {
+    "id": "viva_micro_ch8_008",
+    "question": "What is Ventilator-Associated Pneumonia (VAP) and what role does infection control during physical therapy play in its prevention?",
+    "answer": "VAP is a nosocomial lung infection that develops in mechanically ventilated patients 48 hours or more after endotracheal intubation. Physical therapists play a critical role in VAP prevention by performing chest physiotherapy to clear secretions and early mobility to improve ventilation-perfusion. However, therapists must maintain strict infection control\u2014such as practicing hand hygiene before touching the ventilator circuit, using closed suction systems, and ensuring condensation in the tubing does not drain back into the patient's lungs.",
+    "keyPoints": "Lung infection >= 48 hours after intubation; chest PT helps clear secretions but must avoid contaminating the airway; ventilator circuit care.",
+    "clinicalImportance": "Significantly reduces ICU mortality, duration of mechanical ventilation, and hospital stay for critically ill patients.",
+    "chapterId": "micro_ch8",
     "subjectId": "microbiology"
   }
 ]

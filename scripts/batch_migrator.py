@@ -45,9 +45,89 @@ CHAPT_MAPPING.extend([
     {
         "subject": "Electrotherapy II",
         "subjectId": "electrotherapy_ii",
+        "chapterId": "et2_ift",
+        "original_file": "app/src/main/assets/content/electrotherapy_ii/et2_ift.json",
+        "target_file": "et2_ift.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Electrotherapy II",
+        "subjectId": "electrotherapy_ii",
         "chapterId": "el2_ch2",
         "original_file": "app/src/main/assets/content/electrotherapy_ii/et_el2_ch2.json",
         "target_file": "et_el2_ch2.json",
+        "is_pucs": True
+    },
+    {
+        "subject": "Electrotherapy II",
+        "subjectId": "electrotherapy_ii",
+        "chapterId": "el2_ch3",
+        "original_file": "app/src/main/assets/content/electrotherapy_ii/et_el2_ch3.json",
+        "target_file": "et_el2_ch3.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Electrotherapy II",
+        "subjectId": "electrotherapy_ii",
+        "chapterId": "el2_ch4",
+        "original_file": "app/src/main/assets/content/electrotherapy_ii/et_el2_ch4.json",
+        "target_file": "et_el2_ch4.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Electrotherapy II",
+        "subjectId": "electrotherapy_ii",
+        "chapterId": "el2_ch5",
+        "original_file": "app/src/main/assets/content/electrotherapy_ii/et_el2_ch5.json",
+        "target_file": "et_el2_ch5.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Electrotherapy II",
+        "subjectId": "electrotherapy_ii",
+        "chapterId": "el2_ch6",
+        "original_file": "app/src/main/assets/content/electrotherapy_ii/et_el2_ch6.json",
+        "target_file": "et_el2_ch6.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Electrotherapy II",
+        "subjectId": "electrotherapy_ii",
+        "chapterId": "el2_ch7",
+        "original_file": "app/src/main/assets/content/electrotherapy_ii/et_el2_ch7.json",
+        "target_file": "et_el2_ch7.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Electrotherapy II",
+        "subjectId": "electrotherapy_ii",
+        "chapterId": "el2_ch8",
+        "original_file": "app/src/main/assets/content/electrotherapy_ii/et_el2_ch8.json",
+        "target_file": "et_el2_ch8.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Electrotherapy II",
+        "subjectId": "electrotherapy_ii",
+        "chapterId": "el2_ch9",
+        "original_file": "app/src/main/assets/content/electrotherapy_ii/et_el2_ch9.json",
+        "target_file": "et_el2_ch9.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Electrotherapy II",
+        "subjectId": "electrotherapy_ii",
+        "chapterId": "el2_ch10",
+        "original_file": "app/src/main/assets/content/electrotherapy_ii/et_el2_ch10.json",
+        "target_file": "et_el2_ch10.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Electrotherapy II",
+        "subjectId": "electrotherapy_ii",
+        "chapterId": "el2_ch11",
+        "original_file": "app/src/main/assets/content/electrotherapy_ii/et_el2_ch11.json",
+        "target_file": "et_el2_ch11.json",
         "is_pucs": False
     }
 ])
@@ -69,6 +149,118 @@ CHAPT_MAPPING.extend([
         "chapterId": "path_ch1",
         "original_file": "app/src/main/assets/content/pathology/path_ch1.json",
         "target_file": "pathology/path_ch1.json",
+        "is_pucs": True
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch2",
+        "original_file": "app/src/main/assets/content/pathology/path_ch2.json",
+        "target_file": "pathology/path_ch2.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch3",
+        "original_file": "app/src/main/assets/content/pathology/path_ch3.json",
+        "target_file": "pathology/path_ch3.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch4",
+        "original_file": "app/src/main/assets/content/pathology/path_ch4.json",
+        "target_file": "pathology/path_ch4.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch5",
+        "original_file": "app/src/main/assets/content/pathology/path_ch5.json",
+        "target_file": "pathology/path_ch5.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch6",
+        "original_file": "app/src/main/assets/content/pathology/path_ch6.json",
+        "target_file": "pathology/path_ch6.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch7",
+        "original_file": "app/src/main/assets/content/pathology/path_ch7.json",
+        "target_file": "pathology/path_ch7.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch8",
+        "original_file": "app/src/main/assets/content/pathology/path_ch8.json",
+        "target_file": "pathology/path_ch8.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch9",
+        "original_file": "app/src/main/assets/content/pathology/path_ch9.json",
+        "target_file": "pathology/path_ch9.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch10",
+        "original_file": "app/src/main/assets/content/pathology/path_ch10.json",
+        "target_file": "pathology/path_ch10.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch11",
+        "original_file": "app/src/main/assets/content/pathology/path_ch11.json",
+        "target_file": "pathology/path_ch11.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch12",
+        "original_file": "app/src/main/assets/content/pathology/path_ch12.json",
+        "target_file": "pathology/path_ch12.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch13",
+        "original_file": "app/src/main/assets/content/pathology/path_ch13.json",
+        "target_file": "pathology/path_ch13.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch14",
+        "original_file": "app/src/main/assets/content/pathology/path_ch14.json",
+        "target_file": "pathology/path_ch14.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pathology",
+        "subjectId": "pathology",
+        "chapterId": "path_ch15",
+        "original_file": "app/src/main/assets/content/pathology/path_ch15.json",
+        "target_file": "pathology/path_ch15.json",
         "is_pucs": False
     },
     {
@@ -77,6 +269,94 @@ CHAPT_MAPPING.extend([
         "chapterId": "pharm_ch1",
         "original_file": "app/src/main/assets/content/pharmacology/pharm_ch1.json",
         "target_file": "pharmacology/pharm_ch1.json",
+        "is_pucs": True
+    },
+    {
+        "subject": "Pharmacology",
+        "subjectId": "pharmacology",
+        "chapterId": "pharm_ch2",
+        "original_file": "app/src/main/assets/content/pharmacology/pharm_ch2.json",
+        "target_file": "pharmacology/pharm_ch2.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pharmacology",
+        "subjectId": "pharmacology",
+        "chapterId": "pharm_ch3",
+        "original_file": "app/src/main/assets/content/pharmacology/pharm_ch3.json",
+        "target_file": "pharmacology/pharm_ch3.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pharmacology",
+        "subjectId": "pharmacology",
+        "chapterId": "pharm_ch4",
+        "original_file": "app/src/main/assets/content/pharmacology/pharm_ch4.json",
+        "target_file": "pharmacology/pharm_ch4.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pharmacology",
+        "subjectId": "pharmacology",
+        "chapterId": "pharm_ch5",
+        "original_file": "app/src/main/assets/content/pharmacology/pharm_ch5.json",
+        "target_file": "pharmacology/pharm_ch5.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pharmacology",
+        "subjectId": "pharmacology",
+        "chapterId": "pharm_ch6",
+        "original_file": "app/src/main/assets/content/pharmacology/pharm_ch6.json",
+        "target_file": "pharmacology/pharm_ch6.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pharmacology",
+        "subjectId": "pharmacology",
+        "chapterId": "pharm_ch7",
+        "original_file": "app/src/main/assets/content/pharmacology/pharm_ch7.json",
+        "target_file": "pharmacology/pharm_ch7.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pharmacology",
+        "subjectId": "pharmacology",
+        "chapterId": "pharm_ch8",
+        "original_file": "app/src/main/assets/content/pharmacology/pharm_ch8.json",
+        "target_file": "pharmacology/pharm_ch8.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pharmacology",
+        "subjectId": "pharmacology",
+        "chapterId": "pharm_ch9",
+        "original_file": "app/src/main/assets/content/pharmacology/pharm_ch9.json",
+        "target_file": "pharmacology/pharm_ch9.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pharmacology",
+        "subjectId": "pharmacology",
+        "chapterId": "pharm_ch10",
+        "original_file": "app/src/main/assets/content/pharmacology/pharm_ch10.json",
+        "target_file": "pharmacology/pharm_ch10.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pharmacology",
+        "subjectId": "pharmacology",
+        "chapterId": "pharm_ch11",
+        "original_file": "app/src/main/assets/content/pharmacology/pharm_ch11.json",
+        "target_file": "pharmacology/pharm_ch11.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Pharmacology",
+        "subjectId": "pharmacology",
+        "chapterId": "pharm_ch12",
+        "original_file": "app/src/main/assets/content/pharmacology/pharm_ch12.json",
+        "target_file": "pharmacology/pharm_ch12.json",
         "is_pucs": False
     },
     {
@@ -85,6 +365,62 @@ CHAPT_MAPPING.extend([
         "chapterId": "micro_ch1",
         "original_file": "app/src/main/assets/content/microbiology/micro_ch1.json",
         "target_file": "microbiology/micro_ch1.json",
+        "is_pucs": True
+    },
+    {
+        "subject": "Microbiology",
+        "subjectId": "microbiology",
+        "chapterId": "micro_ch2",
+        "original_file": "app/src/main/assets/content/microbiology/micro_ch2.json",
+        "target_file": "microbiology/micro_ch2.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Microbiology",
+        "subjectId": "microbiology",
+        "chapterId": "micro_ch3",
+        "original_file": "app/src/main/assets/content/microbiology/micro_ch3.json",
+        "target_file": "microbiology/micro_ch3.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Microbiology",
+        "subjectId": "microbiology",
+        "chapterId": "micro_ch4",
+        "original_file": "app/src/main/assets/content/microbiology/micro_ch4.json",
+        "target_file": "microbiology/micro_ch4.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Microbiology",
+        "subjectId": "microbiology",
+        "chapterId": "micro_ch5",
+        "original_file": "app/src/main/assets/content/microbiology/micro_ch5.json",
+        "target_file": "microbiology/micro_ch5.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Microbiology",
+        "subjectId": "microbiology",
+        "chapterId": "micro_ch6",
+        "original_file": "app/src/main/assets/content/microbiology/micro_ch6.json",
+        "target_file": "microbiology/micro_ch6.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Microbiology",
+        "subjectId": "microbiology",
+        "chapterId": "micro_ch7",
+        "original_file": "app/src/main/assets/content/microbiology/micro_ch7.json",
+        "target_file": "microbiology/micro_ch7.json",
+        "is_pucs": False
+    },
+    {
+        "subject": "Microbiology",
+        "subjectId": "microbiology",
+        "chapterId": "micro_ch8",
+        "original_file": "app/src/main/assets/content/microbiology/micro_ch8.json",
+        "target_file": "microbiology/micro_ch8.json",
         "is_pucs": False
     }
 ])

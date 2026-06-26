@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "chapterId": "path_ch6",
+    "title": "",
+    "subject": "Pathology",
+    "subjectId": "pathology",
+    "version": "1.0",
+    "lastUpdated": "2026-06-26",
+    "status": "published",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": []
+  },
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [],
+    "coreConcepts": [],
+    "equipment": []
+  },
+  "clinicalCorrelations": {
+    "pearls": [],
+    "precautions": [],
+    "indications": [],
+    "contraindications": {
+      "general": [],
+      "local": []
+    },
+    "technique": {
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": []
+    },
+    "protocols": [],
+    "physiologicalEffects": []
+  },
+  "clinicalCases": [],
+  "subjectExtensions": {},
+  "mcqs": [
+    {
+      "id": "mcq_path_ch6_001",
+      "question": "Which of the following terms is used to describe a malignant tumor arising from mesenchymal (connective) tissue?",
+      "options": [
+        "Carcinoma",
+        "Adenoma",
+        "Sarcoma",
+        "Papilloma"
+      ],
+      "answer": "Sarcoma",
+      "explanation": "Malignant tumors arising in solid mesenchymal tissues (like bone, cartilage, fat, or muscle) are termed sarcomas (e.g., osteosarcoma, liposarcoma)."
+    },
+    {
+      "id": "mcq_path_ch6_002",
+      "question": "Which of the following is the single most definitive criterion indicating that a neoplasm is malignant?",
+      "options": [
+        "Rapid rate of growth",
+        "Presence of a capsule",
+        "Lack of differentiation (Anaplasia)",
+        "Capacity to metastasize"
+      ],
+      "answer": "Capacity to metastasize",
+      "explanation": "Metastasis, the spread of a tumor to distant sites, unequivocally marks a tumor as malignant, as benign tumors never metastasize."
+    },
+    {
+      "id": "mcq_path_ch6_003",
+      "question": "Which is the most common pathway for the initial dissemination of carcinomas?",
+      "options": [
+        "Hematogenous spread",
+        "Lymphatic spread",
+        "Direct seeding of body cavities",
+        "Perineural invasion"
+      ],
+      "answer": "Lymphatic spread",
+      "explanation": "While sarcomas typically favor hematogenous (blood) spread, carcinomas most frequently utilize lymphatic vessels for initial dissemination to regional lymph nodes."
+    },
+    {
+      "id": "mcq_path_ch6_004",
+      "question": "A tumor that contains mature or immature tissues derived from more than one germ cell layer (e.g., hair, teeth, muscle, thyroid) is called a:",
+      "options": [
+        "Choristoma",
+        "Hamartoma",
+        "Teratoma",
+        "Melanoma"
+      ],
+      "answer": "Teratoma",
+      "explanation": "Teratomas originate from totipotential germ cells and can differentiate into varied tissues representing ectoderm, endoderm, and mesoderm."
+    },
+    {
+      "id": "mcq_path_ch6_005",
+      "question": "In oncology, the TNM system is widely used. What does this system evaluate?",
+      "options": [
+        "Tumor grading based on cellular differentiation",
+        "Tumor staging based on size, node involvement, and metastasis",
+        "The specific genetic mutations causing the cancer",
+        "The histological origin of the neoplastic cells"
+      ],
+      "answer": "Tumor staging based on size, node involvement, and metastasis",
+      "explanation": "The TNM system is used for clinical Staging: T for primary Tumor size, N for regional lymph Node involvement, and M for distant Metastasis."
+    },
+    {
+      "id": "mcq_path_ch6_006",
+      "question": "The p53 gene is frequently mutated in human cancers. What is its normal cellular function?",
+      "options": [
+        "It promotes uncontrolled cell division.",
+        "It stimulates angiogenesis in new tumors.",
+        "It acts as a tumor suppressor, arresting the cell cycle to allow DNA repair or inducing apoptosis.",
+        "It acts as an oncogene driving malignant transformation."
+      ],
+      "answer": "It acts as a tumor suppressor, arresting the cell cycle to allow DNA repair or inducing apoptosis.",
+      "explanation": "The p53 gene is a critical tumor suppressor gene ('guardian of the genome'). Its loss or mutation allows cells with damaged DNA to survive and divide."
+    },
+    {
+      "id": "mcq_path_ch6_007",
+      "question": "A benign tumor of glandular epithelium is specifically termed a(n):",
+      "options": [
+        "Adenoma",
+        "Fibroma",
+        "Adenocarcinoma",
+        "Lipoma"
+      ],
+      "answer": "Adenoma",
+      "explanation": "An adenoma is a benign epithelial neoplasm that forms glandular patterns or is derived from glands. The malignant counterpart is an adenocarcinoma."
+    },
+    {
+      "id": "mcq_path_ch6_008",
+      "question": "Lack of differentiation, a hallmark of malignant cells characterized by pleomorphism and hyperchromatic nuclei, is termed:",
+      "options": [
+        "Dysplasia",
+        "Metaplasia",
+        "Hyperplasia",
+        "Anaplasia"
+      ],
+      "answer": "Anaplasia",
+      "explanation": "Anaplasia means 'to form backward' and implies a dedifferentiation or loss of structural and functional differentiation of normal cells."
+    },
+    {
+      "id": "mcq_path_ch6_009",
+      "question": "Which of the following cancers is strongly associated with Human Papillomavirus (HPV) infection?",
+      "options": [
+        "Lung carcinoma",
+        "Hepatocellular carcinoma",
+        "Cervical carcinoma",
+        "Gastric carcinoma"
+      ],
+      "answer": "Cervical carcinoma",
+      "explanation": "Certain high-risk strains of HPV (especially 16 and 18) are strongly implicated in the pathogenesis of cervical squamous cell carcinoma."
+    },
+    {
+      "id": "mcq_path_ch6_010",
+      "question": "Why must physiotherapists exercise extreme caution when treating patients with advanced breast, lung, or prostate cancer?",
+      "options": [
+        "These cancers release neurotoxins causing immediate paralysis.",
+        "These cancers frequently metastasize to bone, increasing the risk of pathologic fractures during physical activity.",
+        "Exercise promotes the rapid spread of these specific cancers.",
+        "These cancers are highly contagious through skin contact."
+      ],
+      "answer": "These cancers frequently metastasize to bone, increasing the risk of pathologic fractures during physical activity.",
+      "explanation": "Prostate, breast, lung, thyroid, and kidney cancers have a high propensity to metastasize to bone, structurally weakening it and making it prone to fracture under normal mechanical stress."
+    }
+  ],
+  "viva": [],
+  "flashcards": [],
+  "pyqs": [],
+  "references": []
+}

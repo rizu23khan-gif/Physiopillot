@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "chapterId": "path_ch7",
+    "title": "",
+    "subject": "Pathology",
+    "subjectId": "pathology",
+    "version": "1.0",
+    "lastUpdated": "2026-06-26",
+    "status": "published",
+    "difficulty": "Medium",
+    "estimatedStudyTime": 60,
+    "keywords": [],
+    "tags": []
+  },
+  "learningObjectives": [],
+  "theory": {
+    "definitions": [],
+    "coreConcepts": [],
+    "equipment": []
+  },
+  "clinicalCorrelations": {
+    "pearls": [],
+    "precautions": [],
+    "indications": [],
+    "contraindications": {
+      "general": [],
+      "local": []
+    },
+    "technique": {
+      "patientPreparation": [],
+      "apparatusPreparation": [],
+      "skinPreparation": [],
+      "electrodePlacement": [],
+      "treatmentProcedure": []
+    },
+    "protocols": [],
+    "physiologicalEffects": []
+  },
+  "clinicalCases": [],
+  "subjectExtensions": {},
+  "mcqs": [
+    {
+      "id": "mcq_path_ch7_001",
+      "question": "A child presents with severe generalized edema, a 'flaky paint' skin rash, and an enlarged liver. Diet history reveals adequate calories but almost no protein. What is the most likely diagnosis?",
+      "options": [
+        "Marasmus",
+        "Kwashiorkor",
+        "Scurvy",
+        "Rickets"
+      ],
+      "answer": "Kwashiorkor",
+      "explanation": "Kwashiorkor is characterized by protein malnutrition leading to hypoalbuminemia and subsequent edema, fatty liver, and skin lesions."
+    },
+    {
+      "id": "mcq_path_ch7_002",
+      "question": "Which of the following vitamin deficiencies is the primary cause of osteomalacia in adults and rickets in children?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin D",
+      "explanation": "Vitamin D is essential for intestinal absorption of calcium and phosphorus, and its deficiency leads to defective bone mineralization (Rickets in kids, Osteomalacia in adults)."
+    },
+    {
+      "id": "mcq_path_ch7_003",
+      "question": "A patient complains of bleeding gums, easy bruising, and poor wound healing. A deficiency in which vitamin is most likely responsible?",
+      "options": [
+        "Vitamin B1 (Thiamine)",
+        "Vitamin B3 (Niacin)",
+        "Vitamin C (Ascorbic acid)",
+        "Vitamin B12 (Cobalamin)"
+      ],
+      "answer": "Vitamin C (Ascorbic acid)",
+      "explanation": "Vitamin C deficiency causes Scurvy, which impairs collagen synthesis, leading to fragile blood vessels (bleeding gums, bruising) and poor wound healing."
+    },
+    {
+      "id": "mcq_path_ch7_004",
+      "question": "Which of the following findings is uniquely associated with Vitamin B12 deficiency and is NOT seen in folate deficiency?",
+      "options": [
+        "Megaloblastic anemia",
+        "Glossitis",
+        "Subacute combined degeneration of the spinal cord",
+        "Fatigue and weakness"
+      ],
+      "answer": "Subacute combined degeneration of the spinal cord",
+      "explanation": "While both B12 and folate deficiencies cause megaloblastic anemia, only B12 deficiency causes demyelination in the spinal cord, leading to severe neurological symptoms."
+    },
+    {
+      "id": "mcq_path_ch7_005",
+      "question": "Pellagra, characterized by the classic triad of dermatitis, diarrhea, and dementia, is caused by a deficiency of:",
+      "options": [
+        "Thiamine",
+        "Riboflavin",
+        "Niacin",
+        "Pyridoxine"
+      ],
+      "answer": "Niacin",
+      "explanation": "Niacin (Vitamin B3) deficiency leads to Pellagra. It is historically associated with diets heavily dependent on corn."
+    },
+    {
+      "id": "mcq_path_ch7_006",
+      "question": "Severe calorie deficiency leading to extreme muscle wasting, loss of subcutaneous fat, and an 'old man' appearance in infants is diagnosed as:",
+      "options": [
+        "Marasmus",
+        "Kwashiorkor",
+        "Beriberi",
+        "Pellagra"
+      ],
+      "answer": "Marasmus",
+      "explanation": "Marasmus is somatic compartment protein and calorie depletion resulting in severe emaciation, distinct from the visceral protein depletion seen in Kwashiorkor."
+    },
+    {
+      "id": "mcq_path_ch7_007",
+      "question": "A chronic alcoholic patient presents with ataxia, confusion, and ophthalmoplegia (Wernicke's encephalopathy). This is primarily due to a deficiency in:",
+      "options": [
+        "Vitamin B1 (Thiamine)",
+        "Vitamin B6 (Pyridoxine)",
+        "Vitamin B9 (Folate)",
+        "Vitamin A"
+      ],
+      "answer": "Vitamin B1 (Thiamine)",
+      "explanation": "Wernicke-Korsakoff syndrome is a severe neurological manifestation of Thiamine (B1) deficiency, frequently seen in chronic alcoholics."
+    },
+    {
+      "id": "mcq_path_ch7_008",
+      "question": "Night blindness and xerophthalmia (dry eyes) are early clinical manifestations of a deficiency in which fat-soluble vitamin?",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin E",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin A",
+      "explanation": "Vitamin A is essential for the maintenance of normal vision (component of rhodopsin) and the health of epithelial surfaces."
+    },
+    {
+      "id": "mcq_path_ch7_009",
+      "question": "Which of the following statements regarding fat-soluble vitamins is correct?",
+      "options": [
+        "They are readily excreted in urine and rarely cause toxicity.",
+        "They include vitamins B-complex and C.",
+        "They require dietary lipids and bile salts for adequate intestinal absorption.",
+        "They act primarily as coenzymes in energy metabolism pathways."
+      ],
+      "answer": "They require dietary lipids and bile salts for adequate intestinal absorption.",
+      "explanation": "Fat-soluble vitamins (A, D, E, K) require normal fat digestion and absorption mechanisms. They are stored in tissues and can cause toxicity if taken in excess."
+    },
+    {
+      "id": "mcq_path_ch7_010",
+      "question": "Which of the following is a key biomechanical implication of obesity that is of primary concern to physiotherapists?",
+      "options": [
+        "Increased risk of megaloblastic anemia",
+        "Accelerated development of osteoporosis",
+        "Increased mechanical loading leading to early onset osteoarthritis in weight-bearing joints",
+        "Decreased risk of type 2 diabetes"
+      ],
+      "answer": "Increased mechanical loading leading to early onset osteoarthritis in weight-bearing joints",
+      "explanation": "Obesity greatly increases the mechanical stress on weight-bearing joints like the hips and knees, accelerating cartilage wear and causing osteoarthritis."
+    }
+  ],
+  "viva": [],
+  "flashcards": [],
+  "pyqs": [],
+  "references": []
+}
